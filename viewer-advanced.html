@@ -797,7 +797,7 @@
 
 <script>
     // تنظیمات - لینک مستقیم به فایل JSON در GitHub
-    const JSON_URL = 'https://raw.githubusercontent.com/avangardistic/telegram-mirror/refs/heads/main/posts.json';
+    const JSON_URL = 'https://raw.githubusercontent.com/bugbounted/telegram-mirror/refs/heads/main/posts.json';
     let postsData = null;
     let currentChannel = null;
     let isLoading = false;
@@ -805,7 +805,7 @@
     function getMediaUrl(media) {
         const file = media?.file || (media?.path ? media.path.split('/').pop() : '');
         // مسیر مستقیم به فایل‌های رسانه در GitHub
-        return file ? `https://raw.githubusercontent.com/avangardistic/telegram-mirror/refs/heads/main/media/${encodeURIComponent(file)}` : '';
+        return file ? `https://raw.githubusercontent.com/bugbounted/telegram-mirror/refs/heads/main/media/${encodeURIComponent(file)}` : '';
     }
 
     // کش
