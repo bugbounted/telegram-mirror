@@ -2,6 +2,98 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 121322,
+        "text": "⤷\nTitle:\nThe Next API Security Problem: Agentic API Execution\n════════════════════════\n𐀪\nAuthor:\nKrishna\n════════════════════════\nⴵ\nTime:\nThu, 04 Jun 2026 22:03:48 GMT\n════════════════════════\n⌗\nTags:\n#agentic_ai\n#developer\n#ai_agent\n#api_security\n#cybersecurity",
+        "date": "2026-06-04T23:03:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121322_0_cc2382fe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121322_1_46caafca.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121322",
+        "link": {
+          "title": "The Next API Security Problem: Agentic API Execution",
+          "url": "https://medium.com/@rk1590/the-next-api-security-problem-agentic-api-execution-6f57b48969dd?source=rss------api_security-5"
+        }
+      },
+      {
+        "id": 121321,
+        "text": "⤷\nTitle:\nTryHackMe Pickle Rick Complete Walkthrough\n════════════════════════\n𐀪\nAuthor:\nGohilharsh\n════════════════════════\nⴵ\nTime:\nThu, 04 Jun 2026 21:35:56 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#penetration_testing\n#tryhackme\n#cybersecurity",
+        "date": "2026-06-04T23:03:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121321_0_cc2382fe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121321_1_1af8a9b6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121321",
+        "link": {
+          "title": "TryHackMe Pickle Rick Complete Walkthrough",
+          "url": "https://medium.com/@gohilharsh166/tryhackme-pickle-rick-complete-walkthrough-21733c027f7a?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 121320,
+        "text": "⤷\nTitle:\nThe OWASP LLM Top 10 — What Every Developer Needs to Know\n════════════════════════\n𐀪\nAuthor:\nKay Adelaja\n════════════════════════\nⴵ\nTime:\nThu, 04 Jun 2026 22:25:36 GMT\n════════════════════════\n⌗\nTags:\n#application_security\n#cybersecurity\n#artificial_intelligence",
+        "date": "2026-06-04T23:03:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121320_0_cc2382fe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121320_1_eb6cb88d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121320",
+        "link": {
+          "title": "The OWASP LLM Top 10 — What Every Developer Needs to Know",
+          "url": "https://medium.com/@akolade.adelaja/the-owasp-llm-top-10-what-every-developer-needs-to-know-bb75df670a20?source=rss------application_security-5"
+        }
+      },
+      {
+        "id": 121319,
+        "text": "⤷\nTitle:\nMaster Guide: Solving All PortSwigger CORS Vulnerabilities\n════════════════════════\n𐀪\nAuthor:\nAyeshaaghafoor\n════════════════════════\nⴵ\nTime:\nThu, 04 Jun 2026 22:35:43 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#cybersecurity\n#education\n#bug_bounty\n#web_security",
+        "date": "2026-06-04T23:03:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121319_0_cc2382fe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121319_1_6fa60855.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121319",
+        "link": {
+          "title": "Master Guide: Solving All PortSwigger CORS Vulnerabilities",
+          "url": "https://medium.com/@ayeshaaghafoor48/master-guide-solving-all-portswigger-cors-vulnerabilities-37e8b912ce6b?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 121318,
         "text": "⤷\nTitle:\nI Know CPCSC Is Coming. What Do I Do, and When?\n════════════════════════\n𐀪\nAuthor:\nYounos Nazarian\n════════════════════════\nⴵ\nTime:\nThu, 04 Jun 2026 19:49:53 GMT\n════════════════════════\n⌗\nTags:\n#cpcsc\n#cybersecurity\n#defense\n#cmmc\n#infosec",
         "date": "2026-06-04T21:04:00+00:00",
@@ -861,19 +953,19 @@
       }
     ]
   },
-  "last_update": "2026-06-04T22:18:23.464885+00:00",
+  "last_update": "2026-06-04T23:43:39.653735+00:00",
   "last_cleanup": null,
   "statistics": {
-    "total_posts": 38,
-    "total_media": 72,
-    "total_files": 72,
+    "total_posts": 42,
+    "total_media": 80,
+    "total_files": 80,
     "total_links": 0,
     "files_by_type": {
-      "image": 72
+      "image": 80
     },
-    "referenced_files": 72,
-    "existing_media_files": 72,
-    "total_size_mb": 2.04,
-    "last_calculation": "2026-06-04T22:18:23.465798+00:00"
+    "referenced_files": 80,
+    "existing_media_files": 80,
+    "total_size_mb": 2.47,
+    "last_calculation": "2026-06-04T23:43:39.654737+00:00"
   }
 }
