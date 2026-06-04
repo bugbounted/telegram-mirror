@@ -1,10 +1,10 @@
 name: 🔄 Telegram Mirror Auto-Update
 
 on:
+  # Use single cron expression to avoid conflicts (most reliable)
   schedule:
-    - cron: '*/30 * * * *'
-    - cron: '0 */6 * * *'
-    - cron: '0 2 * * *'
+    - cron: '*/30 * * * *'  # Every 30 minutes
+  # Keep manual trigger for testing
   workflow_dispatch:
     inputs:
       post_limit:
@@ -20,6 +20,7 @@ on:
         required: false
         type: boolean
         default: false
+  # Keep push trigger for updates
   push:
     branches: [main]
     paths:
@@ -29,10 +30,12 @@ on:
       - 'requirements.txt'
       - '.github/workflows/update.yml'
 
+# Ensure workflow has necessary permissions
 permissions:
   contents: write
   actions: read
 
+# Prevent concurrent runs
 concurrency:
   group: telegram-mirror-update
   cancel-in-progress: false
@@ -59,6 +62,25 @@ jobs:
     timeout-minutes: 25
 
     steps:
+      # DEBUG: Log when workflow actually runs
+      - name: 🔍 Debug schedule trigger
+        run: |
+          echo "========================================="
+          echo "Triggered by: ${{ github.event_name }}"
+          echo "Current UTC time: $(date -u)"
+          echo "Expected schedule pattern: */30 * * * *"
+          echo "Run ID: ${{ github.run_id }}"
+          echo "Repository: ${{ github.repository }}"
+          echo "Branch: ${{ github.ref_name }}"
+          echo "========================================="
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            echo "✅ This is a scheduled run"
+          elif [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "🔄 This is a manual run"
+          elif [ "${{ github.event_name }}" = "push" ]; then
+            echo "📦 This is a push-triggered run"
+          fi
+
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
@@ -150,6 +172,7 @@ jobs:
           mkdir -p logs
           {
             echo "Last run: $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+            echo "Trigger event: ${{ github.event_name }}"
             echo "Workflow: $GITHUB_RUN_ID"
             echo "Repository: $GITHUB_REPOSITORY"
             echo "Validation: ${{ steps.validation.outcome }}"
