@@ -727,6 +727,48 @@ def absolute_url(url: str) -> str:
     return urljoin("https://t.me", url)
 
 
+def extract_title_link(msg_element: Any) -> Optional[Dict[str, str]]:
+    """Extract the first title link from the message text if it follows the pattern.
+    
+    Looks for patterns like:
+    ⤷ <b>Title: </b><a href="..."><b>Title Text</b></a>
+    """
+    text_elem = msg_element.select_one(".tgme_widget_message_text")
+    if not text_elem:
+        return None
+    
+    # Find the first bold tag that contains "Title:" 
+    bold_tags = text_elem.find_all('b')
+    title_bold = None
+    for bold in bold_tags:
+        if 'title:' in bold.get_text(strip=True).lower():
+            title_bold = bold
+            break
+    
+    if not title_bold:
+        return None
+    
+    # Find the next <a> tag after the "Title:" bold tag
+    link_tag = title_bold.find_next('a')
+    if not link_tag or not link_tag.get('href'):
+        return None
+    
+    # Extract the title text from within the link (removing nested <b> tags)
+    title_text = link_tag.get_text(strip=True)
+    link_url = link_tag.get('href', '')
+    
+    # Make sure it's an absolute URL
+    if link_url.startswith('/'):
+        link_url = f"https://t.me{link_url}"
+    elif not link_url.startswith(('http://', 'https://')):
+        link_url = urljoin("https://t.me", link_url)
+    
+    return {
+        "title": title_text,
+        "url": link_url
+    }
+
+
 def extract_media_from_post(msg_element: Any, channel: str, post_id: int) -> List[Dict[str, str]]:
     """Extract media links from Telegram message HTML."""
     media: List[Dict[str, str]] = []
@@ -799,9 +841,13 @@ def parse_posts(html: str, channel: str, existing_ids: Set[int]) -> List[Dict[st
         if len(text) > max_text:
             text = text[:max_text] + "..."
 
+        # Extract the title link
+        title_link = extract_title_link(msg)
+        
         media = extract_media_from_post(msg, channel, post_id)
         links = extract_links_from_text(text)
-        posts.append({
+        
+        post_data = {
             "id": post_id,
             "text": text,
             "date": date,
@@ -810,7 +856,13 @@ def parse_posts(html: str, channel: str, existing_ids: Set[int]) -> List[Dict[st
             "has_media": bool(media),
             "has_links": bool(links),
             "source": f"https://t.me/{channel}/{post_id}",
-        })
+        }
+        
+        # Add the link field if a title link was found
+        if title_link:
+            post_data["link"] = title_link
+        
+        posts.append(post_data)
 
     posts.sort(key=lambda item: item["id"], reverse=True)
     return posts
@@ -1035,6 +1087,15 @@ def self_test() -> int:
             errors.append("HTML parser self-test failed")
     finally:
         CONFIG["processing"]["skip_old_posts"] = with_skip
+    
+    # Test title link extraction
+    title_html = '<div class="tgme_widget_message" data-post="demo/1"><time datetime="2026-01-01T00:00:00+00:00"></time><div class="tgme_widget_message_text" dir="auto">⤷ <b>Title: </b><a href="https://medium.com/article" target="_blank"><b>Test Article Title</b></a><br>Other text</div></div>'
+    soup = BeautifulSoup(title_html, "lxml")
+    msg = soup.select_one(".tgme_widget_message")
+    title_link = extract_title_link(msg)
+    if not title_link or title_link.get("title") != "Test Article Title" or title_link.get("url") != "https://medium.com/article":
+        errors.append("Title link extraction self-test failed")
+    
     if errors:
         for error in errors:
             logger.error(error)
