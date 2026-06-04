@@ -436,6 +436,86 @@
             gap: 6px;
         }
 
+        /* لینک عنوان پست */
+        .post-title-link {
+            display: block;
+            background: linear-gradient(135deg, rgba(99, 102, 241, 0.15), rgba(139, 92, 246, 0.15));
+            border: 1px solid rgba(99, 102, 241, 0.3);
+            border-radius: 16px;
+            padding: 16px 20px;
+            margin-bottom: 20px;
+            color: white;
+            text-decoration: none;
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .post-title-link::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: linear-gradient(135deg, rgba(99, 102, 241, 0.1), rgba(139, 92, 246, 0.1));
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }
+
+        .post-title-link:hover {
+            transform: translateY(-2px);
+            border-color: rgba(99, 102, 241, 0.6);
+            box-shadow: 0 0 20px rgba(99, 102, 241, 0.2);
+        }
+
+        .post-title-link:hover::before {
+            opacity: 1;
+        }
+
+        .title-label {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            background: linear-gradient(135deg, var(--primary), var(--secondary));
+            color: white;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            font-weight: 600;
+            margin-bottom: 10px;
+        }
+
+        .title-text {
+            font-size: 1.1rem;
+            font-weight: 700;
+            color: white;
+            margin: 8px 0;
+            line-height: 1.5;
+            position: relative;
+            z-index: 1;
+        }
+
+        .title-url {
+            font-size: 0.8rem;
+            color: rgba(255, 255, 255, 0.6);
+            direction: ltr;
+            text-align: right;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            display: block;
+            margin-top: 8px;
+            font-family: monospace;
+            position: relative;
+            z-index: 1;
+        }
+
+        .title-external-icon {
+            margin-right: 6px;
+            font-size: 0.75rem;
+        }
+
         /* متن پست با فونت فارسی زیبا */
         .post-text {
             color: rgba(255, 255, 255, 0.94);
@@ -1075,6 +1155,26 @@
         document.body.appendChild(lightbox);
     }
 
+    // ایجاد لینک عنوان
+    function createTitleLink(linkData) {
+        if (!linkData || !linkData.url) return '';
+        
+        const title = linkData.title || 'مشاهده لینک';
+        const url = linkData.url;
+        const domain = new URL(url).hostname.replace('www.', '');
+        
+        return `
+            <a href="${escapeHtml(url)}" target="_blank" rel="noopener noreferrer" class="post-title-link" onclick="event.stopPropagation();">
+                <div class="title-label">
+                    🔗 عنوان
+                    <span class="title-external-icon">↗️</span>
+                </div>
+                <div class="title-text">${escapeHtml(title)}</div>
+                <div class="title-url" dir="ltr">🌐 ${escapeHtml(domain)}</div>
+            </a>
+        `;
+    }
+
     // بارگذاری پست‌ها
     function loadChannel(channel) {
         if (!postsData?.channels?.[channel]) {
@@ -1099,6 +1199,9 @@
             postDiv.className = 'post';
             postDiv.style.animationDelay = `${Math.min(index * 0.03, 0.5)}s`;
             
+            // ایجاد لینک عنوان اگر وجود داشته باشد
+            const titleLinkHtml = post.link ? createTitleLink(post.link) : '';
+            
             // پردازش متن با حفظ فواصل
             let processedText = '';
             if (post.text) {
@@ -1114,6 +1217,7 @@
                     <span class="post-id" dir="ltr">#${post.id}</span>
                     <span class="post-date">📅 ${formatDate(post.date)}</span>
                 </div>
+                ${titleLinkHtml}
                 ${processedText ? `<div class="post-text">${processedText}</div>` : ''}
                 <div class="post-media" id="media-${post.id}"></div>
             `;
