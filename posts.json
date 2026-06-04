@@ -2,6 +2,98 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 121318,
+        "text": "⤷\nTitle:\nI Know CPCSC Is Coming. What Do I Do, and When?\n════════════════════════\n𐀪\nAuthor:\nYounos Nazarian\n════════════════════════\nⴵ\nTime:\nThu, 04 Jun 2026 19:49:53 GMT\n════════════════════════\n⌗\nTags:\n#cpcsc\n#cybersecurity\n#defense\n#cmmc\n#infosec",
+        "date": "2026-06-04T21:04:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121318_0_fad7c676.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121318_1_db4c212d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121318",
+        "link": {
+          "title": "I Know CPCSC Is Coming. What Do I Do, and When?",
+          "url": "https://medium.com/@YounosNazarian/i-know-cpcsc-is-coming-what-do-i-do-and-when-3745736002ce?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 121317,
+        "text": "⤷\nTitle:\nThe Best Certifications to Pursue After BTL1 (A SOC Analyst’s Guide to What Comes Next)\n════════════════════════\n𐀪\nAuthor:\nMotasem Hamdan\n════════════════════════\nⴵ\nTime:\nThu, 04 Jun 2026 20:52:54 GMT\n════════════════════════\n⌗\nTags:\n#technology\n#cybersecurity\n#infosec\n#careers\n#tech",
+        "date": "2026-06-04T21:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121317_0_fad7c676.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121317_1_d47d5bd0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121317",
+        "link": {
+          "title": "The Best Certifications to Pursue After BTL1 (A SOC Analyst’s Guide to What Comes Next)",
+          "url": "https://motasemhamdan.medium.com/the-best-certifications-to-pursue-after-btl1-a-soc-analysts-guide-to-what-comes-next-c733b1c75d51?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 121316,
+        "text": "⤷\nTitle:\nSupport — HackTheBox Write-Up\n════════════════════════\n𐀪\nAuthor:\nPELURED\n════════════════════════\nⴵ\nTime:\nThu, 04 Jun 2026 18:54:52 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#htb_writeup\n#htb\n#windows\n#red_team",
+        "date": "2026-06-04T21:03:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121316_0_fad7c676.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121316_1_a1778143.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121316",
+        "link": {
+          "title": "Support — HackTheBox Write-Up",
+          "url": "https://medium.com/@p3lured/support-hackthebox-write-up-c68d6d1e182a?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 121315,
+        "text": "⤷\nTitle:\n0x12DarkSandbox: Test Your Offensive Payloads\n════════════════════════\n𐀪\nAuthor:\nS12 - 0x12Dark Development\n════════════════════════\nⴵ\nTime:\nThu, 04 Jun 2026 19:54:25 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#hacking\n#malware\n#infosec\n#pentesting",
+        "date": "2026-06-04T21:03:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121315_0_fad7c676.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121315_1_0a959fbb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121315",
+        "link": {
+          "title": "0x12DarkSandbox: Test Your Offensive Payloads",
+          "url": "https://medium.com/@s12deff/0x12darksandbox-test-your-offensive-payloads-9625f1184504?source=rss------hacking-5"
+        }
+      },
+      {
         "id": 121314,
         "text": "⤷\nTitle:\nTryHackMe’s “Domino” CTF Walkthrough\n════════════════════════\n𐀪\nAuthor:\nOmer David\n════════════════════════\nⴵ\nTime:\nThu, 04 Jun 2026 18:04:00 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#tryhackme_walkthrough\n#tryhackme_writeup\n#tryhackme",
         "date": "2026-06-04T19:04:34+00:00",
@@ -769,19 +861,19 @@
       }
     ]
   },
-  "last_update": "2026-06-04T20:56:16.376374+00:00",
+  "last_update": "2026-06-04T22:18:23.464885+00:00",
   "last_cleanup": null,
   "statistics": {
-    "total_posts": 34,
-    "total_media": 64,
-    "total_files": 64,
+    "total_posts": 38,
+    "total_media": 72,
+    "total_files": 72,
     "total_links": 0,
     "files_by_type": {
-      "image": 64
+      "image": 72
     },
-    "referenced_files": 64,
-    "existing_media_files": 64,
-    "total_size_mb": 1.71,
-    "last_calculation": "2026-06-04T20:56:16.377211+00:00"
+    "referenced_files": 72,
+    "existing_media_files": 72,
+    "total_size_mb": 2.04,
+    "last_calculation": "2026-06-04T22:18:23.465798+00:00"
   }
 }
