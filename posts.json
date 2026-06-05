@@ -2,6 +2,163 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 121431,
+        "text": "⤷\nTitle:\nNSE for Windows Networks: SMB Enumeration\n════════════════════════\n𐀪\nAuthor:\nRoshan Rajbanshi\n════════════════════════\nⴵ\nTime:\nFri, 05 Jun 2026 15:53:21 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#penetration_testing\n#ethical_hacking\n#pentesting\n#technology",
+        "date": "2026-06-05T17:04:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121431_0_cc2382fe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121431_1_f6558e0a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121431",
+        "link": {
+          "title": "NSE for Windows Networks: SMB Enumeration",
+          "url": "https://levelup.gitconnected.com/nse-for-windows-networks-smb-enumeration-8eaf100c442f?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 121430,
+        "text": "⤷\nTitle:\nAdvanced Evasion Tradecraft: Precision Module Stomping\n════════════════════════\n𐀪\nAuthor:\nTom O'Neill\n════════════════════════\nⴵ\nTime:\nFri, 05 Jun 2026 15:04:44 GMT\n════════════════════════\n⌗\nTags:\n#red_team\n#malware\n#hacking\n#cybersecurity",
+        "date": "2026-06-05T17:04:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121430_0_cc2382fe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121430_1_797cf8b9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121430",
+        "link": {
+          "title": "Advanced Evasion Tradecraft: Precision Module Stomping",
+          "url": "https://medium.com/@toneillcodes/advanced-evasion-tradecraft-precision-module-stomping-b51feb0978fe?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 121429,
+        "text": "⤷\nTitle:\nTHM - Recruit\n════════════════════════\n𐀪\nAuthor:\nFrancesco Pastore\n════════════════════════\nⴵ\nTime:\nFri, 05 Jun 2026 15:29:36 GMT\n════════════════════════\n⌗\nTags:\n#tech\n#security\n#hacking\n#cybersecurity\n#technology",
+        "date": "2026-06-05T17:04:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121429_0_cc2382fe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121429_1_c84f6869.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121429",
+        "link": {
+          "title": "THM - Recruit",
+          "url": "https://2h3ph3rd.medium.com/thm-recruit-2957644a8f9b?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 121428,
+        "text": "⤷\nTitle:\nRubyDome | Proving Grounds | Walkthrough\n════════════════════════\n𐀪\nAuthor:\nSilentExploit\n════════════════════════\nⴵ\nTime:\nFri, 05 Jun 2026 16:24:37 GMT\n════════════════════════\n⌗\nTags:\n#ctf_writeup\n#hacking\n#ethical_hacking\n#ctf\n#technology",
+        "date": "2026-06-05T17:04:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121428_0_cc2382fe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121428_1_1517af0e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121428",
+        "link": {
+          "title": "RubyDome | Proving Grounds | Walkthrough",
+          "url": "https://medium.com/@SilentExploit/rubydome-proving-grounds-walkthrough-d059ace20bc4?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 121427,
+        "text": "⤷\nTitle:\nI Built a Post-Quantum Login System at a Hackathon. This Is How It Works.\n════════════════════════\n𐀪\nAuthor:\nSoumyadipta Birabar\n════════════════════════\nⴵ\nTime:\nFri, 05 Jun 2026 16:28:19 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#artificial_intelligence\n#hacking\n#technology\n#infosec",
+        "date": "2026-06-05T17:03:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121427_0_cc2382fe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121427_1_c4923771.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121427",
+        "link": {
+          "title": "I Built a Post-Quantum Login System at a Hackathon. This Is How It Works.",
+          "url": "https://medium.com/@SudoXploit7/i-built-a-post-quantum-login-system-at-a-hackathon-this-is-how-it-works-e74f116c1fd3?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 121426,
+        "text": "⤷\nTitle:\nHow to hack cheating spouse WhatsApp?\n════════════════════════\n𐀪\nAuthor:\nMichael Parks\n════════════════════════\nⴵ\nTime:\nFri, 05 Jun 2026 16:38:05 GMT\n════════════════════════\n⌗\nTags:\n#infidelity\n#whatsapp\n#cheating\n#hacking\n#marriage",
+        "date": "2026-06-05T17:03:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121426_0_cc2382fe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121426_1_4ff4487d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121426",
+        "link": {
+          "title": "How to hack cheating spouse WhatsApp?",
+          "url": "https://medium.com/@michaelpark921/how-to-hack-cheating-spouse-whatsapp-0cc72d0b2811?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 121425,
+        "text": "⤷\nTitle:\nAndroid Spyware Asin Targets Arabic Users via Fake News, PDF and War Map Apps\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nFri, 05 Jun 2026 20:23:40 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-06-05T17:03:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121425_0_cc2382fe.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121425",
+        "link": {
+          "title": "Android Spyware Asin Targets Arabic Users via Fake News, PDF and War Map Apps",
+          "url": "https://thehackernews.com/2026/06/android-spyware-asin-targets-arabic.html"
+        }
+      },
+      {
         "id": 121424,
         "text": "⤷\nTitle:\nSecuring APIs in the Cloud (2026 Guide): API Gateway & OAuth Explained for Maximum Security\n════════════════════════\n𐀪\nAuthor:\nManula Udyoga\n════════════════════════\nⴵ\nTime:\nFri, 05 Jun 2026 14:01:02 GMT\n════════════════════════\n⌗\nTags:\n#api_security\n#cloud_security\n#api_gateway\n#cybersecurity\n#oauth",
         "date": "2026-06-05T15:04:38+00:00",
@@ -2119,183 +2276,22 @@
           "title": "LockBit 5.0: La pesadilla que no murió con la Operación Cronos",
           "url": "https://medium.com/@Juan.ricardo.palacio/lockbit-5-0-la-pesadilla-que-no-muri%C3%B3-con-la-operaci%C3%B3n-cronos-8a797be71a82?source=rss------infosec-5"
         }
-      },
-      {
-        "id": 121311,
-        "text": "⤷\nTitle:\nOllie (THM) Tryhackme Medium Challenge\n════════════════════════\n𐀪\nAuthor:\nLawvye\n════════════════════════\nⴵ\nTime:\nThu, 04 Jun 2026 18:46:37 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#privilege_escalation\n#hacking\n#hacker\n#tryhackme",
-        "date": "2026-06-04T19:04:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121311_0_fad7c676.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121311_1_c6088538.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121311",
-        "link": {
-          "title": "Ollie (THM) Tryhackme Medium Challenge",
-          "url": "https://medium.com/@lawvye/ollie-thm-tryhackme-medium-challenge-d392d6859254?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 121310,
-        "text": "⤷\nTitle:\nMastering CSRF: The Ultimate PortSwigger Academy Walkthrough Guide Community Edition\n════════════════════════\n𐀪\nAuthor:\nAyeshaaghafoor\n════════════════════════\nⴵ\nTime:\nThu, 04 Jun 2026 17:01:40 GMT\n════════════════════════\n⌗\nTags:\n#education\n#ethical_hacking\n#web_security\n#bug_bounty",
-        "date": "2026-06-04T19:04:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121310_0_fad7c676.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121310_1_6f2c539b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121310",
-        "link": {
-          "title": "Mastering CSRF: The Ultimate PortSwigger Academy Walkthrough Guide Community Edition",
-          "url": "https://medium.com/@ayeshaaghafoor48/mastering-csrf-the-ultimate-portswigger-academy-walkthrough-guide-community-edition-8ddbcff3fb59?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 121309,
-        "text": "⤷\nTitle:\nRace Conditions Are Not Only Race Conditions\n════════════════════════\n𐀪\nAuthor:\nsin99xx\n════════════════════════\nⴵ\nTime:\nThu, 04 Jun 2026 17:27:20 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#cybersecurity",
-        "date": "2026-06-04T19:04:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121309_0_fad7c676.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121309_1_2bb40cd1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121309",
-        "link": {
-          "title": "Race Conditions Are Not Only Race Conditions",
-          "url": "https://sin99xx.medium.com/race-conditions-are-not-only-race-conditions-e80ab397d93e?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 121308,
-        "text": "⤷\nTitle:\nRefining the Interface: Microsoft Addresses the Cluttered Windows 11 Context Menu\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 04 Jun 2026 17:10:33 +0000\n════════════════════════\n⌗\nTags:\n#Windows\n#desktop\nuser navigation speed\n#File\nExplorer interface bloat\n#Microsoft\ndesign updates\n#registry\ncustomization tweaks\n#right_click\nmenu optimization\n#Windows\n11 context menu",
-        "date": "2026-06-04T19:04:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121308_0_fad7c676.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121308_1_98b80930.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121308",
-        "link": {
-          "title": "Refining the Interface: Microsoft Addresses the Cluttered Windows 11 Context Menu",
-          "url": "https://securityonline.info/windows-11-context-menu/"
-        }
-      },
-      {
-        "id": 121307,
-        "text": "⤷\nTitle:\nThe Quantum Bastion: Let’s Encrypt Embraces Merkle Tree Certificates against Post-Quantum Threats\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 04 Jun 2026 17:13:58 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#Certificate\nTransparency automation\n#Google\nCloudflare MTC\n#Let\n's Encrypt roadmap\n#Merkle\nTree Certificates\n#post_quantum\ncryptography TLS\n#signature\nsize bloat mitigation",
-        "date": "2026-06-04T19:04:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121307_0_fad7c676.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121307_1_535ee9a1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121307",
-        "link": {
-          "title": "The Quantum Bastion: Let’s Encrypt Embraces Merkle Tree Certificates against Post-Quantum Threats",
-          "url": "https://securityonline.info/merkle-tree-certificates/"
-        }
-      },
-      {
-        "id": 121306,
-        "text": "⤷\nTitle:\nThe Renaissance of Native Architecture: Microsoft Rebrands WinUI to Salvage Windows 11 Performance\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 04 Jun 2026 17:19:47 +0000\n════════════════════════\n⌗\nTags:\n#Windows\n#Build\n2026 developer framework\n#Electron\nmemory bloat mitigation\n#Microsoft\nWinUI rebrand\n#native\napp development toolkit\n#web\nhybrid software optimization\n#Windows\n11 desktop performance",
-        "date": "2026-06-04T19:04:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121306_0_fad7c676.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121306_1_7ac8efe9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121306",
-        "link": {
-          "title": "The Renaissance of Native Architecture: Microsoft Rebrands WinUI to Salvage Windows 11 Performance",
-          "url": "https://securityonline.info/microsoft-winui-rebrand/"
-        }
-      },
-      {
-        "id": 121305,
-        "text": "⤷\nTitle:\nWhy eSIMs Are Replacing Traditional SIM Cards\n════════════════════════\n𐀪\nAuthor:\nWaqas\n════════════════════════\nⴵ\nTime:\nThu, 04 Jun 2026 15:04:33 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#Scams\nand Fraud\n#Security\n#Cyber\nCrime\n#eSIM\n#Fraud\n#Privacy\n#Scam\n#Sim\nCard\n#Sim\nSwap\n#SIM\nSwapping\n#Telecom",
-        "date": "2026-06-04T19:04:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121305_0_fad7c676.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121305_1_5d1dc865.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121305",
-        "link": {
-          "title": "Why eSIMs Are Replacing Traditional SIM Cards",
-          "url": "https://hackread.com/why-esims-replacing-traditional-sim-cards/"
-        }
       }
     ]
   },
-  "last_update": "2026-06-05T16:28:16.797674+00:00",
+  "last_update": "2026-06-05T18:20:37.995742+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 195,
-    "total_files": 195,
+    "total_media": 194,
+    "total_files": 194,
     "total_links": 0,
     "files_by_type": {
-      "image": 195
+      "image": 194
     },
-    "referenced_files": 195,
-    "existing_media_files": 195,
-    "total_size_mb": 5.54,
-    "last_calculation": "2026-06-05T16:28:16.799079+00:00"
+    "referenced_files": 194,
+    "existing_media_files": 194,
+    "total_size_mb": 5.6,
+    "last_calculation": "2026-06-05T18:20:37.998138+00:00"
   }
 }
