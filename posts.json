@@ -2,6 +2,121 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 121436,
+        "text": "⤷\nTitle:\nCVE-2026-11332: How I found an Argument Injection in Ansible, leading to RCE\n════════════════════════\n𐀪\nAuthor:\nTommaso Bona\n════════════════════════\nⴵ\nTime:\nFri, 05 Jun 2026 18:20:04 GMT\n════════════════════════\n⌗\nTags:\n#rce\n#redhat_linux\n#cve\n#remote_code_execution\n#ansible",
+        "date": "2026-06-05T19:04:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121436_0_cc2382fe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121436_1_f722d683.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121436",
+        "link": {
+          "title": "CVE-2026-11332: How I found an Argument Injection in Ansible, leading to RCE",
+          "url": "https://medium.com/securitycertcommunity/cve-2026-11332-how-i-found-an-argument-injection-in-ansible-leading-to-rce-0050b41b9679?source=rss------rce-5"
+        }
+      },
+      {
+        "id": 121435,
+        "text": "⤷\nTitle:\nFlimsy | Proving Grounds | OSCP Preparation\n════════════════════════\n𐀪\nAuthor:\nSilentExploit\n════════════════════════\nⴵ\nTime:\nFri, 05 Jun 2026 17:15:21 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#ctf_writeup\n#ctf\n#technology\n#hacking",
+        "date": "2026-06-05T19:03:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121435_0_cc2382fe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121435_1_2d5bc390.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121435",
+        "link": {
+          "title": "Flimsy | Proving Grounds | OSCP Preparation",
+          "url": "https://medium.com/@SilentExploit/flimsy-proving-grounds-oscp-preparation-88c8b63b093d?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 121434,
+        "text": "⤷\nTitle:\nHow To Download, Install And Configure Splunk Enterprise 10.4.0\n════════════════════════\n𐀪\nAuthor:\nOxMotaw3\n════════════════════════\nⴵ\nTime:\nFri, 05 Jun 2026 17:18:48 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#cybersecurity\n#threat_intelligence\n#soc_analyst\n#splunk_enterprise",
+        "date": "2026-06-05T19:03:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121434_0_cc2382fe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121434_1_4b97dcb5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121434",
+        "link": {
+          "title": "How To Download, Install And Configure Splunk Enterprise 10.4.0",
+          "url": "https://medium.com/@motaweak226/how-to-download-install-and-configure-splunk-enterprise-10-4-0-5df66a48cd71?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 121433,
+        "text": "⤷\nTitle:\nEven Itachi’s Sharingan Couldn’t See This Coming — AI Worms & Zero-Days Are the New Genjutsu\n════════════════════════\n𐀪\nAuthor:\nZero Day Cyberian\n════════════════════════\nⴵ\nTime:\nFri, 05 Jun 2026 18:23:29 GMT\n════════════════════════\n⌗\nTags:\n#ai\n#zero_day_threat\n#hacking\n#zero_day_vulnerability\n#cybersecurity",
+        "date": "2026-06-05T19:03:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121433_0_cc2382fe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121433_1_d1f9cc58.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121433",
+        "link": {
+          "title": "Even Itachi’s Sharingan Couldn’t See This Coming — AI Worms & Zero-Days Are the New Genjutsu",
+          "url": "https://medium.com/@zeroday_cyber/even-itachis-sharingan-couldn-t-see-this-coming-ai-worms-zero-days-are-the-new-genjutsu-45e82b341253?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 121432,
+        "text": "⤷\nTitle:\nAtlas Menu Data Breach Exposes 64,000 GTA V and CS2 Cheat Service Users\n════════════════════════\n𐀪\nAuthor:\nDeeba Ahmed\n════════════════════════\nⴵ\nTime:\nFri, 05 Jun 2026 17:16:02 +0000\n════════════════════════\n⌗\nTags:\n#Data\nBreaches\n#Atlas\nMenu\n#Counter\nStrike\n#Cyber\nAttack\n#Cybersecurity\n#data\nbreach\n#Grand\nTheft Auto\n#GTA\nV\n#Privacy",
+        "date": "2026-06-05T19:03:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121432_0_cc2382fe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121432_1_7e8a8236.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121432",
+        "link": {
+          "title": "Atlas Menu Data Breach Exposes 64,000 GTA V and CS2 Cheat Service Users",
+          "url": "https://hackread.com/atlas-menu-data-breach-exposes-gta-v-cs2-cheat-users/"
+        }
+      },
+      {
         "id": 121431,
         "text": "⤷\nTitle:\nNSE for Windows Networks: SMB Enumeration\n════════════════════════\n𐀪\nAuthor:\nRoshan Rajbanshi\n════════════════════════\nⴵ\nTime:\nFri, 05 Jun 2026 15:53:21 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#penetration_testing\n#ethical_hacking\n#pentesting\n#technology",
         "date": "2026-06-05T17:04:12+00:00",
@@ -2161,125 +2276,10 @@
           "title": "The Best Certifications to Pursue After BTL1 (A SOC Analyst’s Guide to What Comes Next)",
           "url": "https://motasemhamdan.medium.com/the-best-certifications-to-pursue-after-btl1-a-soc-analysts-guide-to-what-comes-next-c733b1c75d51?source=rss------infosec-5"
         }
-      },
-      {
-        "id": 121316,
-        "text": "⤷\nTitle:\nSupport — HackTheBox Write-Up\n════════════════════════\n𐀪\nAuthor:\nPELURED\n════════════════════════\nⴵ\nTime:\nThu, 04 Jun 2026 18:54:52 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#htb_writeup\n#htb\n#windows\n#red_team",
-        "date": "2026-06-04T21:03:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121316_0_fad7c676.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121316_1_a1778143.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121316",
-        "link": {
-          "title": "Support — HackTheBox Write-Up",
-          "url": "https://medium.com/@p3lured/support-hackthebox-write-up-c68d6d1e182a?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 121315,
-        "text": "⤷\nTitle:\n0x12DarkSandbox: Test Your Offensive Payloads\n════════════════════════\n𐀪\nAuthor:\nS12 - 0x12Dark Development\n════════════════════════\nⴵ\nTime:\nThu, 04 Jun 2026 19:54:25 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#hacking\n#malware\n#infosec\n#pentesting",
-        "date": "2026-06-04T21:03:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121315_0_fad7c676.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121315_1_0a959fbb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121315",
-        "link": {
-          "title": "0x12DarkSandbox: Test Your Offensive Payloads",
-          "url": "https://medium.com/@s12deff/0x12darksandbox-test-your-offensive-payloads-9625f1184504?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 121314,
-        "text": "⤷\nTitle:\nTryHackMe’s “Domino” CTF Walkthrough\n════════════════════════\n𐀪\nAuthor:\nOmer David\n════════════════════════\nⴵ\nTime:\nThu, 04 Jun 2026 18:04:00 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#tryhackme_walkthrough\n#tryhackme_writeup\n#tryhackme",
-        "date": "2026-06-04T19:04:34+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121314_0_fad7c676.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121314_1_2980f4a9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121314",
-        "link": {
-          "title": "TryHackMe’s “Domino” CTF Walkthrough",
-          "url": "https://medium.com/@duvdeven/tryhackmes-domino-ctf-walkthrough-89d4f29d0127?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 121313,
-        "text": "⤷\nTitle:\nAI in Cybersecurity: Transformative, Overhyped, or Both? A Graduate’s Honest POV.\n════════════════════════\n𐀪\nAuthor:\nSiddhesh Shinde\n════════════════════════\nⴵ\nTime:\nThu, 04 Jun 2026 17:33:15 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#ai\n#threat_intelligence\n#ethical_hacking\n#cybersecurity",
-        "date": "2026-06-04T19:04:30+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121313_0_fad7c676.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121313_1_84ebeda5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121313",
-        "link": {
-          "title": "AI in Cybersecurity: Transformative, Overhyped, or Both? A Graduate’s Honest POV.",
-          "url": "https://medium.com/@shinde.msiddhesh/ai-in-cybersecurity-transformative-overhyped-or-both-a-graduates-honest-pov-c8d295d5932a?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 121312,
-        "text": "⤷\nTitle:\nLockBit 5.0: La pesadilla que no murió con la Operación Cronos\n════════════════════════\n𐀪\nAuthor:\nJuan Ricardo Palacio | Ransomware Help\n════════════════════════\nⴵ\nTime:\nThu, 04 Jun 2026 18:20:33 GMT\n════════════════════════\n⌗\nTags:\n#cibersecurity\n#ransomware\n#data_recovery\n#lockbit\n#infosec",
-        "date": "2026-06-04T19:04:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121312_0_fad7c676.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121312_1_4fa2f008.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121312",
-        "link": {
-          "title": "LockBit 5.0: La pesadilla que no murió con la Operación Cronos",
-          "url": "https://medium.com/@Juan.ricardo.palacio/lockbit-5-0-la-pesadilla-que-no-muri%C3%B3-con-la-operaci%C3%B3n-cronos-8a797be71a82?source=rss------infosec-5"
-        }
       }
     ]
   },
-  "last_update": "2026-06-05T18:20:37.995742+00:00",
+  "last_update": "2026-06-05T20:22:11.710146+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2291,7 +2291,7 @@
     },
     "referenced_files": 194,
     "existing_media_files": 194,
-    "total_size_mb": 5.6,
-    "last_calculation": "2026-06-05T18:20:37.998138+00:00"
+    "total_size_mb": 5.62,
+    "last_calculation": "2026-06-05T20:22:11.712513+00:00"
   }
 }
