@@ -2,6 +2,466 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 121625,
+        "text": "⤷\nTitle:\nHow I Forced A/B Experiments on Any User via an Unauthenticated Endpoint (Missing Auth)\n════════════════════════\n𐀪\nAuthor:\nhttpzuz\n════════════════════════\nⴵ\nTime:\nMon, 08 Jun 2026 19:56:38 GMT\n════════════════════════\n⌗\nTags:\n#authentication\n#bug_bounty\n#bug_bounty_tips\n#bug_bounty_writeup\n#bugs",
+        "date": "2026-06-10T16:14:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121625_0_08fe0087.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121625_1_1106f46b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121625",
+        "link": {
+          "title": "How I Forced A/B Experiments on Any User via an Unauthenticated Endpoint (Missing Auth)",
+          "url": "https://medium.com/@mahmodziad40/how-i-forced-a-b-experiments-on-any-user-via-an-unauthenticated-endpoint-missing-auth-ea675de83861?source=rss------bug_bounty_tips-5"
+        }
+      },
+      {
+        "id": 121624,
+        "text": "⤷\nTitle:\nHow i found race conditions leading to premium subscribtion bypass via concurrent user addition\n════════════════════════\n𐀪\nAuthor:\nRaccoon\n════════════════════════\nⴵ\nTime:\nMon, 08 Jun 2026 20:29:23 GMT\n════════════════════════\n⌗\nTags:\n#web_penetration_testing\n#bug_bounty\n#penetration_testing\n#bug_bounty_writeup\n#bug_bounty_tips",
+        "date": "2026-06-10T16:14:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121624_0_08fe0087.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121624_1_4c8ed88a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121624",
+        "link": {
+          "title": "How i found race conditions leading to premium subscribtion bypass via concurrent user addition",
+          "url": "https://medium.com/@0xRaccoon/how-i-found-race-conditions-leading-to-premium-subscribtion-bypass-via-concurrent-user-addition-55e23758975e?source=rss------bug_bounty_tips-5"
+        }
+      },
+      {
+        "id": 121623,
+        "text": "⤷\nTitle:\nFrom LFI to Database Takeover and the RCE That Almost Was\n════════════════════════\n𐀪\nAuthor:\nElahe\n════════════════════════\nⴵ\nTime:\nTue, 09 Jun 2026 06:35:46 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_tips\n#hacking\n#cybersecurity\n#bug_bounty\n#pentesting",
+        "date": "2026-06-10T16:14:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121623_0_08fe0087.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121623_1_933cb92e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121623",
+        "link": {
+          "title": "From LFI to Database Takeover and the RCE That Almost Was",
+          "url": "https://elahe4.medium.com/from-lfi-to-database-takeover-and-the-rce-that-almost-was-38b9176bcb6b?source=rss------bug_bounty_tips-5"
+        }
+      },
+      {
+        "id": 121622,
+        "text": "⤷\nTitle:\nBBP#3: The Boat Speaker— From Shopping Cart to Account Takeover\n════════════════════════\n𐀪\nAuthor:\nDevender Rao\n════════════════════════\nⴵ\nTime:\nTue, 09 Jun 2026 07:41:00 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_tips\n#bug_bounty\n#hacking\n#security\n#penetration_testing",
+        "date": "2026-06-10T16:14:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121622_0_08fe0087.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121622_1_18249b9a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121622",
+        "link": {
+          "title": "BBP#3: The Boat Speaker— From Shopping Cart to Account Takeover",
+          "url": "https://raoshaab.medium.com/bbp-3-the-boat-speaker-from-shopping-cart-to-account-takeover-fb2923376821?source=rss------bug_bounty_tips-5"
+        }
+      },
+      {
+        "id": 121621,
+        "text": "⤷\nTitle:\nFrom Chicken McNuggets to a Bug Bounty: How a Viral Meme Started My Best Finding\n════════════════════════\n𐀪\nAuthor:\nC0deRevenant\n════════════════════════\nⴵ\nTime:\nTue, 09 Jun 2026 16:53:59 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_tips\n#hacking\n#bug_bounty\n#cybersecurity\n#ai_agent",
+        "date": "2026-06-10T16:14:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121621_0_08fe0087.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121621_1_6c9abdf2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121621",
+        "link": {
+          "title": "From Chicken McNuggets to a Bug Bounty: How a Viral Meme Started My Best Finding",
+          "url": "https://medium.com/@C0deRevenant/from-chicken-mcnuggets-to-a-bug-bounty-how-a-viral-meme-started-my-best-finding-6c8b20b1ec7f?source=rss------bug_bounty_tips-5"
+        }
+      },
+      {
+        "id": 121620,
+        "text": "⤷\nTitle:\nWhy Some Hunters Make $10k a Month and Others Make Nothing\n════════════════════════\n𐀪\nAuthor:\nDecline\n════════════════════════\nⴵ\nTime:\nSat, 06 Jun 2026 02:53:23 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#bug_bounty_tips\n#bug_hunting\n#bugbounty_writeup\n#bug_bounty_writeup",
+        "date": "2026-06-10T16:14:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121620_0_08fe0087.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121620_1_dfba0133.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121620",
+        "link": {
+          "title": "Why Some Hunters Make $10k a Month and Others Make Nothing",
+          "url": "https://medium.com/@bughunting/why-some-hunters-make-10k-a-month-and-others-make-nothing-e9a301b8a55a?source=rss------bugbounty_writeup-5"
+        }
+      },
+      {
+        "id": 121619,
+        "text": "⤷\nTitle:\nWhy I Finally Built bugbountyscam.com Graveyard for Fake Bug Bounty Programs\n════════════════════════\n𐀪\nAuthor:\nafaqain\n════════════════════════\nⴵ\nTime:\nSat, 06 Jun 2026 16:27:29 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_hunter\n#bug_bounty_writeup\n#bug_bounty\n#bugbounty_writeup",
+        "date": "2026-06-10T16:14:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121619_0_08fe0087.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121619_1_e350d5e0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121619",
+        "link": {
+          "title": "Why I Finally Built bugbountyscam.com Graveyard for Fake Bug Bounty Programs",
+          "url": "https://afaqain.medium.com/why-i-finally-built-bugbountyscam-com-graveyard-for-fake-bug-bounty-programs-177c1063e35b?source=rss------bugbounty_writeup-5"
+        }
+      },
+      {
+        "id": 121618,
+        "text": "⤷\nTitle:\nI Got Rejected 12 Times Before My First Bounty\n════════════════════════\n𐀪\nAuthor:\nDecline\n════════════════════════\nⴵ\nTime:\nMon, 08 Jun 2026 02:16:20 GMT\n════════════════════════\n⌗\nTags:\n#bug_hunting\n#bug_bounty_tips\n#bug_bounty\n#bugbounty_writeup\n#bug_bounty_writeup",
+        "date": "2026-06-10T16:14:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121618_0_08fe0087.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121618_1_f97bfd17.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121618",
+        "link": {
+          "title": "I Got Rejected 12 Times Before My First Bounty",
+          "url": "https://medium.com/@bughunting/i-got-rejected-12-times-before-my-first-bounty-164c31caf9eb?source=rss------bugbounty_writeup-5"
+        }
+      },
+      {
+        "id": 121617,
+        "text": "⤷\nTitle:\nTanuki: Admin Account Takeover via Mass Password Update\n════════════════════════\n𐀪\nAuthor:\nDennis Sev7n\n════════════════════════\nⴵ\nTime:\nMon, 08 Jun 2026 18:51:35 GMT\n════════════════════════\n⌗\nTags:\n#web_application_security\n#cybersecurity\n#bugbounty_writeup",
+        "date": "2026-06-10T16:14:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121617_0_08fe0087.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121617_1_cb3ff1f3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121617",
+        "link": {
+          "title": "Tanuki: Admin Account Takeover via Mass Password Update",
+          "url": "https://medium.com/@gilbertdennis3/tanuki-admin-account-takeover-via-mass-password-update-8fe7cc1ed3e6?source=rss------bugbounty_writeup-5"
+        }
+      },
+      {
+        "id": 121616,
+        "text": "⤷\nTitle:\nHow I Found a User That Couldn’t Be Removed From an Organization\n════════════════════════\n𐀪\nAuthor:\nAhmed Mahmoud\n════════════════════════\nⴵ\nTime:\nMon, 08 Jun 2026 23:51:51 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#bug_bounty_tips\n#broken_access_control\n#bugbounty_writeup\n#penetration_testing",
+        "date": "2026-06-10T16:13:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121616_0_08fe0087.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121616_1_8f0ff45f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121616",
+        "link": {
+          "title": "How I Found a User That Couldn’t Be Removed From an Organization",
+          "url": "https://medium.com/@edahmed008/how-i-found-a-user-that-couldnt-be-removed-from-an-organization-f8c9acde30bb?source=rss------bugbounty_writeup-5"
+        }
+      },
+      {
+        "id": 121615,
+        "text": "⤷\nTitle:\nAI Security: explanation to Exploitation || Part 1\n════════════════════════\n𐀪\nAuthor:\nJEETPAL\n════════════════════════\nⴵ\nTime:\nTue, 09 Jun 2026 13:45:52 GMT\n════════════════════════\n⌗\nTags:\n#jailbreak\n#bugbounty_writeup\n#cybersecurity\n#ai_security\n#bug_bounty",
+        "date": "2026-06-10T16:13:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121615_0_08fe0087.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121615_1_689fb61f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121615",
+        "link": {
+          "title": "AI Security: explanation to Exploitation || Part 1",
+          "url": "https://infosecwriteups.com/ai-security-explanation-to-exploitation-part-1-4e63637f7fd1?source=rss------bugbounty_writeup-5"
+        }
+      },
+      {
+        "id": 121614,
+        "text": "⤷\nTitle:\nBroken Access Control leads to delete any user’s comment\n════════════════════════\n𐀪\nAuthor:\nRaccoon\n════════════════════════\nⴵ\nTime:\nMon, 08 Jun 2026 21:34:23 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#bug_bounty_writeup\n#bug_bounty_tips\n#penetration_testing",
+        "date": "2026-06-10T16:13:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121614_0_08fe0087.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121614_1_29d36d90.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121614",
+        "link": {
+          "title": "Broken Access Control leads to delete any user’s comment",
+          "url": "https://medium.com/@0xRaccoon/broken-access-control-leads-to-delete-any-users-comment-1908ca07f2a9?source=rss------bug_bounty_writeup-5"
+        }
+      },
+      {
+        "id": 121613,
+        "text": "⤷\nTitle:\nAPI Hacking Sounds Scary Until You Realize It’s Just Changing Numbers\n════════════════════════\n𐀪\nAuthor:\nDecline\n════════════════════════\nⴵ\nTime:\nTue, 09 Jun 2026 04:03:40 GMT\n════════════════════════\n⌗\nTags:\n#bug_hunting\n#bug_bounty_tips\n#bugbounty_writeup\n#bug_bounty\n#bug_bounty_writeup",
+        "date": "2026-06-10T16:13:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121613_0_08fe0087.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121613_1_79e14999.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121613",
+        "link": {
+          "title": "API Hacking Sounds Scary Until You Realize It’s Just Changing Numbers",
+          "url": "https://medium.com/@bughunting/api-hacking-sounds-scary-until-you-realize-its-just-changing-numbers-4d621ca06a89?source=rss------bug_bounty_writeup-5"
+        }
+      },
+      {
+        "id": 121612,
+        "text": "⤷\nTitle:\nHow I Found a Critical OAuth Misconfiguration That Led to Account Takeover\n════════════════════════\n𐀪\nAuthor:\nShafayat Ahmed Alif\n════════════════════════\nⴵ\nTime:\nTue, 09 Jun 2026 09:21:17 GMT\n════════════════════════\n⌗\nTags:\n#account_takeover\n#bug_bounty_tips\n#bug_bounty\n#cybersecurity\n#bug_bounty_writeup",
+        "date": "2026-06-10T16:13:45+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121612_0_08fe0087.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121612_1_b200b3fa.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121612",
+        "link": {
+          "title": "How I Found a Critical OAuth Misconfiguration That Led to Account Takeover",
+          "url": "https://medium.com/@iamshafayat/how-i-found-a-critical-oauth-misconfiguration-that-led-to-account-takeover-abfec43eaea6?source=rss------bug_bounty_writeup-5"
+        }
+      },
+      {
+        "id": 121611,
+        "text": "⤷\nTitle:\nThese Low-Hanging Fruit bugs  Made Me $120+ in 30 Minutes — Bugs That 80% of Hunters Ignore\n════════════════════════\n𐀪\nAuthor:\nBhavishthakral\n════════════════════════\nⴵ\nTime:\nTue, 09 Jun 2026 09:38:28 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#cybersecurity\n#bug_bounty_writeup",
+        "date": "2026-06-10T16:13:42+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121611_0_08fe0087.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121611_1_45355640.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121611",
+        "link": {
+          "title": "These Low-Hanging Fruit bugs  Made Me $120+ in 30 Minutes — Bugs That 80% of Hunters Ignore",
+          "url": "https://medium.com/@bhavishthakral123/these-low-hanging-fruit-bugs-made-me-120-in-30-minutes-bugs-that-80-of-hunters-ignore-402258b69ec3?source=rss------bug_bounty_writeup-5"
+        }
+      },
+      {
+        "id": 121610,
+        "text": "⤷\nTitle:\nNon-group members can be added to projects even though the “Users cannot be added to projects in…\n════════════════════════\n𐀪\nAuthor:\nRohmad Hidayah\n════════════════════════\nⴵ\nTime:\nTue, 09 Jun 2026 12:31:47 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_writeup\n#business_logic_flaw\n#gitlab",
+        "date": "2026-06-10T16:13:38+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121610_0_08fe0087.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121610_1_dc07c8bc.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121610",
+        "link": {
+          "title": "Non-group members can be added to projects even though the “Users cannot be added to projects in…",
+          "url": "https://medium.com/@r0hm4d/non-group-members-can-be-added-to-projects-even-though-the-users-cannot-be-added-to-projects-in-deeb8ff41fd4?source=rss------bug_bounty_writeup-5"
+        }
+      },
+      {
+        "id": 121609,
+        "text": "⤷\nTitle:\nIDOR allows non-group members to add any group to favorites on their Facebook profile\n════════════════════════\n𐀪\nAuthor:\nRohmad Hidayah\n════════════════════════\nⴵ\nTime:\nTue, 09 Jun 2026 12:47:33 GMT\n════════════════════════\n⌗\nTags:\n#meta_bug_bounty\n#facebook_bug_bounty\n#idor\n#bug_bounty_writeup",
+        "date": "2026-06-10T16:13:35+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121609_0_08fe0087.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121609_1_8260bbfb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121609",
+        "link": {
+          "title": "IDOR allows non-group members to add any group to favorites on their Facebook profile",
+          "url": "https://medium.com/@r0hm4d/idor-allows-non-group-members-to-add-any-group-to-favorites-on-their-facebook-profile-466f7ab35f27?source=rss------bug_bounty_writeup-5"
+        }
+      },
+      {
+        "id": 121608,
+        "text": "⤷\nTitle:\nEasy 150$ Bounty: Delete all votes\n════════════════════════\n𐀪\nAuthor:\nMusab Sarı\n════════════════════════\nⴵ\nTime:\nTue, 09 Jun 2026 15:31:56 GMT\n════════════════════════\n⌗\nTags:\n#hackerone\n#cybersecurity\n#bug_bounty\n#bug_bounty_writeup\n#broken_access_control",
+        "date": "2026-06-10T16:13:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121608_0_08fe0087.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121608_1_fd7e7295.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121608",
+        "link": {
+          "title": "Easy 150$ Bounty: Delete all votes",
+          "url": "https://medium.com/@sari.mmusab/easy-150-bounty-delete-all-votes-d0dc4a4becd5?source=rss------bug_bounty_writeup-5"
+        }
+      },
+      {
+        "id": 121607,
+        "text": "⤷\nTitle:\nSOC127 — SQL Injection Detected\n════════════════════════\n𐀪\nAuthor:\nMistermanuniq\n════════════════════════\nⴵ\nTime:\nSun, 07 Jun 2026 15:39:35 GMT\n════════════════════════\n⌗\nTags:\n#sql_injection\n#soc127\n#letsdefendio\n#lets_defend\n#letsdefend_writeup",
+        "date": "2026-06-10T16:13:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121607_0_08fe0087.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121607_1_c82777cb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121607",
+        "link": {
+          "title": "SOC127 — SQL Injection Detected",
+          "url": "https://astrasoulz.medium.com/soc127-sql-injection-detected-8d1fb00c81ae?source=rss------sql_injection-5"
+        }
+      },
+      {
+        "id": 121606,
+        "text": "⤷\nTitle:\nBreach Files #006: MOVEit Transfer (2023)\n════════════════════════\n𐀪\nAuthor:\nNullyBlissful\n════════════════════════\nⴵ\nTime:\nMon, 08 Jun 2026 02:31:00 GMT\n════════════════════════\n⌗\nTags:\n#sql_injection\n#mitre_attack\n#cybersecurity\n#infosec\n#ransomware",
+        "date": "2026-06-10T16:13:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121606_0_08fe0087.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121606_1_4d26ab26.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121606",
+        "link": {
+          "title": "Breach Files #006: MOVEit Transfer (2023)",
+          "url": "https://nullyblissful.medium.com/breach-files-006-moveit-transfer-2023-5976a78b93ee?source=rss------sql_injection-5"
+        }
+      },
+      {
         "id": 121436,
         "text": "⤷\nTitle:\nCVE-2026-11332: How I found an Argument Injection in Ansible, leading to RCE\n════════════════════════\n𐀪\nAuthor:\nTommaso Bona\n════════════════════════\nⴵ\nTime:\nFri, 05 Jun 2026 18:20:04 GMT\n════════════════════════\n⌗\nTags:\n#rce\n#redhat_linux\n#cve\n#remote_code_execution\n#ansible",
         "date": "2026-06-05T19:04:01+00:00",
@@ -1820,478 +2280,22 @@
           "title": "Sovereign Compromise: Zero-Day “MiniPlasma” Flaw Grants SYSTEM Privileges in Windows",
           "url": "https://meterpreter.org/miniplasma-windows-zero-day/"
         }
-      },
-      {
-        "id": 121344,
-        "text": "⤷\nTitle:\nOperation KRATOS 2: Global Law Enforcement Strikes Piracy Syndicates Ahead of World Cup 2026\n════════════════════════\n𐀪\nAuthor:\nddos\n════════════════════════\nⴵ\nTime:\nFri, 05 Jun 2026 03:07:43 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#cybersecurity\nrisk\n#Europol\nIPTV\n#illegal\nstreaming\n#Operation\n#Operation\nKRATOS 2 piracy\n#sports\npiracy fraud\n#World\nCup spoofing",
-        "date": "2026-06-05T05:03:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121344_0_cc2382fe.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121344_1_5194ce03.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121344",
-        "link": {
-          "title": "Operation KRATOS 2: Global Law Enforcement Strikes Piracy Syndicates Ahead of World Cup 2026",
-          "url": "https://meterpreter.org/operation-kratos-2-piracy/"
-        }
-      },
-      {
-        "id": 121343,
-        "text": "⤷\nTitle:\nThe Synthetic Swarm: Researchers Engineer Autonomous AI-Powered Worm\n════════════════════════\n𐀪\nAuthor:\nddos\n════════════════════════\nⴵ\nTime:\nFri, 05 Jun 2026 03:09:43 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#adaptive\ncyber threat\n#AI\npowered computer worm\n#autonomous\nnetwork propagation\n#network\nsecurity telemetry\n#open\nsource malware model\n#self\nreplicating prompt",
-        "date": "2026-06-05T05:03:47+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121343_0_cc2382fe.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121343_1_2ab0399b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121343",
-        "link": {
-          "title": "The Synthetic Swarm: Researchers Engineer Autonomous AI-Powered Worm",
-          "url": "https://meterpreter.org/ai-powered-computer-worm/"
-        }
-      },
-      {
-        "id": 121342,
-        "text": "⤷\nTitle:\nI Was Just Browsing. Then I Found a Vulnerability That Exposed an Entire Database.\n════════════════════════\n𐀪\nAuthor:\nSai Keerthan\n════════════════════════\nⴵ\nTime:\nFri, 05 Jun 2026 03:01:03 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#responsible_disclosure\n#sql_injection\n#ethical_hacking\n#programming",
-        "date": "2026-06-05T03:04:29+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121342_0_cc2382fe.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121342_1_61a25eae.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121342",
-        "link": {
-          "title": "I Was Just Browsing. Then I Found a Vulnerability That Exposed an Entire Database.",
-          "url": "https://medium.com/@saikarthan2/i-was-just-browsing-then-i-found-a-vulnerability-that-exposed-an-entire-database-27fc35926e32?source=rss------sql_injection-5"
-        }
-      },
-      {
-        "id": 121341,
-        "text": "⤷\nTitle:\nUnderstanding K2 Spice Paper: Risks, Trends, and Public Safety Concerns\n════════════════════════\n𐀪\nAuthor:\nTor BBB\n════════════════════════\nⴵ\nTime:\nFri, 05 Jun 2026 01:05:16 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#darkweb\n#cybersecurity\n#osint",
-        "date": "2026-06-05T03:04:26+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121341_0_cc2382fe.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121341",
-        "link": {
-          "title": "Understanding K2 Spice Paper: Risks, Trends, and Public Safety Concerns",
-          "url": "https://medium.com/@Torbbb_Official/understanding-k2-spice-paper-risks-trends-and-public-safety-concerns-86dc2b86104a?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 121340,
-        "text": "⤷\nTitle:\nYou Don’t Need More Tools. You Need Better Habits.\n════════════════════════\n𐀪\nAuthor:\nDecline\n════════════════════════\nⴵ\nTime:\nFri, 05 Jun 2026 02:21:27 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#bug_bounty_writeup\n#bug_hunting\n#bugbounty_writeup\n#bug_bounty_tips",
-        "date": "2026-06-05T03:04:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121340_0_cc2382fe.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121340_1_46092d13.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121340",
-        "link": {
-          "title": "You Don’t Need More Tools. You Need Better Habits.",
-          "url": "https://medium.com/@userwithheart/you-dont-need-more-tools-you-need-better-habits-79fba6aa5325?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 121339,
-        "text": "⤷\nTitle:\nSSHFS Command Execution Exploit Code Released Publicly\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 05 Jun 2026 01:00:05 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Argument\nInjection\n#CVE_2026_47187\n#CVE_2026_48711\n#Linux\nSecurity\n#Local\nCode Execution\n#SSHFS\n#Symlink\nEscape",
-        "date": "2026-06-05T03:04:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121339_0_cc2382fe.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121339_1_0fc2d913.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121339",
-        "link": {
-          "title": "SSHFS Command Execution Exploit Code Released Publicly",
-          "url": "https://securityonline.info/sshfs-command-execution-exploit/"
-        }
-      },
-      {
-        "id": 121338,
-        "text": "⤷\nTitle:\n53M Downloads At Risk: Critical 9.8 CVSS Vitest Remote Code Execution Vulnerabilities Disclosed\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 05 Jun 2026 01:30:20 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Browser\nMode\n#CVE_2026_47428\n#Node\n.js Security\n#Open\nSource Vulnerability\n#Test\nFramework Security\n#Vite\n#Vitest",
-        "date": "2026-06-05T03:04:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121338_0_cc2382fe.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121338_1_41280271.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121338",
-        "link": {
-          "title": "53M Downloads At Risk: Critical 9.8 CVSS Vitest Remote Code Execution Vulnerabilities Disclosed",
-          "url": "https://securityonline.info/vitest-remote-code-execution-vulnerabilities/"
-        }
-      },
-      {
-        "id": 121329,
-        "text": "⤷\nTitle:\nTryHackMe CTF Walkthrough — c4ptur3-th3-fl4g\n════════════════════════\n𐀪\nAuthor:\nCallum Clark\n════════════════════════\nⴵ\nTime:\nFri, 05 Jun 2026 00:35:39 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ctf_writeup\n#tryhackme\n#tryhackme_walkthrough\n#ctf",
-        "date": "2026-06-05T01:04:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121329_0_cc2382fe.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121329_1_c0bb40f8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121329",
-        "link": {
-          "title": "TryHackMe CTF Walkthrough — c4ptur3-th3-fl4g",
-          "url": "https://medium.com/@cjc.cyber/tryhackme-ctf-walkthrough-c4ptur3-th3-fl4g-cf0d4fd29b68?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 121328,
-        "text": "⤷\nTitle:\n“Google ile Giriş Yap” Ne Kadar Güvenli? OAuth ve SSO\n════════════════════════\n𐀪\nAuthor:\nZeki Kayaalp\n════════════════════════\nⴵ\nTime:\nThu, 04 Jun 2026 23:02:15 GMT\n════════════════════════\n⌗\nTags:\n#information_security\n#hacking\n#cybersecurity\n#programming\n#oauth",
-        "date": "2026-06-05T01:04:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121328_0_cc2382fe.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121328_1_2217ba5c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121328",
-        "link": {
-          "title": "“Google ile Giriş Yap” Ne Kadar Güvenli? OAuth ve SSO",
-          "url": "https://zekikayaalp.medium.com/google-ile-giri%C5%9F-yap-ne-kadar-g%C3%BCvenli-oauth-ve-sso-3a4aa5370c86?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 121327,
-        "text": "⤷\nTitle:\nThe Cybersecurity Education Industry Has a Problem. SkelerSecurity Decided to Fix It.\n════════════════════════\n𐀪\nAuthor:\nSkelerSecurity\n════════════════════════\nⴵ\nTime:\nThu, 04 Jun 2026 23:16:39 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#skeler_certified\n#freelancing\n#cybersecurity\n#certification",
-        "date": "2026-06-05T01:04:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121327_0_cc2382fe.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121327_1_477fdd93.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121327",
-        "link": {
-          "title": "The Cybersecurity Education Industry Has a Problem. SkelerSecurity Decided to Fix It.",
-          "url": "https://medium.com/@skelersecurity/the-cybersecurity-education-industry-has-a-problem-skelersecurity-decided-to-fix-it-1328ccafd523?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 121326,
-        "text": "⤷\nTitle:\nPeople Trust Signal With Their Most Private Conversations. Hackers Know It\n════════════════════════\n𐀪\nAuthor:\nKelly Carmichael\n════════════════════════\nⴵ\nTime:\nFri, 05 Jun 2026 00:35:11 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#life\n#privacy\n#technology\n#cybersecurity",
-        "date": "2026-06-05T01:03:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121326_0_cc2382fe.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121326_1_1f953971.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121326",
-        "link": {
-          "title": "People Trust Signal With Their Most Private Conversations. Hackers Know It",
-          "url": "https://medium.com/bouncin-and-behavin-blogs/people-trust-signal-with-their-most-private-conversations-hackers-know-it-7b2bb7b904c5?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 121325,
-        "text": "⤷\nTitle:\nMy Instructor Said “You Can’t Get a Shell.” I Got Root. — Full Web Pentest Exam Write-Up\n════════════════════════\n𐀪\nAuthor:\nShikhali Jamalzade\n════════════════════════\nⴵ\nTime:\nThu, 04 Jun 2026 23:05:22 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#cybersecurity\n#bug_bounty_writeup\n#web_penetration_testing\n#penetration_testing",
-        "date": "2026-06-05T01:03:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121325_0_cc2382fe.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121325_1_bf6307e8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121325",
-        "link": {
-          "title": "My Instructor Said “You Can’t Get a Shell.” I Got Root. — Full Web Pentest Exam Write-Up",
-          "url": "https://alisalive.medium.com/my-instructor-said-you-cant-get-a-shell-i-got-root-full-web-pentest-exam-write-up-a82c804ce8e2?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 121324,
-        "text": "⤷\nTitle:\nSecurity Assessment Report: Full Exploit Chain (SQLi to RCE)\n════════════════════════\n𐀪\nAuthor:\nOrion\n════════════════════════\nⴵ\nTime:\nThu, 04 Jun 2026 23:44:04 GMT\n════════════════════════\n⌗\nTags:\n#bad_authlogic\n#file_upload_vulnerability\n#web_vulnerabilities\n#bug_bounty\n#sqli",
-        "date": "2026-06-05T01:03:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121324_0_cc2382fe.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121324_1_650267da.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121324",
-        "link": {
-          "title": "Security Assessment Report: Full Exploit Chain (SQLi to RCE)",
-          "url": "https://orion7715.medium.com/security-assessment-report-full-exploit-chain-sqli-to-rce-5c6407fc34d1?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 121323,
-        "text": "⤷\nTitle:\nThe Definitive Guide to WSL 2 for Cybersecurity and Development: Installation and Commands\n════════════════════════\n𐀪\nAuthor:\nJPablo13\n════════════════════════\nⴵ\nTime:\nFri, 05 Jun 2026 00:01:01 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#linux\n#penetration_testing\n#technology\n#cybersecurity",
-        "date": "2026-06-05T01:03:48+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121323_0_cc2382fe.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121323_1_8da0aef1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121323",
-        "link": {
-          "title": "The Definitive Guide to WSL 2 for Cybersecurity and Development: Installation and Commands",
-          "url": "https://medium.com/@jpablo13/the-definitive-guide-to-wsl-2-for-cybersecurity-and-development-installation-and-commands-f251dea44e9b?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 121322,
-        "text": "⤷\nTitle:\nThe Next API Security Problem: Agentic API Execution\n════════════════════════\n𐀪\nAuthor:\nKrishna\n════════════════════════\nⴵ\nTime:\nThu, 04 Jun 2026 22:03:48 GMT\n════════════════════════\n⌗\nTags:\n#agentic_ai\n#developer\n#ai_agent\n#api_security\n#cybersecurity",
-        "date": "2026-06-04T23:03:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121322_0_cc2382fe.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121322_1_46caafca.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121322",
-        "link": {
-          "title": "The Next API Security Problem: Agentic API Execution",
-          "url": "https://medium.com/@rk1590/the-next-api-security-problem-agentic-api-execution-6f57b48969dd?source=rss------api_security-5"
-        }
-      },
-      {
-        "id": 121321,
-        "text": "⤷\nTitle:\nTryHackMe Pickle Rick Complete Walkthrough\n════════════════════════\n𐀪\nAuthor:\nGohilharsh\n════════════════════════\nⴵ\nTime:\nThu, 04 Jun 2026 21:35:56 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#penetration_testing\n#tryhackme\n#cybersecurity",
-        "date": "2026-06-04T23:03:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121321_0_cc2382fe.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121321_1_1af8a9b6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121321",
-        "link": {
-          "title": "TryHackMe Pickle Rick Complete Walkthrough",
-          "url": "https://medium.com/@gohilharsh166/tryhackme-pickle-rick-complete-walkthrough-21733c027f7a?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 121320,
-        "text": "⤷\nTitle:\nThe OWASP LLM Top 10 — What Every Developer Needs to Know\n════════════════════════\n𐀪\nAuthor:\nKay Adelaja\n════════════════════════\nⴵ\nTime:\nThu, 04 Jun 2026 22:25:36 GMT\n════════════════════════\n⌗\nTags:\n#application_security\n#cybersecurity\n#artificial_intelligence",
-        "date": "2026-06-04T23:03:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121320_0_cc2382fe.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121320_1_eb6cb88d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121320",
-        "link": {
-          "title": "The OWASP LLM Top 10 — What Every Developer Needs to Know",
-          "url": "https://medium.com/@akolade.adelaja/the-owasp-llm-top-10-what-every-developer-needs-to-know-bb75df670a20?source=rss------application_security-5"
-        }
-      },
-      {
-        "id": 121319,
-        "text": "⤷\nTitle:\nMaster Guide: Solving All PortSwigger CORS Vulnerabilities\n════════════════════════\n𐀪\nAuthor:\nAyeshaaghafoor\n════════════════════════\nⴵ\nTime:\nThu, 04 Jun 2026 22:35:43 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#cybersecurity\n#education\n#bug_bounty\n#web_security",
-        "date": "2026-06-04T23:03:48+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121319_0_cc2382fe.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121319_1_6fa60855.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121319",
-        "link": {
-          "title": "Master Guide: Solving All PortSwigger CORS Vulnerabilities",
-          "url": "https://medium.com/@ayeshaaghafoor48/master-guide-solving-all-portswigger-cors-vulnerabilities-37e8b912ce6b?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 121318,
-        "text": "⤷\nTitle:\nI Know CPCSC Is Coming. What Do I Do, and When?\n════════════════════════\n𐀪\nAuthor:\nYounos Nazarian\n════════════════════════\nⴵ\nTime:\nThu, 04 Jun 2026 19:49:53 GMT\n════════════════════════\n⌗\nTags:\n#cpcsc\n#cybersecurity\n#defense\n#cmmc\n#infosec",
-        "date": "2026-06-04T21:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121318_0_fad7c676.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121318_1_db4c212d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121318",
-        "link": {
-          "title": "I Know CPCSC Is Coming. What Do I Do, and When?",
-          "url": "https://medium.com/@YounosNazarian/i-know-cpcsc-is-coming-what-do-i-do-and-when-3745736002ce?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 121317,
-        "text": "⤷\nTitle:\nThe Best Certifications to Pursue After BTL1 (A SOC Analyst’s Guide to What Comes Next)\n════════════════════════\n𐀪\nAuthor:\nMotasem Hamdan\n════════════════════════\nⴵ\nTime:\nThu, 04 Jun 2026 20:52:54 GMT\n════════════════════════\n⌗\nTags:\n#technology\n#cybersecurity\n#infosec\n#careers\n#tech",
-        "date": "2026-06-04T21:03:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121317_0_fad7c676.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121317_1_d47d5bd0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121317",
-        "link": {
-          "title": "The Best Certifications to Pursue After BTL1 (A SOC Analyst’s Guide to What Comes Next)",
-          "url": "https://motasemhamdan.medium.com/the-best-certifications-to-pursue-after-btl1-a-soc-analysts-guide-to-what-comes-next-c733b1c75d51?source=rss------infosec-5"
-        }
       }
     ]
   },
-  "last_update": "2026-06-10T14:16:45.455164+00:00",
+  "last_update": "2026-06-10T17:43:26.147061+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 194,
-    "total_files": 194,
+    "total_media": 195,
+    "total_files": 195,
     "total_links": 0,
     "files_by_type": {
-      "image": 194
+      "image": 195
     },
-    "referenced_files": 194,
-    "existing_media_files": 194,
-    "total_size_mb": 5.62,
-    "last_calculation": "2026-06-10T14:16:45.457435+00:00"
+    "referenced_files": 195,
+    "existing_media_files": 195,
+    "total_size_mb": 5.58,
+    "last_calculation": "2026-06-10T17:43:26.149431+00:00"
   }
 }
