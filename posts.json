@@ -2,6 +2,255 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 121802,
+        "text": "⤷\nTitle:\n[THM] Brains — Writeup\n════════════════════════\n𐀪\nAuthor:\nBonestorm\n════════════════════════\nⴵ\nTime:\nThu, 11 Jun 2026 20:24:53 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ctf\n#ctf_writeup\n#tryhackme",
+        "date": "2026-06-11T22:04:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121802_0_d79810fe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121802_1_fe42bc27.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121802",
+        "link": {
+          "title": "[THM] Brains — Writeup",
+          "url": "https://medium.com/@bonestorm/thm-brains-writeup-395fd0c2969a?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 121801,
+        "text": "⤷\nTitle:\nExploiting Weak Credentials, WebDAV, and SMB Shares: An INE Host-Based Attacks Walkthrough\n════════════════════════\n𐀪\nAuthor:\nAditya Bhardwaj\n════════════════════════\nⴵ\nTime:\nThu, 11 Jun 2026 20:46:45 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#cybersecurity\n#windows_security\n#capture_the_flag\n#penetration_testing",
+        "date": "2026-06-11T22:04:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121801_0_d79810fe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121801_1_6a757bc8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121801",
+        "link": {
+          "title": "Exploiting Weak Credentials, WebDAV, and SMB Shares: An INE Host-Based Attacks Walkthrough",
+          "url": "https://medium.com/@abd.aditya10/exploiting-weak-credentials-webdav-and-smb-shares-an-ine-host-based-attacks-walkthrough-a6fecc4978a8?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 121800,
+        "text": "⤷\nTitle:\nHow a Single KQL Query Stopped an Entire EvilTokens Phishing Campaign\n════════════════════════\n𐀪\nAuthor:\nMatt Swann\n════════════════════════\nⴵ\nTime:\nThu, 11 Jun 2026 21:29:58 GMT\n════════════════════════\n⌗\nTags:\n#detection_engineering\n#infosec\n#eviltokens\n#phishing\n#cybersecurity",
+        "date": "2026-06-11T22:04:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121800_0_d79810fe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121800_1_e0b00504.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121800",
+        "link": {
+          "title": "How a Single KQL Query Stopped an Entire EvilTokens Phishing Campaign",
+          "url": "https://medium.com/@mattcswann/how-a-single-kql-query-stopped-an-entire-eviltokens-phishing-campaign-9b9dd4e32920?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 121799,
+        "text": "⤷\nTitle:\nGreatXML: How a Setup File Unlocked BitLocker — And Why Microsoft Can’t Stop This Researcher\n════════════════════════\n𐀪\nAuthor:\nShikhali Jamalzade\n════════════════════════\nⴵ\nTime:\nThu, 11 Jun 2026 20:28:30 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#cybersecurity\n#windows\n#technology\n#infosec",
+        "date": "2026-06-11T22:04:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121799_0_d79810fe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121799_1_7bb63172.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121799",
+        "link": {
+          "title": "GreatXML: How a Setup File Unlocked BitLocker — And Why Microsoft Can’t Stop This Researcher",
+          "url": "https://alisalive.medium.com/greatxml-how-a-setup-file-unlocked-bitlocker-and-why-microsoft-cant-stop-this-researcher-674d42c00417?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 121798,
+        "text": "⤷\nTitle:\nI Checked the Dark Web and Found My Own Password For Sale\n════════════════════════\n𐀪\nAuthor:\nBENSEC\n════════════════════════\nⴵ\nTime:\nThu, 11 Jun 2026 20:30:06 GMT\n════════════════════════\n⌗\nTags:\n#data_breach\n#privacy\n#passwords\n#cybersecurity\n#hacking",
+        "date": "2026-06-11T22:04:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121798_0_d79810fe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121798_1_0e7244cd.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121798",
+        "link": {
+          "title": "I Checked the Dark Web and Found My Own Password For Sale",
+          "url": "https://medium.com/@bensec/i-checked-the-dark-web-and-found-my-own-password-for-sale-c17a1294226e?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 121797,
+        "text": "⤷\nTitle:\nThe Hackers Who Hid Inside Your Router — and Nobody Noticed for a Year\n════════════════════════\n𐀪\nAuthor:\nPop123\n════════════════════════\nⴵ\nTime:\nThu, 11 Jun 2026 21:00:23 GMT\n════════════════════════\n⌗\nTags:\n#technology\n#politics\n#linux\n#cybersecurity\n#hacking",
+        "date": "2026-06-11T22:04:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121797_0_d79810fe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121797_1_a21399d9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121797",
+        "link": {
+          "title": "The Hackers Who Hid Inside Your Router — and Nobody Noticed for a Year",
+          "url": "https://medium.com/@Pop123/the-hackers-who-hid-inside-your-router-and-nobody-noticed-for-a-year-b15822f64e23?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 121796,
+        "text": "⤷\nTitle:\nDLL Injection via Thread Hijacking Without Executable Memory\n════════════════════════\n𐀪\nAuthor:\nS12 - 0x12Dark Development\n════════════════════════\nⴵ\nTime:\nThu, 11 Jun 2026 21:02:12 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#pentesting\n#malware\n#infosec\n#cybersecurity",
+        "date": "2026-06-11T22:04:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121796_0_d79810fe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121796_1_d9acff33.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121796",
+        "link": {
+          "title": "DLL Injection via Thread Hijacking Without Executable Memory",
+          "url": "https://medium.com/@s12deff/dll-injection-via-thread-hijacking-without-executable-memory-6ae94f17f2b4?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 121795,
+        "text": "⤷\nTitle:\nAPI Fuzzing for Security Testing: Part 2A: Breaking Authentication & Authorization\n════════════════════════\n𐀪\nAuthor:\nFuzzyy Duck\n════════════════════════\nⴵ\nTime:\nThu, 11 Jun 2026 20:03:05 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#api\n#web_security\n#bug_bounty_tips\n#bug_bounty_writeup",
+        "date": "2026-06-11T22:04:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121795_0_d79810fe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121795_1_2ef65452.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121795",
+        "link": {
+          "title": "API Fuzzing for Security Testing: Part 2A: Breaking Authentication & Authorization",
+          "url": "https://osintteam.blog/api-fuzzing-for-security-testing-part-2a-breaking-authentication-authorization-5a8b8a2c1a96?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 121794,
+        "text": "⤷\nTitle:\n“We Encrypt With AES-256” Is Not a Security Architecture\n════════════════════════\n𐀪\nAuthor:\nKalyan Dev\n════════════════════════\nⴵ\nTime:\nThu, 11 Jun 2026 21:25:44 GMT\n════════════════════════\n⌗\nTags:\n#cryptocurrency\n#ae\n#bug_bounty\n#security\n#cybersecurity",
+        "date": "2026-06-11T22:03:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121794_0_d79810fe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121794_1_d3d41fec.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121794",
+        "link": {
+          "title": "“We Encrypt With AES-256” Is Not a Security Architecture",
+          "url": "https://medium.com/@kalyan.dev.me/we-encrypt-with-aes-256-is-not-a-security-architecture-17ecffc0cd09?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 121793,
+        "text": "⤷\nTitle:\nShinyHunters Leak 40GB of University of Nottingham Student Data\n════════════════════════\n𐀪\nAuthor:\nDeeba Ahmed\n════════════════════════\nⴵ\nTime:\nThu, 11 Jun 2026 20:05:18 +0000\n════════════════════════\n⌗\nTags:\n#Data\nBreaches\n#Leaks\n#Security\n#Cyber\nAttack\n#Cyber\nCrime\n#Cybersecurity\n#Education\n#Privacy\n#ShinyHunters\n#United\nKingdom\n#University\nof Nottingham",
+        "date": "2026-06-11T22:03:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121793_0_d79810fe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121793_1_7b7c9b03.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121793",
+        "link": {
+          "title": "ShinyHunters Leak 40GB of University of Nottingham Student Data",
+          "url": "https://hackread.com/shinyhunters-university-of-nottingham-student-data-leak/"
+        }
+      },
+      {
+        "id": 121792,
+        "text": "⤷\nTitle:\nShinyHunters Exploits Oracle PeopleSoft Zero-Day (CVE-2026-35273) to Breach Universities\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nFri, 12 Jun 2026 01:59:23 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-06-11T22:03:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121792_0_d79810fe.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121792",
+        "link": {
+          "title": "ShinyHunters Exploits Oracle PeopleSoft Zero-Day (CVE-2026-35273) to Breach Universities",
+          "url": "https://thehackernews.com/2026/06/shinyhunters-exploits-oracle-peoplesoft.html"
+        }
+      },
+      {
         "id": 121791,
         "text": "⤷\nTitle:\nHackSmarter BloodHound Guided Lab Challenge\n════════════════════════\n𐀪\nAuthor:\nPsych0s1s\n════════════════════════\nⴵ\nTime:\nThu, 11 Jun 2026 19:39:28 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#training\n#ethical_hacking",
         "date": "2026-06-11T20:04:56+00:00",
@@ -2019,275 +2268,22 @@
           "title": "From a Dream of Becoming a Doctor to a Journey in Ethical HackingHow curiosity, failures, and…",
           "url": "https://medium.com/@ks4656825/from-a-dream-of-becoming-a-doctor-to-a-journey-in-ethical-hacking-how-curiosity-failures-and-488f9ca96f62?source=rss------hacking-5"
         }
-      },
-      {
-        "id": 121680,
-        "text": "⤷\nTitle:\nPeopleSoft RCE Security Bug: New Oracle Fix\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 11 Jun 2026 04:40:22 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_35273\n#HTTP\nExploit\n#Oracle\nPatch\n#patch\nmanagement\n#PeopleSoft\nEnterprise\n#Remote\nCode Execution\n#Unauthenticated\nAttack",
-        "date": "2026-06-11T06:04:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121680_0_5531f332.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121680_1_c39ed0d7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121680",
-        "link": {
-          "title": "PeopleSoft RCE Security Bug: New Oracle Fix",
-          "url": "https://securityonline.info/peoplesoft-rce-security-bug/"
-        }
-      },
-      {
-        "id": 121679,
-        "text": "⤷\nTitle:\nPersistent Exposure: Exploitation of Legacy WinRAR Installations Persists Across Institutional Perimeters\n════════════════════════\n𐀪\nAuthor:\nddos\n════════════════════════\nⴵ\nTime:\nThu, 11 Jun 2026 04:09:42 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#Vulnerability\n#endpoint\nfile safety\n#Gamaredon\nscript execution\n#malware\nanalysis data\n#path\ntraversal patch\n#UAC_0226\nthreat intelligence\n#WinRAR\nCVE_2025_8088 exploit",
-        "date": "2026-06-11T06:04:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121679_0_5531f332.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121679_1_f1eee85c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121679",
-        "link": {
-          "title": "Persistent Exposure: Exploitation of Legacy WinRAR Installations Persists Across Institutional Perimeters",
-          "url": "https://meterpreter.org/winrar-cve-2025-8088-exploit/"
-        }
-      },
-      {
-        "id": 121678,
-        "text": "⤷\nTitle:\nThe Evaporation of the Patch Window: Anthropic Demonstrates AI-Driven Automation of N-Day Exploitation\n════════════════════════\n𐀪\nAuthor:\nddos\n════════════════════════\nⴵ\nTime:\nThu, 11 Jun 2026 04:12:05 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\n#Anthropic\nMythos research\n#automated\npatch analysis tool\n#binary\ndifferential reverse engineering\n#Firefox\nSpiderMonkey sandbox\n#local\nprivilege escalation bug\n#N_day\nvulnerability exploitation",
-        "date": "2026-06-11T06:04:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121678_0_5531f332.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121678_1_2218b62f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121678",
-        "link": {
-          "title": "The Evaporation of the Patch Window: Anthropic Demonstrates AI-Driven Automation of N-Day Exploitation",
-          "url": "https://meterpreter.org/n-day-vulnerability-exploitation/"
-        }
-      },
-      {
-        "id": 121677,
-        "text": "⤷\nTitle:\nPerceptive Ecosystems: Apple Unveils Next-Generation Apple Intelligence Architecture\n════════════════════════\n𐀪\nAuthor:\nddos\n════════════════════════\nⴵ\nTime:\nThu, 11 Jun 2026 04:15:22 +0000\n════════════════════════\n⌗\nTags:\n#Apple\n#Apple\nIntelligence feature upgrades\n#automated\npassword changes\n#Private\nCloud Compute\n#Siri\nAI platform update\n#spatial\nreframing tools\n#Tech\nNews",
-        "date": "2026-06-11T06:04:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121677_0_5531f332.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121677_1_502e4885.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121677",
-        "link": {
-          "title": "Perceptive Ecosystems: Apple Unveils Next-Generation Apple Intelligence Architecture",
-          "url": "https://meterpreter.org/apple-intelligence-feature-upgrades/"
-        }
-      },
-      {
-        "id": 121676,
-        "text": "⤷\nTitle:\nAlgorithmic Incentives: Codex Deploys Selective Referral Framework to Replenish Weekly Compute Quotas\n════════════════════════\n𐀪\nAuthor:\nddos\n════════════════════════\nⴵ\nTime:\nThu, 11 Jun 2026 04:20:22 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#artificial\nintelligence tools\n#computational\nquota reset\n#developer\nworkspace referral\n#invite\nsystem preferences\n#OpenAI\nCodex referral program\n#tech\nupdates",
-        "date": "2026-06-11T06:04:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121676_0_5531f332.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121676_1_9228e5f4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121676",
-        "link": {
-          "title": "Algorithmic Incentives: Codex Deploys Selective Referral Framework to Replenish Weekly Compute Quotas",
-          "url": "https://meterpreter.org/openai-codex-referral-program/"
-        }
-      },
-      {
-        "id": 121675,
-        "text": "⤷\nTitle:\nFrictionless Commerce: Apple Expands Near-Field Capabilities with Tap to Share in iOS 27\n════════════════════════\n𐀪\nAuthor:\nddos\n════════════════════════\nⴵ\nTime:\nThu, 11 Jun 2026 04:24:05 +0000\n════════════════════════\n⌗\nTags:\n#Apple\n#Apple\nTap to Share\n#contactless\npayment tools\n#digital\ninvoice mapping\n#iOS\n27 developer beta\n#merchant\nloyalty sync\n#mobile\nretail updates",
-        "date": "2026-06-11T06:04:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121675_0_5531f332.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121675_1_792b160c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121675",
-        "link": {
-          "title": "Frictionless Commerce: Apple Expands Near-Field Capabilities with Tap to Share in iOS 27",
-          "url": "https://meterpreter.org/apple-tap-to-share/"
-        }
-      },
-      {
-        "id": 121674,
-        "text": "⤷\nTitle:\nStructural Tremors: Microsoft Prepares for an Impending Xbox Reset\n════════════════════════\n𐀪\nAuthor:\nddos\n════════════════════════\nⴵ\nTime:\nThu, 11 Jun 2026 04:27:59 +0000\n════════════════════════\n⌗\nTags:\n#Microsoft\n#Asha\nSharma document\n#gaming\nfinancial deficit data\n#hardware\nsupply chain crisis\n#Project\nHelix console updates\n#Xbox\nReset memo leak",
-        "date": "2026-06-11T06:03:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121674_0_5531f332.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121674_1_fac5c3b7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121674",
-        "link": {
-          "title": "Structural Tremors: Microsoft Prepares for an Impending Xbox Reset",
-          "url": "https://meterpreter.org/xbox-reset-memo-leak/"
-        }
-      },
-      {
-        "id": 121673,
-        "text": "⤷\nTitle:\nPentesting Notes, Active Directory Part two\n════════════════════════\n𐀪\nAuthor:\nThe Husky Hacker\n════════════════════════\nⴵ\nTime:\nThu, 11 Jun 2026 01:55:25 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking",
-        "date": "2026-06-11T04:04:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121673_0_5531f332.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121673_1_0db643c4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121673",
-        "link": {
-          "title": "Pentesting Notes, Active Directory Part two",
-          "url": "https://medium.com/@TheHuskyHacker/pentesting-notes-active-directory-part-two-4062ec367bf8?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 121672,
-        "text": "⤷\nTitle:\nWalking on Venus\n════════════════════════\n𐀪\nAuthor:\nHouston Jones\n════════════════════════\nⴵ\nTime:\nThu, 11 Jun 2026 03:20:35 GMT\n════════════════════════\n⌗\nTags:\n#vulnhub\n#ctf_writeup\n#ethical_hacking\n#pentesting\n#venus",
-        "date": "2026-06-11T04:04:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121672_0_5531f332.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121672_1_b4d2ba28.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121672",
-        "link": {
-          "title": "Walking on Venus",
-          "url": "https://agentjones.medium.com/walking-on-venus-5f8149ecbdfe?source=rss------vulnhub-5"
-        }
-      },
-      {
-        "id": 121663,
-        "text": "⤷\nTitle:\nArasaka | HackSmarter | OSCP Preparation\n════════════════════════\n𐀪\nAuthor:\nSilentExploit\n════════════════════════\nⴵ\nTime:\nThu, 11 Jun 2026 00:48:02 GMT\n════════════════════════\n⌗\nTags:\n#ctf_writeup\n#hacking\n#infosec\n#hacker\n#ctf",
-        "date": "2026-06-11T02:04:31+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121663_0_5531f332.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121663_1_1f0138ac.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121663",
-        "link": {
-          "title": "Arasaka | HackSmarter | OSCP Preparation",
-          "url": "https://medium.com/@SilentExploit/arasaka-hacksmarter-oscp-preparation-556e1e2ae4af?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 121662,
-        "text": "⤷\nTitle:\nGuía Fundamental Sobre Information Disclosure\n════════════════════════\n𐀪\nAuthor:\nJPablo13\n════════════════════════\nⴵ\nTime:\nThu, 11 Jun 2026 00:01:01 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#bug_bounty\n#web_security\n#technology\n#cybersecurity",
-        "date": "2026-06-11T02:04:28+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121662_0_5531f332.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121662_1_b0a8cfbb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121662",
-        "link": {
-          "title": "Guía Fundamental Sobre Information Disclosure",
-          "url": "https://medium.com/@jpablo13/gu%C3%ADa-fundamental-sobre-information-disclosure-8e489a8ae3cd?source=rss------bug_bounty-5"
-        }
       }
     ]
   },
-  "last_update": "2026-06-11T21:12:42.150322+00:00",
+  "last_update": "2026-06-11T23:03:07.014732+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 193,
-    "total_files": 193,
+    "total_media": 192,
+    "total_files": 192,
     "total_links": 0,
     "files_by_type": {
-      "image": 193
+      "image": 192
     },
-    "referenced_files": 193,
-    "existing_media_files": 193,
-    "total_size_mb": 5.17,
-    "last_calculation": "2026-06-11T21:12:42.152671+00:00"
+    "referenced_files": 192,
+    "existing_media_files": 192,
+    "total_size_mb": 5.13,
+    "last_calculation": "2026-06-11T23:03:07.017059+00:00"
   }
 }
