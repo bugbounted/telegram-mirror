@@ -2,6 +2,301 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 121663,
+        "text": "⤷\nTitle:\nArasaka | HackSmarter | OSCP Preparation\n════════════════════════\n𐀪\nAuthor:\nSilentExploit\n════════════════════════\nⴵ\nTime:\nThu, 11 Jun 2026 00:48:02 GMT\n════════════════════════\n⌗\nTags:\n#ctf_writeup\n#hacking\n#infosec\n#hacker\n#ctf",
+        "date": "2026-06-11T02:04:31+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121663_0_5531f332.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121663_1_1f0138ac.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121663",
+        "link": {
+          "title": "Arasaka | HackSmarter | OSCP Preparation",
+          "url": "https://medium.com/@SilentExploit/arasaka-hacksmarter-oscp-preparation-556e1e2ae4af?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 121662,
+        "text": "⤷\nTitle:\nGuía Fundamental Sobre Information Disclosure\n════════════════════════\n𐀪\nAuthor:\nJPablo13\n════════════════════════\nⴵ\nTime:\nThu, 11 Jun 2026 00:01:01 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#bug_bounty\n#web_security\n#technology\n#cybersecurity",
+        "date": "2026-06-11T02:04:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121662_0_5531f332.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121662_1_b0a8cfbb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121662",
+        "link": {
+          "title": "Guía Fundamental Sobre Information Disclosure",
+          "url": "https://medium.com/@jpablo13/gu%C3%ADa-fundamental-sobre-information-disclosure-8e489a8ae3cd?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 121661,
+        "text": "⤷\nTitle:\nSpring Data Vulnerabilities: Patch Five Critical Flaws Now\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 11 Jun 2026 00:52:33 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_41716\n#CVE_2026_41717\n#CVE_2026_41729\n#cybersecurity\n#SpEL\ninjection\n#Spring\nData",
+        "date": "2026-06-11T02:04:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121661_0_5531f332.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121661_1_1f75da3d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121661",
+        "link": {
+          "title": "Spring Data Vulnerabilities: Patch Five Critical Flaws Now",
+          "url": "https://securityonline.info/spring-data-vulnerabilities-patch-flaws/"
+        }
+      },
+      {
+        "id": 121660,
+        "text": "⤷\nTitle:\nstrongSwan CVE-2026-47895: Double-Free Exploit Explained\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 11 Jun 2026 01:01:18 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_47895\n#cybersecurity\n#double_free\n#strongSwan",
+        "date": "2026-06-11T02:04:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121660_0_5531f332.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121660_1_151ba059.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121660",
+        "link": {
+          "title": "strongSwan CVE-2026-47895: Double-Free Exploit Explained",
+          "url": "https://securityonline.info/strongswan-cve-2026-47895/"
+        }
+      },
+      {
+        "id": 121659,
+        "text": "⤷\nTitle:\nPhpSpreadsheet RCE Vulnerability: PoC Exploit Disclosed for 312 Million Users\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 11 Jun 2026 01:33:50 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_45034\n#cybersecurity\n#Exploit\n#php\n#PhpSpreadsheet\n#rce",
+        "date": "2026-06-11T02:04:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121659_0_5531f332.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121659",
+        "link": {
+          "title": "PhpSpreadsheet RCE Vulnerability: PoC Exploit Disclosed for 312 Million Users",
+          "url": "https://securityonline.info/phpspreadsheet-rce-vulnerability-cve-2026-45034/"
+        }
+      },
+      {
+        "id": 121658,
+        "text": "⤷\nTitle:\nCritical NVIDIA DALI Vulnerabilities Require Immediate Action\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 11 Jun 2026 01:43:36 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#buffer\noverflow\n#CVE_2026_24180\n#CVE_2026_24181\n#cybersecurity\n#NVIDIA\nDALI",
+        "date": "2026-06-11T02:04:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121658_0_5531f332.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121658_1_191e3131.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121658",
+        "link": {
+          "title": "Critical NVIDIA DALI Vulnerabilities Require Immediate Action",
+          "url": "https://securityonline.info/nvidia-dali-vulnerabilities/"
+        }
+      },
+      {
+        "id": 121657,
+        "text": "⤷\nTitle:\nThey All Wear Hoodies. But They Are Not the Same.\n════════════════════════\n𐀪\nAuthor:\nIdorenyin Bassey\n════════════════════════\nⴵ\nTime:\nWed, 10 Jun 2026 23:25:49 GMT\n════════════════════════\n⌗\nTags:\n#computer_science\n#cybersecurity\n#hacktivism\n#ethical_hacking\n#networking",
+        "date": "2026-06-11T00:04:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121657_0_5531f332.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121657_1_51671097.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121657",
+        "link": {
+          "title": "They All Wear Hoodies. But They Are Not the Same.",
+          "url": "https://basseyidorenyin.medium.com/they-all-wear-hoodies-but-they-are-not-the-same-688c2c9ea389?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 121656,
+        "text": "⤷\nTitle:\nKernel Monarch\n════════════════════════\n𐀪\nAuthor:\nElkCamo138\n════════════════════════\nⴵ\nTime:\nWed, 10 Jun 2026 23:08:59 GMT\n════════════════════════\n⌗\nTags:\n#objdump\n#linux_kernel\n#hackthebox_writeup\n#reverse_engineering",
+        "date": "2026-06-11T00:04:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121656_0_5531f332.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121656_1_93777fd7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121656",
+        "link": {
+          "title": "Kernel Monarch",
+          "url": "https://medium.com/@elkcamo138/kernel-monarch-33a3799caf75?source=rss------hackthebox_writeup-5"
+        }
+      },
+      {
+        "id": 121655,
+        "text": "⤷\nTitle:\nc4ptur3-th3-fl4g — Encoding, Steganography, and the Art of Recognizing Patterns\n════════════════════════\n𐀪\nAuthor:\nJustin Jude Cabodil\n════════════════════════\nⴵ\nTime:\nWed, 10 Jun 2026 23:18:40 GMT\n════════════════════════\n⌗\nTags:\n#cryptography\n#linux\n#tryhackme\n#steganography",
+        "date": "2026-06-11T00:04:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121655_0_5531f332.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121655_1_2d0dbaae.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121655",
+        "link": {
+          "title": "c4ptur3-th3-fl4g — Encoding, Steganography, and the Art of Recognizing Patterns",
+          "url": "https://medium.com/@alph4r1us/c4ptur3-th3-fl4g-encoding-steganography-and-the-art-of-recognizing-patterns-550885852578?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 121654,
+        "text": "⤷\nTitle:\nPickle Rick CTF From cat Blocked to Root Shell (TryHackMe Walkthrough + Detection)\n════════════════════════\n𐀪\nAuthor:\nHammad Khan | SOC & Pentesting\n════════════════════════\nⴵ\nTime:\nWed, 10 Jun 2026 22:03:41 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_walkthrough\n#penetration_testing\n#linux\n#cybersecurity\n#ethical_hacking",
+        "date": "2026-06-11T00:04:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121654_0_5531f332.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121654_1_c9faae9f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121654",
+        "link": {
+          "title": "Pickle Rick CTF From cat Blocked to Root Shell (TryHackMe Walkthrough + Detection)",
+          "url": "https://medium.com/@hammad.k.sec/pickle-rick-ctf-from-cat-blocked-to-root-shell-tryhackme-walkthrough-detection-885365ed664e?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 121653,
+        "text": "⤷\nTitle:\nTryHackMe Jurassic Park Write-up\n════════════════════════\n𐀪\nAuthor:\nACJ\n════════════════════════\nⴵ\nTime:\nWed, 10 Jun 2026 23:48:40 GMT\n════════════════════════\n⌗\nTags:\n#ctf_writeup\n#ctf_walkthrough\n#ctf\n#hacking\n#tryhackme",
+        "date": "2026-06-11T00:03:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121653_0_5531f332.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121653_1_6b61dbe8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121653",
+        "link": {
+          "title": "TryHackMe Jurassic Park Write-up",
+          "url": "https://medium.com/@acj_hacking/tryhackme-jurassic-park-write-up-5531f609e0f0?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 121652,
+        "text": "⤷\nTitle:\nI Found a Critical OAuth Vulnerability in Open edX — Here’s How It Happened\n════════════════════════\n𐀪\nAuthor:\nAbdurrahim Jamalzada\n════════════════════════\nⴵ\nTime:\nWed, 10 Jun 2026 23:23:39 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#web_security\n#cybersecurity",
+        "date": "2026-06-11T00:03:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121652_0_5531f332.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121652_1_7f35a671.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121652",
+        "link": {
+          "title": "I Found a Critical OAuth Vulnerability in Open edX — Here’s How It Happened",
+          "url": "https://medium.com/@abdurrahimjamalzada/i-found-a-critical-oauth-vulnerability-in-open-edx-heres-how-it-happened-48b01b2370d9?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 121651,
+        "text": "⤷\nTitle:\nCritical UpdraftPlus CVE-2026-10795 Exploit Targets Millions\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 10 Jun 2026 23:42:36 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Authentication\nBypass\n#CVE_2026_10795\n#cybersecurity\n#UpdraftPlus\n#wordpress",
+        "date": "2026-06-11T00:03:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121651_0_5531f332.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121651_1_94a942d4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121651",
+        "link": {
+          "title": "Critical UpdraftPlus CVE-2026-10795 Exploit Targets Millions",
+          "url": "https://securityonline.info/updraftplus-cve-2026-10795-exploit/"
+        }
+      },
+      {
         "id": 121650,
         "text": "⤷\nTitle:\nOverview of the Security Audit and Script Operations\n════════════════════════\n𐀪\nAuthor:\nLazyboii\n════════════════════════\nⴵ\nTime:\nWed, 10 Jun 2026 21:21:47 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#cybersecurity\n#ux\n#technology",
         "date": "2026-06-10T22:04:19+00:00",
@@ -1981,321 +2276,22 @@
           "title": "[THM] Anthem — Writeup",
           "url": "https://medium.com/@bonestorm/thm-anthem-writeup-81a4ffd6f787?source=rss------tryhackme-5"
         }
-      },
-      {
-        "id": 121394,
-        "text": "⤷\nTitle:\nLo-Fi — TryHackMe Walkthrough\n════════════════════════\n𐀪\nAuthor:\nUtsav Thakur\n════════════════════════\nⴵ\nTime:\nFri, 05 Jun 2026 10:49:59 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_walkthrough\n#cybersecurity\n#ctf\n#lo_fi\n#tryhackme",
-        "date": "2026-06-05T11:04:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121394_0_cc2382fe.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121394_1_065c6a5c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121394",
-        "link": {
-          "title": "Lo-Fi — TryHackMe Walkthrough",
-          "url": "https://medium.com/@utsavthakur448/lo-fi-tryhackme-walkthrough-3de09b699056?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 121393,
-        "text": "⤷\nTitle:\nWhiterose — TryHackMe CTF Walkthrough\n════════════════════════\n𐀪\nAuthor:\nUtsav Thakur\n════════════════════════\nⴵ\nTime:\nFri, 05 Jun 2026 10:50:21 GMT\n════════════════════════\n⌗\nTags:\n#ctf\n#cybersecurity\n#tryhackme_walkthrough\n#tryhackme\n#white_rose",
-        "date": "2026-06-05T11:04:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121393_0_cc2382fe.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121393_1_b9cd2c99.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121393",
-        "link": {
-          "title": "Whiterose — TryHackMe CTF Walkthrough",
-          "url": "https://medium.com/@utsavthakur448/whiterose-tryhackme-ctf-walkthrough-1c78ea6114f1?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 121392,
-        "text": "⤷\nTitle:\nIs AI Replacing Cybersecurity Professionals? A Graduate’s Honest Take\n════════════════════════\n𐀪\nAuthor:\nSiddhesh Shinde\n════════════════════════\nⴵ\nTime:\nThu, 04 Jun 2026 17:33:15 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#ai\n#threat_intelligence\n#ethical_hacking\n#cybersecurity",
-        "date": "2026-06-05T11:04:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121392_0_cc2382fe.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121392_1_7a16b4eb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121392",
-        "link": {
-          "title": "Is AI Replacing Cybersecurity Professionals? A Graduate’s Honest Take",
-          "url": "https://medium.com/@shinde.msiddhesh/ai-in-cybersecurity-transformative-overhyped-or-both-a-graduates-honest-pov-c8d295d5932a?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 121391,
-        "text": "⤷\nTitle:\nInvestigation Breakdown — Part 5\n════════════════════════\n𐀪\nAuthor:\nghostyjoe\n════════════════════════\nⴵ\nTime:\nFri, 05 Jun 2026 08:56:54 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#security\n#osint\n#true_crime\n#hacking",
-        "date": "2026-06-05T11:04:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121391_0_cc2382fe.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121391_1_eeefb96c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121391",
-        "link": {
-          "title": "Investigation Breakdown — Part 5",
-          "url": "https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/investigation-breakdown-part-5-708bff167004?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 121390,
-        "text": "⤷\nTitle:\nI Spoofed a MAC Address and Bypassed a Firewall — Networking Basics Explained\n════════════════════════\n𐀪\nAuthor:\nPrashant Raj\n════════════════════════\nⴵ\nTime:\nFri, 05 Jun 2026 10:16:48 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#networking\n#technology\n#cybersecurity",
-        "date": "2026-06-05T11:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121390_0_cc2382fe.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121390_1_851ecf6c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121390",
-        "link": {
-          "title": "I Spoofed a MAC Address and Bypassed a Firewall — Networking Basics Explained",
-          "url": "https://medium.com/@rajprashantwork/i-spoofed-a-mac-address-and-bypassed-a-firewall-networking-basics-explained-5b248c01d150?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 121386,
-        "text": "⤷\nTitle:\nYou’ve Been Using APIs Your Entire Life — Now Let’s Learn How to Break Them\n════════════════════════\n𐀪\nAuthor:\nJijo Shibu\n════════════════════════\nⴵ\nTime:\nFri, 05 Jun 2026 07:50:36 GMT\n════════════════════════\n⌗\nTags:\n#web_security\n#cybersecurity\n#api\n#api_testing\n#api_security",
-        "date": "2026-06-05T09:04:34+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121386_0_cc2382fe.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121386_1_393cf23c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121386",
-        "link": {
-          "title": "You’ve Been Using APIs Your Entire Life — Now Let’s Learn How to Break Them",
-          "url": "https://medium.com/@jijoshibuwork/youve-been-using-apis-your-entire-life-now-let-s-learn-how-to-break-them-9ecd8c2dba67?source=rss------api_security-5"
-        }
-      },
-      {
-        "id": 121385,
-        "text": "⤷\nTitle:\nSQL Injection (SQLi): Understanding, Finding, Exploiting, and Preventing One of the Most Dangerous…\n════════════════════════\n𐀪\nAuthor:\nThewatchdog13\n════════════════════════\nⴵ\nTime:\nFri, 05 Jun 2026 07:09:00 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#sql_injection\n#owasp\n#web_security\n#cybersecurity",
-        "date": "2026-06-05T09:04:30+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121385_0_cc2382fe.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121385_1_e0910a13.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121385",
-        "link": {
-          "title": "SQL Injection (SQLi): Understanding, Finding, Exploiting, and Preventing One of the Most Dangerous…",
-          "url": "https://medium.com/@kizitoarinze50/sql-injection-sqli-understanding-finding-exploiting-and-preventing-one-of-the-most-dangerous-db087f84d3fb?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 121384,
-        "text": "⤷\nTitle:\nThe Security Tool That Made Me Realize How Blind I Was\n════════════════════════\n𐀪\nAuthor:\nFateyaly\n════════════════════════\nⴵ\nTime:\nFri, 05 Jun 2026 07:59:37 GMT\n════════════════════════\n⌗\nTags:\n#coding\n#ethical_hacking\n#programming\n#technology\n#cybersecurity",
-        "date": "2026-06-05T09:04:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121384_0_cc2382fe.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121384_1_e29daecc.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121384",
-        "link": {
-          "title": "The Security Tool That Made Me Realize How Blind I Was",
-          "url": "https://meetcyber.net/the-security-tool-that-made-me-realize-how-blind-i-was-423a906c8638?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 121383,
-        "text": "⤷\nTitle:\nCybersecurity Novel Series — Ghost Domain\n════════════════════════\n𐀪\nAuthor:\nLeiFeng\n════════════════════════\nⴵ\nTime:\nFri, 05 Jun 2026 07:16:16 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#cybersecurity\n#short_story\n#gothic_fiction\n#digital_privacy",
-        "date": "2026-06-05T09:04:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121383_0_cc2382fe.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121383_1_aa6e48c4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121383",
-        "link": {
-          "title": "Cybersecurity Novel Series — Ghost Domain",
-          "url": "https://medium.com/@leifeng1688/cybersecurity-novel-series-ghost-domain-e8378e85409b?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 121382,
-        "text": "⤷\nTitle:\nCISSP Chapter 4 — Part 2: Compliance Is Not a Checklist.\n════════════════════════\n𐀪\nAuthor:\nAtakan ATAK\n════════════════════════\nⴵ\nTime:\nFri, 05 Jun 2026 07:41:11 GMT\n════════════════════════\n⌗\nTags:\n#information_technology\n#cybersecurity\n#cissp\n#cyber_security_awareness\n#infosec",
-        "date": "2026-06-05T09:04:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121382_0_cc2382fe.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121382_1_1cb57e54.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121382",
-        "link": {
-          "title": "CISSP Chapter 4 — Part 2: Compliance Is Not a Checklist.",
-          "url": "https://medium.com/@atakannatak16/cissp-chapter-4-part-2-compliance-is-not-a-checklist-69ecfa0f931c?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 121381,
-        "text": "⤷\nTitle:\nCybersecurity Novel Series — ENTANGLEMENT ZERO\n════════════════════════\n𐀪\nAuthor:\nLeiFeng\n════════════════════════\nⴵ\nTime:\nFri, 05 Jun 2026 08:05:56 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#cybersecurity\n#science_fiction\n#quantum_computing\n#short_story",
-        "date": "2026-06-05T09:04:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121381_0_cc2382fe.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121381_1_8b5adf28.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121381",
-        "link": {
-          "title": "Cybersecurity Novel Series — ENTANGLEMENT ZERO",
-          "url": "https://medium.com/@leifeng1688/cybersecurity-novel-series-entanglement-zero-b0b8eb84cdc4?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 121380,
-        "text": "⤷\nTitle:\nIronWorm: Yet Another Supply-Chain Attack\n════════════════════════\n𐀪\nAuthor:\nJohn Philip\n════════════════════════\nⴵ\nTime:\nFri, 05 Jun 2026 07:35:00 GMT\n════════════════════════\n⌗\nTags:\n#software_development\n#software_engineering\n#hacking\n#xss_attack\n#programming",
-        "date": "2026-06-05T09:04:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121380_0_cc2382fe.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121380_1_109bdfde.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121380",
-        "link": {
-          "title": "IronWorm: Yet Another Supply-Chain Attack",
-          "url": "https://amjohnphilip.medium.com/ironworm-yet-another-supply-chain-attack-2e5c5973fcca?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 121379,
-        "text": "⤷\nTitle:\nMy eWPT Journey\n════════════════════════\n𐀪\nAuthor:\nGeorgi Hadzhinikiforov\n════════════════════════\nⴵ\nTime:\nFri, 05 Jun 2026 08:01:36 GMT\n════════════════════════\n⌗\nTags:\n#web_penetration_testing\n#bulgaria\n#hacking\n#penetration_testing\n#cybersecurity",
-        "date": "2026-06-05T09:04:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121379_0_cc2382fe.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121379_1_4c94d9ec.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121379",
-        "link": {
-          "title": "My eWPT Journey",
-          "url": "https://medium.com/@georgi-hadzhi/my-ewpt-journey-dc1acebf6ffb?source=rss------hacking-5"
-        }
       }
     ]
   },
-  "last_update": "2026-06-10T23:54:52.197058+00:00",
+  "last_update": "2026-06-11T02:14:16.002966+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 195,
-    "total_files": 195,
+    "total_media": 194,
+    "total_files": 194,
     "total_links": 0,
     "files_by_type": {
-      "image": 195
+      "image": 194
     },
-    "referenced_files": 195,
-    "existing_media_files": 195,
-    "total_size_mb": 5.74,
-    "last_calculation": "2026-06-10T23:54:52.199332+00:00"
+    "referenced_files": 194,
+    "existing_media_files": 194,
+    "total_size_mb": 5.48,
+    "last_calculation": "2026-06-11T02:14:16.005356+00:00"
   }
 }
