@@ -2,6 +2,370 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 121888,
+        "text": "⤷\nTitle:\nPluck CMS 4.7.13 | CVE-2020–29607 | Remote Code Execution via File Upload\n════════════════════════\n𐀪\nAuthor:\nFadliyanramaditia\n════════════════════════\nⴵ\nTime:\nFri, 12 Jun 2026 10:31:54 GMT\n════════════════════════\n⌗\nTags:\n#cve_2020_29607\n#cybersecurity\n#rce_vulnerability",
+        "date": "2026-06-12T12:04:42+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121888_0_d79810fe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121888_1_72551747.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121888",
+        "link": {
+          "title": "Pluck CMS 4.7.13 | CVE-2020–29607 | Remote Code Execution via File Upload",
+          "url": "https://medium.com/@fadliyanramaditia2021/pluck-cms-4-7-13-cve-2020-29607-remote-code-execution-via-file-upload-217cc61757f7?source=rss------rce_vulnerability-5"
+        }
+      },
+      {
+        "id": 121887,
+        "text": "⤷\nTitle:\nThe Hacker’s Playbook Revealed: Understanding the Diamond Model, Cyber Kill Chain, and MITRE ATT&CK…\n════════════════════════\n𐀪\nAuthor:\nShalu\n════════════════════════\nⴵ\nTime:\nFri, 12 Jun 2026 10:32:34 GMT\n════════════════════════\n⌗\nTags:\n#cyber_threat_intelligence\n#information_security\n#cybersecurity\n#networking\n#ethical_hacking",
+        "date": "2026-06-12T12:04:39+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121887_0_d79810fe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121887_1_992f18db.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121887",
+        "link": {
+          "title": "The Hacker’s Playbook Revealed: Understanding the Diamond Model, Cyber Kill Chain, and MITRE ATT&CK…",
+          "url": "https://medium.com/@shalu023/the-hackers-playbook-revealed-understanding-the-diamond-model-cyber-kill-chain-and-mitre-att-ck-2eb9818eac4c?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 121886,
+        "text": "⤷\nTitle:\nGrab Your Red Hat Certification This Summer While You Still Can\n════════════════════════\n𐀪\nAuthor:\ncybersecuritycourse\n════════════════════════\nⴵ\nTime:\nFri, 12 Jun 2026 10:53:49 GMT\n════════════════════════\n⌗\nTags:\n#education\n#ethical_hacking\n#red_hat_openshift\n#cybersecurity\n#redhat_linux",
+        "date": "2026-06-12T12:04:36+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121886_0_d79810fe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121886_1_ec0e4bd5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121886",
+        "link": {
+          "title": "Grab Your Red Hat Certification This Summer While You Still Can",
+          "url": "https://medium.com/@cybersecuritycourse/grab-your-red-hat-certification-this-summer-while-you-still-can-3d8be4b7c8f2?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 121885,
+        "text": "⤷\nTitle:\nDVAPI Walkthrough: A Complete API Penetration Testing Guide\n════════════════════════\n𐀪\nAuthor:\nParthick\n════════════════════════\nⴵ\nTime:\nFri, 12 Jun 2026 11:03:27 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#cybersecurity\n#api_security\n#owasp\n#ethical_hacking",
+        "date": "2026-06-12T12:04:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121885_0_d79810fe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121885_1_b5ff1fb2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121885",
+        "link": {
+          "title": "DVAPI Walkthrough: A Complete API Penetration Testing Guide",
+          "url": "https://medium.com/@parthick123/dvapi-walkthrough-a-complete-api-penetration-testing-guide-0393e72c9552?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 121884,
+        "text": "⤷\nTitle:\nIvanti Sentry Exploitation Attempts Highlight the Need for Proactive Vulnerability Management\n════════════════════════\n𐀪\nAuthor:\nJas\n════════════════════════\nⴵ\nTime:\nFri, 12 Jun 2026 11:15:24 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#cybersecurity\n#soc\n#threat_detection\n#vulnerability_management",
+        "date": "2026-06-12T12:04:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121884_0_d79810fe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121884_1_6c4efff7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121884",
+        "link": {
+          "title": "Ivanti Sentry Exploitation Attempts Highlight the Need for Proactive Vulnerability Management",
+          "url": "https://medium.com/@jasmitharouthu_58441/ivanti-sentry-exploitation-attempts-highlight-the-need-for-proactive-vulnerability-management-04ce4c01bd8e?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 121883,
+        "text": "⤷\nTitle:\nHTB — Principal | Linux | Medium\n════════════════════════\n𐀪\nAuthor:\nSawsagee\n════════════════════════\nⴵ\nTime:\nFri, 12 Jun 2026 10:01:49 GMT\n════════════════════════\n⌗\nTags:\n#hackthebox\n#infosec\n#cybersecurity",
+        "date": "2026-06-12T12:04:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121883_0_d79810fe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121883_1_e1a029ef.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121883",
+        "link": {
+          "title": "HTB — Principal | Linux | Medium",
+          "url": "https://medium.com/@akj8050/htb-principal-linux-medium-e699edfbd643?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 121882,
+        "text": "⤷\nTitle:\nTryHackMe IR Preparation Walkthrough | Incident Response Fundamentals\n════════════════════════\n𐀪\nAuthor:\nghosteye\n════════════════════════\nⴵ\nTime:\nFri, 12 Jun 2026 10:56:44 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#incident_response\n#blue_team\n#tryhackme\n#cybersecurity",
+        "date": "2026-06-12T12:04:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121882_0_d79810fe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121882_1_b528de91.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121882",
+        "link": {
+          "title": "TryHackMe IR Preparation Walkthrough | Incident Response Fundamentals",
+          "url": "https://medium.com/@proxyy/tryhackme-ir-preparation-walkthrough-incident-response-fundamentals-a8efbfcba739?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 121881,
+        "text": "⤷\nTitle:\nThe Clocktower Anomaly\n════════════════════════\n𐀪\nAuthor:\nAsh Noor\n════════════════════════\nⴵ\nTime:\nFri, 12 Jun 2026 11:30:59 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#cybersecurity\n#storytelling\n#leadership\n#technology",
+        "date": "2026-06-12T12:04:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121881_0_d79810fe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121881_1_ff2548ae.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121881",
+        "link": {
+          "title": "The Clocktower Anomaly",
+          "url": "https://ashernoor.medium.com/the-clocktower-anomaly-cf81c1b46dd6?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 121880,
+        "text": "⤷\nTitle:\nWhy Linux Vulnerabilities Are Increasing in 2026\n════════════════════════\n𐀪\nAuthor:\nTechrefreshing\n════════════════════════\nⴵ\nTime:\nFri, 12 Jun 2026 11:48:55 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#kernel_security\n#cloud_security\n#devsecops\n#cybersecurity",
+        "date": "2026-06-12T12:04:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121880_0_d79810fe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121880_1_3d8f5012.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121880",
+        "link": {
+          "title": "Why Linux Vulnerabilities Are Increasing in 2026",
+          "url": "https://medium.com/@techrefreshing02/why-linux-vulnerabilities-are-increasing-in-2026-f584d9c32d1e?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 121879,
+        "text": "⤷\nTitle:\nGreatXML: Nightmare Eclipse’s Latest BitLocker Bypass Raises New Questions About Disk Encryption…\n════════════════════════\n𐀪\nAuthor:\nAli Mansoor\n════════════════════════\nⴵ\nTime:\nFri, 12 Jun 2026 11:49:01 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#zero_day\n#threat_intelligence\n#cybersecurity\n#microsoft",
+        "date": "2026-06-12T12:04:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121879_0_d79810fe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121879_1_f97e02d5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121879",
+        "link": {
+          "title": "GreatXML: Nightmare Eclipse’s Latest BitLocker Bypass Raises New Questions About Disk Encryption…",
+          "url": "https://medium.com/@alimansoor1298/greatxml-nightmare-eclipses-latest-bitlocker-bypass-raises-new-questions-about-disk-encryption-f425ebfe9807?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 121878,
+        "text": "⤷\nTitle:\nATDORK\n════════════════════════\n𐀪\nAuthor:\nDzone\n════════════════════════\nⴵ\nTime:\nFri, 12 Jun 2026 10:04:19 GMT\n════════════════════════\n⌗\nTags:\n#google_dork\n#python\n#hacking\n#github\n#programming",
+        "date": "2026-06-12T12:04:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121878_0_d79810fe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121878_1_1e7dc67d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121878",
+        "link": {
+          "title": "ATDORK",
+          "url": "https://medium.com/@darep682/atdork-f1afed7abf87?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 121877,
+        "text": "⤷\nTitle:\nCan the Indian EVMs really be Hacked?\n════════════════════════\n𐀪\nAuthor:\nTushar Raturi\n════════════════════════\nⴵ\nTime:\nFri, 12 Jun 2026 10:11:15 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#ethical_hacking\n#technical_analysis\n#technology\n#hardware",
+        "date": "2026-06-12T12:04:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121877_0_d79810fe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121877_1_01e06582.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121877",
+        "link": {
+          "title": "Can the Indian EVMs really be Hacked?",
+          "url": "https://medium.com/@tusharraturi97/evm-security-analysis-8977ba0aa386?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 121876,
+        "text": "⤷\nTitle:\nWhy Your Subdomain Takeover Reports Keep Getting Closed as N/A (And How to Fix It).\n════════════════════════\n𐀪\nAuthor:\nOmar Mahmoud\n════════════════════════\nⴵ\nTime:\nFri, 12 Jun 2026 11:04:39 GMT\n════════════════════════\n⌗\nTags:\n#subdomain_takeover\n#red_team\n#bug_bounty\n#bugcrowd\n#hackerone",
+        "date": "2026-06-12T12:04:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121876_0_d79810fe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121876_1_d7406768.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121876",
+        "link": {
+          "title": "Why Your Subdomain Takeover Reports Keep Getting Closed as N/A (And How to Fix It).",
+          "url": "https://medium.com/@omaroymdm/why-your-subdomain-takeover-reports-keep-getting-closed-as-n-a-and-how-to-fix-it-8eb93f0ab320?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 121875,
+        "text": "⤷\nTitle:\nIDOR — The Easiest Critical Bug You’ll Ever Find\n════════════════════════\n𐀪\nAuthor:\nNitin yadav\n════════════════════════\nⴵ\nTime:\nFri, 12 Jun 2026 11:31:00 GMT\n════════════════════════\n⌗\nTags:\n#idor\n#technology\n#bug_bounty\n#hackerone\n#hacking",
+        "date": "2026-06-12T12:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121875_0_d79810fe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121875_1_0d846957.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121875",
+        "link": {
+          "title": "IDOR — The Easiest Critical Bug You’ll Ever Find",
+          "url": "https://kd-200.medium.com/idor-the-easiest-critical-bug-youll-ever-find-fe324f36ff7c?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 121874,
+        "text": "⤷\nTitle:\nTop 5 Tools Every Beginner Bug Hunter Needs\n════════════════════════\n𐀪\nAuthor:\nJelly | SecOps\n════════════════════════\nⴵ\nTime:\nFri, 12 Jun 2026 11:33:22 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#infosec\n#cybersecurity\n#ethical_hacking\n#penetration_testing",
+        "date": "2026-06-12T12:03:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121874_0_d79810fe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121874_1_fcf3a001.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121874",
+        "link": {
+          "title": "Top 5 Tools Every Beginner Bug Hunter Needs",
+          "url": "https://medium.com/@secops_jelly/top-5-tools-every-beginner-bug-hunter-needs-7f0b7024bbb4?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 121873,
+        "text": "⤷\nTitle:\nRethinking MDR as Attackers and Defenders Embrace AI\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nFri, 12 Jun 2026 16:30:00 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-06-12T12:03:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_121873_0_d79810fe.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/121873",
+        "link": {
+          "title": "Rethinking MDR as Attackers and Defenders Embrace AI",
+          "url": "https://thehackernews.com/2026/06/rethinking-mdr-as-attackers-and.html"
+        }
+      },
+      {
         "id": 121872,
         "text": "⤷\nTitle:\nLinux Privilege Escalation Lab: user1 to user2 via SSH Enumeration\n════════════════════════\n𐀪\nAuthor:\nMuhammad Saad Ullah Khan Haidri\n════════════════════════\nⴵ\nTime:\nFri, 12 Jun 2026 08:12:49 GMT\n════════════════════════\n⌗\nTags:\n#privilege_escalation\n#ethical_hacking\n#cybersecurity",
         "date": "2026-06-12T10:04:48+00:00",
@@ -1880,390 +2244,22 @@
           "title": "Pass the GIAC Security Essentials (GSEC) Exam in 2026: Practice Tests That Build Real Confidence!",
           "url": "https://medium.com/@daywalkernyc141/pass-the-giac-security-essentials-gsec-exam-in-2026-practice-tests-that-build-real-confidence-01545a7866b0?source=rss------ethical_hacking-5"
         }
-      },
-      {
-        "id": 121763,
-        "text": "⤷\nTitle:\nAnatomy of a Real-World Exploit Attempt: From Base64 to Remote Code Execution\n════════════════════════\n𐀪\nAuthor:\nJayari Hamza\n════════════════════════\nⴵ\nTime:\nThu, 11 Jun 2026 15:12:04 GMT\n════════════════════════\n⌗\nTags:\n#cloud_security\n#nodejs_security\n#ethical_hacking",
-        "date": "2026-06-11T16:04:32+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121763_0_5531f332.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121763_1_f21942d0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121763",
-        "link": {
-          "title": "Anatomy of a Real-World Exploit Attempt: From Base64 to Remote Code Execution",
-          "url": "https://medium.com/@jayari.hamza2/anatomy-of-a-real-world-exploit-attempt-from-base64-to-remote-code-execution-37b144413f4e?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 121762,
-        "text": "⤷\nTitle:\nCredential Stuffing Saldırısı: Kalabalığın İçinde Kaybolan Tehdit\n════════════════════════\n𐀪\nAuthor:\nİbrahim Yiğit Çetin\n════════════════════════\nⴵ\nTime:\nThu, 11 Jun 2026 15:48:09 GMT\n════════════════════════\n⌗\nTags:\n#passkey\n#ethical_hacking\n#credential_stuffing\n#cybersecurity\n#mfa",
-        "date": "2026-06-11T16:04:28+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121762_0_5531f332.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121762_1_6835d3a9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121762",
-        "link": {
-          "title": "Credential Stuffing Saldırısı: Kalabalığın İçinde Kaybolan Tehdit",
-          "url": "https://medium.com/@ibrahimyigitctn/credential-stuffing-sald%C4%B1r%C4%B1s%C4%B1-kalabal%C4%B1%C4%9F%C4%B1n-i%CC%87%C3%A7inde-kaybolan-tehdit-a780ebe465bc?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 121761,
-        "text": "⤷\nTitle:\nTryHackMe Cryptography Basics\n════════════════════════\n𐀪\nAuthor:\nRishi Vashist\n════════════════════════\nⴵ\nTime:\nThu, 11 Jun 2026 14:40:17 GMT\n════════════════════════\n⌗\nTags:\n#ctf\n#tryhackme\n#ctf_writeup\n#tryhackme_walkthrough\n#tryhackme_writeup",
-        "date": "2026-06-11T16:04:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121761_0_5531f332.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121761_1_ebbcb4fa.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121761",
-        "link": {
-          "title": "TryHackMe Cryptography Basics",
-          "url": "https://medium.com/@rishi.b.vashist/tryhackme-cryptography-basics-9a0870f90e94?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 121760,
-        "text": "⤷\nTitle:\nTryHackMe Public Key Cryptography Basics Walkthrough\n════════════════════════\n𐀪\nAuthor:\nRishi Vashist\n════════════════════════\nⴵ\nTime:\nThu, 11 Jun 2026 15:15:28 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_writeup\n#ctf_writeup\n#tryhackme_walkthrough\n#tryhackme\n#cybersecurity",
-        "date": "2026-06-11T16:04:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121760_0_5531f332.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121760_1_103888bd.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121760",
-        "link": {
-          "title": "TryHackMe Public Key Cryptography Basics Walkthrough",
-          "url": "https://medium.com/@rishi.b.vashist/tryhackme-public-key-cryptography-basics-walkthrough-17a39f3ca719?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 121759,
-        "text": "⤷\nTitle:\nSocial Engineering: The Hack That Doesn’t Touch Your Computer\n════════════════════════\n𐀪\nAuthor:\nNelson Chukwuemeka-Awuja\n════════════════════════\nⴵ\nTime:\nThu, 11 Jun 2026 14:58:53 GMT\n════════════════════════\n⌗\nTags:\n#social_engineering\n#technology\n#infosec\n#phishing\n#cybersecurity",
-        "date": "2026-06-11T16:04:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121759_0_5531f332.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121759_1_a10ff40e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121759",
-        "link": {
-          "title": "Social Engineering: The Hack That Doesn’t Touch Your Computer",
-          "url": "https://medium.com/@nelsonawuja/social-engineering-the-hack-that-doesnt-touch-your-computer-a3e2cbcc4274?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 121758,
-        "text": "⤷\nTitle:\nTrust No Skill: Why AI Agent Supply Chain Security Matters\n════════════════════════\n𐀪\nAuthor:\nZero Day Cyberian\n════════════════════════\nⴵ\nTime:\nThu, 11 Jun 2026 15:50:47 GMT\n════════════════════════\n⌗\nTags:\n#zero_trust\n#ai_agent\n#infosec\n#cybersecurity\n#ai_security",
-        "date": "2026-06-11T16:04:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121758_0_5531f332.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121758_1_363b6b23.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121758",
-        "link": {
-          "title": "Trust No Skill: Why AI Agent Supply Chain Security Matters",
-          "url": "https://medium.com/@zeroday_cyber/trust-no-skill-why-ai-agent-supply-chain-security-matters-32dc5dc3b051?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 121757,
-        "text": "⤷\nTitle:\nInvestigation Breakdown — Part 9 Inside The Modern Scam Call Center Ecosystem\n════════════════════════\n𐀪\nAuthor:\nghostyjoe\n════════════════════════\nⴵ\nTime:\nThu, 11 Jun 2026 14:53:21 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#cybercrime\n#true_crime\n#security\n#hacking",
-        "date": "2026-06-11T16:04:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121757_0_5531f332.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121757_1_54f9dff6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121757",
-        "link": {
-          "title": "Investigation Breakdown — Part 9 Inside The Modern Scam Call Center Ecosystem",
-          "url": "https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/investigation-breakdown-part-9-inside-the-modern-scam-call-center-ecosystem-a8df16fff920?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 121756,
-        "text": "⤷\nTitle:\nInsider-Threat-I: Simulating an Advanced Malicious Actor and Engineering the Splunk Telemetry…\n════════════════════════\n𐀪\nAuthor:\nredacted\n════════════════════════\nⴵ\nTime:\nThu, 11 Jun 2026 15:23:00 GMT\n════════════════════════\n⌗\nTags:\n#blue_team\n#information_security\n#red_team\n#hacking\n#cybersecurity",
-        "date": "2026-06-11T16:04:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121756_0_5531f332.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121756_1_25e8e32a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121756",
-        "link": {
-          "title": "Insider-Threat-I: Simulating an Advanced Malicious Actor and Engineering the Splunk Telemetry…",
-          "url": "https://medium.com/@devjoel880/insider-threat-i-simulating-an-advanced-malicious-actor-and-engineering-the-splunk-telemetry-89d9a73c5d8a?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 121755,
-        "text": "⤷\nTitle:\nDetection and Analysis (THM) Tryhackme Walkthrough\n════════════════════════\n𐀪\nAuthor:\nLawvye\n════════════════════════\nⴵ\nTime:\nThu, 11 Jun 2026 15:35:30 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#hacking\n#blue_team\n#tryhackme\n#security_operation_center",
-        "date": "2026-06-11T16:04:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121755_0_5531f332.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121755_1_0190dea1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121755",
-        "link": {
-          "title": "Detection and Analysis (THM) Tryhackme Walkthrough",
-          "url": "https://medium.com/@lawvye/detection-and-analysis-thm-tryhackme-walkthrough-7523715d5475?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 121754,
-        "text": "⤷\nTitle:\nClaude BugHunter AI: The Ultimate AI Tool for Bug Hunting\n════════════════════════\n𐀪\nAuthor:\nPentester Club\n════════════════════════\nⴵ\nTime:\nThu, 11 Jun 2026 14:00:23 GMT\n════════════════════════\n⌗\nTags:\n#artificial_intelligence\n#web_development\n#bug_bounty\n#cybersecurity\n#hacking",
-        "date": "2026-06-11T16:04:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121754_0_5531f332.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121754_1_e3c79784.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121754",
-        "link": {
-          "title": "Claude BugHunter AI: The Ultimate AI Tool for Bug Hunting",
-          "url": "https://medium.com/@pentesterclubpvtltd/claude-bughunter-ai-the-ultimate-ai-tool-for-bug-hunting-00a52a828aa8?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 121751,
-        "text": "⤷\nTitle:\nFrom a Single .git Directory to Full AWS Compromise\n════════════════════════\n𐀪\nAuthor:\nAswin Thambi Panikulangara\n════════════════════════\nⴵ\nTime:\nThu, 11 Jun 2026 02:59:33 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_tips\n#cybersecurity\n#bug_bounty\n#hacker\n#bugbounty_writeup",
-        "date": "2026-06-11T14:05:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121751_0_5531f332.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121751_1_0ccc6b9a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121751",
-        "link": {
-          "title": "From a Single .git Directory to Full AWS Compromise",
-          "url": "https://systemweakness.com/from-a-single-git-directory-to-full-aws-compromise-b9c755d9e826?source=rss------bugbounty_writeup-5"
-        }
-      },
-      {
-        "id": 121750,
-        "text": "⤷\nTitle:\nEnterprise Windows Security Assessment: Exploit Validation, Detection Engineering, and Endpoint…\n════════════════════════\n𐀪\nAuthor:\nAbiodun Aransiola\n════════════════════════\nⴵ\nTime:\nThu, 11 Jun 2026 13:20:27 GMT\n════════════════════════\n⌗\nTags:\n#vulnerability_management\n#cybersecurity\n#enterprise_security\n#penetration_testing",
-        "date": "2026-06-11T14:05:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121750_0_5531f332.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121750_1_fa8339b5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121750",
-        "link": {
-          "title": "Enterprise Windows Security Assessment: Exploit Validation, Detection Engineering, and Endpoint…",
-          "url": "https://medium.com/@abiodun475/enterprise-windows-security-assessment-exploit-validation-detection-engineering-and-endpoint-601ca1c447cc?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 121749,
-        "text": "⤷\nTitle:\nWhy AI Is Both a Threat and a Gift for Penetration Testers!\n════════════════════════\n𐀪\nAuthor:\n0xAbhiSec\n════════════════════════\nⴵ\nTime:\nThu, 11 Jun 2026 12:11:41 GMT\n════════════════════════\n⌗\nTags:\n#ai\n#penetration_testing\n#infosec\n#cybersecurity\n#ethical_hacking",
-        "date": "2026-06-11T14:05:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121749_0_5531f332.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121749_1_a2bad5bc.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121749",
-        "link": {
-          "title": "Why AI Is Both a Threat and a Gift for Penetration Testers!",
-          "url": "https://medium.com/@0xAbhiSec/why-ai-is-both-a-threat-and-a-gift-for-penetration-testers-8de45191bf5e?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 121748,
-        "text": "⤷\nTitle:\nGetting Started with Offensive Security: How Ethical Hackers Find Hidden Flaws #001\n════════════════════════\n𐀪\nAuthor:\nMr. Rajak\n════════════════════════\nⴵ\nTime:\nThu, 11 Jun 2026 13:15:09 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#web_security\n#infosec\n#technology\n#cybersecurity",
-        "date": "2026-06-11T14:05:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121748_0_5531f332.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121748_1_5aaacf18.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121748",
-        "link": {
-          "title": "Getting Started with Offensive Security: How Ethical Hackers Find Hidden Flaws #001",
-          "url": "https://medium.com/@mr.rajak1010/getting-started-with-offensive-security-how-ethical-hackers-find-hidden-flaws-001-79001628dd24?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 121747,
-        "text": "⤷\nTitle:\nEvery Nmap Flag Has a Why — Part 1\n════════════════════════\n𐀪\nAuthor:\nMohan Sai Krishna G M\n════════════════════════\nⴵ\nTime:\nThu, 11 Jun 2026 13:33:26 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ethical_hacking\n#technology\n#infosec\n#penetration_testing",
-        "date": "2026-06-11T14:05:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121747_0_5531f332.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121747_1_e938d931.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121747",
-        "link": {
-          "title": "Every Nmap Flag Has a Why — Part 1",
-          "url": "https://meetcyber.net/every-nmap-flag-has-a-why-part-1-de82c29f301d?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 121746,
-        "text": "⤷\nTitle:\nWriteup: Espresso — HTB : Step by Step Guidance\n════════════════════════\n𐀪\nAuthor:\nBianca's CyberSecurity Insights\n════════════════════════\nⴵ\nTime:\nThu, 11 Jun 2026 12:22:03 GMT\n════════════════════════\n⌗\nTags:\n#hackthebox\n#cybersecurity\n#hacking\n#hackthebox_writeup",
-        "date": "2026-06-11T14:05:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121746_0_5531f332.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121746_1_89894b5b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121746",
-        "link": {
-          "title": "Writeup: Espresso — HTB : Step by Step Guidance",
-          "url": "https://bianca-cybersecurity-insights.medium.com/writeup-espresso-htb-step-by-step-guidance-8a0f6808c194?source=rss------hacking-5"
-        }
       }
     ]
   },
-  "last_update": "2026-06-12T10:47:17.348356+00:00",
+  "last_update": "2026-06-12T13:59:05.165210+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 187,
-    "total_files": 187,
+    "total_media": 186,
+    "total_files": 186,
     "total_links": 0,
     "files_by_type": {
-      "image": 187
+      "image": 186
     },
-    "referenced_files": 187,
-    "existing_media_files": 187,
-    "total_size_mb": 5.31,
-    "last_calculation": "2026-06-12T10:47:17.350628+00:00"
+    "referenced_files": 186,
+    "existing_media_files": 186,
+    "total_size_mb": 5.12,
+    "last_calculation": "2026-06-12T13:59:05.167423+00:00"
   }
 }
