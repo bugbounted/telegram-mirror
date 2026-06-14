@@ -2,6 +2,190 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 122126,
+        "text": "⤷\nTitle:\nLinux SUID, SGID, and the Sticky Bit: The Hidden Permissions That Can Get You Hacked\n════════════════════════\n𐀪\nAuthor:\nPhilip Gyimah\n════════════════════════\nⴵ\nTime:\nSun, 14 Jun 2026 21:24:26 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#privilege_escalation\n#cybersecurity\n#devops\n#linux",
+        "date": "2026-06-14T22:04:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122126_0_b6184a97.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122126_1_e3536e01.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122126",
+        "link": {
+          "title": "Linux SUID, SGID, and the Sticky Bit: The Hidden Permissions That Can Get You Hacked",
+          "url": "https://medium.com/@philip_xx/linux-suid-sgid-and-the-sticky-bit-the-hidden-permissions-that-can-get-you-hacked-3baee499bb0c?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 122125,
+        "text": "⤷\nTitle:\nMapping Active Directory with LDAP and PowerView\n════════════════════════\n𐀪\nAuthor:\nWill Giles | Cybersecurity\n════════════════════════\nⴵ\nTime:\nSun, 14 Jun 2026 21:01:37 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#active_directory_security\n#penetration_testing\n#active_directory",
+        "date": "2026-06-14T22:04:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122125_0_b6184a97.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122125_1_88055bc4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122125",
+        "link": {
+          "title": "Mapping Active Directory with LDAP and PowerView",
+          "url": "https://wgilescyber.medium.com/mapping-active-directory-with-ldap-and-powerview-db4959baab9d?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 122124,
+        "text": "⤷\nTitle:\nA beginner-friendly walkthrough of DLL injection using Windows APIs in C\n════════════════════════\n𐀪\nAuthor:\nv3x\n════════════════════════\nⴵ\nTime:\nSun, 14 Jun 2026 20:06:22 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#c_programming\n#dll_injection\n#malware_development\n#hacking",
+        "date": "2026-06-14T22:04:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122124_0_b6184a97.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122124_1_39982041.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122124",
+        "link": {
+          "title": "A beginner-friendly walkthrough of DLL injection using Windows APIs in C",
+          "url": "https://medium.com/@ahmarkfreelancer/a-beginner-friendly-walkthrough-of-dll-injection-using-windows-apis-in-c-c977acf4fbb7?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 122123,
+        "text": "⤷\nTitle:\nWhy Bridges Are a Hacker’s Favorite ATM\n════════════════════════\n𐀪\nAuthor:\nAbraham\n════════════════════════\nⴵ\nTime:\nSun, 14 Jun 2026 21:02:12 GMT\n════════════════════════\n⌗\nTags:\n#smart_contracts\n#bug_bounty\n#blockchain\n#cybersecurity\n#smart_contract_auditing",
+        "date": "2026-06-14T22:04:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122123_0_b6184a97.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122123_1_bb512770.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122123",
+        "link": {
+          "title": "Why Bridges Are a Hacker’s Favorite ATM",
+          "url": "https://medium.com/@iamabraham/why-bridges-are-a-hackers-favorite-atm-981ed49c564e?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 122122,
+        "text": "⤷\nTitle:\nBreaking Access Control:Path Manipulation (Part 1)\n════════════════════════\n𐀪\nAuthor:\nYassin Hamada\n════════════════════════\nⴵ\nTime:\nSun, 14 Jun 2026 21:50:06 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#infosec\n#portswigger\n#cybersecurity\n#broken_access_control",
+        "date": "2026-06-14T22:04:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122122_0_b6184a97.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122122_1_d17848cc.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122122",
+        "link": {
+          "title": "Breaking Access Control:Path Manipulation (Part 1)",
+          "url": "https://medium.com/@hdhffxfg/breaking-access-control-path-manipulation-part-1-4028fcc85d41?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 122121,
+        "text": "⤷\nTitle:\nInformation Disclosure in Error Messages — A New Series Begins lab 1\n════════════════════════\n𐀪\nAuthor:\nmorgan_hack\n════════════════════════\nⴵ\nTime:\nSun, 14 Jun 2026 21:51:20 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#web_development\n#bughhunter\n#bugs",
+        "date": "2026-06-14T22:03:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122121_0_b6184a97.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122121_1_f8c1cd7b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122121",
+        "link": {
+          "title": "Information Disclosure in Error Messages — A New Series Begins lab 1",
+          "url": "https://medium.com/@guyani/information-disclosure-in-error-messages-a-new-series-begins-lab-1-153a6335b541?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 122120,
+        "text": "⤷\nTitle:\nBreaking Access Control: Logic Manipulation & Role Escalation (Part 2)\n════════════════════════\n𐀪\nAuthor:\nYassin Hamada\n════════════════════════\nⴵ\nTime:\nSun, 14 Jun 2026 21:53:54 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#bug_bounty\n#cybersecurity\n#infosec\n#pentesting",
+        "date": "2026-06-14T22:03:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122120_0_b6184a97.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122120_1_39e52e3d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122120",
+        "link": {
+          "title": "Breaking Access Control: Logic Manipulation & Role Escalation (Part 2)",
+          "url": "https://medium.com/@hdhffxfg/breaking-access-control-logic-manipulation-role-escalation-part-2-dce5cc44c909?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 122119,
+        "text": "⤷\nTitle:\nSmart Glasses Can Record You – And Detecting Them Isn’t So Simple\n════════════════════════\n𐀪\nAuthor:\nmh\n════════════════════════\nⴵ\nTime:\nSun, 14 Jun 2026 20:22:23 +0000\n════════════════════════\n⌗\nTags:\n#Bluetooth\n#Flipper\nZero\n#Privacy\n#Smart\nglasses\n#BLE\nspam\n#bluetooth\n#Meta\nRay_Ban\n#Nearby\nGlasses",
+        "date": "2026-06-14T22:03:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122119_0_b6184a97.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122119_1_2715c3f0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122119",
+        "link": {
+          "title": "Smart Glasses Can Record You – And Detecting Them Isn’t So Simple",
+          "url": "https://www.mobile-hacker.com/2026/06/14/smart-glasses-can-record-you-and-detecting-them-isnt-so-simple/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=smart-glasses-can-record-you-and-detecting-them-isnt-so-simple"
+        }
+      },
+      {
         "id": 122118,
         "text": "⤷\nTitle:\nAttacktive Directory THM Lab WalkThrough\n════════════════════════\n𐀪\nAuthor:\nSUSHANT TELRANDHE\n════════════════════════\nⴵ\nTime:\nSun, 14 Jun 2026 19:29:05 GMT\n════════════════════════\n⌗\nTags:\n#oscp\n#active_directory\n#vapt\n#ethical_hacking\n#cybersecurity",
         "date": "2026-06-14T20:04:41+00:00",
@@ -2100,202 +2284,22 @@
           "title": "Weaponizing Logs: How Attackers Crash Apps via Synchronous Logging (And How ELK Fixes It)",
           "url": "https://systemweakness.com/weaponizing-logs-how-attackers-crash-apps-via-synchronous-logging-and-how-elk-fixes-it-373d0bb84729?source=rss------hacking-5"
         }
-      },
-      {
-        "id": 122026,
-        "text": "⤷\nTitle:\nFinding an Open Redirect Pattern on a Shopify Storefront: A Bug Bounty Recon Walkthrough\n════════════════════════\n𐀪\nAuthor:\nNrn\n════════════════════════\nⴵ\nTime:\nSat, 13 Jun 2026 17:57:48 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ethical_hacking\n#penetration_testing\n#web_security\n#bug_bounty",
-        "date": "2026-06-13T20:03:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122026_0_f090bed8.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122026_1_8225ae47.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122026",
-        "link": {
-          "title": "Finding an Open Redirect Pattern on a Shopify Storefront: A Bug Bounty Recon Walkthrough",
-          "url": "https://medium.com/@n4r4n15/finding-an-open-redirect-pattern-on-a-shopify-storefront-a-bug-bounty-recon-walkthrough-d65fcd464ad1?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 122025,
-        "text": "⤷\nTitle:\nA Leaked API Key Cost Me a $121 Google Cloud Bill\n════════════════════════\n𐀪\nAuthor:\nChanaka Prasanna\n════════════════════════\nⴵ\nTime:\nSat, 13 Jun 2026 12:54:30 GMT\n════════════════════════\n⌗\nTags:\n#generative_ai\n#google_cloud\n#api_security\n#software_engineering\n#cloud_billing",
-        "date": "2026-06-13T18:04:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122025_0_84f88003.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122025_1_49798a74.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122025",
-        "link": {
-          "title": "A Leaked API Key Cost Me a $121 Google Cloud Bill",
-          "url": "https://medium.com/@chanakapinfo/why-did-i-get-a-121-bill-in-google-cloud-5b0fd8d6fa20?source=rss------api_security-5"
-        }
-      },
-      {
-        "id": 122024,
-        "text": "⤷\nTitle:\nPickle Rick|THM|Walkthrough..\n════════════════════════\n𐀪\nAuthor:\nDeepika  B\n════════════════════════\nⴵ\nTime:\nSat, 13 Jun 2026 17:06:25 GMT\n════════════════════════\n⌗\nTags:\n#learning\n#tryhackme_walkthrough\n#linux\n#tryhackme\n#tryhackme_writeup",
-        "date": "2026-06-13T18:04:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122024_0_84f88003.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122024_1_2ece4489.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122024",
-        "link": {
-          "title": "Pickle Rick|THM|Walkthrough..",
-          "url": "https://medium.com/@Deepika-001/pickle-rick-thm-walkthrough-8be098da0536?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 122023,
-        "text": "⤷\nTitle:\nThe $500,000 Prompt: How an AI-Driven Hack Penetrated Google’s Core Infrastructure.\n════════════════════════\n𐀪\nAuthor:\neL Njas!\n™\n════════════════════════\nⴵ\nTime:\nSat, 13 Jun 2026 17:04:51 GMT\n════════════════════════\n⌗\nTags:\n#ai\n#exploit\n#ai_agent\n#penetration_testing",
-        "date": "2026-06-13T18:04:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122023_0_84f88003.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122023_1_40d92fbd.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122023",
-        "link": {
-          "title": "The $500,000 Prompt: How an AI-Driven Hack Penetrated Google’s Core Infrastructure.",
-          "url": "https://medium.com/@elnjasi/the-500-000-prompt-how-an-ai-driven-hack-penetrated-googles-core-infrastructure-e335f1b39ddf?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 122022,
-        "text": "⤷\nTitle:\nYour bug is real. Your report reads like ChatGPT. That’s why it got closed.\n════════════════════════\n𐀪\nAuthor:\nVladyslav Dmitriiev (dubcrab)\n════════════════════════\nⴵ\nTime:\nSat, 13 Jun 2026 00:00:25 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#writing\n#infosec\n#cybersecurity",
-        "date": "2026-06-13T18:03:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122022_0_84f88003.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122022_1_a8ab1075.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122022",
-        "link": {
-          "title": "Your bug is real. Your report reads like ChatGPT. That’s why it got closed.",
-          "url": "https://dubcrabsec.medium.com/your-bug-is-real-your-report-reads-like-chatgpt-thats-why-it-got-closed-a84dcf4b7cfd?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 122021,
-        "text": "⤷\nTitle:\nMy First Day as a Penetration Tester Was Nothing Like the YouTube Videos Showed.\n════════════════════════\n𐀪\nAuthor:\nCYBER MIND SPACE\n════════════════════════\nⴵ\nTime:\nSat, 13 Jun 2026 16:47:25 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#ethical_hacking\n#cybersecurity\n#penetration_testing\n#careers",
-        "date": "2026-06-13T18:03:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122021_0_84f88003.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122021",
-        "link": {
-          "title": "My First Day as a Penetration Tester Was Nothing Like the YouTube Videos Showed.",
-          "url": "https://medium.com/@cybermindspace/my-first-day-as-a-penetration-tester-was-nothing-like-the-youtube-videos-showed-390ef353c069?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 122020,
-        "text": "⤷\nTitle:\nBlind Extraction of Password Hashes via an Unauthenticated GraphQL Count Oracle\n════════════════════════\n𐀪\nAuthor:\nM0n3m\n════════════════════════\nⴵ\nTime:\nSat, 13 Jun 2026 17:21:21 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#graphql\n#hacking",
-        "date": "2026-06-13T18:03:51+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122020_0_84f88003.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122020_1_2f96d3e4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122020",
-        "link": {
-          "title": "Blind Extraction of Password Hashes via an Unauthenticated GraphQL Count Oracle",
-          "url": "https://medium.com/@m0n3m/blind-extraction-of-password-hashes-via-an-unauthenticated-graphql-count-oracle-505ce835a4c0?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 122019,
-        "text": "⤷\nTitle:\nSQL Injection Testing Made Simple: 10 Essential Security Checks Every Tester and Developer Should…\n════════════════════════\n𐀪\nAuthor:\npavani\n════════════════════════\nⴵ\nTime:\nSat, 13 Jun 2026 14:40:22 GMT\n════════════════════════\n⌗\nTags:\n#sql_injection\n#cyber_security_awareness\n#cybersecurity",
-        "date": "2026-06-13T16:04:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122019_0_84f88003.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122019_1_ec0d702b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122019",
-        "link": {
-          "title": "SQL Injection Testing Made Simple: 10 Essential Security Checks Every Tester and Developer Should…",
-          "url": "https://medium.com/@mvspavs/sql-injection-testing-made-simple-10-essential-security-checks-every-tester-and-developer-should-c2e1dcf0b9e7?source=rss------sql_injection-5"
-        }
       }
     ]
   },
-  "last_update": "2026-06-14T21:49:05.452274+00:00",
+  "last_update": "2026-06-14T22:59:41.847278+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 195,
-    "total_files": 195,
+    "total_media": 196,
+    "total_files": 196,
     "total_links": 0,
     "files_by_type": {
-      "image": 195
+      "image": 196
     },
-    "referenced_files": 195,
-    "existing_media_files": 195,
-    "total_size_mb": 6.72,
-    "last_calculation": "2026-06-14T21:49:05.454593+00:00"
+    "referenced_files": 196,
+    "existing_media_files": 196,
+    "total_size_mb": 6.97,
+    "last_calculation": "2026-06-14T22:59:41.849656+00:00"
   }
 }
