@@ -2,6 +2,167 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 122045,
+        "text": "⤷\nTitle:\nThe Best Bug Is the One You Actually Report\n════════════════════════\n𐀪\nAuthor:\nDecline\n════════════════════════\nⴵ\nTime:\nSun, 14 Jun 2026 01:58:53 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_writeup\n#bugbounty_writeup\n#bug_hunting\n#bug_bounty\n#bug_bounty_tips",
+        "date": "2026-06-14T02:04:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122045_0_f090bed8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122045_1_c7d56011.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122045",
+        "link": {
+          "title": "The Best Bug Is the One You Actually Report",
+          "url": "https://medium.com/@bughunting/the-best-bug-is-the-one-you-actually-report-b95bcf289b39?source=rss------bug_bounty_tips-5"
+        }
+      },
+      {
+        "id": 122044,
+        "text": "⤷\nTitle:\nThe Owl and the Lantern\n════════════════════════\n𐀪\nAuthor:\nZodiacdirecter\n════════════════════════\nⴵ\nTime:\nSun, 14 Jun 2026 00:01:48 GMT\n════════════════════════\n⌗\nTags:\n#epistemology\n#groupthink\n#ethical_hacking\n#ethics\n#manipulation",
+        "date": "2026-06-14T02:04:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122044_0_f090bed8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122044_1_14457f18.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122044",
+        "link": {
+          "title": "The Owl and the Lantern",
+          "url": "https://medium.com/@zodiacdirecter/the-owl-and-the-lantern-60388b1d5649?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 122043,
+        "text": "⤷\nTitle:\nVulnhub: PwnLab Walkthrough\n════════════════════════\n𐀪\nAuthor:\nAntonio\n════════════════════════\nⴵ\nTime:\nSun, 14 Jun 2026 01:55:52 GMT\n════════════════════════\n⌗\nTags:\n#vulnhub\n#vulnhub_walkthrough\n#ctf\n#ctf_writeup\n#ctf_walkthrough",
+        "date": "2026-06-14T02:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122043_0_f090bed8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122043_1_9929c27a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122043",
+        "link": {
+          "title": "Vulnhub: PwnLab Walkthrough",
+          "url": "https://medium.com/@inotp/vulnhub-pwnlab-walkthrough-6b7dabaab9a5?source=rss------vulnhub-5"
+        }
+      },
+      {
+        "id": 122042,
+        "text": "⤷\nTitle:\nI Accessed 2,000+ Unsecured Ollama Servers\n════════════════════════\n𐀪\nAuthor:\nVictor Condino\n════════════════════════\nⴵ\nTime:\nSun, 14 Jun 2026 01:43:07 GMT\n════════════════════════\n⌗\nTags:\n#ollama\n#llm\n#machine_learning\n#penetration_testing\n#cybersecurity",
+        "date": "2026-06-14T02:03:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122042_0_f090bed8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122042_1_2b85d03d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122042",
+        "link": {
+          "title": "I Accessed 2,000+ Unsecured Ollama Servers",
+          "url": "https://medium.com/@un1tz3r0/i-accessed-2-000-unsecured-ollama-servers-4e7c5e524325?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 122041,
+        "text": "⤷\nTitle:\nNo JS | AlpacaHack\n════════════════════════\n𐀪\nAuthor:\n00xCanelo\n════════════════════════\nⴵ\nTime:\nSun, 14 Jun 2026 00:51:30 GMT\n════════════════════════\n⌗\nTags:\n#mont5ab_el2hwa\n#hacking\n#cybersecurity\n#alpacahack\n#penetration_testing",
+        "date": "2026-06-14T02:03:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122041_0_f090bed8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122041_1_2eacf5e7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122041",
+        "link": {
+          "title": "No JS | AlpacaHack",
+          "url": "https://medium.com/@00xCanelo/no-js-alpacahack-51d0212e50f4?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 122040,
+        "text": "⤷\nTitle:\nNetwork Evasion + SDR Warfare. AI-Directed. Zero Mercy.\n════════════════════════\n𐀪\nAuthor:\nAeon Flex, Elriel Assoc. 2133 [NEON MAXIMA]\n════════════════════════\nⴵ\nTime:\nSat, 13 Jun 2026 23:02:09 GMT\n════════════════════════\n⌗\nTags:\n#ai_agent\n#cybersecurity\n#network_security\n#artificial_intelligence\n#hacking",
+        "date": "2026-06-14T00:03:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122040_0_f090bed8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122040_1_e415313b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122040",
+        "link": {
+          "title": "Network Evasion + SDR Warfare. AI-Directed. Zero Mercy.",
+          "url": "https://medium.com/@neonmaxima/network-evasion-sdr-warfare-ai-directed-zero-mercy-11accb1400a5?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 122039,
+        "text": "⤷\nTitle:\nGhost in the Packets. Phantom in the Spectrum.\n════════════════════════\n𐀪\nAuthor:\nAeon Flex, Elriel Assoc. 2133 [NEON MAXIMA]\n════════════════════════\nⴵ\nTime:\nSat, 13 Jun 2026 23:10:14 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#programming\n#hacking",
+        "date": "2026-06-14T00:03:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122039_0_f090bed8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122039_1_50ac3c1b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122039",
+        "link": {
+          "title": "Ghost in the Packets. Phantom in the Spectrum.",
+          "url": "https://medium.com/@neonmaxima/ghost-in-the-packets-phantom-in-the-spectrum-bfb153474bd0?source=rss------hacking-5"
+        }
+      },
+      {
         "id": 122038,
         "text": "⤷\nTitle:\nI Found a Vulnerability on a Government Web Portal. Here’s What Happened Next…\n════════════════════════\n𐀪\nAuthor:\nSriman kundu\n════════════════════════\nⴵ\nTime:\nSat, 13 Jun 2026 20:31:30 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#information_disclosure\n#cybersecurity\n#web_security\n#government",
         "date": "2026-06-13T22:04:05+00:00",
@@ -2119,167 +2280,22 @@
           "title": "Why Use App-Level Auth When Every Database Has Auth? (Splunk Enterprise CVE-2026-20253 Pre-Auth RCE)",
           "url": "https://labs.watchtowr.com/why-use-app-level-auth-when-every-database-has-auth-splunk-enterprise-cve-2026-20253-pre-auth-rce/"
         }
-      },
-      {
-        "id": 121945,
-        "text": "⤷\nTitle:\nOver 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nSat, 13 Jun 2026 01:03:25 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-06-12T22:03:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121945_0_84f88003.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121945",
-        "link": {
-          "title": "Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit",
-          "url": "https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html"
-        }
-      },
-      {
-        "id": 121944,
-        "text": "⤷\nTitle:\nServiceNow Didn’t Get Hacked. It Left the Door Open.\n════════════════════════\n𐀪\nAuthor:\nShreeya_Naik\n════════════════════════\nⴵ\nTime:\nFri, 12 Jun 2026 18:17:08 GMT\n════════════════════════\n⌗\nTags:\n#servicenow\n#cloud_security\n#cybersecurity\n#api_security\n#data_breach",
-        "date": "2026-06-12T20:04:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121944_0_d79810fe.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121944_1_d7782921.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121944",
-        "link": {
-          "title": "ServiceNow Didn’t Get Hacked. It Left the Door Open.",
-          "url": "https://medium.com/@Shreeya_Naik/servicenow-didnt-get-hacked-it-left-the-door-open-2c88c0c21852?source=rss------api_security-5"
-        }
-      },
-      {
-        "id": 121943,
-        "text": "⤷\nTitle:\nStuxCTF (THM) Tryhackme Medium Challenge\n════════════════════════\n𐀪\nAuthor:\nLawvye\n════════════════════════\nⴵ\nTime:\nFri, 12 Jun 2026 18:37:06 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#cryptography\n#cybersecurity\n#tryhackme\n#privilege_escalation",
-        "date": "2026-06-12T20:04:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121943_0_d79810fe.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121943_1_a4322050.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121943",
-        "link": {
-          "title": "StuxCTF (THM) Tryhackme Medium Challenge",
-          "url": "https://medium.com/@lawvye/stuxctf-thm-tryhackme-medium-challenge-b0deb7db8a8a?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 121942,
-        "text": "⤷\nTitle:\nAtomic Arch Campaign Hijacks 20+ Linux AUR Packages to Deliver Malware\n════════════════════════\n𐀪\nAuthor:\nDeeba Ahmed\n════════════════════════\nⴵ\nTime:\nFri, 12 Jun 2026 18:17:16 +0000\n════════════════════════\n⌗\nTags:\n#Security\n#Cyber\nAttacks\n#Malware\n#Atomic\nArch\n#Cyber\nAttack\n#Cybersecurity\n#Linux\n#Sonatype\n#Supply\nChain Attack\n#Vulnerability",
-        "date": "2026-06-12T20:04:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121942_0_d79810fe.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121942_1_0e395058.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121942",
-        "link": {
-          "title": "Atomic Arch Campaign Hijacks 20+ Linux AUR Packages to Deliver Malware",
-          "url": "https://hackread.com/atomic-arch-hijacks-linux-aur-packages-malware/"
-        }
-      },
-      {
-        "id": 121941,
-        "text": "⤷\nTitle:\nChina-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nFri, 12 Jun 2026 23:47:55 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-06-12T20:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121941_0_d79810fe.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121941",
-        "link": {
-          "title": "China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade",
-          "url": "https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html"
-        }
-      },
-      {
-        "id": 121940,
-        "text": "⤷\nTitle:\nGoogle Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nSat, 13 Jun 2026 00:29:32 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-06-12T20:03:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121940_0_d79810fe.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121940",
-        "link": {
-          "title": "Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing",
-          "url": "https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html"
-        }
-      },
-      {
-        "id": 121939,
-        "text": "⤷\nTitle:\n400+ Arch Linux AUR Packages Hijacked to Install Rust Credential Stealer\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nSat, 13 Jun 2026 00:54:50 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-06-12T20:03:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121939_0_d79810fe.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121939",
-        "link": {
-          "title": "400+ Arch Linux AUR Packages Hijacked to Install Rust Credential Stealer",
-          "url": "https://thehackernews.com/2026/06/400-arch-linux-aur-packages-hijacked-to.html"
-        }
       }
     ]
   },
-  "last_update": "2026-06-13T23:57:15.698473+00:00",
+  "last_update": "2026-06-14T02:14:04.559668+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 191,
-    "total_files": 191,
+    "total_media": 195,
+    "total_files": 195,
     "total_links": 0,
     "files_by_type": {
-      "image": 191
+      "image": 195
     },
-    "referenced_files": 191,
-    "existing_media_files": 191,
-    "total_size_mb": 5.93,
-    "last_calculation": "2026-06-13T23:57:15.700757+00:00"
+    "referenced_files": 195,
+    "existing_media_files": 195,
+    "total_size_mb": 6.46,
+    "last_calculation": "2026-06-14T02:14:04.561977+00:00"
   }
 }
