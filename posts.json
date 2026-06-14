@@ -2,6 +2,190 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 122095,
+        "text": "⤷\nTitle:\nHow I Solved PortSwigger’s SQL Injection Lab: Retrieving Hidden Data\n════════════════════════\n𐀪\nAuthor:\nIbrahim Mohamed\n════════════════════════\nⴵ\nTime:\nSun, 14 Jun 2026 16:01:18 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#web_application_security\n#sql_injection\n#cybersecurity\n#infosec",
+        "date": "2026-06-14T16:04:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122095_0_f090bed8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122095_1_20bea496.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122095",
+        "link": {
+          "title": "How I Solved PortSwigger’s SQL Injection Lab: Retrieving Hidden Data",
+          "url": "https://medium.com/@ibmohamed085/how-i-solved-portswiggers-sql-injection-lab-retrieving-hidden-data-dbf5b0803860?source=rss------sql_injection-5"
+        }
+      },
+      {
+        "id": 122094,
+        "text": "⤷\nTitle:\nLab 16: CORS vulnerability with basic origin reflection\n════════════════════════\n𐀪\nAuthor:\nTkacala\n════════════════════════\nⴵ\nTime:\nSun, 14 Jun 2026 14:49:55 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#burpsuite\n#cybersecurity\n#portswigger",
+        "date": "2026-06-14T16:04:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122094_0_f090bed8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122094_1_b5852c9f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122094",
+        "link": {
+          "title": "Lab 16: CORS vulnerability with basic origin reflection",
+          "url": "https://medium.com/@tkacala212/lab-16-cors-vulnerability-with-basic-origin-reflection-cc640fb46fc9?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 122093,
+        "text": "⤷\nTitle:\nADD THIS TO YOUR WINDOWS PRIVSEC!!! How to abuse SeTcbPrivilege\n════════════════════════\n𐀪\nAuthor:\nThe Husky Hacker\n════════════════════════\nⴵ\nTime:\nSun, 14 Jun 2026 15:52:05 GMT\n════════════════════════\n⌗\nTags:\n#cpt\n#ethical_hacking\n#oscp_preparation",
+        "date": "2026-06-14T16:04:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122093_0_f090bed8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122093_1_15a45437.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122093",
+        "link": {
+          "title": "ADD THIS TO YOUR WINDOWS PRIVSEC!!! How to abuse SeTcbPrivilege",
+          "url": "https://medium.com/@TheHuskyHacker/add-this-to-your-windows-privsec-how-to-abuse-setcbprivilege-0674dac3b52b?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 122092,
+        "text": "⤷\nTitle:\nHow a Single Permission Misconfiguration Can Lead to Full System Compromise\n════════════════════════\n𐀪\nAuthor:\nHarshita Chaplot\n════════════════════════\nⴵ\nTime:\nSun, 14 Jun 2026 14:19:11 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#penetration_testing\n#ethical_hacking\n#linux",
+        "date": "2026-06-14T16:04:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122092_0_f090bed8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122092_1_5cf8116f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122092",
+        "link": {
+          "title": "How a Single Permission Misconfiguration Can Lead to Full System Compromise",
+          "url": "https://medium.com/@harshitachaplot08/how-a-single-permission-misconfiguration-can-lead-to-full-system-compromise-5b9b055910dd?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 122091,
+        "text": "⤷\nTitle:\nPenetration Testing in Nutshell\n════════════════════════\n𐀪\nAuthor:\nAbdelhamid Houari\n════════════════════════\nⴵ\nTime:\nSun, 14 Jun 2026 15:03:39 GMT\n════════════════════════\n⌗\nTags:\n#htb_writeup\n#htb_academy\n#penetration_testing\n#hackthebox\n#pentest_in_a_nutshell",
+        "date": "2026-06-14T16:04:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122091_0_f090bed8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122091_1_9fe41f90.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122091",
+        "link": {
+          "title": "Penetration Testing in Nutshell",
+          "url": "https://medium.com/@h.abdelhamid.mefrommi/penetration-testing-in-nutshell-3e9fcc1327bd?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 122090,
+        "text": "⤷\nTitle:\nWhat Is a SOC? (Explained From Real Experience, Not Theory)\n════════════════════════\n𐀪\nAuthor:\nVrushti Rana\n════════════════════════\nⴵ\nTime:\nSun, 14 Jun 2026 15:45:39 GMT\n════════════════════════\n⌗\nTags:\n#securityoperationscenter\n#cybersecurity\n#cyberattack\n#incident_response\n#infosec",
+        "date": "2026-06-14T16:04:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122090_0_f090bed8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122090_1_4e99fa47.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122090",
+        "link": {
+          "title": "What Is a SOC? (Explained From Real Experience, Not Theory)",
+          "url": "https://ranavrushtii20.medium.com/what-is-a-soc-explained-from-real-experience-not-theory-958338186f38?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 122089,
+        "text": "⤷\nTitle:\n“Searcher” ou quand l’actu manque l’info\n════════════════════════\n𐀪\nAuthor:\nDenis Verloes\n════════════════════════\nⴵ\nTime:\nSun, 14 Jun 2026 15:42:17 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#piratage\n#data_leak\n#médias",
+        "date": "2026-06-14T16:03:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122089_0_f090bed8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122089_1_2b3a7875.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122089",
+        "link": {
+          "title": "“Searcher” ou quand l’actu manque l’info",
+          "url": "https://medium.com/@DVerloes/searcher-ou-quand-lactu-manque-l-info-11857cd38ba9?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 122088,
+        "text": "⤷\nTitle:\nI Found a High-Severity Bug by Reading a JavaScript File for 10 Minutes\n════════════════════════\n𐀪\nAuthor:\nAlareqi\n════════════════════════\nⴵ\nTime:\nSun, 14 Jun 2026 15:56:43 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#reconnaissance\n#bug_bounty\n#cybersecurity\n#bugs",
+        "date": "2026-06-14T16:03:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122088_0_f090bed8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122088_1_cc87b963.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122088",
+        "link": {
+          "title": "I Found a High-Severity Bug by Reading a JavaScript File for 10 Minutes",
+          "url": "https://medium.com/@mohmmedalariki2014/i-found-a-high-severity-bug-by-reading-a-javascript-file-for-10-minutes-ceb7e0d51146?source=rss------hacking-5"
+        }
+      },
+      {
         "id": 122087,
         "text": "⤷\nTitle:\nBeyond HTTPS: Securing API Payloads with ECDH + HKDF\n════════════════════════\n𐀪\nAuthor:\nNilay Shah\n════════════════════════\nⴵ\nTime:\nSun, 14 Jun 2026 13:23:26 GMT\n════════════════════════\n⌗\nTags:\n#hkdf\n#cybersecurity\n#ecdh\n#web_security\n#api_security",
         "date": "2026-06-14T14:04:29+00:00",
@@ -2096,194 +2280,10 @@
           "title": "Cloud Security Fundamentals | TryHackMe | practical lab",
           "url": "https://josepraveen.medium.com/cloud-security-fundamentals-tryhackme-practical-lab-b3b35dc0f938?source=rss------tryhackme-5"
         }
-      },
-      {
-        "id": 121995,
-        "text": "⤷\nTitle:\nTryHackMe — RAG Security Fundamentals | Full Walkthrough\n════════════════════════\n𐀪\nAuthor:\nSudarshan Ajoy Sindhu\n════════════════════════\nⴵ\nTime:\nSat, 13 Jun 2026 11:25:00 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_walkthrough\n#tryhackme",
-        "date": "2026-06-13T12:04:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121995_0_84f88003.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121995_1_a49dad99.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121995",
-        "link": {
-          "title": "TryHackMe — RAG Security Fundamentals | Full Walkthrough",
-          "url": "https://medium.com/@sudarshanajoysindhu/tryhackme-rag-security-fundamentals-full-walkthrough-19bd11c78ef7?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 121994,
-        "text": "⤷\nTitle:\nTryHackMe — Friday Overtime\n════════════════════════\n𐀪\nAuthor:\nEfe Özel\n════════════════════════\nⴵ\nTime:\nSat, 13 Jun 2026 11:39:46 GMT\n════════════════════════\n⌗\nTags:\n#blue_team\n#cybersecurity\n#tryhackme_walkthrough\n#tryhackme\n#analysis",
-        "date": "2026-06-13T12:04:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121994_0_84f88003.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121994_1_8eb2a9a4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121994",
-        "link": {
-          "title": "TryHackMe — Friday Overtime",
-          "url": "https://medium.com/@efeqozel/tryhackme-friday-overtime-6c1020217c79?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 121993,
-        "text": "⤷\nTitle:\nIf I Were an Attacker: Thinking About Cross-Site Scripting (XSS)\n════════════════════════\n𐀪\nAuthor:\nMukut | Real-World Cybersecurity\n════════════════════════\nⴵ\nTime:\nSat, 13 Jun 2026 10:58:54 GMT\n════════════════════════\n⌗\nTags:\n#web_security\n#infosec\n#ethical_hacking\n#penetration_testing\n#cybersecurity",
-        "date": "2026-06-13T12:04:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121993_0_84f88003.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121993_1_76880b53.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121993",
-        "link": {
-          "title": "If I Were an Attacker: Thinking About Cross-Site Scripting (XSS)",
-          "url": "https://medium.com/@mukutcyber/if-i-were-an-attacker-thinking-about-cross-site-scripting-xss-847e4e7b03e9?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 121992,
-        "text": "⤷\nTitle:\nHow do hackers steal cookies?\n════════════════════════\n𐀪\nAuthor:\nElvinlatifli\n════════════════════════\nⴵ\nTime:\nSat, 13 Jun 2026 11:22:19 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#malware\n#malware_development\n#maldev",
-        "date": "2026-06-13T12:03:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121992_0_84f88003.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121992_1_344a471c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121992",
-        "link": {
-          "title": "How do hackers steal cookies?",
-          "url": "https://medium.com/@rickidevs/how-do-hackers-steal-cookies-02118c8c3df3?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 121991,
-        "text": "⤷\nTitle:\nReflected XSS Made Stupidly Simple\n════════════════════════\n𐀪\nAuthor:\nNitin yadav\n════════════════════════\nⴵ\nTime:\nSat, 13 Jun 2026 11:31:00 GMT\n════════════════════════\n⌗\nTags:\n#hackerone\n#bugcrowd\n#hacker\n#bug_bounty_writeup\n#hacking",
-        "date": "2026-06-13T12:03:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121991_0_84f88003.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121991_1_c195cf8b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121991",
-        "link": {
-          "title": "Reflected XSS Made Stupidly Simple",
-          "url": "https://kd-200.medium.com/reflected-xss-made-stupidly-simple-16cff68672cb?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 121990,
-        "text": "⤷\nTitle:\nHow I Bypassed a Billion-Dollar Fintech’s MFA with a Single Content-Type Twist\n════════════════════════\n𐀪\nAuthor:\nTanvi Chauhan\n════════════════════════\nⴵ\nTime:\nSat, 13 Jun 2026 10:50:08 GMT\n════════════════════════\n⌗\nTags:\n#pentesting\n#security\n#bug_bounty\n#cybersecurity\n#bug_bounty_tips",
-        "date": "2026-06-13T12:03:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121990_0_84f88003.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121990_1_0451bb22.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121990",
-        "link": {
-          "title": "How I Bypassed a Billion-Dollar Fintech’s MFA with a Single Content-Type Twist",
-          "url": "https://medium.com/@21bec131/how-i-bypassed-a-billion-dollar-fintechs-mfa-with-a-single-content-type-twist-64642a09144d?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 121989,
-        "text": "⤷\nTitle:\nUnderstanding Process Memory and Cross-Process Operations in Windows\n════════════════════════\n𐀪\nAuthor:\nSunilkumar\n════════════════════════\nⴵ\nTime:\nSat, 13 Jun 2026 08:02:22 GMT\n════════════════════════\n⌗\nTags:\n#ai\n#windows\n#malware\n#ethical_hacking\n#cybersecurity",
-        "date": "2026-06-13T10:04:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121989_0_84f88003.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121989_1_98a342ff.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121989",
-        "link": {
-          "title": "Understanding Process Memory and Cross-Process Operations in Windows",
-          "url": "https://medium.com/@sunilkumar26666/understanding-process-memory-and-cross-process-operations-in-windows-84f3d4708484?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 121988,
-        "text": "⤷\nTitle:\nBenefits of Learning Cloud Computing: A Smart Career Move for Future IT Professionals\n════════════════════════\n𐀪\nAuthor:\nIndoreiant\n════════════════════════\nⴵ\nTime:\nSat, 13 Jun 2026 08:16:54 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#cybersecurity\n#cloud_computing\n#data_science\n#education",
-        "date": "2026-06-13T10:04:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121988_0_84f88003.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121988_1_ea978da4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121988",
-        "link": {
-          "title": "Benefits of Learning Cloud Computing: A Smart Career Move for Future IT Professionals",
-          "url": "https://medium.com/@indoreiant/benefits-of-learning-cloud-computing-a-smart-career-move-for-future-it-professionals-8a4c27cb0fac?source=rss------ethical_hacking-5"
-        }
       }
     ]
   },
-  "last_update": "2026-06-14T15:04:32.224541+00:00",
+  "last_update": "2026-06-14T16:53:00.380922+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2295,7 +2295,7 @@
     },
     "referenced_files": 195,
     "existing_media_files": 195,
-    "total_size_mb": 6.86,
-    "last_calculation": "2026-06-14T15:04:32.226876+00:00"
+    "total_size_mb": 6.84,
+    "last_calculation": "2026-06-14T16:53:00.382747+00:00"
   }
 }
