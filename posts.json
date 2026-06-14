@@ -2,6 +2,278 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 122057,
+        "text": "⤷\nTitle:\nUnderstanding Linux File Permissions: Securing Files and Directories\n════════════════════════\n𐀪\nAuthor:\n0xJBsec\n════════════════════════\nⴵ\nTime:\nSun, 14 Jun 2026 04:54:35 GMT\n════════════════════════\n⌗\nTags:\n#offensive_security\n#ethical_hacking\n#red_team\n#cybersecurity\n#linux",
+        "date": "2026-06-14T06:04:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122057_0_f090bed8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122057_1_5dd768d3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122057",
+        "link": {
+          "title": "Understanding Linux File Permissions: Securing Files and Directories",
+          "url": "https://medium.com/@0xJBsec/understanding-linux-file-permissions-securing-files-and-directories-29d85325819d?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 122056,
+        "text": "⤷\nTitle:\nBypassing Strict WAFs: Reflected XSS with Event Handlers and Href Attributes Blocked\n════════════════════════\n𐀪\nAuthor:\nAyeshaaghafoor\n════════════════════════\nⴵ\nTime:\nSun, 14 Jun 2026 05:21:07 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#cybersecurity\n#education\n#expert\n#awareness",
+        "date": "2026-06-14T06:04:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122056_0_f090bed8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122056_1_0c9692cf.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122056",
+        "link": {
+          "title": "Bypassing Strict WAFs: Reflected XSS with Event Handlers and Href Attributes Blocked",
+          "url": "https://medium.com/@ayeshaaghafoor48/bypassing-strict-wafs-reflected-xss-with-event-handlers-and-href-attributes-blocked-94ff6b212728?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 122055,
+        "text": "⤷\nTitle:\nPost-Incident Activity | TryHackMe | practical lab splunk\n════════════════════════\n𐀪\nAuthor:\nJose Praveen\n════════════════════════\nⴵ\nTime:\nSun, 14 Jun 2026 05:07:08 GMT\n════════════════════════\n⌗\nTags:\n#splunk\n#cybersecurity\n#tryhackme_walkthrough\n#tryhackme\n#incident_response",
+        "date": "2026-06-14T06:04:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122055_0_f090bed8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122055_1_5024510a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122055",
+        "link": {
+          "title": "Post-Incident Activity | TryHackMe | practical lab splunk",
+          "url": "https://josepraveen.medium.com/post-incident-activity-tryhackme-practical-lab-splunk-bc0bbab3c155?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 122054,
+        "text": "⤷\nTitle:\nTask Execution Is Not Delivery.\n════════════════════════\n𐀪\nAuthor:\nRubab Fatima\n════════════════════════\nⴵ\nTime:\nSun, 14 Jun 2026 05:55:08 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#security_assessments\n#red_teaming\n#cybersecurity_consulting\n#cybersecurity_delivery",
+        "date": "2026-06-14T06:04:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122054_0_f090bed8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122054_1_8b76ab84.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122054",
+        "link": {
+          "title": "Task Execution Is Not Delivery.",
+          "url": "https://medium.com/@fatima_rubab/task-execution-is-not-delivery-8c3c23892ff4?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 122053,
+        "text": "⤷\nTitle:\nAnatomy of an Exploit Chain: From Session Forging to RCE (Helium Challenge Batch 3)\n════════════════════════\n𐀪\nAuthor:\nDeepCodeX\n════════════════════════\nⴵ\nTime:\nSun, 14 Jun 2026 05:01:31 GMT\n════════════════════════\n⌗\nTags:\n#api_security\n#cybersecurity\n#web_security\n#pentesting\n#infosec",
+        "date": "2026-06-14T06:03:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122053_0_f090bed8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122053_1_74b8e52c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122053",
+        "link": {
+          "title": "Anatomy of an Exploit Chain: From Session Forging to RCE (Helium Challenge Batch 3)",
+          "url": "https://medium.com/@learngrid/anatomy-of-an-exploit-chain-from-session-forging-to-rce-helium-challenge-batch-3-91e23d5bd127?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 122052,
+        "text": "⤷\nTitle:\n247ctf COMPARE THE PAIR\n════════════════════════\n𐀪\nAuthor:\nEricmpta\n════════════════════════\nⴵ\nTime:\nSun, 14 Jun 2026 05:18:23 GMT\n════════════════════════\n⌗\nTags:\n#web_penetration_testing\n#247ctf\n#ctf_writeup\n#hacking\n#cybersecurity",
+        "date": "2026-06-14T06:03:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122052_0_f090bed8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122052_1_13813f6f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122052",
+        "link": {
+          "title": "247ctf COMPARE THE PAIR",
+          "url": "https://medium.com/@ericmpta/247ctf-compare-the-pair-f81977a85687?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 122051,
+        "text": "⤷\nTitle:\nBugHunter Review 2026: AI Bug Bounty Toolkit Powered by Claude (Free and Paid Options)\n════════════════════════\n𐀪\nAuthor:\nSurendra Reddy\n════════════════════════\nⴵ\nTime:\nSun, 14 Jun 2026 04:14:57 GMT\n════════════════════════\n⌗\nTags:\n#bug_hunting\n#claude\n#cybersecurity\n#bug_bounty\n#reconshield",
+        "date": "2026-06-14T06:03:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122051_0_f090bed8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122051_1_b3f1aab7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122051",
+        "link": {
+          "title": "BugHunter Review 2026: AI Bug Bounty Toolkit Powered by Claude (Free and Paid Options)",
+          "url": "https://medium.com/@nayaki.suresh3/bughunter-review-2026-ai-bug-bounty-toolkit-powered-by-claude-free-and-paid-options-55d5d481b055?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 122050,
+        "text": "⤷\nTitle:\nUbuntu Server For Bug Bounty Hunting: How To Choose The Right Version, System Requirements, And…\n════════════════════════\n𐀪\nAuthor:\nghostyjoe\n════════════════════════\nⴵ\nTime:\nSun, 14 Jun 2026 05:42:50 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#hacking\n#linux\n#bug_bounty\n#ubuntu",
+        "date": "2026-06-14T06:03:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122050_0_f090bed8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122050_1_bb030716.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122050",
+        "link": {
+          "title": "Ubuntu Server For Bug Bounty Hunting: How To Choose The Right Version, System Requirements, And…",
+          "url": "https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/ubuntu-server-for-bug-bounty-hunting-how-to-choose-the-right-version-system-requirements-and-9ee6a8678c4b?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 122049,
+        "text": "⤷\nTitle:\nPenetration testing for QA Engineers: Understanding security beyond functional testing\n════════════════════════\n𐀪\nAuthor:\nSudasun Malaviarachchi\n════════════════════════\nⴵ\nTime:\nSun, 14 Jun 2026 03:55:00 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#qa\n#software_development\n#cyber_security_awareness\n#information_security",
+        "date": "2026-06-14T04:04:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122049_0_f090bed8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122049_1_ced5020b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122049",
+        "link": {
+          "title": "Penetration testing for QA Engineers: Understanding security beyond functional testing",
+          "url": "https://medium.com/@mvirajsudasun/penetration-testing-for-qa-engineers-understanding-security-beyond-functional-testing-8527689896b0?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 122048,
+        "text": "⤷\nTitle:\nSoupedecode 01 (THM) Tryhackme Walkthrough\n════════════════════════\n𐀪\nAuthor:\nLawvye\n════════════════════════\nⴵ\nTime:\nSun, 14 Jun 2026 02:15:32 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#privilege_escalation\n#tryhackme\n#cybersecurity\n#windows",
+        "date": "2026-06-14T04:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122048_0_f090bed8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122048_1_a04078ab.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122048",
+        "link": {
+          "title": "Soupedecode 01 (THM) Tryhackme Walkthrough",
+          "url": "https://medium.com/@lawvye/soupedecode-01-thm-tryhackme-walkthrough-0e2d84d75031?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 122047,
+        "text": "⤷\nTitle:\nNTLM Reflection: cómo una mala configuración puede derribar todo un dominio\n════════════════════════\n𐀪\nAuthor:\nHacking en México\n════════════════════════\nⴵ\nTime:\nSun, 14 Jun 2026 03:50:49 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#cybersecurity",
+        "date": "2026-06-14T04:03:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122047_0_f090bed8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122047",
+        "link": {
+          "title": "NTLM Reflection: cómo una mala configuración puede derribar todo un dominio",
+          "url": "https://medium.com/@hackingenmexico/ntlm-reflection-c%C3%B3mo-una-mala-configuraci%C3%B3n-puede-derribar-todo-un-dominio-dc132a21e56c?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 122046,
+        "text": "⤷\nTitle:\nWhy Your UIKit Border Colors Break in Dark Mode (And How to Fix It)\n════════════════════════\n𐀪\nAuthor:\nJerry PM\n════════════════════════\nⴵ\nTime:\nSun, 14 Jun 2026 02:11:00 GMT\n════════════════════════\n⌗\nTags:\n#swiftui\n#bugs\n#ios\n#swift\n#bug_bounty",
+        "date": "2026-06-14T04:03:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122046_0_f090bed8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122046_1_d19b62d9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122046",
+        "link": {
+          "title": "Why Your UIKit Border Colors Break in Dark Mode (And How to Fix It)",
+          "url": "https://21zerixpm.medium.com/why-your-uikit-border-colors-break-in-dark-mode-and-how-to-fix-it-a97567dcd373?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 122045,
         "text": "⤷\nTitle:\nThe Best Bug Is the One You Actually Report\n════════════════════════\n𐀪\nAuthor:\nDecline\n════════════════════════\nⴵ\nTime:\nSun, 14 Jun 2026 01:58:53 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_writeup\n#bugbounty_writeup\n#bug_hunting\n#bug_bounty\n#bug_bounty_tips",
         "date": "2026-06-14T02:04:03+00:00",
@@ -2008,282 +2280,10 @@
           "title": "Exposed Sensitive Logs and SQL Queries Revealing User Data",
           "url": "https://medium.com/@mrcix/exposed-sensitive-logs-and-sql-queries-revealing-user-data-0927b973878a?source=rss------bug_bounty-5"
         }
-      },
-      {
-        "id": 121957,
-        "text": "⤷\nTitle:\nNibbles | Proving Grounds | OSCP Preparation\n════════════════════════\n𐀪\nAuthor:\nSilentExploit\n════════════════════════\nⴵ\nTime:\nSat, 13 Jun 2026 00:44:09 GMT\n════════════════════════\n⌗\nTags:\n#ctf\n#ctf_writeup\n#infosec\n#hacking\n#bug_bounty",
-        "date": "2026-06-13T02:03:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121957_0_84f88003.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121957_1_cda6edec.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121957",
-        "link": {
-          "title": "Nibbles | Proving Grounds | OSCP Preparation",
-          "url": "https://medium.com/@SilentExploit/nibbles-proving-grounds-oscp-preparation-492853db8ff8?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 121956,
-        "text": "⤷\nTitle:\nBypassing Edge for Business DLP via Graph API\n════════════════════════\n𐀪\nAuthor:\nDhimitri\n════════════════════════\nⴵ\nTime:\nFri, 12 Jun 2026 21:57:29 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#microsoft_edge\n#hacking\n#bypass\n#microsoft_graph_api",
-        "date": "2026-06-13T00:03:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121956_0_84f88003.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121956_1_a6deb4d5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121956",
-        "link": {
-          "title": "Bypassing Edge for Business DLP via Graph API",
-          "url": "https://medium.com/@DhimitriLaurent/bypassing-edge-for-business-dlp-via-graph-api-a3d20e12b093?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 121955,
-        "text": "⤷\nTitle:\nWhat is Brie — Bug Capture Tool?\n════════════════════════\n𐀪\nAuthor:\nIon Leu\n════════════════════════\nⴵ\nTime:\nFri, 12 Jun 2026 23:18:27 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#bugs\n#devtools",
-        "date": "2026-06-13T00:03:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121955_0_84f88003.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121955_1_62a411c8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121955",
-        "link": {
-          "title": "What is Brie — Bug Capture Tool?",
-          "url": "https://medium.com/@ion.leu/what-is-brie-bug-capture-tool-d8a767f4483e?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 121954,
-        "text": "⤷\nTitle:\nDiscover printers during an internal penetration testing engagement\n════════════════════════\n𐀪\nAuthor:\nMuhammad Jubair Hossain\n════════════════════════\nⴵ\nTime:\nThu, 11 Jun 2026 04:45:57 GMT\n════════════════════════\n⌗\nTags:\n#ldap\n#reconnaissance\n#recon\n#printers\n#pass_back_attack",
-        "date": "2026-06-12T22:04:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121954_0_84f88003.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121954_1_e403057d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121954",
-        "link": {
-          "title": "Discover printers during an internal penetration testing engagement",
-          "url": "https://medium.com/@muhammadjubairsec/discover-printers-during-an-internal-penetration-testing-engagement-using-nmap-and-other-recon-24d27e3d4b66?source=rss------recon-5"
-        }
-      },
-      {
-        "id": 121953,
-        "text": "⤷\nTitle:\nI Built a SOC Home Lab Using Wazuh SIEM — Here’s Everything I Learned\n════════════════════════\n𐀪\nAuthor:\nPa1cosmic\n════════════════════════\nⴵ\nTime:\nFri, 12 Jun 2026 21:30:56 GMT\n════════════════════════\n⌗\nTags:\n#soc_analyst\n#osint\n#threat_hunting\n#cybersecurity\n#ethical_hacking",
-        "date": "2026-06-12T22:04:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121953_0_84f88003.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121953",
-        "link": {
-          "title": "I Built a SOC Home Lab Using Wazuh SIEM — Here’s Everything I Learned",
-          "url": "https://medium.com/@Pavan_cosmic/i-built-a-soc-home-lab-using-wazuh-siem-heres-everything-i-learned-0793702d002b?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 121952,
-        "text": "⤷\nTitle:\nThe Hint is Hidden in Plain Sight So is The Secret\n════════════════════════\n𐀪\nAuthor:\nAkshaykumar Kathirvelu\n════════════════════════\nⴵ\nTime:\nFri, 12 Jun 2026 21:51:46 GMT\n════════════════════════\n⌗\nTags:\n#ctf\n#cybersecurity\n#web_security\n#learning\n#ethical_hacking",
-        "date": "2026-06-12T22:04:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121952_0_84f88003.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121952_1_b8f17920.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121952",
-        "link": {
-          "title": "The Hint is Hidden in Plain Sight So is The Secret",
-          "url": "https://medium.com/@akshaykumar_90336/the-hint-is-hidden-in-plain-sight-so-is-the-secret-0fb20fc76e51?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 121951,
-        "text": "⤷\nTitle:\nInternal Penetration Testing: A Real-World Guide to SMB Relay Attacks\n════════════════════════\n𐀪\nAuthor:\nMuhammad Jubair Hossain\n════════════════════════\nⴵ\nTime:\nFri, 12 Jun 2026 20:37:06 GMT\n════════════════════════\n⌗\nTags:\n#active_directory\n#network_penetration\n#internal_penetration\n#penetration_testing\n#smb_relay_attack",
-        "date": "2026-06-12T22:04:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121951_0_84f88003.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121951_1_b90c185e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121951",
-        "link": {
-          "title": "Internal Penetration Testing: A Real-World Guide to SMB Relay Attacks",
-          "url": "https://medium.com/@muhammadjubairsec/internal-penetration-testing-a-real-world-guide-to-smb-relay-attacks-c197fba6db74?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 121950,
-        "text": "⤷\nTitle:\nCuando el amor llega por mensaje… y termina vaciando tu cuenta bancaria\n════════════════════════\n𐀪\nAuthor:\nHacking en México\n════════════════════════\nⴵ\nTime:\nFri, 12 Jun 2026 20:45:34 GMT\n════════════════════════\n⌗\nTags:\n#fraud\n#hacking",
-        "date": "2026-06-12T22:04:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121950_0_84f88003.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121950_1_01e036ef.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121950",
-        "link": {
-          "title": "Cuando el amor llega por mensaje… y termina vaciando tu cuenta bancaria",
-          "url": "https://medium.com/@hackingenmexico/cuando-el-amor-llega-por-mensaje-y-termina-vaciando-tu-cuenta-bancaria-a6d8dfcaeaf1?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 121949,
-        "text": "⤷\nTitle:\nJWT Attacks: Algorithm Confusion Vulnerability\n════════════════════════\n𐀪\nAuthor:\nMayank Kumar Prajapati\n════════════════════════\nⴵ\nTime:\nFri, 12 Jun 2026 19:57:21 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#hacking\n#vulnerability\n#bug_bounty\n#penetration_testing",
-        "date": "2026-06-12T22:04:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121949_0_84f88003.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121949_1_6be94d83.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121949",
-        "link": {
-          "title": "JWT Attacks: Algorithm Confusion Vulnerability",
-          "url": "https://medium.com/@mayank_prajapati/jwt-attacks-algorithm-confusion-vulnerability-ce4bcfa3854a?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 121948,
-        "text": "⤷\nTitle:\nHow I Found My First Bug in Bug Bounty\n════════════════════════\n𐀪\nAuthor:\nkingshark\n════════════════════════\nⴵ\nTime:\nFri, 12 Jun 2026 20:30:13 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#cybersecurity\n#403_bypass\n#bug_bounty\n#penetration_testing",
-        "date": "2026-06-12T22:04:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121948_0_84f88003.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121948_1_c2660df7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121948",
-        "link": {
-          "title": "How I Found My First Bug in Bug Bounty",
-          "url": "https://medium.com/@kingshark/how-i-found-my-first-bug-in-bug-bounty-58cad28c61b8?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 121947,
-        "text": "⤷\nTitle:\nSSTI: When the Server Runs What You Type\n════════════════════════\n𐀪\nAuthor:\n0x4rt1st\n════════════════════════\nⴵ\nTime:\nFri, 12 Jun 2026 20:58:30 GMT\n════════════════════════\n⌗\nTags:\n#pentesting\n#bug_bounty\n#ssti\n#web_development\n#cybersecurity",
-        "date": "2026-06-12T22:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121947_0_84f88003.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121947_1_114f1eea.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121947",
-        "link": {
-          "title": "SSTI: When the Server Runs What You Type",
-          "url": "https://infosecwriteups.com/ssti-when-the-server-runs-what-you-type-233e81c51b33?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 121946,
-        "text": "⤷\nTitle:\nWhy Use App-Level Auth When Every Database Has Auth? (Splunk Enterprise CVE-2026-20253 Pre-Auth RCE)\n════════════════════════\n𐀪\nAuthor:\nPiotr Bazydlo (\n@chudyPB\n)\n════════════════════════\nⴵ\nTime:\nFri, 12 Jun 2026 20:35:13 GMT\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-06-12T22:03:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121946_0_84f88003.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_121946_1_113d6d30.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/121946",
-        "link": {
-          "title": "Why Use App-Level Auth When Every Database Has Auth? (Splunk Enterprise CVE-2026-20253 Pre-Auth RCE)",
-          "url": "https://labs.watchtowr.com/why-use-app-level-auth-when-every-database-has-auth-splunk-enterprise-cve-2026-20253-pre-auth-rce/"
-        }
       }
     ]
   },
-  "last_update": "2026-06-14T02:14:04.559668+00:00",
+  "last_update": "2026-06-14T07:03:16.423676+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2295,7 +2295,7 @@
     },
     "referenced_files": 195,
     "existing_media_files": 195,
-    "total_size_mb": 6.46,
-    "last_calculation": "2026-06-14T02:14:04.561977+00:00"
+    "total_size_mb": 6.58,
+    "last_calculation": "2026-06-14T07:03:16.426067+00:00"
   }
 }
