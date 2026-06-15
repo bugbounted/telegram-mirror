@@ -2,6 +2,71 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 122129,
+        "text": "⤷\nTitle:\nWalkthrough: AI in Security - old sAInt nick — TryHackMe\n════════════════════════\n𐀪\nAuthor:\nMuhammad Usman\n════════════════════════\nⴵ\nTime:\nSun, 14 Jun 2026 22:25:17 GMT\n════════════════════════\n⌗\nTags:\n#aiinsecurity_oldsaintnick\n#advent_of_cyber_2025\n#walkthrough\n#tryhackme",
+        "date": "2026-06-15T00:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122129_0_b6184a97.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122129_1_ef5efcf9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122129",
+        "link": {
+          "title": "Walkthrough: AI in Security - old sAInt nick — TryHackMe",
+          "url": "https://medium.com/@malikmuhammadusman97/walkthrough-ai-in-security-old-saint-nick-tryhackme-3ea8ce64102f?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 122128,
+        "text": "⤷\nTitle:\nPart 3. OWASP A02 Security Misconfiguration: The Complete Guide to Detection, Exploitation, and…\n════════════════════════\n𐀪\nAuthor:\nIntelithics\n════════════════════════\nⴵ\nTime:\nSun, 14 Jun 2026 23:01:01 GMT\n════════════════════════\n⌗\nTags:\n#security_misconfiguration\n#hacking\n#cybersecurity\n#owasp_top_10\n#medium",
+        "date": "2026-06-15T00:03:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122128_0_b6184a97.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122128",
+        "link": {
+          "title": "Part 3. OWASP A02 Security Misconfiguration: The Complete Guide to Detection, Exploitation, and…",
+          "url": "https://intelithics.medium.com/part-3-owasp-a02-security-misconfiguration-the-complete-guide-to-detection-exploitation-and-fc8e014993f6?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 122127,
+        "text": "⤷\nTitle:\nDeepfakes Are Free Now. Your Company’s Phone System Is Not.\n════════════════════════\n𐀪\nAuthor:\nAeon Flex, Elriel Assoc. 2133 [NEON MAXIMA]\n════════════════════════\nⴵ\nTime:\nSun, 14 Jun 2026 23:05:31 GMT\n════════════════════════\n⌗\nTags:\n#ai\n#deepfakes\n#artificial_intelligence\n#cybersecurity\n#hacking",
+        "date": "2026-06-15T00:03:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122127_0_b6184a97.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122127_1_8f478df7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122127",
+        "link": {
+          "title": "Deepfakes Are Free Now. Your Company’s Phone System Is Not.",
+          "url": "https://medium.com/@neonmaxima/deepfakes-are-free-now-your-companys-phone-system-is-not-cbfd0171a944?source=rss------hacking-5"
+        }
+      },
+      {
         "id": 122126,
         "text": "⤷\nTitle:\nLinux SUID, SGID, and the Sticky Bit: The Hidden Permissions That Can Get You Hacked\n════════════════════════\n𐀪\nAuthor:\nPhilip Gyimah\n════════════════════════\nⴵ\nTime:\nSun, 14 Jun 2026 21:24:26 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#privilege_escalation\n#cybersecurity\n#devops\n#linux",
         "date": "2026-06-14T22:04:15+00:00",
@@ -2215,91 +2280,22 @@
           "title": "Anthropic’s Fable 5 Is Gone: The US Government, a Jailbreak, and the AI Governance Crisis Nobody…",
           "url": "https://medium.com/@alimansoor1298/anthropics-fable-5-is-gone-the-us-government-a-jailbreak-and-the-ai-governance-crisis-nobody-14bd2a975aa5?source=rss------infosec-5"
         }
-      },
-      {
-        "id": 122029,
-        "text": "⤷\nTitle:\nMy Cybersecurity Journey — From CSE Student to CTF Player\n════════════════════════\n𐀪\nAuthor:\nKhushbu\n════════════════════════\nⴵ\nTime:\nSat, 13 Jun 2026 19:27:38 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#students\n#infosec\n#cybersecurity\n#ctf",
-        "date": "2026-06-13T20:04:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122029_0_f090bed8.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122029_1_4fb089a9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122029",
-        "link": {
-          "title": "My Cybersecurity Journey — From CSE Student to CTF Player",
-          "url": "https://medium.com/@khushbuchandra2161/my-cybersecurity-journey-from-cse-student-to-ctf-player-40e34c1a8ea0?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 122028,
-        "text": "⤷\nTitle:\nThe Anatomy of a Phishing Email — and What Happens After You Click\n════════════════════════\n𐀪\nAuthor:\nPop123\n════════════════════════\nⴵ\nTime:\nSat, 13 Jun 2026 19:27:10 GMT\n════════════════════════\n⌗\nTags:\n#technology\n#phishing\n#hacking\n#authentication\n#cybersecurity",
-        "date": "2026-06-13T20:03:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122028_0_f090bed8.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122028_1_331507ec.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122028",
-        "link": {
-          "title": "The Anatomy of a Phishing Email — and What Happens After You Click",
-          "url": "https://medium.com/@Pop123/the-anatomy-of-a-phishing-email-and-what-happens-after-you-click-a5a4f2fc4b8d?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 122027,
-        "text": "⤷\nTitle:\nWeaponizing Logs: How Attackers Crash Apps via Synchronous Logging (And How ELK Fixes It)\n════════════════════════\n𐀪\nAuthor:\nPau Dang\n════════════════════════\nⴵ\nTime:\nSat, 13 Jun 2026 19:41:00 GMT\n════════════════════════\n⌗\nTags:\n#microservices\n#cybersecurity\n#nodejs\n#software_architecture\n#hacking",
-        "date": "2026-06-13T20:03:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122027_0_f090bed8.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122027_1_bc3e1a91.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122027",
-        "link": {
-          "title": "Weaponizing Logs: How Attackers Crash Apps via Synchronous Logging (And How ELK Fixes It)",
-          "url": "https://systemweakness.com/weaponizing-logs-how-attackers-crash-apps-via-synchronous-logging-and-how-elk-fixes-it-373d0bb84729?source=rss------hacking-5"
-        }
       }
     ]
   },
-  "last_update": "2026-06-14T22:59:41.847278+00:00",
+  "last_update": "2026-06-15T00:06:21.423534+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 196,
-    "total_files": 196,
+    "total_media": 195,
+    "total_files": 195,
     "total_links": 0,
     "files_by_type": {
-      "image": 196
+      "image": 195
     },
-    "referenced_files": 196,
-    "existing_media_files": 196,
-    "total_size_mb": 6.97,
-    "last_calculation": "2026-06-14T22:59:41.849656+00:00"
+    "referenced_files": 195,
+    "existing_media_files": 195,
+    "total_size_mb": 6.85,
+    "last_calculation": "2026-06-15T00:06:21.425897+00:00"
   }
 }
