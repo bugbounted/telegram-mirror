@@ -2,6 +2,462 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 122357,
+        "text": "⤷\nTitle:\nSSRF by encoding\n════════════════════════\n𐀪\nAuthor:\nPratik Pohankar\n════════════════════════\nⴵ\nTime:\nTue, 16 Jun 2026 09:34:58 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_writeup\n#bug_bounty_tips\n#web_application_security\n#bug_bounty_hunter",
+        "date": "2026-06-16T10:04:39+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122357_0_6428f79c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122357_1_8a13b0f1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122357",
+        "link": {
+          "title": "SSRF by encoding",
+          "url": "https://medium.com/@alastaair66/ssrf-by-encoding-ff67fa51ba01?source=rss------bug_bounty_writeup-5"
+        }
+      },
+      {
+        "id": 122356,
+        "text": "⤷\nTitle:\nDevFortress Deep Digest 1: Before the Crisis\n════════════════════════\n𐀪\nAuthor:\nDuncan N. Ndegwa\n════════════════════════\nⴵ\nTime:\nTue, 16 Jun 2026 09:47:58 GMT\n════════════════════════\n⌗\nTags:\n#api_security\n#software_development\n#security\n#cybersecurity\n#ai",
+        "date": "2026-06-16T10:04:35+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122356_0_6428f79c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122356_1_7b37ee5c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122356",
+        "link": {
+          "title": "DevFortress Deep Digest 1: Before the Crisis",
+          "url": "https://medium.com/@devfortress/devfortress-deep-digest-1-before-the-crisis-9098e2fc8e1c?source=rss------api_security-5"
+        }
+      },
+      {
+        "id": 122355,
+        "text": "⤷\nTitle:\nAgentic AI: The Next Cybersecurity Challenge\n════════════════════════\n𐀪\nAuthor:\nVinit\n════════════════════════\nⴵ\nTime:\nTue, 16 Jun 2026 09:44:17 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#cybersecurity\n#ai_in_cybersecurity\n#artificial_intelligence\n#information_security",
+        "date": "2026-06-16T10:04:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122355_0_6428f79c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122355_1_7c34bc2a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122355",
+        "link": {
+          "title": "Agentic AI: The Next Cybersecurity Challenge",
+          "url": "https://medium.com/@vinitmevada0253v/agentic-ai-the-next-cybersecurity-challenge-bdc0f36fa523?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 122354,
+        "text": "⤷\nTitle:\nPreparation | TryHackMe\n════════════════════════\n𐀪\nAuthor:\nRyca\n════════════════════════\nⴵ\nTime:\nTue, 16 Jun 2026 09:07:55 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#blue_team\n#tryhackme\n#preparation",
+        "date": "2026-06-16T10:04:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122354_0_6428f79c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122354_1_8a8e02bf.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122354",
+        "link": {
+          "title": "Preparation | TryHackMe",
+          "url": "https://medium.com/@elaris/preparation-tryhackme-ea6e21f7eae3?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 122353,
+        "text": "⤷\nTitle:\nResponse and Recovery | TryHackMe\n════════════════════════\n𐀪\nAuthor:\nRyca\n════════════════════════\nⴵ\nTime:\nTue, 16 Jun 2026 09:08:00 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#blue_team\n#incident_response\n#cybersecurity\n#response_and_recovery",
+        "date": "2026-06-16T10:04:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122353_0_6428f79c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122353_1_ec9f92f1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122353",
+        "link": {
+          "title": "Response and Recovery | TryHackMe",
+          "url": "https://medium.com/@elaris/response-and-recovery-tryhackme-b30699b066e0?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 122352,
+        "text": "⤷\nTitle:\nTryHackMe: Dead Drop — Writeup\n════════════════════════\n𐀪\nAuthor:\nChristopher Arock\n════════════════════════\nⴵ\nTime:\nTue, 16 Jun 2026 09:39:58 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_writeup\n#ethical_hacking\n#tryhackme\n#cybersecurity\n#tryhackme_walkthrough",
+        "date": "2026-06-16T10:04:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122352_0_6428f79c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122352_1_6efeee50.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122352",
+        "link": {
+          "title": "TryHackMe: Dead Drop — Writeup",
+          "url": "https://christopherarock.medium.com/tryhackme-dead-drop-writeup-de25124949d0?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 122351,
+        "text": "⤷\nTitle:\nHow ShinyHunters Exploited Oracle PeopleSoft: A Deep Dive Into Zero-Day Logic Flaws\n════════════════════════\n𐀪\nAuthor:\nLakshya Porwal\n════════════════════════\nⴵ\nTime:\nTue, 16 Jun 2026 08:02:19 GMT\n════════════════════════\n⌗\nTags:\n#software_engineering\n#infosec\n#cybersecurity\n#threat_intelligence\n#web_security",
+        "date": "2026-06-16T10:04:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122351_0_6428f79c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122351_1_c26a4555.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122351",
+        "link": {
+          "title": "How ShinyHunters Exploited Oracle PeopleSoft: A Deep Dive Into Zero-Day Logic Flaws",
+          "url": "https://medium.com/@lakshya.work1/how-shinyhunters-exploited-oracle-peoplesoft-a-deep-dive-into-zero-day-logic-flaws-c7c04ca884a1?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 122350,
+        "text": "⤷\nTitle:\nHow I Accidentally Stumbled Into NASA’s Flight Data – A Bug Bounty Adventure\n════════════════════════\n𐀪\nAuthor:\nPrince T Philip\n════════════════════════\nⴵ\nTime:\nTue, 16 Jun 2026 08:42:59 GMT\n════════════════════════\n⌗\nTags:\n#programming\n#education\n#hacking\n#entrepreneurship\n#nasa",
+        "date": "2026-06-16T10:04:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122350_0_6428f79c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122350_1_5872916b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122350",
+        "link": {
+          "title": "How I Accidentally Stumbled Into NASA’s Flight Data – A Bug Bounty Adventure",
+          "url": "https://medium.com/@princetphilip/how-i-accidentally-stumbled-into-nasas-flight-data-a-bug-bounty-adventure-bd708fba317f?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 122349,
+        "text": "⤷\nTitle:\nThe File They Forgot to Delete\n════════════════════════\n𐀪\nAuthor:\nmorgan_hack\n════════════════════════\nⴵ\nTime:\nTue, 16 Jun 2026 09:49:55 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#bug_bounty_tips\n#website_design\n#bug_bounty_writeup\n#developer_tools",
+        "date": "2026-06-16T10:04:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122349_0_6428f79c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122349_1_3374eab5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122349",
+        "link": {
+          "title": "The File They Forgot to Delete",
+          "url": "https://medium.com/@guyani/the-file-they-forgot-to-delete-12095fedd80b?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 122348,
+        "text": "⤷\nTitle:\nFluffy Wolf Phishing Attacks Push PowerLoader Malware\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 16 Jun 2026 08:11:16 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#cybersecurity\n#Fluffy\nWolf\n#phishing\n#PowerLoader\n#PureRAT",
+        "date": "2026-06-16T10:04:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122348_0_6428f79c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122348_1_c5a68788.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122348",
+        "link": {
+          "title": "Fluffy Wolf Phishing Attacks Push PowerLoader Malware",
+          "url": "https://securityonline.info/fluffy-wolf-phishing-attacks-powerloader/"
+        }
+      },
+      {
+        "id": 122347,
+        "text": "⤷\nTitle:\nCould Apple Build Its Own OpenClaw Competitor?\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 16 Jun 2026 08:24:30 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#AI\nAgents\n#Apple\n#Mark\nGurman\n#OpenClaw\n#Siri\n#WWDC\n2026",
+        "date": "2026-06-16T10:04:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122347_0_6428f79c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122347_1_dfbb115f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122347",
+        "link": {
+          "title": "Could Apple Build Its Own OpenClaw Competitor?",
+          "url": "https://securityonline.info/apple-openclaw-competitor-siri-agent/"
+        }
+      },
+      {
+        "id": 122346,
+        "text": "⤷\nTitle:\nTelegram Bots Receive Rich HTML and Markdown Formatting Options\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 16 Jun 2026 08:44:45 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#bot\ndevelopment\n#HTML\nformatting\n#Markdown\n#Rich\nText\n#Telegram\nBots",
+        "date": "2026-06-16T10:04:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122346_0_6428f79c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122346_1_8b087f50.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122346",
+        "link": {
+          "title": "Telegram Bots Receive Rich HTML and Markdown Formatting Options",
+          "url": "https://securityonline.info/telegram-bot-formatting/"
+        }
+      },
+      {
+        "id": 122345,
+        "text": "⤷\nTitle:\nUNK_DeadDrop Phishing Campaigns Target Developers\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 16 Jun 2026 09:11:03 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#Developers\n#North\nKorea\n#phishing\n#UNK_DeadDrop\n#VS\nCode",
+        "date": "2026-06-16T10:03:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122345_0_6428f79c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122345_1_22157914.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122345",
+        "link": {
+          "title": "UNK_DeadDrop Phishing Campaigns Target Developers",
+          "url": "https://securityonline.info/unkdeaddrop-phishing-campaigns-developers/"
+        }
+      },
+      {
+        "id": 122344,
+        "text": "⤷\nTitle:\nMicrosoft Teams Workplace Check-in: Privacy Concerns\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 16 Jun 2026 09:26:40 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#Microsoft\n365\n#Microsoft\nTeams\n#privacy\n#Remote\nWork\n#Workplace\nCheck_in",
+        "date": "2026-06-16T10:03:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122344_0_6428f79c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122344_1_27e91f68.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122344",
+        "link": {
+          "title": "Microsoft Teams Workplace Check-in: Privacy Concerns",
+          "url": "https://securityonline.info/teams-workplace-checkin/"
+        }
+      },
+      {
+        "id": 122343,
+        "text": "⤷\nTitle:\nFake Microsoft Alerts Used to Deploy North Korean NarwhalRAT Malware\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nTue, 16 Jun 2026 13:44:55 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-06-16T10:03:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122343_0_6428f79c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122343",
+        "link": {
+          "title": "Fake Microsoft Alerts Used to Deploy North Korean NarwhalRAT Malware",
+          "url": "https://thehackernews.com/2026/06/fake-microsoft-alerts-used-to-deploy.html"
+        }
+      },
+      {
+        "id": 122342,
+        "text": "⤷\nTitle:\nPhone Numbers and Emails to Hidden Subdomains: The OSINT Acquisition Pipeline That Uncovered a…\n════════════════════════\n𐀪\nAuthor:\nMD Mehedi Hasan\n════════════════════════\nⴵ\nTime:\nTue, 16 Jun 2026 08:01:14 GMT\n════════════════════════\n⌗\nTags:\n#digital_footprint\n#hidden_subdomains\n#osint\n#bug_bounty_tips\n#subdomains_enumeration",
+        "date": "2026-06-16T08:05:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122342_0_6428f79c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122342_1_9cda7e8c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122342",
+        "link": {
+          "title": "Phone Numbers and Emails to Hidden Subdomains: The OSINT Acquisition Pipeline That Uncovered a…",
+          "url": "https://infosecwriteups.com/phone-numbers-and-emails-to-hidden-subdomains-the-osint-acquisition-pipeline-that-uncovered-a-16b1e7d533cd?source=rss------bug_bounty_tips-5"
+        }
+      },
+      {
+        "id": 122341,
+        "text": "⤷\nTitle:\nTransfer files cannot be removed in Dropbox Transfer\n════════════════════════\n𐀪\nAuthor:\nRohmad Hidayah\n════════════════════════\nⴵ\nTime:\nTue, 16 Jun 2026 07:15:06 GMT\n════════════════════════\n⌗\nTags:\n#dropbox\n#business_logic_flaw\n#bug_bounty_writeup",
+        "date": "2026-06-16T08:05:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122341_0_6428f79c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122341_1_49e329e6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122341",
+        "link": {
+          "title": "Transfer files cannot be removed in Dropbox Transfer",
+          "url": "https://medium.com/@r0hm4dh/transfer-files-cannot-be-removed-in-dropbox-transfer-4d7fbcea915e?source=rss------bug_bounty_writeup-5"
+        }
+      },
+      {
+        "id": 122340,
+        "text": "⤷\nTitle:\nWhy Cybersecurity Skills Are Essential in 2026\n════════════════════════\n𐀪\nAuthor:\nCozonix\n════════════════════════\nⴵ\nTime:\nTue, 16 Jun 2026 06:30:08 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#cyber_security_awareness\n#hacker\n#technology\n#ethical_hacking",
+        "date": "2026-06-16T08:05:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122340_0_6428f79c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122340_1_3296ebe7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122340",
+        "link": {
+          "title": "Why Cybersecurity Skills Are Essential in 2026",
+          "url": "https://medium.com/@cozonix.official/why-cybersecurity-skills-are-essential-in-2026-0e2daa250005?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 122339,
+        "text": "⤷\nTitle:\n5 Phone Habits That Put Your Accounts at Risk (And How to Fix Them Today)\n════════════════════════\n𐀪\nAuthor:\nFaceless Hacker\n════════════════════════\nⴵ\nTime:\nTue, 16 Jun 2026 07:07:25 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#cybersecurity\n#privacy\n#technology",
+        "date": "2026-06-16T08:05:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122339_0_6428f79c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122339_1_8e824f04.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122339",
+        "link": {
+          "title": "5 Phone Habits That Put Your Accounts at Risk (And How to Fix Them Today)",
+          "url": "https://medium.com/@fiyinfoluwa_/5-phone-habits-that-put-your-accounts-at-risk-and-how-to-fix-them-today-998b82d2cac1?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 122338,
+        "text": "⤷\nTitle:\nBest Red Hat Certification Courses to Boost Your IT Career in 2026\n════════════════════════\n𐀪\nAuthor:\ncybersecuritycourse\n════════════════════════\nⴵ\nTime:\nTue, 16 Jun 2026 07:16:26 GMT\n════════════════════════\n⌗\nTags:\n#linux\n#red_hat_certification\n#cybersecurity\n#redhat_linux\n#ethical_hacking",
+        "date": "2026-06-16T08:04:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122338_0_6428f79c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122338_1_b8928a7a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122338",
+        "link": {
+          "title": "Best Red Hat Certification Courses to Boost Your IT Career in 2026",
+          "url": "https://medium.com/@cybersecuritycourse/best-red-hat-certification-courses-to-boost-your-it-career-in-2026-30103fc41fe7?source=rss------ethical_hacking-5"
+        }
+      },
+      {
         "id": 122310,
         "text": "⤷\nTitle:\nThe SpaceX IPO: What Swing Traders Need to Know About the $2T Behemoth\n════════════════════════\n𐀪\nAuthor:\nStevePattersonOh\n════════════════════════\nⴵ\nTime:\nTue, 16 Jun 2026 02:31:14 GMT\n════════════════════════\n⌗\nTags:\n#xai\n#spacex\n#xs\n#elon_musk\n#spacex_ipo",
         "date": "2026-06-16T04:04:40+00:00",
@@ -1812,482 +2268,22 @@
           "title": "Web Hacking — part 3",
           "url": "https://medium.com/@vorasmit22/web-hacking-part-3-6edc70ca4b00?source=rss------infosec-5"
         }
-      },
-      {
-        "id": 122184,
-        "text": "⤷\nTitle:\nSafety and governance for LLM systems: guardrails, PII, audit, and memory\n════════════════════════\n𐀪\nAuthor:\nVarun Jindal\n════════════════════════\nⴵ\nTime:\nMon, 15 Jun 2026 09:13:24 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#ai_agent\n#llm\n#data_governance\n#software_architecture",
-        "date": "2026-06-15T10:04:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122184_0_b6184a97.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122184_1_c09bfb9f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122184",
-        "link": {
-          "title": "Safety and governance for LLM systems: guardrails, PII, audit, and memory",
-          "url": "https://medium.com/vibecodingpub/safety-and-governance-for-llm-systems-guardrails-pii-audit-and-memory-c9ba954d82f5?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 122183,
-        "text": "⤷\nTitle:\nThe Anatomy of a 72-Hour Hack: How a Fast-Growing Startup’s Defenses Crumble (And How to Prevent…\n════════════════════════\n𐀪\nAuthor:\nPentest_Testing_Corp\n════════════════════════\nⴵ\nTime:\nMon, 15 Jun 2026 09:50:15 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#cybersecurity\n#business_security\n#penetration_testing\n#ethical_hacking",
-        "date": "2026-06-15T10:04:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122183_0_b6184a97.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122183_1_f5f7daa0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122183",
-        "link": {
-          "title": "The Anatomy of a 72-Hour Hack: How a Fast-Growing Startup’s Defenses Crumble (And How to Prevent…",
-          "url": "https://meetcyber.net/the-anatomy-of-a-72-hour-hack-how-a-fast-growing-startups-defenses-crumble-and-how-to-prevent-e5cb851bced3?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 122182,
-        "text": "⤷\nTitle:\nAn AI Read Zcash’s Code for One Day. Then It Found the Bug That 4 Years of Human Audits Missed.\n════════════════════════\n𐀪\nAuthor:\nShivashish Yadav\n════════════════════════\nⴵ\nTime:\nMon, 15 Jun 2026 08:53:42 GMT\n════════════════════════\n⌗\nTags:\n#artificial_intelligence\n#hacking\n#ai\n#web3\n#cryptocurrency",
-        "date": "2026-06-15T10:04:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122182_0_b6184a97.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122182_1_51724d1e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122182",
-        "link": {
-          "title": "An AI Read Zcash’s Code for One Day. Then It Found the Bug That 4 Years of Human Audits Missed.",
-          "url": "https://shivashish-ydv.medium.com/an-ai-read-zcashs-code-for-one-day-then-it-found-the-bug-that-4-years-of-human-audits-missed-0beb3fc9321e?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 122181,
-        "text": "⤷\nTitle:\nHow To Use SecLists for Bug Bounty: What to Use, When to Use, and Exact Commands\n════════════════════════\n𐀪\nAuthor:\nRaunak Gupta Aka B1scuit\n════════════════════════\nⴵ\nTime:\nMon, 15 Jun 2026 09:26:00 GMT\n════════════════════════\n⌗\nTags:\n#software_development\n#hacking\n#technology\n#programming\n#cybersecurity",
-        "date": "2026-06-15T10:04:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122181_0_b6184a97.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122181_1_44f4a04f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122181",
-        "link": {
-          "title": "How To Use SecLists for Bug Bounty: What to Use, When to Use, and Exact Commands",
-          "url": "https://medium.com/@RaunakGupta1922/how-to-use-seclists-for-bug-bounty-what-to-use-when-to-use-and-exact-commands-fb25651ff03e?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 122180,
-        "text": "⤷\nTitle:\nAPI Attacks 103: Fazla Veri, Fazla Yetki ve Mass Assignment Riski\n════════════════════════\n𐀪\nAuthor:\nİlkan Aydoğan\n════════════════════════\nⴵ\nTime:\nMon, 15 Jun 2026 09:27:16 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#owasp_api_security_top_10\n#web_security\n#application_security\n#api_security",
-        "date": "2026-06-15T10:03:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122180_0_b6184a97.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122180_1_854002e3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122180",
-        "link": {
-          "title": "API Attacks 103: Fazla Veri, Fazla Yetki ve Mass Assignment Riski",
-          "url": "https://medium.com/@ilkanaydogan/api-attacks-103-fazla-veri-fazla-yetki-ve-mass-assignment-riski-38f469690b21?source=rss------application_security-5"
-        }
-      },
-      {
-        "id": 122179,
-        "text": "⤷\nTitle:\nHere’s a structured guide from basic to advanced Nmap scanning, with clear examples and…\n════════════════════════\n𐀪\nAuthor:\nThe Saurabh Pal\n════════════════════════\nⴵ\nTime:\nMon, 15 Jun 2026 08:27:42 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#bug_bounty_writeup\n#nmap_command\n#bug_bounty\n#penetration_testing",
-        "date": "2026-06-15T10:03:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122179_0_b6184a97.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122179_1_5233e009.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122179",
-        "link": {
-          "title": "Here’s a structured guide from basic to advanced Nmap scanning, with clear examples and…",
-          "url": "https://cybersaurabh.medium.com/heres-a-structured-guide-from-basic-to-advanced-nmap-scanning-with-clear-examples-and-430673c945e4?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 122178,
-        "text": "⤷\nTitle:\nThe Comment That Handed Me a Secret Key\n════════════════════════\n𐀪\nAuthor:\nmorgan_hack\n════════════════════════\nⴵ\nTime:\nMon, 15 Jun 2026 09:03:06 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_writeup\n#bug_bounty_hunter\n#bug_bounty\n#web_development",
-        "date": "2026-06-15T10:03:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122178_0_b6184a97.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122178_1_38396730.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122178",
-        "link": {
-          "title": "The Comment That Handed Me a Secret Key",
-          "url": "https://medium.com/@guyani/the-comment-that-handed-me-a-secret-key-f49ab34f93ef?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 122177,
-        "text": "⤷\nTitle:\nWhy Most Bug Bounty Beginners Fail — And How to Avoid It\n════════════════════════\n𐀪\nAuthor:\nSAYEM-EH\n════════════════════════\nⴵ\nTime:\nMon, 15 Jun 2026 09:21:49 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#bug_bounty_hunter\n#cybersecurity\n#web_penetration_testing\n#infosec",
-        "date": "2026-06-15T10:03:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122177_0_b6184a97.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122177_1_49a1d660.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122177",
-        "link": {
-          "title": "Why Most Bug Bounty Beginners Fail — And How to Avoid It",
-          "url": "https://sayemeh.medium.com/why-most-bug-bounty-beginners-fail-and-how-to-avoid-it-41a5db909ce2?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 122176,
-        "text": "⤷\nTitle:\nTop 10 Reasons to Choose a Career in Cyber Security\n════════════════════════\n𐀪\nAuthor:\ncybersecuritycourse\n════════════════════════\nⴵ\nTime:\nMon, 15 Jun 2026 07:54:49 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#education\n#ethical_hacking\n#cybersecurity_jobs\n#careers",
-        "date": "2026-06-15T08:04:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122176_0_b6184a97.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122176_1_9d223c94.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122176",
-        "link": {
-          "title": "Top 10 Reasons to Choose a Career in Cyber Security",
-          "url": "https://medium.com/@cybersecuritycourse/top-10-reasons-to-choose-a-career-in-cyber-security-1f2eafbd6b74?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 122175,
-        "text": "⤷\nTitle:\nSIM Cloning: Understanding the Technology, Risks, and Prevention\n════════════════════════\n𐀪\nAuthor:\nBlackHat\n════════════════════════\nⴵ\nTime:\nMon, 15 Jun 2026 06:22:52 GMT\n════════════════════════\n⌗\nTags:\n#android\n#hacking\n#technology\n#apple\n#artificial_intelligence",
-        "date": "2026-06-15T08:04:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122175_0_b6184a97.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122175_1_9b7e9de9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122175",
-        "link": {
-          "title": "SIM Cloning: Understanding the Technology, Risks, and Prevention",
-          "url": "https://medium.com/@hackersclique857/sim-cloning-understanding-the-technology-risks-and-prevention-5eb81e7e5f8c?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 122174,
-        "text": "⤷\nTitle:\nA Simple URL Led to Full Admin Access: Privilege Escalation Case Study\n════════════════════════\n𐀪\nAuthor:\nMR SHAN\n════════════════════════\nⴵ\nTime:\nMon, 15 Jun 2026 07:04:07 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#web_security\n#bug_bounty_tips\n#bug_bounty\n#cybersecurity",
-        "date": "2026-06-15T08:04:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122174_0_b6184a97.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122174_1_ee432783.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122174",
-        "link": {
-          "title": "A Simple URL Led to Full Admin Access: Privilege Escalation Case Study",
-          "url": "https://mrshan.medium.com/a-simple-url-led-to-full-admin-access-privilege-escalation-case-study-c77e377c3f98?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 122173,
-        "text": "⤷\nTitle:\nThe AI Agent Bug Bounty Playbook: 25 Authorized Tests for Tool Abuse, Memory Poisoning, and…\n════════════════════════\n𐀪\nAuthor:\nBugHunter’s Journal\n════════════════════════\nⴵ\nTime:\nMon, 15 Jun 2026 07:51:56 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ai_agent\n#ethical_hacking\n#bug_bounty\n#ai",
-        "date": "2026-06-15T08:04:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122173_0_b6184a97.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122173_1_60520508.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122173",
-        "link": {
-          "title": "The AI Agent Bug Bounty Playbook: 25 Authorized Tests for Tool Abuse, Memory Poisoning, and…",
-          "url": "https://medium.com/@bughuntersjournal/the-ai-agent-bug-bounty-playbook-25-authorized-tests-for-tool-abuse-memory-poisoning-and-6a74e2795252?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 122172,
-        "text": "⤷\nTitle:\nUNC3753 Vishing Campaign Targets US Law Firms for Extortion\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 15 Jun 2026 06:40:59 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#Luna\nMoth\n#Mandiant\n#UNC3753",
-        "date": "2026-06-15T08:04:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122172_0_b6184a97.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122172_1_ce042ec4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122172",
-        "link": {
-          "title": "UNC3753 Vishing Campaign Targets US Law Firms for Extortion",
-          "url": "https://securityonline.info/unc3753-vishing-campaign-law-firms/"
-        }
-      },
-      {
-        "id": 122171,
-        "text": "⤷\nTitle:\nOP-512: China-Linked Hackers Hit IIS Servers With New Tool\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 15 Jun 2026 07:03:52 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#OP_512\n#ReliaQuest\n#Web\nShell",
-        "date": "2026-06-15T08:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122171_0_b6184a97.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122171_1_6eca8060.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122171",
-        "link": {
-          "title": "OP-512: China-Linked Hackers Hit IIS Servers With New Tool",
-          "url": "https://securityonline.info/op-512-china-linked-iis-web-shell/"
-        }
-      },
-      {
-        "id": 122170,
-        "text": "⤷\nTitle:\nFirefox VPN Drops Limits for Summer Travel\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 15 Jun 2026 07:16:07 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#Browser\nVPN\n#firefox\n#Firefox\nVPN\n#mozilla\n#Online\nPrivacy\n#Travel\nTech\n#VPN\nPrivacy",
-        "date": "2026-06-15T08:03:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122170_0_b6184a97.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122170_1_41df562f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122170",
-        "link": {
-          "title": "Firefox VPN Drops Limits for Summer Travel",
-          "url": "https://securityonline.info/firefox-built-in-vpn-summer-offer/"
-        }
-      },
-      {
-        "id": 122155,
-        "text": "⤷\nTitle:\nChanging $1,000 to $0.01: The Subtle Threat of Parameter Tampering\n════════════════════════\n𐀪\nAuthor:\nSambhab Sahoo\n════════════════════════\nⴵ\nTime:\nMon, 15 Jun 2026 03:02:22 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ethical_hacking\n#infosec\n#network_security\n#cyber_security_awareness",
-        "date": "2026-06-15T04:04:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122155_0_b6184a97.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122155_1_93b8e7c4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122155",
-        "link": {
-          "title": "Changing $1,000 to $0.01: The Subtle Threat of Parameter Tampering",
-          "url": "https://medium.com/@sambhabsahoo027/changing-1-000-to-0-01-the-subtle-threat-of-parameter-tampering-98fa9754e64d?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 122154,
-        "text": "⤷\nTitle:\nHow a Missing Rate Limit Turns Your “Forgot Password” Form into a Cyber Weapon\n════════════════════════\n𐀪\nAuthor:\nSambhab Sahoo\n════════════════════════\nⴵ\nTime:\nMon, 15 Jun 2026 03:23:32 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#burpsuite\n#ethical_hacking\n#cyber_security_awareness\n#infosec",
-        "date": "2026-06-15T04:04:47+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122154_0_b6184a97.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122154_1_56924208.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122154",
-        "link": {
-          "title": "How a Missing Rate Limit Turns Your “Forgot Password” Form into a Cyber Weapon",
-          "url": "https://medium.com/@sambhabsahoo027/how-a-missing-rate-limit-turns-your-forgot-password-form-into-a-cyber-weapon-af48a1347afc?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 122153,
-        "text": "⤷\nTitle:\nHow I Escalated Privileges in a File-Sharing Platform by Changing One Word\n════════════════════════\n𐀪\nAuthor:\nKerolos Iskander (ker0los)\n════════════════════════\nⴵ\nTime:\nMon, 15 Jun 2026 03:18:06 GMT\n════════════════════════\n⌗\nTags:\n#hackerone\n#bug_bounty\n#cybersecurity\n#bug_bounty_tips\n#bugcrowd",
-        "date": "2026-06-15T04:04:43+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122153_0_b6184a97.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122153_1_ef8b016a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122153",
-        "link": {
-          "title": "How I Escalated Privileges in a File-Sharing Platform by Changing One Word",
-          "url": "https://medium.com/@kerolosiskander9/how-i-escalated-privileges-in-a-file-sharing-platform-by-changing-one-word-abd014432980?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 122152,
-        "text": "⤷\nTitle:\nAnthropic Halts Claude Fable Access Over US Export Ban\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 15 Jun 2026 02:50:56 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#AI\nJailbreak\n#Anthropic\n#Claude\nFable\n#Export\nBan\n#Mythos\n5",
-        "date": "2026-06-15T04:04:40+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122152_0_b6184a97.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122152_1_beec5cae.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122152",
-        "link": {
-          "title": "Anthropic Halts Claude Fable Access Over US Export Ban",
-          "url": "https://securityonline.info/claude-fable-export-ban/"
-        }
-      },
-      {
-        "id": 122151,
-        "text": "⤷\nTitle:\nMeta Moves to Curb Employee AI Usage Costs\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 15 Jun 2026 02:53:46 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#AI\nBudget\n#AI\nUsage Limits\n#Enterprise\nAI Costs\n#Meta\n#Meta\nCode\n#Token\nMinimization",
-        "date": "2026-06-15T04:04:37+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122151_0_b6184a97.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122151_1_e3deca93.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122151",
-        "link": {
-          "title": "Meta Moves to Curb Employee AI Usage Costs",
-          "url": "https://securityonline.info/meta-ai-usage-limits-employees/"
-        }
       }
     ]
   },
-  "last_update": "2026-06-16T05:43:14.006651+00:00",
+  "last_update": "2026-06-16T10:50:54.032516+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 193,
-    "total_files": 193,
+    "total_media": 192,
+    "total_files": 192,
     "total_links": 0,
     "files_by_type": {
-      "image": 193
+      "image": 192
     },
-    "referenced_files": 193,
-    "existing_media_files": 193,
-    "total_size_mb": 4.91,
-    "last_calculation": "2026-06-16T05:43:14.008999+00:00"
+    "referenced_files": 192,
+    "existing_media_files": 192,
+    "total_size_mb": 4.5,
+    "last_calculation": "2026-06-16T10:50:54.034849+00:00"
   }
 }
