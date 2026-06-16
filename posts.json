@@ -2,6 +2,466 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 122400,
+        "text": "⤷\nTitle:\nHow does SQL Injection work?\n════════════════════════\n𐀪\nAuthor:\nApurva Anand\n════════════════════════\nⴵ\nTime:\nTue, 16 Jun 2026 12:05:48 GMT\n════════════════════════\n⌗\nTags:\n#programming\n#sql_injection\n#cybersecurity\n#web_security\n#vulnerability",
+        "date": "2026-06-16T14:05:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122400_0_6428f79c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122400_1_a511ce21.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122400",
+        "link": {
+          "title": "How does SQL Injection work?",
+          "url": "https://medium.com/@apurvaanand51/how-does-sql-injection-work-d9d02f7cdf44?source=rss------sql_injection-5"
+        }
+      },
+      {
+        "id": 122399,
+        "text": "⤷\nTitle:\nInstalling Splunk, Forwarding Logs, and Engineering Real-Time Alerts\n════════════════════════\n𐀪\nAuthor:\nNargiz Jafarova\n════════════════════════\nⴵ\nTime:\nTue, 16 Jun 2026 12:15:56 GMT\n════════════════════════\n⌗\nTags:\n#siem\n#alerts\n#splunk\n#sql_injection\n#universal_forwarder",
+        "date": "2026-06-16T14:05:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122399_0_6428f79c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122399_1_2edbfcb6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122399",
+        "link": {
+          "title": "Installing Splunk, Forwarding Logs, and Engineering Real-Time Alerts",
+          "url": "https://medium.com/@nergizceferova/installing-splunk-forwarding-logs-and-engineering-real-time-alerts-1364284b3b08?source=rss------sql_injection-5"
+        }
+      },
+      {
+        "id": 122398,
+        "text": "⤷\nTitle:\n5 Linux Commands That Quietly Replaced Half My Daily Workflow\n════════════════════════\n𐀪\nAuthor:\nFateyaly\n════════════════════════\nⴵ\nTime:\nTue, 16 Jun 2026 12:37:37 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#technology\n#programming\n#coding\n#ethical_hacking",
+        "date": "2026-06-16T14:05:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122398_0_6428f79c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122398_1_b384ea27.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122398",
+        "link": {
+          "title": "5 Linux Commands That Quietly Replaced Half My Daily Workflow",
+          "url": "https://systemweakness.com/5-linux-commands-that-quietly-replaced-half-my-daily-workflow-7d324986d0bc?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 122397,
+        "text": "⤷\nTitle:\nWhy Cybersecurity Roadmaps Confuse More Than They Help\n════════════════════════\n𐀪\nAuthor:\nDhruv Kapoor | Aspiring Red Team Operator\n════════════════════════\nⴵ\nTime:\nTue, 16 Jun 2026 13:01:02 GMT\n════════════════════════\n⌗\nTags:\n#cyber_security_awareness\n#ethical_hacking\n#red_teaming\n#self_improvement\n#cybersecurity",
+        "date": "2026-06-16T14:05:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122397_0_6428f79c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122397_1_9cc9e75f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122397",
+        "link": {
+          "title": "Why Cybersecurity Roadmaps Confuse More Than They Help",
+          "url": "https://medium.com/@dhruvkapoor.atwork/why-cybersecurity-roadmaps-confuse-more-than-they-help-c6ee0dfab2c1?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 122396,
+        "text": "⤷\nTitle:\nBuild an IDOR Vulnerability Lab: Why WHERE Clauses Don’t Protect Your API.\n════════════════════════\n𐀪\nAuthor:\nShadowForge\n════════════════════════\nⴵ\nTime:\nTue, 16 Jun 2026 13:11:38 GMT\n════════════════════════\n⌗\nTags:\n#idor\n#labs\n#ethical_hacking\n#cybersecurity",
+        "date": "2026-06-16T14:05:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122396_0_6428f79c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122396_1_85d518fe.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122396",
+        "link": {
+          "title": "Build an IDOR Vulnerability Lab: Why WHERE Clauses Don’t Protect Your API.",
+          "url": "https://infosecwriteups.com/build-an-idor-vulnerability-lab-why-where-clauses-dont-protect-your-api-e5bd6528c339?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 122395,
+        "text": "⤷\nTitle:\nTryHackMe Injectus IX | Mask of Injectus IX | Task 3\n════════════════════════\n𐀪\nAuthor:\nayed djalil\n════════════════════════\nⴵ\nTime:\nTue, 16 Jun 2026 12:13:06 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_walkthrough\n#tryhackme",
+        "date": "2026-06-16T14:04:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122395_0_6428f79c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122395_1_0a1610c9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122395",
+        "link": {
+          "title": "TryHackMe Injectus IX | Mask of Injectus IX | Task 3",
+          "url": "https://medium.com/@jalilayed/tryhackme-injectus-ix-mask-of-injectus-ix-task-3-0cc0ca3f1d00?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 122394,
+        "text": "⤷\nTitle:\nTryHackMe | OWASP Top 10 2025: IAAA Failures | Walkthrough\n════════════════════════\n𐀪\nAuthor:\nRansom.Sezan\n════════════════════════\nⴵ\nTime:\nTue, 16 Jun 2026 12:20:34 GMT\n════════════════════════\n⌗\nTags:\n#thm_writeup\n#tryhackme_walkthrough\n#thm\n#tryhackme\n#tryhackme_writeup",
+        "date": "2026-06-16T14:04:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122394_0_6428f79c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122394_1_1f351584.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122394",
+        "link": {
+          "title": "TryHackMe | OWASP Top 10 2025: IAAA Failures | Walkthrough",
+          "url": "https://medium.com/@codectoc.ransomware/tryhackme-owasp-top-10-2025-iaaa-failures-walkthrough-de40b0c10771?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 122393,
+        "text": "⤷\nTitle:\nThe Marketplace — TryHackMe WriteUp with Flags\n════════════════════════\n𐀪\nAuthor:\nRayenhafsawy\n════════════════════════\nⴵ\nTime:\nTue, 16 Jun 2026 13:06:59 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_writeup\n#tryhackme\n#ctf\n#cybersecurity\n#tryhackme_walkthrough",
+        "date": "2026-06-16T14:04:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122393_0_6428f79c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122393_1_caf5858e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122393",
+        "link": {
+          "title": "The Marketplace — TryHackMe WriteUp with Flags",
+          "url": "https://medium.com/@rayenhafsawy/the-marketplace-tryhackme-writeup-with-flags-09067678606f?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 122392,
+        "text": "⤷\nTitle:\nWalkthrough: Malware Analysis - Egg-xecutable — TryHackMe\n════════════════════════\n𐀪\nAuthor:\nMuhammad Usman\n════════════════════════\nⴵ\nTime:\nTue, 16 Jun 2026 13:51:02 GMT\n════════════════════════\n⌗\nTags:\n#eggxecutable\n#walkthrough\n#advent_of_cyber_2025\n#tryhackme\n#malware_analysis",
+        "date": "2026-06-16T14:04:46+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122392_0_6428f79c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122392_1_7eb8d88d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122392",
+        "link": {
+          "title": "Walkthrough: Malware Analysis - Egg-xecutable — TryHackMe",
+          "url": "https://medium.com/@malikmuhammadusman97/walkthrough-malware-analysis-egg-xecutable-tryhackme-35c90a5cb21e?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 122391,
+        "text": "⤷\nTitle:\nDC 3.2- Writeup\n════════════════════════\n𐀪\nAuthor:\nSarath Chandran R S\n════════════════════════\nⴵ\nTime:\nTue, 16 Jun 2026 13:22:46 GMT\n════════════════════════\n⌗\nTags:\n#3dc\n#ctf_writeup\n#ctf\n#penetration_testing\n#walkthrough",
+        "date": "2026-06-16T14:04:43+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122391_0_6428f79c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122391_1_4760572d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122391",
+        "link": {
+          "title": "DC 3.2- Writeup",
+          "url": "https://medium.com/@iamsarathofkarnan/dc-3-2-writeup-f3625c9c1a9f?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 122390,
+        "text": "⤷\nTitle:\nThe Death of Initial Access: Why Modern Red Teams Must Think Like Adversary Engineers\n════════════════════════\n𐀪\nAuthor:\nYua Mikanana\n════════════════════════\nⴵ\nTime:\nTue, 16 Jun 2026 13:07:31 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#information_security\n#ethical_hacking\n#cybersecurity\n#technology",
+        "date": "2026-06-16T14:04:39+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122390_0_6428f79c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122390_1_ef9340a5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122390",
+        "link": {
+          "title": "The Death of Initial Access: Why Modern Red Teams Must Think Like Adversary Engineers",
+          "url": "https://medium.com/@yua.mikanana19/the-death-of-initial-access-why-modern-red-teams-must-think-like-adversary-engineers-21e9674d4d86?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 122389,
+        "text": "⤷\nTitle:\nAnalysis CVE-2026–48907 — Joomla JCE\n════════════════════════\n𐀪\nAuthor:\nxpl0dec\n════════════════════════\nⴵ\nTime:\nTue, 16 Jun 2026 13:11:53 GMT\n════════════════════════\n⌗\nTags:\n#php\n#hacking\n#proof_of_concept\n#vulnerability\n#cybersecurity",
+        "date": "2026-06-16T14:04:36+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122389_0_6428f79c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122389_1_b6a2f577.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122389",
+        "link": {
+          "title": "Analysis CVE-2026–48907 — Joomla JCE",
+          "url": "https://medium.com/@xpl0dec/analysis-cve-2026-48907-joomla-jce-7ffbbac222a9?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 122388,
+        "text": "⤷\nTitle:\nMalleable Redirector — A Malleable C2 Companion\n════════════════════════\n𐀪\nAuthor:\nWalter \"walula\" Scitta\n════════════════════════\nⴵ\nTime:\nTue, 16 Jun 2026 13:16:50 GMT\n════════════════════════\n⌗\nTags:\n#red_team\n#cybersecurity\n#hacking",
+        "date": "2026-06-16T14:04:33+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122388_0_6428f79c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122388_1_02627530.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122388",
+        "link": {
+          "title": "Malleable Redirector — A Malleable C2 Companion",
+          "url": "https://posts.inthecyber.com/malleable-redirector-a-malleable-c2-companion-7e5f4bc9e33a?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 122387,
+        "text": "⤷\nTitle:\nAI is quickly becoming part of everyday security work.\n════════════════════════\n𐀪\nAuthor:\nKENNEDY AIKOHI\n════════════════════════\nⴵ\nTime:\nMon, 15 Jun 2026 14:27:05 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#automation_security\n#ai\n#application_security\n#incident_response",
+        "date": "2026-06-16T14:04:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122387_0_6428f79c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122387_1_ecf9fcce.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122387",
+        "link": {
+          "title": "AI is quickly becoming part of everyday security work.",
+          "url": "https://medium.com/@eroken008/governed-ai-assisted-security-workbench-0ae009f27cc8?source=rss------application_security-5"
+        }
+      },
+      {
+        "id": 122386,
+        "text": "⤷\nTitle:\nMy Experience with Algora Bounty Platform – Awaiting a $2,200 Reward\n════════════════════════\n𐀪\nAuthor:\nMerryglann\n════════════════════════\nⴵ\nTime:\nTue, 16 Jun 2026 12:11:12 GMT\n════════════════════════\n⌗\nTags:\n#open_source\n#personal_development\n#artificial_intelligence\n#cybersecurity\n#bug_bounty",
+        "date": "2026-06-16T14:04:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122386_0_6428f79c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122386_1_4f6c768f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122386",
+        "link": {
+          "title": "My Experience with Algora Bounty Platform – Awaiting a $2,200 Reward",
+          "url": "https://medium.com/@merryglann430/my-experience-with-algora-bounty-platform-awaiting-a-2-200-reward-6d154d78fe31?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 122385,
+        "text": "⤷\nTitle:\nHow I Discovered My First IDOR via API Downgrade\n════════════════════════\n𐀪\nAuthor:\nMd Tanjimul Islam Sifat\n════════════════════════\nⴵ\nTime:\nTue, 16 Jun 2026 12:15:22 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ethical_hacking\n#bug_bounty\n#pentesting\n#bug_bounty_tips",
+        "date": "2026-06-16T14:04:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122385_0_6428f79c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122385_1_7a0ed28e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122385",
+        "link": {
+          "title": "How I Discovered My First IDOR via API Downgrade",
+          "url": "https://medium.com/@tanjimul_islam/how-i-discovered-my-first-idor-via-api-downgrade-aabf7e300772?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 122384,
+        "text": "⤷\nTitle:\n# Web LLM Attacks — PortSwigger Labs Writeup\n**Author:** Cyber Kimura\n**Date:** June 16, 2026…\n════════════════════════\n𐀪\nAuthor:\nsecurity@cyberkimura.com\n════════════════════════\nⴵ\nTime:\nTue, 16 Jun 2026 13:17:06 GMT\n════════════════════════\n⌗\nTags:\n#llm_security\n#bug_bounty\n#prompt_injection\n#cibersecurity",
+        "date": "2026-06-16T14:04:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122384_0_6428f79c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122384_1_0c244c62.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122384",
+        "link": {
+          "title": "# Web LLM Attacks — PortSwigger Labs Writeup**Author:** Cyber Kimura**Date:** June 16, 2026…",
+          "url": "https://medium.com/@security_25448/web-llm-attacks-portswigger-labs-writeup-author-cyber-kimura-date-june-16-2026-aaa6eca5525a?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 122383,
+        "text": "⤷\nTitle:\nWraith: The Ultimate Bug Bounty Recon CLI\n════════════════════════\n𐀪\nAuthor:\nPentester Club\n════════════════════════\nⴵ\nTime:\nTue, 16 Jun 2026 13:31:59 GMT\n════════════════════════\n⌗\nTags:\n#ctf\n#cybersecurity\n#bug_bounty\n#artificial_intelligence\n#hacking",
+        "date": "2026-06-16T14:04:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122383_0_6428f79c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122383_1_ff7c8657.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122383",
+        "link": {
+          "title": "Wraith: The Ultimate Bug Bounty Recon CLI",
+          "url": "https://medium.com/@pentesterclubpvtltd/wraith-the-ultimate-bug-bounty-recon-cli-daefc6e620f8?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 122382,
+        "text": "⤷\nTitle:\nDeveloper laptops are the credential store attackers are picking through in 2026, GitGuardian announces Endpoint Protection\n════════════════════════\n𐀪\nAuthor:\ncybernewswire\n════════════════════════\nⴵ\nTime:\nTue, 16 Jun 2026 12:00:42 +0000\n════════════════════════\n⌗\nTags:\n#Press\nRelease",
+        "date": "2026-06-16T14:04:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122382_0_6428f79c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122382_1_c78b75fb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122382",
+        "link": {
+          "title": "Developer laptops are the credential store attackers are picking through in 2026, GitGuardian announces Endpoint Protection",
+          "url": "https://securityonline.info/developer-laptops-are-the-credential-store-attackers-are-picking-through-in-2026-gitguardian-announces-endpoint-protection/"
+        }
+      },
+      {
+        "id": 122381,
+        "text": "⤷\nTitle:\nHackers Capitalize on AI Hype With Sophisticated Attacks\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 16 Jun 2026 12:28:56 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#AI\nSocial Engineering\n#Malvertising\n#phishing\n#Vidar\nStealer",
+        "date": "2026-06-16T14:04:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122381_0_6428f79c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122381_1_d163a7c5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122381",
+        "link": {
+          "title": "Hackers Capitalize on AI Hype With Sophisticated Attacks",
+          "url": "https://securityonline.info/ai-social-engineering-lures/"
+        }
+      },
+      {
         "id": 122357,
         "text": "⤷\nTitle:\nSSRF by encoding\n════════════════════════\n𐀪\nAuthor:\nPratik Pohankar\n════════════════════════\nⴵ\nTime:\nTue, 16 Jun 2026 09:34:58 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_writeup\n#bug_bounty_tips\n#web_application_security\n#bug_bounty_hunter",
         "date": "2026-06-16T10:04:39+00:00",
@@ -1820,470 +2280,22 @@
           "title": "TryHackMe | Understanding Vulnerability Database | Walkthrough",
           "url": "https://medium.com/@codectoc.ransomware/tryhackkme-understanding-vulnerability-database-walkthrough-89c5ef73f8e4?source=rss------tryhackme-5"
         }
-      },
-      {
-        "id": 122238,
-        "text": "⤷\nTitle:\nTryHackMe: LazyAdmin Walkthrough & Writeup\n════════════════════════\n𐀪\nAuthor:\nomar yazen\n════════════════════════\nⴵ\nTime:\nMon, 15 Jun 2026 15:35:34 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#work\n#ethical_hacking\n#nightroot\n#cybersecurity",
-        "date": "2026-06-15T16:04:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122238_0_b6184a97.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122238",
-        "link": {
-          "title": "TryHackMe: LazyAdmin Walkthrough & Writeup",
-          "url": "https://medium.com/@h682659/tryhackme-lazyadmin-walkthrough-writeup-fa34a73e7fbd?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 122237,
-        "text": "⤷\nTitle:\nDomino CTF\n════════════════════════\n𐀪\nAuthor:\nRahul Dhakate\n════════════════════════\nⴵ\nTime:\nMon, 15 Jun 2026 15:37:37 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#dominos\n#tryhackme_walkthrough\n#ctf\n#tryhackme",
-        "date": "2026-06-15T16:04:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122237_0_b6184a97.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122237_1_1b446ba0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122237",
-        "link": {
-          "title": "Domino CTF",
-          "url": "https://medium.com/@C09N1T1V3/domino-ctf-ce6940d6ea56?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 122236,
-        "text": "⤷\nTitle:\nPractical guide: how to use Discord as a C2 Server\n════════════════════════\n𐀪\nAuthor:\nCyberknight\n════════════════════════\nⴵ\nTime:\nMon, 15 Jun 2026 15:44:23 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#cyber_security_awareness\n#education_technology\n#bots\n#discord_bot",
-        "date": "2026-06-15T16:04:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122236_0_b6184a97.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122236_1_4479b953.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122236",
-        "link": {
-          "title": "Practical guide: how to use Discord as a C2 Server",
-          "url": "https://medium.com/@MS-Cyberknight/practical-guide-how-to-use-discord-as-a-c2-server-54d0278422a2?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 122235,
-        "text": "⤷\nTitle:\n8 Sneaky Ways Hackers Deliver Malware\n════════════════════════\n𐀪\nAuthor:\nDhanush N\n════════════════════════\nⴵ\nTime:\nMon, 15 Jun 2026 13:52:17 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#security\n#malware\n#phishing\n#hacking",
-        "date": "2026-06-15T16:04:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122235_0_b6184a97.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122235_1_a30f258d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122235",
-        "link": {
-          "title": "8 Sneaky Ways Hackers Deliver Malware",
-          "url": "https://dhanushnehru.medium.com/8-sneaky-ways-hackers-deliver-malware-7b89f5c18bd7?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 122234,
-        "text": "⤷\nTitle:\nBeyond the Hoodie: What Kali Linux Actually Is?\n════════════════════════\n𐀪\nAuthor:\nHalil Özel\n════════════════════════\nⴵ\nTime:\nMon, 15 Jun 2026 14:06:00 GMT\n════════════════════════\n⌗\nTags:\n#linux\n#hacking\n#cybersecurity\n#kali_linux\n#security",
-        "date": "2026-06-15T16:04:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122234_0_b6184a97.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122234_1_ff0e9caf.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122234",
-        "link": {
-          "title": "Beyond the Hoodie: What Kali Linux Actually Is?",
-          "url": "https://halilozel1903.medium.com/beyond-the-hoodie-what-kali-linux-actually-is-876ab8902ec2?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 122233,
-        "text": "⤷\nTitle:\nThe Government Hackers Using OneDrive as Their Dead Drop\n════════════════════════\n𐀪\nAuthor:\nPop123\n════════════════════════\nⴵ\nTime:\nMon, 15 Jun 2026 14:08:30 GMT\n════════════════════════\n⌗\nTags:\n#malware\n#cybersecurity\n#hacking\n#politics\n#technology",
-        "date": "2026-06-15T16:04:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122233_0_b6184a97.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122233_1_242051eb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122233",
-        "link": {
-          "title": "The Government Hackers Using OneDrive as Their Dead Drop",
-          "url": "https://medium.com/@Pop123/the-government-hackers-using-onedrive-as-their-dead-drop-7b5a3db52eff?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 122232,
-        "text": "⤷\nTitle:\nWould You Notice If Your Machine Was Compromised?\n════════════════════════\n𐀪\nAuthor:\nMouhibMahadbi\n════════════════════════\nⴵ\nTime:\nMon, 15 Jun 2026 14:13:37 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#tech\n#technology\n#hacking",
-        "date": "2026-06-15T16:04:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122232_0_b6184a97.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122232_1_72bb75d6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122232",
-        "link": {
-          "title": "Would You Notice If Your Machine Was Compromised?",
-          "url": "https://medium.com/@mouhibmh/would-you-notice-if-your-machine-was-compromised-7d64f7b189c5?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 122231,
-        "text": "⤷\nTitle:\nGoverned AI-Assisted Security Workbench\n════════════════════════\n𐀪\nAuthor:\nEroken\n════════════════════════\nⴵ\nTime:\nMon, 15 Jun 2026 14:27:05 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#automation_security\n#ai\n#application_security\n#incident_response",
-        "date": "2026-06-15T16:03:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122231_0_b6184a97.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122231_1_c4050c3a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122231",
-        "link": {
-          "title": "Governed AI-Assisted Security Workbench",
-          "url": "https://medium.com/@eroken008/governed-ai-assisted-security-workbench-0ae009f27cc8?source=rss------application_security-5"
-        }
-      },
-      {
-        "id": 122230,
-        "text": "⤷\nTitle:\nMy Instructor Said “You Can’t Get a Shell.” I Got Root. — Full Web Pentest Exam Write-Up\n════════════════════════\n𐀪\nAuthor:\nShikhali Jamalzade\n════════════════════════\nⴵ\nTime:\nMon, 15 Jun 2026 15:17:56 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#cybersecurity\n#bug_bounty_writeup\n#web_penetration_testing\n#penetration_testing",
-        "date": "2026-06-15T16:03:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122230_0_b6184a97.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122230_1_5f9e848d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122230",
-        "link": {
-          "title": "My Instructor Said “You Can’t Get a Shell.” I Got Root. — Full Web Pentest Exam Write-Up",
-          "url": "https://infosecwriteups.com/my-instructor-said-you-cant-get-a-shell-i-got-root-full-web-pentest-exam-write-up-a82c804ce8e2?source=rss----7b722bfd1b8d--bug_bounty"
-        }
-      },
-      {
-        "id": 122229,
-        "text": "⤷\nTitle:\n⚡\nWeekly Recap: Chrome 0-Day, UniFi Exploits, macOS Stealers, VPN Flaw and More\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nMon, 15 Jun 2026 19:19:29 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-06-15T16:03:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122229_0_b6184a97.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122229",
-        "link": {
-          "title": "⚡Weekly Recap: Chrome 0-Day, UniFi Exploits, macOS Stealers, VPN Flaw and More",
-          "url": "https://thehackernews.com/2026/06/weekly-recap-chrome-0-day-unifi.html"
-        }
-      },
-      {
-        "id": 122228,
-        "text": "⤷\nTitle:\nOne-Click Microsoft 365 Copilot Flaw Could Have Let Attackers Steal Emails, Files, and MFA Codes\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nMon, 15 Jun 2026 20:39:05 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-06-15T16:03:48+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122228_0_b6184a97.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122228",
-        "link": {
-          "title": "One-Click Microsoft 365 Copilot Flaw Could Have Let Attackers Steal Emails, Files, and MFA Codes",
-          "url": "https://thehackernews.com/2026/06/one-click-microsoft-365-copilot-flaw.html"
-        }
-      },
-      {
-        "id": 122227,
-        "text": "⤷\nTitle:\n7 Linux Commands That Help You Find Problems Before Users Do\n════════════════════════\n𐀪\nAuthor:\nFateyaly\n════════════════════════\nⴵ\nTime:\nMon, 15 Jun 2026 12:54:08 GMT\n════════════════════════\n⌗\nTags:\n#coding\n#cybersecurity\n#technology\n#programming\n#ethical_hacking",
-        "date": "2026-06-15T14:04:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122227_0_b6184a97.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122227_1_0dc65681.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122227",
-        "link": {
-          "title": "7 Linux Commands That Help You Find Problems Before Users Do",
-          "url": "https://systemweakness.com/7-linux-commands-that-help-you-find-problems-before-users-do-230ccb85f374?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 122226,
-        "text": "⤷\nTitle:\nDevelpy\n════════════════════════\n𐀪\nAuthor:\nZuhaib Tariq\n════════════════════════\nⴵ\nTime:\nMon, 15 Jun 2026 12:47:17 GMT\n════════════════════════\n⌗\nTags:\n#ctf_writeup\n#tryhackme\n#cybersecurity",
-        "date": "2026-06-15T14:04:45+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122226_0_b6184a97.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122226_1_32a89e02.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122226",
-        "link": {
-          "title": "Develpy",
-          "url": "https://zuhaibt.medium.com/develpy-25dc066212d0?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 122225,
-        "text": "⤷\nTitle:\nTryHackMe Writeup: Windows Threat Detection 2\n════════════════════════\n𐀪\nAuthor:\nyousef sleem\n════════════════════════\nⴵ\nTime:\nMon, 15 Jun 2026 13:25:41 GMT\n════════════════════════\n⌗\nTags:\n#soc_analyst\n#tryhackme\n#dfir\n#soc\n#cybersecurity",
-        "date": "2026-06-15T14:04:42+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122225_0_b6184a97.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122225_1_df5eeeba.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122225",
-        "link": {
-          "title": "TryHackMe Writeup: Windows Threat Detection 2",
-          "url": "https://medium.com/@sleemyousef2003/tryhackme-writeup-windows-threat-detection-2-c5d3c47274f1?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 122224,
-        "text": "⤷\nTitle:\nPortSwigger Writeup: Detecting NoSQL Injection\n════════════════════════\n𐀪\nAuthor:\nDimas Ramadani\n════════════════════════\nⴵ\nTime:\nMon, 15 Jun 2026 13:15:24 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#portswigger\n#web_security\n#infosec\n#nosql_injection",
-        "date": "2026-06-15T14:04:39+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122224_0_b6184a97.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122224_1_738caeb4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122224",
-        "link": {
-          "title": "PortSwigger Writeup: Detecting NoSQL Injection",
-          "url": "https://medium.com/@dimasramadani1982/portswigger-writeup-detecting-nosql-injection-9da5e7e49de8?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 122189,
-        "text": "⤷\nTitle:\nDefensive Security Intro — TryHackMe Answers | by Deepti Gupta\n════════════════════════\n𐀪\nAuthor:\nDeepti Gupta\n════════════════════════\nⴵ\nTime:\nMon, 15 Jun 2026 07:58:58 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_walkthrough\n#defensive_security\n#tryhackme\n#tryhackme_writeup",
-        "date": "2026-06-15T10:04:30+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122189_0_b6184a97.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122189_1_6fe41cd3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122189",
-        "link": {
-          "title": "Defensive Security Intro — TryHackMe Answers | by Deepti Gupta",
-          "url": "https://medium.com/@deeptisg0/defensive-security-intro-tryhackme-answers-by-deepti-gupta-aafca4b56e1d?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 122188,
-        "text": "⤷\nTitle:\nA Complete Walkthrough of TryHackMe’s Data Poisoning in RAG System\n════════════════════════\n𐀪\nAuthor:\nSudarshan Ajoy Sindhu\n════════════════════════\nⴵ\nTime:\nMon, 15 Jun 2026 09:25:32 GMT\n════════════════════════\n⌗\nTags:\n#thm_writeup\n#tryhackme\n#tryhackme_walkthrough",
-        "date": "2026-06-15T10:04:26+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122188_0_b6184a97.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122188_1_1a9840a7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122188",
-        "link": {
-          "title": "A Complete Walkthrough of TryHackMe’s Data Poisoning in RAG System",
-          "url": "https://medium.com/@sudarshanajoysindhu/a-complete-walkthrough-of-tryhackmes-data-poisoning-in-rag-system-136aa9efb30b?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 122187,
-        "text": "⤷\nTitle:\nHackTheBox — Web Fuzzing Skills Assessment\n════════════════════════\n𐀪\nAuthor:\nHassan Elsayed\n════════════════════════\nⴵ\nTime:\nMon, 15 Jun 2026 09:27:27 GMT\n════════════════════════\n⌗\nTags:\n#webfuzzing\n#penetration_testing\n#hackthebox\n#cybersecurity",
-        "date": "2026-06-15T10:04:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122187_0_b6184a97.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122187_1_079f95a0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122187",
-        "link": {
-          "title": "HackTheBox — Web Fuzzing Skills Assessment",
-          "url": "https://medium.com/@hassanelsayed30/hackthebox-web-fuzzing-skills-assessment-ce29f46e8078?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 122186,
-        "text": "⤷\nTitle:\nOWASP Top 10 2025: IAAA Failures.\n════════════════════════\n𐀪\nAuthor:\nExploitHunter\n════════════════════════\nⴵ\nTime:\nMon, 15 Jun 2026 08:47:15 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#cybersecurity\n#infosec\n#web_development\n#cyber_security_awareness",
-        "date": "2026-06-15T10:04:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122186_0_b6184a97.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122186_1_879a2446.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122186",
-        "link": {
-          "title": "OWASP Top 10 2025: IAAA Failures.",
-          "url": "https://medium.com/@vorasmit22/owasp-top-10-2025-iaaa-failures-040e3d3289bf?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 122185,
-        "text": "⤷\nTitle:\nWeb Hacking — part 3\n════════════════════════\n𐀪\nAuthor:\nExploitHunter\n════════════════════════\nⴵ\nTime:\nMon, 15 Jun 2026 08:48:11 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#infosec\n#web_development\n#cyber_security_awareness\n#cybersecurity",
-        "date": "2026-06-15T10:04:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122185_0_b6184a97.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122185_1_06242b32.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122185",
-        "link": {
-          "title": "Web Hacking — part 3",
-          "url": "https://medium.com/@vorasmit22/web-hacking-part-3-6edc70ca4b00?source=rss------infosec-5"
-        }
       }
     ]
   },
-  "last_update": "2026-06-16T10:50:54.032516+00:00",
+  "last_update": "2026-06-16T15:49:28.901526+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 192,
-    "total_files": 192,
+    "total_media": 195,
+    "total_files": 195,
     "total_links": 0,
     "files_by_type": {
-      "image": 192
+      "image": 195
     },
-    "referenced_files": 192,
-    "existing_media_files": 192,
-    "total_size_mb": 4.5,
-    "last_calculation": "2026-06-16T10:50:54.034849+00:00"
+    "referenced_files": 195,
+    "existing_media_files": 195,
+    "total_size_mb": 4.8,
+    "last_calculation": "2026-06-16T15:49:28.903942+00:00"
   }
 }
