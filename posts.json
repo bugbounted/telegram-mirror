@@ -2,6 +2,144 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 122613,
+        "text": "⤷\nTitle:\nHow I hacked NASA in 3 days with AI\n════════════════════════\n𐀪\nAuthor:\nPedro Augusto Stürmer\n════════════════════════\nⴵ\nTime:\nWed, 17 Jun 2026 02:57:27 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_writeup\n#hacking",
+        "date": "2026-06-17T22:04:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122613_0_80eeb779.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122613_1_25f31e3c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122613",
+        "link": {
+          "title": "How I hacked NASA in 3 days with AI",
+          "url": "https://medium.com/@contatopedrost/how-i-hacked-nasa-in-3-days-using-ai-87bf70ccf6c0?source=rss------bug_bounty_writeup-5"
+        }
+      },
+      {
+        "id": 122612,
+        "text": "⤷\nTitle:\nWhy Every Enterprise Needs an Attack Surface Mitigation Strategy\n════════════════════════\n𐀪\nAuthor:\nGoziechile\n════════════════════════\nⴵ\nTime:\nWed, 17 Jun 2026 21:10:11 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#appsec\n#software_development\n#cybersecurity\n#software_architecture",
+        "date": "2026-06-17T22:04:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122612_0_80eeb779.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122612_1_cd5d46cb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122612",
+        "link": {
+          "title": "Why Every Enterprise Needs an Attack Surface Mitigation Strategy",
+          "url": "https://medium.com/@goziechile/why-every-enterprise-needs-an-attack-surface-mitigation-strategy-6abe56dc73a6?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 122611,
+        "text": "⤷\nTitle:\nHTTP Request Smuggling Against LLM Proxy Architectures: A Deterministic Security Analysis\n════════════════════════\n𐀪\nAuthor:\nGustavo Okamoto\n════════════════════════\nⴵ\nTime:\nWed, 17 Jun 2026 21:10:41 GMT\n════════════════════════\n⌗\nTags:\n#llm\n#cybersecurity\n#rust\n#infosec\n#ai_security",
+        "date": "2026-06-17T22:04:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122611_0_80eeb779.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122611_1_d4fdf49e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122611",
+        "link": {
+          "title": "HTTP Request Smuggling Against LLM Proxy Architectures: A Deterministic Security Analysis",
+          "url": "https://medium.com/@gugaokamoto1/http-request-smuggling-against-llm-proxy-architectures-a-deterministic-security-analysis-efb3495054e1?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 122610,
+        "text": "⤷\nTitle:\nThe Hacker in Your Building Isn’t Wearing a Hoodie — Your Employee Is\n════════════════════════\n𐀪\nAuthor:\nMary\n════════════════════════\nⴵ\nTime:\nWed, 17 Jun 2026 19:56:04 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#technology\n#cybercrime\n#hacking\n#business",
+        "date": "2026-06-17T22:04:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122610_0_80eeb779.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122610_1_6d2f6965.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122610",
+        "link": {
+          "title": "The Hacker in Your Building Isn’t Wearing a Hoodie — Your Employee Is",
+          "url": "https://medium.com/@marryy1515m/the-hacker-in-your-building-isnt-wearing-a-hoodie-your-employee-is-4e8e3766aaeb?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 122609,
+        "text": "⤷\nTitle:\nFootprinting Lab — Hard (Walkthrough)\n════════════════════════\n𐀪\nAuthor:\nth3V0!D\n════════════════════════\nⴵ\nTime:\nWed, 17 Jun 2026 20:51:02 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#red_team\n#hacking\n#hackthebox_walkthrough\n#hackthebox",
+        "date": "2026-06-17T22:03:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122609_0_80eeb779.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122609_1_6b18f8c5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122609",
+        "link": {
+          "title": "Footprinting Lab — Hard (Walkthrough)",
+          "url": "https://medium.com/@theV01D/footprinting-lab-hard-walkthrough-348321bfaaef?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 122608,
+        "text": "⤷\nTitle:\nJWT: o crachá digital que você usa todo dia sem saber.\n════════════════════════\n𐀪\nAuthor:\nGotsec\n════════════════════════\nⴵ\nTime:\nWed, 17 Jun 2026 20:03:00 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#authentication\n#jwt\n#application_security\n#api",
+        "date": "2026-06-17T22:03:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122608_0_80eeb779.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122608_1_00141649.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122608",
+        "link": {
+          "title": "JWT: o crachá digital que você usa todo dia sem saber.",
+          "url": "https://medium.com/@gotsec/jwt-o-crach%C3%A1-digital-que-voc%C3%AA-usa-todo-dia-sem-saber-1db13b0f52eb?source=rss------application_security-5"
+        }
+      },
+      {
         "id": 122607,
         "text": "⤷\nTitle:\nNmap: The Cybersecurity Tool Every Beginner Should Learn\n════════════════════════\n𐀪\nAuthor:\nBENSEC\n════════════════════════\nⴵ\nTime:\nWed, 17 Jun 2026 18:31:00 GMT\n════════════════════════\n⌗\nTags:\n#networking\n#ethical_hacking\n#cybersecurity\n#technology\n#nmap",
         "date": "2026-06-17T20:04:50+00:00",
@@ -2144,148 +2282,10 @@
           "title": "How I hacked NASA in 3 days using AI",
           "url": "https://medium.com/@contatopedrost/how-i-hacked-nasa-in-3-days-using-ai-87bf70ccf6c0?source=rss------hacking-5"
         }
-      },
-      {
-        "id": 122458,
-        "text": "⤷\nTitle:\nPassive Reconnaissance: What Attackers Know Before They Even Touch Your Network\n════════════════════════\n𐀪\nAuthor:\nDivya\n════════════════════════\nⴵ\nTime:\nTue, 16 Jun 2026 21:37:21 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#penetration_testing\n#cybersecurity\n#kali_linux\n#osint",
-        "date": "2026-06-16T22:04:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122458_0_64730840.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122458_1_5f538ab6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122458",
-        "link": {
-          "title": "Passive Reconnaissance: What Attackers Know Before They Even Touch Your Network",
-          "url": "https://medium.com/@divyaggupta25/passive-reconnaissance-what-attackers-know-before-they-even-touch-your-network-e4dbc4fad0e8?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 122457,
-        "text": "⤷\nTitle:\nPreserving Vulnerability-Level Identification in a Time of Increased Disclosure Volume\n════════════════════════\n𐀪\nAuthor:\nCVE Program Blog\n════════════════════════\nⴵ\nTime:\nTue, 16 Jun 2026 20:11:26 GMT\n════════════════════════\n⌗\nTags:\n#vulnerability\n#artificial_intelligence\n#infosec\n#cybersecurity\n#software_architecture",
-        "date": "2026-06-16T22:04:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122457_0_64730840.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122457_1_e98c3207.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122457",
-        "link": {
-          "title": "Preserving Vulnerability-Level Identification in a Time of Increased Disclosure Volume",
-          "url": "https://medium.com/@cve_program/preserving-vulnerability-level-identification-in-a-time-of-increased-disclosure-volume-42adde0147d3?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 122456,
-        "text": "⤷\nTitle:\nCybersecurity in 2026: The Only Guide You Need to Stop Getting Hacked (Written By Someone Who Got…\n════════════════════════\n𐀪\nAuthor:\nMary\n════════════════════════\nⴵ\nTime:\nTue, 16 Jun 2026 19:54:03 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#machine_learning\n#technology\n#data_science\n#cybersecurity",
-        "date": "2026-06-16T22:04:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122456_0_64730840.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122456_1_a890141b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122456",
-        "link": {
-          "title": "Cybersecurity in 2026: The Only Guide You Need to Stop Getting Hacked (Written By Someone Who Got…",
-          "url": "https://medium.com/@marryy1515m/cybersecurity-in-2026-the-only-guide-you-need-to-stop-getting-hacked-written-by-someone-who-got-69e696925140?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 122455,
-        "text": "⤷\nTitle:\nWhy a sixteen-year-old computer worm is still the clearest argument for why robot security is a…\n════════════════════════\n𐀪\nAuthor:\nJoanna Raj\n════════════════════════\nⴵ\nTime:\nTue, 16 Jun 2026 20:07:54 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#cybersecurity\n#robotics\n#manufacturing\n#technology",
-        "date": "2026-06-16T22:04:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122455_0_64730840.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122455_1_bf5743af.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122455",
-        "link": {
-          "title": "Why a sixteen-year-old computer worm is still the clearest argument for why robot security is a…",
-          "url": "https://medium.com/@rajjoanna933/why-a-sixteen-year-old-computer-worm-is-still-the-clearest-argument-for-why-robot-security-is-a-edfdb1f0ade4?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 122454,
-        "text": "⤷\nTitle:\nHunting ROP Gadgets in Windows DLLs\n════════════════════════\n𐀪\nAuthor:\nS12 - 0x12Dark Development\n════════════════════════\nⴵ\nTime:\nTue, 16 Jun 2026 20:35:55 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#pentesting\n#malware\n#cybersecurity\n#infosec",
-        "date": "2026-06-16T22:03:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122454_0_64730840.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122454_1_43b2b23d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122454",
-        "link": {
-          "title": "Hunting ROP Gadgets in Windows DLLs",
-          "url": "https://medium.com/@s12deff/hunting-rop-gadgets-in-windows-dlls-3184e4eeba62?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 122453,
-        "text": "⤷\nTitle:\nFootprinting Lab — Medium (Walkthrough)\n════════════════════════\n𐀪\nAuthor:\nth3V0!D\n════════════════════════\nⴵ\nTime:\nTue, 16 Jun 2026 21:50:53 GMT\n════════════════════════\n⌗\nTags:\n#red_team\n#hackthebox\n#hacking\n#cybersecurity\n#hackthebox_walkthrough",
-        "date": "2026-06-16T22:03:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122453_0_64730840.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122453_1_3d7ec42f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122453",
-        "link": {
-          "title": "Footprinting Lab — Medium (Walkthrough)",
-          "url": "https://medium.com/@theV01D/footprinting-lab-medium-walkthrough-81c4610e8c7c?source=rss------hacking-5"
-        }
       }
     ]
   },
-  "last_update": "2026-06-17T21:51:54.403324+00:00",
+  "last_update": "2026-06-17T23:15:42.433021+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2298,6 +2298,6 @@
     "referenced_files": 194,
     "existing_media_files": 194,
     "total_size_mb": 5.72,
-    "last_calculation": "2026-06-17T21:51:54.405116+00:00"
+    "last_calculation": "2026-06-17T23:15:42.435367+00:00"
   }
 }
