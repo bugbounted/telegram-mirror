@@ -2,6 +2,408 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 122724,
+        "text": "⤷\nTitle:\nWriteup — Exploiting XXE to Perform SSRF Attacks\n════════════════════════\n𐀪\nAuthor:\npraditya arga\n════════════════════════\nⴵ\nTime:\nThu, 18 Jun 2026 15:55:40 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#vulnerability\n#ssrf\n#ctf_writeup\n#ctf",
+        "date": "2026-06-18T16:04:47+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122724_0_80eeb779.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122724_1_cef0211b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122724",
+        "link": {
+          "title": "Writeup — Exploiting XXE to Perform SSRF Attacks",
+          "url": "https://medium.com/@pradityaarga80/writeup-exploiting-xxe-to-perform-ssrf-attacks-0acb24d902df?source=rss------ssrf-5"
+        }
+      },
+      {
+        "id": 122723,
+        "text": "⤷\nTitle:\nLab 21: Basic SSRF against another back-end system\n════════════════════════\n𐀪\nAuthor:\nTkacala\n════════════════════════\nⴵ\nTime:\nThu, 18 Jun 2026 15:06:37 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ethical_hacking\n#burpsuite\n#portswigger_lab",
+        "date": "2026-06-18T16:04:44+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122723_0_80eeb779.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122723_1_35d1f2e7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122723",
+        "link": {
+          "title": "Lab 21: Basic SSRF against another back-end system",
+          "url": "https://medium.com/@tkacala212/lab-21-basic-ssrf-against-another-back-end-system-ce078568cb5b?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 122722,
+        "text": "⤷\nTitle:\nDetection and Analysis — TryHackMe Walkthrough\n════════════════════════\n𐀪\nAuthor:\nghosteye\n════════════════════════\nⴵ\nTime:\nThu, 18 Jun 2026 14:10:00 GMT\n════════════════════════\n⌗\nTags:\n#blue_team\n#cybersecurity\n#splunk\n#incident_response\n#tryhackme",
+        "date": "2026-06-18T16:04:40+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122722_0_80eeb779.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122722_1_e5332133.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122722",
+        "link": {
+          "title": "Detection and Analysis — TryHackMe Walkthrough",
+          "url": "https://medium.com/@proxyy/detection-and-analysis-tryhackme-walkthrough-1115b45d6d22?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 122721,
+        "text": "⤷\nTitle:\nInterceptor TryHackMe CTF Walkthrough\n════════════════════════\n𐀪\nAuthor:\nC09N1T1V3\n════════════════════════\nⴵ\nTime:\nThu, 18 Jun 2026 15:22:35 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#ctf\n#cybersecurity\n#intercepter\n#tryhackme_walkthrough",
+        "date": "2026-06-18T16:04:37+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122721_0_80eeb779.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122721_1_9dd257f6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122721",
+        "link": {
+          "title": "Interceptor TryHackMe CTF Walkthrough",
+          "url": "https://medium.com/@C09N1T1V3/interceptor-tryhackme-ctf-walkthrough-efbaed9a7d96?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 122720,
+        "text": "⤷\nTitle:\nHow a Weak VNC Password Led to Full Remote Desktop Access\n════════════════════════\n𐀪\nAuthor:\nVISHAL PRAJAPATI\n════════════════════════\nⴵ\nTime:\nThu, 18 Jun 2026 14:02:01 GMT\n════════════════════════\n⌗\nTags:\n#linux\n#vnc\n#cybersecurity\n#penetration_testing\n#ethical_hacking",
+        "date": "2026-06-18T16:04:33+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122720_0_80eeb779.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122720_1_e6706982.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122720",
+        "link": {
+          "title": "How a Weak VNC Password Led to Full Remote Desktop Access",
+          "url": "https://medium.com/@vishal2258/how-a-weak-vnc-password-led-to-full-remote-desktop-access-79e0773c8bd3?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 122719,
+        "text": "⤷\nTitle:\nAn Overview Of BruteForce Attack\n════════════════════════\n𐀪\nAuthor:\nAravind Ajil\n════════════════════════\nⴵ\nTime:\nThu, 18 Jun 2026 15:36:44 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#infosec\n#ethical_hacking\n#beginner\n#brute_force_attack",
+        "date": "2026-06-18T16:04:30+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122719_0_80eeb779.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122719_1_51709631.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122719",
+        "link": {
+          "title": "An Overview Of BruteForce Attack",
+          "url": "https://medium.com/@aravindajil722/an-overview-of-bruteforce-attack-e85c28b0187c?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 122718,
+        "text": "⤷\nTitle:\nAttackers Already Have a Map of Your Network. Do You?\n════════════════════════\n𐀪\nAuthor:\nHimanshu Dhiman\n════════════════════════\nⴵ\nTime:\nThu, 18 Jun 2026 15:46:36 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#attack_surface_management\n#cloud_security\n#cybersecurity\n#vulnerability_management",
+        "date": "2026-06-18T16:04:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122718_0_80eeb779.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122718_1_b7d59193.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122718",
+        "link": {
+          "title": "Attackers Already Have a Map of Your Network. Do You?",
+          "url": "https://medium.com/@himanshudhiman751/attackers-already-have-a-map-of-your-network-do-you-8fe323c2619f?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 122717,
+        "text": "⤷\nTitle:\nZero: Seeing What’s Hidden\n════════════════════════\n𐀪\nAuthor:\nTalha Bağcı\n════════════════════════\nⴵ\nTime:\nThu, 18 Jun 2026 15:56:30 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#technology\n#books\n#hacking\n#ethical_hacking",
+        "date": "2026-06-18T16:04:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122717_0_80eeb779.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122717_1_f097c44f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122717",
+        "link": {
+          "title": "Zero: Seeing What’s Hidden",
+          "url": "https://medium.com/@talhabagci2008/zero-seeing-whats-hidden-61aa98992f50?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 122716,
+        "text": "⤷\nTitle:\nStorytime| BlueHens CTF 2026\n════════════════════════\n𐀪\nAuthor:\nZ3DX\n════════════════════════\nⴵ\nTime:\nThu, 18 Jun 2026 14:02:02 GMT\n════════════════════════\n⌗\nTags:\n#misc\n#hacking\n#ctf\n#cybersecurity",
+        "date": "2026-06-18T16:04:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122716_0_80eeb779.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122716_1_9128e307.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122716",
+        "link": {
+          "title": "Storytime| BlueHens CTF 2026",
+          "url": "https://medium.com/@ksreemosmar/storytime-bluehens-ctf-2026-3aefd5c94a92?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 122715,
+        "text": "⤷\nTitle:\nFreakquency | BlueHens CTF 2026\n════════════════════════\n𐀪\nAuthor:\nZ3DX\n════════════════════════\nⴵ\nTime:\nThu, 18 Jun 2026 14:04:36 GMT\n════════════════════════\n⌗\nTags:\n#cyper_security\n#digital_forensics\n#ctf_writeup\n#hacking",
+        "date": "2026-06-18T16:04:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122715_0_80eeb779.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122715_1_f0c54133.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122715",
+        "link": {
+          "title": "Freakquency | BlueHens CTF 2026",
+          "url": "https://medium.com/@ksreemosmar/freakquency-bluehens-ctf-2026-7f83a511c407?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 122714,
+        "text": "⤷\nTitle:\nBore-dom, IP Pools, and a Nation’s Water Control: How I Breached Bangladesh’s Water Control Board\n════════════════════════\n𐀪\nAuthor:\nZ B S\n════════════════════════\nⴵ\nTime:\nThu, 18 Jun 2026 15:00:04 GMT\n════════════════════════\n⌗\nTags:\n#technology\n#cyber_sec\n#cybersecurity\n#hacking\n#information_security",
+        "date": "2026-06-18T16:04:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122714_0_80eeb779.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122714_1_ea68197c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122714",
+        "link": {
+          "title": "Bore-dom, IP Pools, and a Nation’s Water Control: How I Breached Bangladesh’s Water Control Board",
+          "url": "https://notyournormalone.medium.com/bore-dom-ip-pools-and-a-nations-water-control-how-i-breached-bangladesh-s-water-control-board-44c075199566?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 122713,
+        "text": "⤷\nTitle:\nThe Application Security Measurement Crisis\n════════════════════════\n𐀪\nAuthor:\nVaibhavmn\n════════════════════════\nⴵ\nTime:\nThu, 18 Jun 2026 14:34:31 GMT\n════════════════════════\n⌗\nTags:\n#threat_modeling\n#cybersecurity\n#appsec\n#cyber_risk\n#application_security",
+        "date": "2026-06-18T16:04:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122713_0_80eeb779.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122713_1_786bd7ca.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122713",
+        "link": {
+          "title": "The Application Security Measurement Crisis",
+          "url": "https://medium.com/@vaibhavmn29/the-application-security-measurement-crisis-bdeabc3e1eb0?source=rss------application_security-5"
+        }
+      },
+      {
+        "id": 122712,
+        "text": "⤷\nTitle:\nOpenCode AI + Cloudflare + Kimi: The Ultimate Pentesting Automation Stack\n════════════════════════\n𐀪\nAuthor:\nPentester Club\n════════════════════════\nⴵ\nTime:\nThu, 18 Jun 2026 14:22:33 GMT\n════════════════════════\n⌗\nTags:\n#web_development\n#bug_bounty\n#hacking\n#cybersecurity\n#artificial_intelligence",
+        "date": "2026-06-18T16:04:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122712_0_80eeb779.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122712_1_7547212f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122712",
+        "link": {
+          "title": "OpenCode AI + Cloudflare + Kimi: The Ultimate Pentesting Automation Stack",
+          "url": "https://medium.com/@pentesterclubpvtltd/opencode-ai-cloudflare-kimi-the-ultimate-pentesting-automation-stack-186619943966?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 122711,
+        "text": "⤷\nTitle:\n“Bug Bounty Bootcamp #49: Recon Is Not Stalking”\n════════════════════════\n𐀪\nAuthor:\nAman Sharma\n════════════════════════\nⴵ\nTime:\nThu, 18 Jun 2026 14:26:49 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#bug_bounty\n#technology\n#cybersecurity\n#penetration_testing",
+        "date": "2026-06-18T16:04:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122711_0_80eeb779.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122711_1_dd3578e8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122711",
+        "link": {
+          "title": "“Bug Bounty Bootcamp #49: Recon Is Not Stalking”",
+          "url": "https://infosecwriteups.com/bug-bounty-bootcamp-49-recon-is-not-stalking-2c9126d4781d?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 122710,
+        "text": "⤷\nTitle:\nWhat Businesses Should Know Before Migrating Their CMS\n════════════════════════\n𐀪\nAuthor:\nOwais Sultan\n════════════════════════\nⴵ\nTime:\nThu, 18 Jun 2026 15:42:16 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#Business\n#CMS\n#Migrating",
+        "date": "2026-06-18T16:04:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122710_0_80eeb779.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122710_1_acaafd16.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122710",
+        "link": {
+          "title": "What Businesses Should Know Before Migrating Their CMS",
+          "url": "https://hackread.com/what-businesses-should-know-before-migrating-cms/"
+        }
+      },
+      {
+        "id": 122709,
+        "text": "⤷\nTitle:\nThe Scripts on Your Checkout Page Are Now a PCI DSS Problem\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nThu, 18 Jun 2026 19:28:39 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-06-18T16:03:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122709_0_80eeb779.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122709",
+        "link": {
+          "title": "The Scripts on Your Checkout Page Are Now a PCI DSS Problem",
+          "url": "https://thehackernews.com/2026/06/the-scripts-on-your-checkout-page-are.html"
+        }
+      },
+      {
+        "id": 122708,
+        "text": "⤷\nTitle:\nINC Ransomware Emerges as Major RaaS Threat in 2026 with 830+ Victims Since 2023\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nThu, 18 Jun 2026 19:42:48 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-06-18T16:03:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122708_0_80eeb779.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122708",
+        "link": {
+          "title": "INC Ransomware Emerges as Major RaaS Threat in 2026 with 830+ Victims Since 2023",
+          "url": "https://thehackernews.com/2026/06/inc-ransomware-claims-830-victims-since.html"
+        }
+      },
+      {
+        "id": 122707,
+        "text": "⤷\nTitle:\nMicrosoft Details Windows Clipper Malware Campaign Using USB LNK Worm and Tor-Based C2\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nThu, 18 Jun 2026 20:00:42 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-06-18T16:03:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122707_0_80eeb779.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122707",
+        "link": {
+          "title": "Microsoft Details Windows Clipper Malware Campaign Using USB LNK Worm and Tor-Based C2",
+          "url": "https://thehackernews.com/2026/06/microsoft-details-windows-clipper.html"
+        }
+      },
+      {
         "id": 122706,
         "text": "⤷\nTitle:\nIP address of vulnerable metasploit IP\n════════════════════════\n𐀪\nAuthor:\nSudip\n════════════════════════\nⴵ\nTime:\nThu, 18 Jun 2026 12:30:24 GMT\n════════════════════════\n⌗\nTags:\n#red_team\n#kali_linux\n#metasploit\n#learning\n#ethical_hacking",
         "date": "2026-06-18T14:04:28+00:00",
@@ -1876,412 +2278,10 @@
           "title": "Cisco ISE Vulnerabilities: Critical RCE and Info Disclosure Flaws",
           "url": "https://securityonline.info/cisco-ise-vulnerabilities/"
         }
-      },
-      {
-        "id": 122596,
-        "text": "⤷\nTitle:\nActive Gravity SMTP Vulnerability Exploited in the Wild\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 17 Jun 2026 19:15:08 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_4020\n#cybersecurity\n#Gravity\nSMTP\n#Vulnerability\n#wordpress",
-        "date": "2026-06-17T20:04:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122596_0_80eeb779.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122596_1_2fb0375c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122596",
-        "link": {
-          "title": "Active Gravity SMTP Vulnerability Exploited in the Wild",
-          "url": "https://securityonline.info/gravity-smtp-vulnerability-active-exploits/"
-        }
-      },
-      {
-        "id": 122595,
-        "text": "⤷\nTitle:\nSplunk AI Toolkit Vulnerabilities: Critical RCE & Data Risks\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 17 Jun 2026 19:26:00 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_20265\n#CVE_2026_20266\n#cybersecurity\n#os\ncommand injection\n#Splunk\nAI Toolkit",
-        "date": "2026-06-17T20:04:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122595_0_80eeb779.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122595_1_95e1eb37.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122595",
-        "link": {
-          "title": "Splunk AI Toolkit Vulnerabilities: Critical RCE & Data Risks",
-          "url": "https://securityonline.info/splunk-ai-toolkit-vulnerabilities/"
-        }
-      },
-      {
-        "id": 122594,
-        "text": "⤷\nTitle:\nAdversarial Exposure Validation Turns Security Visibility into Confident Prioritization\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nWed, 17 Jun 2026 20:28:00 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-06-17T20:04:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122594_0_80eeb779.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122594",
-        "link": {
-          "title": "Adversarial Exposure Validation Turns Security Visibility into Confident Prioritization",
-          "url": "https://thehackernews.com/2026/06/adversarial-exposure-validation-turns.html"
-        }
-      },
-      {
-        "id": 122593,
-        "text": "⤷\nTitle:\nMicrosoft Confirms RoguePlanet Defender Zero-Day, Says Patch is in Development\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nWed, 17 Jun 2026 23:06:28 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-06-17T20:04:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122593_0_80eeb779.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122593",
-        "link": {
-          "title": "Microsoft Confirms RoguePlanet Defender Zero-Day, Says Patch is in Development",
-          "url": "https://thehackernews.com/2026/06/microsoft-confirms-rogueplanet-defender_02022423645.html"
-        }
-      },
-      {
-        "id": 122592,
-        "text": "⤷\nTitle:\nCrypto Clipper Campaign Abuses Fake Reviews, AI Narrators, and VirusTotal Comments\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nWed, 17 Jun 2026 23:44:24 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-06-17T20:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122592_0_80eeb779.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122592",
-        "link": {
-          "title": "Crypto Clipper Campaign Abuses Fake Reviews, AI Narrators, and VirusTotal Comments",
-          "url": "https://thehackernews.com/2026/06/crypto-clipper-campaign-abuses-fake.html"
-        }
-      },
-      {
-        "id": 122591,
-        "text": "⤷\nTitle:\nGCUP V2 Writeup: Bookstore\n════════════════════════\n𐀪\nAuthor:\nYoussef Abid\n════════════════════════\nⴵ\nTime:\nWed, 17 Jun 2026 17:45:44 GMT\n════════════════════════\n⌗\nTags:\n#ctf\n#ctf_writeup\n#rce\n#web_exploitation",
-        "date": "2026-06-17T18:04:32+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122591_0_80eeb779.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122591_1_e3338cda.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122591",
-        "link": {
-          "title": "GCUP V2 Writeup: Bookstore",
-          "url": "https://medium.com/@youssef.abid/gcup-v2-writeup-bookstore-9bb78baade47?source=rss------rce-5"
-        }
-      },
-      {
-        "id": 122590,
-        "text": "⤷\nTitle:\nTwitter API OAuth: A 2013 Implementation Revisited — What Broke, What Survived, and What It Taught…\n════════════════════════\n𐀪\nAuthor:\nRajan Patekar\n════════════════════════\nⴵ\nTime:\nWed, 17 Jun 2026 16:19:10 GMT\n════════════════════════\n⌗\nTags:\n#oauth2\n#csharp\n#api_security\n#ai_governance\n#software_development",
-        "date": "2026-06-17T18:04:29+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122590_0_80eeb779.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122590_1_49f0c3ac.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122590",
-        "link": {
-          "title": "Twitter API OAuth: A 2013 Implementation Revisited — What Broke, What Survived, and What It Taught…",
-          "url": "https://levelup.gitconnected.com/twitter-api-oauth-a-2013-implementation-revisited-what-broke-what-survived-and-what-it-taught-722b53a674f6?source=rss------api_security-5"
-        }
-      },
-      {
-        "id": 122589,
-        "text": "⤷\nTitle:\nFrom Default Credentials to Operating System Access: Exploiting PostgreSQL in Metasploitable 2\n════════════════════════\n𐀪\nAuthor:\nVISHAL PRAJAPATI\n════════════════════════\nⴵ\nTime:\nWed, 17 Jun 2026 16:06:04 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#ethical_hacking\n#linux\n#postgresql\n#cybersecurity",
-        "date": "2026-06-17T18:04:26+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122589_0_80eeb779.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122589_1_7927d91f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122589",
-        "link": {
-          "title": "From Default Credentials to Operating System Access: Exploiting PostgreSQL in Metasploitable 2",
-          "url": "https://medium.com/@vishal2258/from-default-credentials-to-operating-system-access-exploiting-postgresql-in-metasploitable-2-f7e3041c2d7a?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 122588,
-        "text": "⤷\nTitle:\nDC-1 VulnHub Walkthrough:\n════════════════════════\n𐀪\nAuthor:\nAnuja\n════════════════════════\nⴵ\nTime:\nWed, 17 Jun 2026 17:38:09 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#cybersecurity\n#vulnhub\n#ctf\n#walkthrough",
-        "date": "2026-06-17T18:04:22+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122588_0_80eeb779.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122588_1_e881cbc7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122588",
-        "link": {
-          "title": "DC-1 VulnHub Walkthrough:",
-          "url": "https://medium.com/@Anuja07/dc-1-vulnhub-walkthrough-daccbdd127ea?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 122579,
-        "text": "⤷\nTitle:\nSQL Injection in 2026? Old is Gold.\n════════════════════════\n𐀪\nAuthor:\nPranavaggarwal\n════════════════════════\nⴵ\nTime:\nWed, 17 Jun 2026 15:49:38 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#sql_injection\n#vulnerability",
-        "date": "2026-06-17T16:04:40+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122579_0_64730840.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122579_1_31499758.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122579",
-        "link": {
-          "title": "SQL Injection in 2026? Old is Gold.",
-          "url": "https://medium.com/@pranavaggarwal173/sql-injection-in-2026-old-is-gold-1919d84579a2?source=rss------sql_injection-5"
-        }
-      },
-      {
-        "id": 122578,
-        "text": "⤷\nTitle:\nHow I Rebuilt My Confidence and Started a Career in Data Science at Sky States\n════════════════════════\n𐀪\nAuthor:\nRebecca Allen\n════════════════════════\nⴵ\nTime:\nWed, 17 Jun 2026 14:27:32 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#data_science\n#artificial_intelligence\n#cybersecurity\n#devops",
-        "date": "2026-06-17T16:04:36+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122578_0_64730840.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122578_1_3111e900.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122578",
-        "link": {
-          "title": "How I Rebuilt My Confidence and Started a Career in Data Science at Sky States",
-          "url": "https://medium.com/@umangdeveloper255/how-i-rebuilt-my-confidence-and-started-a-career-in-data-science-ad2dc4741473?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 122577,
-        "text": "⤷\nTitle:\nDay 17 — Linux PrivEsc TryHackMe Writeup\n════════════════════════\n𐀪\nAuthor:\nSiyam\n════════════════════════\nⴵ\nTime:\nWed, 17 Jun 2026 14:01:03 GMT\n════════════════════════\n⌗\nTags:\n#ctf_writeup\n#cybersecurity\n#ctf\n#linux\n#tryhackme",
-        "date": "2026-06-17T16:04:33+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122577_0_64730840.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122577_1_7587b721.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122577",
-        "link": {
-          "title": "Day 17 — Linux PrivEsc TryHackMe Writeup",
-          "url": "https://medium.com/@siyam.exe/day-17-linux-privesc-tryhackme-writeup-013110aa72ec?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 122576,
-        "text": "⤷\nTitle:\nTryHackME -Linux Threat Detection 1\n════════════════════════\n𐀪\nAuthor:\nyousef sleem\n════════════════════════\nⴵ\nTime:\nWed, 17 Jun 2026 14:49:42 GMT\n════════════════════════\n⌗\nTags:\n#blue_team\n#tryhackme\n#cybersecurity\n#threat_detection\n#soc",
-        "date": "2026-06-17T16:04:30+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122576_0_64730840.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122576_1_d8bfc2ce.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122576",
-        "link": {
-          "title": "TryHackME -Linux Threat Detection 1",
-          "url": "https://medium.com/@sleemyousef2003/tryhackme-linux-threat-detection-1-c9d1e7534b86?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 122575,
-        "text": "⤷\nTitle:\nTryHackME -Linux Threat Detection 2 — Writeup\n════════════════════════\n𐀪\nAuthor:\nyousef sleem\n════════════════════════\nⴵ\nTime:\nWed, 17 Jun 2026 14:55:44 GMT\n════════════════════════\n⌗\nTags:\n#dfir\n#tryhackme\n#blue_team\n#soc\n#cybersecurity",
-        "date": "2026-06-17T16:04:26+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122575_0_64730840.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122575_1_0f2a8298.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122575",
-        "link": {
-          "title": "TryHackME -Linux Threat Detection 2 — Writeup",
-          "url": "https://medium.com/@sleemyousef2003/tryhackme-linux-threat-detection-2-writeup-7dff6a797ffd?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 122574,
-        "text": "⤷\nTitle:\nWriteup — Accessing private GraphQL posts\n════════════════════════\n𐀪\nAuthor:\npraditya arga\n════════════════════════\nⴵ\nTime:\nWed, 17 Jun 2026 14:42:11 GMT\n════════════════════════\n⌗\nTags:\n#burpsuite\n#cybersecurity\n#ctf\n#graphql\n#penetration_testing",
-        "date": "2026-06-17T16:04:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122574_0_64730840.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122574_1_b7a341a7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122574",
-        "link": {
-          "title": "Writeup — Accessing private GraphQL posts",
-          "url": "https://medium.com/@pradityaarga80/writeup-accessing-private-graphql-posts-5953ab1e6227?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 122573,
-        "text": "⤷\nTitle:\nHackTheBox “Cache” Walkthrough\n════════════════════════\n𐀪\nAuthor:\nAbdullah Kareem\n════════════════════════\nⴵ\nTime:\nWed, 17 Jun 2026 15:08:29 GMT\n════════════════════════\n⌗\nTags:\n#hackthebox\n#web_exploitation\n#linux_exploitation\n#penetration_testing\n#docker",
-        "date": "2026-06-17T16:04:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122573_0_64730840.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122573_1_f6dc2857.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122573",
-        "link": {
-          "title": "HackTheBox “Cache” Walkthrough",
-          "url": "https://cyberkareem.medium.com/hackthebox-cache-walkthrough-2623d12f2dcd?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 122572,
-        "text": "⤷\nTitle:\nIs Getting Into QA Still Worth It in 2026?\n════════════════════════\n𐀪\nAuthor:\nZubair Khan\n════════════════════════\nⴵ\nTime:\nWed, 17 Jun 2026 15:42:11 GMT\n════════════════════════\n⌗\nTags:\n#testing\n#software_testing\n#ai\n#penetration_testing\n#qa",
-        "date": "2026-06-17T16:04:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122572_0_64730840.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122572_1_6d947470.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122572",
-        "link": {
-          "title": "Is Getting Into QA Still Worth It in 2026?",
-          "url": "https://medium.com/@zubairkhansh/is-getting-into-qa-still-worth-it-in-2026-91f546013cec?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 122571,
-        "text": "⤷\nTitle:\nLinux Privilege Escalation by Exploiting Cron Jobs: Writable Scripts, PATH Hijacking, Wildcard…\n════════════════════════\n𐀪\nAuthor:\nIsha Sangpal\n════════════════════════\nⴵ\nTime:\nWed, 17 Jun 2026 15:55:33 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#security\n#cybersecurity\n#betigetin\n#penetration_testing",
-        "date": "2026-06-17T16:04:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122571_0_64730840.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122571_1_85f06c4c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122571",
-        "link": {
-          "title": "Linux Privilege Escalation by Exploiting Cron Jobs: Writable Scripts, PATH Hijacking, Wildcard…",
-          "url": "https://medium.com/@betigetin/linux-privilege-escalation-by-exploiting-cron-jobs-writable-scripts-path-hijacking-wildcard-7df73edb4d3d?source=rss------penetration_testing-5"
-        }
       }
     ]
   },
-  "last_update": "2026-06-18T14:30:00.755700+00:00",
+  "last_update": "2026-06-18T17:43:34.446702+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2293,7 +2293,7 @@
     },
     "referenced_files": 193,
     "existing_media_files": 193,
-    "total_size_mb": 5.78,
-    "last_calculation": "2026-06-18T14:30:00.758009+00:00"
+    "total_size_mb": 5.91,
+    "last_calculation": "2026-06-18T17:43:34.448473+00:00"
   }
 }
