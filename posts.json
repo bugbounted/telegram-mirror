@@ -2,6 +2,75 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 122759,
+        "text": "⤷\nTitle:\nHow I Automated Signal Detection With SDR and Machine Learning\n════════════════════════\n𐀪\nAuthor:\nMichael Preston\n════════════════════════\nⴵ\nTime:\nThu, 18 Jun 2026 23:19:01 GMT\n════════════════════════\n⌗\nTags:\n#automation\n#signal_analysis\n#sdr\n#machine_learning\n#ethical_hacking",
+        "date": "2026-06-19T00:03:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122759_0_71e08184.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122759_1_68896619.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122759",
+        "link": {
+          "title": "How I Automated Signal Detection With SDR and Machine Learning",
+          "url": "https://radiohackers.com/how-i-automated-signal-detection-with-sdr-and-machine-learning-4b9140e11acc?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 122758,
+        "text": "⤷\nTitle:\nPerforming OS Discovery\n════════════════════════\n𐀪\nAuthor:\nArchie\n════════════════════════\nⴵ\nTime:\nThu, 18 Jun 2026 23:05:06 GMT\n════════════════════════\n⌗\nTags:\n#network_scanning\n#hacking\n#cybersecurity",
+        "date": "2026-06-19T00:03:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122758_0_71e08184.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122758_1_2802b56e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122758",
+        "link": {
+          "title": "Performing OS Discovery",
+          "url": "https://medium.com/@El-4rchi3/performing-os-discovery-af12721265cb?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 122757,
+        "text": "⤷\nTitle:\nDeepfake Vishing Secrets Revealed\n════════════════════════\n𐀪\nAuthor:\nDr.  Mack Jackson Jr\n════════════════════════\nⴵ\nTime:\nThu, 18 Jun 2026 23:09:45 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#cyber_security_awareness\n#cybersecurity\n#small_business\n#deepfakes",
+        "date": "2026-06-19T00:03:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122757_0_71e08184.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122757_1_aecbcdc5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122757",
+        "link": {
+          "title": "Deepfake Vishing Secrets Revealed",
+          "url": "https://mackjacksonjr.medium.com/deepfake-vishing-secrets-revealed-9a642a3f70cf?source=rss------hacking-5"
+        }
+      },
+      {
         "id": 122756,
         "text": "⤷\nTitle:\nWhite Rabbit — TryHackMe (WriteUp)\n════════════════════════\n𐀪\nAuthor:\nAnkita Chowdhury\n════════════════════════\nⴵ\nTime:\nThu, 18 Jun 2026 20:48:36 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_writeup\n#tryhackme\n#thm_writeup\n#tryhackme_walkthrough\n#white_rabbit_challenge",
         "date": "2026-06-18T22:04:04+00:00",
@@ -2205,79 +2274,10 @@
           "title": "I Found a Bug That Looks Harmless But Can Still Get You Paid",
           "url": "https://osintteam.blog/i-found-a-bug-that-looks-harmless-but-can-still-get-you-paid-266eb632e1af?source=rss------bug_bounty-5"
         }
-      },
-      {
-        "id": 122624,
-        "text": "⤷\nTitle:\nThe MFA Bypass That Wasn’t an MFA Problem: A Lesson in Broken API Authorization\n════════════════════════\n𐀪\nAuthor:\nHangga Aji Sayekti\n════════════════════════\nⴵ\nTime:\nThu, 18 Jun 2026 01:29:56 GMT\n════════════════════════\n⌗\nTags:\n#mfa_bypass\n#bug_bounty_writeup\n#security_research\n#hacking\n#bug_bounty",
-        "date": "2026-06-18T02:04:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122624_0_80eeb779.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122624_1_e5e85272.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122624",
-        "link": {
-          "title": "The MFA Bypass That Wasn’t an MFA Problem: A Lesson in Broken API Authorization",
-          "url": "https://cybersecuritywriteups.com/the-mfa-bypass-that-wasnt-an-mfa-problem-a-lesson-in-broken-api-authorization-b6f0fbd4154f?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 122623,
-        "text": "⤷\nTitle:\nZyxel Patches Stack-Based Buffer Overflow in GS1900 Switches (CVE-2026-7273)\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 18 Jun 2026 00:25:13 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_7273\n#GS1900\n#network\nswitch security\n#stack_based\nbuffer overflow\n#Zyxel\n#Zyxel\nGS1900 vulnerability",
-        "date": "2026-06-18T02:03:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122623_0_80eeb779.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122623_1_18840048.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122623",
-        "link": {
-          "title": "Zyxel Patches Stack-Based Buffer Overflow in GS1900 Switches (CVE-2026-7273)",
-          "url": "https://securityonline.info/zyxel-gs1900-buffer-overflow/"
-        }
-      },
-      {
-        "id": 122622,
-        "text": "⤷\nTitle:\ni18next Prototype Pollution Flaw (CVSS 9.1) Threatens 1M+ Weekly Downloads\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 18 Jun 2026 01:00:39 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_48713\n#CVE_2026_48714\n#i18next\n#i18next_fs_backend\n#Node\n.js Security\n#npm\nVulnerability\n#Prototype\nPollution",
-        "date": "2026-06-18T02:03:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122622_0_80eeb779.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122622_1_5eefd9ae.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122622",
-        "link": {
-          "title": "i18next Prototype Pollution Flaw (CVSS 9.1) Threatens 1M+ Weekly Downloads",
-          "url": "https://securityonline.info/i18next-prototype-pollution/"
-        }
       }
     ]
   },
-  "last_update": "2026-06-18T22:30:08.168779+00:00",
+  "last_update": "2026-06-19T00:10:20.346470+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2289,7 +2289,7 @@
     },
     "referenced_files": 192,
     "existing_media_files": 192,
-    "total_size_mb": 5.46,
-    "last_calculation": "2026-06-18T22:30:08.171074+00:00"
+    "total_size_mb": 5.37,
+    "last_calculation": "2026-06-19T00:10:20.348785+00:00"
   }
 }
