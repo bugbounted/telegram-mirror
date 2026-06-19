@@ -2,6 +2,320 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 122876,
+        "text": "⤷\nTitle:\nASCTray.exe, Malicious or Benign?\n════════════════════════\n𐀪\nAuthor:\nJustin C.\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 19:23:42 GMT\n════════════════════════\n⌗\nTags:\n#enterprise_security\n#bug_bounty_writeup\n#cyberattack\n#computer_science\n#cybersecurity",
+        "date": "2026-06-19T20:04:36+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122876_0_27873a12.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122876_1_0d57e067.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122876",
+        "link": {
+          "title": "ASCTray.exe, Malicious or Benign?",
+          "url": "https://medium.com/@jxnv/asctray-exe-malicious-or-benign-c5cb130df30d?source=rss------bug_bounty_writeup-5"
+        }
+      },
+      {
+        "id": 122875,
+        "text": "⤷\nTitle:\nTryHackMe: Support Ops Platform Walkthrough\n════════════════════════\n𐀪\nAuthor:\nazilRababe\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 20:02:36 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#pentesting\n#rce_vulnerability\n#idor_vulnerability\n#lfi",
+        "date": "2026-06-19T20:04:33+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122875_0_27873a12.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122875_1_eeaefa1d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122875",
+        "link": {
+          "title": "TryHackMe: Support Ops Platform Walkthrough",
+          "url": "https://medium.com/@azilrababe/tryhackme-support-ops-platform-walkthrough-7d95ca7e6ae9?source=rss------rce_vulnerability-5"
+        }
+      },
+      {
+        "id": 122874,
+        "text": "⤷\nTitle:\nBurp Suite: The Tool Every Bug Hunter and Pentester Eventually Learns\n════════════════════════\n𐀪\nAuthor:\nBENSEC\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 18:31:00 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#burpsuite\n#technology\n#ethical_hacking\n#web_security",
+        "date": "2026-06-19T20:04:30+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122874_0_27873a12.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122874_1_14ff40f4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122874",
+        "link": {
+          "title": "Burp Suite: The Tool Every Bug Hunter and Pentester Eventually Learns",
+          "url": "https://medium.com/@bensec/burp-suite-the-tool-every-bug-hunter-and-pentester-eventually-learns-9691f952c6dc?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 122873,
+        "text": "⤷\nTitle:\nNmap Host Discovery: Finding Targets Without Making Noise (Part 2)\n════════════════════════\n𐀪\nAuthor:\nSuraj Apar\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 18:27:55 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#ethical_hacking\n#cybersecurity\n#networking\n#nmap",
+        "date": "2026-06-19T20:04:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122873_0_27873a12.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122873_1_96229944.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122873",
+        "link": {
+          "title": "Nmap Host Discovery: Finding Targets Without Making Noise (Part 2)",
+          "url": "https://infosecwriteups.com/nmap-host-discovery-finding-targets-without-making-noise-part-2-8f52f35cde6a?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 122872,
+        "text": "⤷\nTitle:\nActive Directory Enumeration & Attacks — Skills Assessment Part I\n════════════════════════\n𐀪\nAuthor:\nBisher Arafat\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 19:34:49 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#cpt\n#oscp\n#cybersecurity",
+        "date": "2026-06-19T20:04:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122872_0_27873a12.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122872_1_a552c4cc.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122872",
+        "link": {
+          "title": "Active Directory Enumeration & Attacks — Skills Assessment Part I",
+          "url": "https://medium.com/@bisher.cyber/active-directory-enumeration-attacks-skills-assessment-part-i-fa34434d4c8c?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 122871,
+        "text": "⤷\nTitle:\nCybersecurity in 2026 Is a Full-Time Job (And Nobody Warned Me)\n════════════════════════\n𐀪\nAuthor:\nMary\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 17:53:42 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#tech\n#ai_agent\n#hacking\n#ai",
+        "date": "2026-06-19T20:04:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122871_0_27873a12.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122871_1_c3e16861.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122871",
+        "link": {
+          "title": "Cybersecurity in 2026 Is a Full-Time Job (And Nobody Warned Me)",
+          "url": "https://medium.com/@marryy1515m/cybersecurity-in-2026-is-a-full-time-job-and-nobody-warned-me-551ac1098795?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 122870,
+        "text": "⤷\nTitle:\nThe Fake Login Page That Beats Your 2FA in Real Time\n════════════════════════\n𐀪\nAuthor:\nPop123\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 17:56:17 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#infosec\n#phishing\n#technology\n#cybersecurity",
+        "date": "2026-06-19T20:04:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122870_0_27873a12.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122870_1_3f378a69.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122870",
+        "link": {
+          "title": "The Fake Login Page That Beats Your 2FA in Real Time",
+          "url": "https://medium.com/@Pop123/the-fake-login-page-that-beats-your-2fa-in-real-time-44eef74ea444?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 122869,
+        "text": "⤷\nTitle:\nSweettooth Inc. (THM) Tryhackme Walkthrough Medium Challange\n════════════════════════\n𐀪\nAuthor:\nLawvye\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 18:15:52 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#docker\n#hacking\n#privilege_escalation\n#tryhackme",
+        "date": "2026-06-19T20:04:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122869_0_27873a12.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122869_1_f7a1cba5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122869",
+        "link": {
+          "title": "Sweettooth Inc. (THM) Tryhackme Walkthrough Medium Challange",
+          "url": "https://medium.com/@lawvye/sweettooth-inc-thm-tryhackme-walkthrough-medium-challange-8b69a3f81120?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 122868,
+        "text": "⤷\nTitle:\nFirmware Reverse Engineering Deep Dive: How to Read Compiled Code When You Have No Source\n════════════════════════\n𐀪\nAuthor:\nAkifkhan\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 18:44:28 GMT\n════════════════════════\n⌗\nTags:\n#software_development\n#software_engineering\n#cybersecurity\n#hacking\n#infosec",
+        "date": "2026-06-19T20:04:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122868_0_27873a12.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122868_1_7e175f1f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122868",
+        "link": {
+          "title": "Firmware Reverse Engineering Deep Dive: How to Read Compiled Code When You Have No Source",
+          "url": "https://medium.com/@akifkhan0120/firmware-reverse-engineering-deep-dive-how-to-read-compiled-code-when-you-have-no-source-f5d1e3dc7eab?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 122867,
+        "text": "⤷\nTitle:\nI Tracked My First 90 Days of Bug Bounty Income. Here Are the Real Numbers.\n════════════════════════\n𐀪\nAuthor:\nMasood Nfc\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 18:56:42 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#side_hustle\n#money\n#bug_bounty\n#cybersecurity",
+        "date": "2026-06-19T20:04:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122867_0_27873a12.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122867_1_9e7f80e4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122867",
+        "link": {
+          "title": "I Tracked My First 90 Days of Bug Bounty Income. Here Are the Real Numbers.",
+          "url": "https://medium.com/@masood.nfc77/i-tracked-my-first-90-days-of-bug-bounty-income-here-are-the-real-numbers-5ca40d1586a6?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 122866,
+        "text": "⤷\nTitle:\nSSRF Explained Like You Are Five (For Bug Bounty Beginners)\n════════════════════════\n𐀪\nAuthor:\nMasood Nfc\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 18:59:43 GMT\n════════════════════════\n⌗\nTags:\n#web_security\n#cybersecurity\n#hacking\n#ssrf\n#bug_bounty",
+        "date": "2026-06-19T20:04:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122866_0_27873a12.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122866_1_49e62f06.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122866",
+        "link": {
+          "title": "SSRF Explained Like You Are Five (For Bug Bounty Beginners)",
+          "url": "https://medium.com/@masood.nfc77/ssrf-explained-like-you-are-five-for-bug-bounty-beginners-85a059f5e436?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 122865,
+        "text": "⤷\nTitle:\nWhat is Bug Bounty Hunting and Why Is It So Popular in 2026?\n════════════════════════\n𐀪\nAuthor:\nDdm atiq\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 19:35:53 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#bug_bounty\n#hacking\n#ethical_hacking\n#technology",
+        "date": "2026-06-19T20:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122865_0_27873a12.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122865_1_302c9c08.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122865",
+        "link": {
+          "title": "What is Bug Bounty Hunting and Why Is It So Popular in 2026?",
+          "url": "https://medium.com/@ddmatiq762/what-is-bug-bounty-hunting-and-why-is-it-so-popular-in-2026-ced8835e486a?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 122864,
+        "text": "⤷\nTitle:\nThe Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nSat, 20 Jun 2026 00:03:07 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-06-19T20:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122864_0_27873a12.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122864",
+        "link": {
+          "title": "The Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes",
+          "url": "https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html"
+        }
+      },
+      {
+        "id": 122863,
+        "text": "⤷\nTitle:\nUnpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nSat, 20 Jun 2026 00:07:41 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-06-19T20:03:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122863_0_27873a12.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122863",
+        "link": {
+          "title": "Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain",
+          "url": "https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html"
+        }
+      },
+      {
         "id": 122862,
         "text": "⤷\nTitle:\nDesigning API-First Trust Infrastructure for Autonomous Workloads and AI Agents\n════════════════════════\n𐀪\nAuthor:\nMaxzom Technologies\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 17:52:46 GMT\n════════════════════════\n⌗\nTags:\n#software_architecture\n#api_governance\n#ai_agent\n#web3\n#api_security",
         "date": "2026-06-19T18:04:21+00:00",
@@ -1956,344 +2270,22 @@
           "title": "Wazuh SIEM Lab Part 3: Attack Simulation and What the Dashboards Showed",
           "url": "https://medium.com/@yayifunkeayodeji/wazuh-siem-lab-part-3-attack-simulation-and-what-the-dashboards-showed-b50652c7ae76?source=rss------penetration_testing-5"
         }
-      },
-      {
-        "id": 122754,
-        "text": "⤷\nTitle:\nC/C++ and Rust definitions for Windows API functions and data types\n════════════════════════\n𐀪\nAuthor:\nS12 - 0x12Dark Development\n════════════════════════\nⴵ\nTime:\nThu, 18 Jun 2026 20:46:20 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#cybersecurity\n#malware\n#infosec\n#pentesting",
-        "date": "2026-06-18T22:03:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122754_0_71e08184.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122754_1_64408ab4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122754",
-        "link": {
-          "title": "C/C++ and Rust definitions for Windows API functions and data types",
-          "url": "https://medium.com/@s12deff/c-c-and-rust-definitions-for-windows-api-functions-and-data-types-61577639d494?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 122753,
-        "text": "⤷\nTitle:\nThe Invisible Hijack: When Your AI Coding Assistant Turns Against You\n════════════════════════\n𐀪\nAuthor:\nLightning Developer\n════════════════════════\nⴵ\nTime:\nThu, 18 Jun 2026 21:41:00 GMT\n════════════════════════\n⌗\nTags:\n#development\n#cybersecurity\n#hacking\n#ai_agent\n#ai",
-        "date": "2026-06-18T22:03:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122753_0_71e08184.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122753_1_2f6f0310.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122753",
-        "link": {
-          "title": "The Invisible Hijack: When Your AI Coding Assistant Turns Against You",
-          "url": "https://medium.com/@bishakhghosh0/the-invisible-hijack-when-your-ai-coding-assistant-turns-against-you-4eb74c7786c5?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 122752,
-        "text": "⤷\nTitle:\nThe AI Bug Bounty Gold Rush: Why 2026 Is the Best Time to Start (Before Everyone Else Does)\n════════════════════════\n𐀪\nAuthor:\nAeon Flex, Elriel Assoc. 2133 [NEON MAXIMA]\n════════════════════════\nⴵ\nTime:\nThu, 18 Jun 2026 20:20:14 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#artificial_intelligence\n#cybersecurity\n#make_money_online\n#bug_bounty",
-        "date": "2026-06-18T22:03:51+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122752_0_71e08184.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122752_1_5d7edbce.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122752",
-        "link": {
-          "title": "The AI Bug Bounty Gold Rush: Why 2026 Is the Best Time to Start (Before Everyone Else Does)",
-          "url": "https://medium.com/@neonmaxima/the-ai-bug-bounty-gold-rush-why-2026-is-the-best-time-to-start-before-everyone-else-does-030e3050ba8f?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 122751,
-        "text": "⤷\nTitle:\nWireshark: The Tool That Lets You See What Your Network Is Really Doing\n════════════════════════\n𐀪\nAuthor:\nBENSEC\n════════════════════════\nⴵ\nTime:\nThu, 18 Jun 2026 18:31:01 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#networking\n#technology\n#ethical_hacking\n#wireshark",
-        "date": "2026-06-18T20:04:42+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122751_0_71e08184.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122751_1_9698dbb7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122751",
-        "link": {
-          "title": "Wireshark: The Tool That Lets You See What Your Network Is Really Doing",
-          "url": "https://medium.com/@bensec/wireshark-the-tool-that-lets-you-see-what-your-network-is-really-doing-af87ca680c5f?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 122750,
-        "text": "⤷\nTitle:\nDebugging PrintNightmare: Why Impacket Fails and How NDR Serialization Saves the Day\n════════════════════════\n𐀪\nAuthor:\nsydrx\n════════════════════════\nⴵ\nTime:\nThu, 18 Jun 2026 19:55:03 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#penetration_testing\n#cybersecurity\n#printnightmare\n#active_directory",
-        "date": "2026-06-18T20:04:38+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122750_0_71e08184.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122750_1_3c196a35.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122750",
-        "link": {
-          "title": "Debugging PrintNightmare: Why Impacket Fails and How NDR Serialization Saves the Day",
-          "url": "https://medium.com/@sydrx/debugging-printnightmare-why-impacket-fails-and-how-ndr-serialization-saves-the-day-f3a3f95df70d?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 122749,
-        "text": "⤷\nTitle:\nNmap Through the Lens of Networking — Part 2\n════════════════════════\n𐀪\nAuthor:\nMohan Sai Krishna G M\n════════════════════════\nⴵ\nTime:\nThu, 18 Jun 2026 17:55:00 GMT\n════════════════════════\n⌗\nTags:\n#red_team\n#networking\n#cybersecurity\n#penetration_testing\n#technology",
-        "date": "2026-06-18T20:04:35+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122749_0_71e08184.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122749_1_c7d710a0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122749",
-        "link": {
-          "title": "Nmap Through the Lens of Networking — Part 2",
-          "url": "https://meetcyber.net/nmap-through-the-lens-of-networking-part-2-987ec75cfc74?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 122748,
-        "text": "⤷\nTitle:\nLightweight Asymmetric Encryption for C2 Implants: A Red Teamer’s Guide from XOR to Rabin\n════════════════════════\n𐀪\nAuthor:\nAlfred Abston\n════════════════════════\nⴵ\nTime:\nThu, 18 Jun 2026 18:30:09 GMT\n════════════════════════\n⌗\nTags:\n#cryptography\n#penetration_testing\n#public_key_cryptography\n#cybersecurity\n#red_team",
-        "date": "2026-06-18T20:04:32+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122748_0_71e08184.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122748_1_10ba4d05.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122748",
-        "link": {
-          "title": "Lightweight Asymmetric Encryption for C2 Implants: A Red Teamer’s Guide from XOR to Rabin",
-          "url": "https://medium.com/@alfred.abston/lightweight-asymmetric-encryption-for-c2-implants-a-red-teamers-guide-from-xor-to-rabin-42e9b6b275d6?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 122747,
-        "text": "⤷\nTitle:\nThe End of Traditional Social Engineering: How Generative AI Is Rewriting Cybercrime and Business…\n════════════════════════\n𐀪\nAuthor:\neL Njas!\n™\n════════════════════════\nⴵ\nTime:\nThu, 18 Jun 2026 17:53:16 GMT\n════════════════════════\n⌗\nTags:\n#social_engineering\n#infosec\n#ai",
-        "date": "2026-06-18T20:04:28+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122747_0_71e08184.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122747_1_0f7aae80.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122747",
-        "link": {
-          "title": "The End of Traditional Social Engineering: How Generative AI Is Rewriting Cybercrime and Business…",
-          "url": "https://medium.com/@elnjasi/the-end-of-traditional-social-engineering-how-generative-ai-is-rewriting-cybercrime-and-business-541aeeecfa73?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 122746,
-        "text": "⤷\nTitle:\nIronWorm Explained: How a Rust-Built Malware Turns You Into the Attacker\n════════════════════════\n𐀪\nAuthor:\nC.ishan pathirana\n════════════════════════\nⴵ\nTime:\nThu, 18 Jun 2026 19:31:07 GMT\n════════════════════════\n⌗\nTags:\n#rust_programming_language\n#infosec\n#malware_analysis\n#vulnerability_research\n#cybersecurity",
-        "date": "2026-06-18T20:04:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122746_0_71e08184.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122746_1_95f5fc55.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122746",
-        "link": {
-          "title": "IronWorm Explained: How a Rust-Built Malware Turns You Into the Attacker",
-          "url": "https://medium.com/@charukaishan75/ironworm-explained-how-a-rust-built-malware-turns-you-into-the-attacker-5054486e885d?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 122745,
-        "text": "⤷\nTitle:\nThe Hackers Hiding Their Traps Behind a Free Cloudflare Page\n════════════════════════\n𐀪\nAuthor:\nPop123\n════════════════════════\nⴵ\nTime:\nThu, 18 Jun 2026 17:50:02 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#cybersecurity\n#malware\n#technology\n#cloudflare",
-        "date": "2026-06-18T20:04:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122745_0_71e08184.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122745_1_586bec10.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122745",
-        "link": {
-          "title": "The Hackers Hiding Their Traps Behind a Free Cloudflare Page",
-          "url": "https://medium.com/@Pop123/the-hackers-hiding-their-traps-behind-a-free-cloudflare-page-1c3cbe1b1c9a?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 122744,
-        "text": "⤷\nTitle:\nTHM - Support\n════════════════════════\n𐀪\nAuthor:\nFrancesco Pastore\n════════════════════════\nⴵ\nTime:\nThu, 18 Jun 2026 18:54:26 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#tech\n#cybersecurity\n#security\n#technology",
-        "date": "2026-06-18T20:04:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122744_0_71e08184.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122744_1_01dcee15.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122744",
-        "link": {
-          "title": "THM - Support",
-          "url": "https://2h3ph3rd.medium.com/thm-support-ef391f7eaf98?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 122743,
-        "text": "⤷\nTitle:\nWorkhorse hackers and the cybercrime assembly line\n════════════════════════\n𐀪\nAuthor:\nNetworkTigers\n════════════════════════\nⴵ\nTime:\nThu, 18 Jun 2026 19:31:56 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#cybercrime\n#data_hackers\n#ransomware",
-        "date": "2026-06-18T20:04:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122743_0_71e08184.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122743_1_18f88805.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122743",
-        "link": {
-          "title": "Workhorse hackers and the cybercrime assembly line",
-          "url": "https://medium.com/@networktigers/workhorse-hackers-and-the-cybercrime-assembly-line-488336a853de?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 122742,
-        "text": "⤷\nTitle:\nInformation Gathering — Web Edition (Skill Assessment — Walkthrough)\n════════════════════════\n𐀪\nAuthor:\nth3V0!D\n════════════════════════\nⴵ\nTime:\nThu, 18 Jun 2026 19:32:58 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#red_team\n#hackthebox_walkthrough\n#hacking\n#hackthebox",
-        "date": "2026-06-18T20:04:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122742_0_71e08184.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122742_1_eb1debfd.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122742",
-        "link": {
-          "title": "Information Gathering — Web Edition (Skill Assessment — Walkthrough)",
-          "url": "https://medium.com/@theV01D/information-gathering-web-edition-skill-assessment-walkthrough-f68c8624be48?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 122741,
-        "text": "⤷\nTitle:\nFrom Debugging to Hacking: Using Chrome DevTools Like a Bug Hunter\n════════════════════════\n𐀪\nAuthor:\nMD Mehedi Hasan\n════════════════════════\nⴵ\nTime:\nThu, 18 Jun 2026 17:55:57 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#infosec\n#browser_security\n#debugging_tools\n#chrome_devtools",
-        "date": "2026-06-18T20:04:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122741_0_71e08184.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122741_1_ee5bdfe5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122741",
-        "link": {
-          "title": "From Debugging to Hacking: Using Chrome DevTools Like a Bug Hunter",
-          "url": "https://infosecwriteups.com/from-debugging-to-hacking-using-chrome-devtools-like-a-bug-hunter-838949adf76b?source=rss------bug_bounty-5"
-        }
       }
     ]
   },
-  "last_update": "2026-06-19T18:16:06.730243+00:00",
+  "last_update": "2026-06-19T20:12:31.071621+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 194,
-    "total_files": 194,
+    "total_media": 192,
+    "total_files": 192,
     "total_links": 1,
     "files_by_type": {
-      "image": 194
+      "image": 192
     },
-    "referenced_files": 194,
-    "existing_media_files": 194,
-    "total_size_mb": 5.77,
-    "last_calculation": "2026-06-19T18:16:06.732575+00:00"
+    "referenced_files": 192,
+    "existing_media_files": 192,
+    "total_size_mb": 5.39,
+    "last_calculation": "2026-06-19T20:12:31.073965+00:00"
   }
 }
