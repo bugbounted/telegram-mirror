@@ -2,6 +2,462 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 122781,
+        "text": "⤷\nTitle:\nDetection Engineering With Snort | TryHackMe | detection challenge\n════════════════════════\n𐀪\nAuthor:\nJose Praveen\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 03:18:52 GMT\n════════════════════════\n⌗\nTags:\n#snort\n#security_operation_center\n#tryhackme\n#cybersecurity\n#detection_engineering",
+        "date": "2026-06-19T04:04:31+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122781_0_71e08184.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122781_1_5fd87b10.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122781",
+        "link": {
+          "title": "Detection Engineering With Snort | TryHackMe | detection challenge",
+          "url": "https://josepraveen.medium.com/detection-engineering-with-snort-tryhackme-detection-challenge-fce70d12d3f2?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 122780,
+        "text": "⤷\nTitle:\nMr Robot CTF Writeup\n════════════════════════\n𐀪\nAuthor:\nSpoofey\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 03:37:14 GMT\n════════════════════════\n⌗\nTags:\n#mr_robot\n#thm_writeup\n#tryhackme\n#tryhackme_walkthrough\n#tryhackme_writeup",
+        "date": "2026-06-19T04:04:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122780_0_71e08184.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122780",
+        "link": {
+          "title": "Mr Robot CTF Writeup",
+          "url": "https://spoof0x0.medium.com/mr-robot-ctf-writeup-96a7e8ff7685?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 122779,
+        "text": "⤷\nTitle:\nThe One Thing Nobody Checks in Password Reset (And Why It Pays)\n════════════════════════\n𐀪\nAuthor:\nDecline\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 02:46:54 GMT\n════════════════════════\n⌗\nTags:\n#bugbounty_writeup\n#bug_hunting\n#bug_bounty\n#bug_bounty_tips\n#bug_bounty_writeup",
+        "date": "2026-06-19T04:04:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122779_0_71e08184.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122779_1_f7a22f8b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122779",
+        "link": {
+          "title": "The One Thing Nobody Checks in Password Reset (And Why It Pays)",
+          "url": "https://medium.com/@bughunting/the-one-thing-nobody-checks-in-password-reset-and-why-it-pays-215ae92a8d9c?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 122778,
+        "text": "⤷\nTitle:\n27-Year-Old OpenBSD Authentication Bypass: Details and PoC Exploit Publicly Disclosed\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 02:02:06 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Authentication\nBypass\n#CVE_2026_55706\n#Heap\nOver_read\n#kernel\nvulnerability\n#OpenBSD\n#PAP\n#PPP\nstack\n#PPPoE\n#proof_of_concept\n#sppp",
+        "date": "2026-06-19T04:04:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122778_0_71e08184.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122778_1_1dccc54a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122778",
+        "link": {
+          "title": "27-Year-Old OpenBSD Authentication Bypass: Details and PoC Exploit Publicly Disclosed",
+          "url": "https://securityonline.info/openbsd-pap-authentication-bypass/"
+        }
+      },
+      {
+        "id": 122777,
+        "text": "⤷\nTitle:\nCritical iba Deserialization Vulnerability Exposes ibaPDA and ibaDatCoordinator to RCE (CVE-2026-8024)\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 02:13:25 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport #.NET BinaryFormatter\n#CVE_2026_8024\n#CWE_502\n#Deserialization\n#iba\n#ibaDatCoordinator\n#ibaPDA\n#ICS\nsecurity\n#OT\nSecurity\n#Remote\nCode Execution",
+        "date": "2026-06-19T04:04:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122777_0_71e08184.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122777_1_3f4cdd13.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122777",
+        "link": {
+          "title": "Critical iba Deserialization Vulnerability Exposes ibaPDA and ibaDatCoordinator to RCE (CVE-2026-8024)",
+          "url": "https://securityonline.info/iba-deserialization-vulnerability/"
+        }
+      },
+      {
+        "id": 122776,
+        "text": "⤷\nTitle:\nF5 Patches Two Critical NGINX Flaws in HTTP/3 and HTTP/2 Modules (CVE-2026-42530, CVE-2026-42055)\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 02:23:02 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#buffer\noverflow\n#CVE_2026_42055\n#CVE_2026_42530\n#F5\n#HTTP\n/3\n#nginx\n#NGINX\nvulnerabilities\n#use\nafter free",
+        "date": "2026-06-19T04:04:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122776_0_71e08184.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122776_1_b87bac58.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122776",
+        "link": {
+          "title": "F5 Patches Two Critical NGINX Flaws in HTTP/3 and HTTP/2 Modules (CVE-2026-42530, CVE-2026-42055)",
+          "url": "https://securityonline.info/nginx-vulnerabilities/"
+        }
+      },
+      {
+        "id": 122775,
+        "text": "⤷\nTitle:\nApple Opens iOS to Third-Party App Stores in Brazil Under CADE Settlement\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 03:17:21 +0000\n════════════════════════\n⌗\nTags:\n#Technology",
+        "date": "2026-06-19T04:04:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122775_0_71e08184.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122775_1_fed54ac8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122775",
+        "link": {
+          "title": "Apple Opens iOS to Third-Party App Stores in Brazil Under CADE Settlement",
+          "url": "https://securityonline.info/ios-third-party-app-stores-brazil/"
+        }
+      },
+      {
+        "id": 122774,
+        "text": "⤷\nTitle:\nINTERPOL Warns of Industrialized Cybercrime Across Asia and the Pacific\n════════════════════════\n𐀪\nAuthor:\nddos\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 03:29:32 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#cybercrime\n#Interpol",
+        "date": "2026-06-19T04:04:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122774_0_71e08184.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122774_1_4b156e82.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122774",
+        "link": {
+          "title": "INTERPOL Warns of Industrialized Cybercrime Across Asia and the Pacific",
+          "url": "https://meterpreter.org/interpol-asia-cyber-threat-report/"
+        }
+      },
+      {
+        "id": 122773,
+        "text": "⤷\nTitle:\nFortiBleed Campaign Exploits Tens of Thousands of Fortinet Firewalls\n════════════════════════\n𐀪\nAuthor:\nddos\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 03:31:49 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#credential\nstuffing\n#data\nbreach\n#Firewall\nSecurity\n#FortiBleed\n#Fortinet",
+        "date": "2026-06-19T04:04:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122773_0_71e08184.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122773_1_393b079a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122773",
+        "link": {
+          "title": "FortiBleed Campaign Exploits Tens of Thousands of Fortinet Firewalls",
+          "url": "https://meterpreter.org/fortibleed-fortinet-firewalls-compromised/"
+        }
+      },
+      {
+        "id": 122772,
+        "text": "⤷\nTitle:\nRoguePlanet: Unpatched Defender Flaw Grants SYSTEM-Level Access (CVE-2026-50656)\n════════════════════════\n𐀪\nAuthor:\nddos\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 03:37:05 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability",
+        "date": "2026-06-19T04:04:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122772_0_71e08184.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122772_1_a9ea010d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122772",
+        "link": {
+          "title": "RoguePlanet: Unpatched Defender Flaw Grants SYSTEM-Level Access (CVE-2026-50656)",
+          "url": "https://meterpreter.org/rogueplanet-cve-2026-50656/"
+        }
+      },
+      {
+        "id": 122771,
+        "text": "⤷\nTitle:\nGrapheneOS Achieves Early Port to Android 17\n════════════════════════\n𐀪\nAuthor:\nddos\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 03:40:50 +0000\n════════════════════════\n⌗\nTags:\n#Android\n#Technology\n#Android\n17\n#GrapheneOS\n#mobile\nsecurity\n#Privacy\nFirmware",
+        "date": "2026-06-19T04:03:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122771_0_71e08184.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122771_1_4abd1886.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122771",
+        "link": {
+          "title": "GrapheneOS Achieves Early Port to Android 17",
+          "url": "https://meterpreter.org/grapheneos-android-17-port/"
+        }
+      },
+      {
+        "id": 122770,
+        "text": "⤷\nTitle:\nFreeBSD 15.1-RELEASE Launches with Network and Kernel Upgrades\n════════════════════════\n𐀪\nAuthor:\nddos\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 03:43:42 +0000\n════════════════════════\n⌗\nTags:\n#Linux\n#FreeBSD\n#open\nsource\n#operating\nsystem\n#Sysadmin",
+        "date": "2026-06-19T04:03:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122770_0_71e08184.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122770_1_d31d2184.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122770",
+        "link": {
+          "title": "FreeBSD 15.1-RELEASE Launches with Network and Kernel Upgrades",
+          "url": "https://meterpreter.org/freebsd-15-1-release/"
+        }
+      },
+      {
+        "id": 122769,
+        "text": "⤷\nTitle:\nHackers Hijacking Roblox Games Through Fake Job Offers\n════════════════════════\n𐀪\nAuthor:\nddos\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 03:46:40 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#Game\nDevelopment\n#phishing\n#Roblox\n#Social\nEngineering",
+        "date": "2026-06-19T04:03:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122769_0_71e08184.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122769_1_6b1bdf5f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122769",
+        "link": {
+          "title": "Hackers Hijacking Roblox Games Through Fake Job Offers",
+          "url": "https://meterpreter.org/hackers-hijacking-roblox-games/"
+        }
+      },
+      {
+        "id": 122768,
+        "text": "⤷\nTitle:\nMicrosoft Discovers Crypto Clipper Utilizing Tor for Control\n════════════════════════\n𐀪\nAuthor:\nddos\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 03:50:23 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#Crypto\nClipper\n#Microsoft\nSecurity\n#Tor\nNetwork\n#USB\nMalware",
+        "date": "2026-06-19T04:03:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122768_0_71e08184.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122768_1_d0d66617.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122768",
+        "link": {
+          "title": "Microsoft Discovers Crypto Clipper Utilizing Tor for Control",
+          "url": "https://meterpreter.org/crypto-clipper-utilizing-tor/"
+        }
+      },
+      {
+        "id": 122767,
+        "text": "⤷\nTitle:\nHow I Cut My AI Agent Costs by 90% for Bug Bounty Automation (Without Switching Tools)\n════════════════════════\n𐀪\nAuthor:\n0x-elfateh\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 00:17:34 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ai\n#bug_bounty_tips\n#claude\n#automation",
+        "date": "2026-06-19T02:04:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122767_0_71e08184.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122767_1_7284a4e5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122767",
+        "link": {
+          "title": "How I Cut My AI Agent Costs by 90% for Bug Bounty Automation (Without Switching Tools)",
+          "url": "https://medium.com/@ahmeedw95/how-i-cut-my-ai-agent-costs-by-90-for-bug-bounty-automation-without-switching-tools-8478c3b0332d?source=rss------bug_bounty_tips-5"
+        }
+      },
+      {
+        "id": 122766,
+        "text": "⤷\nTitle:\nWhy Cybersecurity Job Seekers With Certifications Still Can't Get Interviews - What Works in 2026!\n════════════════════════\n𐀪\nAuthor:\nChase\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 01:13:10 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#infosec\n#job_search\n#networking\n#career_advice",
+        "date": "2026-06-19T02:04:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122766_0_71e08184.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122766_1_70359881.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122766",
+        "link": {
+          "title": "Why Cybersecurity Job Seekers With Certifications Still Can't Get Interviews - What Works in 2026!",
+          "url": "https://medium.com/@chase_84503/why-cybersecurity-job-seekers-with-certifications-still-cant-get-interviews-what-works-in-2026-1a6a487bdc8f?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 122765,
+        "text": "⤷\nTitle:\nComplete Guide to Authentication Vulnerabilities\n════════════════════════\n𐀪\nAuthor:\nJPablo13\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 00:01:02 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#technology\n#cybersecurity\n#penetration_testing\n#hacking",
+        "date": "2026-06-19T02:04:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122765_0_71e08184.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122765_1_457d111b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122765",
+        "link": {
+          "title": "Complete Guide to Authentication Vulnerabilities",
+          "url": "https://medium.com/@jpablo13/complete-guide-to-authentication-vulnerabilities-d2a4647d7d62?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 122764,
+        "text": "⤷\nTitle:\n$900 Session Flaw: Deprovisioned Users Retain Access After Permission Removal\n════════════════════════\n𐀪\nAuthor:\nAbhi Sharma\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 01:31:01 GMT\n════════════════════════\n⌗\nTags:\n#information_security\n#session_flaw\n#bug_bounty\n#programming\n#cybersecurity",
+        "date": "2026-06-19T02:04:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122764_0_71e08184.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122764_1_9b559598.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122764",
+        "link": {
+          "title": "$900 Session Flaw: Deprovisioned Users Retain Access After Permission Removal",
+          "url": "https://medium.com/@a13h1/900-session-flaw-deprovisioned-users-retain-access-after-permission-removal-f775a3f81bc9?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 122763,
+        "text": "⤷\nTitle:\nHow I Found a Server-Side Entitlement Issue That Allowed Free Users to Access Premium Features\n════════════════════════\n𐀪\nAuthor:\nThoristo\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 01:45:58 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#hackerone\n#bug_bounty\n#ethical_hacking\n#pentesting",
+        "date": "2026-06-19T02:04:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122763_0_71e08184.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122763_1_a87cfb50.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122763",
+        "link": {
+          "title": "How I Found a Server-Side Entitlement Issue That Allowed Free Users to Access Premium Features",
+          "url": "https://medium.com/@ahmed_samy/how-i-found-a-server-side-entitlement-issue-that-allowed-free-users-to-access-premium-features-b5564eb96c21?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 122762,
+        "text": "⤷\nTitle:\nRockwell Automation patches multiple ICS flaws\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 00:33:25 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#1794_AENTR\n#Authentication\nBypass\n#AVEVA\nPI Data Archive\n#CVE_2026_0647\n#Denial\nof Service\n#EtherNet\n/IP\n#FactoryTalk\nHistorian\n#FLEX\nI/O\n#ICS\nsecurity\n#Rockwell\nAutomation",
+        "date": "2026-06-19T02:03:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122762_0_71e08184.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122762_1_9077d0de.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122762",
+        "link": {
+          "title": "Rockwell Automation patches multiple ICS flaws",
+          "url": "https://securityonline.info/rockwell-factorytalk-flex-io-vulnerabilities/"
+        }
+      },
+      {
         "id": 122759,
         "text": "⤷\nTitle:\nHow I Automated Signal Detection With SDR and Machine Learning\n════════════════════════\n𐀪\nAuthor:\nMichael Preston\n════════════════════════\nⴵ\nTime:\nThu, 18 Jun 2026 23:19:01 GMT\n════════════════════════\n⌗\nTags:\n#automation\n#signal_analysis\n#sdr\n#machine_learning\n#ethical_hacking",
         "date": "2026-06-19T00:03:57+00:00",
@@ -1812,484 +2268,22 @@
           "title": "ChatGPT Scheduled Tasks Transform AI into an Active Agent",
           "url": "https://securityonline.info/chatgpt-scheduled-tasks/"
         }
-      },
-      {
-        "id": 122667,
-        "text": "⤷\nTitle:\nVelvet Ant’s Operation Highland: A Decade Inside Critical Infrastructure\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 18 Jun 2026 09:08:36 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#China_nexus\nthreat actor\n#Critical\nInfrastructure\n#CVE_2024_20399\n#OpenSSH\nbackdoor\n#Operation\nHighland\n#PAM\nBackdoor\n#Sygnia\n#Velvet\nAnt",
-        "date": "2026-06-18T10:04:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122667_0_80eeb779.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122667_1_a71e9db1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122667",
-        "link": {
-          "title": "Velvet Ant’s Operation Highland: A Decade Inside Critical Infrastructure",
-          "url": "https://securityonline.info/velvet-ant-operation-highland/"
-        }
-      },
-      {
-        "id": 122666,
-        "text": "⤷\nTitle:\nGoogle Vertex AI Vulnerability Exposed in Python SDK\n════════════════════════\n𐀪\nAuthor:\nddos\n════════════════════════\nⴵ\nTime:\nThu, 18 Jun 2026 09:15:08 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#Vulnerability\n#cybersecurity\n#google\ncloud\n#machine\nlearning\n#Vertex\nAI",
-        "date": "2026-06-18T10:04:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122666_0_80eeb779.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122666_1_7394e72d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122666",
-        "link": {
-          "title": "Google Vertex AI Vulnerability Exposed in Python SDK",
-          "url": "https://meterpreter.org/google-vertex-ai-vulnerability/"
-        }
-      },
-      {
-        "id": 122665,
-        "text": "⤷\nTitle:\nJetBrains Malicious Plugins Steal Developer API Keys\n════════════════════════\n𐀪\nAuthor:\nddos\n════════════════════════\nⴵ\nTime:\nThu, 18 Jun 2026 09:16:22 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#Aikido\nSecurity\n#API\nSecurity\n#cyber\nthreats\n#IDE\nPlugins\n#JetBrains",
-        "date": "2026-06-18T10:04:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122665_0_80eeb779.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122665_1_3044223d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122665",
-        "link": {
-          "title": "JetBrains Malicious Plugins Steal Developer API Keys",
-          "url": "https://meterpreter.org/jetbrains-malicious-plugins/"
-        }
-      },
-      {
-        "id": 122664,
-        "text": "⤷\nTitle:\nSearchLeak: Microsoft 365 Copilot Flaw Let One Click Leak Enterprise Data\n════════════════════════\n𐀪\nAuthor:\nddos\n════════════════════════\nⴵ\nTime:\nThu, 18 Jun 2026 09:19:05 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability",
-        "date": "2026-06-18T10:04:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122664_0_80eeb779.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122664_1_1faff676.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122664",
-        "link": {
-          "title": "SearchLeak: Microsoft 365 Copilot Flaw Let One Click Leak Enterprise Data",
-          "url": "https://meterpreter.org/searchleak-copilot-vulnerability/"
-        }
-      },
-      {
-        "id": 122663,
-        "text": "⤷\nTitle:\nSteam Workshop Flaw Exploited to Distribute Malware via Wallpaper Engine\n════════════════════════\n𐀪\nAuthor:\nddos\n════════════════════════\nⴵ\nTime:\nThu, 18 Jun 2026 09:22:45 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#DarkKomet\n#kaspersky\n#Malware\nCampaign\n#Steam\nWorkshop\n#Wallpaper\nEngine",
-        "date": "2026-06-18T10:04:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122663_0_80eeb779.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122663_1_0f0336f8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122663",
-        "link": {
-          "title": "Steam Workshop Flaw Exploited to Distribute Malware via Wallpaper Engine",
-          "url": "https://meterpreter.org/steam-workshop-malware-wallpaper-engine/"
-        }
-      },
-      {
-        "id": 122662,
-        "text": "⤷\nTitle:\nSilver Fox Trojan: China Cracks Down on Cybercrime Cells Across Five Provinces\n════════════════════════\n𐀪\nAuthor:\nddos\n════════════════════════\nⴵ\nTime:\nThu, 18 Jun 2026 09:26:27 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals",
-        "date": "2026-06-18T10:03:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122662_0_80eeb779.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122662_1_ac8538d2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122662",
-        "link": {
-          "title": "Silver Fox Trojan: China Cracks Down on Cybercrime Cells Across Five Provinces",
-          "url": "https://meterpreter.org/silver-fox-trojan-china-arrests/"
-        }
-      },
-      {
-        "id": 122638,
-        "text": "⤷\nTitle:\nCybersecurity Theory Basics\n════════════════════════\n𐀪\nAuthor:\nAkhil Thakur\n════════════════════════\nⴵ\nTime:\nThu, 18 Jun 2026 05:09:36 GMT\n════════════════════════\n⌗\nTags:\n#beginner\n#cybersecurity\n#basics\n#ethical_hacking\n#theory",
-        "date": "2026-06-18T06:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122638_0_80eeb779.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122638_1_cb6ace7b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122638",
-        "link": {
-          "title": "Cybersecurity Theory Basics",
-          "url": "https://blog.stackademic.com/cybersecurity-theory-basics-4d3b4a826a0a?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 122637,
-        "text": "⤷\nTitle:\nthejavasea.me leaks aio-416 Explained: Cybersecurity Risks, Phishing Threats & Safety Guide 2026\n════════════════════════\n𐀪\nAuthor:\nSevangeline\n════════════════════════\nⴵ\nTime:\nThu, 18 Jun 2026 04:14:22 GMT\n════════════════════════\n⌗\nTags:\n#data_privacy\n#cyber_security_awareness\n#infosec\n#hacking\n#online_safety",
-        "date": "2026-06-18T06:03:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122637_0_80eeb779.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122637_1_c37ac4ae.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122637",
-        "link": {
-          "title": "thejavasea.me leaks aio-416 Explained: Cybersecurity Risks, Phishing Threats & Safety Guide 2026",
-          "url": "https://medium.com/@sevangeline2729/thejavasea-me-leaks-aio-416-explained-cybersecurity-risks-phishing-threats-safety-guide-2026-1a6854fec4d5?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 122636,
-        "text": "⤷\nTitle:\nMoved to https://cybernetxe.xo.je\n════════════════════════\n𐀪\nAuthor:\nZuhaib Hassan\n════════════════════════\nⴵ\nTime:\nThu, 18 Jun 2026 05:05:06 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#cybersecurity",
-        "date": "2026-06-18T06:03:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122636_0_80eeb779.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122636_1_2f497352.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://cybernetxe.xo.je",
-            "type": "external",
-            "display_text": "https://cybernetxe.xo.je"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/Daily_Writeups/122636",
-        "link": {
-          "title": "Moved to https://cybernetxe.xo.je",
-          "url": "https://medium.com/@zuhaib_43155/moved-to-https-cybernetxe-xo-je-3c799cc2d1f9?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 122635,
-        "text": "⤷\nTitle:\nHSTS and Cross-Domain Policy Misconfigurations\n════════════════════════\n𐀪\nAuthor:\nZ3r0D4y\n════════════════════════\nⴵ\nTime:\nThu, 18 Jun 2026 05:42:56 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#web_security\n#bug_bounty_tips\n#information_security\n#bug_bounty",
-        "date": "2026-06-18T06:03:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122635_0_80eeb779.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122635_1_a516d5a0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122635",
-        "link": {
-          "title": "HSTS and Cross-Domain Policy Misconfigurations",
-          "url": "https://medium.com/@pritamtare029/hsts-and-cross-domain-policy-misconfigurations-3918820a5826?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 122634,
-        "text": "⤷\nTitle:\nBuilding a Zero-Trust Healthcare API with Federated XGBoost: What I Learned Securing IoMT Systems\n════════════════════════\n𐀪\nAuthor:\nNeha Manoj\n════════════════════════\nⴵ\nTime:\nThu, 18 Jun 2026 03:57:53 GMT\n════════════════════════\n⌗\nTags:\n#iot\n#healthcare_technology\n#zero_trust\n#ai_in_cybersecurity\n#api_security",
-        "date": "2026-06-18T04:04:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122634_0_80eeb779.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122634_1_c34bb388.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122634",
-        "link": {
-          "title": "Building a Zero-Trust Healthcare API with Federated XGBoost: What I Learned Securing IoMT Systems",
-          "url": "https://medium.com/@nehamanoj1105/building-a-zero-trust-healthcare-api-with-federated-xgboost-what-i-learned-securing-iomt-systems-ffb7fedd12f7?source=rss------api_security-5"
-        }
-      },
-      {
-        "id": 122633,
-        "text": "⤷\nTitle:\nBackdoor.Turn: DragonForce Ransomware Just Made Your Microsoft Teams Logs Useless (The Ransomware…\n════════════════════════\n𐀪\nAuthor:\nAli Mansoor\n════════════════════════\nⴵ\nTime:\nThu, 18 Jun 2026 02:27:59 GMT\n════════════════════════\n⌗\nTags:\n#microsoft\n#infosec\n#cybersecurity\n#threat_intelligence\n#ransomware",
-        "date": "2026-06-18T04:04:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122633_0_80eeb779.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122633_1_faf8bde3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122633",
-        "link": {
-          "title": "Backdoor.Turn: DragonForce Ransomware Just Made Your Microsoft Teams Logs Useless (The Ransomware…",
-          "url": "https://medium.com/@alimansoor1298/backdoor-turn-dragonforce-ransomware-just-made-your-microsoft-teams-logs-useless-the-ransomware-91e8839583cd?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 122632,
-        "text": "⤷\nTitle:\nTryHackMe Love Letter Locker Challenge Write-up\n════════════════════════\n𐀪\nAuthor:\nBenedict\n════════════════════════\nⴵ\nTime:\nThu, 18 Jun 2026 03:50:20 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#hacking\n#tryhackme_walkthrough",
-        "date": "2026-06-18T04:04:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122632_0_80eeb779.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122632_1_c0f95da4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122632",
-        "link": {
-          "title": "TryHackMe Love Letter Locker Challenge Write-up",
-          "url": "https://bexxtrexx.medium.com/tryhackme-love-letter-locker-challenge-write-up-5508ccd9c204?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 122631,
-        "text": "⤷\nTitle:\nAuthentication Bypass via Insecure redirect_url Parameter Leading to Account Takeover\n════════════════════════\n𐀪\nAuthor:\nPriyanshu parmar\n════════════════════════\nⴵ\nTime:\nThu, 18 Jun 2026 02:30:14 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#bugbounty_writeup\n#bug_bounty\n#infosec\n#bug_bounty_tips",
-        "date": "2026-06-18T04:03:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122631_0_80eeb779.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122631",
-        "link": {
-          "title": "Authentication Bypass via Insecure redirect_url Parameter Leading to Account Takeover",
-          "url": "https://medium.com/@priyanshuuparmar/authentication-bypass-via-insecure-redirect-url-parameter-leading-to-account-takeover-8b6e8d72da5e?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 122630,
-        "text": "⤷\nTitle:\nBuilding a Practical CTI RAG Assistant: An AI-Powered Threat Intelligence Workflow\n════════════════════════\n𐀪\nAuthor:\nParitosh\n════════════════════════\nⴵ\nTime:\nThu, 18 Jun 2026 02:47:25 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#threat_intelligence\n#bug_bounty\n#ai\n#cybersecurity",
-        "date": "2026-06-18T04:03:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122630_0_80eeb779.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122630_1_254720b3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122630",
-        "link": {
-          "title": "Building a Practical CTI RAG Assistant: An AI-Powered Threat Intelligence Workflow",
-          "url": "https://medium.com/@paritoshblogs/building-a-practical-cti-rag-assistant-an-ai-powered-threat-intelligence-workflow-bfba13774507?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 122629,
-        "text": "⤷\nTitle:\nFortiBleed: 30,791 Fortinet Firewalls Compromised in Global Credential Heist\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 18 Jun 2026 02:06:34 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#FortiBleed\n#FortiGate\n#Fortinet\n#Fortinet\ncredential leak\n#Fortinet\nfirewalls compromised\n#Fortinet\nVPN breach\n#SOCRadar",
-        "date": "2026-06-18T04:03:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122629_0_80eeb779.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122629_1_e0f1934a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122629",
-        "link": {
-          "title": "FortiBleed: 30,791 Fortinet Firewalls Compromised in Global Credential Heist",
-          "url": "https://securityonline.info/fortibleed-fortinet-breach/"
-        }
-      },
-      {
-        "id": 122628,
-        "text": "⤷\nTitle:\ncyber talents Join Team web CTF write up and walkthrough\n════════════════════════\n𐀪\nAuthor:\n0xNemr\n════════════════════════\nⴵ\nTime:\nThu, 18 Jun 2026 00:30:43 GMT\n════════════════════════\n⌗\nTags:\n#ctf\n#ctf_writeup\n#penetration_testing\n#hacking\n#ctf_walkthrough",
-        "date": "2026-06-18T02:04:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122628_0_80eeb779.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122628_1_3d615fe1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122628",
-        "link": {
-          "title": "cyber talents Join Team web CTF write up and walkthrough",
-          "url": "https://medium.com/@redannemr/cyber-talents-join-team-web-ctf-write-up-and-walkthrough-aeb244ccc1d1?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 122627,
-        "text": "⤷\nTitle:\nThe Problem With Signature-Based WAFs (And How We’re Solving It Differently)\n════════════════════════\n𐀪\nAuthor:\nGladioswaf\n════════════════════════\nⴵ\nTime:\nThu, 18 Jun 2026 02:00:55 GMT\n════════════════════════\n⌗\nTags:\n#api_security\n#cybersecurity\n#web_security\n#machine_learning\n#application_security",
-        "date": "2026-06-18T02:04:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122627_0_80eeb779.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122627_1_defc24f5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122627",
-        "link": {
-          "title": "The Problem With Signature-Based WAFs (And How We’re Solving It Differently)",
-          "url": "https://medium.com/@gladioswaf/the-problem-with-signature-based-wafs-and-how-were-solving-it-differently-f61cf44c078b?source=rss------application_security-5"
-        }
-      },
-      {
-        "id": 122626,
-        "text": "⤷\nTitle:\n2FA Bypass: The Complete Guide to Breaking Two-Factor Authentication (And How to Fix It)\n════════════════════════\n𐀪\nAuthor:\nYamini Yadav_369\n════════════════════════\nⴵ\nTime:\nWed, 17 Jun 2026 23:59:08 GMT\n════════════════════════\n⌗\nTags:\n#medium\n#bug_bounty\n#cybersecurity\n#pentesting\n#ethical_hacking",
-        "date": "2026-06-18T02:04:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122626_0_80eeb779.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122626_1_92001fd6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122626",
-        "link": {
-          "title": "2FA Bypass: The Complete Guide to Breaking Two-Factor Authentication (And How to Fix It)",
-          "url": "https://osintteam.blog/2fa-bypass-the-complete-guide-to-breaking-two-factor-authentication-and-how-to-fix-it-db1947865fe9?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 122625,
-        "text": "⤷\nTitle:\nI Found a Bug That Looks Harmless But Can Still Get You Paid\n════════════════════════\n𐀪\nAuthor:\nYamini Yadav_369\n════════════════════════\nⴵ\nTime:\nThu, 18 Jun 2026 00:03:53 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ethical_hacking\n#html\n#medium\n#bug_bounty",
-        "date": "2026-06-18T02:04:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122625_0_80eeb779.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122625_1_f54a2cad.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122625",
-        "link": {
-          "title": "I Found a Bug That Looks Harmless But Can Still Get You Paid",
-          "url": "https://osintteam.blog/i-found-a-bug-that-looks-harmless-but-can-still-get-you-paid-266eb632e1af?source=rss------bug_bounty-5"
-        }
       }
     ]
   },
-  "last_update": "2026-06-19T00:10:20.346470+00:00",
+  "last_update": "2026-06-19T05:32:17.014475+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
     "total_media": 192,
     "total_files": 192,
-    "total_links": 1,
+    "total_links": 0,
     "files_by_type": {
       "image": 192
     },
     "referenced_files": 192,
     "existing_media_files": 192,
-    "total_size_mb": 5.37,
-    "last_calculation": "2026-06-19T00:10:20.348785+00:00"
+    "total_size_mb": 5.14,
+    "last_calculation": "2026-06-19T05:32:17.016258+00:00"
   }
 }
