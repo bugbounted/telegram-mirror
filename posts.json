@@ -2,6 +2,301 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 122933,
+        "text": "⤷\nTitle:\nPortSwigger SQLi Lab 2:\n════════════════════════\n𐀪\nAuthor:\ndeku\n════════════════════════\nⴵ\nTime:\nSat, 20 Jun 2026 10:05:00 GMT\n════════════════════════\n⌗\nTags:\n#portswigger\n#portswigger_lab\n#web_security\n#sql_injection\n#cybersecurity",
+        "date": "2026-06-20T12:04:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122933_0_27873a12.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122933_1_590107e9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122933",
+        "link": {
+          "title": "PortSwigger SQLi Lab 2:",
+          "url": "https://medium.com/@dekuu/portswigger-sqli-lab-2-37dfa4856d50?source=rss------sql_injection-5"
+        }
+      },
+      {
+        "id": 122932,
+        "text": "⤷\nTitle:\nExploiting the Event Listener: My Sixth XSS Lab on PortSwigger\n════════════════════════\n𐀪\nAuthor:\nDiya\n════════════════════════\nⴵ\nTime:\nSat, 20 Jun 2026 11:14:22 GMT\n════════════════════════\n⌗\nTags:\n#xss_vulnerability\n#portswigger\n#cybersecurity\n#web_security",
+        "date": "2026-06-20T12:04:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122932_0_27873a12.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122932_1_65ee0d83.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122932",
+        "link": {
+          "title": "Exploiting the Event Listener: My Sixth XSS Lab on PortSwigger",
+          "url": "https://medium.com/@mahdiyaa87/exploiting-the-event-listener-my-sixth-xss-lab-on-portswigger-8abbc7952fa7?source=rss------xss_vulnerability-5"
+        }
+      },
+      {
+        "id": 122931,
+        "text": "⤷\nTitle:\nBulk Deleting Tweets Should Start With a Preview\n════════════════════════\n𐀪\nAuthor:\nmmn\n════════════════════════\nⴵ\nTime:\nSat, 20 Jun 2026 10:02:39 GMT\n════════════════════════\n⌗\nTags:\n#xs\n#data_cleanup\n#saas\n#privacy\n#twitter",
+        "date": "2026-06-20T12:04:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122931_0_27873a12.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122931_1_e63a971c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122931",
+        "link": {
+          "title": "Bulk Deleting Tweets Should Start With a Preview",
+          "url": "https://martin-nie.medium.com/bulk-deleting-tweets-should-start-with-a-preview-68d3e77fce3f?source=rss------xss-5"
+        }
+      },
+      {
+        "id": 122930,
+        "text": "⤷\nTitle:\nHow Missing Layered Validation Causes Real Security Incidents in Backend APIs\n════════════════════════\n𐀪\nAuthor:\nMohamed Gebril\n════════════════════════\nⴵ\nTime:\nSat, 20 Jun 2026 11:57:16 GMT\n════════════════════════\n⌗\nTags:\n#web_security\n#backend_development\n#api_security\n#cybersecurity\n#software_engineering",
+        "date": "2026-06-20T12:04:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122930_0_27873a12.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122930_1_5c1cd3df.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122930",
+        "link": {
+          "title": "How Missing Layered Validation Causes Real Security Incidents in Backend APIs",
+          "url": "https://medium.com/@moh.ahmed.gebril/how-missing-layered-validation-causes-real-security-incidents-in-backend-apis-06275eee929a?source=rss------api_security-5"
+        }
+      },
+      {
+        "id": 122929,
+        "text": "⤷\nTitle:\nWhat I Learned While Hunting for Rogue Wireless Devices in a Corporate Environment\n════════════════════════\n𐀪\nAuthor:\nMichael Preston\n════════════════════════\nⴵ\nTime:\nSat, 20 Jun 2026 10:48:50 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ethical_hacking\n#sdr\n#automation\n#wireless",
+        "date": "2026-06-20T12:04:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122929_0_27873a12.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122929_1_4ab3ae32.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122929",
+        "link": {
+          "title": "What I Learned While Hunting for Rogue Wireless Devices in a Corporate Environment",
+          "url": "https://radiohackers.com/what-i-learned-while-hunting-for-rogue-wireless-devices-in-a-corporate-environment-2c4858820a08?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 122928,
+        "text": "⤷\nTitle:\nHow to Test Web Applications Using Burp Suite: A Practical Login API Security Testing Guide (Spring…\n════════════════════════\n𐀪\nAuthor:\nAhmed Yousef\n════════════════════════\nⴵ\nTime:\nSat, 20 Jun 2026 10:45:41 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#burpsuite\n#api_security\n#web_security\n#spring_boot",
+        "date": "2026-06-20T12:04:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122928_0_27873a12.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122928_1_5df2c2d5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122928",
+        "link": {
+          "title": "How to Test Web Applications Using Burp Suite: A Practical Login API Security Testing Guide (Spring…",
+          "url": "https://medium.com/@ahmed93a14/how-to-test-web-applications-using-burp-suite-a-practical-login-api-security-testing-guide-spring-7c1d2bc75856?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 122927,
+        "text": "⤷\nTitle:\nScanning: The Second Stage of Penetration Testing — Turning Information into Opportunities\n════════════════════════\n𐀪\nAuthor:\nAriel404\n════════════════════════\nⴵ\nTime:\nSat, 20 Jun 2026 11:04:15 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#vulnerability_scanning\n#cybersecurity\n#web_penetration_testing\n#ethical_hacking",
+        "date": "2026-06-20T12:04:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122927_0_27873a12.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122927_1_8defdaf1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122927",
+        "link": {
+          "title": "Scanning: The Second Stage of Penetration Testing — Turning Information into Opportunities",
+          "url": "https://medium.com/@ar1el404/scanning-the-second-stage-of-penetration-testing-turning-information-into-opportunities-a7fb4cf41500?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 122926,
+        "text": "⤷\nTitle:\nMacSync Stealer: New ClickFix Malware Campaign Targets Apple Users and Crypto Wallets\n════════════════════════\n𐀪\nAuthor:\nThreatWatch360\n════════════════════════\nⴵ\nTime:\nSat, 20 Jun 2026 11:07:55 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#darkweb\n#cybersecurity\n#malware\n#threat_intelligence",
+        "date": "2026-06-20T12:04:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122926_0_27873a12.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122926_1_698bc3c2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122926",
+        "link": {
+          "title": "MacSync Stealer: New ClickFix Malware Campaign Targets Apple Users and Crypto Wallets",
+          "url": "https://threatwatch360.medium.com/macsync-stealer-new-clickfix-malware-campaign-targets-apple-users-and-crypto-wallets-5613538717ea?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 122925,
+        "text": "⤷\nTitle:\nInside Pepe Club: The Growing Marketplace for Stolen Payment Cards and Fullz Records\n════════════════════════\n𐀪\nAuthor:\nThreatWatch360\n════════════════════════\nⴵ\nTime:\nSat, 20 Jun 2026 11:09:50 GMT\n════════════════════════\n⌗\nTags:\n#darkweb\n#threat_intelligence\n#credit_card_fraud\n#infosec\n#carding_forums",
+        "date": "2026-06-20T12:04:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122925_0_27873a12.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122925_1_99e19a3a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122925",
+        "link": {
+          "title": "Inside Pepe Club: The Growing Marketplace for Stolen Payment Cards and Fullz Records",
+          "url": "https://threatwatch360.medium.com/inside-pepe-club-the-growing-marketplace-for-stolen-payment-cards-and-fullz-records-f1698fe0ae22?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 122924,
+        "text": "⤷\nTitle:\nAPI Hacking 101 — Where the Money Is in 2026\n════════════════════════\n𐀪\nAuthor:\nNitin yadav\n════════════════════════\nⴵ\nTime:\nSat, 20 Jun 2026 11:31:00 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#bug_bounty_writeup\n#api\n#ethical_hacking\n#tech",
+        "date": "2026-06-20T12:04:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122924_0_27873a12.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122924_1_83473f95.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122924",
+        "link": {
+          "title": "API Hacking 101 — Where the Money Is in 2026",
+          "url": "https://kd-200.medium.com/api-hacking-101-where-the-money-is-in-2026-eb03ef331c14?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 122923,
+        "text": "⤷\nTitle:\nOWASP Top 10:2025 Explained — The Most Critical Web Application Security Risks Every Beginner…\n════════════════════════\n𐀪\nAuthor:\nDhruvish Rathod\n════════════════════════\nⴵ\nTime:\nSat, 20 Jun 2026 11:43:04 GMT\n════════════════════════\n⌗\nTags:\n#web_security\n#cybersecurity\n#owasp\n#application_security\n#information_security",
+        "date": "2026-06-20T12:03:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122923_0_27873a12.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122923_1_88f63161.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122923",
+        "link": {
+          "title": "OWASP Top 10:2025 Explained — The Most Critical Web Application Security Risks Every Beginner…",
+          "url": "https://dhruvishrathod.medium.com/owasp-top-10-2025-explained-the-most-critical-web-application-security-risks-every-beginner-f858d93f0ff0?source=rss------application_security-5"
+        }
+      },
+      {
+        "id": 122922,
+        "text": "⤷\nTitle:\nEveryone Is Automating Bug Bounty Recon in 2026. Almost Nobody Is Finding More Bugs Because of It\n════════════════════════\n𐀪\nAuthor:\nR.H Rizvi\n════════════════════════\nⴵ\nTime:\nSat, 20 Jun 2026 11:25:17 GMT\n════════════════════════\n⌗\nTags:\n#technology\n#hacking\n#bug_bounty\n#programming\n#cybersecurity",
+        "date": "2026-06-20T12:03:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122922_0_27873a12.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122922_1_5c52b285.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122922",
+        "link": {
+          "title": "Everyone Is Automating Bug Bounty Recon in 2026. Almost Nobody Is Finding More Bugs Because of It",
+          "url": "https://medium.com/@R.H_Rizvi/everyone-is-automating-bug-bounty-recon-in-2026-almost-nobody-is-finding-more-bugs-because-of-it-e1d07d18cb5b?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 122921,
+        "text": "⤷\nTitle:\nHackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nSat, 20 Jun 2026 15:26:04 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-06-20T12:03:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122921_0_27873a12.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122921",
+        "link": {
+          "title": "Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys",
+          "url": "https://thehackernews.com/2026/06/hackers-exploit-gravity-smtp-wordpress.html"
+        }
+      },
+      {
         "id": 122920,
         "text": "⤷\nTitle:\nAuthentication Bypass via Information Disclosure in HTTP Headers\n════════════════════════\n𐀪\nAuthor:\nMuhammed Asfan | Cybersecurity Researcher\n════════════════════════\nⴵ\nTime:\nSat, 20 Jun 2026 09:04:39 GMT\n════════════════════════\n⌗\nTags:\n#authentication\n#bypass\n#bug_bounty_tips\n#cybersecurity\n#bugbounty_writeup",
         "date": "2026-06-20T10:04:32+00:00",
@@ -1979,305 +2274,10 @@
           "title": "DAV — TryHackMe WriteUp with Flags",
           "url": "https://medium.com/@rayenhafsawy/dav-tryhackme-writeup-with-flags-5423b7ea1b8e?source=rss------tryhackme-5"
         }
-      },
-      {
-        "id": 122833,
-        "text": "⤷\nTitle:\nI Built an Isolated Hacking Lab to Learn Device Fingerprinting — and Learned More From the Mistakes\n════════════════════════\n𐀪\nAuthor:\nBryant Himmage\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 13:32:43 GMT\n════════════════════════\n⌗\nTags:\n#networking\n#cybersecurity\n#homelab\n#penetration_testing\n#linux",
-        "date": "2026-06-19T14:04:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122833_0_71e08184.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122833_1_27d3d6b9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122833",
-        "link": {
-          "title": "I Built an Isolated Hacking Lab to Learn Device Fingerprinting — and Learned More From the Mistakes",
-          "url": "https://medium.com/@nonducorduco311/i-built-an-isolated-hacking-lab-to-learn-device-fingerprinting-and-learned-more-from-the-mistakes-7d0e55e9405e?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 122832,
-        "text": "⤷\nTitle:\nBecome a First Responder — part 1\n════════════════════════\n𐀪\nAuthor:\nExploitHunter\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 12:53:27 GMT\n════════════════════════\n⌗\nTags:\n#web_development\n#cyber_security_awareness\n#ethical_hacking\n#cybersecurity\n#infosec",
-        "date": "2026-06-19T14:04:22+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122832_0_71e08184.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122832_1_45b27dd8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122832",
-        "link": {
-          "title": "Become a First Responder — part 1",
-          "url": "https://medium.com/@vorasmit22/become-a-first-responder-part-1-c3ef9d450199?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 122831,
-        "text": "⤷\nTitle:\nYour Antivirus Is Now the Attack Vector: The RoguePlanet Zero-Day Nobody Is Talking About\n════════════════════════\n𐀪\nAuthor:\nNikhi Chavan\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 12:44:25 GMT\n════════════════════════\n⌗\nTags:\n#zero_day\n#cybersecurity\n#windows\n#hacking\n#infosec",
-        "date": "2026-06-19T14:04:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122831_0_71e08184.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122831_1_5405746e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122831",
-        "link": {
-          "title": "Your Antivirus Is Now the Attack Vector: The RoguePlanet Zero-Day Nobody Is Talking About",
-          "url": "https://nikhilchavanresearch.medium.com/your-antivirus-is-now-the-attack-vector-the-rogueplanet-zero-day-nobody-is-talking-about-60e1bc6c5a76?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 122822,
-        "text": "⤷\nTitle:\nA Deep-Dive Into Hunting Prototype Pollution on Hashnode Live\n════════════════════════\n𐀪\nAuthor:\nMD Mehedi Hasan\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 10:21:49 GMT\n════════════════════════\n⌗\nTags:\n#hashcode\n#nodejsecurity\n#javascript_security\n#prototype_pollution\n#penetration_testing",
-        "date": "2026-06-19T12:04:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122822_0_71e08184.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122822_1_150db29a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122822",
-        "link": {
-          "title": "A Deep-Dive Into Hunting Prototype Pollution on Hashnode Live",
-          "url": "https://infosecwriteups.com/a-deep-dive-into-hunting-prototype-pollution-on-hashnode-live-7e50c0ed0632?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 122821,
-        "text": "⤷\nTitle:\nRootMe CTF-File Upload, Reverse Shell & SUID Python Privilege Escalation (TryHackMe Walkthrough)\n════════════════════════\n𐀪\nAuthor:\nHammad Khan | SOC & Pentesting\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 11:30:04 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#tryhackme\n#linux\n#ethical_hacking\n#penetration_testing",
-        "date": "2026-06-19T12:04:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122821_0_71e08184.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122821_1_4eaaa601.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122821",
-        "link": {
-          "title": "RootMe CTF-File Upload, Reverse Shell & SUID Python Privilege Escalation (TryHackMe Walkthrough)",
-          "url": "https://medium.com/@hammad.k.sec/rootme-ctf-file-upload-reverse-shell-suid-python-privilege-escalation-tryhackme-walkthrough-3f5646e0d97d?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 122820,
-        "text": "⤷\nTitle:\nThe Untold Story Behind Kali Linux\n════════════════════════\n𐀪\nAuthor:\nTechrefreshing\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 11:38:50 GMT\n════════════════════════\n⌗\nTags:\n#kali_linux\n#penetration_testing\n#linux_security\n#cybersecurity\n#ethical_hacking",
-        "date": "2026-06-19T12:04:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122820_0_71e08184.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122820_1_d0c40f06.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122820",
-        "link": {
-          "title": "The Untold Story Behind Kali Linux",
-          "url": "https://medium.com/@techrefreshing02/the-untold-story-behind-kali-linux-99fb9b29d300?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 122819,
-        "text": "⤷\nTitle:\nOWASP Top 10 2025: Insecure Data Handling\n════════════════════════\n𐀪\nAuthor:\nExploitHunter\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 10:46:44 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#web_development\n#infosec\n#ethical_hacking\n#cyber_security_awareness",
-        "date": "2026-06-19T12:04:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122819_0_71e08184.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122819_1_4b9cf302.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122819",
-        "link": {
-          "title": "OWASP Top 10 2025: Insecure Data Handling",
-          "url": "https://medium.com/@vorasmit22/owasp-top-10-2025-insecure-data-handling-596cbee6f92f?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 122818,
-        "text": "⤷\nTitle:\nHunting for Module Stomping Targets\n════════════════════════\n𐀪\nAuthor:\nTom O'Neill\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 11:42:53 GMT\n════════════════════════\n⌗\nTags:\n#red_team\n#malware\n#hacking\n#cybersecurity\n#windows_internals",
-        "date": "2026-06-19T12:04:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122818_0_71e08184.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122818_1_d91bc4fb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122818",
-        "link": {
-          "title": "Hunting for Module Stomping Targets",
-          "url": "https://medium.com/@toneillcodes/hunting-for-module-stomping-targets-1e9b8bb09766?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 122817,
-        "text": "⤷\nTitle:\nBusiness Logic Flaws — Bugs No Scanner Can Find\n════════════════════════\n𐀪\nAuthor:\nNitin yadav\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 11:31:00 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#infosec\n#technology\n#hacker\n#bug_bounty",
-        "date": "2026-06-19T12:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122817_0_71e08184.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122817_1_abbf348b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122817",
-        "link": {
-          "title": "Business Logic Flaws — Bugs No Scanner Can Find",
-          "url": "https://kd-200.medium.com/business-logic-flaws-bugs-no-scanner-can-find-1372c2584e71?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 122816,
-        "text": "⤷\nTitle:\n“Bug Bounty Bootcamp #48: OAuth + XSS ”\n════════════════════════\n𐀪\nAuthor:\nAman Sharma\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 11:01:21 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#technology\n#bug_bounty\n#cybersecurity\n#hacking",
-        "date": "2026-06-19T12:03:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122816_0_71e08184.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122816_1_64bc14e8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122816",
-        "link": {
-          "title": "“Bug Bounty Bootcamp #48: OAuth + XSS ”",
-          "url": "https://infosecwriteups.com/bug-bounty-bootcamp-48-oauth-xss-04246084a403?source=rss----7b722bfd1b8d--bug_bounty"
-        }
-      },
-      {
-        "id": 122815,
-        "text": "⤷\nTitle:\nBreaking Down Two Simple Vulnerabilities That Exposed A School’s Admission Records\n════════════════════════\n𐀪\nAuthor:\nAvyukt Security\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 11:03:40 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#ethical_hacking\n#bug_hunting\n#bug_bounty_writeup\n#cybersecurity",
-        "date": "2026-06-19T12:03:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122815_0_71e08184.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122815_1_64d27cea.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122815",
-        "link": {
-          "title": "Breaking Down Two Simple Vulnerabilities That Exposed A School’s Admission Records",
-          "url": "https://infosecwriteups.com/breaking-down-two-simple-vulnerabilities-that-exposed-a-schools-admission-records-040bd636a7f3?source=rss----7b722bfd1b8d--bug_bounty"
-        }
-      },
-      {
-        "id": 122814,
-        "text": "⤷\nTitle:\nForget Data Leakage: Shadow AI's Real Threat Is Access Control\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 16:00:00 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-06-19T12:03:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122814_0_71e08184.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122814",
-        "link": {
-          "title": "Forget Data Leakage: Shadow AI's Real Threat Is Access Control",
-          "url": "https://thehackernews.com/2026/06/forget-data-leakage-shadow-ais-real.html"
-        }
-      },
-      {
-        "id": 122813,
-        "text": "⤷\nTitle:\nMITRE ATT&CK Initial Access: Understanding How Attackers Gain Entry into Enterprise Networks\n════════════════════════\n𐀪\nAuthor:\nShalu\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 09:20:10 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#blue_team\n#mitre_attack\n#ethical_hacking\n#threat_hunting",
-        "date": "2026-06-19T10:04:35+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122813_0_71e08184.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122813_1_ebb3e450.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122813",
-        "link": {
-          "title": "MITRE ATT&CK Initial Access: Understanding How Attackers Gain Entry into Enterprise Networks",
-          "url": "https://medium.com/@shalu023/mitre-att-ck-initial-access-understanding-how-attackers-gain-entry-into-enterprise-networks-385c3de25482?source=rss------ethical_hacking-5"
-        }
       }
     ]
   },
-  "last_update": "2026-06-20T11:51:33.309644+00:00",
+  "last_update": "2026-06-20T13:22:32.141523+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2289,7 +2289,7 @@
     },
     "referenced_files": 193,
     "existing_media_files": 193,
-    "total_size_mb": 5.63,
-    "last_calculation": "2026-06-20T11:51:33.311986+00:00"
+    "total_size_mb": 5.42,
+    "last_calculation": "2026-06-20T13:22:32.143800+00:00"
   }
 }
