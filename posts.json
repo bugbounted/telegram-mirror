@@ -2,6 +2,121 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 122985,
+        "text": "⤷\nTitle:\nPrivilege Escalation via Writable Bash Script Executed by Root Cron Job\n════════════════════════\n𐀪\nAuthor:\nKiptryin\n════════════════════════\nⴵ\nTime:\nSat, 20 Jun 2026 20:32:51 GMT\n════════════════════════\n⌗\nTags:\n#linux\n#ethical_hacking\n#cybersecurity\n#information_security",
+        "date": "2026-06-20T22:04:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122985_0_cff589ed.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122985_1_fbdf100e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122985",
+        "link": {
+          "title": "Privilege Escalation via Writable Bash Script Executed by Root Cron Job",
+          "url": "https://medium.com/@kiptryin/privilege-escalation-via-writable-bash-script-executed-by-root-cron-job-e2d607052d16?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 122984,
+        "text": "⤷\nTitle:\nCheckpoint | AI Supply Chain Security | TryHackMe\n════════════════════════\n𐀪\nAuthor:\nJose Praveen\n════════════════════════\nⴵ\nTime:\nSat, 20 Jun 2026 21:01:00 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_walkthrough\n#tryhackme\n#ai_security_risks\n#large_language_models\n#ai_security",
+        "date": "2026-06-20T22:04:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122984_0_cff589ed.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122984_1_91e566a9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122984",
+        "link": {
+          "title": "Checkpoint | AI Supply Chain Security | TryHackMe",
+          "url": "https://josepraveen.medium.com/checkpoint-ai-supply-chain-security-tryhackme-4912e0751a95?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 122983,
+        "text": "⤷\nTitle:\nHow a Broken Instagram Link Led to a Social Media Account Takeover Risk\n════════════════════════\n𐀪\nAuthor:\nSahal\n════════════════════════\nⴵ\nTime:\nSat, 20 Jun 2026 20:56:51 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#broken_link_hijacking\n#bug_hunting\n#penetration_testing",
+        "date": "2026-06-20T22:04:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122983_0_cff589ed.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122983_1_c61c205b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122983",
+        "link": {
+          "title": "How a Broken Instagram Link Led to a Social Media Account Takeover Risk",
+          "url": "https://medium.com/@Sahal07/how-a-broken-instagram-link-led-to-a-social-media-account-takeover-risk-d77f2dea8b72?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 122982,
+        "text": "⤷\nTitle:\nI Tested a Login Form and Accidentally Found Remote Code Execution\n════════════════════════\n𐀪\nAuthor:\nAbdelrhmanelmoghazy\n════════════════════════\nⴵ\nTime:\nSat, 20 Jun 2026 20:32:56 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#bug_bounty_writeup\n#ethical_hacking\n#bug_bounty",
+        "date": "2026-06-20T22:04:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122982_0_cff589ed.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122982_1_0928cc12.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122982",
+        "link": {
+          "title": "I Tested a Login Form and Accidentally Found Remote Code Execution",
+          "url": "https://medium.com/@abdelrhmanelmoghazy1/i-tested-a-login-form-and-accidentally-found-remote-code-execution-069f861f59dc?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 122981,
+        "text": "⤷\nTitle:\nFrom a Simple Input Field to Stored XSS — A Realistic Bug Bounty Journey\n════════════════════════\n𐀪\nAuthor:\nAnkitsingh\n════════════════════════\nⴵ\nTime:\nSat, 20 Jun 2026 20:35:12 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_writeup\n#penetration_testing\n#cybersecurity\n#bug_bounty_tips\n#bug_bounty",
+        "date": "2026-06-20T22:04:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122981_0_cff589ed.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122981_1_2b4922d0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122981",
+        "link": {
+          "title": "From a Simple Input Field to Stored XSS — A Realistic Bug Bounty Journey",
+          "url": "https://medium.com/@ankitsingh787478/from-a-simple-input-field-to-stored-xss-a-realistic-bug-bounty-journey-a69e428e84ad?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 122980,
         "text": "⤷\nTitle:\nHow I Discovered a High-Severity IDOR on an E-Commerce Platform\n════════════════════════\n𐀪\nAuthor:\nKanishkdadhich\n════════════════════════\nⴵ\nTime:\nSat, 20 Jun 2026 18:51:49 GMT\n════════════════════════\n⌗\nTags:\n#broken_access_control\n#ecommerce_website_testing\n#idor_vulnerability\n#bug_bounty_tips\n#bug_bounty_writeup",
         "date": "2026-06-20T20:04:33+00:00",
@@ -2165,125 +2280,10 @@
           "title": "API Fuzzing for Bug Bounty — Part 2b: Injection, Bypasses & Output Exploitation",
           "url": "https://osintteam.blog/api-fuzzing-for-bug-bounty-part-2b-injection-bypasses-output-exploitation-facf1052e6d9?source=rss------bug_bounty-5"
         }
-      },
-      {
-        "id": 122885,
-        "text": "⤷\nTitle:\nGlassWASM Malware Hidden in Open VSX Extensions\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nSat, 20 Jun 2026 01:00:30 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#GlassWASM\n#GlassWorm\n#Open\nVSX\n#Solana\nC2\n#supply\nchain attack\n#TinyGo\n#VS\nCode Extensions\n#WebAssembly\nmalware",
-        "date": "2026-06-20T02:03:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122885_0_27873a12.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122885_1_ea544933.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122885",
-        "link": {
-          "title": "GlassWASM Malware Hidden in Open VSX Extensions",
-          "url": "https://securityonline.info/glasswasm-malware-open-vsx-extensions/"
-        }
-      },
-      {
-        "id": 122884,
-        "text": "⤷\nTitle:\nDevice Code Phishing: Microsoft 365 Attack That Steals No Passwords\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nSat, 20 Jun 2026 01:34:31 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#Account\nTakeover\n#Device\nAuthorization Grant\n#Device\nCode Phishing\n#Microsoft\n365\n#OAuth\n#phishing\n#ReversingLabs",
-        "date": "2026-06-20T02:03:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122884_0_27873a12.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122884_1_d7bf464b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122884",
-        "link": {
-          "title": "Device Code Phishing: Microsoft 365 Attack That Steals No Passwords",
-          "url": "https://securityonline.info/device-code-phishing/"
-        }
-      },
-      {
-        "id": 122883,
-        "text": "⤷\nTitle:\nHow I Found CVE-2026–50131: An Incomplete SSRF Fix in Fedify\n════════════════════════\n𐀪\nAuthor:\nChaitanya Garware\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 22:47:46 GMT\n════════════════════════\n⌗\nTags:\n#ssrf\n#cve\n#cybersecurity\n#open_source_security\n#vulnerability",
-        "date": "2026-06-20T00:04:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122883_0_27873a12.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122883_1_db777372.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122883",
-        "link": {
-          "title": "How I Found CVE-2026–50131: An Incomplete SSRF Fix in Fedify",
-          "url": "https://chaitanyagarware.medium.com/how-i-found-cve-2026-50131-an-incomplete-ssrf-fix-in-fedify-6254ea746938?source=rss------ssrf-5"
-        }
-      },
-      {
-        "id": 122882,
-        "text": "⤷\nTitle:\nWhy Proxy Settings Don’t Work in Flutter Apps\n════════════════════════\n𐀪\nAuthor:\neverythingBlackkk\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 22:53:34 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#ios\n#android\n#cybersecurity\n#flutter",
-        "date": "2026-06-20T00:03:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122882_0_27873a12.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122882_1_35915cf8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122882",
-        "link": {
-          "title": "Why Proxy Settings Don’t Work in Flutter Apps",
-          "url": "https://medium.com/@everythingBlackkk/why-proxy-settings-dont-work-in-flutter-apps-8ffe557ecf56?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 122881,
-        "text": "⤷\nTitle:\nHow to Delete X Posts Without Deleting Your Account\n════════════════════════\n𐀪\nAuthor:\nmmn\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 21:29:23 GMT\n════════════════════════\n⌗\nTags:\n#xs\n#twitter\n#privacy",
-        "date": "2026-06-19T22:04:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122881_0_27873a12.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122881_1_a1fbefa2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122881",
-        "link": {
-          "title": "How to Delete X Posts Without Deleting Your Account",
-          "url": "https://martin-nie.medium.com/how-to-delete-x-posts-without-deleting-your-account-76e91c228187?source=rss------xss-5"
-        }
       }
     ]
   },
-  "last_update": "2026-06-20T21:45:56.547934+00:00",
+  "last_update": "2026-06-20T22:57:22.704620+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2295,7 +2295,7 @@
     },
     "referenced_files": 195,
     "existing_media_files": 195,
-    "total_size_mb": 5.9,
-    "last_calculation": "2026-06-20T21:45:56.550330+00:00"
+    "total_size_mb": 5.81,
+    "last_calculation": "2026-06-20T22:57:22.706988+00:00"
   }
 }
