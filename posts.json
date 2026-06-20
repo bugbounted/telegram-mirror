@@ -2,6 +2,328 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 122920,
+        "text": "⤷\nTitle:\nAuthentication Bypass via Information Disclosure in HTTP Headers\n════════════════════════\n𐀪\nAuthor:\nMuhammed Asfan | Cybersecurity Researcher\n════════════════════════\nⴵ\nTime:\nSat, 20 Jun 2026 09:04:39 GMT\n════════════════════════\n⌗\nTags:\n#authentication\n#bypass\n#bug_bounty_tips\n#cybersecurity\n#bugbounty_writeup",
+        "date": "2026-06-20T10:04:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122920_0_27873a12.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122920_1_4181136f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122920",
+        "link": {
+          "title": "Authentication Bypass via Information Disclosure in HTTP Headers",
+          "url": "https://medium.com/@MuhammedAsfan/authentication-bypass-via-information-disclosure-in-http-headers-f6b2ce283e4c?source=rss------bugbounty_writeup-5"
+        }
+      },
+      {
+        "id": 122919,
+        "text": "⤷\nTitle:\nPortSwigger SQLi Lab 1:\n════════════════════════\n𐀪\nAuthor:\ndeku\n════════════════════════\nⴵ\nTime:\nSat, 20 Jun 2026 08:41:31 GMT\n════════════════════════\n⌗\nTags:\n#sql_injection\n#cybersecurity\n#exploitation\n#portswigger_lab\n#portswigger",
+        "date": "2026-06-20T10:04:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122919_0_27873a12.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122919_1_f2d7b5f6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122919",
+        "link": {
+          "title": "PortSwigger SQLi Lab 1:",
+          "url": "https://medium.com/@amine.marzak13/portswigger-sqli-lab-1-a422fffe58cf?source=rss------sql_injection-5"
+        }
+      },
+      {
+        "id": 122918,
+        "text": "⤷\nTitle:\nAPI Security in 2026: The Biggest Risk Most Companies Still Ignore\n════════════════════════\n𐀪\nAuthor:\nNiverro Technologies\n════════════════════════\nⴵ\nTime:\nSat, 20 Jun 2026 08:49:37 GMT\n════════════════════════\n⌗\nTags:\n#api_security\n#cloud_computing\n#devops\n#software_engineering\n#cybersecurity",
+        "date": "2026-06-20T10:04:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122918_0_27873a12.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122918_1_03e9e92b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122918",
+        "link": {
+          "title": "API Security in 2026: The Biggest Risk Most Companies Still Ignore",
+          "url": "https://medium.com/asecuritysite-when-bob-met-alice/api-security-in-2026-the-biggest-risk-most-companies-still-ignore-95765c217a2b?source=rss------api_security-5"
+        }
+      },
+      {
+        "id": 122917,
+        "text": "⤷\nTitle:\nRed Hat Summer Sale: Save Big on RHCE, RHCSA, and OpenShift\n════════════════════════\n𐀪\nAuthor:\ncybersecuritycourse\n════════════════════════\nⴵ\nTime:\nSat, 20 Jun 2026 08:04:27 GMT\n════════════════════════\n⌗\nTags:\n#ai\n#red_hat_sale\n#ethical_hacking\n#red_hat\n#cybersecurity",
+        "date": "2026-06-20T10:04:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122917_0_27873a12.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122917_1_7c2fd6f0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122917",
+        "link": {
+          "title": "Red Hat Summer Sale: Save Big on RHCE, RHCSA, and OpenShift",
+          "url": "https://medium.com/@cybersecuritycourse/red-hat-summer-sale-save-big-on-rhce-rhcsa-and-openshift-3987945736e4?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 122916,
+        "text": "⤷\nTitle:\n7 Signs a Linux Server Is About to Have a Bad Day\n════════════════════════\n𐀪\nAuthor:\nFateyaly\n════════════════════════\nⴵ\nTime:\nSat, 20 Jun 2026 08:10:53 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#cybersecurity\n#programming\n#technology\n#coding",
+        "date": "2026-06-20T10:04:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122916_0_27873a12.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122916_1_7de168db.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122916",
+        "link": {
+          "title": "7 Signs a Linux Server Is About to Have a Bad Day",
+          "url": "https://systemweakness.com/7-signs-a-linux-server-is-about-to-have-a-bad-day-f35b6f234fc3?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 122915,
+        "text": "⤷\nTitle:\nKerberos — The Three Headed Dog and How to Kill it?\n════════════════════════\n𐀪\nAuthor:\nMainul Hasan\n════════════════════════\nⴵ\nTime:\nSat, 20 Jun 2026 08:22:12 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#red_team\n#kerberos\n#active_directory\n#kerberoasting",
+        "date": "2026-06-20T10:04:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122915_0_27873a12.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122915_1_22ecfa8d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122915",
+        "link": {
+          "title": "Kerberos — The Three Headed Dog and How to Kill it?",
+          "url": "https://iammainul.medium.com/kerberos-the-three-headed-dog-and-how-to-kill-it-f84af71f76af?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 122914,
+        "text": "⤷\nTitle:\nOverTheWire Bandit: Level 0 → Level 1 Walkthrough (2026 Guide)\n════════════════════════\n𐀪\nAuthor:\nCyber-30\n════════════════════════\nⴵ\nTime:\nSat, 20 Jun 2026 09:36:49 GMT\n════════════════════════\n⌗\nTags:\n#overthewire\n#ssh\n#ethical_hacking\n#cybersecurity\n#linux",
+        "date": "2026-06-20T10:04:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122914_0_27873a12.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122914_1_8e2651f4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122914",
+        "link": {
+          "title": "OverTheWire Bandit: Level 0 → Level 1 Walkthrough (2026 Guide)",
+          "url": "https://medium.com/@writer.blog03/overthewire-bandit-level-0-level-1-walkthrough-2026-guide-3ecfbf4b6e9d?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 122913,
+        "text": "⤷\nTitle:\nOperation Coldstart TryHackMe CTF Walkthrough\n════════════════════════\n𐀪\nAuthor:\nC09N1T1V3\n════════════════════════\nⴵ\nTime:\nSat, 20 Jun 2026 08:38:23 GMT\n════════════════════════\n⌗\nTags:\n#ctf\n#penetration_testing\n#tryhackme_walkthrough\n#cybersecurity\n#tryhackme",
+        "date": "2026-06-20T10:04:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122913_0_27873a12.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122913_1_6c73f8e7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122913",
+        "link": {
+          "title": "Operation Coldstart TryHackMe CTF Walkthrough",
+          "url": "https://medium.com/@C09N1T1V3/operation-coldstart-tryhackme-ctf-walkthrough-7f6290fc1b80?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 122912,
+        "text": "⤷\nTitle:\neCPPT: Lateral Movement & Pivoting CTF — The “Stop Overthinking It” Run\n════════════════════════\n𐀪\nAuthor:\nCym4g3\n════════════════════════\nⴵ\nTime:\nSat, 20 Jun 2026 09:01:02 GMT\n════════════════════════\n⌗\nTags:\n#pentesting\n#ecpptv3\n#penetration_testing\n#cybersecurity\n#ine",
+        "date": "2026-06-20T10:04:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122912_0_27873a12.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122912_1_850a2255.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122912",
+        "link": {
+          "title": "eCPPT: Lateral Movement & Pivoting CTF — The “Stop Overthinking It” Run",
+          "url": "https://medium.com/@cym4g3/ecppt-lateral-movement-pivoting-ctf-the-stop-overthinking-it-run-74c70f3b9c7b?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 122911,
+        "text": "⤷\nTitle:\nFacts season 10 | walkthrough\n════════════════════════\n𐀪\nAuthor:\nRonnie\n════════════════════════\nⴵ\nTime:\nSat, 20 Jun 2026 09:16:22 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#vulnerability_assessment\n#cybersecurity\n#penetration_testing",
+        "date": "2026-06-20T10:04:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122911_0_27873a12.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122911_1_d0583bed.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122911",
+        "link": {
+          "title": "Facts season 10 | walkthrough",
+          "url": "https://medium.com/@Artisan73/facts-season-10-walkthrough-8a1c69c74c8a?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 122910,
+        "text": "⤷\nTitle:\nCaught in the Telegram Catch-22: How a Security Flag Protects Hackers, Not Users\n════════════════════════\n𐀪\nAuthor:\nLee Yalkapov\n════════════════════════\nⴵ\nTime:\nSat, 20 Jun 2026 08:08:32 GMT\n════════════════════════\n⌗\nTags:\n#telegram\n#social_engineering\n#infosec\n#cybersecurity\n#technology",
+        "date": "2026-06-20T10:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122910_0_27873a12.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122910_1_fdd04de5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122910",
+        "link": {
+          "title": "Caught in the Telegram Catch-22: How a Security Flag Protects Hackers, Not Users",
+          "url": "https://medium.com/@gyalkapov/caught-in-the-telegram-catch-22-how-a-security-flag-protects-hackers-not-users-234d48eab409?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 122909,
+        "text": "⤷\nTitle:\nMulti-Factor Authentication (MFA): Why Your Password Is No Longer Enough\n════════════════════════\n𐀪\nAuthor:\nArowolo Seun Samuel\n════════════════════════\nⴵ\nTime:\nSat, 20 Jun 2026 09:10:19 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#information_security\n#passwords\n#cyber_security_awareness\n#cybersecurity",
+        "date": "2026-06-20T10:03:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122909_0_27873a12.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122909_1_9c2195fc.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122909",
+        "link": {
+          "title": "Multi-Factor Authentication (MFA): Why Your Password Is No Longer Enough",
+          "url": "https://medium.com/@arowoloseun1/multi-factor-authentication-mfa-why-your-password-is-no-longer-enough-8c7b64b7066b?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 122908,
+        "text": "⤷\nTitle:\nHow BC.GAME Silently Patched a Multi-Million Dollar Wallet Race Condition and Censored the…\n════════════════════════\n𐀪\nAuthor:\nBrbrbusiness\n════════════════════════\nⴵ\nTime:\nSat, 20 Jun 2026 08:01:37 GMT\n════════════════════════\n⌗\nTags:\n#cryptocurrency\n#bcgame\n#cybersecurity\n#bug_bounty",
+        "date": "2026-06-20T10:03:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122908_0_27873a12.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122908_1_6ae52980.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122908",
+        "link": {
+          "title": "How BC.GAME Silently Patched a Multi-Million Dollar Wallet Race Condition and Censored the…",
+          "url": "https://medium.com/@brbrbusiness7111/how-bc-game-silently-patched-a-multi-million-dollar-wallet-race-condition-and-censored-the-8ed7f89b7362?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 122907,
+        "text": "⤷\nTitle:\nWeb3 Recon Target Research Kaise Karo\n════════════════════════\n𐀪\nAuthor:\nHacker MD\n════════════════════════\nⴵ\nTime:\nSat, 20 Jun 2026 08:41:36 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#ethereum\n#infosec\n#web3\n#github",
+        "date": "2026-06-20T10:03:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122907_0_27873a12.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_122907_1_e1bead33.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/122907",
+        "link": {
+          "title": "Web3 Recon Target Research Kaise Karo",
+          "url": "https://medium.com/@HackerMD/web3-recon-target-research-kaise-karo-58d692ac4ab0?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 122906,
         "text": "⤷\nTitle:\nRelatório pentest: atacando o acuforum\n════════════════════════\n𐀪\nAuthor:\nclara cb\n════════════════════════\nⴵ\nTime:\nSat, 20 Jun 2026 07:09:12 GMT\n════════════════════════\n⌗\nTags:\n#information_security\n#sql_injection\n#cybersecurity\n#pentesting\n#offensive_security",
         "date": "2026-06-20T08:04:09+00:00",
@@ -1952,340 +2274,22 @@
           "title": "MITRE ATT&CK Initial Access: Understanding How Attackers Gain Entry into Enterprise Networks",
           "url": "https://medium.com/@shalu023/mitre-att-ck-initial-access-understanding-how-attackers-gain-entry-into-enterprise-networks-385c3de25482?source=rss------ethical_hacking-5"
         }
-      },
-      {
-        "id": 122812,
-        "text": "⤷\nTitle:\nBroken Access Control\n════════════════════════\n𐀪\nAuthor:\nPoonam Maharjan\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 08:46:18 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#web_applications\n#oswap\n#broken_access_control\n#tryhackme_walkthrough",
-        "date": "2026-06-19T10:04:31+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122812_0_71e08184.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122812_1_a638c881.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122812",
-        "link": {
-          "title": "Broken Access Control",
-          "url": "https://medium.com/@tryhacking82/broken-access-control-8fcf47f4d6e4?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 122811,
-        "text": "⤷\nTitle:\nWhite Rabbit THM (TryHackMe) Walkthrough\n════════════════════════\n𐀪\nAuthor:\nSimon\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 09:22:04 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_walkthrough\n#cybersecurity\n#ai\n#tryhackme\n#ai_agent",
-        "date": "2026-06-19T10:04:28+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122811_0_71e08184.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122811_1_355794e9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122811",
-        "link": {
-          "title": "White Rabbit THM (TryHackMe) Walkthrough",
-          "url": "https://medium.com/@sdsec12/white-rabbit-thm-tryhackme-walkthrough-8b1a9b12c979?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 122810,
-        "text": "⤷\nTitle:\nSearching Files and Directories in Linux\n════════════════════════\n𐀪\nAuthor:\nAj\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 09:27:23 GMT\n════════════════════════\n⌗\nTags:\n#linux\n#cybersecurity\n#penetration_testing\n#operating_systems\n#kali_linux_series",
-        "date": "2026-06-19T10:04:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122810_0_71e08184.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122810_1_5ce2e73a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122810",
-        "link": {
-          "title": "Searching Files and Directories in Linux",
-          "url": "https://meetcyber.net/searching-files-and-directories-in-linux-26dca2ece088?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 122809,
-        "text": "⤷\nTitle:\nbuilding an open-source Hak5 alternative using Android ConfigFS\n════════════════════════\n𐀪\nAuthor:\nCipher\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 08:30:14 GMT\n════════════════════════\n⌗\nTags:\n#redteam_tool\n#hacking\n#usb_gadget\n#pentrationtesting\n#android",
-        "date": "2026-06-19T10:04:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122809_0_71e08184.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122809_1_65bae8cc.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122809",
-        "link": {
-          "title": "building an open-source Hak5 alternative using Android ConfigFS",
-          "url": "https://medium.com/@birukgetachew253/building-an-open-source-hak5-alternative-using-android-configfs-87d5631e41f0?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 122808,
-        "text": "⤷\nTitle:\n206 Flaws, One Tuesday: Inside Microsoft’s Largest-Ever Patch Tuesday And What Every Defender…\n════════════════════════\n𐀪\nAuthor:\nSecureRoot Risk Advisory LLP\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 09:41:16 GMT\n════════════════════════\n⌗\nTags:\n#secureroot\n#vapt\n#cybersecurity\n#microsoft\n#hacking",
-        "date": "2026-06-19T10:04:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122808_0_71e08184.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122808_1_e6593dc6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122808",
-        "link": {
-          "title": "206 Flaws, One Tuesday: Inside Microsoft’s Largest-Ever Patch Tuesday And What Every Defender…",
-          "url": "https://medium.com/@securerootriskadvisory/206-flaws-one-tuesday-inside-microsofts-largest-ever-patch-tuesday-and-what-every-defender-1f4635894d6c?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 122807,
-        "text": "⤷\nTitle:\nQUICK PRIVACY CHECKLIST\n════════════════════════\n𐀪\nAuthor:\nÇYBÊR PRÎNÇÊ\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 09:56:48 GMT\n════════════════════════\n⌗\nTags:\n#networking\n#cybersecurity\n#hacking",
-        "date": "2026-06-19T10:04:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122807_0_71e08184.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122807_1_9dad372e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122807",
-        "link": {
-          "title": "QUICK PRIVACY CHECKLIST",
-          "url": "https://medium.com/@calebndimele/quick-privacy-checklist-2e43927e35c2?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 122806,
-        "text": "⤷\nTitle:\nHTTP Request Smuggling: When Two Servers Interpret the Same Request Differently\n════════════════════════\n𐀪\nAuthor:\nAmir Dehghan\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 08:55:39 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#web_security\n#cybersecurity\n#penetration_testing",
-        "date": "2026-06-19T10:04:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122806_0_71e08184.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122806_1_c78bae2a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122806",
-        "link": {
-          "title": "HTTP Request Smuggling: When Two Servers Interpret the Same Request Differently",
-          "url": "https://medium.com/@andrewdehghan/http-request-smuggling-when-two-servers-interpret-the-same-request-differently-ecb44d228041?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 122805,
-        "text": "⤷\nTitle:\nInterlock and Rhysida Ransomware: IBM X-Force Maps a Shared Ecosystem\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 08:33:14 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#Hive0163\n#IBM\nX_Force\n#Interlock\nransomware\n#InterlockRAT\n#JunkFiction\n#NodeSnake\n#ransomware\necosystem\n#Rhysida\nransomware\n#Supper\nbackdoor\n#Tomb\ncrypter",
-        "date": "2026-06-19T10:04:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122805_0_71e08184.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122805_1_42f497cc.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122805",
-        "link": {
-          "title": "Interlock and Rhysida Ransomware: IBM X-Force Maps a Shared Ecosystem",
-          "url": "https://securityonline.info/interlock-rhysida-ransomware-ecosystem/"
-        }
-      },
-      {
-        "id": 122804,
-        "text": "⤷\nTitle:\nUNC1151 ‘Ghostwriter’ Phishing Campaign Hijacks Gmail Accounts and 2FA Codes\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 09:04:21 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#2FA\nphishing\n#CERT\nPolska\n#Ghostwriter\n#Gmail\nphishing campaign\n#Storm_0257\n#UNC1151\n#UNC1151\nGmail phishing",
-        "date": "2026-06-19T10:04:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122804_0_71e08184.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122804_1_f49e8d5d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122804",
-        "link": {
-          "title": "UNC1151 ‘Ghostwriter’ Phishing Campaign Hijacks Gmail Accounts and 2FA Codes",
-          "url": "https://securityonline.info/unc1151-gmail-phishing/"
-        }
-      },
-      {
-        "id": 122803,
-        "text": "⤷\nTitle:\nFIFA World Cup 2026: Hackers Target Football Fans With Fake Tickets Sites\n════════════════════════\n𐀪\nAuthor:\nDeeba Ahmed\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 09:56:33 +0000\n════════════════════════\n⌗\nTags:\n#Security\n#Phishing\nScam\n#Scams\nand Fraud\n#Cyber\nAttack\n#Cybersecurity\n#FIFA\nWorld Cup\n#Fraud\n#Malware\n#Privacy\n#Scam",
-        "date": "2026-06-19T10:04:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122803_0_71e08184.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122803_1_813ba599.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122803",
-        "link": {
-          "title": "FIFA World Cup 2026: Hackers Target Football Fans With Fake Tickets Sites",
-          "url": "https://hackread.com/fifa-world-cup-2026-hackers-football-fake-tickets-sites/"
-        }
-      },
-      {
-        "id": 122802,
-        "text": "⤷\nTitle:\nSalesforce Disables Klue App Integration After OAuth Token Abuse Exposes Customer Data\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 14:33:57 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-06-19T10:03:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122802_0_71e08184.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122802",
-        "link": {
-          "title": "Salesforce Disables Klue App Integration After OAuth Token Abuse Exposes Customer Data",
-          "url": "https://thehackernews.com/2026/06/salesforce-disables-klue-app.html"
-        }
-      },
-      {
-        "id": 122801,
-        "text": "⤷\nTitle:\nDiving into the DOM: My Third XSS Lab on PortSwigger\n════════════════════════\n𐀪\nAuthor:\nMahdiyaa\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 07:59:04 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#web_security\n#xss_vulnerability\n#portswigger",
-        "date": "2026-06-19T08:04:41+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122801_0_71e08184.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122801_1_165505e9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122801",
-        "link": {
-          "title": "Diving into the DOM: My Third XSS Lab on PortSwigger",
-          "url": "https://medium.com/@mahdiyaa87/diving-into-the-dom-my-third-xss-lab-on-portswigger-6d2d084576b4?source=rss------xss_vulnerability-5"
-        }
-      },
-      {
-        "id": 122800,
-        "text": "⤷\nTitle:\nStill in the DOM: My Fourth XSS Lab on PortSwigger\n════════════════════════\n𐀪\nAuthor:\nMahdiyaa\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 07:59:45 GMT\n════════════════════════\n⌗\nTags:\n#portswigger\n#cybersecurity\n#xss_vulnerability\n#web_security",
-        "date": "2026-06-19T08:04:38+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122800_0_71e08184.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122800_1_61f5ce74.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122800",
-        "link": {
-          "title": "Still in the DOM: My Fourth XSS Lab on PortSwigger",
-          "url": "https://medium.com/@mahdiyaa87/still-in-the-dom-my-fourth-xss-lab-on-portswigger-1ae8e7377150?source=rss------xss_vulnerability-5"
-        }
-      },
-      {
-        "id": 122799,
-        "text": "⤷\nTitle:\n10 Linux Commands That Made Me Stop Relying on GUIs\n════════════════════════\n𐀪\nAuthor:\nFateyaly\n════════════════════════\nⴵ\nTime:\nFri, 19 Jun 2026 06:38:57 GMT\n════════════════════════\n⌗\nTags:\n#programming\n#technology\n#cybersecurity\n#ethical_hacking\n#coding",
-        "date": "2026-06-19T08:04:35+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122799_0_71e08184.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122799_1_ffe9dbcb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122799",
-        "link": {
-          "title": "10 Linux Commands That Made Me Stop Relying on GUIs",
-          "url": "https://systemweakness.com/10-linux-commands-that-made-me-stop-relying-on-guis-eb372244934b?source=rss------ethical_hacking-5"
-        }
       }
     ]
   },
-  "last_update": "2026-06-20T09:57:44.202211+00:00",
+  "last_update": "2026-06-20T11:51:33.309644+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 192,
-    "total_files": 192,
+    "total_media": 193,
+    "total_files": 193,
     "total_links": 1,
     "files_by_type": {
-      "image": 192
+      "image": 193
     },
-    "referenced_files": 192,
-    "existing_media_files": 192,
-    "total_size_mb": 5.35,
-    "last_calculation": "2026-06-20T09:57:44.204565+00:00"
+    "referenced_files": 193,
+    "existing_media_files": 193,
+    "total_size_mb": 5.63,
+    "last_calculation": "2026-06-20T11:51:33.311986+00:00"
   }
 }
