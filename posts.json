@@ -2,6 +2,98 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 123225,
+        "text": "⤷\nTitle:\nSQL 1 Lab: SQL Injection Vulnerability in WHERE Clause Allowing Retrieval of Hidden Data\n════════════════════════\n𐀪\nAuthor:\nVICTUS(RQ)\n════════════════════════\nⴵ\nTime:\nMon, 22 Jun 2026 20:54:27 GMT\n════════════════════════\n⌗\nTags:\n#begginer\n#ethical_hacking\n#where_clause\n#portswigger_sql_lab\n#sql_injection",
+        "date": "2026-06-22T22:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123225_0_1f51a32e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123225_1_11d25ea0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123225",
+        "link": {
+          "title": "SQL 1 Lab: SQL Injection Vulnerability in WHERE Clause Allowing Retrieval of Hidden Data",
+          "url": "https://medium.com/@queenrainv7/sql-1-lab-sql-injection-vulnerability-in-where-clause-allowing-retrieval-of-hidden-data-564482010c9c?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 123224,
+        "text": "⤷\nTitle:\nVulnHub: KB-VULN 1 Walkthrough\n════════════════════════\n𐀪\nAuthor:\nAntonio\n════════════════════════\nⴵ\nTime:\nMon, 22 Jun 2026 20:58:39 GMT\n════════════════════════\n⌗\nTags:\n#vulnhub_walkthrough\n#vulnhub\n#vulnhub_writeup\n#oscp_vulnhub",
+        "date": "2026-06-22T22:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123224_0_1f51a32e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123224_1_8119253a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123224",
+        "link": {
+          "title": "VulnHub: KB-VULN 1 Walkthrough",
+          "url": "https://medium.com/@inotp/vulnhub-kb-vuln-1-walkthrough-41406cb0ac6d?source=rss------vulnhub-5"
+        }
+      },
+      {
+        "id": 123223,
+        "text": "⤷\nTitle:\nTryHackMe Dive Into Pentesting (versão em português)\n════════════════════════\n𐀪\nAuthor:\nChris Mineff\n════════════════════════\nⴵ\nTime:\nMon, 22 Jun 2026 20:02:14 GMT\n════════════════════════\n⌗\nTags:\n#pentest\n#tryhackme_walkthrough\n#tryhackme\n#cibersecurity\n#pentesting",
+        "date": "2026-06-22T22:03:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123223_0_1f51a32e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123223_1_99443794.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123223",
+        "link": {
+          "title": "TryHackMe Dive Into Pentesting (versão em português)",
+          "url": "https://medium.com/@c.mineff/tryhackme-dive-into-pentesting-vers%C3%A3o-em-portugu%C3%AAs-6f13098fd79f?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 123222,
+        "text": "⤷\nTitle:\nUnlocking the Flag Vault: A Complete TryHackMe Reverse Engineering Walkthrough\n════════════════════════\n𐀪\nAuthor:\nA. AntorCSE404\n════════════════════════\nⴵ\nTime:\nMon, 22 Jun 2026 20:15:44 GMT\n════════════════════════\n⌗\nTags:\n#programming\n#hacking\n#tryhackme\n#cybersecurity\n#reverse_engineering",
+        "date": "2026-06-22T22:03:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123222_0_1f51a32e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123222_1_4cea28e8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123222",
+        "link": {
+          "title": "Unlocking the Flag Vault: A Complete TryHackMe Reverse Engineering Walkthrough",
+          "url": "https://medium.com/@antor.csecu/unlocking-the-flag-vault-a-complete-tryhackme-reverse-engineering-walkthrough-d97173dcfcbe?source=rss------hacking-5"
+        }
+      },
+      {
         "id": 123221,
         "text": "⤷\nTitle:\n10 Things HTB Taught Me About Real Pentesting\n════════════════════════\n𐀪\nAuthor:\nHarsh Raj Singhania\n════════════════════════\nⴵ\nTime:\nMon, 22 Jun 2026 10:16:31 GMT\n════════════════════════\n⌗\nTags:\n#hackthebox\n#ethical_hacking\n#pentesting\n#red_team\n#cybersecurity",
         "date": "2026-06-22T20:04:36+00:00",
@@ -2188,102 +2280,10 @@
           "title": "Prioritise — TryHackMe WriteUp with Flags",
           "url": "https://medium.com/@rayenhafsawy/prioritise-tryhackme-writeup-with-flags-2a3aa31cf7d8?source=rss------tryhackme-5"
         }
-      },
-      {
-        "id": 123058,
-        "text": "⤷\nTitle:\nPassing OSEP at 17 by Nufyl Hamd ; ‌‌‌‌‌‌‌‌‌‌‌‎A technical breakdown of Preparation and Exam…\n════════════════════════\n𐀪\nAuthor:\nNufyl Hamd\n════════════════════════\nⴵ\nTime:\nSun, 21 Jun 2026 18:06:33 GMT\n════════════════════════\n⌗\nTags:\n#nufyl\n#offensive_security\n#penetration_testing\n#nufyl_hamd\n#osep",
-        "date": "2026-06-21T20:04:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123058_0_24b946ab.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123058_1_a5bc430a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123058",
-        "link": {
-          "title": "Passing OSEP at 17 by Nufyl Hamd ; ‌‌‌‌‌‌‌‌‌‌‌‎A technical breakdown of Preparation and Exam…",
-          "url": "https://medium.com/@nufyl.h/passing-osep-at-17-by-nufyl-hamd-%E3%85%A4a-technical-breakdown-of-preparation-and-exam-9a78faf273a7?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 123057,
-        "text": "⤷\nTitle:\nMCRTA Exam Walkthrough — Multi-Cloud Red Teaming on AWS, Azure & GCP\n════════════════════════\n𐀪\nAuthor:\nShikhali Jamalzade\n════════════════════════\nⴵ\nTime:\nSun, 21 Jun 2026 18:25:04 GMT\n════════════════════════\n⌗\nTags:\n#red_team\n#penetration_testing\n#aws\n#cloud_security\n#cybersecurity",
-        "date": "2026-06-21T20:04:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123057_0_24b946ab.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123057_1_f5a6333c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123057",
-        "link": {
-          "title": "MCRTA Exam Walkthrough — Multi-Cloud Red Teaming on AWS, Azure & GCP",
-          "url": "https://alisalive.medium.com/mcrta-exam-walkthrough-multi-cloud-red-teaming-on-aws-azure-gcp-6660e6c02d75?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 123056,
-        "text": "⤷\nTitle:\nSQHell (THM) Tryhackme Medium Challenge Walkthrough\n════════════════════════\n𐀪\nAuthor:\nLawvye\n════════════════════════\nⴵ\nTime:\nSun, 21 Jun 2026 18:04:01 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#hacking\n#privilege_escalation\n#tryhackme\n#sql_injection",
-        "date": "2026-06-21T20:04:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123056_0_24b946ab.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123056_1_7450a0b0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123056",
-        "link": {
-          "title": "SQHell (THM) Tryhackme Medium Challenge Walkthrough",
-          "url": "https://medium.com/@lawvye/sqhell-thm-tryhackme-medium-challenge-walkthrough-621e3f950fb5?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 123055,
-        "text": "⤷\nTitle:\nThe Spies Who Attack Using Only the Tools Already on Your Computer\n════════════════════════\n𐀪\nAuthor:\nPop123\n════════════════════════\nⴵ\nTime:\nSun, 21 Jun 2026 19:20:49 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#threat_intelligence\n#politics\n#cybersecurity\n#technology",
-        "date": "2026-06-21T20:04:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123055_0_24b946ab.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123055_1_99cd2fbd.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123055",
-        "link": {
-          "title": "The Spies Who Attack Using Only the Tools Already on Your Computer",
-          "url": "https://medium.com/@Pop123/the-spies-who-attack-using-only-the-tools-already-on-your-computer-5b8d627699ec?source=rss------hacking-5"
-        }
       }
     ]
   },
-  "last_update": "2026-06-22T21:55:45.180452+00:00",
+  "last_update": "2026-06-22T23:11:43.499011+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2295,7 +2295,7 @@
     },
     "referenced_files": 195,
     "existing_media_files": 195,
-    "total_size_mb": 5.92,
-    "last_calculation": "2026-06-22T21:55:45.182802+00:00"
+    "total_size_mb": 5.93,
+    "last_calculation": "2026-06-22T23:11:43.501349+00:00"
   }
 }
