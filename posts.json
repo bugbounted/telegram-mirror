@@ -2,6 +2,75 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 123075,
+        "text": "⤷\nTitle:\nThe Fallacy of the Valid Signature: Why Critical Transaction Flows Need More Than Cryptographic…\n════════════════════════\n𐀪\nAuthor:\nDeclerus Yves Kerbens\n════════════════════════\nⴵ\nTime:\nSun, 21 Jun 2026 21:56:55 GMT\n════════════════════════\n⌗\nTags:\n#pki\n#cryptography\n#appsec\n#certificate_pinning\n#api_security",
+        "date": "2026-06-22T00:04:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123075_0_24b946ab.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123075_1_cab8201a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123075",
+        "link": {
+          "title": "The Fallacy of the Valid Signature: Why Critical Transaction Flows Need More Than Cryptographic…",
+          "url": "https://medium.com/@yveskerbs89/the-fallacy-of-the-valid-signature-why-critical-transaction-flows-need-more-than-cryptographic-6769ebac4522?source=rss------api_security-5"
+        }
+      },
+      {
+        "id": 123074,
+        "text": "⤷\nTitle:\nThe Single-Primitive Write: WriteProcessMemory’s Hidden Page Flip\n════════════════════════\n𐀪\nAuthor:\nTom O'Neill\n════════════════════════\nⴵ\nTime:\nSun, 21 Jun 2026 22:15:43 GMT\n════════════════════════\n⌗\nTags:\n#malware\n#windows_internals\n#ethical_hacking\n#cybersecurity\n#windows",
+        "date": "2026-06-22T00:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123074_0_24b946ab.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123074_1_c508d447.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123074",
+        "link": {
+          "title": "The Single-Primitive Write: WriteProcessMemory’s Hidden Page Flip",
+          "url": "https://medium.com/@toneillcodes/the-single-primitive-write-writeprocessmemorys-hidden-page-flip-e5cb952bbfb2?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 123073,
+        "text": "⤷\nTitle:\nReflected XSS into a JavaScript string with angle brackets HTML encoded | Shiv Kumar | OWASP Top 10…\n════════════════════════\n𐀪\nAuthor:\nShiv Kumar\n════════════════════════\nⴵ\nTime:\nSun, 21 Jun 2026 23:25:13 GMT\n════════════════════════\n⌗\nTags:\n#xss_attack\n#aplication_security\n#reflected_xss\n#owasp_top_10\n#bug_bounty",
+        "date": "2026-06-22T00:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123073_0_24b946ab.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123073_1_a34c5413.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123073",
+        "link": {
+          "title": "Reflected XSS into a JavaScript string with angle brackets HTML encoded | Shiv Kumar | OWASP Top 10…",
+          "url": "https://medium.com/@localhostsinga/reflected-xss-into-a-javascript-string-with-angle-brackets-html-encoded-shiv-kumar-owasp-top-10-94520693b77b?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 123072,
         "text": "⤷\nTitle:\nBlind SQL isn’t Blind any More\n════════════════════════\n𐀪\nAuthor:\nHyper Vare\n════════════════════════\nⴵ\nTime:\nSun, 21 Jun 2026 21:28:57 GMT\n════════════════════════\n⌗\nTags:\n#blind_sql_injection\n#database_hacking\n#i_can_see_blind_sql\n#sql_injection",
         "date": "2026-06-21T22:04:14+00:00",
@@ -2223,87 +2292,22 @@
           "title": "# Why OSCP Certified No Longer Guarantees a Job (And What Actually Does)",
           "url": "https://medium.com/@anand114bug/why-oscp-certified-no-longer-guarantees-a-job-and-what-actually-does-0444720a0842?source=rss------ethical_hacking-5"
         }
-      },
-      {
-        "id": 122975,
-        "text": "⤷\nTitle:\nSOC L1 Alert Triage Writeup / Walkthrough - TryHackMe\n════════════════════════\n𐀪\nAuthor:\nDillon Teh\n════════════════════════\nⴵ\nTime:\nSat, 20 Jun 2026 18:18:35 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#tryhackme_walkthrough\n#alert_triage\n#tryhackme_writeup\n#tryhackme",
-        "date": "2026-06-20T20:04:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122975_0_cff589ed.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122975_1_cecd03eb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122975",
-        "link": {
-          "title": "SOC L1 Alert Triage Writeup / Walkthrough - TryHackMe",
-          "url": "https://medium.com/@tehdillon/soc-l1-alert-triage-writeup-walkthrough-tryhackme-7b6c25371ec4?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 122974,
-        "text": "⤷\nTitle:\nTryHackMe — EasyPeasy CTF Write-up\n════════════════════════\n𐀪\nAuthor:\nBurak Kıraç\n════════════════════════\nⴵ\nTime:\nSat, 20 Jun 2026 18:31:17 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#web_penetration_testing\n#pentesting\n#easy\n#cybersecurity",
-        "date": "2026-06-20T20:04:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122974_0_cff589ed.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122974_1_2b5fbe6c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122974",
-        "link": {
-          "title": "TryHackMe — EasyPeasy CTF Write-up",
-          "url": "https://medium.com/@burakkirac177/tryhackme-easypeasy-ctf-write-up-bb5239601627?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 122973,
-        "text": "⤷\nTitle:\nTryHackMe — Splunk: Data Manipulation — Part 1\n════════════════════════\n𐀪\nAuthor:\nHitesh kumar\n════════════════════════\nⴵ\nTime:\nSat, 20 Jun 2026 19:11:37 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_walkthrough\n#tryhackme\n#cybersecurity\n#splunk\n#cyber_security_awareness",
-        "date": "2026-06-20T20:04:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122973_0_cff589ed.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122973",
-        "link": {
-          "title": "TryHackMe — Splunk: Data Manipulation — Part 1",
-          "url": "https://medium.com/@hitesh_null/tryhackme-splunk-data-manipulation-part-1-fc42fdea4d02?source=rss------tryhackme-5"
-        }
       }
     ]
   },
-  "last_update": "2026-06-21T22:59:02.789955+00:00",
+  "last_update": "2026-06-22T00:07:29.196062+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 197,
-    "total_files": 197,
+    "total_media": 198,
+    "total_files": 198,
     "total_links": 0,
     "files_by_type": {
-      "image": 197
+      "image": 198
     },
-    "referenced_files": 197,
-    "existing_media_files": 197,
-    "total_size_mb": 5.65,
-    "last_calculation": "2026-06-21T22:59:02.792312+00:00"
+    "referenced_files": 198,
+    "existing_media_files": 198,
+    "total_size_mb": 5.71,
+    "last_calculation": "2026-06-22T00:07:29.198450+00:00"
   }
 }
