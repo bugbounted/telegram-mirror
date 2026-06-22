@@ -2,6 +2,190 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 123083,
+        "text": "⤷\nTitle:\nXSS, CSRF, SQL Injection, and SSRF Explained with Real Stories\n════════════════════════\n𐀪\nAuthor:\nWanuja Ranasinghe\n════════════════════════\nⴵ\nTime:\nMon, 22 Jun 2026 02:31:00 GMT\n════════════════════════\n⌗\nTags:\n#sql_injection\n#xss_attack\n#web_security\n#software_architecture\n#software_security",
+        "date": "2026-06-22T04:03:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123083_0_24b946ab.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123083_1_11b7027c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123083",
+        "link": {
+          "title": "XSS, CSRF, SQL Injection, and SSRF Explained with Real Stories",
+          "url": "https://wanuja18.medium.com/xss-csrf-sql-injection-and-ssrf-explained-with-real-stories-cf0bbbe0a52d?source=rss------sql_injection-5"
+        }
+      },
+      {
+        "id": 123082,
+        "text": "⤷\nTitle:\nFour undici Vulnerabilities Affect a Package With 133M Weekly Downloads\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 22 Jun 2026 02:00:04 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_6734\n#CVE_2026_9697\n#nodejs\n#npm\n#SOCKS5\n#TLS\nBypass\n#undici\n#WebSocket",
+        "date": "2026-06-22T04:03:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123082_0_24b946ab.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123082_1_8863207b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123082",
+        "link": {
+          "title": "Four undici Vulnerabilities Affect a Package With 133M Weekly Downloads",
+          "url": "https://securityonline.info/undici-vulnerabilities/"
+        }
+      },
+      {
+        "id": 123081,
+        "text": "⤷\nTitle:\n2,060 New CVEs and 4 Actively Exploited Flaws (June 15-21, 2026)\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 22 Jun 2026 03:13:03 +0000\n════════════════════════\n⌗\nTags:\n#Weekly\nRecap\n#Actively\nExploited\n#CISA\nKEV\n#CVE\n#LiteSpeed\n#Oracle\n#Splunk\n#Vulnerability\nRoundup\n#Weekly\nCVE Report",
+        "date": "2026-06-22T04:03:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123081_0_24b946ab.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123081_1_f3a505fc.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123081",
+        "link": {
+          "title": "2,060 New CVEs and 4 Actively Exploited Flaws (June 15-21, 2026)",
+          "url": "https://securityonline.info/weekly-cve-report-june-15-21-2026/"
+        }
+      },
+      {
+        "id": 123080,
+        "text": "⤷\nTitle:\nDragonForce Hides Backdoor C2 Inside Microsoft Teams TURN Relays\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 22 Jun 2026 03:30:15 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#Backdoor\n.Turn\n#BYOVD\n#DragonForce\n#Hackledorb\n#Microsoft\nTeams\n#QUIC\n#ransomware\n#TURN\nRelay",
+        "date": "2026-06-22T04:03:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123080_0_24b946ab.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123080_1_7df1e6a2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123080",
+        "link": {
+          "title": "DragonForce Hides Backdoor C2 Inside Microsoft Teams TURN Relays",
+          "url": "https://securityonline.info/microsoft-teams-backdoor-dragonforce/"
+        }
+      },
+      {
+        "id": 123079,
+        "text": "⤷\nTitle:\nPublic Exploit Released for FreeBSD kTLS Local Root Flaw CVE-2026-45257\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 22 Jun 2026 00:00:56 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_45257\n#freebsd\n#Kernel\nTLS\n#kTLS\n#Local\nPrivilege Escalation\n#Local\nRoot\n#proof_of_concept\n#sendfile",
+        "date": "2026-06-22T02:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123079_0_24b946ab.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123079_1_358a2994.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123079",
+        "link": {
+          "title": "Public Exploit Released for FreeBSD kTLS Local Root Flaw CVE-2026-45257",
+          "url": "https://securityonline.info/freebsd-ktls-cve-2026-45257/"
+        }
+      },
+      {
+        "id": 123078,
+        "text": "⤷\nTitle:\nThree Critical pgAdmin 4 Vulnerabilities Patched: XSS, Auth Bypass, and AI Assistant SQLi\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 22 Jun 2026 00:30:32 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_12045\n#CVE_2026_12046\n#CVE_2026_12048\n#pgAdmin\n#pgAdmin\n4 vulnerabilities\n#PostgreSQL\n#Prompt\ninjection\n#Stored\nXSS",
+        "date": "2026-06-22T02:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123078_0_24b946ab.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123078_1_00e97808.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123078",
+        "link": {
+          "title": "Three Critical pgAdmin 4 Vulnerabilities Patched: XSS, Auth Bypass, and AI Assistant SQLi",
+          "url": "https://securityonline.info/pgadmin-4-vulnerabilities/"
+        }
+      },
+      {
+        "id": 123077,
+        "text": "⤷\nTitle:\nAvo Flaw CVE-2026-55518 Enables Privilege Escalation in Rails Apps\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 22 Jun 2026 01:11:11 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#admin\npanel\n#Authorization\nBypass\n#Avo\n#CVE_2026_55518\n#Missing\nAuthorization\n#privilege\nescalation\n#Rails\nSecurity\n#ruby\non rails",
+        "date": "2026-06-22T02:03:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123077_0_24b946ab.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123077_1_9a6f37cb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123077",
+        "link": {
+          "title": "Avo Flaw CVE-2026-55518 Enables Privilege Escalation in Rails Apps",
+          "url": "https://securityonline.info/avo-authorization-bypass-cve-2026-55518/"
+        }
+      },
+      {
+        "id": 123076,
+        "text": "⤷\nTitle:\nErrTraffic Malware Spreads ClickFix Lures via Hacked WordPress Sites\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 22 Jun 2026 01:26:58 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#ClickFix\n#CVE_2020_25213\n#ErrTraffic\n#EtherHiding\n#Malware_as_a_Service\n#TDS\n#Vidar\n#wordpress",
+        "date": "2026-06-22T02:03:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123076_0_24b946ab.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123076_1_54460441.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123076",
+        "link": {
+          "title": "ErrTraffic Malware Spreads ClickFix Lures via Hacked WordPress Sites",
+          "url": "https://securityonline.info/errtraffic-malware-clickfix-framework/"
+        }
+      },
+      {
         "id": 123075,
         "text": "⤷\nTitle:\nThe Fallacy of the Valid Signature: Why Critical Transaction Flows Need More Than Cryptographic…\n════════════════════════\n𐀪\nAuthor:\nDeclerus Yves Kerbens\n════════════════════════\nⴵ\nTime:\nSun, 21 Jun 2026 21:56:55 GMT\n════════════════════════\n⌗\nTags:\n#pki\n#cryptography\n#appsec\n#certificate_pinning\n#api_security",
         "date": "2026-06-22T00:04:02+00:00",
@@ -2108,194 +2292,10 @@
           "title": "Checkpoint | AI Supply Chain Security | TryHackMe",
           "url": "https://josepraveen.medium.com/checkpoint-ai-supply-chain-security-tryhackme-4912e0751a95?source=rss------tryhackme-5"
         }
-      },
-      {
-        "id": 122983,
-        "text": "⤷\nTitle:\nHow a Broken Instagram Link Led to a Social Media Account Takeover Risk\n════════════════════════\n𐀪\nAuthor:\nSahal\n════════════════════════\nⴵ\nTime:\nSat, 20 Jun 2026 20:56:51 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#broken_link_hijacking\n#bug_hunting\n#penetration_testing",
-        "date": "2026-06-20T22:04:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122983_0_cff589ed.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122983_1_c61c205b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122983",
-        "link": {
-          "title": "How a Broken Instagram Link Led to a Social Media Account Takeover Risk",
-          "url": "https://medium.com/@Sahal07/how-a-broken-instagram-link-led-to-a-social-media-account-takeover-risk-d77f2dea8b72?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 122982,
-        "text": "⤷\nTitle:\nI Tested a Login Form and Accidentally Found Remote Code Execution\n════════════════════════\n𐀪\nAuthor:\nAbdelrhmanelmoghazy\n════════════════════════\nⴵ\nTime:\nSat, 20 Jun 2026 20:32:56 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#bug_bounty_writeup\n#ethical_hacking\n#bug_bounty",
-        "date": "2026-06-20T22:04:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122982_0_cff589ed.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122982_1_0928cc12.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122982",
-        "link": {
-          "title": "I Tested a Login Form and Accidentally Found Remote Code Execution",
-          "url": "https://medium.com/@abdelrhmanelmoghazy1/i-tested-a-login-form-and-accidentally-found-remote-code-execution-069f861f59dc?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 122981,
-        "text": "⤷\nTitle:\nFrom a Simple Input Field to Stored XSS — A Realistic Bug Bounty Journey\n════════════════════════\n𐀪\nAuthor:\nAnkitsingh\n════════════════════════\nⴵ\nTime:\nSat, 20 Jun 2026 20:35:12 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_writeup\n#penetration_testing\n#cybersecurity\n#bug_bounty_tips\n#bug_bounty",
-        "date": "2026-06-20T22:04:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122981_0_cff589ed.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122981_1_2b4922d0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122981",
-        "link": {
-          "title": "From a Simple Input Field to Stored XSS — A Realistic Bug Bounty Journey",
-          "url": "https://medium.com/@ankitsingh787478/from-a-simple-input-field-to-stored-xss-a-realistic-bug-bounty-journey-a69e428e84ad?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 122980,
-        "text": "⤷\nTitle:\nHow I Discovered a High-Severity IDOR on an E-Commerce Platform\n════════════════════════\n𐀪\nAuthor:\nKanishkdadhich\n════════════════════════\nⴵ\nTime:\nSat, 20 Jun 2026 18:51:49 GMT\n════════════════════════\n⌗\nTags:\n#broken_access_control\n#ecommerce_website_testing\n#idor_vulnerability\n#bug_bounty_tips\n#bug_bounty_writeup",
-        "date": "2026-06-20T20:04:33+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122980_0_cff589ed.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122980_1_627681f3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122980",
-        "link": {
-          "title": "How I Discovered a High-Severity IDOR on an E-Commerce Platform",
-          "url": "https://medium.com/@kanishkdadhich123/how-i-discovered-a-high-severity-idor-on-an-e-commerce-platform-f13a316aa71c?source=rss------bug_bounty_writeup-5"
-        }
-      },
-      {
-        "id": 122979,
-        "text": "⤷\nTitle:\n“byp4ss3d” | picoCTF | Obtain RCE by abusing .htaccess in Apache servers | Web Exploitation\n════════════════════════\n𐀪\nAuthor:\nDr_ro0t\n════════════════════════\nⴵ\nTime:\nSat, 20 Jun 2026 19:30:03 GMT\n════════════════════════\n⌗\nTags:\n#file_upload_vulnerability\n#ctf\n#picoctf\n#rce_vulnerability",
-        "date": "2026-06-20T20:04:29+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122979_0_cff589ed.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122979_1_977df038.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122979",
-        "link": {
-          "title": "“byp4ss3d” | picoCTF | Obtain RCE by abusing .htaccess in Apache servers | Web Exploitation",
-          "url": "https://medium.com/@Dr_ro0t/byp4ss3d-picoctf-obtain-rce-by-abusing-htaccess-in-apache-servers-web-exploitation-d722fb1122f1?source=rss------rce_vulnerability-5"
-        }
-      },
-      {
-        "id": 122978,
-        "text": "⤷\nTitle:\nThe X Account That Went From 142K Followers to $0 Overnight\n════════════════════════\n𐀪\nAuthor:\nSushila Devi\n════════════════════════\nⴵ\nTime:\nSat, 20 Jun 2026 18:03:20 GMT\n════════════════════════\n⌗\nTags:\n#xs\n#dear_men\n#twitter\n#demonetization",
-        "date": "2026-06-20T20:04:26+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122978_0_cff589ed.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122978_1_b99b41d8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122978",
-        "link": {
-          "title": "The X Account That Went From 142K Followers to $0 Overnight",
-          "url": "https://medium.com/@sushilaDevi/the-x-account-that-went-from-142k-followers-to-0-overnight-e8b891fc07cd?source=rss------xss-5"
-        }
-      },
-      {
-        "id": 122977,
-        "text": "⤷\nTitle:\nNew Website!!! What you need to know for the PNPT!\n════════════════════════\n𐀪\nAuthor:\nThe Husky Hacker\n════════════════════════\nⴵ\nTime:\nSat, 20 Jun 2026 18:09:46 GMT\n════════════════════════\n⌗\nTags:\n#pnpt\n#tcm_security\n#ethical_hacking",
-        "date": "2026-06-20T20:04:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122977_0_cff589ed.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122977_1_d0717802.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122977",
-        "link": {
-          "title": "New Website!!! What you need to know for the PNPT!",
-          "url": "https://medium.com/@TheHuskyHacker/new-website-what-you-need-to-know-for-the-pnpt-45f6d5b92de8?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 122976,
-        "text": "⤷\nTitle:\n# Why OSCP Certified No Longer Guarantees a Job (And What Actually Does)\n════════════════════════\n𐀪\nAuthor:\n@AnandPrajapati\n════════════════════════\nⴵ\nTime:\nSat, 20 Jun 2026 18:54:46 GMT\n════════════════════════\n⌗\nTags:\n#bug_hunting\n#cybersecurity\n#ethical_hacking",
-        "date": "2026-06-20T20:04:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122976_0_cff589ed.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_122976_1_9087dc18.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/122976",
-        "link": {
-          "title": "# Why OSCP Certified No Longer Guarantees a Job (And What Actually Does)",
-          "url": "https://medium.com/@anand114bug/why-oscp-certified-no-longer-guarantees-a-job-and-what-actually-does-0444720a0842?source=rss------ethical_hacking-5"
-        }
       }
     ]
   },
-  "last_update": "2026-06-22T00:07:29.196062+00:00",
+  "last_update": "2026-06-22T05:39:32.167002+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2308,6 +2308,6 @@
     "referenced_files": 198,
     "existing_media_files": 198,
     "total_size_mb": 5.71,
-    "last_calculation": "2026-06-22T00:07:29.198450+00:00"
+    "last_calculation": "2026-06-22T05:39:32.169383+00:00"
   }
 }
