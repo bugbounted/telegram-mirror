@@ -2,6 +2,397 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 123252,
+        "text": "⤷\nTitle:\nCloud Security Lab Write-Up: SNS Secrets (CloudGoat Scenario)\n════════════════════════\n𐀪\nAuthor:\nIslamannafi\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 02:23:34 GMT\n════════════════════════\n⌗\nTags:\n#information_security_news\n#cybersecurity\n#cloud_security\n#ethical_hacking",
+        "date": "2026-06-23T04:04:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123252_0_1f51a32e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123252_1_71eb3149.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123252",
+        "link": {
+          "title": "Cloud Security Lab Write-Up: SNS Secrets (CloudGoat Scenario)",
+          "url": "https://medium.com/@islamannafi/cloud-security-lab-write-up-sns-secrets-cloudgoat-scenario-acd3c80b6fd8?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 123251,
+        "text": "⤷\nTitle:\nTryHackMe — Silent Monitor WriteUp\n════════════════════════\n𐀪\nAuthor:\nMark@Saber\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 02:31:01 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_walkthrough\n#tryhackme\n#pentesting\n#cybersecurity\n#tryhackme_writeup",
+        "date": "2026-06-23T04:04:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123251_0_1f51a32e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123251_1_b20669a9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123251",
+        "link": {
+          "title": "TryHackMe — Silent Monitor WriteUp",
+          "url": "https://medium.com/@saber22/tryhackme-silent-monitor-writeup-364c1941f905?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 123250,
+        "text": "⤷\nTitle:\nWhat Your GitHub Tells Me Before Your Interview Starts\n════════════════════════\n𐀪\nAuthor:\nJbird\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 02:02:18 GMT\n════════════════════════\n⌗\nTags:\n#information_security\n#information_technology\n#infosec\n#cybersecurity\n#career_advice",
+        "date": "2026-06-23T04:04:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123250_0_1f51a32e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123250_1_928db102.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123250",
+        "link": {
+          "title": "What Your GitHub Tells Me Before Your Interview Starts",
+          "url": "https://medium.com/@jbird24/what-your-github-tells-me-before-your-interview-starts-f6db898e9ec3?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 123249,
+        "text": "⤷\nTitle:\nTinyproxy Request Smuggling Flaws Expose Networks\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 02:12:44 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_54387\n#CVE_2026_54388\n#CVE_2026_55202\n#request\nsmuggling\n#Tinyproxy",
+        "date": "2026-06-23T04:04:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123249_0_1f51a32e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123249_1_73dab974.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123249",
+        "link": {
+          "title": "Tinyproxy Request Smuggling Flaws Expose Networks",
+          "url": "https://securityonline.info/tinyproxy-request-smuggling-cve/"
+        }
+      },
+      {
+        "id": 123248,
+        "text": "⤷\nTitle:\nResolving the Codex SSD Wear Issue\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 03:00:30 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#Codex\n#software\nupdate\n#SQLite\n#SSD\nWear\n#Tech\nNews",
+        "date": "2026-06-23T04:04:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123248_0_1f51a32e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123248_1_33d44dcd.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123248",
+        "link": {
+          "title": "Resolving the Codex SSD Wear Issue",
+          "url": "https://securityonline.info/codex-ssd-wear-issue-fix/"
+        }
+      },
+      {
+        "id": 123247,
+        "text": "⤷\nTitle:\niOS 27 Developer Beta 2 Adds Write with Siri and RCS Replies\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 03:35:41 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#Apple\n#Apple\nWallet\n#Developer\nBeta\n#iOS\n27\n#RCS\n#Siri",
+        "date": "2026-06-23T04:04:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123247_0_1f51a32e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123247_1_aa737d07.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123247",
+        "link": {
+          "title": "iOS 27 Developer Beta 2 Adds Write with Siri and RCS Replies",
+          "url": "https://securityonline.info/ios-27-developer-beta-2/"
+        }
+      },
+      {
+        "id": 123246,
+        "text": "⤷\nTitle:\nApple AirPort Utility Deprecated in iOS 27 & macOS 27\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 03:38:06 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#AirPort\nUtility\n#Apple\n#iOS\n27\n#macOS\n27",
+        "date": "2026-06-23T04:03:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123246_0_1f51a32e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123246_1_8417ab97.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123246",
+        "link": {
+          "title": "Apple AirPort Utility Deprecated in iOS 27 & macOS 27",
+          "url": "https://securityonline.info/apple-airport-utility-deprecated/"
+        }
+      },
+      {
+        "id": 123245,
+        "text": "⤷\nTitle:\nTata Electronics Data Breach Exposes Apple and Tesla Files\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 03:42:52 +0000\n════════════════════════\n⌗\nTags:\n#Data\nLeak\n#Apple\n#Data\nBreach\n#ransomware\n#Tata\nElectronics\n#Tesla\n#World\nLeaks",
+        "date": "2026-06-23T04:03:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123245_0_1f51a32e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123245_1_55e95c32.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123245",
+        "link": {
+          "title": "Tata Electronics Data Breach Exposes Apple and Tesla Files",
+          "url": "https://securityonline.info/tata-electronics-data-breach/"
+        }
+      },
+      {
+        "id": 123244,
+        "text": "⤷\nTitle:\nAryStinger Botnet Infects Outdated D-Link Routers\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 02:40:44 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#AryStinger\n#BOTNET\n#cybersecurity\n#D_Link\n#network\nsecurity",
+        "date": "2026-06-23T04:03:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123244_0_1f51a32e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123244_1_3db5be4a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123244",
+        "link": {
+          "title": "AryStinger Botnet Infects Outdated D-Link Routers",
+          "url": "https://meterpreter.org/arystinger-botnet-d-link-routers/"
+        }
+      },
+      {
+        "id": 123243,
+        "text": "⤷\nTitle:\nPrinz Eugen Ransomware Encrypts Recent Files First and Leaves No Note\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 03:41:09 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#Go\nMalware\n#Prinz\nEugen\n#ransomware\n#RDP\n#Standard\nBank\n#ThreatDown",
+        "date": "2026-06-23T04:03:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123243_0_1f51a32e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123243_1_134820fa.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123243",
+        "link": {
+          "title": "Prinz Eugen Ransomware Encrypts Recent Files First and Leaves No Note",
+          "url": "https://meterpreter.org/prinz-eugen-ransomware/"
+        }
+      },
+      {
+        "id": 123242,
+        "text": "⤷\nTitle:\nCybersecurity Career Guide for Beginners: Everything You Need to Know to Start a Successful…\n════════════════════════\n𐀪\nAuthor:\nAzeez\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 00:19:13 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#comptia_certifications\n#cyberattack\n#cybersecurity\n#cyber_security_awareness",
+        "date": "2026-06-23T02:04:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123242_0_1f51a32e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123242_1_98d26d9c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123242",
+        "link": {
+          "title": "Cybersecurity Career Guide for Beginners: Everything You Need to Know to Start a Successful…",
+          "url": "https://medium.com/@ajibesinazeez36/cybersecurity-career-guide-for-beginners-everything-you-need-to-know-to-start-a-successful-414b39a3ada7?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 123241,
+        "text": "⤷\nTitle:\nCSRF: When Your Browser Snitches Behind Your Back\n════════════════════════\n𐀪\nAuthor:\nZiyad\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 01:34:55 GMT\n════════════════════════\n⌗\nTags:\n#web_development\n#html\n#csrf\n#cybersecurity\n#penetration_testing",
+        "date": "2026-06-23T02:04:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123241_0_1f51a32e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123241_1_67e2e9d3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123241",
+        "link": {
+          "title": "CSRF: When Your Browser Snitches Behind Your Back",
+          "url": "https://medium.com/@ziadderfoufi77/csrf-when-your-browser-snitches-behind-your-back-f6b4136ced7f?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 123240,
+        "text": "⤷\nTitle:\nHAProxy Vulnerabilities Expose Reverse-Proxy Servers\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 00:00:26 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_55203\n#CVE_2026_55204\n#HAProxy\nVulnerabilities\n#Reverse_Proxy\nSecurity",
+        "date": "2026-06-23T02:04:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123240_0_1f51a32e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123240_1_b7736323.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123240",
+        "link": {
+          "title": "HAProxy Vulnerabilities Expose Reverse-Proxy Servers",
+          "url": "https://securityonline.info/haproxy-vulnerabilities-cve-2026-55203/"
+        }
+      },
+      {
+        "id": 123239,
+        "text": "⤷\nTitle:\nVendor-Signed UEFI Applications Allow Secure Boot Bypass\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 00:22:24 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#BYOVD\n#DBX\n#ESET\n#Firmware\nSecurity\n#Secure\nBoot\n#UEFI",
+        "date": "2026-06-23T02:03:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123239_0_1f51a32e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123239_1_6cc7f2f0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123239",
+        "link": {
+          "title": "Vendor-Signed UEFI Applications Allow Secure Boot Bypass",
+          "url": "https://securityonline.info/vendor-signed-uefi-secure-boot-bypass/"
+        }
+      },
+      {
+        "id": 123238,
+        "text": "⤷\nTitle:\nMitel Patches 12 Critical MiCollab Vulnerabilities Rated Up to CVSS 10.0\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 01:00:22 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Command\nInjection\n#MiCollab\n#MISA_2026_0005\n#Mitel\n#MiVoice\nBusiness\n#sql\ninjection",
+        "date": "2026-06-23T02:03:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123238_0_1f51a32e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123238_1_95f49f68.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123238",
+        "link": {
+          "title": "Mitel Patches 12 Critical MiCollab Vulnerabilities Rated Up to CVSS 10.0",
+          "url": "https://securityonline.info/mitel-micollab-vulnerabilities-misa-2026-0005/"
+        }
+      },
+      {
+        "id": 123237,
+        "text": "⤷\nTitle:\nMariaDB Server Vulnerabilities Allow CVSS 10 Attacks\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 01:00:52 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_48163\n#CVE_2026_48165\n#CVE_2026_49261\n#database\nsecurity\n#Galera\nCluster\n#MariaDB\n#Shell\nExecution",
+        "date": "2026-06-23T02:03:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123237_0_1f51a32e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123237_1_01ab3cc2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123237",
+        "link": {
+          "title": "MariaDB Server Vulnerabilities Allow CVSS 10 Attacks",
+          "url": "https://securityonline.info/mariadb-server-vulnerabilities-cvss-10/"
+        }
+      },
+      {
+        "id": 123236,
+        "text": "⤷\nTitle:\nCritical libssh2 Vulnerability CVE-2026-55200 Enables Remote Code Execution\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 01:22:40 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_55200\n#libssh2\n#out_of_bounds\nwrite\n#Remote\nCode Execution\n#ssh",
+        "date": "2026-06-23T02:03:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123236_0_1f51a32e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123236_1_6afbb18f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123236",
+        "link": {
+          "title": "Critical libssh2 Vulnerability CVE-2026-55200 Enables Remote Code Execution",
+          "url": "https://securityonline.info/libssh2-vulnerability-cve-2026-55200/"
+        }
+      },
+      {
         "id": 123235,
         "text": "⤷\nTitle:\nStripping Windows 11 Pro to the Bare Metal\n════════════════════════\n𐀪\nAuthor:\nBurak Erdağ\n════════════════════════\nⴵ\nTime:\nMon, 22 Jun 2026 22:06:27 GMT\n════════════════════════\n⌗\nTags:\n#windows\n#infosec\n#penetration_testing\n#operating_systems\n#cybersecurity",
         "date": "2026-06-23T00:04:16+00:00",
@@ -1893,401 +2284,10 @@
           "title": "Matrix: 1 Vulnhub Walkthrough",
           "url": "https://medium.com/@utsavthakur448/matrix-1-vulnhub-walkthrough-4ed149afffdb?source=rss------vulnhub-5"
         }
-      },
-      {
-        "id": 123125,
-        "text": "⤷\nTitle:\nTryHackMe — Library Walkthrough\n════════════════════════\n𐀪\nAuthor:\nSiyon Rai\n════════════════════════\nⴵ\nTime:\nMon, 22 Jun 2026 06:02:34 GMT\n════════════════════════\n⌗\nTags:\n#privilege_escalation\n#tryhackme\n#tryhackme_walkthrough\n#web_enumeration\n#ctf_writeup",
-        "date": "2026-06-22T08:04:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123125_0_24b946ab.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123125_1_73775799.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123125",
-        "link": {
-          "title": "TryHackMe — Library Walkthrough",
-          "url": "https://medium.com/@siyonrai2/tryhackme-library-walkthrough-8cf738514dc2?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 123124,
-        "text": "⤷\nTitle:\nHost & Network Penetration Testing: The Metasploit Framework CTF 2 — eJPT (INE)\n════════════════════════\n𐀪\nAuthor:\nSuraj Apar\n════════════════════════\nⴵ\nTime:\nMon, 22 Jun 2026 06:08:57 GMT\n════════════════════════\n⌗\nTags:\n#ctf\n#penetration_testing\n#cybersecurity\n#ejpt\n#ethical_hacking",
-        "date": "2026-06-22T08:04:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123124_0_24b946ab.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123124_1_97317e13.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123124",
-        "link": {
-          "title": "Host & Network Penetration Testing: The Metasploit Framework CTF 2 — eJPT (INE)",
-          "url": "https://infosecwriteups.com/host-network-penetration-testing-the-metasploit-framework-ctf-2-ejpt-ine-7eebc549e577?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 123083,
-        "text": "⤷\nTitle:\nXSS, CSRF, SQL Injection, and SSRF Explained with Real Stories\n════════════════════════\n𐀪\nAuthor:\nWanuja Ranasinghe\n════════════════════════\nⴵ\nTime:\nMon, 22 Jun 2026 02:31:00 GMT\n════════════════════════\n⌗\nTags:\n#sql_injection\n#xss_attack\n#web_security\n#software_architecture\n#software_security",
-        "date": "2026-06-22T04:03:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123083_0_24b946ab.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123083_1_11b7027c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123083",
-        "link": {
-          "title": "XSS, CSRF, SQL Injection, and SSRF Explained with Real Stories",
-          "url": "https://wanuja18.medium.com/xss-csrf-sql-injection-and-ssrf-explained-with-real-stories-cf0bbbe0a52d?source=rss------sql_injection-5"
-        }
-      },
-      {
-        "id": 123082,
-        "text": "⤷\nTitle:\nFour undici Vulnerabilities Affect a Package With 133M Weekly Downloads\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 22 Jun 2026 02:00:04 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_6734\n#CVE_2026_9697\n#nodejs\n#npm\n#SOCKS5\n#TLS\nBypass\n#undici\n#WebSocket",
-        "date": "2026-06-22T04:03:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123082_0_24b946ab.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123082_1_8863207b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123082",
-        "link": {
-          "title": "Four undici Vulnerabilities Affect a Package With 133M Weekly Downloads",
-          "url": "https://securityonline.info/undici-vulnerabilities/"
-        }
-      },
-      {
-        "id": 123081,
-        "text": "⤷\nTitle:\n2,060 New CVEs and 4 Actively Exploited Flaws (June 15-21, 2026)\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 22 Jun 2026 03:13:03 +0000\n════════════════════════\n⌗\nTags:\n#Weekly\nRecap\n#Actively\nExploited\n#CISA\nKEV\n#CVE\n#LiteSpeed\n#Oracle\n#Splunk\n#Vulnerability\nRoundup\n#Weekly\nCVE Report",
-        "date": "2026-06-22T04:03:51+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123081_0_24b946ab.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123081_1_f3a505fc.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123081",
-        "link": {
-          "title": "2,060 New CVEs and 4 Actively Exploited Flaws (June 15-21, 2026)",
-          "url": "https://securityonline.info/weekly-cve-report-june-15-21-2026/"
-        }
-      },
-      {
-        "id": 123080,
-        "text": "⤷\nTitle:\nDragonForce Hides Backdoor C2 Inside Microsoft Teams TURN Relays\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 22 Jun 2026 03:30:15 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#Backdoor\n.Turn\n#BYOVD\n#DragonForce\n#Hackledorb\n#Microsoft\nTeams\n#QUIC\n#ransomware\n#TURN\nRelay",
-        "date": "2026-06-22T04:03:48+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123080_0_24b946ab.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123080_1_7df1e6a2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123080",
-        "link": {
-          "title": "DragonForce Hides Backdoor C2 Inside Microsoft Teams TURN Relays",
-          "url": "https://securityonline.info/microsoft-teams-backdoor-dragonforce/"
-        }
-      },
-      {
-        "id": 123079,
-        "text": "⤷\nTitle:\nPublic Exploit Released for FreeBSD kTLS Local Root Flaw CVE-2026-45257\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 22 Jun 2026 00:00:56 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_45257\n#freebsd\n#Kernel\nTLS\n#kTLS\n#Local\nPrivilege Escalation\n#Local\nRoot\n#proof_of_concept\n#sendfile",
-        "date": "2026-06-22T02:03:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123079_0_24b946ab.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123079_1_358a2994.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123079",
-        "link": {
-          "title": "Public Exploit Released for FreeBSD kTLS Local Root Flaw CVE-2026-45257",
-          "url": "https://securityonline.info/freebsd-ktls-cve-2026-45257/"
-        }
-      },
-      {
-        "id": 123078,
-        "text": "⤷\nTitle:\nThree Critical pgAdmin 4 Vulnerabilities Patched: XSS, Auth Bypass, and AI Assistant SQLi\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 22 Jun 2026 00:30:32 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_12045\n#CVE_2026_12046\n#CVE_2026_12048\n#pgAdmin\n#pgAdmin\n4 vulnerabilities\n#PostgreSQL\n#Prompt\ninjection\n#Stored\nXSS",
-        "date": "2026-06-22T02:03:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123078_0_24b946ab.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123078_1_00e97808.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123078",
-        "link": {
-          "title": "Three Critical pgAdmin 4 Vulnerabilities Patched: XSS, Auth Bypass, and AI Assistant SQLi",
-          "url": "https://securityonline.info/pgadmin-4-vulnerabilities/"
-        }
-      },
-      {
-        "id": 123077,
-        "text": "⤷\nTitle:\nAvo Flaw CVE-2026-55518 Enables Privilege Escalation in Rails Apps\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 22 Jun 2026 01:11:11 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#admin\npanel\n#Authorization\nBypass\n#Avo\n#CVE_2026_55518\n#Missing\nAuthorization\n#privilege\nescalation\n#Rails\nSecurity\n#ruby\non rails",
-        "date": "2026-06-22T02:03:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123077_0_24b946ab.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123077_1_9a6f37cb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123077",
-        "link": {
-          "title": "Avo Flaw CVE-2026-55518 Enables Privilege Escalation in Rails Apps",
-          "url": "https://securityonline.info/avo-authorization-bypass-cve-2026-55518/"
-        }
-      },
-      {
-        "id": 123076,
-        "text": "⤷\nTitle:\nErrTraffic Malware Spreads ClickFix Lures via Hacked WordPress Sites\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 22 Jun 2026 01:26:58 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#ClickFix\n#CVE_2020_25213\n#ErrTraffic\n#EtherHiding\n#Malware_as_a_Service\n#TDS\n#Vidar\n#wordpress",
-        "date": "2026-06-22T02:03:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123076_0_24b946ab.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123076_1_54460441.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123076",
-        "link": {
-          "title": "ErrTraffic Malware Spreads ClickFix Lures via Hacked WordPress Sites",
-          "url": "https://securityonline.info/errtraffic-malware-clickfix-framework/"
-        }
-      },
-      {
-        "id": 123075,
-        "text": "⤷\nTitle:\nThe Fallacy of the Valid Signature: Why Critical Transaction Flows Need More Than Cryptographic…\n════════════════════════\n𐀪\nAuthor:\nDeclerus Yves Kerbens\n════════════════════════\nⴵ\nTime:\nSun, 21 Jun 2026 21:56:55 GMT\n════════════════════════\n⌗\nTags:\n#pki\n#cryptography\n#appsec\n#certificate_pinning\n#api_security",
-        "date": "2026-06-22T00:04:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123075_0_24b946ab.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123075_1_cab8201a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123075",
-        "link": {
-          "title": "The Fallacy of the Valid Signature: Why Critical Transaction Flows Need More Than Cryptographic…",
-          "url": "https://medium.com/@yveskerbs89/the-fallacy-of-the-valid-signature-why-critical-transaction-flows-need-more-than-cryptographic-6769ebac4522?source=rss------api_security-5"
-        }
-      },
-      {
-        "id": 123074,
-        "text": "⤷\nTitle:\nThe Single-Primitive Write: WriteProcessMemory’s Hidden Page Flip\n════════════════════════\n𐀪\nAuthor:\nTom O'Neill\n════════════════════════\nⴵ\nTime:\nSun, 21 Jun 2026 22:15:43 GMT\n════════════════════════\n⌗\nTags:\n#malware\n#windows_internals\n#ethical_hacking\n#cybersecurity\n#windows",
-        "date": "2026-06-22T00:03:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123074_0_24b946ab.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123074_1_c508d447.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123074",
-        "link": {
-          "title": "The Single-Primitive Write: WriteProcessMemory’s Hidden Page Flip",
-          "url": "https://medium.com/@toneillcodes/the-single-primitive-write-writeprocessmemorys-hidden-page-flip-e5cb952bbfb2?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 123073,
-        "text": "⤷\nTitle:\nReflected XSS into a JavaScript string with angle brackets HTML encoded | Shiv Kumar | OWASP Top 10…\n════════════════════════\n𐀪\nAuthor:\nShiv Kumar\n════════════════════════\nⴵ\nTime:\nSun, 21 Jun 2026 23:25:13 GMT\n════════════════════════\n⌗\nTags:\n#xss_attack\n#aplication_security\n#reflected_xss\n#owasp_top_10\n#bug_bounty",
-        "date": "2026-06-22T00:03:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123073_0_24b946ab.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123073_1_a34c5413.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123073",
-        "link": {
-          "title": "Reflected XSS into a JavaScript string with angle brackets HTML encoded | Shiv Kumar | OWASP Top 10…",
-          "url": "https://medium.com/@localhostsinga/reflected-xss-into-a-javascript-string-with-angle-brackets-html-encoded-shiv-kumar-owasp-top-10-94520693b77b?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 123072,
-        "text": "⤷\nTitle:\nBlind SQL isn’t Blind any More\n════════════════════════\n𐀪\nAuthor:\nHyper Vare\n════════════════════════\nⴵ\nTime:\nSun, 21 Jun 2026 21:28:57 GMT\n════════════════════════\n⌗\nTags:\n#blind_sql_injection\n#database_hacking\n#i_can_see_blind_sql\n#sql_injection",
-        "date": "2026-06-21T22:04:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123072_0_24b946ab.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123072_1_d52a2b0a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123072",
-        "link": {
-          "title": "Blind SQL isn’t Blind any More",
-          "url": "https://medium.com/@hypervare/blind-sql-isnt-blind-any-more-d74190741478?source=rss------sql_injection-5"
-        }
-      },
-      {
-        "id": 123071,
-        "text": "⤷\nTitle:\nOAuth Is Still Misunderstood\n════════════════════════\n𐀪\nAuthor:\nLu Li\n════════════════════════\nⴵ\nTime:\nSun, 21 Jun 2026 21:45:08 GMT\n════════════════════════\n⌗\nTags:\n#software_development\n#oauth2\n#api_security\n#web_development\n#cybersecurity",
-        "date": "2026-06-21T22:04:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123071_0_24b946ab.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123071_1_19288815.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123071",
-        "link": {
-          "title": "OAuth Is Still Misunderstood",
-          "url": "https://medium.com/@luke20161/oauth-is-still-misunderstood-faaa90d69c8a?source=rss------api_security-5"
-        }
-      },
-      {
-        "id": 123070,
-        "text": "⤷\nTitle:\nNew Tool, The Six Eyes!\n════════════════════════\n𐀪\nAuthor:\nThe Husky Hacker\n════════════════════════\nⴵ\nTime:\nSun, 21 Jun 2026 20:33:24 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking_tools\n#ethical_hacking",
-        "date": "2026-06-21T22:04:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123070_0_24b946ab.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123070_1_1662043e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123070",
-        "link": {
-          "title": "New Tool, The Six Eyes!",
-          "url": "https://medium.com/@TheHuskyHacker/new-tool-the-six-eyes-6bdd4b1844a7?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 123069,
-        "text": "⤷\nTitle:\nDAY 13-NAMP FOR BEGINNERS\n════════════════════════\n𐀪\nAuthor:\nWandesrtech\n════════════════════════\nⴵ\nTime:\nSun, 21 Jun 2026 20:46:00 GMT\n════════════════════════\n⌗\nTags:\n#linux\n#ethical_hacking\n#nmap\n#cybersecurity\n#reconnaissance",
-        "date": "2026-06-21T22:04:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123069_0_24b946ab.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123069_1_f0b6b2dd.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123069",
-        "link": {
-          "title": "DAY 13-NAMP FOR BEGINNERS",
-          "url": "https://medium.com/@wandesrtech/day-13-namp-for-beginners-e0d2ea14eadc?source=rss------ethical_hacking-5"
-        }
       }
     ]
   },
-  "last_update": "2026-06-23T01:29:15.495218+00:00",
+  "last_update": "2026-06-23T05:37:55.055274+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2299,7 +2299,7 @@
     },
     "referenced_files": 196,
     "existing_media_files": 196,
-    "total_size_mb": 6.12,
-    "last_calculation": "2026-06-23T01:29:15.497588+00:00"
+    "total_size_mb": 5.79,
+    "last_calculation": "2026-06-23T05:37:55.057569+00:00"
   }
 }
