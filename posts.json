@@ -2,6 +2,163 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 123375,
+        "text": "⤷\nTitle:\nCVE-2026–42530: Critical Integer Overflow in NGINX HTTP/3 Opens Door to Remote RCE and Trivial DoS\n════════════════════════\n𐀪\nAuthor:\nCyDhaal\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 20:10:54 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#http3\n#cve\n#rce\n#nginx",
+        "date": "2026-06-23T22:04:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123375_0_9be59da0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123375_1_dc9d7483.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123375",
+        "link": {
+          "title": "CVE-2026–42530: Critical Integer Overflow in NGINX HTTP/3 Opens Door to Remote RCE and Trivial DoS",
+          "url": "https://medium.com/@cydhaal/cve-2026-42530-critical-integer-overflow-in-nginx-http-3-opens-door-to-remote-rce-and-trivial-dos-df8ed566c019?source=rss------rce-5"
+        }
+      },
+      {
+        "id": 123374,
+        "text": "⤷\nTitle:\nSimulating and Detecting Network Threats: A Hands-On Dive into TCP SYN Floods and Snort IDS\n════════════════════════\n𐀪\nAuthor:\nNameer Khan\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 21:10:37 GMT\n════════════════════════\n⌗\nTags:\n#python\n#network_security\n#intrusion_detection\n#cybersecurity\n#ethical_hacking",
+        "date": "2026-06-23T22:04:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123374_0_9be59da0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123374_1_b5023e5e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123374",
+        "link": {
+          "title": "Simulating and Detecting Network Threats: A Hands-On Dive into TCP SYN Floods and Snort IDS",
+          "url": "https://medium.com/@nameerr.k/simulating-and-detecting-network-threats-a-hands-on-dive-into-tcp-syn-floods-and-snort-ids-9368b3a84c53?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 123373,
+        "text": "⤷\nTitle:\nTryHackme Team Walkthrough\n════════════════════════\n𐀪\nAuthor:\nSujal Kumar\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 20:49:28 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#ctf\n#tryhackme_walkthrough\n#ctf_writeup\n#linux",
+        "date": "2026-06-23T22:04:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123373_0_9be59da0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123373_1_170a9059.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123373",
+        "link": {
+          "title": "TryHackme Team Walkthrough",
+          "url": "https://medium.com/@iamsujalkr/tryhackme-team-walkthrough-f62d4b94874b?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 123372,
+        "text": "⤷\nTitle:\nHandle Permission Elevation via BYOVD\n════════════════════════\n𐀪\nAuthor:\nS12 - 0x12Dark Development\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 20:36:33 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#hacking\n#infosec\n#malware\n#pentesting",
+        "date": "2026-06-23T22:04:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123372_0_9be59da0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123372_1_2bd52126.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123372",
+        "link": {
+          "title": "Handle Permission Elevation via BYOVD",
+          "url": "https://medium.com/@s12deff/handle-permission-elevation-via-byovd-df99e908e780?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 123371,
+        "text": "⤷\nTitle:\n403 Forbidden Bypass Techniques\n════════════════════════\n𐀪\nAuthor:\n0xi6r\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 20:01:37 GMT\n════════════════════════\n⌗\nTags:\n#403_forbidden\n#hacking\n#security\n#bug_bounty\n#web_security",
+        "date": "2026-06-23T22:04:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123371_0_9be59da0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123371_1_23c372fb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123371",
+        "link": {
+          "title": "403 Forbidden Bypass Techniques",
+          "url": "https://medium.com/@0xi6r/403-forbidden-bypass-techniques-5d284b8ffef1?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 123370,
+        "text": "⤷\nTitle:\nThe Database That Couldn’t Keep a Secret\n════════════════════════\n𐀪\nAuthor:\nmorgan_hack\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 21:11:17 GMT\n════════════════════════\n⌗\nTags:\n#bugs\n#bug_bounty_writeup\n#website\n#bug_bounty\n#bug_bounty_tips",
+        "date": "2026-06-23T22:03:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123370_0_9be59da0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123370_1_93f3b7c5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123370",
+        "link": {
+          "title": "The Database That Couldn’t Keep a Secret",
+          "url": "https://medium.com/@guyani/the-database-that-couldnt-keep-a-secret-0e99202ab81b?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 123369,
+        "text": "⤷\nTitle:\nFortiBleed Targeted FortiGate Firewalls in 110 Million-Credential Harvesting Operation\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 23:50:49 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-06-23T22:03:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123369_0_9be59da0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123369",
+        "link": {
+          "title": "FortiBleed Targeted FortiGate Firewalls in 110 Million-Credential Harvesting Operation",
+          "url": "https://thehackernews.com/2026/06/fortibleed-targeted-fortigate-firewalls.html"
+        }
+      },
+      {
         "id": 123368,
         "text": "⤷\nTitle:\nThe Shadow Pipeline Crisis: Severing LCNC Data Exfiltration at the OAuth Layer\n════════════════════════\n𐀪\nAuthor:\nPRASAD BHONDE\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 17:51:32 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#dpdp_act\n#deeptech\n#data_protection\n#api_security",
         "date": "2026-06-23T20:04:40+00:00",
@@ -2111,167 +2268,10 @@
           "title": "Thejavasea.me Leaks Aio-Tlp371: What It Means, Risks, and Cybersecurity Insights",
           "url": "https://medium.com/@chrisellesterling/thejavasea-me-leaks-aio-tlp371-what-it-means-risks-and-cybersecurity-insights-38f54e38f05e?source=rss------hacking-5"
         }
-      },
-      {
-        "id": 123264,
-        "text": "⤷\nTitle:\nI Replaced My Smartwatch’s Official App by Reverse Engineering Its Bluetooth Protocol\n════════════════════════\n𐀪\nAuthor:\nLinusthomas\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 07:20:13 GMT\n════════════════════════\n⌗\nTags:\n#bluetooth_low_energy\n#reverse_engineering\n#hacking\n#bluetooth",
-        "date": "2026-06-23T08:04:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123264_0_1f51a32e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123264_1_6ef58075.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123264",
-        "link": {
-          "title": "I Replaced My Smartwatch’s Official App by Reverse Engineering Its Bluetooth Protocol",
-          "url": "https://medium.com/@linusthomas5420/i-replaced-my-smartwatchs-official-app-by-reverse-engineering-its-bluetooth-protocol-e1f0c6aa1a80?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 123263,
-        "text": "⤷\nTitle:\nStrengthening Digital Trust with Application Security & DevSecOps\n════════════════════════\n𐀪\nAuthor:\nSoftifytec\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 06:41:38 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#application_security\n#cloud_security\n#software_development\n#devsecops",
-        "date": "2026-06-23T08:03:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123263_0_1f51a32e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123263_1_db144a25.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123263",
-        "link": {
-          "title": "Strengthening Digital Trust with Application Security & DevSecOps",
-          "url": "https://medium.com/@softifytec/strengthening-digital-trust-with-application-security-devsecops-7553d94d1ae3?source=rss------application_security-5"
-        }
-      },
-      {
-        "id": 123262,
-        "text": "⤷\nTitle:\nHardening Web Servers and Detecting Attacks: Apache, Nginx, Logging & Monitoring Security\n════════════════════════\n𐀪\nAuthor:\nZ3r0D4y\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 06:21:00 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#bug_bounty_tips\n#cybersecurity\n#information_security\n#web_security",
-        "date": "2026-06-23T08:03:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123262_0_1f51a32e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123262_1_c2798cdb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123262",
-        "link": {
-          "title": "Hardening Web Servers and Detecting Attacks: Apache, Nginx, Logging & Monitoring Security",
-          "url": "https://medium.com/@pritamtare029/hardening-web-servers-and-detecting-attacks-apache-nginx-logging-monitoring-security-d001fae0f6d4?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 123261,
-        "text": "⤷\nTitle:\nBug Bounty Recon Mastery →Advanced Reconnaissance and Attack Surface Mapping V2\n════════════════════════\n𐀪\nAuthor:\nMD Mehedi Hasan\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 07:06:16 GMT\n════════════════════════\n⌗\nTags:\n#subdomain_enumeration\n#infosec\n#reconnaissance\n#bug_bounty\n#dns_recon",
-        "date": "2026-06-23T08:03:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123261_0_1f51a32e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123261_1_573a285d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123261",
-        "link": {
-          "title": "Bug Bounty Recon Mastery →Advanced Reconnaissance and Attack Surface Mapping V2",
-          "url": "https://infosecwriteups.com/bug-bounty-recon-mastery-advanced-reconnaissance-and-attack-surface-mapping-v2-c18e0a6738c9?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 123260,
-        "text": "⤷\nTitle:\nWhatsApp VBScript Campaign Uses Fake Documents to Install ManageEngine RMM Tool\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 11:08:40 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-06-23T08:03:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123260_0_1f51a32e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123260",
-        "link": {
-          "title": "WhatsApp VBScript Campaign Uses Fake Documents to Install ManageEngine RMM Tool",
-          "url": "https://thehackernews.com/2026/06/whatsapp-vbscript-campaign-uses-fake.html"
-        }
-      },
-      {
-        "id": 123259,
-        "text": "⤷\nTitle:\nMatrix 3 : Vulnhub Walkthrough\n════════════════════════\n𐀪\nAuthor:\nUtsav Thakur\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 05:23:54 GMT\n════════════════════════\n⌗\nTags:\n#ctf_writeup\n#matrix3\n#vulnhub_walkthrough\n#vulnhub\n#ctf",
-        "date": "2026-06-23T06:04:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123259_0_1f51a32e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123259_1_8e4897fb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123259",
-        "link": {
-          "title": "Matrix 3 : Vulnhub Walkthrough",
-          "url": "https://medium.com/@utsavthakur448/matrix-3-vulnhub-walkthrough-1b156452f23f?source=rss------vulnhub-5"
-        }
-      },
-      {
-        "id": 123258,
-        "text": "⤷\nTitle:\nDeFi Protocol Types Part 1: DEX & Lending\n════════════════════════\n𐀪\nAuthor:\nHacker MD\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 04:31:02 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#defi\n#web3\n#infosec\n#cybersecurity",
-        "date": "2026-06-23T06:04:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123258_0_1f51a32e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123258_1_ea1ca30a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123258",
-        "link": {
-          "title": "DeFi Protocol Types Part 1: DEX & Lending",
-          "url": "https://medium.com/@HackerMD/defi-protocol-types-part-1-dex-lending-91aba9976f5e?source=rss------bug_bounty-5"
-        }
       }
     ]
   },
-  "last_update": "2026-06-23T21:03:05.091917+00:00",
+  "last_update": "2026-06-23T22:15:04.079917+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2283,7 +2283,7 @@
     },
     "referenced_files": 192,
     "existing_media_files": 192,
-    "total_size_mb": 5.74,
-    "last_calculation": "2026-06-23T21:03:05.094217+00:00"
+    "total_size_mb": 5.37,
+    "last_calculation": "2026-06-23T22:15:04.082217+00:00"
   }
 }
