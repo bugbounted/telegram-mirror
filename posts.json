@@ -2,6 +2,397 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 123398,
+        "text": "⤷\nTitle:\nThe Silent Data Leak: Hardening Production Gateways Against GraphQL Introspection\n════════════════════════\n𐀪\nAuthor:\nBizTech Pulse Hub\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 02:26:56 GMT\n════════════════════════\n⌗\nTags:\n#web_development\n#software_engineering\n#api_security\n#cybersecurity\n#graphql",
+        "date": "2026-06-24T04:04:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123398_0_9be59da0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123398_1_e419342a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123398",
+        "link": {
+          "title": "The Silent Data Leak: Hardening Production Gateways Against GraphQL Introspection",
+          "url": "https://medium.com/@Biztechpulsehub/the-silent-data-leak-hardening-production-gateways-against-graphql-introspection-fef05f0ae0f6?source=rss------api_security-5"
+        }
+      },
+      {
+        "id": 123397,
+        "text": "⤷\nTitle:\nWindows CLI Basics: Command Prompt Administration and Reconnaissance\n════════════════════════\n𐀪\nAuthor:\nJonathan Sanfer\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 02:06:30 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#windows_cli_basics\n#command_prompt\n#windows_administration\n#tryhackme",
+        "date": "2026-06-24T04:04:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123397_0_9be59da0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123397_1_a3fa31df.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123397",
+        "link": {
+          "title": "Windows CLI Basics: Command Prompt Administration and Reconnaissance",
+          "url": "https://medium.com/@jonathan.sanfer/windows-cli-basics-command-prompt-administration-and-reconnaissance-6075ce5d5e09?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 123396,
+        "text": "⤷\nTitle:\nFrom Foothold to SYSTEM: Bypassing Windows UAC with UACMe\n════════════════════════\n𐀪\nAuthor:\nPradeep Mphector\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 03:41:36 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#infosec\n#cybersecurity\n#ethical_hacking\n#privilege_escalation",
+        "date": "2026-06-24T04:04:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123396_0_9be59da0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123396_1_a7dbaa62.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123396",
+        "link": {
+          "title": "From Foothold to SYSTEM: Bypassing Windows UAC with UACMe",
+          "url": "https://medium.com/@pradeep.mphector/from-foothold-to-system-bypassing-windows-uac-with-uacme-16611b988fbe?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 123395,
+        "text": "⤷\nTitle:\nAVer PTC Cameras Hit by Critical RCE Flaw CVE-2026-40624 (CVSS 9.8)\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 02:05:55 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#AVer\n#CISA\n#CVE_2026_40624\n#ICS\nAdvisory\n#PTC\ncameras\n#Remote\nCode Execution",
+        "date": "2026-06-24T04:04:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123395_0_9be59da0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123395_1_d4b00f5b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123395",
+        "link": {
+          "title": "AVer PTC Cameras Hit by Critical RCE Flaw CVE-2026-40624 (CVSS 9.8)",
+          "url": "https://securityonline.info/aver-ptc-camera-flaw/"
+        }
+      },
+      {
+        "id": 123394,
+        "text": "⤷\nTitle:\nCloudflare PACT Protocol: A Privacy-First Era of Verification\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 03:20:54 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#cloudflare\n#PACT\nProtocol\n#privacy\n#Tech\nNews\n#Web\nSecurity",
+        "date": "2026-06-24T04:04:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123394_0_9be59da0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123394_1_a0c7ed8e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123394",
+        "link": {
+          "title": "Cloudflare PACT Protocol: A Privacy-First Era of Verification",
+          "url": "https://securityonline.info/cloudflare-pact-protocol/"
+        }
+      },
+      {
+        "id": 123393,
+        "text": "⤷\nTitle:\nOutlook for Mac Glitch Omits Original Message Content\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 03:27:20 +0000\n════════════════════════\n⌗\nTags:\n#Technology",
+        "date": "2026-06-24T04:04:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123393_0_9be59da0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123393_1_0fe76302.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123393",
+        "link": {
+          "title": "Outlook for Mac Glitch Omits Original Message Content",
+          "url": "https://securityonline.info/outlook-for-mac-glitch-missing-email-body/"
+        }
+      },
+      {
+        "id": 123392,
+        "text": "⤷\nTitle:\nGoogle Search Now Saves Your Uploaded Media to Train AI\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 03:35:39 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#AI\ntraining\n#Circle\nto Search\n#google\n#google\nsearch\n#privacy\n#Search\nServices History",
+        "date": "2026-06-24T04:04:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123392_0_9be59da0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123392_1_257e3fb8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123392",
+        "link": {
+          "title": "Google Search Now Saves Your Uploaded Media to Train AI",
+          "url": "https://securityonline.info/google-search-save-media/"
+        }
+      },
+      {
+        "id": 123391,
+        "text": "⤷\nTitle:\nNational Health Care Fraud Takedown Charges 455 Suspects\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 03:48:23 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#DOJ\n#Health\nCare Fraud\n#Telemedicine\nFraud",
+        "date": "2026-06-24T04:04:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123391_0_9be59da0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123391_1_81cd4642.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123391",
+        "link": {
+          "title": "National Health Care Fraud Takedown Charges 455 Suspects",
+          "url": "https://securityonline.info/health-care-fraud-takedown/"
+        }
+      },
+      {
+        "id": 123390,
+        "text": "⤷\nTitle:\nWorld Leaks Claims Tata Electronics Breach of Apple and Tesla Files\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 02:24:14 +0000\n════════════════════════\n⌗\nTags:\n#Data\nLeak\n#Apple\n#data\nbreach\n#supply\nchain attack\n#Tata\nElectronics\n#Tesla\n#World\nLeaks",
+        "date": "2026-06-24T04:04:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123390_0_9be59da0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123390_1_fe57ce36.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123390",
+        "link": {
+          "title": "World Leaks Claims Tata Electronics Breach of Apple and Tesla Files",
+          "url": "https://meterpreter.org/world-leaks-tata-breach/"
+        }
+      },
+      {
+        "id": 123389,
+        "text": "⤷\nTitle:\nWhatsApp VBS Campaign Installs ManageEngine RMM for Remote Access\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 03:11:44 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#kaspersky\n#Malware\nCampaign\n#ManageEngine\nEndpoint Central\n#RMM\nAbuse\n#VBScript\n#WhatsApp",
+        "date": "2026-06-24T04:03:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123389_0_9be59da0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123389_1_44104a87.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123389",
+        "link": {
+          "title": "WhatsApp VBS Campaign Installs ManageEngine RMM for Remote Access",
+          "url": "https://meterpreter.org/whatsapp-vbs-rmm-campaign/"
+        }
+      },
+      {
+        "id": 123388,
+        "text": "⤷\nTitle:\nSmartApeSG Hijacks Okendo Reviews Widget in Supply Chain Attack\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 03:26:12 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#ClickFix\n#Okendo\nReviews\n#SmartApeSG\n#StealC\n#supply\nchain attack\n#Zscaler",
+        "date": "2026-06-24T04:03:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123388_0_9be59da0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123388_1_5ef53755.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123388",
+        "link": {
+          "title": "SmartApeSG Hijacks Okendo Reviews Widget in Supply Chain Attack",
+          "url": "https://meterpreter.org/smartapesg-okendo-reviews-attack/"
+        }
+      },
+      {
+        "id": 123387,
+        "text": "⤷\nTitle:\nThe Day I Accidentally Destroyed My Own Evidence\n════════════════════════\n𐀪\nAuthor:\nTeachnolen\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 00:36:25 GMT\n════════════════════════\n⌗\nTags:\n#powershell\n#ethical_hacking\n#digital_forensics\n#cybersecurity\n#blue_team",
+        "date": "2026-06-24T02:04:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123387_0_9be59da0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123387_1_cbc748c0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123387",
+        "link": {
+          "title": "The Day I Accidentally Destroyed My Own Evidence",
+          "url": "https://medium.com/@teachnolen/the-day-i-accidentally-destroyed-my-own-evidence-00e27a27a518?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 123386,
+        "text": "⤷\nTitle:\nVulnHub: Tr0ll 1 Walkthrough\n════════════════════════\n𐀪\nAuthor:\nAntonio\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 01:41:00 GMT\n════════════════════════\n⌗\nTags:\n#vulnhub\n#oscp_vulnhub\n#vulnhub_walkthrough",
+        "date": "2026-06-24T02:04:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123386_0_9be59da0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123386_1_13146614.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123386",
+        "link": {
+          "title": "VulnHub: Tr0ll 1 Walkthrough",
+          "url": "https://medium.com/@inotp/vulnhub-tr0ll-1-walkthrough-92a91cc4ed93?source=rss------vulnhub-5"
+        }
+      },
+      {
+        "id": 123385,
+        "text": "⤷\nTitle:\nFrom CTF Player to SOC Analyst: The Skill Nobody Tells You About\n════════════════════════\n𐀪\nAuthor:\nGUNASEELAN\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 01:01:01 GMT\n════════════════════════\n⌗\nTags:\n#ctf\n#soc_analyst\n#infosec\n#careers\n#cybersecurity",
+        "date": "2026-06-24T02:04:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123385_0_9be59da0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123385_1_cffcfe98.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123385",
+        "link": {
+          "title": "From CTF Player to SOC Analyst: The Skill Nobody Tells You About",
+          "url": "https://medium.com/@guna-techAI/from-ctf-player-to-soc-analyst-the-skill-nobody-tells-you-about-8207194d337e?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 123384,
+        "text": "⤷\nTitle:\nSquidbleed (CVE-2026-47729): Squid Proxy Memory Leak Details and PoC Disclosed\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 00:01:58 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Calif\n.io\n#CVE_2026_47729\n#Heap\nOverread\n#Memory\nLeak\n#Squid\nProxy\n#Squidbleed",
+        "date": "2026-06-24T02:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123384_0_9be59da0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123384_1_261b47ab.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123384",
+        "link": {
+          "title": "Squidbleed (CVE-2026-47729): Squid Proxy Memory Leak Details and PoC Disclosed",
+          "url": "https://securityonline.info/squidbleed-vulnerability/"
+        }
+      },
+      {
+        "id": 123383,
+        "text": "⤷\nTitle:\nWebmin 2.641 Fixes Three Vulnerabilities Including a Critical Auth Bypass\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 01:00:13 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Authentication\nBypass\n#CVE_2026_56020\n#CVE_2026_56021\n#CVE_2026_56022\n#Webmin\n#Webmin\n2.641",
+        "date": "2026-06-24T02:03:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123383_0_9be59da0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123383_1_a6d7aec5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123383",
+        "link": {
+          "title": "Webmin 2.641 Fixes Three Vulnerabilities Including a Critical Auth Bypass",
+          "url": "https://securityonline.info/webmin-vulnerabilities/"
+        }
+      },
+      {
+        "id": 123382,
+        "text": "⤷\nTitle:\nContainerd Critical Vulnerabilities Expose Host Servers\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 01:20:37 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#container\nsecurity\n#containerd\n#CVE_2026_50195\n#CVE_2026_53488\n#CVE_2026_53492",
+        "date": "2026-06-24T02:03:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123382_0_9be59da0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123382_1_5be5ece0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123382",
+        "link": {
+          "title": "Containerd Critical Vulnerabilities Expose Host Servers",
+          "url": "https://securityonline.info/containerd-critical-vulnerabilities-cve/"
+        }
+      },
+      {
         "id": 123381,
         "text": "⤷\nTitle:\nWrite-up Hacker DNA\n════════════════════════\n𐀪\nAuthor:\nCp Kakaping\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 22:28:29 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#life_hacking\n#hacking_news\n#hacking",
         "date": "2026-06-24T00:04:18+00:00",
@@ -1881,409 +2272,22 @@
           "title": "Fired IT worker jailed for 21 months after sabotaging old school district",
           "url": "https://stansecure.medium.com/fired-it-worker-jailed-for-21-months-after-sabotaging-old-school-district-f0c1170cd3cc?source=rss------infosec-5"
         }
-      },
-      {
-        "id": 123287,
-        "text": "⤷\nTitle:\nA Smart Lightbulb as an Offline Library: Embedded Systems, Local Access, and the Politics of…\n════════════════════════\n𐀪\nAuthor:\nFrancesco C.\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 07:57:50 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#iot\n#freedom\n#software_engineering\n#books",
-        "date": "2026-06-23T10:04:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123287_0_1f51a32e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123287_1_c60ce369.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123287",
-        "link": {
-          "title": "A Smart Lightbulb as an Offline Library: Embedded Systems, Local Access, and the Politics of…",
-          "url": "https://medium.com/@francesco.cozzolino/a-smart-lightbulb-as-an-offline-library-embedded-systems-local-access-and-the-politics-of-c87c3d3dba9a?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 123286,
-        "text": "⤷\nTitle:\nBank Account Hacking: Understanding the Threats || Hire A Hacker\n════════════════════════\n𐀪\nAuthor:\nBlackHat\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 08:40:27 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#banking\n#hacking_services\n#business\n#money",
-        "date": "2026-06-23T10:04:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123286_0_1f51a32e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123286_1_65c65d85.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123286",
-        "link": {
-          "title": "Bank Account Hacking: Understanding the Threats || Hire A Hacker",
-          "url": "https://medium.com/@hackersclique857/bank-account-hacking-understanding-the-threats-hire-a-hacker-3ee038c16f5d?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 123285,
-        "text": "⤷\nTitle:\nThe Hackers Hiding Their Commands in the Internet’s Phone Book\n════════════════════════\n𐀪\nAuthor:\nPop123\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 08:48:07 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#hacking\n#dns\n#cisco\n#technology",
-        "date": "2026-06-23T10:04:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123285_0_1f51a32e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123285_1_d324bcb7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123285",
-        "link": {
-          "title": "The Hackers Hiding Their Commands in the Internet’s Phone Book",
-          "url": "https://medium.com/@Pop123/the-hackers-hiding-their-commands-in-the-internets-phone-book-628958aee091?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 123284,
-        "text": "⤷\nTitle:\nWhy Weak Passwords Still Win: Lessons from a Hydra Brute-Force Exercise\n════════════════════════\n𐀪\nAuthor:\nSinghreetika\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 08:53:43 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#ctf\n#cybersecurity\n#careers\n#learning",
-        "date": "2026-06-23T10:04:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123284_0_1f51a32e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123284_1_0bd0501e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123284",
-        "link": {
-          "title": "Why Weak Passwords Still Win: Lessons from a Hydra Brute-Force Exercise",
-          "url": "https://medium.com/@singhreetika85/why-weak-passwords-still-win-lessons-from-a-hydra-brute-force-exercise-6bac41279fe9?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 123283,
-        "text": "⤷\nTitle:\nFinding the Bug Was Easy… Proving the Impact Wasn’t\n════════════════════════\n𐀪\nAuthor:\nAbdelrahman Maged\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 09:34:40 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#web_penetration_testing\n#bug_bounty\n#bug_bounty_writeup\n#cybersecurity",
-        "date": "2026-06-23T10:04:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123283_0_1f51a32e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123283_1_c921c9e7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123283",
-        "link": {
-          "title": "Finding the Bug Was Easy… Proving the Impact Wasn’t",
-          "url": "https://medium.com/@abdelrahman.maged.cg/finding-the-bug-was-easy-proving-the-impact-wasnt-ff03a73bc204?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 123282,
-        "text": "⤷\nTitle:\nBug Bounty, 2026: Same Game, New Way to Start\n════════════════════════\n𐀪\nAuthor:\nAbhishek meena\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 09:41:57 GMT\n════════════════════════\n⌗\nTags:\n#info_sec_writeups\n#bug_bounty\n#bug_bounty_writeup\n#bug_bounty_tips\n#infosec",
-        "date": "2026-06-23T10:04:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123282_0_1f51a32e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123282_1_35ef4cd8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123282",
-        "link": {
-          "title": "Bug Bounty, 2026: Same Game, New Way to Start",
-          "url": "https://medium.com/@Aacle/bug-bounty-2026-same-game-new-way-to-start-22359c08e1a0?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 123281,
-        "text": "⤷\nTitle:\nCloud DNS Takeover Powers Thai Gambling Campaign\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 06:06:09 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#Azure\nSecurity\n#Cloud\nDNS Takeover\n#Cybercrime\n#SEO\nPoisoning",
-        "date": "2026-06-23T10:04:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123281_0_1f51a32e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123281_1_72c9b799.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123281",
-        "link": {
-          "title": "Cloud DNS Takeover Powers Thai Gambling Campaign",
-          "url": "https://securityonline.info/cloud-dns-takeover-thai-gambling/"
-        }
-      },
-      {
-        "id": 123280,
-        "text": "⤷\nTitle:\nAryStinger Malware Attacks Routers via CVE-2013-3307\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 07:01:02 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#AryStinger\n#CVE_2013_3307\n#CVE_2016_5681\n#CVE_2025_11837\n#Legacy\nRouters\n#QiAnXin",
-        "date": "2026-06-23T10:04:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123280_0_1f51a32e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123280_1_641bf660.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123280",
-        "link": {
-          "title": "AryStinger Malware Attacks Routers via CVE-2013-3307",
-          "url": "https://securityonline.info/arystinger-malware-legacy-routers/"
-        }
-      },
-      {
-        "id": 123279,
-        "text": "⤷\nTitle:\nDropping Elephant Malware: China-Themed Loader Campaign Analyzed\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 08:22:04 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#CVE_2012_0158\n#CVE_2014_1761\n#CVE_2017_8570\n#Dropping\nElephant Malware",
-        "date": "2026-06-23T10:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123279_0_1f51a32e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123279_1_6ca54538.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123279",
-        "link": {
-          "title": "Dropping Elephant Malware: China-Themed Loader Campaign Analyzed",
-          "url": "https://securityonline.info/dropping-elephant-malware-loader/"
-        }
-      },
-      {
-        "id": 123278,
-        "text": "⤷\nTitle:\nmacOS ClickFix AppleScript Stealer Hijacks Crypto Wallets\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 08:28:10 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#AppleScript\nStealer\n#ClickFix\n#CVE_2024_27804\n#CVE_2024_27805\n#CVE_2024_27806\n#macOS",
-        "date": "2026-06-23T10:03:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123278_0_1f51a32e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123278_1_3329346e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123278",
-        "link": {
-          "title": "macOS ClickFix AppleScript Stealer Hijacks Crypto Wallets",
-          "url": "https://securityonline.info/macos-clickfix-applescript-stealer/"
-        }
-      },
-      {
-        "id": 123277,
-        "text": "⤷\nTitle:\nGitBait Phishing Campaign Targets 12 Mexican Banks via GitHub Pages\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 09:22:00 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#Credential\nHarvesting\n#Financial\nSector\n#GitBait\n#GitHub\nPages\n#Mexican\nbanks\n#phishing\n#SheetBest\n#Telegram\nbot",
-        "date": "2026-06-23T10:03:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123277_0_1f51a32e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123277_1_bdf5b5eb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123277",
-        "link": {
-          "title": "GitBait Phishing Campaign Targets 12 Mexican Banks via GitHub Pages",
-          "url": "https://securityonline.info/gitbait-phishing-campaign-mexican-banks/"
-        }
-      },
-      {
-        "id": 123276,
-        "text": "⤷\nTitle:\nMalicious npm Packages Pose as PostCSS Tools to Deliver Windows RAT\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 14:24:32 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-06-23T10:03:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123276_0_1f51a32e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123276",
-        "link": {
-          "title": "Malicious npm Packages Pose as PostCSS Tools to Deliver Windows RAT",
-          "url": "https://thehackernews.com/2026/06/malicious-npm-packages-pose-as-postcss.html"
-        }
-      },
-      {
-        "id": 123275,
-        "text": "⤷\nTitle:\nAre SQL Injection Vulnerabilities Absolete ?\n════════════════════════\n𐀪\nAuthor:\nlukewago\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 06:36:56 GMT\n════════════════════════\n⌗\nTags:\n#cyber_security_awareness\n#sql\n#web_development\n#cybersecurity\n#sql_injection",
-        "date": "2026-06-23T08:04:47+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123275_0_1f51a32e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123275_1_3af52fc9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123275",
-        "link": {
-          "title": "Are SQL Injection Vulnerabilities Absolete ?",
-          "url": "https://medium.com/@lukewago/are-sql-injection-vulnerabilities-absolete-512d32262c69?source=rss------sql_injection-5"
-        }
-      },
-      {
-        "id": 123274,
-        "text": "⤷\nTitle:\nHow I Investigate a Slow Linux Server\n════════════════════════\n𐀪\nAuthor:\nFateyaly\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 07:30:43 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#cybersecurity\n#programming\n#technology\n#coding",
-        "date": "2026-06-23T08:04:43+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123274_0_1f51a32e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123274_1_754a00e0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123274",
-        "link": {
-          "title": "How I Investigate a Slow Linux Server",
-          "url": "https://meetcyber.net/how-i-investigate-a-slow-linux-server-3ffaaaea9b98?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 123273,
-        "text": "⤷\nTitle:\nNo Upfront Fees for Crypto Recovery — WhatsApp Mighty Hacker Recovery: +1 (343) 947–3496\n════════════════════════\n𐀪\nAuthor:\nDaddytt\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 07:31:18 GMT\n════════════════════════\n⌗\nTags:\n#self_help\n#ethical_hacking\n#free\n#ethereum_blockchain\n#cryptocurrency_investment",
-        "date": "2026-06-23T08:04:40+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123273_0_1f51a32e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123273_1_2c56e70f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123273",
-        "link": {
-          "title": "No Upfront Fees for Crypto Recovery — WhatsApp Mighty Hacker Recovery: +1 (343) 947–3496",
-          "url": "https://medium.com/@daddytt412/no-upfront-fees-for-crypto-recovery-whatsapp-mighty-hacker-recovery-1-343-947-3496-034029872986?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 123272,
-        "text": "⤷\nTitle:\nOperation Coldstart | TryHackMe\n════════════════════════\n𐀪\nAuthor:\nRyca\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 06:32:54 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#red_team\n#ctf\n#tryhackme",
-        "date": "2026-06-23T08:04:29+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123272_0_1f51a32e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123272_1_ff13f858.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123272",
-        "link": {
-          "title": "Operation Coldstart | TryHackMe",
-          "url": "https://medium.com/@elaris/operation-coldstart-tryhackme-2e4c9527d434?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 123271,
-        "text": "⤷\nTitle:\nSSDLC | TryHackMe\n════════════════════════\n𐀪\nAuthor:\nRyca\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 06:32:57 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#sdlc\n#cybersecurity\n#devsecops",
-        "date": "2026-06-23T08:04:26+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123271_0_1f51a32e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123271_1_48878809.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123271",
-        "link": {
-          "title": "SSDLC | TryHackMe",
-          "url": "https://medium.com/@elaris/ssdlc-tryhackme-9027773ad0f2?source=rss------tryhackme-5"
-        }
       }
     ]
   },
-  "last_update": "2026-06-24T01:56:48.426186+00:00",
+  "last_update": "2026-06-24T05:58:14.447612+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 192,
-    "total_files": 192,
+    "total_media": 193,
+    "total_files": 193,
     "total_links": 0,
     "files_by_type": {
-      "image": 192
+      "image": 193
     },
-    "referenced_files": 192,
-    "existing_media_files": 192,
-    "total_size_mb": 5.16,
-    "last_calculation": "2026-06-24T01:56:48.427989+00:00"
+    "referenced_files": 193,
+    "existing_media_files": 193,
+    "total_size_mb": 4.92,
+    "last_calculation": "2026-06-24T05:58:14.449845+00:00"
   }
 }
