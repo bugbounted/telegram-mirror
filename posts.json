@@ -2,6 +2,236 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 123480,
+        "text": "⤷\nTitle:\nConsent as Infrastructure\n════════════════════════\n𐀪\nAuthor:\nViggnah Selvaraj\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 15:59:36 GMT\n════════════════════════\n⌗\nTags:\n#consent_management\n#data_privacy\n#api_security\n#gdpr\n#data_exchange_platform",
+        "date": "2026-06-24T18:04:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123480_0_f168795d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123480_1_cd0d7b77.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123480",
+        "link": {
+          "title": "Consent as Infrastructure",
+          "url": "https://medium.com/@viggnah/consent-as-infrastructure-1506cfe2f00b?source=rss------api_security-5"
+        }
+      },
+      {
+        "id": 123479,
+        "text": "⤷\nTitle:\nETW Analysis and Bypass Techniques on VM\n════════════════════════\n𐀪\nAuthor:\nElher\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 16:24:55 GMT\n════════════════════════\n⌗\nTags:\n#malware_analysis\n#windows\n#aws\n#cybersecurity\n#ethical_hacking",
+        "date": "2026-06-24T18:04:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123479_0_f168795d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123479_1_43ea52ad.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123479",
+        "link": {
+          "title": "ETW Analysis and Bypass Techniques on VM",
+          "url": "https://medium.com/@elher.1922/etw-analysis-and-bypass-techniques-on-aws-windows-ec2-ee427e4716c2?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 123478,
+        "text": "⤷\nTitle:\nStuxnet: Where Cyber Warfare Began\n════════════════════════\n𐀪\nAuthor:\nSAHIL REJI\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 16:46:05 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#information_security\n#stuxnet\n#ethical_hacking\n#cyberattack",
+        "date": "2026-06-24T18:04:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123478_0_f168795d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123478_1_ed408719.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123478",
+        "link": {
+          "title": "Stuxnet: Where Cyber Warfare Began",
+          "url": "https://medium.com/@sahilreji/stuxnet-where-cyber-warfare-began-50bec410dd7a?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 123477,
+        "text": "⤷\nTitle:\nA Beginner’s Guide to step into Cybersecurity —\n════════════════════════\n𐀪\nAuthor:\nWhite Hawk\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 17:32:49 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#hacking_tools\n#cybersecurity\n#cybersecurity_training\n#programming",
+        "date": "2026-06-24T18:04:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123477_0_f168795d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123477_1_6fc0a22d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123477",
+        "link": {
+          "title": "A Beginner’s Guide to step into Cybersecurity —",
+          "url": "https://medium.com/@whitehawk.cybersec/a-beginners-guide-to-step-into-cybersecurity-a1846f220a3b?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 123476,
+        "text": "⤷\nTitle:\nGhost Mode: Nmap Evasion Techniques That Actually Work\n════════════════════════\n𐀪\nAuthor:\nRoshan Rajbanshi\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 16:38:18 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#network_security\n#technology\n#penetration_testing\n#cybersecurity",
+        "date": "2026-06-24T18:04:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123476_0_f168795d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123476_1_0d107a2f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123476",
+        "link": {
+          "title": "Ghost Mode: Nmap Evasion Techniques That Actually Work",
+          "url": "https://levelup.gitconnected.com/ghost-mode-nmap-evasion-techniques-that-actually-work-0b59680b09ab?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 123475,
+        "text": "⤷\nTitle:\n332+ Cyber Crime & Online Blackmail Cases Assisted\n════════════════════════\n𐀪\nAuthor:\nShivam Shukla\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 16:30:36 GMT\n════════════════════════\n⌗\nTags:\n#cyber_security_awareness\n#hacking\n#cybercrime\n#blackmail\n#cybersecurity",
+        "date": "2026-06-24T18:04:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123475_0_f168795d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123475_1_4c355eed.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123475",
+        "link": {
+          "title": "332+ Cyber Crime & Online Blackmail Cases Assisted",
+          "url": "https://medium.com/@shivamshukla28283/332-cyber-crime-online-blackmail-cases-assisted-1d1e6b12e717?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 123474,
+        "text": "⤷\nTitle:\nnetkit@core:~$ ./launch_netkit.sh\n[########################################] 100%\n════════════════════════\n𐀪\nAuthor:\nNetK!T\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 17:32:55 GMT\n════════════════════════\n⌗\nTags:\n#diy\n#sdr\n#cybersecurity\n#hacking\n#infosec",
+        "date": "2026-06-24T18:04:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123474_0_f168795d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123474_1_c601f448.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123474",
+        "link": {
+          "title": "netkit@core:~$ ./launch_netkit.sh[########################################] 100%",
+          "url": "https://medium.com/@wopslive/netkit-core-launch-netkit-sh-100-d31bcec18539?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 123473,
+        "text": "⤷\nTitle:\nYellowKey and GreenPlasma: How a Grudge Against Microsoft Broke BitLocker and Gave Attackers SYSTEM\n════════════════════════\n𐀪\nAuthor:\nShikhali Jamalzade\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 17:46:04 GMT\n════════════════════════\n⌗\nTags:\n#windows\n#technology\n#cybersecurity\n#hacking\n#infosec",
+        "date": "2026-06-24T18:03:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123473_0_f168795d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123473_1_44df37cf.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123473",
+        "link": {
+          "title": "YellowKey and GreenPlasma: How a Grudge Against Microsoft Broke BitLocker and Gave Attackers SYSTEM",
+          "url": "https://alisalive.medium.com/yellowkey-and-greenplasma-how-a-grudge-against-microsoft-broke-bitlocker-and-gave-attackers-system-8ea439aed2ea?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 123472,
+        "text": "⤷\nTitle:\nDark-Moon: The Autonomous AI Pentesting Engine\n════════════════════════\n𐀪\nAuthor:\nPentester Club\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 16:13:21 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#bug_bounty\n#web_development\n#hacking\n#artificial_intelligence",
+        "date": "2026-06-24T18:03:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123472_0_f168795d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123472_1_273862b4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123472",
+        "link": {
+          "title": "Dark-Moon: The Autonomous AI Pentesting Engine",
+          "url": "https://medium.com/@pentesterclubpvtltd/dark-moon-the-autonomous-ai-pentesting-engine-b13e2e993e84?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 123471,
+        "text": "⤷\nTitle:\nWhen “Private” Wasn’t Actually Private\n════════════════════════\n𐀪\nAuthor:\n0xruh4n\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 16:52:16 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#cybersecurity\n#penetration_testing\n#ethical_hacking\n#application_security",
+        "date": "2026-06-24T18:03:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123471_0_f168795d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123471_1_f38ce49a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123471",
+        "link": {
+          "title": "When “Private” Wasn’t Actually Private",
+          "url": "https://medium.com/@ahsansarnav/when-private-wasnt-actually-private-bf18313a3290?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 123470,
         "text": "⤷\nTitle:\nWhy Every Developer Should Know About SQL Injection\n════════════════════════\n𐀪\nAuthor:\nElizabeth Gitau\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 09:12:43 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#sql_injection\n#programming\n#security\n#web_development",
         "date": "2026-06-24T16:04:12+00:00",
@@ -2046,244 +2276,22 @@
           "title": "CISA Adds Four Exploited UniFi OS and Lantronix Flaws to KEV Catalog",
           "url": "https://securityonline.info/cisa-kev-catalog-exploited-flaws/"
         }
-      },
-      {
-        "id": 123376,
-        "text": "⤷\nTitle:\nLastPass Customer Data Stolen in Klue Supply Chain Breach\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 23:45:06 +0000\n════════════════════════\n⌗\nTags:\n#Data\nLeak\n#Data\nBreach\n#Icarus\n#Klue\n#LastPass\n#OAuth\nToken Theft\n#Salesforce\n#supply\nchain attack",
-        "date": "2026-06-24T00:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123376_0_9be59da0.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123376_1_76322709.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123376",
-        "link": {
-          "title": "LastPass Customer Data Stolen in Klue Supply Chain Breach",
-          "url": "https://securityonline.info/lastpass-klue-breach/"
-        }
-      },
-      {
-        "id": 123375,
-        "text": "⤷\nTitle:\nCVE-2026–42530: Critical Integer Overflow in NGINX HTTP/3 Opens Door to Remote RCE and Trivial DoS\n════════════════════════\n𐀪\nAuthor:\nCyDhaal\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 20:10:54 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#http3\n#cve\n#rce\n#nginx",
-        "date": "2026-06-23T22:04:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123375_0_9be59da0.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123375_1_dc9d7483.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123375",
-        "link": {
-          "title": "CVE-2026–42530: Critical Integer Overflow in NGINX HTTP/3 Opens Door to Remote RCE and Trivial DoS",
-          "url": "https://medium.com/@cydhaal/cve-2026-42530-critical-integer-overflow-in-nginx-http-3-opens-door-to-remote-rce-and-trivial-dos-df8ed566c019?source=rss------rce-5"
-        }
-      },
-      {
-        "id": 123374,
-        "text": "⤷\nTitle:\nSimulating and Detecting Network Threats: A Hands-On Dive into TCP SYN Floods and Snort IDS\n════════════════════════\n𐀪\nAuthor:\nNameer Khan\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 21:10:37 GMT\n════════════════════════\n⌗\nTags:\n#python\n#network_security\n#intrusion_detection\n#cybersecurity\n#ethical_hacking",
-        "date": "2026-06-23T22:04:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123374_0_9be59da0.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123374_1_b5023e5e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123374",
-        "link": {
-          "title": "Simulating and Detecting Network Threats: A Hands-On Dive into TCP SYN Floods and Snort IDS",
-          "url": "https://medium.com/@nameerr.k/simulating-and-detecting-network-threats-a-hands-on-dive-into-tcp-syn-floods-and-snort-ids-9368b3a84c53?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 123373,
-        "text": "⤷\nTitle:\nTryHackme Team Walkthrough\n════════════════════════\n𐀪\nAuthor:\nSujal Kumar\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 20:49:28 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#ctf\n#tryhackme_walkthrough\n#ctf_writeup\n#linux",
-        "date": "2026-06-23T22:04:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123373_0_9be59da0.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123373_1_170a9059.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123373",
-        "link": {
-          "title": "TryHackme Team Walkthrough",
-          "url": "https://medium.com/@iamsujalkr/tryhackme-team-walkthrough-f62d4b94874b?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 123372,
-        "text": "⤷\nTitle:\nHandle Permission Elevation via BYOVD\n════════════════════════\n𐀪\nAuthor:\nS12 - 0x12Dark Development\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 20:36:33 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#hacking\n#infosec\n#malware\n#pentesting",
-        "date": "2026-06-23T22:04:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123372_0_9be59da0.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123372_1_2bd52126.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123372",
-        "link": {
-          "title": "Handle Permission Elevation via BYOVD",
-          "url": "https://medium.com/@s12deff/handle-permission-elevation-via-byovd-df99e908e780?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 123371,
-        "text": "⤷\nTitle:\n403 Forbidden Bypass Techniques\n════════════════════════\n𐀪\nAuthor:\n0xi6r\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 20:01:37 GMT\n════════════════════════\n⌗\nTags:\n#403_forbidden\n#hacking\n#security\n#bug_bounty\n#web_security",
-        "date": "2026-06-23T22:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123371_0_9be59da0.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123371_1_23c372fb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123371",
-        "link": {
-          "title": "403 Forbidden Bypass Techniques",
-          "url": "https://medium.com/@0xi6r/403-forbidden-bypass-techniques-5d284b8ffef1?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 123370,
-        "text": "⤷\nTitle:\nThe Database That Couldn’t Keep a Secret\n════════════════════════\n𐀪\nAuthor:\nmorgan_hack\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 21:11:17 GMT\n════════════════════════\n⌗\nTags:\n#bugs\n#bug_bounty_writeup\n#website\n#bug_bounty\n#bug_bounty_tips",
-        "date": "2026-06-23T22:03:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123370_0_9be59da0.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123370_1_93f3b7c5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123370",
-        "link": {
-          "title": "The Database That Couldn’t Keep a Secret",
-          "url": "https://medium.com/@guyani/the-database-that-couldnt-keep-a-secret-0e99202ab81b?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 123369,
-        "text": "⤷\nTitle:\nFortiBleed Targeted FortiGate Firewalls in 110 Million-Credential Harvesting Operation\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 23:50:49 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-06-23T22:03:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123369_0_9be59da0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123369",
-        "link": {
-          "title": "FortiBleed Targeted FortiGate Firewalls in 110 Million-Credential Harvesting Operation",
-          "url": "https://thehackernews.com/2026/06/fortibleed-targeted-fortigate-firewalls.html"
-        }
-      },
-      {
-        "id": 123368,
-        "text": "⤷\nTitle:\nThe Shadow Pipeline Crisis: Severing LCNC Data Exfiltration at the OAuth Layer\n════════════════════════\n𐀪\nAuthor:\nPRASAD BHONDE\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 17:51:32 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#dpdp_act\n#deeptech\n#data_protection\n#api_security",
-        "date": "2026-06-23T20:04:40+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123368_0_9be59da0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123368",
-        "link": {
-          "title": "The Shadow Pipeline Crisis: Severing LCNC Data Exfiltration at the OAuth Layer",
-          "url": "https://prasadbhonde229.medium.com/the-shadow-pipeline-crisis-severing-lcnc-data-exfiltration-at-the-oauth-layer-068b48727f57?source=rss------api_security-5"
-        }
-      },
-      {
-        "id": 123367,
-        "text": "⤷\nTitle:\nThe Most Important Skill in Cybersecurity Isn’t What You Think\n════════════════════════\n𐀪\nAuthor:\nAllen Rodger\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 19:25:28 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ethical_hacking\n#pentesting",
-        "date": "2026-06-23T20:04:36+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123367_0_9be59da0.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123367_1_a5ce919f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123367",
-        "link": {
-          "title": "The Most Important Skill in Cybersecurity Isn’t What You Think",
-          "url": "https://medium.com/@allenrodger/the-most-important-skill-in-cybersecurity-isnt-what-you-think-e2a8ac4e0836?source=rss------ethical_hacking-5"
-        }
       }
     ]
   },
-  "last_update": "2026-06-24T16:25:02.930651+00:00",
+  "last_update": "2026-06-24T18:17:09.799171+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 192,
-    "total_files": 192,
+    "total_media": 194,
+    "total_files": 194,
     "total_links": 0,
     "files_by_type": {
-      "image": 192
+      "image": 194
     },
-    "referenced_files": 192,
-    "existing_media_files": 192,
-    "total_size_mb": 5.35,
-    "last_calculation": "2026-06-24T16:25:02.932968+00:00"
+    "referenced_files": 194,
+    "existing_media_files": 194,
+    "total_size_mb": 5.42,
+    "last_calculation": "2026-06-24T18:17:09.801476+00:00"
   }
 }
