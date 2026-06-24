@@ -2,6 +2,416 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 123450,
+        "text": "⤷\nTitle:\nJWT Attacks Explained: How Attackers Break Authentication Tokens\n════════════════════════\n𐀪\nAuthor:\nFelix\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 11:54:34 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#information_security\n#cybersecurity\n#bug_bounty_tips\n#infosec",
+        "date": "2026-06-24T12:04:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123450_0_9be59da0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123450_1_c539685e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123450",
+        "link": {
+          "title": "JWT Attacks Explained: How Attackers Break Authentication Tokens",
+          "url": "https://medium.com/@spl01t/jwt-attacks-explained-how-attackers-break-authentication-tokens-987febabbd26?source=rss------bug_bounty_tips-5"
+        }
+      },
+      {
+        "id": 123449,
+        "text": "⤷\nTitle:\nI Made OpenID Connect Stop Checking Signatures (And Got Paid €0 For It)\n════════════════════════\n𐀪\nAuthor:\nanshh.bohara\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 11:59:51 GMT\n════════════════════════\n⌗\nTags:\n#critical\n#bugbounty_writeup\n#cybersecurity",
+        "date": "2026-06-24T12:04:44+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123449_0_9be59da0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123449_1_dcd78a79.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123449",
+        "link": {
+          "title": "I Made OpenID Connect Stop Checking Signatures (And Got Paid €0 For It)",
+          "url": "https://medium.com/@anshbohra10/i-made-openid-connect-stop-checking-signatures-and-got-paid-0-for-it-32510d8cbcf0?source=rss------bugbounty_writeup-5"
+        }
+      },
+      {
+        "id": 123448,
+        "text": "⤷\nTitle:\nThe Bouncer Who Frisked Everyone and Forgot to Lock the Door\n════════════════════════\n𐀪\nAuthor:\nanshh.bohara\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 12:02:37 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#pentesting\n#bugbounty_writeup",
+        "date": "2026-06-24T12:04:41+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123448_0_9be59da0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123448_1_91c1dbeb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123448",
+        "link": {
+          "title": "The Bouncer Who Frisked Everyone and Forgot to Lock the Door",
+          "url": "https://medium.com/@anshbohra10/the-bouncer-who-frisked-everyone-and-forgot-to-lock-the-door-4d68dcde76e1?source=rss------bugbounty_writeup-5"
+        }
+      },
+      {
+        "id": 123447,
+        "text": "⤷\nTitle:\nCybersecurity Theory Basics\n════════════════════════\n𐀪\nAuthor:\nAkhil Thakur\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 11:11:35 GMT\n════════════════════════\n⌗\nTags:\n#basics\n#operating_systems\n#cybersecurity\n#ethical_hacking\n#internet",
+        "date": "2026-06-24T12:04:37+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123447_0_9be59da0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123447_1_cc8b568a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123447",
+        "link": {
+          "title": "Cybersecurity Theory Basics",
+          "url": "https://blog.stackademic.com/cybersecurity-theory-basics-b3c6494f620a?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 123446,
+        "text": "⤷\nTitle:\nTryHackme — Defensive Security Intro [COMPLETED]\n════════════════════════\n𐀪\nAuthor:\nAndreyna Marques Carvalho\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 11:18:56 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_walkthrough\n#defensive_security_intro\n#tryhackme",
+        "date": "2026-06-24T12:04:34+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123446_0_9be59da0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123446",
+        "link": {
+          "title": "TryHackme — Defensive Security Intro [COMPLETED]",
+          "url": "https://medium.com/@andreyna.m.carvalho/tryhackme-defensive-security-intro-completed-3618f631b3ec?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 123445,
+        "text": "⤷\nTitle:\nRootMe — TryHackMe WriteUp with Flags\n════════════════════════\n𐀪\nAuthor:\nRayenhafsawy\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 11:25:12 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#tryhackme_walkthrough\n#tryhackme\n#ctf\n#tryhackme_writeup",
+        "date": "2026-06-24T12:04:31+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123445_0_9be59da0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123445_1_a2cb8529.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123445",
+        "link": {
+          "title": "RootMe — TryHackMe WriteUp with Flags",
+          "url": "https://medium.com/@rayenhafsawy/rootme-tryhackme-writeup-with-flags-de151b9ed20b?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 123444,
+        "text": "⤷\nTitle:\nFrom Token to Root: Exploiting Jupyter Misconfigurations in a Lab Environment\n════════════════════════\n𐀪\nAuthor:\nKiptryin\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 09:58:36 GMT\n════════════════════════\n⌗\nTags:\n#information_security\n#security\n#penetration_testing\n#cybersecurity\n#ethical_hacking",
+        "date": "2026-06-24T12:04:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123444_0_9be59da0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123444_1_d97b4380.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123444",
+        "link": {
+          "title": "From Token to Root: Exploiting Jupyter Misconfigurations in a Lab Environment",
+          "url": "https://medium.com/@kiptryin/from-token-to-root-exploiting-jupyter-misconfigurations-in-a-lab-environment-450c5d125709?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 123443,
+        "text": "⤷\nTitle:\nBlue Team Introduction — part 1\n════════════════════════\n𐀪\nAuthor:\nExploitHunter\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 10:30:20 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#cyber_security_awareness\n#infosec\n#ethical_hacking\n#web_development",
+        "date": "2026-06-24T12:04:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123443_0_9be59da0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123443_1_7e95e3eb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123443",
+        "link": {
+          "title": "Blue Team Introduction — part 1",
+          "url": "https://medium.com/@vorasmit22/blue-team-introduction-part-1-7132618d5620?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 123442,
+        "text": "⤷\nTitle:\nBecome a First Responder — part 3\n════════════════════════\n𐀪\nAuthor:\nExploitHunter\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 10:37:49 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#web_development\n#infosec\n#ethical_hacking\n#cyber_security_awareness",
+        "date": "2026-06-24T12:04:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123442_0_9be59da0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123442_1_b6dcfd40.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123442",
+        "link": {
+          "title": "Become a First Responder — part 3",
+          "url": "https://medium.com/@vorasmit22/become-a-first-responder-part-3-e09552b5f65f?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 123441,
+        "text": "⤷\nTitle:\nThe power of authentic interactions. We’re human after all.\n════════════════════════\n𐀪\nAuthor:\nODIT Horizons Limited\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 10:53:37 GMT\n════════════════════════\n⌗\nTags:\n#leadership\n#technology\n#cybersecurity\n#infosec\n#cyber_security_awareness",
+        "date": "2026-06-24T12:04:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123441_0_9be59da0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123441_1_839b191b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123441",
+        "link": {
+          "title": "The power of authentic interactions. We’re human after all.",
+          "url": "https://medium.com/@oditdigital/the-power-of-authentic-interactions-were-human-after-all-095821e98963?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 123440,
+        "text": "⤷\nTitle:\nThe Server Didn’t Fail. Our Assumptions Did.\n════════════════════════\n𐀪\nAuthor:\nFaruk Ahmed\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 11:31:00 GMT\n════════════════════════\n⌗\nTags:\n#technology\n#infosec\n#linux\n#system_administration\n#cybersecurity",
+        "date": "2026-06-24T12:04:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123440_0_9be59da0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123440_1_de50fca9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123440",
+        "link": {
+          "title": "The Server Didn’t Fail. Our Assumptions Did.",
+          "url": "https://medium.com/nextgenthreat/the-server-didnt-fail-our-assumptions-did-d71a712b486c?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 123439,
+        "text": "⤷\nTitle:\nThe NEET Leak Story: A Cybersecurity Failure We Can’t Ignore\n════════════════════════\n𐀪\nAuthor:\nSinghreetika\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 10:59:44 GMT\n════════════════════════\n⌗\nTags:\n#cyber_security_awareness\n#hacking\n#cybersecurity\n#news\n#careers",
+        "date": "2026-06-24T12:04:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123439_0_9be59da0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123439_1_10a1113a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123439",
+        "link": {
+          "title": "The NEET Leak Story: A Cybersecurity Failure We Can’t Ignore",
+          "url": "https://medium.com/@singhreetika85/the-neet-leak-story-a-cybersecurity-failure-we-cant-ignore-720fcdaf41d1?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 123438,
+        "text": "⤷\nTitle:\nMr Robot CTF Walkthrough -TryHackMe Detailed\n════════════════════════\n𐀪\nAuthor:\nDevansh Patel\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 11:10:58 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#tryhackme_walkthrough\n#tryhackme\n#cybersecurity\n#ctf",
+        "date": "2026-06-24T12:04:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123438_0_9be59da0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123438_1_4a420b0b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123438",
+        "link": {
+          "title": "Mr Robot CTF Walkthrough -TryHackMe Detailed",
+          "url": "https://v3n0m.medium.com/mr-robot-ctf-walkthrough-tryhackme-detailed-678d7908d472?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 123437,
+        "text": "⤷\nTitle:\nWhen most people hear the word “hacker,” they often imagine someone wearing a hoodie in a dark…\n════════════════════════\n𐀪\nAuthor:\nQnayds Insights\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 11:13:00 GMT\n════════════════════════\n⌗\nTags:\n#cyber_security_awareness\n#ethical_hacking\n#cybersecurity\n#hacking\n#internet_of_things",
+        "date": "2026-06-24T12:04:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123437_0_9be59da0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123437_1_9253f8bd.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123437",
+        "link": {
+          "title": "When most people hear the word “hacker,” they often imagine someone wearing a hoodie in a dark…",
+          "url": "https://medium.com/@career.qnayds/when-most-people-hear-the-word-hacker-they-often-imagine-someone-wearing-a-hoodie-in-a-dark-7deb48a0877a?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 123436,
+        "text": "⤷\nTitle:\nAD Vulnerable Lab — Abusing Active Directory Misconfigurations\n════════════════════════\n𐀪\nAuthor:\nAlaa Yasser\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 11:26:18 GMT\n════════════════════════\n⌗\nTags:\n#active_directory\n#pentesting\n#red_team\n#cybersecurity\n#hacking",
+        "date": "2026-06-24T12:04:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123436_0_9be59da0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123436_1_bf4537ce.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123436",
+        "link": {
+          "title": "AD Vulnerable Lab — Abusing Active Directory Misconfigurations",
+          "url": "https://medium.com/@3laayasser6153/ad-vulnerable-lab-abusing-active-directory-misconfigurations-3cedd007949c?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 123435,
+        "text": "⤷\nTitle:\nStop Guessing Passwords: Why Web Fuzzing is the Ultimate Hacker Superpower\n════════════════════════\n𐀪\nAuthor:\nDhanush N\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 11:16:03 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#passwords\n#penetration_testing\n#bug_bounty\n#hacking",
+        "date": "2026-06-24T12:03:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123435_0_9be59da0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123435_1_f0db7557.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123435",
+        "link": {
+          "title": "Stop Guessing Passwords: Why Web Fuzzing is the Ultimate Hacker Superpower",
+          "url": "https://dhanushnehru.medium.com/stop-guessing-passwords-why-web-fuzzing-is-the-ultimate-hacker-superpower-6ccda7862982?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 123434,
+        "text": "⤷\nTitle:\nCSRF Explained Like You’re Five\n════════════════════════\n𐀪\nAuthor:\nNitin yadav\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 11:31:00 GMT\n════════════════════════\n⌗\nTags:\n#bugcrowd\n#hackerone\n#intigriti\n#bug_bounty\n#csrf",
+        "date": "2026-06-24T12:03:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123434_0_9be59da0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123434_1_662cf2c8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123434",
+        "link": {
+          "title": "CSRF Explained Like You’re Five",
+          "url": "https://kd-200.medium.com/csrf-explained-like-youre-five-abbc99974faa?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 123433,
+        "text": "⤷\nTitle:\nStop Using Outdated Scanners: Here Are the 4 Fuzzing Tools Elite Hackers Actually Use\n════════════════════════\n𐀪\nAuthor:\nDhanush N\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 11:46:18 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#cybersecurity\n#hacking\n#bug_bounty\n#fuzzing",
+        "date": "2026-06-24T12:03:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123433_0_9be59da0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123433_1_00de634c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123433",
+        "link": {
+          "title": "Stop Using Outdated Scanners: Here Are the 4 Fuzzing Tools Elite Hackers Actually Use",
+          "url": "https://dhanushnehru.medium.com/stop-using-outdated-scanners-here-are-the-4-fuzzing-tools-elite-hackers-actually-use-caba2d0fadef?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 123432,
         "text": "⤷\nTitle:\nJangow-01–1.0.1 Walkthrough | By Aasrith\n════════════════════════\n𐀪\nAuthor:\nAasrith Kasala\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 08:18:07 GMT\n════════════════════════\n⌗\nTags:\n#jangow\n#ethical_hacking\n#cybersecurity\n#ctf_walkthrough\n#vulnhub",
         "date": "2026-06-24T10:04:25+00:00",
@@ -1866,428 +2276,22 @@
           "title": "What Is Linux? A Complete Beginner’s Guide to the Linux Operating System",
           "url": "https://medium.com/@xpert4cyber/what-is-linux-a-complete-beginners-guide-to-the-linux-operating-system-99139c58a21b?source=rss------hacking-5"
         }
-      },
-      {
-        "id": 123346,
-        "text": "⤷\nTitle:\nAlerta Misantropia: Cyber Incident Triggers Panic in Brazil\n════════════════════════\n𐀪\nAuthor:\nNeura Artificial\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 17:21:19 GMT\n════════════════════════\n⌗\nTags:\n#brasil\n#hacking\n#alerts",
-        "date": "2026-06-23T18:04:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123346_0_9be59da0.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123346_1_59c2c4cd.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123346",
-        "link": {
-          "title": "Alerta Misantropia: Cyber Incident Triggers Panic in Brazil",
-          "url": "https://medium.com/@neuraartificiall/alerta-misantropia-cyber-incident-triggers-panic-in-brazil-3f099f41bd6a?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 123345,
-        "text": "⤷\nTitle:\nAI Brain Hack: The 3-Step Formula That Turns AI Into a World-Class Writer\n════════════════════════\n𐀪\nAuthor:\nMelika Kazemi\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 17:22:50 GMT\n════════════════════════\n⌗\nTags:\n#technology\n#tech\n#ai\n#writing\n#hacking",
-        "date": "2026-06-23T18:04:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123345_0_9be59da0.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123345_1_b333ff86.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123345",
-        "link": {
-          "title": "AI Brain Hack: The 3-Step Formula That Turns AI Into a World-Class Writer",
-          "url": "https://medium.com/@queen.of.words.22/ai-brain-hack-the-3-step-formula-that-turns-ai-into-a-world-class-writer-94f761fa1112?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 123344,
-        "text": "⤷\nTitle:\n“Bug Bounty Bootcamp #53: HTTPx — The Recon Tool”\n════════════════════════\n𐀪\nAuthor:\nAman Sharma\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 17:16:54 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#bug_bounty\n#technology\n#penetration_testing\n#cybersecurity",
-        "date": "2026-06-23T18:04:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123344_0_9be59da0.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123344_1_04b4474f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123344",
-        "link": {
-          "title": "“Bug Bounty Bootcamp #53: HTTPx — The Recon Tool”",
-          "url": "https://infosecwriteups.com/bug-bounty-bootcamp-53-httpx-the-recon-tool-f68678b59a78?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 123343,
-        "text": "⤷\nTitle:\nBUG Framework v5.0: The All-in-One Bug Bounty Recon Suite That Actually Works\n════════════════════════\n𐀪\nAuthor:\ncyber security\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 17:25:17 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#cybersecurity\n#information_security\n#infosec\n#penetration_testing",
-        "date": "2026-06-23T18:04:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123343_0_9be59da0.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123343_1_6d7a179f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123343",
-        "link": {
-          "title": "BUG Framework v5.0: The All-in-One Bug Bounty Recon Suite That Actually Works",
-          "url": "https://medium.com/@tanvir.infosec/bug-framework-v5-0-the-all-in-one-bug-bounty-recon-suite-that-actually-works-9b41d8667a68?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 123342,
-        "text": "⤷\nTitle:\nStill Doing Recon Manually? You’re Wasting Time — Recon Smarter, Not Harder\n════════════════════════\n𐀪\nAuthor:\nSAYEM-EH\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 17:44:04 GMT\n════════════════════════\n⌗\nTags:\n#web_security\n#bug_bounty\n#pentesting\n#cybersecurity\n#bug_bounty_hunter",
-        "date": "2026-06-23T18:04:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123342_0_9be59da0.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123342_1_bf96edda.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123342",
-        "link": {
-          "title": "Still Doing Recon Manually? You’re Wasting Time — Recon Smarter, Not Harder",
-          "url": "https://sayemeh.medium.com/still-doing-recon-manually-youre-wasting-time-recon-smarter-not-harder-a6bd771f2ae9?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 123341,
-        "text": "⤷\nTitle:\nCSRF Validation Bypass: How I Tested Swiggy’s API Security\n════════════════════════\n𐀪\nAuthor:\nBinu B\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 17:45:57 GMT\n════════════════════════\n⌗\nTags:\n#security_research\n#web_development\n#software_development\n#bug_bounty\n#cybersecurity",
-        "date": "2026-06-23T18:03:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123341_0_9be59da0.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123341_1_a35dbc77.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123341",
-        "link": {
-          "title": "CSRF Validation Bypass: How I Tested Swiggy’s API Security",
-          "url": "https://medium.com/@binuconcept_22420/csrf-validation-bypass-how-i-tested-swiggys-api-security-b28110efc927?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 123340,
-        "text": "⤷\nTitle:\n‘Cordyceps’ CI/CD Flaw Exposes Microsoft, Google, Apache Repos to Pipeline Hijacking\n════════════════════════\n𐀪\nAuthor:\nDeeba Ahmed\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 16:31:16 +0000\n════════════════════════\n⌗\nTags:\n#Security\n#CI\n/CD\n#Cordyceps\n#Cybersecurity\n#GitHub\n#Novee\n#Supply\nChain\n#Vulnerability",
-        "date": "2026-06-23T18:03:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123340_0_9be59da0.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123340_1_a07168cd.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123340",
-        "link": {
-          "title": "‘Cordyceps’ CI/CD Flaw Exposes Microsoft, Google, Apache Repos to Pipeline Hijacking",
-          "url": "https://hackread.com/cordyceps-ci-cd-flaw-microsoft-google-apache-repos-hijack/"
-        }
-      },
-      {
-        "id": 123339,
-        "text": "⤷\nTitle:\nTrump Order Sets 2030 Deadline for Federal Post-Quantum Crypto Migration\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 20:46:40 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-06-23T18:03:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123339_0_9be59da0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123339",
-        "link": {
-          "title": "Trump Order Sets 2030 Deadline for Federal Post-Quantum Crypto Migration",
-          "url": "https://thehackernews.com/2026/06/trump-order-sets-2030-deadline-for.html"
-        }
-      },
-      {
-        "id": 123338,
-        "text": "⤷\nTitle:\nFake AI Agent Skill Passed Security Scans and Reportedly Reached 26,000 Agents\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 20:46:43 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-06-23T18:03:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123338_0_9be59da0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123338",
-        "link": {
-          "title": "Fake AI Agent Skill Passed Security Scans and Reportedly Reached 26,000 Agents",
-          "url": "https://thehackernews.com/2026/06/fake-ai-agent-skill-passed-security.html"
-        }
-      },
-      {
-        "id": 123337,
-        "text": "⤷\nTitle:\nKioptrix Level 1: My First Introduction to Pentesting\n════════════════════════\n𐀪\nAuthor:\nBenita N.\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 14:20:57 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#kioptrix_level_1\n#cybersecurity\n#pentesting",
-        "date": "2026-06-23T16:04:33+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123337_0_1f51a32e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123337_1_0e00839f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123337",
-        "link": {
-          "title": "Kioptrix Level 1: My First Introduction to Pentesting",
-          "url": "https://medium.com/@benitanwabueze72/kioptrix-level-1-my-first-introduction-to-pentesting-9933c8f36097?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 123336,
-        "text": "⤷\nTitle:\nCyberCrafted — TryHackMe WriteUp with Flags\n════════════════════════\n𐀪\nAuthor:\nRayenhafsawy\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 11:54:40 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#tryhackme_writeup\n#ctf\n#tryhackme\n#tryhackme_walkthrough",
-        "date": "2026-06-23T16:04:29+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123336_0_1f51a32e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123336_1_29e11461.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123336",
-        "link": {
-          "title": "CyberCrafted — TryHackMe WriteUp with Flags",
-          "url": "https://medium.com/@rayenhafsawy/cybercrafted-tryhackme-writeup-with-flags-9ff7573218b4?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 123335,
-        "text": "⤷\nTitle:\nTryHackMe Hydra Walkthrough: Brute-Forcing Web and SSH Passwords with Hydra\n════════════════════════\n𐀪\nAuthor:\nJenifer\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 14:05:57 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#tryhackme_writeup\n#tryhackme\n#hydra\n#tryhackme_walkthrough",
-        "date": "2026-06-23T16:04:26+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123335_0_1f51a32e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123335_1_0b6864e8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123335",
-        "link": {
-          "title": "TryHackMe Hydra Walkthrough: Brute-Forcing Web and SSH Passwords with Hydra",
-          "url": "https://medium.com/@djenifer/tryhackme-hydra-walkthrough-brute-forcing-web-and-ssh-passwords-with-hydra-2ea1c5e69970?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 123334,
-        "text": "⤷\nTitle:\nWeek 12: HTTP & HTTPS — The Secret Language of the Internet\n════════════════════════\n𐀪\nAuthor:\nNishant kumar\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 14:47:01 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#soc\n#cybersecurity\n#networking\n#penetration_testing",
-        "date": "2026-06-23T16:04:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123334_0_1f51a32e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123334_1_0ffa305f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123334",
-        "link": {
-          "title": "Week 12: HTTP & HTTPS — The Secret Language of the Internet",
-          "url": "https://meetcyber.net/week-12-http-https-the-secret-language-of-the-internet-7735d69c9b48?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 123333,
-        "text": "⤷\nTitle:\nBeyond the Clock: What Web Security Academy Taught Me About the Hidden Chaos of Race Conditions\n════════════════════════\n𐀪\nAuthor:\nJinesh Majithia\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 15:06:01 GMT\n════════════════════════\n⌗\nTags:\n#appsec\n#penetration_testing\n#cybersecurity\n#race_condition",
-        "date": "2026-06-23T16:04:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123333_0_1f51a32e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123333_1_c4d9ea86.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123333",
-        "link": {
-          "title": "Beyond the Clock: What Web Security Academy Taught Me About the Hidden Chaos of Race Conditions",
-          "url": "https://medium.com/@jineshcanada23/beyond-the-clock-what-web-security-academy-taught-me-about-the-hidden-chaos-of-race-conditions-607b55e96170?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 123332,
-        "text": "⤷\nTitle:\nCuando el atacante encuentra más de lo que debería\n════════════════════════\n𐀪\nAuthor:\nJack of all trades\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 15:09:51 GMT\n════════════════════════\n⌗\nTags:\n#mitre_attack\n#penetration_testing\n#vulnerability_scanning\n#cybersecurity",
-        "date": "2026-06-23T16:04:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123332_0_1f51a32e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123332_1_a24b3461.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123332",
-        "link": {
-          "title": "Cuando el atacante encuentra más de lo que debería",
-          "url": "https://medium.com/@jack.of.all.trades/cuando-el-atacante-encuentra-m%C3%A1s-de-lo-que-deber%C3%ADa-ab994a8ab027?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 123331,
-        "text": "⤷\nTitle:\n[DEEP RESEARCH] When Software Trust Becomes a Rented Service\n════════════════════════\n𐀪\nAuthor:\nWes Young\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 14:46:00 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#malware\n#microsoft\n#code_signing\n#threat_intelligence",
-        "date": "2026-06-23T16:04:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123331_0_1f51a32e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123331_1_25f7c135.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123331",
-        "link": {
-          "title": "[DEEP RESEARCH] When Software Trust Becomes a Rented Service",
-          "url": "https://medium.com/@barely3am/deep-research-when-software-trust-becomes-a-rented-service-bcbb4e3e5256?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 123330,
-        "text": "⤷\nTitle:\nTotal System Dominance: Chaining RFID, Sub-GHz, and Infrared Exploits\n════════════════════════\n𐀪\nAuthor:\nAeon Flex, Elriel Assoc. 2133 [NEON MAXIMA]\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 14:27:27 GMT\n════════════════════════\n⌗\nTags:\n#security\n#cybersecurity\n#hacking\n#hardware_hacking\n#rfid",
-        "date": "2026-06-23T16:04:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123330_0_1f51a32e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123330_1_3212aef6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123330",
-        "link": {
-          "title": "Total System Dominance: Chaining RFID, Sub-GHz, and Infrared Exploits",
-          "url": "https://medium.com/@neonmaxima/total-system-dominance-chaining-rfid-sub-ghz-and-infrared-exploits-d4d969b4f113?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 123329,
-        "text": "⤷\nTitle:\nSandboxing Reality: How to Spoof iPhone Locations for Advanced Penetration Testing\n════════════════════════\n𐀪\nAuthor:\nAeon Flex, Elriel Assoc. 2133 [NEON MAXIMA]\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 14:50:35 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#information_security\n#penetration_testing\n#spoofing\n#hacking",
-        "date": "2026-06-23T16:04:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123329_0_1f51a32e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123329_1_d4b8c57d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123329",
-        "link": {
-          "title": "Sandboxing Reality: How to Spoof iPhone Locations for Advanced Penetration Testing",
-          "url": "https://medium.com/@neonmaxima/sandboxing-reality-how-to-spoof-iphone-locations-for-advanced-penetration-testing-d79d550c0b5a?source=rss------hacking-5"
-        }
       }
     ]
   },
-  "last_update": "2026-06-24T11:38:46.402210+00:00",
+  "last_update": "2026-06-24T14:02:07.604671+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 193,
-    "total_files": 193,
+    "total_media": 194,
+    "total_files": 194,
     "total_links": 0,
     "files_by_type": {
-      "image": 193
+      "image": 194
     },
-    "referenced_files": 193,
-    "existing_media_files": 193,
-    "total_size_mb": 5.27,
-    "last_calculation": "2026-06-24T11:38:46.404519+00:00"
+    "referenced_files": 194,
+    "existing_media_files": 194,
+    "total_size_mb": 5.3,
+    "last_calculation": "2026-06-24T14:02:07.607058+00:00"
   }
 }
