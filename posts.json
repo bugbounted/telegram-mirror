@@ -2,6 +2,305 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 123523,
+        "text": "⤷\nTitle:\nThat “GIF” You Saved from X Is Actually an MP4 —Let’s Fix This Fast\n════════════════════════\n𐀪\nAuthor:\nMingbaizhang\n════════════════════════\nⴵ\nTime:\nThu, 25 Jun 2026 03:17:26 GMT\n════════════════════════\n⌗\nTags:\n#savings_tips\n#gif\n#xs\n#tips_and_tricks\n#videos",
+        "date": "2026-06-25T04:04:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123523_0_f168795d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123523_1_8388e85f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123523",
+        "link": {
+          "title": "That “GIF” You Saved from X Is Actually an MP4 —Let’s Fix This Fast",
+          "url": "https://medium.com/@mingbaizhang95/that-gif-you-saved-from-x-is-actually-an-mp4-lets-fix-this-fast-7ff835212ecf?source=rss------xss-5"
+        }
+      },
+      {
+        "id": 123522,
+        "text": "⤷\nTitle:\nOperating System Security: Hardening Core Environments and Privilege Escalation\n════════════════════════\n𐀪\nAuthor:\nJonathan Sanfer\n════════════════════════\nⴵ\nTime:\nThu, 25 Jun 2026 02:29:48 GMT\n════════════════════════\n⌗\nTags:\n#privilege_escalation\n#operating_system_security\n#cybersecurity\n#tryhackme\n#cia_triad",
+        "date": "2026-06-25T04:04:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123522_0_f168795d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123522_1_2a33c2f5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123522",
+        "link": {
+          "title": "Operating System Security: Hardening Core Environments and Privilege Escalation",
+          "url": "https://medium.com/@jonathan.sanfer/operating-system-security-hardening-core-environments-and-privilege-escalation-12c01e13f13a?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 123521,
+        "text": "⤷\nTitle:\nCVSS 8.7 Unauthenticated RCE Impacts Multiple TP-Link Routers\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 25 Jun 2026 00:29:00 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Command\nInjection\n#CVE_2026_11834\n#TP_Link",
+        "date": "2026-06-25T04:04:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123521_0_f168795d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123521_1_a0fe1c1f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123521",
+        "link": {
+          "title": "CVSS 8.7 Unauthenticated RCE Impacts Multiple TP-Link Routers",
+          "url": "https://securityonline.info/tp-link-router-command-injection/"
+        }
+      },
+      {
+        "id": 123520,
+        "text": "⤷\nTitle:\nOpenDJ Unauthenticated RCE Vulnerability\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 25 Jun 2026 01:00:59 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_46495\n#OpenDJ\n#rce",
+        "date": "2026-06-25T04:04:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123520_0_f168795d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123520_1_dddc1876.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123520",
+        "link": {
+          "title": "OpenDJ Unauthenticated RCE Vulnerability",
+          "url": "https://securityonline.info/opendj-unauthenticated-rce/"
+        }
+      },
+      {
+        "id": 123519,
+        "text": "⤷\nTitle:\nCritical Gitea Security Flaws Expose Servers to Takeover\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 25 Jun 2026 01:15:33 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Authentication\nBypass\n#CVE_2026_20896\n#CVE_2026_22874\n#Gitea\n#ssrf",
+        "date": "2026-06-25T04:04:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123519_0_f168795d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123519_1_c5268166.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123519",
+        "link": {
+          "title": "Critical Gitea Security Flaws Expose Servers to Takeover",
+          "url": "https://securityonline.info/critical-gitea-security-flaws/"
+        }
+      },
+      {
+        "id": 123518,
+        "text": "⤷\nTitle:\nChrome 149 Security Update Patches 18 Flaws, Four Rated Critical\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 25 Jun 2026 01:49:08 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#browser\nsecurity\n#chrome\n#Chrome\nSecurity Update\n#CVE_2026_13028\n#google\nchrome\n#use\nafter free\n#WebGL",
+        "date": "2026-06-25T04:04:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123518_0_f168795d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123518_1_b644eba1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123518",
+        "link": {
+          "title": "Chrome 149 Security Update Patches 18 Flaws, Four Rated Critical",
+          "url": "https://securityonline.info/chrome-149-security-update/"
+        }
+      },
+      {
+        "id": 123517,
+        "text": "⤷\nTitle:\nCritical Langflow Flaws Allow Unauthenticated Remote Code Execution\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 25 Jun 2026 01:56:54 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Authentication\nBypass\n#CVE_2026_10561\n#CVE_2026_7664\n#Langflow\n#Langflow\nOSS\n#rce\n#unauthenticated\nRCE",
+        "date": "2026-06-25T04:04:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123517_0_f168795d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123517_1_f54ba519.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123517",
+        "link": {
+          "title": "Critical Langflow Flaws Allow Unauthenticated Remote Code Execution",
+          "url": "https://securityonline.info/langflow-rce-vulnerability/"
+        }
+      },
+      {
+        "id": 123516,
+        "text": "⤷\nTitle:\nOperation Endgame Takes Down SocGholish, Amadey, and StealC Malware\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 25 Jun 2026 02:09:00 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#Amadey\n#Europol\n#Evil\nCorp\n#malware\ntakedown\n#Operation\nEndgame\n#SocGholish\n#StealC\n#wordpress\nsecurity",
+        "date": "2026-06-25T04:04:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123516_0_f168795d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123516_1_2931d4a6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123516",
+        "link": {
+          "title": "Operation Endgame Takes Down SocGholish, Amadey, and StealC Malware",
+          "url": "https://securityonline.info/operation-endgame-socgholish/"
+        }
+      },
+      {
+        "id": 123515,
+        "text": "⤷\nTitle:\nLaravel Livewire Vulnerability Exposes Over 6,000 Apps\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 25 Jun 2026 02:22:46 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#CVE_2025_54068\n#cybersecurity\n#Laravel\n#Vulnerability",
+        "date": "2026-06-25T04:03:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123515_0_f168795d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123515_1_e958847f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123515",
+        "link": {
+          "title": "Laravel Livewire Vulnerability Exposes Over 6,000 Apps",
+          "url": "https://securityonline.info/laravel-livewire-vulnerability-cve-2025-54068/"
+        }
+      },
+      {
+        "id": 123514,
+        "text": "⤷\nTitle:\nThe Evolution of Collaboration: Anthropic’s Claude Tag in Slack\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 25 Jun 2026 03:00:43 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#Anthropic\n#Claude\nTag\n#enterprise\nAI\n#Slack\nAI\n#Tech\nNews",
+        "date": "2026-06-25T04:03:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123514_0_f168795d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123514_1_09914d99.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123514",
+        "link": {
+          "title": "The Evolution of Collaboration: Anthropic’s Claude Tag in Slack",
+          "url": "https://securityonline.info/anthropic-claude-tag-slack/"
+        }
+      },
+      {
+        "id": 123513,
+        "text": "⤷\nTitle:\nUbuntu Livepatch Now Supports Arm64 for Rebootless Kernel Updates\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 25 Jun 2026 03:46:40 +0000\n════════════════════════\n⌗\nTags:\n#Linux\n#ARM64\n#Canonical\n#Linux\nKernel\n#Livepatch\n#Ubuntu\n#Ubuntu\nPro",
+        "date": "2026-06-25T04:03:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123513_0_f168795d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123513_1_7693f1df.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123513",
+        "link": {
+          "title": "Ubuntu Livepatch Now Supports Arm64 for Rebootless Kernel Updates",
+          "url": "https://securityonline.info/ubuntu-livepatch-arm64/"
+        }
+      },
+      {
+        "id": 123512,
+        "text": "⤷\nTitle:\nVAPT Severity Levels: Critical, High, Medium & Low\n════════════════════════\n𐀪\nAuthor:\nShivani Patel\n════════════════════════\nⴵ\nTime:\nThu, 25 Jun 2026 00:46:00 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#vulnerability_assessment\n#cvss_risk\n#severity\n#vapt",
+        "date": "2026-06-25T02:03:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123512_0_f168795d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123512_1_84fe04bc.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123512",
+        "link": {
+          "title": "VAPT Severity Levels: Critical, High, Medium & Low",
+          "url": "https://medium.com/@shivani515653/vapt-severity-levels-critical-high-medium-low-e1f393cac471?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 123511,
+        "text": "⤷\nTitle:\nLearning SQL Injection Through a Login Bypass Lab (PortSwigger Walkthrough)\n════════════════════════\n𐀪\nAuthor:\nJinesh Majithia\n════════════════════════\nⴵ\nTime:\nThu, 25 Jun 2026 01:03:16 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#burpsuite\n#cybersecurity\n#sql_injection\n#portswigger",
+        "date": "2026-06-25T02:03:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123511_0_f168795d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123511_1_30892a28.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123511",
+        "link": {
+          "title": "Learning SQL Injection Through a Login Bypass Lab (PortSwigger Walkthrough)",
+          "url": "https://medium.com/@jineshcanada23/learning-sql-injection-through-a-login-bypass-lab-portswigger-walkthrough-af05059e5b42?source=rss------penetration_testing-5"
+        }
+      },
+      {
         "id": 123510,
         "text": "⤷\nTitle:\nOSINT: Find Everything About Anyone!\n════════════════════════\n𐀪\nAuthor:\nShahzaib\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 23:19:59 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#cybersecurity\n#ai\n#osint\n#technology",
         "date": "2026-06-25T00:04:02+00:00",
@@ -1981,317 +2280,22 @@
           "title": "DoJ Seizes Huione Cloud Account Tied to Cyber Scam Money Laundering",
           "url": "https://thehackernews.com/2026/06/doj-seizes-huione-cloud-account-tied-to.html"
         }
-      },
-      {
-        "id": 123422,
-        "text": "⤷\nTitle:\nDon’t Start Bug Bounty Hunting Until You See This\n════════════════════════\n𐀪\nAuthor:\nAbhishek meena\n════════════════════════\nⴵ\nTime:\nTue, 23 Jun 2026 09:41:57 GMT\n════════════════════════\n⌗\nTags:\n#info_sec_writeups\n#bug_bounty\n#bug_bounty_writeup\n#bug_bounty_tips\n#infosec",
-        "date": "2026-06-24T08:04:34+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123422_0_9be59da0.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123422_1_885fe9b2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123422",
-        "link": {
-          "title": "Don’t Start Bug Bounty Hunting Until You See This",
-          "url": "https://infosecwriteups.com/bug-bounty-2026-same-game-new-way-to-start-22359c08e1a0?source=rss------info_sec_writeups-5"
-        }
-      },
-      {
-        "id": 123421,
-        "text": "⤷\nTitle:\nDetection Rules Development | TryHackMe\n════════════════════════\n𐀪\nAuthor:\nRyca\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 06:41:23 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#blue_team\n#cybersecurity\n#elastic",
-        "date": "2026-06-24T08:04:30+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123421_0_9be59da0.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123421_1_4ea4e64c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123421",
-        "link": {
-          "title": "Detection Rules Development | TryHackMe",
-          "url": "https://medium.com/@elaris/detection-rules-development-tryhackme-dd4aa73d310e?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 123420,
-        "text": "⤷\nTitle:\nMy CloudSEK CTF 2026 Experience\n════════════════════════\n𐀪\nAuthor:\nCinchana S\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 05:53:38 GMT\n════════════════════════\n⌗\nTags:\n#ctf\n#ethical_hacking\n#penetration_testing\n#cybersecurity\n#infosec",
-        "date": "2026-06-24T08:04:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123420_0_9be59da0.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123420_1_33fadc96.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123420",
-        "link": {
-          "title": "My CloudSEK CTF 2026 Experience",
-          "url": "https://medium.com/@hckslyr28/my-cloudsek-ctf-2026-experience-0a0a32bb942e?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 123419,
-        "text": "⤷\nTitle:\nThe Klue Supply Chain Breach: How One Forgotten Credential Unlocked Salesforce Data Across Dozens…\n════════════════════════\n𐀪\nAuthor:\nPoohbalarajavarun\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 06:45:13 GMT\n════════════════════════\n⌗\nTags:\n#salesforce\n#b2b_saas\n#infosec\n#data_breach\n#cyber_security_awareness",
-        "date": "2026-06-24T08:04:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123419_0_9be59da0.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123419_1_acc2c5ff.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123419",
-        "link": {
-          "title": "The Klue Supply Chain Breach: How One Forgotten Credential Unlocked Salesforce Data Across Dozens…",
-          "url": "https://medium.com/@poohbalarajavarun/r-36adcb976db5?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 123418,
-        "text": "⤷\nTitle:\nHow Hackers Steal Passwords: A Technical Deep Dive\n════════════════════════\n𐀪\nAuthor:\nMahidinesh\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 06:37:51 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#cyberattack\n#phishing\n#cybersecurity\n#password_security",
-        "date": "2026-06-24T08:04:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123418_0_9be59da0.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123418_1_6541bc75.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123418",
-        "link": {
-          "title": "How Hackers Steal Passwords: A Technical Deep Dive",
-          "url": "https://medium.com/@mahidinesh/how-hackers-steal-passwords-a-technical-deep-dive-65ef43031eb9?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 123417,
-        "text": "⤷\nTitle:\nLab: Weak isolation on dual-use endpoint ( Business Logic Vulnerabilities ) #lab7\n════════════════════════\n𐀪\nAuthor:\nPRiTi.EX\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 06:52:20 GMT\n════════════════════════\n⌗\nTags:\n#portswigger\n#cybersecurity\n#business_logic_flaw\n#hacking",
-        "date": "2026-06-24T08:04:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123417_0_9be59da0.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123417_1_ca480acb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123417",
-        "link": {
-          "title": "Lab: Weak isolation on dual-use endpoint ( Business Logic Vulnerabilities ) #lab7",
-          "url": "https://medium.com/@pritiranjanmohanta6371/lab-weak-isolation-on-dual-use-endpoint-business-logic-vulnerabilities-lab7-3399b1128c9e?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 123416,
-        "text": "⤷\nTitle:\nNobody Owes You a Cybersecurity Job in 2026. Here’s How to Earn One Anyway.\n════════════════════════\n𐀪\nAuthor:\nSaumadip Mandal\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 06:24:22 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#training\n#careers\n#pentesting\n#bug_bounty",
-        "date": "2026-06-24T08:04:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123416_0_9be59da0.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123416_1_369c074b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123416",
-        "link": {
-          "title": "Nobody Owes You a Cybersecurity Job in 2026. Here’s How to Earn One Anyway.",
-          "url": "https://brutsecurity.medium.com/nobody-owes-you-a-cybersecurity-job-in-2026-heres-how-to-earn-one-anyway-a259005275a1?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 123415,
-        "text": "⤷\nTitle:\nHackers Abused Claude.ai Shared Chat in a ClickFix Malvertising Campaign\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 06:20:09 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#Claude\nAI\n#ClickFix\n#Google\nAds\n#Infostealer\n#MacSync\n#Malvertising",
-        "date": "2026-06-24T08:04:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123415_0_9be59da0.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123415_1_80890376.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123415",
-        "link": {
-          "title": "Hackers Abused Claude.ai Shared Chat in a ClickFix Malvertising Campaign",
-          "url": "https://securityonline.info/clickfix-malvertising-claude-ai-shared-chat/"
-        }
-      },
-      {
-        "id": 123414,
-        "text": "⤷\nTitle:\nSmartRAT ClickFix Campaign Identified\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 07:26:33 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#Banana\nRAT\n#ClickFix\nCampaign\n#CVE_2026_25089\n#CVE_2026_26980\n#CVE_2026_39808\n#SmartRAT",
-        "date": "2026-06-24T08:04:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123414_0_9be59da0.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123414_1_d15b033f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123414",
-        "link": {
-          "title": "SmartRAT ClickFix Campaign Identified",
-          "url": "https://securityonline.info/smartrat-clickfix-campaign/"
-        }
-      },
-      {
-        "id": 123413,
-        "text": "⤷\nTitle:\nUnderstanding the FFmpeg PixelSmash Vulnerability\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 06:32:09 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\n#CVE_2026_8461\n#cybersecurity\n#FFmpeg\n#Media\nServer\n#PixelSmash",
-        "date": "2026-06-24T08:04:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123413_0_9be59da0.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123413_1_3c2db4ba.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123413",
-        "link": {
-          "title": "Understanding the FFmpeg PixelSmash Vulnerability",
-          "url": "https://meterpreter.org/ffmpeg-pixelsmash-vulnerability/"
-        }
-      },
-      {
-        "id": 123412,
-        "text": "⤷\nTitle:\nSquidbleed Vulnerability Exposes Legacy Proxies\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 07:32:09 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\n#CVE_2026_47729\n#cybersecurity\n#Squid\nProxy\n#Squidbleed\n#vulnerability",
-        "date": "2026-06-24T08:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123412_0_9be59da0.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123412_1_3c6f7a3e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123412",
-        "link": {
-          "title": "Squidbleed Vulnerability Exposes Legacy Proxies",
-          "url": "https://meterpreter.org/squidbleed-vulnerability/"
-        }
-      },
-      {
-        "id": 123411,
-        "text": "⤷\nTitle:\nBest Crypto Payment Solutions for E-Commerce Businesses\n════════════════════════\n𐀪\nAuthor:\nOwais Sultan\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 07:50:17 +0000\n════════════════════════\n⌗\nTags:\n#Crypto\n#API\n#Blockchain\n#CoinBase\n#CoinPayments\n#Cryptocurency\n#CryptoProcessing\n#E_Commerce\n#Fintech\n#NOWPayments\n#Technology",
-        "date": "2026-06-24T08:03:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123411_0_9be59da0.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123411_1_8a774814.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123411",
-        "link": {
-          "title": "Best Crypto Payment Solutions for E-Commerce Businesses",
-          "url": "https://hackread.com/best-crypto-payment-solutions-e-commerce-businesses/"
-        }
-      },
-      {
-        "id": 123410,
-        "text": "⤷\nTitle:\nCisco Unified CM Flaw Exploited After PoC Reveals File-Write Path to Root\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 12:20:38 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-06-24T08:03:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123410_0_9be59da0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123410",
-        "link": {
-          "title": "Cisco Unified CM Flaw Exploited After PoC Reveals File-Write Path to Root",
-          "url": "https://thehackernews.com/2026/06/cisco-unified-cm-flaw-exploited-after.html"
-        }
       }
     ]
   },
-  "last_update": "2026-06-25T00:06:02.063854+00:00",
+  "last_update": "2026-06-25T04:41:10.362558+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 194,
-    "total_files": 194,
+    "total_media": 195,
+    "total_files": 195,
     "total_links": 0,
     "files_by_type": {
-      "image": 194
+      "image": 195
     },
-    "referenced_files": 194,
-    "existing_media_files": 194,
-    "total_size_mb": 5.87,
-    "last_calculation": "2026-06-25T00:06:02.066192+00:00"
+    "referenced_files": 195,
+    "existing_media_files": 195,
+    "total_size_mb": 5.77,
+    "last_calculation": "2026-06-25T04:41:10.364877+00:00"
   }
 }
