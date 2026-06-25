@@ -2,6 +2,236 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 123627,
+        "text": "⤷\nTitle:\nSpring Boot 4.1’s New SSRF Filter Never Touched My Feign Calls — Here’s the Trap\n════════════════════════\n𐀪\nAuthor:\nHobbiesPark\n════════════════════════\nⴵ\nTime:\nThu, 25 Jun 2026 17:37:36 GMT\n════════════════════════\n⌗\nTags:\n#spring_security\n#java\n#spring_boot\n#microservices\n#ssrf",
+        "date": "2026-06-25T18:04:40+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123627_0_61cbd5dc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123627_1_34401cc1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123627",
+        "link": {
+          "title": "Spring Boot 4.1’s New SSRF Filter Never Touched My Feign Calls — Here’s the Trap",
+          "url": "https://medium.com/codetodeploy/spring-boot-inetaddressfilter-ssrf-0d0f3bcc3588?source=rss------ssrf-5"
+        }
+      },
+      {
+        "id": 123626,
+        "text": "⤷\nTitle:\nThe Missing Identity Layer for AI Agents\n════════════════════════\n𐀪\nAuthor:\nSaivarma Dantuluri\n════════════════════════\nⴵ\nTime:\nThu, 25 Jun 2026 16:49:26 GMT\n════════════════════════\n⌗\nTags:\n#identity\n#ai_agent\n#api_security\n#cybersecurity\n#llm",
+        "date": "2026-06-25T18:04:37+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123626_0_61cbd5dc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123626_1_f04e1441.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123626",
+        "link": {
+          "title": "The Missing Identity Layer for AI Agents",
+          "url": "https://medium.com/@saivarmadpr/the-missing-identity-layer-for-ai-agents-5ca3a1c3a4bb?source=rss------api_security-5"
+        }
+      },
+      {
+        "id": 123625,
+        "text": "⤷\nTitle:\nNetanix CTF Writeup: Ghost Signal (OSINT)\n════════════════════════\n𐀪\nAuthor:\nJinx\n════════════════════════\nⴵ\nTime:\nThu, 25 Jun 2026 15:36:33 GMT\n════════════════════════\n⌗\nTags:\n#netanix\n#ctf\n#ethical_hacking\n#osint\n#cybersecurity",
+        "date": "2026-06-25T18:04:34+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123625_0_61cbd5dc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123625_1_ac9a1afe.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123625",
+        "link": {
+          "title": "Netanix CTF Writeup: Ghost Signal (OSINT)",
+          "url": "https://jinxyc.medium.com/operation-ghost-signal-1fd863493262?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 123624,
+        "text": "⤷\nTitle:\nPhase 2: The Wireless Authentication Saga:)\n════════════════════════\n𐀪\nAuthor:\nIssan\n════════════════════════\nⴵ\nTime:\nThu, 25 Jun 2026 17:54:40 GMT\n════════════════════════\n⌗\nTags:\n#wpa3\n#ethical_hacking\n#wpa2\n#wireless_security\n#pentesting",
+        "date": "2026-06-25T18:04:30+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123624_0_61cbd5dc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123624_1_4261d479.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123624",
+        "link": {
+          "title": "Phase 2: The Wireless Authentication Saga:)",
+          "url": "https://medium.com/@issanpanda/phase-2-the-wireless-authentication-saga-6d58cdca72a7?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 123623,
+        "text": "⤷\nTitle:\nI Turned It On. Then I Watched What It Sent to China.\n════════════════════════\n𐀪\nAuthor:\nC. Oscar Lawshea\n════════════════════════\nⴵ\nTime:\nThu, 25 Jun 2026 17:01:02 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#network_security\n#cybersecurity\n#privacy\n#iot_security",
+        "date": "2026-06-25T18:04:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123623_0_61cbd5dc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123623_1_55c69944.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123623",
+        "link": {
+          "title": "I Turned It On. Then I Watched What It Sent to China.",
+          "url": "https://osintteam.blog/i-turned-it-on-then-i-watched-what-it-sent-to-china-6c1d7ed38dc7?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 123622,
+        "text": "⤷\nTitle:\nPortSwigger Lab Walkthrough: Exploiting a WHERE Clause to Retrieve Hidden Data (SQL Injection)\n════════════════════════\n𐀪\nAuthor:\nChetan Patil\n════════════════════════\nⴵ\nTime:\nThu, 25 Jun 2026 16:30:10 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#sql_injection\n#cybersecurity\n#web_security\n#portswigger_lab",
+        "date": "2026-06-25T18:04:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123622_0_61cbd5dc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123622_1_06e5f044.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123622",
+        "link": {
+          "title": "PortSwigger Lab Walkthrough: Exploiting a WHERE Clause to Retrieve Hidden Data (SQL Injection)",
+          "url": "https://medium.com/@devchetanpatil/portswigger-lab-walkthrough-exploiting-a-where-clause-to-retrieve-hidden-data-sql-injection-4555b0eaf595?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 123621,
+        "text": "⤷\nTitle:\nHow a Custom Google Dork Led Me to RCE in a Job Portal’s Resume Upload\n════════════════════════\n𐀪\nAuthor:\n0B1To_XucH!h4\n════════════════════════\nⴵ\nTime:\nThu, 25 Jun 2026 16:49:38 GMT\n════════════════════════\n⌗\nTags:\n#red_team\n#bug_bounty",
+        "date": "2026-06-25T18:04:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123621_0_61cbd5dc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123621_1_e9fd420f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123621",
+        "link": {
+          "title": "How a Custom Google Dork Led Me to RCE in a Job Portal’s Resume Upload",
+          "url": "https://medium.com/@atanupal22256/how-a-custom-google-dork-led-me-to-rce-in-a-job-portals-resume-upload-b0323a55ee65?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 123620,
+        "text": "⤷\nTitle:\nWhatsApp Vulnerability CVE-2026–23863: What You Need to Know\n════════════════════════\n𐀪\nAuthor:\nPentester Club\n════════════════════════\nⴵ\nTime:\nThu, 25 Jun 2026 17:06:04 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#cybersecurity\n#artificial_intelligence\n#web_development\n#hacking",
+        "date": "2026-06-25T18:04:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123620_0_61cbd5dc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123620_1_1a394bd7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123620",
+        "link": {
+          "title": "WhatsApp Vulnerability CVE-2026–23863: What You Need to Know",
+          "url": "https://medium.com/@pentesterclubpvtltd/whatsapp-vulnerability-cve-2026-23863-what-you-need-to-know-2e3d4467d994?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 123619,
+        "text": "⤷\nTitle:\nThe Hidden Bugs in Your LLM: Why AI Systems Fail in Ways You Never Expect\n════════════════════════\n𐀪\nAuthor:\nEMTIAZ AHMED\n════════════════════════\nⴵ\nTime:\nThu, 25 Jun 2026 17:50:42 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#mechine_learning\n#llm\n#software_development\n#hacking",
+        "date": "2026-06-25T18:04:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123619_0_61cbd5dc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123619_1_918abca4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123619",
+        "link": {
+          "title": "The Hidden Bugs in Your LLM: Why AI Systems Fail in Ways You Never Expect",
+          "url": "https://infyra.medium.com/the-hidden-bugs-in-your-llm-why-ai-systems-fail-in-ways-you-never-expect-c6c5867ac3ca?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 123618,
+        "text": "⤷\nTitle:\nFake GTA 6 Early Access Websites Target Gamers with Malware and Crypto Scams\n════════════════════════\n𐀪\nAuthor:\nDeeba Ahmed\n════════════════════════\nⴵ\nTime:\nThu, 25 Jun 2026 17:11:58 +0000\n════════════════════════\n⌗\nTags:\n#Security\n#Gaming\n#Malware\n#Scams\nand Fraud\n#Crypto\n#Cyber\nAttack\n#Cyber\nCrime\n#Cybersecurity\n#Fraud\n#GTA\n6\n#Rockstar\n#Scam",
+        "date": "2026-06-25T18:04:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123618_0_61cbd5dc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123618_1_91a6662d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123618",
+        "link": {
+          "title": "Fake GTA 6 Early Access Websites Target Gamers with Malware and Crypto Scams",
+          "url": "https://hackread.com/gta-6-early-access-websites-gamers-malware-crypto-scam/"
+        }
+      },
+      {
         "id": 123617,
         "text": "⤷\nTitle:\nThm Room —Intro to Cross-Site Scripting\n════════════════════════\n𐀪\nAuthor:\nBsbharathkumarreddy\n════════════════════════\nⴵ\nTime:\nThu, 25 Jun 2026 15:42:57 GMT\n════════════════════════\n⌗\nTags:\n#xss_vulnerability\n#thm_room\n#tryhackme_walkthrough\n#cross_site_scripting\n#thm_writeup",
         "date": "2026-06-25T16:04:34+00:00",
@@ -2058,240 +2288,10 @@
           "title": "Nuclei in Kali Linux: The Complete Guide from Basic to Advanced",
           "url": "https://osintteam.blog/nuclei-in-kali-linux-the-complete-guide-from-basic-to-advanced-13c4579b2746?source=rss------bug_bounty-5"
         }
-      },
-      {
-        "id": 123505,
-        "text": "⤷\nTitle:\nUnbaked Pie (THM) Tryhackme Medium Challenge\n════════════════════════\n𐀪\nAuthor:\nLawvye\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 20:08:29 GMT\n════════════════════════\n⌗\nTags:\n#privilege_escalation\n#tryhackme\n#capture_the_flag\n#cybersecurity\n#hacking",
-        "date": "2026-06-24T22:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123505_0_f168795d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123505_1_8f82e0ba.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123505",
-        "link": {
-          "title": "Unbaked Pie (THM) Tryhackme Medium Challenge",
-          "url": "https://medium.com/@lawvye/unbaked-pie-thm-tryhackme-medium-challenge-d23a57abbf8c?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 123504,
-        "text": "⤷\nTitle:\nThe Three Blockchain Hacks That Changed Security Forever\n════════════════════════\n𐀪\nAuthor:\nYua Mikanana\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 21:24:24 GMT\n════════════════════════\n⌗\nTags:\n#ai\n#hacking\n#blockchain\n#llm\n#cybersecurity",
-        "date": "2026-06-24T22:03:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123504_0_f168795d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123504_1_b6d24a3e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123504",
-        "link": {
-          "title": "The Three Blockchain Hacks That Changed Security Forever",
-          "url": "https://medium.com/@yua.mikanana19/the-three-blockchain-hacks-that-changed-security-forever-5c4b9ce63b92?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 123503,
-        "text": "⤷\nTitle:\nSame Flaw, Opposite Verdict: AI Agents Can't Agree What Counts as a Security Vulnerability\n════════════════════════\n𐀪\nAuthor:\nNikos Rigas\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 21:46:53 GMT\n════════════════════════\n⌗\nTags:\n#application_security\n#llm\n#cybersecurity\n#artificial_intelligence\n#responsible_disclosure",
-        "date": "2026-06-24T22:03:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123503_0_f168795d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123503_1_33f3261b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123503",
-        "link": {
-          "title": "Same Flaw, Opposite Verdict: AI Agents Can't Agree What Counts as a Security Vulnerability",
-          "url": "https://medium.com/@nikrig/same-flaw-opposite-verdict-ai-agents-cant-agree-what-counts-as-a-security-vulnerability-995060e5b0a5?source=rss------application_security-5"
-        }
-      },
-      {
-        "id": 123502,
-        "text": "⤷\nTitle:\nOperation Endgame Disrupts StealC, Amadey and SocGholish Malware Networks\n════════════════════════\n𐀪\nAuthor:\nWaqas\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 20:42:27 +0000\n════════════════════════\n⌗\nTags:\n#Cyber\nCrime\n#Malware\n#Amadey\n#Cybersecurity\n#Infostealer\n#MaaS\n#Operation\nEndgame\n#security\n#SocGholish\n#Stealc",
-        "date": "2026-06-24T22:03:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123502_0_f168795d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123502_1_33ec0f6b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123502",
-        "link": {
-          "title": "Operation Endgame Disrupts StealC, Amadey and SocGholish Malware Networks",
-          "url": "https://hackread.com/operation-endgame-stealc-amadey-socgholish-malware/"
-        }
-      },
-      {
-        "id": 123501,
-        "text": "⤷\nTitle:\nSQL INJECTION : Part 3.2 — Blind SQL injection vulnerabilities\n════════════════════════\n𐀪\nAuthor:\nRoni Alfredo Simamora\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 18:35:48 GMT\n════════════════════════\n⌗\nTags:\n#blind_sql_injection\n#payload\n#oracle\n#python\n#sql_injection",
-        "date": "2026-06-24T20:04:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123501_0_f168795d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123501_1_8754f0c8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123501",
-        "link": {
-          "title": "SQL INJECTION : Part 3.2 — Blind SQL injection vulnerabilities",
-          "url": "https://medium.com/@ronialfredo05/sql-injection-part-3-2-blind-sql-injection-vulnerabilities-2c88a8c02660?source=rss------sql_injection-5"
-        }
-      },
-      {
-        "id": 123500,
-        "text": "⤷\nTitle:\nWhy API Security is the Ultimate Breakthrough for Modern Developers in 2026\n════════════════════════\n𐀪\nAuthor:\nClass More\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 19:54:55 GMT\n════════════════════════\n⌗\nTags:\n#web_development\n#software_engineering\n#cyber_security_solutions\n#programming\n#api_security",
-        "date": "2026-06-24T20:04:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123500_0_f168795d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123500_1_630d8925.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123500",
-        "link": {
-          "title": "Why API Security is the Ultimate Breakthrough for Modern Developers in 2026",
-          "url": "https://medium.com/@morec6003/why-api-security-is-the-ultimate-breakthrough-for-modern-developers-in-2026-cedb055d86ba?source=rss------api_security-5"
-        }
-      },
-      {
-        "id": 123499,
-        "text": "⤷\nTitle:\nWhat Happens When You Click a Phishing Link? A Step-by-Step Technical Breakdown\n════════════════════════\n𐀪\nAuthor:\nMahidinesh\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 18:31:01 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#information_security\n#cybersecurity\n#phishing\n#cyberattack",
-        "date": "2026-06-24T20:04:51+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123499_0_f168795d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123499_1_70e826af.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123499",
-        "link": {
-          "title": "What Happens When You Click a Phishing Link? A Step-by-Step Technical Breakdown",
-          "url": "https://medium.com/@mahidinesh/what-happens-when-you-click-a-phishing-link-a-step-by-step-technical-breakdown-21b2ea168412?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 123498,
-        "text": "⤷\nTitle:\nFree CTF Event This Saturday — Come Learn With Us\n════════════════════════\n𐀪\nAuthor:\nDallen Sadru\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 19:22:35 GMT\n════════════════════════\n⌗\nTags:\n#steganography\n#digital_forensics\n#cybersecurity\n#ctf\n#ethical_hacking",
-        "date": "2026-06-24T20:04:47+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123498_0_f168795d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123498_1_1fe501af.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123498",
-        "link": {
-          "title": "Free CTF Event This Saturday — Come Learn With Us",
-          "url": "https://medium.com/@cyberb354/free-ctf-event-this-saturday-come-learn-with-us-175142ef42c5?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 123497,
-        "text": "⤷\nTitle:\nIt’s Tool Time! Building Out New Tools to Make My Life a Bit Easier and Hopefully Yours\n════════════════════════\n𐀪\nAuthor:\nThe Husky Hacker\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 19:56:39 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking",
-        "date": "2026-06-24T20:04:44+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123497_0_f168795d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123497_1_cca761e7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123497",
-        "link": {
-          "title": "It’s Tool Time! Building Out New Tools to Make My Life a Bit Easier and Hopefully Yours",
-          "url": "https://medium.com/@TheHuskyHacker/its-tool-time-building-out-tools-to-make-my-life-a-bit-easier-and-hopefully-yours-d10b38491b53?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 123496,
-        "text": "⤷\nTitle:\n5 Terminal Tricks That Feel Like Cheating (But Aren’t)\n════════════════════════\n𐀪\nAuthor:\n@AnandPrajapati\n════════════════════════\nⴵ\nTime:\nWed, 24 Jun 2026 18:05:48 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacker\n#cybersecurity\n#bug_hunter",
-        "date": "2026-06-24T20:04:41+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123496_0_f168795d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123496_1_609f4c49.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123496",
-        "link": {
-          "title": "5 Terminal Tricks That Feel Like Cheating (But Aren’t)",
-          "url": "https://medium.com/@anand114bug/5-terminal-tricks-that-feel-like-cheating-but-arent-35a7e3a8b95d?source=rss------bug_hunter-5"
-        }
       }
     ]
   },
-  "last_update": "2026-06-25T16:15:50.699401+00:00",
+  "last_update": "2026-06-25T18:31:31.417505+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2303,7 +2303,7 @@
     },
     "referenced_files": 197,
     "existing_media_files": 197,
-    "total_size_mb": 5.15,
-    "last_calculation": "2026-06-25T16:15:50.701709+00:00"
+    "total_size_mb": 4.93,
+    "last_calculation": "2026-06-25T18:31:31.419888+00:00"
   }
 }
