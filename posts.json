@@ -2,6 +2,52 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 123636,
+        "text": "⤷\nTitle:\nSliding Window Counter\n════════════════════════\n𐀪\nAuthor:\nPINAR BİLDİRİCİ\n════════════════════════\nⴵ\nTime:\nThu, 25 Jun 2026 20:48:51 GMT\n════════════════════════\n⌗\nTags:\n#rate_limiting\n#api_security\n#design_systems\n#sliding_window_counter",
+        "date": "2026-06-25T22:04:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123636_0_61cbd5dc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123636_1_767fae97.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123636",
+        "link": {
+          "title": "Sliding Window Counter",
+          "url": "https://medium.com/@Pinar_/sliding-window-counter-e1103a4c7098?source=rss------api_security-5"
+        }
+      },
+      {
+        "id": 123635,
+        "text": "⤷\nTitle:\n“I Won’t Let Your Future Customers Register” — Hunting an Email Verification Bug Through Recon\n════════════════════════\n𐀪\nAuthor:\nMuhammad Murtaza\n════════════════════════\nⴵ\nTime:\nThu, 25 Jun 2026 21:05:46 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#bug_bounty_writeup\n#bug_bounty\n#web_security\n#ethical_hacking_training",
+        "date": "2026-06-25T22:04:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123635_0_61cbd5dc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123635_1_4e0fd067.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123635",
+        "link": {
+          "title": "“I Won’t Let Your Future Customers Register” — Hunting an Email Verification Bug Through Recon",
+          "url": "https://medium.com/@Muhammad_Murtaza/i-wont-let-your-future-customers-register-hunting-an-email-verification-bug-through-recon-99c772c5ed84?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 123634,
         "text": "⤷\nTitle:\nCareers in Cyber — TryHackme\n════════════════════════\n𐀪\nAuthor:\nAndreyna Marques Carvalho\n════════════════════════\nⴵ\nTime:\nThu, 25 Jun 2026 11:26:16 GMT\n════════════════════════\n⌗\nTags:\n#walkthrough\n#tryhackme_walkthrough\n#ctf\n#careers_in_cyber\n#tryhackme",
         "date": "2026-06-25T20:04:16+00:00",
@@ -2242,56 +2288,10 @@
           "title": "Laravel Livewire Vulnerability Exposes Over 6,000 Apps",
           "url": "https://securityonline.info/laravel-livewire-vulnerability-cve-2025-54068/"
         }
-      },
-      {
-        "id": 123514,
-        "text": "⤷\nTitle:\nThe Evolution of Collaboration: Anthropic’s Claude Tag in Slack\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 25 Jun 2026 03:00:43 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#Anthropic\n#Claude\nTag\n#enterprise\nAI\n#Slack\nAI\n#Tech\nNews",
-        "date": "2026-06-25T04:03:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123514_0_f168795d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123514_1_09914d99.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123514",
-        "link": {
-          "title": "The Evolution of Collaboration: Anthropic’s Claude Tag in Slack",
-          "url": "https://securityonline.info/anthropic-claude-tag-slack/"
-        }
-      },
-      {
-        "id": 123513,
-        "text": "⤷\nTitle:\nUbuntu Livepatch Now Supports Arm64 for Rebootless Kernel Updates\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 25 Jun 2026 03:46:40 +0000\n════════════════════════\n⌗\nTags:\n#Linux\n#ARM64\n#Canonical\n#Linux\nKernel\n#Livepatch\n#Ubuntu\n#Ubuntu\nPro",
-        "date": "2026-06-25T04:03:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123513_0_f168795d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123513_1_7693f1df.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123513",
-        "link": {
-          "title": "Ubuntu Livepatch Now Supports Arm64 for Rebootless Kernel Updates",
-          "url": "https://securityonline.info/ubuntu-livepatch-arm64/"
-        }
       }
     ]
   },
-  "last_update": "2026-06-25T20:33:08.408512+00:00",
+  "last_update": "2026-06-25T22:16:59.897211+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2303,7 +2303,7 @@
     },
     "referenced_files": 197,
     "existing_media_files": 197,
-    "total_size_mb": 5.09,
-    "last_calculation": "2026-06-25T20:33:08.410840+00:00"
+    "total_size_mb": 5.04,
+    "last_calculation": "2026-06-25T22:16:59.899656+00:00"
   }
 }
