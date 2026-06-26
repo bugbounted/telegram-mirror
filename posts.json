@@ -2,6 +2,351 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 123681,
+        "text": "⤷\nTitle:\nPortSwigger Lab WalkThrough: SQL Injection Vulnerability allowing Login Bypass\n════════════════════════\n𐀪\nAuthor:\nChetan Patil\n════════════════════════\nⴵ\nTime:\nFri, 26 Jun 2026 06:25:46 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#authentication_bypass\n#web_security\n#sql_injection",
+        "date": "2026-06-26T08:04:43+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123681_0_61cbd5dc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123681_1_02b31271.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123681",
+        "link": {
+          "title": "PortSwigger Lab WalkThrough: SQL Injection Vulnerability allowing Login Bypass",
+          "url": "https://medium.com/@devchetanpatil/portswigger-lab-walkthrough-sql-injection-vulnerability-allowing-login-bypass-b931cfa50576?source=rss------sql_injection-5"
+        }
+      },
+      {
+        "id": 123680,
+        "text": "⤷\nTitle:\nDynamic SQL in Oracle PL/SQL: Why It Exists and When You Should Use It\n════════════════════════\n𐀪\nAuthor:\nMd Rijwan\n════════════════════════\nⴵ\nTime:\nFri, 26 Jun 2026 06:34:38 GMT\n════════════════════════\n⌗\nTags:\n#plsql\n#dynamic_sql\n#sql_injection",
+        "date": "2026-06-26T08:04:40+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123680_0_61cbd5dc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123680_1_a930ebfe.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123680",
+        "link": {
+          "title": "Dynamic SQL in Oracle PL/SQL: Why It Exists and When You Should Use It",
+          "url": "https://medium.com/@mdrijwan1267/dynamic-sql-in-oracle-pl-sql-why-it-exists-and-when-you-should-use-it-d0bfc674b771?source=rss------sql_injection-5"
+        }
+      },
+      {
+        "id": 123679,
+        "text": "⤷\nTitle:\nOWASP API Security Top 10 (2023)\n════════════════════════\n𐀪\nAuthor:\nMitty\n════════════════════════\nⴵ\nTime:\nFri, 26 Jun 2026 06:07:35 GMT\n════════════════════════\n⌗\nTags:\n#owasp_api_security\n#api_security\n#api_security_testing\n#owasp_api_security_top_10\n#owasp",
+        "date": "2026-06-26T08:04:37+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123679_0_61cbd5dc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123679_1_166198dc.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123679",
+        "link": {
+          "title": "OWASP API Security Top 10 (2023)",
+          "url": "https://medium.com/@w.mitty03/owasp-api-security-top-10-2023-85da4792ae47?source=rss------api_security-5"
+        }
+      },
+      {
+        "id": 123678,
+        "text": "⤷\nTitle:\nWAF vs API Gateway\n════════════════════════\n𐀪\nAuthor:\nSilversky Technology\n════════════════════════\nⴵ\nTime:\nFri, 26 Jun 2026 06:20:56 GMT\n════════════════════════\n⌗\nTags:\n#information_security\n#api_security\n#firewall\n#backend_development",
+        "date": "2026-06-26T08:04:33+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123678_0_61cbd5dc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123678_1_2033174a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123678",
+        "link": {
+          "title": "WAF vs API Gateway",
+          "url": "https://medium.com/@silverskytechnology/waf-vs-api-gateway-864390f2149f?source=rss------api_security-5"
+        }
+      },
+      {
+        "id": 123677,
+        "text": "⤷\nTitle:\nPublic vs Private Blockchains: The Difference\n════════════════════════\n𐀪\nAuthor:\nChetan Dugar\n════════════════════════\nⴵ\nTime:\nFri, 26 Jun 2026 06:31:28 GMT\n════════════════════════\n⌗\nTags:\n#blockchain_technology\n#stable_coin\n#blockchain\n#ethereum\n#ethical_hacking",
+        "date": "2026-06-26T08:04:30+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123677_0_61cbd5dc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123677_1_7602f0d6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123677",
+        "link": {
+          "title": "Public vs Private Blockchains: The Difference",
+          "url": "https://medium.com/coinmonks/public-vs-private-blockchains-the-difference-a871d77521a1?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 123676,
+        "text": "⤷\nTitle:\nBest 6 Months Master Diploma in DevOps Engineering Course in India\n════════════════════════\n𐀪\nAuthor:\ncybersecuritycourse\n════════════════════════\nⴵ\nTime:\nFri, 26 Jun 2026 07:46:21 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#education\n#cybersecurity\n#linux\n#devops",
+        "date": "2026-06-26T08:04:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123676_0_61cbd5dc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123676_1_885df236.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123676",
+        "link": {
+          "title": "Best 6 Months Master Diploma in DevOps Engineering Course in India",
+          "url": "https://medium.com/@cybersecuritycourse/best-6-months-master-diploma-in-devops-engineering-course-in-india-4d3c328175a2?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 123675,
+        "text": "⤷\nTitle:\nSOC Workbooks and Lookups — TryHackMe Write-Up\n════════════════════════\n𐀪\nAuthor:\nDarshan\n════════════════════════\nⴵ\nTime:\nFri, 26 Jun 2026 06:56:04 GMT\n════════════════════════\n⌗\nTags:\n#soc\n#tryhackme\n#cybersecurity",
+        "date": "2026-06-26T08:04:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123675_0_61cbd5dc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123675_1_a06cbe9f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123675",
+        "link": {
+          "title": "SOC Workbooks and Lookups — TryHackMe Write-Up",
+          "url": "https://medium.com/@darshan331740_89257/soc-workbooks-and-lookups-tryhackme-write-up-fe20372244ff?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 123674,
+        "text": "⤷\nTitle:\nPhishing Analysis Fundamentals — TryHackMe Write-Up\n════════════════════════\n𐀪\nAuthor:\nDarshan\n════════════════════════\nⴵ\nTime:\nFri, 26 Jun 2026 06:57:01 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#soc\n#cybersecurity",
+        "date": "2026-06-26T08:04:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123674_0_61cbd5dc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123674_1_53bc790d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123674",
+        "link": {
+          "title": "Phishing Analysis Fundamentals — TryHackMe Write-Up",
+          "url": "https://medium.com/@darshan331740_89257/phishing-analysis-fundamentals-tryhackme-write-up-5fc450326ecd?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 123673,
+        "text": "⤷\nTitle:\nThe Confidential Secret With the Discretion of a Billboard\n════════════════════════\n𐀪\nAuthor:\nanshh.bohara\n════════════════════════\nⴵ\nTime:\nFri, 26 Jun 2026 07:36:36 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#security\n#bug_hunting",
+        "date": "2026-06-26T08:04:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123673_0_61cbd5dc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123673_1_daa7efbc.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123673",
+        "link": {
+          "title": "The Confidential Secret With the Discretion of a Billboard",
+          "url": "https://medium.com/@anshbohra10/the-confidential-secret-with-the-discretion-of-a-billboard-0ac48a06df09?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 123672,
+        "text": "⤷\nTitle:\nUnpacking Qakbot Part 2: Reconstructing the PE Structure and Fixing Broken Memory Alignments\n════════════════════════\n𐀪\nAuthor:\nAyush Malwarex\n════════════════════════\nⴵ\nTime:\nFri, 26 Jun 2026 06:39:48 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#tutorial\n#malware_analysis\n#reverse_engineering\n#infosec",
+        "date": "2026-06-26T08:04:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123672_0_61cbd5dc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123672_1_c4360519.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123672",
+        "link": {
+          "title": "Unpacking Qakbot Part 2: Reconstructing the PE Structure and Fixing Broken Memory Alignments",
+          "url": "https://medium.com/@ayush.malwarex/unpacking-qakbot-part-2-reconstructing-the-pe-structure-and-fixing-broken-memory-alignments-03169d5b6e8c?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 123671,
+        "text": "⤷\nTitle:\nThe Honest Truth About Placement After an Ethical Hacking Course in Delhi: What Nobody Tells You…\n════════════════════════\n𐀪\nAuthor:\nVarun Papnai\n════════════════════════\nⴵ\nTime:\nFri, 26 Jun 2026 06:55:24 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#cybersecurity\n#hacking",
+        "date": "2026-06-26T08:04:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123671_0_61cbd5dc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123671_1_c2d08852.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123671",
+        "link": {
+          "title": "The Honest Truth About Placement After an Ethical Hacking Course in Delhi: What Nobody Tells You…",
+          "url": "https://medium.com/@vpapnai48/the-honest-truth-about-placement-after-an-ethical-hacking-course-in-delhi-what-nobody-tells-you-097c64caac1d?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 123670,
+        "text": "⤷\nTitle:\nThe Bouncer Who Never Read the Envelope\n════════════════════════\n𐀪\nAuthor:\nanshh.bohara\n════════════════════════\nⴵ\nTime:\nFri, 26 Jun 2026 07:37:50 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#cybersecurity",
+        "date": "2026-06-26T08:04:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123670_0_61cbd5dc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123670_1_cf38b596.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123670",
+        "link": {
+          "title": "The Bouncer Who Never Read the Envelope",
+          "url": "https://medium.com/@anshbohra10/the-bouncer-who-never-read-the-envelope-e9b580846fa9?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 123669,
+        "text": "⤷\nTitle:\nRemcos RAT Delivered by a Steganographic Loader in Phishing Emails\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 26 Jun 2026 06:12:01 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#Fileless\nMalware\n#India\n#K7\nSecurity Labs\n#Loader_as_a_Service\n#phishing\n#Process\nHollowing\n#Remcos\nRAT\n#steganographic\nloader",
+        "date": "2026-06-26T08:04:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123669_0_61cbd5dc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123669_1_67835aaa.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123669",
+        "link": {
+          "title": "Remcos RAT Delivered by a Steganographic Loader in Phishing Emails",
+          "url": "https://securityonline.info/remcos-rat-steganographic-loader/"
+        }
+      },
+      {
+        "id": 123668,
+        "text": "⤷\nTitle:\nOXLOADER Malware Loader Spreads CASTLESTEALER via Fake Node.js Ads\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 26 Jun 2026 07:16:06 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#CASTLESTEALER\n#Elastic\nSecurity Labs\n#Infostealer\n#malicious\nGoogle Ads\n#Malvertising\n#malware\nloader\n#OXLOADER\n#REF8372",
+        "date": "2026-06-26T08:04:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123668_0_61cbd5dc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123668_1_56d2f7a8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123668",
+        "link": {
+          "title": "OXLOADER Malware Loader Spreads CASTLESTEALER via Fake Node.js Ads",
+          "url": "https://securityonline.info/oxloader-malware-loader/"
+        }
+      },
+      {
+        "id": 123667,
+        "text": "⤷\nTitle:\nWindows 11 Anniversary: 5 Years of Hardware and Interface Frustration\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nFri, 26 Jun 2026 06:06:54 +0000\n════════════════════════\n⌗\nTags:\n#Windows\n#hardware\n#Microsoft\n#operating\nsystem\n#tech\nhistory\n#Windows\n11",
+        "date": "2026-06-26T08:03:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123667_0_61cbd5dc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123667_1_8847ff6a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123667",
+        "link": {
+          "title": "Windows 11 Anniversary: 5 Years of Hardware and Interface Frustration",
+          "url": "https://meterpreter.org/windows-11-anniversary-frustration/"
+        }
+      },
+      {
         "id": 123666,
         "text": "⤷\nTitle:\nUnIndexed — TryHackMe writeups\n════════════════════════\n𐀪\nAuthor:\nm3uh\n════════════════════════\nⴵ\nTime:\nFri, 26 Jun 2026 04:02:11 GMT\n════════════════════════\n⌗\nTags:\n#ai_agent\n#tryhackme",
         "date": "2026-06-26T06:04:12+00:00",
@@ -1947,363 +2292,22 @@
           "title": "TryHackMe “Forward” Writeup | sAMAccountName Spoofing to Domain Admin (CVE-2021–42278 & 42287)",
           "url": "https://medium.com/@matteo.h.iacovantuono/tryhackme-forward-writeup-samaccountname-spoofing-to-domain-admin-cve-2021-42278-42287-a9c128fe0a9c?source=rss------penetration_testing-5"
         }
-      },
-      {
-        "id": 123559,
-        "text": "⤷\nTitle:\nHow I Actually Find Freelance Pentest Clients Without a Sales Background\n════════════════════════\n𐀪\nAuthor:\nIsmail Tasdelen\n════════════════════════\nⴵ\nTime:\nThu, 25 Jun 2026 09:20:08 GMT\n════════════════════════\n⌗\nTags:\n#business\n#freelancing\n#cybersecurity\n#penetration_testing\n#careers",
-        "date": "2026-06-25T10:04:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123559_0_f168795d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123559_1_c3d144b7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123559",
-        "link": {
-          "title": "How I Actually Find Freelance Pentest Clients Without a Sales Background",
-          "url": "https://ismailtasdelen.medium.com/how-i-actually-find-freelance-pentest-clients-without-a-sales-background-bf71db235379?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 123558,
-        "text": "⤷\nTitle:\nCordyceps: The CI/CD Exploit That Let Any Free GitHub Account Hijack Microsoft, Google, and Apache\n════════════════════════\n𐀪\nAuthor:\nAbhijith\n════════════════════════\nⴵ\nTime:\nThu, 25 Jun 2026 09:00:43 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#open_source\n#appsec\n#devsecops\n#cybersecurity",
-        "date": "2026-06-25T10:04:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123558_0_f168795d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123558_1_82582ed9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123558",
-        "link": {
-          "title": "Cordyceps: The CI/CD Exploit That Let Any Free GitHub Account Hijack Microsoft, Google, and Apache",
-          "url": "https://medium.com/@7yr4n7/cordyceps-the-ci-cd-exploit-that-let-any-free-github-account-hijack-microsoft-google-and-apache-21229d0fd61d?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 123557,
-        "text": "⤷\nTitle:\nInsecure Deserialization: The Silent Code Executor Hackers Love — By GrayXploit Security Research…\n════════════════════════\n𐀪\nAuthor:\nGrayxploit\n════════════════════════\nⴵ\nTime:\nThu, 25 Jun 2026 09:02:25 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#bug_bounty_tips\n#owasp\n#bug_bounty\n#red_team",
-        "date": "2026-06-25T10:04:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123557_0_f168795d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123557_1_20c5f4b1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123557",
-        "link": {
-          "title": "Insecure Deserialization: The Silent Code Executor Hackers Love — By GrayXploit Security Research…",
-          "url": "https://grayxploit.medium.com/insecure-deserialization-the-silent-code-executor-hackers-love-702c92a72e78?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 123556,
-        "text": "⤷\nTitle:\nExcessive Data Exposure via Unauthenticated GraphQL Endpoint\n════════════════════════\n𐀪\nAuthor:\n0xPinocchioSec\n════════════════════════\nⴵ\nTime:\nThu, 25 Jun 2026 09:20:53 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#infosec\n#graphql\n#web_security\n#cybersecurity_research",
-        "date": "2026-06-25T10:04:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123556_0_f168795d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123556_1_ddf5b56b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123556",
-        "link": {
-          "title": "Excessive Data Exposure via Unauthenticated GraphQL Endpoint",
-          "url": "https://medium.com/@am011416854/excessive-data-exposure-via-unauthenticated-graphql-endpoint-30e5dcc339ce?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 123555,
-        "text": "⤷\nTitle:\nWindows Crypto Clipper Malware Exposed\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 25 Jun 2026 08:01:49 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#cryptocurrency\n#cybersecurity\n#malware\n#Microsoft\nThreat Intelligence\n#Tor\nrouted cryptocurrency stealer\n#Windows\ncrypto clipper malware",
-        "date": "2026-06-25T10:04:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123555_0_f168795d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123555_1_aa38e2fd.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123555",
-        "link": {
-          "title": "Windows Crypto Clipper Malware Exposed",
-          "url": "https://securityonline.info/windows-crypto-clipper-malware/"
-        }
-      },
-      {
-        "id": 123554,
-        "text": "⤷\nTitle:\nAutoJack AI Agent Exploit Unveiled\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 25 Jun 2026 08:52:41 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#AI\nagent\n#AutoGen\nStudio\n#AutoJack\n#cybersecurity\n#Exploit\n#rce\n#Vulnerability",
-        "date": "2026-06-25T10:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123554_0_f168795d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123554_1_91cbb557.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123554",
-        "link": {
-          "title": "AutoJack AI Agent Exploit Unveiled",
-          "url": "https://securityonline.info/autojack-ai-agent-exploit/"
-        }
-      },
-      {
-        "id": 123553,
-        "text": "⤷\nTitle:\nApache Kvrocks Vulnerabilities Fix Five Severe Flaws\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 25 Jun 2026 09:58:10 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Apache\nKvrocks\n#CVE_2026_41566\n#CVE_2026_46752\n#CVE_2026_54226\n#Vulnerability",
-        "date": "2026-06-25T10:03:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123553_0_f168795d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123553_1_59b18e25.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123553",
-        "link": {
-          "title": "Apache Kvrocks Vulnerabilities Fix Five Severe Flaws",
-          "url": "https://securityonline.info/apache-kvrocks-vulnerabilities/"
-        }
-      },
-      {
-        "id": 123552,
-        "text": "⤷\nTitle:\nNew Mistic Backdoor Linked to KongTuke in ClickFix and ModeloRAT Campaigns\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nThu, 25 Jun 2026 14:24:37 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-06-25T10:03:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123552_0_f168795d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123552",
-        "link": {
-          "title": "New Mistic Backdoor Linked to KongTuke in ClickFix and ModeloRAT Campaigns",
-          "url": "https://thehackernews.com/2026/06/new-mistic-backdoor-linked-to-kongtuke.html"
-        }
-      },
-      {
-        "id": 123551,
-        "text": "⤷\nTitle:\nThree Incidents. Four Layers. One Week.\n════════════════════════\n𐀪\nAuthor:\nDuncan N. Ndegwa\n════════════════════════\nⴵ\nTime:\nThu, 25 Jun 2026 07:40:25 GMT\n════════════════════════\n⌗\nTags:\n#mastra_ai\n#servicenow\n#api_security\n#security_credentials\n#fortinet",
-        "date": "2026-06-25T08:04:40+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123551_0_f168795d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123551_1_8f80cbc7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123551",
-        "link": {
-          "title": "Three Incidents. Four Layers. One Week.",
-          "url": "https://medium.com/@devfortress/three-incidents-four-layers-one-week-dd5ee672539c?source=rss------api_security-5"
-        }
-      },
-      {
-        "id": 123550,
-        "text": "⤷\nTitle:\nThe 2026 AI Agent Credential Crisis: Six Months of Intelligence, One Unanswered Question\n════════════════════════\n𐀪\nAuthor:\nDuncan N. Ndegwa\n════════════════════════\nⴵ\nTime:\nThu, 25 Jun 2026 07:52:27 GMT\n════════════════════════\n⌗\nTags:\n#ai_agents_in_action\n#semi_annual_review\n#non_human_identities\n#api_security\n#threat_intelligence",
-        "date": "2026-06-25T08:04:36+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123550_0_f168795d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123550_1_bd3e3a73.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123550",
-        "link": {
-          "title": "The 2026 AI Agent Credential Crisis: Six Months of Intelligence, One Unanswered Question",
-          "url": "https://medium.com/@devfortress/the-2026-ai-agent-credential-crisis-six-months-of-intelligence-one-unanswered-question-91a873c6cf2b?source=rss------api_security-5"
-        }
-      },
-      {
-        "id": 123549,
-        "text": "⤷\nTitle:\nElastic: Setting up a SOC Lab | TryHackMe\n════════════════════════\n𐀪\nAuthor:\nRyca\n════════════════════════\nⴵ\nTime:\nThu, 25 Jun 2026 06:41:36 GMT\n════════════════════════\n⌗\nTags:\n#elastic\n#tryhackme\n#blue_team\n#cybersecurity",
-        "date": "2026-06-25T08:04:33+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123549_0_f168795d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123549_1_9c16ee6a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123549",
-        "link": {
-          "title": "Elastic: Setting up a SOC Lab | TryHackMe",
-          "url": "https://medium.com/@elaris/elastic-setting-up-a-soc-lab-tryhackme-47673d98f365?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 123548,
-        "text": "⤷\nTitle:\nSOC L1 Alert Reporting — TryHackMe Write-Up\n════════════════════════\n𐀪\nAuthor:\nDarshan\n════════════════════════\nⴵ\nTime:\nThu, 25 Jun 2026 06:50:15 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#soc\n#cybersecurity",
-        "date": "2026-06-25T08:04:30+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123548_0_f168795d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123548_1_4a31247c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123548",
-        "link": {
-          "title": "SOC L1 Alert Reporting — TryHackMe Write-Up",
-          "url": "https://medium.com/@darshan331740_89257/soc-l1-alert-reporting-tryhackme-write-up-b27eda121876?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 123547,
-        "text": "⤷\nTitle:\nI Analyzed My First Phishing Alert in a SOC Lab. Here’s What Gave It Away.\n════════════════════════\n𐀪\nAuthor:\nCyberwithalish\n════════════════════════\nⴵ\nTime:\nThu, 25 Jun 2026 07:18:21 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#cyber_security_awareness\n#phishing\n#tryhackme_writeup\n#phishing_email",
-        "date": "2026-06-25T08:04:26+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123547_0_f168795d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123547_1_a999bea1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123547",
-        "link": {
-          "title": "I Analyzed My First Phishing Alert in a SOC Lab. Here’s What Gave It Away.",
-          "url": "https://medium.com/@cyberwithalish/i-analyzed-my-first-phishing-alert-in-a-soc-lab-heres-what-gave-it-away-a86b9c8c2725?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 123546,
-        "text": "⤷\nTitle:\nYear of the Rabbit\n════════════════════════\n𐀪\nAuthor:\nLeon\n════════════════════════\nⴵ\nTime:\nThu, 25 Jun 2026 06:02:09 GMT\n════════════════════════\n⌗\nTags:\n#ctf\n#hacking\n#tryhackme\n#boot_to_root\n#ctf_writeup",
-        "date": "2026-06-25T08:04:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123546_0_f168795d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123546_1_815cd348.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123546",
-        "link": {
-          "title": "Year of the Rabbit",
-          "url": "https://medium.com/@leonislam052/year-of-the-rabbit-70f3ede959b3?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 123545,
-        "text": "⤷\nTitle:\nCyber Security Professional\n════════════════════════\n𐀪\nAuthor:\nCozonix\n════════════════════════\nⴵ\nTime:\nThu, 25 Jun 2026 06:14:25 GMT\n════════════════════════\n⌗\nTags:\n#technology\n#information_technology\n#cyber_security_awareness\n#kali_linux\n#hacking",
-        "date": "2026-06-25T08:04:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123545_0_f168795d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123545_1_a6ccee88.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123545",
-        "link": {
-          "title": "Cyber Security Professional",
-          "url": "https://medium.com/@cozonix.official/cyber-security-professional-324a39336eda?source=rss------hacking-5"
-        }
       }
     ]
   },
-  "last_update": "2026-06-26T06:14:20.948704+00:00",
+  "last_update": "2026-06-26T09:57:50.882792+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 197,
-    "total_files": 197,
+    "total_media": 198,
+    "total_files": 198,
     "total_links": 0,
     "files_by_type": {
-      "image": 197
+      "image": 198
     },
-    "referenced_files": 197,
-    "existing_media_files": 197,
-    "total_size_mb": 5.29,
-    "last_calculation": "2026-06-26T06:14:20.951051+00:00"
+    "referenced_files": 198,
+    "existing_media_files": 198,
+    "total_size_mb": 5.19,
+    "last_calculation": "2026-06-26T09:57:50.885175+00:00"
   }
 }
