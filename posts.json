@@ -2,6 +2,52 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 123638,
+        "text": "⤷\nTitle:\nHow I Recon a Target, Part Two: Now We Poke It\n════════════════════════\n𐀪\nAuthor:\nBabou\n════════════════════════\nⴵ\nTime:\nMon, 22 Jun 2026 17:59:47 GMT\n════════════════════════\n⌗\nTags:\n#methodology\n#cybersecurity\n#rwanda\n#recon",
+        "date": "2026-06-26T00:03:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123638_0_61cbd5dc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123638_1_44a9d67a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123638",
+        "link": {
+          "title": "How I Recon a Target, Part Two: Now We Poke It",
+          "url": "https://medium.com/@baboumanzi69/how-i-recon-a-target-part-two-now-we-poke-it-dac136692677?source=rss------recon-5"
+        }
+      },
+      {
+        "id": 123637,
+        "text": "⤷\nTitle:\nFAT32 Filesystem Forensics: A Complete DFIR Walkthrough\n════════════════════════\n𐀪\nAuthor:\nDeadHack\n════════════════════════\nⴵ\nTime:\nThu, 25 Jun 2026 23:26:12 GMT\n════════════════════════\n⌗\nTags:\n#incident_response\n#malware_analysis\n#digital_forensics\n#tryhackme\n#cybersecurity",
+        "date": "2026-06-26T00:03:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123637_0_61cbd5dc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123637_1_9541325d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123637",
+        "link": {
+          "title": "FAT32 Filesystem Forensics: A Complete DFIR Walkthrough",
+          "url": "https://medium.com/@rohitaswal2108/fat32-filesystem-forensics-a-complete-dfir-walkthrough-6dcd07edd312?source=rss------tryhackme-5"
+        }
+      },
+      {
         "id": 123636,
         "text": "⤷\nTitle:\nSliding Window Counter\n════════════════════════\n𐀪\nAuthor:\nPINAR BİLDİRİCİ\n════════════════════════\nⴵ\nTime:\nThu, 25 Jun 2026 20:48:51 GMT\n════════════════════════\n⌗\nTags:\n#rate_limiting\n#api_security\n#design_systems\n#sliding_window_counter",
         "date": "2026-06-25T22:04:04+00:00",
@@ -2242,56 +2288,10 @@
           "title": "Critical Langflow Flaws Allow Unauthenticated Remote Code Execution",
           "url": "https://securityonline.info/langflow-rce-vulnerability/"
         }
-      },
-      {
-        "id": 123516,
-        "text": "⤷\nTitle:\nOperation Endgame Takes Down SocGholish, Amadey, and StealC Malware\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 25 Jun 2026 02:09:00 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#Amadey\n#Europol\n#Evil\nCorp\n#malware\ntakedown\n#Operation\nEndgame\n#SocGholish\n#StealC\n#wordpress\nsecurity",
-        "date": "2026-06-25T04:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123516_0_f168795d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123516_1_2931d4a6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123516",
-        "link": {
-          "title": "Operation Endgame Takes Down SocGholish, Amadey, and StealC Malware",
-          "url": "https://securityonline.info/operation-endgame-socgholish/"
-        }
-      },
-      {
-        "id": 123515,
-        "text": "⤷\nTitle:\nLaravel Livewire Vulnerability Exposes Over 6,000 Apps\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 25 Jun 2026 02:22:46 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#CVE_2025_54068\n#cybersecurity\n#Laravel\n#Vulnerability",
-        "date": "2026-06-25T04:03:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123515_0_f168795d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123515_1_e958847f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123515",
-        "link": {
-          "title": "Laravel Livewire Vulnerability Exposes Over 6,000 Apps",
-          "url": "https://securityonline.info/laravel-livewire-vulnerability-cve-2025-54068/"
-        }
       }
     ]
   },
-  "last_update": "2026-06-25T23:50:46.157302+00:00",
+  "last_update": "2026-06-26T02:02:58.445336+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2303,7 +2303,7 @@
     },
     "referenced_files": 197,
     "existing_media_files": 197,
-    "total_size_mb": 5.04,
-    "last_calculation": "2026-06-25T23:50:46.159637+00:00"
+    "total_size_mb": 5.02,
+    "last_calculation": "2026-06-26T02:02:58.447636+00:00"
   }
 }
