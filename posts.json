@@ -2,6 +2,52 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 123776,
+        "text": "⤷\nTitle:\nData Encoding: From Raw Voltage to ASCII, Unicode, and Emojis\n════════════════════════\n𐀪\nAuthor:\nJonathan Sanfer\n════════════════════════\nⴵ\nTime:\nFri, 26 Jun 2026 23:35:35 GMT\n════════════════════════\n⌗\nTags:\n#data_encoding\n#tryhackme\n#infosec\n#cybersecurity\n#ascii_and_unicode",
+        "date": "2026-06-27T00:03:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123776_0_6fe2e472.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123776_1_21d98991.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123776",
+        "link": {
+          "title": "Data Encoding: From Raw Voltage to ASCII, Unicode, and Emojis",
+          "url": "https://medium.com/@jonathan.sanfer/data-encoding-from-raw-voltage-to-ascii-unicode-and-emojis-0a0a3075e1c3?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 123775,
+        "text": "⤷\nTitle:\nI Left a Fake Server Online for 21 Days. Here’s Who Showed Up.\n════════════════════════\n𐀪\nAuthor:\nSeif Nazmy\n════════════════════════\nⴵ\nTime:\nFri, 26 Jun 2026 21:59:33 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#infosec\n#programming\n#hacking\n#technology",
+        "date": "2026-06-27T00:03:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123775_0_6fe2e472.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123775_1_619cc3d1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123775",
+        "link": {
+          "title": "I Left a Fake Server Online for 21 Days. Here’s Who Showed Up.",
+          "url": "https://medium.com/@s.m.nazmy/i-left-a-fake-server-online-for-21-days-heres-who-showed-up-e541fe8cb279?source=rss------hacking-5"
+        }
+      },
+      {
         "id": 123774,
         "text": "⤷\nTitle:\nHow to Write Engaging Twitter Threads (Free Generator Tool)\n════════════════════════\n𐀪\nAuthor:\nben howard\n════════════════════════\nⴵ\nTime:\nFri, 26 Jun 2026 21:29:08 GMT\n════════════════════════\n⌗\nTags:\n#threads\n#twitter\n#xs",
         "date": "2026-06-26T22:04:16+00:00",
@@ -2206,56 +2252,10 @@
           "title": "Remcos RAT Delivered by a Steganographic Loader in Phishing Emails",
           "url": "https://securityonline.info/remcos-rat-steganographic-loader/"
         }
-      },
-      {
-        "id": 123668,
-        "text": "⤷\nTitle:\nOXLOADER Malware Loader Spreads CASTLESTEALER via Fake Node.js Ads\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 26 Jun 2026 07:16:06 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#CASTLESTEALER\n#Elastic\nSecurity Labs\n#Infostealer\n#malicious\nGoogle Ads\n#Malvertising\n#malware\nloader\n#OXLOADER\n#REF8372",
-        "date": "2026-06-26T08:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123668_0_61cbd5dc.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123668_1_56d2f7a8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123668",
-        "link": {
-          "title": "OXLOADER Malware Loader Spreads CASTLESTEALER via Fake Node.js Ads",
-          "url": "https://securityonline.info/oxloader-malware-loader/"
-        }
-      },
-      {
-        "id": 123667,
-        "text": "⤷\nTitle:\nWindows 11 Anniversary: 5 Years of Hardware and Interface Frustration\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nFri, 26 Jun 2026 06:06:54 +0000\n════════════════════════\n⌗\nTags:\n#Windows\n#hardware\n#Microsoft\n#operating\nsystem\n#tech\nhistory\n#Windows\n11",
-        "date": "2026-06-26T08:03:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123667_0_61cbd5dc.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123667_1_8847ff6a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123667",
-        "link": {
-          "title": "Windows 11 Anniversary: 5 Years of Hardware and Interface Frustration",
-          "url": "https://meterpreter.org/windows-11-anniversary-frustration/"
-        }
       }
     ]
   },
-  "last_update": "2026-06-26T23:54:10.591013+00:00",
+  "last_update": "2026-06-27T01:56:19.290304+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2267,7 +2267,7 @@
     },
     "referenced_files": 188,
     "existing_media_files": 188,
-    "total_size_mb": 4.7,
-    "last_calculation": "2026-06-26T23:54:10.593189+00:00"
+    "total_size_mb": 4.65,
+    "last_calculation": "2026-06-27T01:56:19.292526+00:00"
   }
 }
