@@ -2,6 +2,167 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 123857,
+        "text": "⤷\nTitle:\nMITRE ATT&CK Execution Tactic: Understanding How Adversaries Run Malicious Code\n════════════════════════\n𐀪\nAuthor:\nShalu\n════════════════════════\nⴵ\nTime:\nSat, 27 Jun 2026 15:46:23 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#blue_team\n#cybersecurity\n#soc_analyst\n#threat_hunting",
+        "date": "2026-06-27T16:04:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123857_0_25388c00.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123857_1_2dc8b4dd.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123857",
+        "link": {
+          "title": "MITRE ATT&CK Execution Tactic: Understanding How Adversaries Run Malicious Code",
+          "url": "https://medium.com/@shalu023/mitre-att-ck-execution-tactic-understanding-how-adversaries-run-malicious-code-89253fdd396c?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 123856,
+        "text": "⤷\nTitle:\n# OWASP WrongSecrets — Here’s What Every Developer Should Know About Secret Management Before…\n════════════════════════\n𐀪\nAuthor:\nThe Project Adversary\n════════════════════════\nⴵ\nTime:\nSat, 27 Jun 2026 15:08:21 GMT\n════════════════════════\n⌗\nTags:\n#security\n#owasp\n#penetration_testing\n#secrets\n#information_security",
+        "date": "2026-06-27T16:04:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123856_0_25388c00.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123856_1_4fd5c2e0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123856",
+        "link": {
+          "title": "# OWASP WrongSecrets — Here’s What Every Developer Should Know About Secret Management Before…",
+          "url": "https://medium.com/@theprojectadversary/owasp-wrongsecrets-heres-what-every-developer-should-know-about-secret-management-before-41e300ab7dff?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 123855,
+        "text": "⤷\nTitle:\nJump Challenger: My Beginner-Friendly TryHackMe CTF Walkthrough\n════════════════════════\n𐀪\nAuthor:\nC09N1T1V3\n════════════════════════\nⴵ\nTime:\nSat, 27 Jun 2026 15:10:34 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#cyber_security_awareness\n#ctf\n#penetration_testing\n#cybersecurity",
+        "date": "2026-06-27T16:04:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123855_0_25388c00.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123855_1_bc66a18b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123855",
+        "link": {
+          "title": "Jump Challenger: My Beginner-Friendly TryHackMe CTF Walkthrough",
+          "url": "https://medium.com/@C09N1T1V3/jump-challenger-my-beginner-friendly-tryhackme-ctf-walkthrough-e61e5eb8629e?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 123854,
+        "text": "⤷\nTitle:\nInside the Command, Control, and Exploitation of North Korea’s Disguised IT Workforce\n════════════════════════\n𐀪\nAuthor:\nDavid SEHYEON Baek\n════════════════════════\nⴵ\nTime:\nSat, 27 Jun 2026 15:17:31 GMT\n════════════════════════\n⌗\nTags:\n#espionage\n#cybercrime\n#hacking\n#cybersecurity\n#north_korea",
+        "date": "2026-06-27T16:04:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123854_0_25388c00.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123854_1_efeee86a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123854",
+        "link": {
+          "title": "Inside the Command, Control, and Exploitation of North Korea’s Disguised IT Workforce",
+          "url": "https://medium.com/@davidsehyeonbaek/inside-the-command-control-and-exploitation-of-north-koreas-disguised-it-workforce-9ca6eadb555e?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 123853,
+        "text": "⤷\nTitle:\nLab 5: Blind OS Command Injection with Out-of-Band Data Exfiltration — PortSwigger Web Security…\n════════════════════════\n𐀪\nAuthor:\nNitish Mukhiya\n════════════════════════\nⴵ\nTime:\nSat, 27 Jun 2026 14:03:39 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#os_command_injection\n#portswigger_lab\n#bug_bounty\n#cybersecurity",
+        "date": "2026-06-27T16:03:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123853_0_25388c00.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123853_1_3d1fdf50.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123853",
+        "link": {
+          "title": "Lab 5: Blind OS Command Injection with Out-of-Band Data Exfiltration — PortSwigger Web Security…",
+          "url": "https://medium.com/@nitishmukhiya/lab-5-blind-os-command-injection-with-out-of-band-data-exfiltration-portswigger-web-security-06dd2266943c?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 123852,
+        "text": "⤷\nTitle:\nChaining a DOM XSS Sink, WAF Bypass, Cross-Origin Smuggling, and SDK Abuse into One Click Account…\n════════════════════════\n𐀪\nAuthor:\nAlvin Ferdiansyah\n════════════════════════\nⴵ\nTime:\nSat, 27 Jun 2026 14:35:54 GMT\n════════════════════════\n⌗\nTags:\n#akamai\n#xss_attack\n#bug_bounty\n#xs\n#bugbounty_writeup",
+        "date": "2026-06-27T16:03:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123852_0_25388c00.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123852_1_1585c915.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123852",
+        "link": {
+          "title": "Chaining a DOM XSS Sink, WAF Bypass, Cross-Origin Smuggling, and SDK Abuse into One Click Account…",
+          "url": "https://alvinferd.medium.com/chaining-a-dom-xss-sink-waf-bypass-cross-origin-smuggling-and-sdk-abuse-into-one-click-account-6c1a7095f8e1?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 123851,
+        "text": "⤷\nTitle:\nI Popped Admin on a SaaS Platform in 2 HTTP Requests — Here’s the Whole Kill Chain\n════════════════════════\n𐀪\nAuthor:\nNayan Acharya\n════════════════════════\nⴵ\nTime:\nSat, 27 Jun 2026 15:34:40 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#cybersecurity\n#bug_bounty\n#infosec\n#programming",
+        "date": "2026-06-27T16:03:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123851_0_25388c00.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123851_1_5f0b8f10.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123851",
+        "link": {
+          "title": "I Popped Admin on a SaaS Platform in 2 HTTP Requests — Here’s the Whole Kill Chain",
+          "url": "https://medium.com/@nayanacharya050/i-popped-admin-on-a-saas-platform-in-2-http-requests-heres-the-whole-kill-chain-942c3f83b85e?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 123850,
         "text": "⤷\nTitle:\nAWS Cognito Refresh Tokens: The Hidden Security Risk Behind Long-Lived User Sessions\n════════════════════════\n𐀪\nAuthor:\nDikhyant Krishna Dalai\n════════════════════════\nⴵ\nTime:\nSat, 27 Jun 2026 12:05:52 GMT\n════════════════════════\n⌗\nTags:\n#aws\n#refresh_token\n#ethical_hacking\n#cybersecurity\n#authentication",
         "date": "2026-06-27T14:04:33+00:00",
@@ -2123,175 +2284,22 @@
           "title": "Hacking GraphQL APIs: A Practical Guide for Pentesters — Part 1",
           "url": "https://vineet08.medium.com/hacking-graphql-apis-a-practical-guide-for-pentesters-part-1-c18ba7efbbdb?source=rss------bug_bounty-5"
         }
-      },
-      {
-        "id": 123750,
-        "text": "⤷\nTitle:\nFrom a “Self-XSS” to a Convincing UI Spoof: A Bug Bounty Story That Ended as a Duplicate.\n════════════════════════\n𐀪\nAuthor:\nkjulius\n════════════════════════\nⴵ\nTime:\nFri, 26 Jun 2026 19:47:30 GMT\n════════════════════════\n⌗\nTags:\n#phishing\n#html\n#reflected_xss\n#self_xss\n#bug_bounty",
-        "date": "2026-06-26T20:04:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123750_0_6fe2e472.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123750_1_8abef08b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123750",
-        "link": {
-          "title": "From a “Self-XSS” to a Convincing UI Spoof: A Bug Bounty Story That Ended as a Duplicate.",
-          "url": "https://infosecwriteups.com/from-a-self-xss-to-a-convincing-ui-spoof-a-bug-bounty-story-that-ended-as-a-duplicate-f2b79e233d4e?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 123749,
-        "text": "⤷\nTitle:\nWoodgnat Hackers Use Mistic RAT to Broker Access for Ransomware Gangs\n════════════════════════\n𐀪\nAuthor:\nDeeba Ahmed\n════════════════════════\nⴵ\nTime:\nFri, 26 Jun 2026 19:38:14 +0000\n════════════════════════\n⌗\nTags:\n#Security\n#Cyber\nCrime\n#Malware\n#backdoor\n#Cybersecurity\n#Mistic\n#Ransomware\n#RAT\n#Woodgnat",
-        "date": "2026-06-26T20:03:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123749_0_6fe2e472.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123749_1_b77016e5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123749",
-        "link": {
-          "title": "Woodgnat Hackers Use Mistic RAT to Broker Access for Ransomware Gangs",
-          "url": "https://hackread.com/woodgnat-hackers-mistic-rat-access-ransomware-gangs/"
-        }
-      },
-      {
-        "id": 123748,
-        "text": "⤷\nTitle:\nNew SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nFri, 26 Jun 2026 23:47:46 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-06-26T20:03:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123748_0_6fe2e472.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123748",
-        "link": {
-          "title": "New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks",
-          "url": "https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html"
-        }
-      },
-      {
-        "id": 123747,
-        "text": "⤷\nTitle:\nFBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nSat, 27 Jun 2026 01:08:29 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-06-26T20:03:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123747_0_6fe2e472.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123747",
-        "link": {
-          "title": "FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys",
-          "url": "https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html"
-        }
-      },
-      {
-        "id": 123746,
-        "text": "⤷\nTitle:\nThe Azure Overly Permissive SAS Token That Exposed Thousands of Sensitive Files\n════════════════════════\n𐀪\nAuthor:\nr0h1th\n════════════════════════\nⴵ\nTime:\nFri, 26 Jun 2026 08:16:47 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#ethical_hacking\n#bug_bounty_writeup\n#cloud_security\n#azure",
-        "date": "2026-06-26T18:04:34+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123746_0_6fe2e472.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123746_1_1358e19b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123746",
-        "link": {
-          "title": "The Azure Overly Permissive SAS Token That Exposed Thousands of Sensitive Files",
-          "url": "https://meetcyber.net/overly-permissive-azure-sas-token-da1a15fe8714?source=rss------bug_bounty_writeup-5"
-        }
-      },
-      {
-        "id": 123745,
-        "text": "⤷\nTitle:\nAI Engineer Salary in India 2026: How Much Can You Earn?\n════════════════════════\n𐀪\nAuthor:\nAvanteia Private Limited\n════════════════════════\nⴵ\nTime:\nFri, 26 Jun 2026 15:59:12 GMT\n════════════════════════\n⌗\nTags:\n#machine_learning\n#digital_marketing\n#course\n#ai\n#ethical_hacking",
-        "date": "2026-06-26T18:04:31+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123745_0_6fe2e472.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123745_1_526f7c1d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123745",
-        "link": {
-          "title": "AI Engineer Salary in India 2026: How Much Can You Earn?",
-          "url": "https://medium.com/@avanteiapvtltd/ai-engineer-salary-in-india-2026-how-much-can-you-earn-58ae5546f835?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 123744,
-        "text": "⤷\nTitle:\nWhat Is a Firewall? A Complete Beginner’s Guide to How Firewalls Work (2026)\n════════════════════════\n𐀪\nAuthor:\nSooraj Pandey\n════════════════════════\nⴵ\nTime:\nFri, 26 Jun 2026 17:25:12 GMT\n════════════════════════\n⌗\nTags:\n#networking\n#ethical_hacking\n#firewall\n#cybersecurity",
-        "date": "2026-06-26T18:04:28+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123744_0_6fe2e472.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123744_1_00ed7fb3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123744",
-        "link": {
-          "title": "What Is a Firewall? A Complete Beginner’s Guide to How Firewalls Work (2026)",
-          "url": "https://medium.com/@soorajpandey929/what-is-a-firewall-a-complete-beginners-guide-to-how-firewalls-work-2026-8a002f74ae23?source=rss------ethical_hacking-5"
-        }
       }
     ]
   },
-  "last_update": "2026-06-27T16:03:01.022686+00:00",
+  "last_update": "2026-06-27T17:37:11.849749+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 194,
-    "total_files": 194,
+    "total_media": 196,
+    "total_files": 196,
     "total_links": 0,
     "files_by_type": {
-      "image": 194
+      "image": 196
     },
-    "referenced_files": 194,
-    "existing_media_files": 194,
-    "total_size_mb": 6.43,
-    "last_calculation": "2026-06-27T16:03:01.024991+00:00"
+    "referenced_files": 196,
+    "existing_media_files": 196,
+    "total_size_mb": 6.59,
+    "last_calculation": "2026-06-27T17:37:11.852063+00:00"
   }
 }
