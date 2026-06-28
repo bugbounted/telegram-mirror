@@ -2,6 +2,144 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 123956,
+        "text": "⤷\nTitle:\nSQL injection UNION attack, finding a column containing text\n════════════════════════\n𐀪\nAuthor:\nChetan Patil\n════════════════════════\nⴵ\nTime:\nSun, 28 Jun 2026 14:02:02 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#sql_injection",
+        "date": "2026-06-28T16:04:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123956_0_26cffc96.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123956_1_fb338ec0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123956",
+        "link": {
+          "title": "SQL injection UNION attack, finding a column containing text",
+          "url": "https://medium.com/@devchetanpatil/sql-injection-union-attack-finding-a-column-containing-text-6b1e13f545bd?source=rss------sql_injection-5"
+        }
+      },
+      {
+        "id": 123955,
+        "text": "⤷\nTitle:\n8 GitHub Repositories That Make Google Dorking Ridiculously Powerful\n════════════════════════\n𐀪\nAuthor:\nDevansh Patel\n════════════════════════\nⴵ\nTime:\nSun, 28 Jun 2026 14:07:34 GMT\n════════════════════════\n⌗\nTags:\n#google\n#github\n#ethical_hacking\n#cybersecurity\n#cyber_security_awareness",
+        "date": "2026-06-28T16:04:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123955_0_26cffc96.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123955_1_b035bf8e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123955",
+        "link": {
+          "title": "8 GitHub Repositories That Make Google Dorking Ridiculously Powerful",
+          "url": "https://v3n0m.medium.com/8-github-repositories-that-make-google-dorking-ridiculously-powerful-26723ca84745?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 123954,
+        "text": "⤷\nTitle:\nWhy alert(1) Isn't Enough to Prove XSS Anymore\n════════════════════════\n𐀪\nAuthor:\nEkansh Choudhary\n════════════════════════\nⴵ\nTime:\nSun, 28 Jun 2026 15:54:47 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#javascript\n#ethical_hacking\n#xss_attack\n#web_security",
+        "date": "2026-06-28T16:04:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123954_0_26cffc96.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123954_1_c6a6aafb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123954",
+        "link": {
+          "title": "Why alert(1) Isn't Enough to Prove XSS Anymore",
+          "url": "https://medium.com/@ekanshchoudhary.96/why-alert-1-isnt-enough-to-prove-xss-anymore-679f6f49a1fa?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 123953,
+        "text": "⤷\nTitle:\nZero: Seeing What’s Hidden\n════════════════════════\n𐀪\nAuthor:\nTalha Bağcı\n════════════════════════\nⴵ\nTime:\nSun, 28 Jun 2026 15:24:50 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#hacking\n#infosec\n#books\n#technology",
+        "date": "2026-06-28T16:04:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123953_0_26cffc96.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123953_1_79f13308.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123953",
+        "link": {
+          "title": "Zero: Seeing What’s Hidden",
+          "url": "https://medium.com/@talhabagci2008/zero-seeing-whats-hidden-7820da9b4ef8?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 123952,
+        "text": "⤷\nTitle:\nLinux Fundamentals: A Beginner’s Handbook (TryHackMe Path)\n════════════════════════\n𐀪\nAuthor:\nnidjathuseynli\n════════════════════════\nⴵ\nTime:\nSun, 28 Jun 2026 15:40:23 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#hacking\n#beginner\n#linux\n#tryhackme",
+        "date": "2026-06-28T16:04:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123952_0_26cffc96.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123952_1_d6b09974.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123952",
+        "link": {
+          "title": "Linux Fundamentals: A Beginner’s Handbook (TryHackMe Path)",
+          "url": "https://medium.com/@nijatkhh/linux-fundamentals-a-beginners-handbook-tryhackme-path-4a4e4101c75f?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 123951,
+        "text": "⤷\nTitle:\nSQL Injection via Category Parameter\n════════════════════════\n𐀪\nAuthor:\nEthical Hacker\n════════════════════════\nⴵ\nTime:\nSun, 28 Jun 2026 14:09:48 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#sqlite\n#web_security\n#penetration_testing\n#sql_injection",
+        "date": "2026-06-28T16:04:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123951_0_26cffc96.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123951_1_9658e23a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123951",
+        "link": {
+          "title": "SQL Injection via Category Parameter",
+          "url": "https://medium.com/@tonmoybarmon/sql-injection-via-category-parameter-e469cfa8f417?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 123950,
         "text": "⤷\nTitle:\n️ Network Scanning Masterclass: A Complete Guide to Recon, Port Scanning & Vulnerability…\n════════════════════════\n𐀪\nAuthor:\nNitish Mukhiya\n════════════════════════\nⴵ\nTime:\nSun, 28 Jun 2026 14:30:35 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#network_scanning\n#network_scanning_master\n#bug_bounty\n#ethical_hacking",
         "date": "2026-06-28T16:03:57+00:00",
@@ -2126,148 +2264,10 @@
           "title": "MITRE ATT&CK Execution Tactic: Understanding How Adversaries Run Malicious Code",
           "url": "https://medium.com/@shalu023/mitre-att-ck-execution-tactic-understanding-how-adversaries-run-malicious-code-89253fdd396c?source=rss------ethical_hacking-5"
         }
-      },
-      {
-        "id": 123856,
-        "text": "⤷\nTitle:\n# OWASP WrongSecrets — Here’s What Every Developer Should Know About Secret Management Before…\n════════════════════════\n𐀪\nAuthor:\nThe Project Adversary\n════════════════════════\nⴵ\nTime:\nSat, 27 Jun 2026 15:08:21 GMT\n════════════════════════\n⌗\nTags:\n#security\n#owasp\n#penetration_testing\n#secrets\n#information_security",
-        "date": "2026-06-27T16:04:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123856_0_25388c00.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123856_1_4fd5c2e0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123856",
-        "link": {
-          "title": "# OWASP WrongSecrets — Here’s What Every Developer Should Know About Secret Management Before…",
-          "url": "https://medium.com/@theprojectadversary/owasp-wrongsecrets-heres-what-every-developer-should-know-about-secret-management-before-41e300ab7dff?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 123855,
-        "text": "⤷\nTitle:\nJump Challenger: My Beginner-Friendly TryHackMe CTF Walkthrough\n════════════════════════\n𐀪\nAuthor:\nC09N1T1V3\n════════════════════════\nⴵ\nTime:\nSat, 27 Jun 2026 15:10:34 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#cyber_security_awareness\n#ctf\n#penetration_testing\n#cybersecurity",
-        "date": "2026-06-27T16:04:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123855_0_25388c00.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123855_1_bc66a18b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123855",
-        "link": {
-          "title": "Jump Challenger: My Beginner-Friendly TryHackMe CTF Walkthrough",
-          "url": "https://medium.com/@C09N1T1V3/jump-challenger-my-beginner-friendly-tryhackme-ctf-walkthrough-e61e5eb8629e?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 123854,
-        "text": "⤷\nTitle:\nInside the Command, Control, and Exploitation of North Korea’s Disguised IT Workforce\n════════════════════════\n𐀪\nAuthor:\nDavid SEHYEON Baek\n════════════════════════\nⴵ\nTime:\nSat, 27 Jun 2026 15:17:31 GMT\n════════════════════════\n⌗\nTags:\n#espionage\n#cybercrime\n#hacking\n#cybersecurity\n#north_korea",
-        "date": "2026-06-27T16:04:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123854_0_25388c00.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123854_1_efeee86a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123854",
-        "link": {
-          "title": "Inside the Command, Control, and Exploitation of North Korea’s Disguised IT Workforce",
-          "url": "https://medium.com/@davidsehyeonbaek/inside-the-command-control-and-exploitation-of-north-koreas-disguised-it-workforce-9ca6eadb555e?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 123853,
-        "text": "⤷\nTitle:\nLab 5: Blind OS Command Injection with Out-of-Band Data Exfiltration — PortSwigger Web Security…\n════════════════════════\n𐀪\nAuthor:\nNitish Mukhiya\n════════════════════════\nⴵ\nTime:\nSat, 27 Jun 2026 14:03:39 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#os_command_injection\n#portswigger_lab\n#bug_bounty\n#cybersecurity",
-        "date": "2026-06-27T16:03:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123853_0_25388c00.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123853_1_3d1fdf50.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123853",
-        "link": {
-          "title": "Lab 5: Blind OS Command Injection with Out-of-Band Data Exfiltration — PortSwigger Web Security…",
-          "url": "https://medium.com/@nitishmukhiya/lab-5-blind-os-command-injection-with-out-of-band-data-exfiltration-portswigger-web-security-06dd2266943c?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 123852,
-        "text": "⤷\nTitle:\nChaining a DOM XSS Sink, WAF Bypass, Cross-Origin Smuggling, and SDK Abuse into One Click Account…\n════════════════════════\n𐀪\nAuthor:\nAlvin Ferdiansyah\n════════════════════════\nⴵ\nTime:\nSat, 27 Jun 2026 14:35:54 GMT\n════════════════════════\n⌗\nTags:\n#akamai\n#xss_attack\n#bug_bounty\n#xs\n#bugbounty_writeup",
-        "date": "2026-06-27T16:03:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123852_0_25388c00.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123852_1_1585c915.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123852",
-        "link": {
-          "title": "Chaining a DOM XSS Sink, WAF Bypass, Cross-Origin Smuggling, and SDK Abuse into One Click Account…",
-          "url": "https://alvinferd.medium.com/chaining-a-dom-xss-sink-waf-bypass-cross-origin-smuggling-and-sdk-abuse-into-one-click-account-6c1a7095f8e1?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 123851,
-        "text": "⤷\nTitle:\nI Popped Admin on a SaaS Platform in 2 HTTP Requests — Here’s the Whole Kill Chain\n════════════════════════\n𐀪\nAuthor:\nNayan Acharya\n════════════════════════\nⴵ\nTime:\nSat, 27 Jun 2026 15:34:40 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#cybersecurity\n#bug_bounty\n#infosec\n#programming",
-        "date": "2026-06-27T16:03:51+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123851_0_25388c00.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123851_1_5f0b8f10.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123851",
-        "link": {
-          "title": "I Popped Admin on a SaaS Platform in 2 HTTP Requests — Here’s the Whole Kill Chain",
-          "url": "https://medium.com/@nayanacharya050/i-popped-admin-on-a-saas-platform-in-2-http-requests-heres-the-whole-kill-chain-942c3f83b85e?source=rss------bug_bounty-5"
-        }
       }
     ]
   },
-  "last_update": "2026-06-28T16:04:01.482333+00:00",
+  "last_update": "2026-06-28T17:42:32.293433+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2279,7 +2279,7 @@
     },
     "referenced_files": 191,
     "existing_media_files": 191,
-    "total_size_mb": 5.44,
-    "last_calculation": "2026-06-28T16:04:01.484569+00:00"
+    "total_size_mb": 5.27,
+    "last_calculation": "2026-06-28T17:42:32.295699+00:00"
   }
 }
