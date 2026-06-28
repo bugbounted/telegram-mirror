@@ -2,6 +2,52 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 123950,
+        "text": "⤷\nTitle:\n️ Network Scanning Masterclass: A Complete Guide to Recon, Port Scanning & Vulnerability…\n════════════════════════\n𐀪\nAuthor:\nNitish Mukhiya\n════════════════════════\nⴵ\nTime:\nSun, 28 Jun 2026 14:30:35 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#network_scanning\n#network_scanning_master\n#bug_bounty\n#ethical_hacking",
+        "date": "2026-06-28T16:03:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123950_0_25388c00.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123950_1_b7d3f6b0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123950",
+        "link": {
+          "title": "️ Network Scanning Masterclass: A Complete Guide to Recon, Port Scanning & Vulnerability…",
+          "url": "https://systemweakness.com/%EF%B8%8F-network-scanning-masterclass-a-complete-guide-to-recon-port-scanning-vulnerability-4de837c73d23?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 123949,
+        "text": "⤷\nTitle:\nBreaking the Same XSS Twice: Stored XSS in a Welcome Banner — Before and After the Fix\n════════════════════════\n𐀪\nAuthor:\nHossam Hussein\n════════════════════════\nⴵ\nTime:\nSun, 28 Jun 2026 15:32:08 GMT\n════════════════════════\n⌗\nTags:\n#pentesting\n#bug_bounty_writeup\n#penetration_testing\n#bug_bounty\n#bug_bounty_tips",
+        "date": "2026-06-28T16:03:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123949_0_25388c00.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123949_1_574b4dfa.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123949",
+        "link": {
+          "title": "Breaking the Same XSS Twice: Stored XSS in a Welcome Banner — Before and After the Fix",
+          "url": "https://medium.com/@hossam13/breaking-the-same-xss-twice-stored-xss-in-a-welcome-banner-before-and-after-the-fix-d9957707f4c7?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 123948,
         "text": "⤷\nTitle:\nTryHackMe — Leaked Credentials Walkthrough\n════════════════════════\n𐀪\nAuthor:\nJenifer\n════════════════════════\nⴵ\nTime:\nSun, 28 Jun 2026 12:15:22 GMT\n════════════════════════\n⌗\nTags:\n#writeup\n#tryhackme\n#leaked_credentials",
         "date": "2026-06-28T14:04:38+00:00",
@@ -2218,56 +2264,10 @@
           "title": "I Popped Admin on a SaaS Platform in 2 HTTP Requests — Here’s the Whole Kill Chain",
           "url": "https://medium.com/@nayanacharya050/i-popped-admin-on-a-saas-platform-in-2-http-requests-heres-the-whole-kill-chain-942c3f83b85e?source=rss------bug_bounty-5"
         }
-      },
-      {
-        "id": 123850,
-        "text": "⤷\nTitle:\nAWS Cognito Refresh Tokens: The Hidden Security Risk Behind Long-Lived User Sessions\n════════════════════════\n𐀪\nAuthor:\nDikhyant Krishna Dalai\n════════════════════════\nⴵ\nTime:\nSat, 27 Jun 2026 12:05:52 GMT\n════════════════════════\n⌗\nTags:\n#aws\n#refresh_token\n#ethical_hacking\n#cybersecurity\n#authentication",
-        "date": "2026-06-27T14:04:33+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123850_0_6fe2e472.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123850_1_5a8bdac1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123850",
-        "link": {
-          "title": "AWS Cognito Refresh Tokens: The Hidden Security Risk Behind Long-Lived User Sessions",
-          "url": "https://medium.com/@dikhyantkrishnadalai/aws-cognito-refresh-tokens-the-hidden-security-risk-behind-long-lived-user-sessions-2d0583e9753f?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 123849,
-        "text": "⤷\nTitle:\nSplunk: Exploring SPL | Tryhackme Walkthrough Write-Up\n════════════════════════\n𐀪\nAuthor:\nYoussef Abdelfattah\n════════════════════════\nⴵ\nTime:\nSat, 27 Jun 2026 07:11:31 GMT\n════════════════════════\n⌗\nTags:\n#thm_writeup\n#searching_with_splunk\n#cybersecurity\n#tryhackme\n#soc",
-        "date": "2026-06-27T14:04:30+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123849_0_6fe2e472.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123849_1_7ec1f19f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123849",
-        "link": {
-          "title": "Splunk: Exploring SPL | Tryhackme Walkthrough Write-Up",
-          "url": "https://medium.com/@yf93541/splunk-exploring-spl-6aaac3701dee?source=rss------tryhackme-5"
-        }
       }
     ]
   },
-  "last_update": "2026-06-28T14:32:01.474878+00:00",
+  "last_update": "2026-06-28T16:04:01.482333+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2279,7 +2279,7 @@
     },
     "referenced_files": 191,
     "existing_media_files": 191,
-    "total_size_mb": 5.39,
-    "last_calculation": "2026-06-28T14:32:01.476394+00:00"
+    "total_size_mb": 5.44,
+    "last_calculation": "2026-06-28T16:04:01.484569+00:00"
   }
 }
