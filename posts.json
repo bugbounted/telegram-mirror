@@ -2,6 +2,48 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 123914,
+        "text": "⤷\nTitle:\nCybersecurity Practice Lab 2\n════════════════════════\n𐀪\nAuthor:\nAkhil Thakur\n════════════════════════\nⴵ\nTime:\nSun, 28 Jun 2026 06:42:12 GMT\n════════════════════════\n⌗\nTags:\n#labs\n#path_transversal\n#cybersecurity\n#ethical_hacking\n#basics",
+        "date": "2026-06-28T08:04:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123914_0_25388c00.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123914_1_bbf86a16.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123914",
+        "link": {
+          "title": "Cybersecurity Practice Lab 2",
+          "url": "https://blog.stackademic.com/cybersecurity-practice-labs-29f4276674ac?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 123913,
+        "text": "⤷\nTitle:\nPhishing Emails in Action — TryHackMe Write-Up\n════════════════════════\n𐀪\nAuthor:\nDarshan\n════════════════════════\nⴵ\nTime:\nSun, 28 Jun 2026 06:35:00 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#soc\n#cybersecurity",
+        "date": "2026-06-28T08:04:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_123913_0_25388c00.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/123913",
+        "link": {
+          "title": "Phishing Emails in Action — TryHackMe Write-Up",
+          "url": "https://medium.com/@darshan331740_89257/phishing-emails-in-action-tryhackme-write-up-df975370065a?source=rss------tryhackme-5"
+        }
+      },
+      {
         "id": 123912,
         "text": "⤷\nTitle:\nBypassing Authentication: A Walkthrough of SQL Injection Login Bypass\n════════════════════════\n𐀪\nAuthor:\nAlbert Simanjuntak\n════════════════════════\nⴵ\nTime:\nSun, 28 Jun 2026 05:00:57 GMT\n════════════════════════\n⌗\nTags:\n#sql_injection",
         "date": "2026-06-28T06:04:20+00:00",
@@ -2226,68 +2268,22 @@
           "title": "QR Code Phishing: 9 Common Quishing Attacks and How to Avoid Them",
           "url": "https://medium.com/@robinhackersghostcom/qr-code-phishing-9-common-quishing-attacks-and-how-to-avoid-them-9637d4611ac4?source=rss------ethical_hacking-5"
         }
-      },
-      {
-        "id": 123814,
-        "text": "⤷\nTitle:\nCybersecurity Learning Roadmap\n════════════════════════\n𐀪\nAuthor:\nCybervulnx\n════════════════════════\nⴵ\nTime:\nSat, 27 Jun 2026 06:52:24 GMT\n════════════════════════\n⌗\nTags:\n#programming\n#cybersecurity\n#operating_systems\n#ethical_hacking\n#linux",
-        "date": "2026-06-27T08:04:36+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123814_0_6fe2e472.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123814_1_9db50a1c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123814",
-        "link": {
-          "title": "Cybersecurity Learning Roadmap",
-          "url": "https://medium.com/@cybervulnx/cybersecurity-learning-roadmap-f9a20eb267b8?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 123813,
-        "text": "⤷\nTitle:\nCybersecurity Practice Labs\n════════════════════════\n𐀪\nAuthor:\nAkhil Thakur\n════════════════════════\nⴵ\nTime:\nSat, 27 Jun 2026 07:10:23 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ethical_hacking\n#practice\n#sql_injection\n#labs",
-        "date": "2026-06-27T08:04:32+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123813_0_6fe2e472.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123813_1_bdc09f66.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123813",
-        "link": {
-          "title": "Cybersecurity Practice Labs",
-          "url": "https://blog.stackademic.com/cybersecurity-practice-labs-ece121fd5c67?source=rss------ethical_hacking-5"
-        }
       }
     ]
   },
-  "last_update": "2026-06-28T06:43:08.703868+00:00",
+  "last_update": "2026-06-28T09:51:51.146154+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 193,
-    "total_files": 193,
+    "total_media": 192,
+    "total_files": 192,
     "total_links": 0,
     "files_by_type": {
-      "image": 193
+      "image": 192
     },
-    "referenced_files": 193,
-    "existing_media_files": 193,
-    "total_size_mb": 5.73,
-    "last_calculation": "2026-06-28T06:43:08.705635+00:00"
+    "referenced_files": 192,
+    "existing_media_files": 192,
+    "total_size_mb": 5.62,
+    "last_calculation": "2026-06-28T09:51:51.148399+00:00"
   }
 }
