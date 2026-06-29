@@ -2,6 +2,462 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 124111,
+        "text": "⤷\nTitle:\nThe Clue Was There From the Beginning\n════════════════════════\n𐀪\nAuthor:\nFateyaly\n════════════════════════\nⴵ\nTime:\nMon, 29 Jun 2026 14:45:32 GMT\n════════════════════════\n⌗\nTags:\n#coding\n#cybersecurity\n#programming\n#ethical_hacking\n#technology",
+        "date": "2026-06-29T16:04:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124111_0_26cffc96.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124111_1_d3f41f4c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124111",
+        "link": {
+          "title": "The Clue Was There From the Beginning",
+          "url": "https://systemweakness.com/the-clue-was-there-from-the-beginning-c59fdadc8224?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 124110,
+        "text": "⤷\nTitle:\nIntroduction to SIEM\n════════════════════════\n𐀪\nAuthor:\nYasin Ndaba\n════════════════════════\nⴵ\nTime:\nMon, 29 Jun 2026 14:47:12 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#blue_team\n#log_analysis\n#siem\n#tryhackme",
+        "date": "2026-06-29T16:04:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124110_0_26cffc96.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124110_1_4d435f75.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124110",
+        "link": {
+          "title": "Introduction to SIEM",
+          "url": "https://medium.com/@yasinndaba/introduction-to-siem-7b7d953b0742?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 124109,
+        "text": "⤷\nTitle:\nWhy Annual Pen Testing Is Not Enough Anymore\n════════════════════════\n𐀪\nAuthor:\nCyberSecuritySolutions in UAE\n════════════════════════\nⴵ\nTime:\nMon, 29 Jun 2026 14:07:59 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing",
+        "date": "2026-06-29T16:04:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124109_0_26cffc96.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124109_1_fb685334.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124109",
+        "link": {
+          "title": "Why Annual Pen Testing Is Not Enough Anymore",
+          "url": "https://medium.com/@cybersolutionxedos/why-annual-pen-testing-is-not-enough-anymore-2659b4910017?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 124108,
+        "text": "⤷\nTitle:\nDead-Drop TryHackMe CTF Walkthrough\n════════════════════════\n𐀪\nAuthor:\nC09N1T1V3\n════════════════════════\nⴵ\nTime:\nMon, 29 Jun 2026 15:41:40 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#tryhackme\n#ctf\n#penetration_testing\n#information_security",
+        "date": "2026-06-29T16:04:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124108_0_26cffc96.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124108_1_243343d7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124108",
+        "link": {
+          "title": "Dead-Drop TryHackMe CTF Walkthrough",
+          "url": "https://medium.com/@C09N1T1V3/dead-drop-tryhackme-ctf-walkthrough-f5623212e5af?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 124107,
+        "text": "⤷\nTitle:\nMembangun SOC Home Lab Pertama Deteksi Serangan Brute Force SSH dengan Wazuh SIEM - Bahasa Indonesia\n════════════════════════\n𐀪\nAuthor:\nRafifadillah Cybersec\n════════════════════════\nⴵ\nTime:\nMon, 29 Jun 2026 14:26:56 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#homelab\n#cybersecurity\n#siem\n#blue_team",
+        "date": "2026-06-29T16:04:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124107_0_26cffc96.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124107_1_8d1d22d4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124107",
+        "link": {
+          "title": "Membangun SOC Home Lab Pertama Deteksi Serangan Brute Force SSH dengan Wazuh SIEM - Bahasa Indonesia",
+          "url": "https://medium.com/@rafifadillah.cybersec/membangun-soc-home-lab-pertama-deteksi-serangan-brute-force-ssh-dengan-wazuh-siem-bahasa-indonesia-a24c8682ea3d?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 124106,
+        "text": "⤷\nTitle:\nBest cheats for rust in 2026 — complete buyer’s guide.\n════════════════════════\n𐀪\nAuthor:\nCarlwilliams\n════════════════════════\nⴵ\nTime:\nMon, 29 Jun 2026 15:17:23 GMT\n════════════════════════\n⌗\nTags:\n#rust\n#survival_game\n#gaming\n#hacking\n#cheating",
+        "date": "2026-06-29T16:04:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124106_0_26cffc96.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124106_1_b592833d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124106",
+        "link": {
+          "title": "Best cheats for rust in 2026 — complete buyer’s guide.",
+          "url": "https://medium.com/@carlwilliams7491/best-cheats-for-rust-in-2026-complete-buyers-guide-9b53e8b99974?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 124105,
+        "text": "⤷\nTitle:\nRust ESP Cheats 2026 — everything you need to know.\n════════════════════════\n𐀪\nAuthor:\nCarlwilliams\n════════════════════════\nⴵ\nTime:\nMon, 29 Jun 2026 15:23:08 GMT\n════════════════════════\n⌗\nTags:\n#survival_game\n#hacking\n#cheating\n#gaming\n#rust",
+        "date": "2026-06-29T16:04:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124105_0_26cffc96.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124105_1_e0794133.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124105",
+        "link": {
+          "title": "Rust ESP Cheats 2026 — everything you need to know.",
+          "url": "https://medium.com/@carlwilliams7491/rust-esp-cheats-2026-everything-you-need-to-know-3f8d26178269?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 124104,
+        "text": "⤷\nTitle:\nBypassing Enterprise SSO via a Forgotten Source Map: A Bug Bounty Story\n════════════════════════\n𐀪\nAuthor:\nPriyansh\n════════════════════════\nⴵ\nTime:\nMon, 29 Jun 2026 14:10:33 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#hacking\n#hacker\n#bug_bounty_writeup\n#bugs",
+        "date": "2026-06-29T16:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124104_0_26cffc96.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124104_1_904fcfa0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124104",
+        "link": {
+          "title": "Bypassing Enterprise SSO via a Forgotten Source Map: A Bug Bounty Story",
+          "url": "https://medium.com/@priyanshbhadoria5/bypassing-enterprise-sso-via-a-forgotten-source-map-a-bug-bounty-story-a43ab0973146?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 124103,
+        "text": "⤷\nTitle:\nAmazon Kindle E-Reader: Worth It, and How to Afford More Books?\n════════════════════════\n𐀪\nAuthor:\nOwais Sultan\n════════════════════════\nⴵ\nTime:\nMon, 29 Jun 2026 15:20:46 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#Amazon\n#Amazon\nKindle\n#E_Reader\n#JumpTask\n#Kindle",
+        "date": "2026-06-29T16:03:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124103_0_26cffc96.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124103_1_78c0bb02.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124103",
+        "link": {
+          "title": "Amazon Kindle E-Reader: Worth It, and How to Afford More Books?",
+          "url": "https://hackread.com/amazon-kindle-e-reader-worth-afford-books/"
+        }
+      },
+      {
+        "id": 124102,
+        "text": "⤷\nTitle:\n⚡\nWeekly Recap: Linux Kernel Flaws, AI Malware Tricks, Turla Backdoor, Infostealers and More\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nMon, 29 Jun 2026 20:11:07 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-06-29T16:03:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124102_0_26cffc96.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124102",
+        "link": {
+          "title": "⚡Weekly Recap: Linux Kernel Flaws, AI Malware Tricks, Turla Backdoor, Infostealers and More",
+          "url": "https://thehackernews.com/2026/06/weekly-recap-linux-kernel-flaws-ai.html"
+        }
+      },
+      {
+        "id": 124101,
+        "text": "⤷\nTitle:\nCache Poisoning at the Edge: How Cloudflare Workers & Vercel Edge Functions Break Everything You…\n════════════════════════\n𐀪\nAuthor:\nDisaster\n════════════════════════\nⴵ\nTime:\nMon, 29 Jun 2026 13:01:20 GMT\n════════════════════════\n⌗\nTags:\n#appsec\n#bugbounty_writeup\n#cybersecurity\n#cloud_services\n#bugbounty_tips",
+        "date": "2026-06-29T14:04:46+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124101_0_26cffc96.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124101_1_449bb736.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124101",
+        "link": {
+          "title": "Cache Poisoning at the Edge: How Cloudflare Workers & Vercel Edge Functions Break Everything You…",
+          "url": "https://medium.com/@arashaddodhiya4948/cache-poisoning-at-the-edge-how-cloudflare-workers-vercel-edge-functions-break-everything-you-4827629a9bf7?source=rss------bugbounty_writeup-5"
+        }
+      },
+      {
+        "id": 124100,
+        "text": "⤷\nTitle:\nCybersecurity Practice Lab 1\n════════════════════════\n𐀪\nAuthor:\nAkhil Thakur\n════════════════════════\nⴵ\nTime:\nSat, 27 Jun 2026 07:10:23 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ethical_hacking\n#practice\n#sql_injection\n#labs",
+        "date": "2026-06-29T14:04:42+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124100_0_26cffc96.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124100_1_870f555f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124100",
+        "link": {
+          "title": "Cybersecurity Practice Lab 1",
+          "url": "https://blog.stackademic.com/cybersecurity-practice-labs-ece121fd5c67?source=rss------sql_injection-5"
+        }
+      },
+      {
+        "id": 124099,
+        "text": "⤷\nTitle:\nCTF collection Voll.1\n════════════════════════\n𐀪\nAuthor:\nPoonam Maharjan\n════════════════════════\nⴵ\nTime:\nMon, 29 Jun 2026 12:04:44 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#ctf_writeup\n#tryhackme_walkthrough\n#tasks\n#challenge",
+        "date": "2026-06-29T14:04:39+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124099_0_26cffc96.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124099_1_85112587.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124099",
+        "link": {
+          "title": "CTF collection Voll.1",
+          "url": "https://medium.com/@tryhacking82/ctf-collection-voll-1-8d16fd2f4ede?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 124098,
+        "text": "⤷\nTitle:\nWannaCry Ransomware Attack Simulation in a Virtual Lab (Educational Purpose Only)\n════════════════════════\n𐀪\nAuthor:\nShoheb Chauhan\n════════════════════════\nⴵ\nTime:\nMon, 29 Jun 2026 12:04:33 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#ransomware\n#cybersecurity\n#penetration_testing\n#malware_analysis",
+        "date": "2026-06-29T14:04:35+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124098_0_26cffc96.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124098_1_b89ccc21.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124098",
+        "link": {
+          "title": "WannaCry Ransomware Attack Simulation in a Virtual Lab (Educational Purpose Only)",
+          "url": "https://shohebcybersec.medium.com/wannacry-ransomware-attack-simulation-in-a-virtual-lab-educational-purpose-only-e799dd0c7583?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 124097,
+        "text": "⤷\nTitle:\nVulnerability scanning in the AI age\n════════════════════════\n𐀪\nAuthor:\nJosef Kerner\n════════════════════════\nⴵ\nTime:\nMon, 29 Jun 2026 13:45:47 GMT\n════════════════════════\n⌗\nTags:\n#vulnerability\n#risk_management\n#security\n#penetration_testing",
+        "date": "2026-06-29T14:04:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124097_0_26cffc96.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124097_1_ea619663.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124097",
+        "link": {
+          "title": "Vulnerability scanning in the AI age",
+          "url": "https://medium.com/@kerner.jo/vulnerability-scanning-in-the-ai-age-dd8c4521baa7?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 124096,
+        "text": "⤷\nTitle:\nInside Log4Shell (CVE-2021–44228): How a Single Log Message Led to Remote Code Execution\n════════════════════════\n𐀪\nAuthor:\nChandan\n════════════════════════\nⴵ\nTime:\nMon, 29 Jun 2026 12:00:10 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#vulnerability\n#ethical_hacking\n#vulnerability_management\n#exploitation",
+        "date": "2026-06-29T14:04:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124096_0_26cffc96.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124096_1_c32a9e69.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124096",
+        "link": {
+          "title": "Inside Log4Shell (CVE-2021–44228): How a Single Log Message Led to Remote Code Execution",
+          "url": "https://medium.com/@chandan20516/inside-log4shell-cve-2021-44228-how-a-single-log-message-led-to-remote-code-execution-da4ec258d168?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 124095,
+        "text": "⤷\nTitle:\nLooking for Beta Testers for SoftInterceptor: Help Me Find Bugs and Improve the Product\n════════════════════════\n𐀪\nAuthor:\nJean-Michel Frouin\n════════════════════════\nⴵ\nTime:\nMon, 29 Jun 2026 12:49:59 GMT\n════════════════════════\n⌗\nTags:\n#pentesting\n#hacking\n#cybersecurity",
+        "date": "2026-06-29T14:04:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124095_0_26cffc96.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124095_1_21dd5f3e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124095",
+        "link": {
+          "title": "Looking for Beta Testers for SoftInterceptor: Help Me Find Bugs and Improve the Product",
+          "url": "https://medium.com/@jmfrouin/looking-for-beta-testers-for-softinterceptor-help-me-find-bugs-and-improve-the-product-18bf0299a31c?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 124094,
+        "text": "⤷\nTitle:\nLab: Infinite money logic flaw ( Business Logic vulnarability) #lab 10\n════════════════════════\n𐀪\nAuthor:\nPRiTi.EX\n════════════════════════\nⴵ\nTime:\nMon, 29 Jun 2026 13:13:56 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#portswigger\n#cybersecurity\n#business_logic_flaw",
+        "date": "2026-06-29T14:04:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124094_0_26cffc96.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124094_1_5bf0718b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124094",
+        "link": {
+          "title": "Lab: Infinite money logic flaw ( Business Logic vulnarability) #lab 10",
+          "url": "https://medium.com/@pritiranjanmohanta6371/lab-infinite-money-logic-flaw-business-logic-vulnarability-lab-10-fdc21ed4bdd3?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 124093,
+        "text": "⤷\nTitle:\nTryHackMe Basic Pentesting Room Solving\n════════════════════════\n𐀪\nAuthor:\nThe King\n════════════════════════\nⴵ\nTime:\nMon, 29 Jun 2026 13:44:42 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#tryhackme_writeup\n#tryhackme_walkthrough\n#red_teaming\n#hacking",
+        "date": "2026-06-29T14:04:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124093_0_26cffc96.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124093_1_bc14a4b1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124093",
+        "link": {
+          "title": "TryHackMe Basic Pentesting Room Solving",
+          "url": "https://medium.com/@king036903690/tryhackme-basic-pentesting-room-solving-99f1e3546fd2?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 124092,
+        "text": "⤷\nTitle:\nInstagram Security Vulnerability: Everything You Need to Know\n════════════════════════\n𐀪\nAuthor:\nPentester Club\n════════════════════════\nⴵ\nTime:\nMon, 29 Jun 2026 12:28:42 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#metaverse\n#bug_bounty\n#cybersecurity\n#artificial_intelligence",
+        "date": "2026-06-29T14:04:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124092_0_26cffc96.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124092_1_ec29ba39.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124092",
+        "link": {
+          "title": "Instagram Security Vulnerability: Everything You Need to Know",
+          "url": "https://medium.com/@pentesterclubpvtltd/instagram-security-vulnerability-everything-you-need-to-know-bef463011d29?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 124085,
         "text": "⤷\nTitle:\nDynamic Client Registration in Keycloak: Automating OAuth Client Onboarding at Scale\n════════════════════════\n𐀪\nAuthor:\nAditya Ramaswamy\n════════════════════════\nⴵ\nTime:\nMon, 29 Jun 2026 10:31:51 GMT\n════════════════════════\n⌗\nTags:\n#identity_management\n#oauth2\n#enterprise_architecture\n#api_security\n#keycloak",
         "date": "2026-06-29T12:05:16+00:00",
@@ -1796,482 +2252,22 @@
           "title": "I Decided to Hack My Friend’s Camera in an Easy Way",
           "url": "https://medium.com/@aymanelrhilani/i-decided-to-hack-my-friends-camera-in-an-easy-way-d119c9194d47?source=rss------hacking-5"
         }
-      },
-      {
-        "id": 123960,
-        "text": "⤷\nTitle:\nI Found 4,399 Exposed Scholarship Records on a Delhi Government Portal at 19 — Here’s How I…\n════════════════════════\n𐀪\nAuthor:\nSushant Bhardwaj\n════════════════════════\nⴵ\nTime:\nSun, 28 Jun 2026 17:56:19 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#programming\n#technology\n#india\n#cybersecurity",
-        "date": "2026-06-28T18:04:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123960_0_26cffc96.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123960_1_5e15a74f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123960",
-        "link": {
-          "title": "I Found 4,399 Exposed Scholarship Records on a Delhi Government Portal at 19 — Here’s How I…",
-          "url": "https://medium.com/@sushant.bhardwaj.9th.c/i-found-4-399-exposed-scholarship-records-on-a-delhi-government-portal-at-19-heres-how-i-44efebfa5bf3?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 123959,
-        "text": "⤷\nTitle:\nRCE via Gemini Live AI Voice Session Misconfiguration.\n════════════════════════\n𐀪\nAuthor:\nAlvin Ferdiansyah\n════════════════════════\nⴵ\nTime:\nSun, 28 Jun 2026 17:44:39 GMT\n════════════════════════\n⌗\nTags:\n#google_gemini\n#rce\n#bug_bounty\n#security_misconfiguration\n#bugbounty_writeup",
-        "date": "2026-06-28T18:04:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123959_0_26cffc96.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123959_1_e9f73e1f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123959",
-        "link": {
-          "title": "RCE via Gemini Live AI Voice Session Misconfiguration.",
-          "url": "https://alvinferd.medium.com/rce-via-gemini-live-ai-voice-session-misconfiguration-e0648805a055?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 123958,
-        "text": "⤷\nTitle:\nHow I Found an Unauthenticated IDOR in a Government College Website — A Responsible Disclosure Case…\n════════════════════════\n𐀪\nAuthor:\nSahal\n════════════════════════\nⴵ\nTime:\nSun, 28 Jun 2026 17:51:20 GMT\n════════════════════════\n⌗\nTags:\n#idor\n#bug_hunting\n#cybersecurity\n#beginner\n#bug_bounty",
-        "date": "2026-06-28T18:04:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123958_0_26cffc96.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123958_1_bdddc84f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123958",
-        "link": {
-          "title": "How I Found an Unauthenticated IDOR in a Government College Website — A Responsible Disclosure Case…",
-          "url": "https://medium.com/@Sahal07/how-i-found-an-unauthenticated-idor-in-a-government-college-website-a-responsible-disclosure-case-46f6bf5d3bd3?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 123957,
-        "text": "⤷\nTitle:\nAnonymous-Linked Hacktivist Aubrey Cottle Jailed Over Texas GOP Cyberattack\n════════════════════════\n𐀪\nAuthor:\nDeeba Ahmed\n════════════════════════\nⴵ\nTime:\nSun, 28 Jun 2026 16:47:13 +0000\n════════════════════════\n⌗\nTags:\n#Cyber\nCrime\n#Anonymous\n#Security\n#Aubrey\nCottle\n#Canada\n#Cyber\nAttack\n#Cybersecurity\n#data\nbreach\n#Operation\nEpic Fail\n#Repubicans\n#Texas",
-        "date": "2026-06-28T18:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123957_0_26cffc96.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123957_1_5b0d3b62.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123957",
-        "link": {
-          "title": "Anonymous-Linked Hacktivist Aubrey Cottle Jailed Over Texas GOP Cyberattack",
-          "url": "https://hackread.com/anonymous-hacktivist-aubrey-cottle-gop-cyberattack/"
-        }
-      },
-      {
-        "id": 123956,
-        "text": "⤷\nTitle:\nSQL injection UNION attack, finding a column containing text\n════════════════════════\n𐀪\nAuthor:\nChetan Patil\n════════════════════════\nⴵ\nTime:\nSun, 28 Jun 2026 14:02:02 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#sql_injection",
-        "date": "2026-06-28T16:04:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123956_0_26cffc96.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123956_1_fb338ec0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123956",
-        "link": {
-          "title": "SQL injection UNION attack, finding a column containing text",
-          "url": "https://medium.com/@devchetanpatil/sql-injection-union-attack-finding-a-column-containing-text-6b1e13f545bd?source=rss------sql_injection-5"
-        }
-      },
-      {
-        "id": 123955,
-        "text": "⤷\nTitle:\n8 GitHub Repositories That Make Google Dorking Ridiculously Powerful\n════════════════════════\n𐀪\nAuthor:\nDevansh Patel\n════════════════════════\nⴵ\nTime:\nSun, 28 Jun 2026 14:07:34 GMT\n════════════════════════\n⌗\nTags:\n#google\n#github\n#ethical_hacking\n#cybersecurity\n#cyber_security_awareness",
-        "date": "2026-06-28T16:04:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123955_0_26cffc96.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123955_1_b035bf8e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123955",
-        "link": {
-          "title": "8 GitHub Repositories That Make Google Dorking Ridiculously Powerful",
-          "url": "https://v3n0m.medium.com/8-github-repositories-that-make-google-dorking-ridiculously-powerful-26723ca84745?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 123954,
-        "text": "⤷\nTitle:\nWhy alert(1) Isn't Enough to Prove XSS Anymore\n════════════════════════\n𐀪\nAuthor:\nEkansh Choudhary\n════════════════════════\nⴵ\nTime:\nSun, 28 Jun 2026 15:54:47 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#javascript\n#ethical_hacking\n#xss_attack\n#web_security",
-        "date": "2026-06-28T16:04:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123954_0_26cffc96.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123954_1_c6a6aafb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123954",
-        "link": {
-          "title": "Why alert(1) Isn't Enough to Prove XSS Anymore",
-          "url": "https://medium.com/@ekanshchoudhary.96/why-alert-1-isnt-enough-to-prove-xss-anymore-679f6f49a1fa?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 123953,
-        "text": "⤷\nTitle:\nZero: Seeing What’s Hidden\n════════════════════════\n𐀪\nAuthor:\nTalha Bağcı\n════════════════════════\nⴵ\nTime:\nSun, 28 Jun 2026 15:24:50 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#hacking\n#infosec\n#books\n#technology",
-        "date": "2026-06-28T16:04:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123953_0_26cffc96.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123953_1_79f13308.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123953",
-        "link": {
-          "title": "Zero: Seeing What’s Hidden",
-          "url": "https://medium.com/@talhabagci2008/zero-seeing-whats-hidden-7820da9b4ef8?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 123952,
-        "text": "⤷\nTitle:\nLinux Fundamentals: A Beginner’s Handbook (TryHackMe Path)\n════════════════════════\n𐀪\nAuthor:\nnidjathuseynli\n════════════════════════\nⴵ\nTime:\nSun, 28 Jun 2026 15:40:23 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#hacking\n#beginner\n#linux\n#tryhackme",
-        "date": "2026-06-28T16:04:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123952_0_26cffc96.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123952_1_d6b09974.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123952",
-        "link": {
-          "title": "Linux Fundamentals: A Beginner’s Handbook (TryHackMe Path)",
-          "url": "https://medium.com/@nijatkhh/linux-fundamentals-a-beginners-handbook-tryhackme-path-4a4e4101c75f?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 123951,
-        "text": "⤷\nTitle:\nSQL Injection via Category Parameter\n════════════════════════\n𐀪\nAuthor:\nEthical Hacker\n════════════════════════\nⴵ\nTime:\nSun, 28 Jun 2026 14:09:48 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#sqlite\n#web_security\n#penetration_testing\n#sql_injection",
-        "date": "2026-06-28T16:04:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123951_0_26cffc96.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123951_1_9658e23a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123951",
-        "link": {
-          "title": "SQL Injection via Category Parameter",
-          "url": "https://medium.com/@tonmoybarmon/sql-injection-via-category-parameter-e469cfa8f417?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 123950,
-        "text": "⤷\nTitle:\n️ Network Scanning Masterclass: A Complete Guide to Recon, Port Scanning & Vulnerability…\n════════════════════════\n𐀪\nAuthor:\nNitish Mukhiya\n════════════════════════\nⴵ\nTime:\nSun, 28 Jun 2026 14:30:35 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#network_scanning\n#network_scanning_master\n#bug_bounty\n#ethical_hacking",
-        "date": "2026-06-28T16:03:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123950_0_25388c00.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123950_1_b7d3f6b0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123950",
-        "link": {
-          "title": "️ Network Scanning Masterclass: A Complete Guide to Recon, Port Scanning & Vulnerability…",
-          "url": "https://systemweakness.com/%EF%B8%8F-network-scanning-masterclass-a-complete-guide-to-recon-port-scanning-vulnerability-4de837c73d23?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 123949,
-        "text": "⤷\nTitle:\nBreaking the Same XSS Twice: Stored XSS in a Welcome Banner — Before and After the Fix\n════════════════════════\n𐀪\nAuthor:\nHossam Hussein\n════════════════════════\nⴵ\nTime:\nSun, 28 Jun 2026 15:32:08 GMT\n════════════════════════\n⌗\nTags:\n#pentesting\n#bug_bounty_writeup\n#penetration_testing\n#bug_bounty\n#bug_bounty_tips",
-        "date": "2026-06-28T16:03:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123949_0_25388c00.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123949_1_574b4dfa.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123949",
-        "link": {
-          "title": "Breaking the Same XSS Twice: Stored XSS in a Welcome Banner — Before and After the Fix",
-          "url": "https://medium.com/@hossam13/breaking-the-same-xss-twice-stored-xss-in-a-welcome-banner-before-and-after-the-fix-d9957707f4c7?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 123948,
-        "text": "⤷\nTitle:\nTryHackMe — Leaked Credentials Walkthrough\n════════════════════════\n𐀪\nAuthor:\nJenifer\n════════════════════════\nⴵ\nTime:\nSun, 28 Jun 2026 12:15:22 GMT\n════════════════════════\n⌗\nTags:\n#writeup\n#tryhackme\n#leaked_credentials",
-        "date": "2026-06-28T14:04:38+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123948_0_25388c00.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123948_1_407029b4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123948",
-        "link": {
-          "title": "TryHackMe — Leaked Credentials Walkthrough",
-          "url": "https://medium.com/@djenifer/tryhackme-leaked-credentials-walkthrough-dbfab34e9017?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 123947,
-        "text": "⤷\nTitle:\nTraining Impact on Teams — TryHackMe Answers | by Deepti Gupta\n════════════════════════\n𐀪\nAuthor:\nDeepti Gupta\n════════════════════════\nⴵ\nTime:\nSun, 28 Jun 2026 12:27:16 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_walkthrough\n#tryhackme\n#tryhackme_writeup\n#team\n#training",
-        "date": "2026-06-28T14:04:35+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123947_0_25388c00.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123947_1_61c654b2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123947",
-        "link": {
-          "title": "Training Impact on Teams — TryHackMe Answers | by Deepti Gupta",
-          "url": "https://medium.com/@deeptisg0/training-impact-on-teams-tryhackme-answers-by-deepti-gupta-7080e5beca05?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 123946,
-        "text": "⤷\nTitle:\nOlympus — TryHackMe WriteUp with Flags\n════════════════════════\n𐀪\nAuthor:\nRayenhafsawy\n════════════════════════\nⴵ\nTime:\nSun, 28 Jun 2026 13:24:37 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#ctf\n#cybersecurity\n#tryhackme_writeup\n#tryhackme_walkthrough",
-        "date": "2026-06-28T14:04:32+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123946_0_25388c00.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123946_1_b3bbec9d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123946",
-        "link": {
-          "title": "Olympus — TryHackMe WriteUp with Flags",
-          "url": "https://medium.com/@rayenhafsawy/olympus-tryhackme-writeup-with-flags-052596f37c7e?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 123945,
-        "text": "⤷\nTitle:\nGuided Pentest: Web(Walkthrough)\n════════════════════════\n𐀪\nAuthor:\nVinayakpawar\n════════════════════════\nⴵ\nTime:\nSun, 28 Jun 2026 13:47:47 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#cybersecurity\n#tryhackme_walkthrough\n#tryhackme_writeup",
-        "date": "2026-06-28T14:04:28+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123945_0_25388c00.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123945_1_4180314f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123945",
-        "link": {
-          "title": "Guided Pentest: Web(Walkthrough)",
-          "url": "https://medium.com/@vinayakpawar2518/guided-pentest-web-walkthrough-3cbb2253ad36?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 123944,
-        "text": "⤷\nTitle:\nBefore You Attack Active Directory: Read This First(Pentester’s Foundation Guide)\n════════════════════════\n𐀪\nAuthor:\nSana Jalil\n════════════════════════\nⴵ\nTime:\nSun, 28 Jun 2026 12:44:05 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#cybersecurity\n#ethical_hacking\n#active_directory\n#oscp_preparation",
-        "date": "2026-06-28T14:04:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123944_0_25388c00.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123944_1_96020265.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123944",
-        "link": {
-          "title": "Before You Attack Active Directory: Read This First(Pentester’s Foundation Guide)",
-          "url": "https://infosecwriteups.com/before-you-attack-active-directory-read-this-first-pentesters-foundation-guide-497b2c99a162?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 123943,
-        "text": "⤷\nTitle:\nOne stolen key turned into a Supply-Chain compromise\n════════════════════════\n𐀪\nAuthor:\nMaram Raboudi\n════════════════════════\nⴵ\nTime:\nSun, 28 Jun 2026 12:49:41 GMT\n════════════════════════\n⌗\nTags:\n#ci_cd_pipeline\n#penetration_testing\n#devsecops\n#cicd",
-        "date": "2026-06-28T14:04:22+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123943_0_25388c00.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123943_1_205da779.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123943",
-        "link": {
-          "title": "One stolen key turned into a Supply-Chain compromise",
-          "url": "https://medium.com/@maram.raboudi/one-stolen-key-turned-into-a-supply-chain-compromise-16b06d403e7b?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 123942,
-        "text": "⤷\nTitle:\nHow I Hacked My First Wi-Fi Network\n════════════════════════\n𐀪\nAuthor:\nSHADOW\n════════════════════════\nⴵ\nTime:\nSun, 28 Jun 2026 12:01:35 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#cybersecurity\n#attack\n#kali_linux\n#technology",
-        "date": "2026-06-28T14:04:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123942_0_25388c00.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123942_1_ba74f96c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123942",
-        "link": {
-          "title": "How I Hacked My First Wi-Fi Network",
-          "url": "https://meetcyber.net/how-i-hacked-my-first-wi-fi-network-9d91bd99878c?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 123941,
-        "text": "⤷\nTitle:\nWhy Hackers Use Nmap: The Power of Network Discovery\n════════════════════════\n𐀪\nAuthor:\nBsinghceh\n════════════════════════\nⴵ\nTime:\nSun, 28 Jun 2026 12:41:26 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#knowledge_management\n#pentesting\n#cyber_security_awareness\n#education",
-        "date": "2026-06-28T14:04:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123941_0_25388c00.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123941_1_14f8768e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123941",
-        "link": {
-          "title": "Why Hackers Use Nmap: The Power of Network Discovery",
-          "url": "https://medium.com/@bsinghceh/why-hackers-use-nmap-the-power-of-network-discovery-75177e69827e?source=rss------hacking-5"
-        }
       }
     ]
   },
-  "last_update": "2026-06-29T12:16:21.589611+00:00",
+  "last_update": "2026-06-29T16:17:03.269628+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 189,
-    "total_files": 189,
+    "total_media": 188,
+    "total_files": 188,
     "total_links": 0,
     "files_by_type": {
-      "image": 189
+      "image": 188
     },
-    "referenced_files": 189,
-    "existing_media_files": 189,
-    "total_size_mb": 4.52,
-    "last_calculation": "2026-06-29T12:16:21.591887+00:00"
+    "referenced_files": 188,
+    "existing_media_files": 188,
+    "total_size_mb": 4.73,
+    "last_calculation": "2026-06-29T16:17:03.271894+00:00"
   }
 }
