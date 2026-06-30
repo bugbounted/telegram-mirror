@@ -2,6 +2,454 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 124174,
+        "text": "⤷\nTitle:\nPost auth RCE in GeoSIG seismological equipment (GMSplus)\n════════════════════════\n𐀪\nAuthor:\n@bertinjoseb\n════════════════════════\nⴵ\nTime:\nTue, 30 Jun 2026 05:13:55 GMT\n════════════════════════\n⌗\nTags:\n#web_application_security\n#cybersecurity\n#pentesting\n#pentest\n#rce_vulnerability",
+        "date": "2026-06-30T06:04:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124174_0_6ab41060.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124174_1_3456d34c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124174",
+        "link": {
+          "title": "Post auth RCE in GeoSIG seismological equipment (GMSplus)",
+          "url": "https://medium.com/@bertinjoseb/post-auth-rce-in-geosig-seismological-equipment-gmsplus-b2358b44a625?source=rss------rce_vulnerability-5"
+        }
+      },
+      {
+        "id": 124173,
+        "text": "⤷\nTitle:\nWindows Active Directory Hardening Checklist for SOC Teams\n════════════════════════\n𐀪\nAuthor:\nTatavolu Sai Viswanadh\n════════════════════════\nⴵ\nTime:\nTue, 30 Jun 2026 04:36:17 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#windows_security\n#cybersecurity\n#active_directory\n#soc",
+        "date": "2026-06-30T06:04:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124173_0_6ab41060.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124173_1_172ca1c5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124173",
+        "link": {
+          "title": "Windows Active Directory Hardening Checklist for SOC Teams",
+          "url": "https://medium.com/@saiviswanath064/windows-active-directory-hardening-checklist-for-soc-teams-24a3a87a292f?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 124172,
+        "text": "⤷\nTitle:\nNew Critical Zero-Auth Vulnerability in WordPress YMC Filter: CVE-2026–10823\n════════════════════════\n𐀪\nAuthor:\nSynthex\n════════════════════════\nⴵ\nTime:\nTue, 30 Jun 2026 05:26:00 GMT\n════════════════════════\n⌗\nTags:\n#wordpress_security\n#cybersecurity\n#wordpress_vulnerabilities\n#infosec\n#cve_2026_10823",
+        "date": "2026-06-30T06:04:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124172_0_6ab41060.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124172_1_acfda2e3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124172",
+        "link": {
+          "title": "New Critical Zero-Auth Vulnerability in WordPress YMC Filter: CVE-2026–10823",
+          "url": "https://synthex.medium.com/new-critical-zero-auth-vulnerability-in-wordpress-ymc-filter-cve-2026-10823-32f9b7cfcc25?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 124171,
+        "text": "⤷\nTitle:\nMITRE ATLAS for beginners\n════════════════════════\n𐀪\nAuthor:\nRuchiragarwal\n════════════════════════\nⴵ\nTime:\nTue, 30 Jun 2026 04:57:14 GMT\n════════════════════════\n⌗\nTags:\n#mitre_attack\n#computer_science\n#hacking\n#ai\n#engineer",
+        "date": "2026-06-30T06:04:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124171_0_6ab41060.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124171_1_7e95ccd6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124171",
+        "link": {
+          "title": "MITRE ATLAS for beginners",
+          "url": "https://medium.com/@ruchiragarwal17/mitre-atlas-for-beginners-9b1dcaf4d594?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 124170,
+        "text": "⤷\nTitle:\nStegoAd: 119 Malicious Edge Extensions Removed\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nTue, 30 Jun 2026 04:24:57 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#Ad\nFraud\n#Browser\nExtensions\n#Credential\nTheft\n#malware\n#microsoft\nedge\n#Steganography\n#StegoAd",
+        "date": "2026-06-30T06:04:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124170_0_6ab41060.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124170_1_83a09d21.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124170",
+        "link": {
+          "title": "StegoAd: 119 Malicious Edge Extensions Removed",
+          "url": "https://meterpreter.org/stegoad-malicious-edge-extensions/"
+        }
+      },
+      {
+        "id": 124169,
+        "text": "⤷\nTitle:\nPoisoned Tenant Attack Abuses OpenAI Organization Invites\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nTue, 30 Jun 2026 05:24:59 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#ChatGPT\n#OpenAI\n#phishing\n#Poisoned\nTenant\n#Push\nSecurity\n#SaaS\nSecurity\n#Social\nEngineering",
+        "date": "2026-06-30T06:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124169_0_6ab41060.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124169_1_3a742429.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124169",
+        "link": {
+          "title": "Poisoned Tenant Attack Abuses OpenAI Organization Invites",
+          "url": "https://meterpreter.org/openai-poisoned-tenant-attack/"
+        }
+      },
+      {
+        "id": 124168,
+        "text": "⤷\nTitle:\nOracle E-Business Suite Flaw CVE-2026-46817 Actively Exploited in the Wild\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nTue, 30 Jun 2026 10:34:06 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-06-30T06:03:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124168_0_6ab41060.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124168",
+        "link": {
+          "title": "Oracle E-Business Suite Flaw CVE-2026-46817 Actively Exploited in the Wild",
+          "url": "https://thehackernews.com/2026/06/oracle-e-business-suite-flaw-cve-2026.html"
+        }
+      },
+      {
+        "id": 124167,
+        "text": "⤷\nTitle:\n⚡\nWhiteWidow: The Ultimate SQL Injection Scanner for Security Professionals\n════════════════════════\n𐀪\nAuthor:\nPentester Club\n════════════════════════\nⴵ\nTime:\nTue, 30 Jun 2026 03:43:31 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#artificial_intelligence\n#web3\n#sql\n#cybersecurity",
+        "date": "2026-06-30T04:04:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124167_0_6ab41060.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124167",
+        "link": {
+          "title": "⚡WhiteWidow: The Ultimate SQL Injection Scanner for Security Professionals",
+          "url": "https://medium.com/@pentesterclubpvtltd/whitewidow-the-ultimate-sql-injection-scanner-for-security-professionals-6680e192d7fb?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 124166,
+        "text": "⤷\nTitle:\nSynology MailPlus Server Patched for CVSS 10 Flaw CVE-2026-13136\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 30 Jun 2026 02:11:51 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2025_15660\n#CVE_2026_13135\n#CVE_2026_13136\n#DSM\n#MailPlus\nServer\n#NAS\n#Synology",
+        "date": "2026-06-30T04:04:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124166_0_6ab41060.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124166_1_35d36a98.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124166",
+        "link": {
+          "title": "Synology MailPlus Server Patched for CVSS 10 Flaw CVE-2026-13136",
+          "url": "https://securityonline.info/synology-mailplus-server-cve-2026-13136/"
+        }
+      },
+      {
+        "id": 124165,
+        "text": "⤷\nTitle:\nWSO2 API Manager Hit by CVSS 10 Auth Bypass and Six More Flaws\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 30 Jun 2026 02:42:45 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#API\nsecurity\n#Authentication\nBypass\n#CVE_2026_1728\n#CVE_2026_3418\n#CVE_2026_4052\n#CVE_2026_5430\n#WSO2\n#WSO2\nAPI Manager",
+        "date": "2026-06-30T04:04:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124165_0_6ab41060.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124165_1_4a4961ca.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124165",
+        "link": {
+          "title": "WSO2 API Manager Hit by CVSS 10 Auth Bypass and Six More Flaws",
+          "url": "https://securityonline.info/wso2-api-manager-vulnerabilities/"
+        }
+      },
+      {
+        "id": 124164,
+        "text": "⤷\nTitle:\nWhatsApp Usernames Let You Hide Your Phone Number\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 30 Jun 2026 03:44:08 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#messaging\n#Meta\n#Phone\nNumber\n#privacy\n#Usernames\n#WhatsApp",
+        "date": "2026-06-30T04:04:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124164_0_6ab41060.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124164_1_4898048b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124164",
+        "link": {
+          "title": "WhatsApp Usernames Let You Hide Your Phone Number",
+          "url": "https://securityonline.info/whatsapp-usernames-reserve/"
+        }
+      },
+      {
+        "id": 124163,
+        "text": "⤷\nTitle:\niPhone 18 Pro Secrets Leaked in Tata Electronics Breach\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 30 Jun 2026 03:54:34 +0000\n════════════════════════\n⌗\nTags:\n#Data\nLeak\n#Apple\n#Data\nBreach\n#iPhone\n18 Pro\n#ransomware\n#Supply\nChain\n#Tata\nElectronics\n#World\nLeaks",
+        "date": "2026-06-30T04:04:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124163_0_6ab41060.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124163_1_4b0c9e0c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124163",
+        "link": {
+          "title": "iPhone 18 Pro Secrets Leaked in Tata Electronics Breach",
+          "url": "https://securityonline.info/iphone-18-pro-leak-tata-breach/"
+        }
+      },
+      {
+        "id": 124162,
+        "text": "⤷\nTitle:\nAdblock for YouTube Hides Dangerous Extension Architecture\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nTue, 30 Jun 2026 03:26:32 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\n#Adblock\nfor YouTube\n#Chrome\nextension\n#cybersecurity\n#data\nprivacy\n#malware",
+        "date": "2026-06-30T04:04:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124162_0_6ab41060.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124162_1_8f89a3e3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124162",
+        "link": {
+          "title": "Adblock for YouTube Hides Dangerous Extension Architecture",
+          "url": "https://meterpreter.org/adblock-for-youtube-dangerous-architecture/"
+        }
+      },
+      {
+        "id": 124161,
+        "text": "⤷\nTitle:\nIntigriti June Bonus Challenge 2026 — Leaky Jar Write-up\n════════════════════════\n𐀪\nAuthor:\nRyuk0x01\n════════════════════════\nⴵ\nTime:\nTue, 30 Jun 2026 00:09:08 GMT\n════════════════════════\n⌗\nTags:\n#csrf\n#bug_bounty_writeup\n#intigriti\n#ctf\n#ctf_writeup",
+        "date": "2026-06-30T02:04:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124161_0_6ab41060.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124161_1_39901b4b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124161",
+        "link": {
+          "title": "Intigriti June Bonus Challenge 2026 — Leaky Jar Write-up",
+          "url": "https://medium.com/@Ryuk0x01/intigriti-june-bonus-challenge-2026-leaky-jar-write-up-8412310c7269?source=rss------bug_bounty_writeup-5"
+        }
+      },
+      {
+        "id": 124160,
+        "text": "⤷\nTitle:\nHTB Enigma Writeup\n════════════════════════\n𐀪\nAuthor:\nLukasjohannesmoeller\n════════════════════════\nⴵ\nTime:\nTue, 30 Jun 2026 00:46:23 GMT\n════════════════════════\n⌗\nTags:\n#hackthebox_writeup\n#ctf_writeup\n#hackthebox",
+        "date": "2026-06-30T02:04:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124160_0_6ab41060.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124160_1_9bbc9ddc.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124160",
+        "link": {
+          "title": "HTB Enigma Writeup",
+          "url": "https://medium.com/@lukasjohannesmoeller/htb-enigma-writeup-2efaa433e4b0?source=rss------hackthebox_writeup-5"
+        }
+      },
+      {
+        "id": 124159,
+        "text": "⤷\nTitle:\nICMP Tunneling & Pivoting to a Domain Controller\n════════════════════════\n𐀪\nAuthor:\nNouman Ali Khan\n════════════════════════\nⴵ\nTime:\nTue, 30 Jun 2026 00:07:25 GMT\n════════════════════════\n⌗\nTags:\n#hackthebox\n#tunneling\n#penetration_testing\n#icmp_tunneling\n#pivoting",
+        "date": "2026-06-30T02:04:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124159_0_6ab41060.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124159",
+        "link": {
+          "title": "ICMP Tunneling & Pivoting to a Domain Controller",
+          "url": "https://noumankhaan.medium.com/icmp-tunneling-pivoting-to-a-domain-controller-fb347acd026e?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 124158,
+        "text": "⤷\nTitle:\nGOAD-Light Walkthrough\n════════════════════════\n𐀪\nAuthor:\nOuakidiyassine\n════════════════════════\nⴵ\nTime:\nTue, 30 Jun 2026 00:09:23 GMT\n════════════════════════\n⌗\nTags:\n#active_directory\n#penetration_testing\n#pentesting",
+        "date": "2026-06-30T02:04:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124158_0_6ab41060.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124158_1_f7593d88.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124158",
+        "link": {
+          "title": "GOAD-Light Walkthrough",
+          "url": "https://medium.com/@ouakidiyassine019/goad-light-walkthrough-d0bea52d91af?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 124157,
+        "text": "⤷\nTitle:\nNobody Is Coming to Tell You How to Pay\n════════════════════════\n𐀪\nAuthor:\nS6 Tech\n════════════════════════\nⴵ\nTime:\nTue, 30 Jun 2026 01:49:04 GMT\n════════════════════════\n⌗\nTags:\n#small_business\n#technology\n#infosec\n#cybersecurity\n#ransomware",
+        "date": "2026-06-30T02:04:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124157_0_6ab41060.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124157_1_6e320666.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124157",
+        "link": {
+          "title": "Nobody Is Coming to Tell You How to Pay",
+          "url": "https://medium.com/@s6techllc/nobody-is-coming-to-tell-you-how-to-pay-a557d3dbd66a?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 124156,
+        "text": "⤷\nTitle:\nTuesday Morning Threat Report: Jun 30, 2026\n════════════════════════\n𐀪\nAuthor:\nMark Maguire\n════════════════════════\nⴵ\nTime:\nTue, 30 Jun 2026 01:23:18 GMT\n════════════════════════\n⌗\nTags:\n#vulnerability\n#hacking\n#cybersecurity",
+        "date": "2026-06-30T02:04:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124156_0_6ab41060.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124156_1_80300dc3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124156",
+        "link": {
+          "title": "Tuesday Morning Threat Report: Jun 30, 2026",
+          "url": "https://medium.com/@cyber_securiti/tuesday-morning-threat-report-jun-30-2026-25e7d68224f2?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 124155,
+        "text": "⤷\nTitle:\n10 Burp Suite Extensions Every Pentester Should Know (And How to Actually Use Them)\n════════════════════════\n𐀪\nAuthor:\nYamini Yadav_369\n════════════════════════\nⴵ\nTime:\nTue, 30 Jun 2026 01:19:18 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#penetration_testing\n#bug_bounty\n#ethical_hacking\n#medium",
+        "date": "2026-06-30T02:04:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124155_0_6ab41060.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124155_1_a5797032.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124155",
+        "link": {
+          "title": "10 Burp Suite Extensions Every Pentester Should Know (And How to Actually Use Them)",
+          "url": "https://osintteam.blog/10-burp-suite-extensions-every-pentester-should-know-and-how-to-actually-use-them-8311585ed1b6?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 124149,
         "text": "⤷\nTitle:\nFrom Deep Link to Shell: Easy $3000 Android Crits.\n════════════════════════\n𐀪\nAuthor:\ntinopreter\n════════════════════════\nⴵ\nTime:\nMon, 29 Jun 2026 23:19:13 GMT\n════════════════════════\n⌗\nTags:\n#android\n#hackerone\n#static_code_analysis\n#rce\n#deeplink",
         "date": "2026-06-30T00:03:56+00:00",
@@ -1812,454 +2260,22 @@
           "title": "Proxy-AD Machine-TryHackMe",
           "url": "https://medium.com/@darshannnaik1234/proxy-ad-machine-tryhackme-aedfa49cc357?source=rss------ethical_hacking-5"
         }
-      },
-      {
-        "id": 124023,
-        "text": "⤷\nTitle:\nBuild your Cyber Security Career Part — 1\n════════════════════════\n𐀪\nAuthor:\nExploitHunter\n════════════════════════\nⴵ\nTime:\nMon, 29 Jun 2026 05:06:35 GMT\n════════════════════════\n⌗\nTags:\n#cyber_security_awareness\n#ethical_hacking\n#infosec\n#web_development\n#cybersecurity",
-        "date": "2026-06-29T06:04:31+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124023_0_26cffc96.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124023_1_bc3bd8e7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124023",
-        "link": {
-          "title": "Build your Cyber Security Career Part — 1",
-          "url": "https://medium.com/@vorasmit22/build-your-cyber-security-career-part-1-8213f70f06fa?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 124022,
-        "text": "⤷\nTitle:\nExploitation Basics — part 3\n════════════════════════\n𐀪\nAuthor:\nExploitHunter\n════════════════════════\nⴵ\nTime:\nMon, 29 Jun 2026 05:07:38 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#cyber_security_awareness\n#cybersecurity\n#infosec\n#web_development",
-        "date": "2026-06-29T06:04:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124022_0_26cffc96.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124022_1_0c219a0e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124022",
-        "link": {
-          "title": "Exploitation Basics — part 3",
-          "url": "https://medium.com/@vorasmit22/exploitation-basics-part-3-bea55dd319d8?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 124021,
-        "text": "⤷\nTitle:\nI Built a SOC Lab From Scratch. Here’s What Broke First.\n════════════════════════\n𐀪\nAuthor:\nAj\n════════════════════════\nⴵ\nTime:\nMon, 29 Jun 2026 05:12:50 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#soc\n#cybersecurity\n#technology\n#networking",
-        "date": "2026-06-29T06:04:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124021_0_26cffc96.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124021_1_98504481.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124021",
-        "link": {
-          "title": "I Built a SOC Lab From Scratch. Here’s What Broke First.",
-          "url": "https://infosecwriteups.com/i-built-a-soc-lab-from-scratch-heres-what-broke-first-8f0863cc6169?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 124020,
-        "text": "⤷\nTitle:\nI Found a Hidden Flag in a Website Using Only My Browser, Here’s Exactly How\n════════════════════════\n𐀪\nAuthor:\nRutvik Chavda\n════════════════════════\nⴵ\nTime:\nMon, 29 Jun 2026 05:41:00 GMT\n════════════════════════\n⌗\nTags:\n#web_security\n#capture_the_flag\n#cybersecurity\n#ethical_hacking\n#infosec",
-        "date": "2026-06-29T06:04:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124020_0_26cffc96.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124020",
-        "link": {
-          "title": "I Found a Hidden Flag in a Website Using Only My Browser, Here’s Exactly How",
-          "url": "https://medium.com/@chavdarutvik1849/i-found-a-hidden-flag-in-a-website-using-only-my-browser-heres-exactly-how-9a93cc72d415?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 124019,
-        "text": "⤷\nTitle:\nWindows Persistence Techniques Explained — A Complete Red Team Learning Guide\n════════════════════════\n𐀪\nAuthor:\nManihacker\n════════════════════════\nⴵ\nTime:\nMon, 29 Jun 2026 04:05:06 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#tamil\n#tamil_nadu\n#cybersecurity\n#hacking",
-        "date": "2026-06-29T06:04:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124019_0_26cffc96.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124019",
-        "link": {
-          "title": "Windows Persistence Techniques Explained — A Complete Red Team Learning Guide",
-          "url": "https://medium.com/@manihacker086/windows-persistence-techniques-explained-a-complete-red-team-learning-guide-3fb1604f3dc5?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 124018,
-        "text": "⤷\nTitle:\nTwo-Factor Authentication Explained: Why Passwords Are Not Enough\n════════════════════════\n𐀪\nAuthor:\nSupraja\n════════════════════════\nⴵ\nTime:\nMon, 29 Jun 2026 04:31:20 GMT\n════════════════════════\n⌗\nTags:\n#technology\n#online_safety\n#hacking\n#information_security\n#cybersecurity",
-        "date": "2026-06-29T06:04:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124018_0_26cffc96.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124018_1_63b86fea.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124018",
-        "link": {
-          "title": "Two-Factor Authentication Explained: Why Passwords Are Not Enough",
-          "url": "https://medium.com/@suprajatycoon/two-factor-authentication-explained-why-passwords-are-not-enough-eb058b3dc101?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 124017,
-        "text": "⤷\nTitle:\nThe Firewall Blindspot: How a Simple Base64 Encode Bypassed a $10K WAF\n════════════════════════\n𐀪\nAuthor:\nPrabhakar\n════════════════════════\nⴵ\nTime:\nMon, 29 Jun 2026 05:31:00 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#cybersecurity\n#information_security\n#bug_hunting\n#cyber_security_awareness",
-        "date": "2026-06-29T06:04:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124017_0_26cffc96.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124017_1_e401ecc4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124017",
-        "link": {
-          "title": "The Firewall Blindspot: How a Simple Base64 Encode Bypassed a $10K WAF",
-          "url": "https://medium.com/@psaibtech/the-firewall-blindspot-how-a-simple-base64-encode-bypassed-a-10k-waf-300937f9cf0f?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 124016,
-        "text": "⤷\nTitle:\nI Didn’t Hack OAuth -I Just Clicked ‘Login’ Eight Times.\n════════════════════════\n𐀪\nAuthor:\nNayan Acharya\n════════════════════════\nⴵ\nTime:\nMon, 29 Jun 2026 03:56:05 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#web_security\n#hacking\n#bug_bounty\n#programming",
-        "date": "2026-06-29T06:04:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124016_0_26cffc96.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124016_1_76b993ca.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124016",
-        "link": {
-          "title": "I Didn’t Hack OAuth -I Just Clicked ‘Login’ Eight Times.",
-          "url": "https://medium.com/@nayanacharya050/i-didnt-hack-oauth-i-just-clicked-login-eight-times-037b8773c8b2?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 124015,
-        "text": "⤷\nTitle:\nThe Uchiha Methodology: My Complete Bug Hunting Blueprint That Took Me From Zero to Bounties\n════════════════════════\n𐀪\nAuthor:\n0B1To_X_ucH!h4\n════════════════════════\nⴵ\nTime:\nMon, 29 Jun 2026 04:09:21 GMT\n════════════════════════\n⌗\nTags:\n#reconnaissance\n#bug_bounty\n#red_team\n#exploitation\n#pentesting",
-        "date": "2026-06-29T06:04:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124015_0_26cffc96.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124015_1_479a73d0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124015",
-        "link": {
-          "title": "The Uchiha Methodology: My Complete Bug Hunting Blueprint That Took Me From Zero to Bounties",
-          "url": "https://atanupal22256.medium.com/the-uchiha-methodology-my-complete-bug-hunting-blueprint-that-took-me-from-zero-to-bounties-18a4a115bc43?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 124014,
-        "text": "⤷\nTitle:\nGoogle Gemini Compute Shortage: The Global AI Crisis\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 29 Jun 2026 04:44:21 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#artificial\nintelligence\n#Compute\nShortage\n#Google\nGemini\n#Meta\nAI",
-        "date": "2026-06-29T06:04:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124014_0_26cffc96.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124014_1_37968de8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124014",
-        "link": {
-          "title": "Google Gemini Compute Shortage: The Global AI Crisis",
-          "url": "https://securityonline.info/google-gemini-compute-shortage/"
-        }
-      },
-      {
-        "id": 124013,
-        "text": "⤷\nTitle:\nAustralian Infrastructure Cyberattack: ASIO Warning\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nMon, 29 Jun 2026 04:28:14 +0000\n════════════════════════\n⌗\nTags:\n#Cyber\nSecurity\n#APT\ngroups\n#ASIO\n#Australian\nInfrastructure Cyberattack\n#Critical\nInfrastructure\n#cyber\nsabotage",
-        "date": "2026-06-29T06:03:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124013_0_26cffc96.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124013_1_9b5382c3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124013",
-        "link": {
-          "title": "Australian Infrastructure Cyberattack: ASIO Warning",
-          "url": "https://meterpreter.org/australian-infrastructure-cyberattack/"
-        }
-      },
-      {
-        "id": 124012,
-        "text": "⤷\nTitle:\nSQL Injection Still Works in 2025: How We Found 12 Vulnerabilities in Our Own Code\n════════════════════════\n𐀪\nAuthor:\nErwin Hermanto\n════════════════════════\nⴵ\nTime:\nMon, 29 Jun 2026 02:22:57 GMT\n════════════════════════\n⌗\nTags:\n#golang\n#sqli\n#security\n#backend_development\n#software_engineering",
-        "date": "2026-06-29T04:04:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124012_0_26cffc96.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124012",
-        "link": {
-          "title": "SQL Injection Still Works in 2025: How We Found 12 Vulnerabilities in Our Own Code",
-          "url": "https://medium.com/@erwindev/sql-injection-still-works-in-2025-how-we-found-12-vulnerabilities-in-our-own-code-a6219e2e2d19?source=rss------sqli-5"
-        }
-      },
-      {
-        "id": 124011,
-        "text": "⤷\nTitle:\nMastering DOM XSS: Exploiting document.write Sink\n════════════════════════\n𐀪\nAuthor:\nAlbert Simanjuntak\n════════════════════════\nⴵ\nTime:\nMon, 29 Jun 2026 03:05:58 GMT\n════════════════════════\n⌗\nTags:\n#xs",
-        "date": "2026-06-29T04:04:48+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124011_0_26cffc96.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124011",
-        "link": {
-          "title": "Mastering DOM XSS: Exploiting document.write Sink",
-          "url": "https://medium.com/@albertsimanjuntak_33223/mastering-dom-xss-exploiting-document-write-sink-40a6c4a6d03a?source=rss------xss-5"
-        }
-      },
-      {
-        "id": 124010,
-        "text": "⤷\nTitle:\nThe First 30 Minutes of an Active Directory Assessment\n════════════════════════\n𐀪\nAuthor:\nMatthew Hennigan\n════════════════════════\nⴵ\nTime:\nMon, 29 Jun 2026 02:26:12 GMT\n════════════════════════\n⌗\nTags:\n#red_team\n#windows_security\n#active_directory\n#cybersecurity\n#penetration_testing",
-        "date": "2026-06-29T04:04:45+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124010_0_26cffc96.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124010_1_2630912e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124010",
-        "link": {
-          "title": "The First 30 Minutes of an Active Directory Assessment",
-          "url": "https://medium.com/@ironmatt1/the-first-30-minutes-of-an-active-directory-assessment-44a4e66b1dc3?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 124009,
-        "text": "⤷\nTitle:\nHow Dubai Built the World’s Most Welcoming Trap for Cybercriminals\n════════════════════════\n𐀪\nAuthor:\nDavid SEHYEON Baek\n════════════════════════\nⴵ\nTime:\nMon, 29 Jun 2026 02:39:01 GMT\n════════════════════════\n⌗\nTags:\n#dubai\n#cryptocurrency\n#cybercrime\n#hacking\n#artificial_intelligence",
-        "date": "2026-06-29T04:04:42+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124009_0_26cffc96.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124009",
-        "link": {
-          "title": "How Dubai Built the World’s Most Welcoming Trap for Cybercriminals",
-          "url": "https://medium.com/@davidsehyeonbaek/how-dubai-built-the-worlds-most-welcoming-trap-for-cybercriminals-05c23896bf1a?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 124008,
-        "text": "⤷\nTitle:\nModernizing Wireless Audits: Efficient Handshake Capture with Frieren & HCX\n════════════════════════\n𐀪\nAuthor:\nquiet_stone28\n════════════════════════\nⴵ\nTime:\nMon, 29 Jun 2026 03:33:21 GMT\n════════════════════════\n⌗\nTags:\n#wifi_auditing\n#life_hacking\n#wifi_pineapple\n#hacking",
-        "date": "2026-06-29T04:04:38+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124008_0_26cffc96.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124008_1_4082261f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124008",
-        "link": {
-          "title": "Modernizing Wireless Audits: Efficient Handshake Capture with Frieren & HCX",
-          "url": "https://medium.com/@quiet_stone28/modernizing-wireless-audits-efficient-handshake-capture-with-frieren-hcx-144820670eaf?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 124007,
-        "text": "⤷\nTitle:\nProving Grounds: Access Write-up\n════════════════════════\n𐀪\nAuthor:\nSecurityChud\n════════════════════════\nⴵ\nTime:\nMon, 29 Jun 2026 03:36:34 GMT\n════════════════════════\n⌗\nTags:\n#provinggrounds\n#oscp_preparation\n#hacking\n#oscp\n#ctf_writeup",
-        "date": "2026-06-29T04:04:35+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124007_0_26cffc96.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124007_1_2f3e5024.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124007",
-        "link": {
-          "title": "Proving Grounds: Access Write-up",
-          "url": "https://securitychud.medium.com/proving-grounds-access-write-up-69659ff2b7e5?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 124006,
-        "text": "⤷\nTitle:\nDell Wyse Vulnerabilities Allow CVSS 9.8 Code Execution\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 29 Jun 2026 02:00:53 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_41120\n#CVE_2026_49506\n#Dell\nWyse\n#Remote\nCode Execution\n#Vulnerability",
-        "date": "2026-06-29T04:04:32+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124006_0_26cffc96.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124006_1_3a1e21c5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124006",
-        "link": {
-          "title": "Dell Wyse Vulnerabilities Allow CVSS 9.8 Code Execution",
-          "url": "https://securityonline.info/dell-wyse-vulnerabilities-cvss/"
-        }
-      },
-      {
-        "id": 124000,
-        "text": "⤷\nTitle:\nA Dropdown Value Is Still User Input: SQL Injection in WooCommerce’s Most Popular Order Export…\n════════════════════════\n𐀪\nAuthor:\nYaswanthrs\n════════════════════════\nⴵ\nTime:\nMon, 29 Jun 2026 00:27:49 GMT\n════════════════════════\n⌗\nTags:\n#cve\n#wordpress\n#sql_injection\n#bug_bounty_writeup\n#cybersecurity",
-        "date": "2026-06-29T02:04:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124000_0_26cffc96.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124000",
-        "link": {
-          "title": "A Dropdown Value Is Still User Input: SQL Injection in WooCommerce’s Most Popular Order Export…",
-          "url": "https://medium.com/@yaswanthrs007/a-dropdown-value-is-still-user-input-sql-injection-in-woocommerces-most-popular-order-export-e85fb4653cfb?source=rss------sql_injection-5"
-        }
-      },
-      {
-        "id": 123999,
-        "text": "⤷\nTitle:\nTryhackme | Become a Hacker |WhiteUp | Por Kinho0woned\n════════════════════════\n𐀪\nAuthor:\nKinho0Woned\n════════════════════════\nⴵ\nTime:\nMon, 29 Jun 2026 01:32:01 GMT\n════════════════════════\n⌗\nTags:\n#hacker_ético\n#tryhackme\n#torne_se_hacker\n#ctf_writeup\n#teste_de_intrusão",
-        "date": "2026-06-29T02:04:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123999_0_26cffc96.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123999",
-        "link": {
-          "title": "Tryhackme | Become a Hacker |WhiteUp | Por Kinho0woned",
-          "url": "https://medium.com/@Kinho0Woned/tryhackme-become-a-hacker-whiteup-por-kinho0woned-cafde76c45fe?source=rss------tryhackme-5"
-        }
       }
     ]
   },
-  "last_update": "2026-06-30T02:01:35.432944+00:00",
+  "last_update": "2026-06-30T06:26:24.170060+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 186,
-    "total_files": 186,
+    "total_media": 190,
+    "total_files": 190,
     "total_links": 0,
     "files_by_type": {
-      "image": 186
+      "image": 190
     },
-    "referenced_files": 186,
-    "existing_media_files": 186,
-    "total_size_mb": 5.02,
-    "last_calculation": "2026-06-30T02:01:35.435120+00:00"
+    "referenced_files": 190,
+    "existing_media_files": 190,
+    "total_size_mb": 5.46,
+    "last_calculation": "2026-06-30T06:26:24.172328+00:00"
   }
 }
