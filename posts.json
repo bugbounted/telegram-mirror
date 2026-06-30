@@ -2,6 +2,52 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 124149,
+        "text": "⤷\nTitle:\nFrom Deep Link to Shell: Easy $3000 Android Crits.\n════════════════════════\n𐀪\nAuthor:\ntinopreter\n════════════════════════\nⴵ\nTime:\nMon, 29 Jun 2026 23:19:13 GMT\n════════════════════════\n⌗\nTags:\n#android\n#hackerone\n#static_code_analysis\n#rce\n#deeplink",
+        "date": "2026-06-30T00:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124149_0_6ab41060.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124149_1_d2b11762.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124149",
+        "link": {
+          "title": "From Deep Link to Shell: Easy $3000 Android Crits.",
+          "url": "https://osintteam.blog/from-deep-link-to-shell-easy-3000-android-crits-866f2a002a3c?source=rss------rce-5"
+        }
+      },
+      {
+        "id": 124148,
+        "text": "⤷\nTitle:\nI Spent Months Learning Hacking the Wrong Way. Here’s the Roadmap I Wish Someone Gave Me.\n════════════════════════\n𐀪\nAuthor:\nMomal Naz\n════════════════════════\nⴵ\nTime:\nMon, 29 Jun 2026 22:08:47 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#bug_bounty\n#cybersecurity\n#roadmaps\n#technology",
+        "date": "2026-06-30T00:03:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124148_0_6ab41060.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124148_1_45c73dcd.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124148",
+        "link": {
+          "title": "I Spent Months Learning Hacking the Wrong Way. Here’s the Roadmap I Wish Someone Gave Me.",
+          "url": "https://hexahunter.medium.com/i-spent-months-learning-hacking-the-wrong-way-heres-the-roadmap-i-wish-someone-gave-me-8d99d9308ce5?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 124147,
         "text": "⤷\nTitle:\nHow OSINT Changed the Way I Look at the Internet!..\n════════════════════════\n𐀪\nAuthor:\nsaarthak\n════════════════════════\nⴵ\nTime:\nMon, 29 Jun 2026 21:13:16 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#digital_footprint\n#ethical_hacking\n#osint\n#open_source_intelligence",
         "date": "2026-06-29T22:04:11+00:00",
@@ -2198,60 +2244,22 @@
           "title": "Tryhackme | Become a Hacker |WhiteUp | Por Kinho0woned",
           "url": "https://medium.com/@Kinho0Woned/tryhackme-become-a-hacker-whiteup-por-kinho0woned-cafde76c45fe?source=rss------tryhackme-5"
         }
-      },
-      {
-        "id": 123998,
-        "text": "⤷\nTitle:\nHackTheBox — Cap: I Changed a 1 to a 0 and Got Root\n════════════════════════\n𐀪\nAuthor:\nYooZy\n════════════════════════\nⴵ\nTime:\nMon, 29 Jun 2026 00:11:19 GMT\n════════════════════════\n⌗\nTags:\n#hackthebox\n#infosec\n#cybersecurity\n#penetration_testing\n#hacking",
-        "date": "2026-06-29T02:04:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123998_0_26cffc96.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123998",
-        "link": {
-          "title": "HackTheBox — Cap: I Changed a 1 to a 0 and Got Root",
-          "url": "https://medium.com/@0xYooZy/hackthebox-cap-i-changed-a-1-to-a-0-and-got-root-40407a82833a?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 123997,
-        "text": "⤷\nTitle:\nA Real Login Attack Explained: How a Hacker Steals Your Session Without Knowing Your Password\n════════════════════════\n𐀪\nAuthor:\nUmashankara Kalaiah\n════════════════════════\nⴵ\nTime:\nMon, 29 Jun 2026 01:47:28 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#webdevelopmentsecurity\n#cybersecurity_programming\n#javascript\n#jwt",
-        "date": "2026-06-29T02:04:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_123997_0_26cffc96.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/123997",
-        "link": {
-          "title": "A Real Login Attack Explained: How a Hacker Steals Your Session Without Knowing Your Password",
-          "url": "https://medium.com/@umashankarak/a-real-login-attack-explained-how-a-hacker-steals-your-session-without-knowing-your-password-7ed9191a9e2b?source=rss------hacking-5"
-        }
       }
     ]
   },
-  "last_update": "2026-06-29T23:52:05.760383+00:00",
+  "last_update": "2026-06-30T02:01:35.432944+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 184,
-    "total_files": 184,
+    "total_media": 186,
+    "total_files": 186,
     "total_links": 0,
     "files_by_type": {
-      "image": 184
+      "image": 186
     },
-    "referenced_files": 184,
-    "existing_media_files": 184,
-    "total_size_mb": 4.84,
-    "last_calculation": "2026-06-29T23:52:05.762496+00:00"
+    "referenced_files": 186,
+    "existing_media_files": 186,
+    "total_size_mb": 5.02,
+    "last_calculation": "2026-06-30T02:01:35.435120+00:00"
   }
 }
