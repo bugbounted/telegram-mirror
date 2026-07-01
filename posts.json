@@ -2,6 +2,232 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 124317,
+        "text": "⤷\nTitle:\nDatabase SQL Basics: Querying Your First Relational Dataset\n════════════════════════\n𐀪\nAuthor:\nJonathan Sanfer\n════════════════════════\nⴵ\nTime:\nTue, 30 Jun 2026 23:55:32 GMT\n════════════════════════\n⌗\nTags:\n#basic_sql\n#database_fundamentals\n#cybersecurity\n#sql\n#tryhackme",
+        "date": "2026-07-01T02:04:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124317_0_d7a44bd6.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124317_1_0422f5fb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124317",
+        "link": {
+          "title": "Database SQL Basics: Querying Your First Relational Dataset",
+          "url": "https://medium.com/@jonathan.sanfer/database-sql-basics-querying-your-first-relational-dataset-9dafdf7c5182?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 124316,
+        "text": "⤷\nTitle:\nSQL Injection: Types, Logic, Examples, and Testing Methodology\n════════════════════════\n𐀪\nAuthor:\n4zer7y\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 01:12:47 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#pentesting\n#penetration_testing\n#web_penetration_testing\n#sql_injection",
+        "date": "2026-07-01T02:04:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124316_0_d7a44bd6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124316",
+        "link": {
+          "title": "SQL Injection: Types, Logic, Examples, and Testing Methodology",
+          "url": "https://medium.com/@4zer7y/sql-injection-types-logic-examples-and-testing-methodology-7f2315756c2d?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 124315,
+        "text": "⤷\nTitle:\nGuía de Inyección de Comandos OS: Explotación, Bypass de WAF y PoC\n════════════════════════\n𐀪\nAuthor:\nJPablo13\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 00:01:03 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#hacking\n#penetration_testing\n#technology\n#bug_bounty",
+        "date": "2026-07-01T02:04:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124315_0_d7a44bd6.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124315_1_9f36a4d3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124315",
+        "link": {
+          "title": "Guía de Inyección de Comandos OS: Explotación, Bypass de WAF y PoC",
+          "url": "https://medium.com/@jpablo13/gu%C3%ADa-de-inyecci%C3%B3n-de-comandos-os-explotaci%C3%B3n-bypass-de-waf-y-poc-e579c8eb263f?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 124314,
+        "text": "⤷\nTitle:\nPlone Fixes Critical RCE Flaw and Two Denial-of-Service Bugs\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 00:01:16 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Classic\nportlet\n#CMS\nSecurity\n#CVE_2026_57149\n#Plone\n#Plone\nRCE vulnerability\n#plone\n.app.portlets\n#ssrf\n#TALES\ninjection",
+        "date": "2026-07-01T02:04:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124314_0_d7a44bd6.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124314_1_00b7654a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124314",
+        "link": {
+          "title": "Plone Fixes Critical RCE Flaw and Two Denial-of-Service Bugs",
+          "url": "https://securityonline.info/plone-rce-vulnerability/"
+        }
+      },
+      {
+        "id": 124313,
+        "text": "⤷\nTitle:\nProFTPD ACL Bypass Flaw Exposes Files in Restricted Directories\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 00:30:02 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#access\ncontrol bypass\n#ACL\nBypass\n#CVE_2026_35025\n#FTP\n#ProFTPD\n#Vulnerability",
+        "date": "2026-07-01T02:04:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124313_0_d7a44bd6.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124313_1_d52b7ece.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124313",
+        "link": {
+          "title": "ProFTPD ACL Bypass Flaw Exposes Files in Restricted Directories",
+          "url": "https://securityonline.info/proftpd-acl-bypass/"
+        }
+      },
+      {
+        "id": 124312,
+        "text": "⤷\nTitle:\nFluentd Vulnerabilities Patched in v1.19.3, Including Critical RCE\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 01:11:00 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_44024\n#CVE_2026_44025\n#CVE_2026_44160\n#CVE_2026_44161\n#Fluentd\n#Log\nManagement\n#rce\n#ssrf",
+        "date": "2026-07-01T02:04:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124312_0_d7a44bd6.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124312_1_b3fd2d18.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124312",
+        "link": {
+          "title": "Fluentd Vulnerabilities Patched in v1.19.3, Including Critical RCE",
+          "url": "https://securityonline.info/fluentd-vulnerabilities-v1-19-3/"
+        }
+      },
+      {
+        "id": 124311,
+        "text": "⤷\nTitle:\nTen GeoVision Camera Vulnerabilities Hit GV-LPC License Plate Models\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 01:45:55 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#buffer\noverflow\n#CVE_2026_57878\n#CVE_2026_57879\n#CVE_2026_57880\n#CVE_2026_57881\n#GeoVision\n#GV_LPC2011\n#GV_LPC2211\n#License\nPlate Camera",
+        "date": "2026-07-01T02:04:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124311_0_d7a44bd6.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124311_1_4f715914.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124311",
+        "link": {
+          "title": "Ten GeoVision Camera Vulnerabilities Hit GV-LPC License Plate Models",
+          "url": "https://securityonline.info/geovision-gv-lpc-vulnerabilities/"
+        }
+      },
+      {
+        "id": 124310,
+        "text": "⤷\nTitle:\nWhy Do Hackers and Cybersecurity Professionals Hide Their Identity?\n════════════════════════\n𐀪\nAuthor:\nSAM SALATINI\n════════════════════════\nⴵ\nTime:\nTue, 30 Jun 2026 22:31:53 GMT\n════════════════════════\n⌗\nTags:\n#hacker\n#cybersecurity\n#cyberattack\n#ethical_hacking\n#cyber",
+        "date": "2026-07-01T00:03:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124310_0_d7a44bd6.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124310_1_f2a1b2df.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124310",
+        "link": {
+          "title": "Why Do Hackers and Cybersecurity Professionals Hide Their Identity?",
+          "url": "https://medium.com/@samsalatini/why-do-hackers-and-cybersecurity-professionals-hide-their-identity-9e58b05d5ef9?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 124309,
+        "text": "⤷\nTitle:\nAccount Takeover Attacks: Why Authentication Isn’t the Real Problem\n════════════════════════\n𐀪\nAuthor:\nSentinel Layer\n════════════════════════\nⴵ\nTime:\nTue, 30 Jun 2026 23:31:00 GMT\n════════════════════════\n⌗\nTags:\n#authentication\n#account_takeover\n#application_security\n#cybersecurity\n#fraud_detection",
+        "date": "2026-07-01T00:03:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124309_0_d7a44bd6.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124309_1_e242120e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124309",
+        "link": {
+          "title": "Account Takeover Attacks: Why Authentication Isn’t the Real Problem",
+          "url": "https://medium.com/@layersentinel/account-takeover-attacks-why-authentication-isnt-the-real-problem-d9981d80ecf4?source=rss------application_security-5"
+        }
+      },
+      {
+        "id": 124308,
+        "text": "⤷\nTitle:\nThings Nobody Tells You When You Start Bug Bounty (I Learned the Hard Way)\n════════════════════════\n𐀪\nAuthor:\nRaju Ranjan\n════════════════════════\nⴵ\nTime:\nTue, 30 Jun 2026 23:25:56 GMT\n════════════════════════\n⌗\nTags:\n#hackerone\n#cybersecurity\n#bug_bounty_writeup\n#bug_bounty_tips\n#bug_bounty",
+        "date": "2026-07-01T00:03:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124308_0_d7a44bd6.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124308_1_8caa78a8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124308",
+        "link": {
+          "title": "Things Nobody Tells You When You Start Bug Bounty (I Learned the Hard Way)",
+          "url": "https://medium.com/@rajuaryan033/things-nobody-tells-you-when-you-start-bug-bounty-i-learned-the-hard-way-9c77fc4f1ba6?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 124307,
         "text": "⤷\nTitle:\nThe 90% Discount on Claude Tokens Has a Small Catch: You May Be the Product\n════════════════════════\n𐀪\nAuthor:\nABV — Applied AI Reviews\n════════════════════════\nⴵ\nTime:\nTue, 30 Jun 2026 20:32:35 GMT\n════════════════════════\n⌗\nTags:\n#claude_ai\n#api_security\n#cybersecurity\n#artificial_intelligence\n#data_privacy",
         "date": "2026-06-30T22:04:09+00:00",
@@ -2034,236 +2260,22 @@
           "title": "How an Unchecked Server-Side Parameter Injection Earned a $6,500 High-Severity Payout",
           "url": "https://medium.com/@21bec131/how-an-unchecked-server-side-parameter-injection-earned-a-6-500-high-severity-payout-10abec521232?source=rss------bug_bounty-5"
         }
-      },
-      {
-        "id": 124214,
-        "text": "⤷\nTitle:\nSubdomain Takeover — Claiming Forgotten Assets\n════════════════════════\n𐀪\nAuthor:\nNitin yadav\n════════════════════════\nⴵ\nTime:\nTue, 30 Jun 2026 11:31:00 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#vulnerability\n#subdomain_takeover\n#bug_bounty\n#hackerone",
-        "date": "2026-06-30T12:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124214_0_6ab41060.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124214_1_52f50103.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124214",
-        "link": {
-          "title": "Subdomain Takeover — Claiming Forgotten Assets",
-          "url": "https://kd-200.medium.com/subdomain-takeover-claiming-forgotten-assets-7336e0c2cc8c?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 124213,
-        "text": "⤷\nTitle:\nThousands Affected by NVIDIA 9.8 Auth Bypass\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 30 Jun 2026 10:23:04 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#AIStore\n#Container\nToolkit\n#CVE_2026_24270\n#nvidia\n#Triton\nInference Server",
-        "date": "2026-06-30T12:03:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124213_0_6ab41060.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124213_1_fae226bb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124213",
-        "link": {
-          "title": "Thousands Affected by NVIDIA 9.8 Auth Bypass",
-          "url": "https://securityonline.info/nvidia-security-updates-auth-bypass/"
-        }
-      },
-      {
-        "id": 124212,
-        "text": "⤷\nTitle:\nAirDrop and Quick Share Flaws Let Nearby Attackers Trigger Crashes and Bypass Checks\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nTue, 30 Jun 2026 14:57:58 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-06-30T12:03:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124212_0_6ab41060.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124212",
-        "link": {
-          "title": "AirDrop and Quick Share Flaws Let Nearby Attackers Trigger Crashes and Bypass Checks",
-          "url": "https://thehackernews.com/2026/06/airdrop-and-quick-share-flaws-let.html"
-        }
-      },
-      {
-        "id": 124211,
-        "text": "⤷\nTitle:\nAttackers Exploit SimpleHelp CVE-2026-48558 to Deploy TaskWeaver and Djinn Stealer\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nTue, 30 Jun 2026 16:48:47 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-06-30T12:03:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124211_0_6ab41060.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124211",
-        "link": {
-          "title": "Attackers Exploit SimpleHelp CVE-2026-48558 to Deploy TaskWeaver and Djinn Stealer",
-          "url": "https://thehackernews.com/2026/06/attackers-exploit-simplehelp-cve-2026.html"
-        }
-      },
-      {
-        "id": 124210,
-        "text": "⤷\nTitle:\nHow Spring Data JPA Protects You from SQL Injection Without You Knowing\n════════════════════════\n𐀪\nAuthor:\nNajee Shaheen\n════════════════════════\nⴵ\nTime:\nTue, 30 Jun 2026 09:24:52 GMT\n════════════════════════\n⌗\nTags:\n#spring_boot\n#backend_development\n#sql_injection\n#java\n#cybersecurity",
-        "date": "2026-06-30T10:04:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124210_0_6ab41060.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124210_1_1fd1cb28.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124210",
-        "link": {
-          "title": "How Spring Data JPA Protects You from SQL Injection Without You Knowing",
-          "url": "https://medium.com/@najee.shaheen.98/how-spring-data-jpa-protects-you-from-sql-injection-without-you-knowing-a06903dbe231?source=rss------sql_injection-5"
-        }
-      },
-      {
-        "id": 124209,
-        "text": "⤷\nTitle:\nMastering DOM XSS: Exploiting innerHTML Sink\n════════════════════════\n𐀪\nAuthor:\nAlbert Simanjuntak\n════════════════════════\nⴵ\nTime:\nTue, 30 Jun 2026 08:57:05 GMT\n════════════════════════\n⌗\nTags:\n#xs",
-        "date": "2026-06-30T10:04:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124209_0_6ab41060.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124209",
-        "link": {
-          "title": "Mastering DOM XSS: Exploiting innerHTML Sink",
-          "url": "https://medium.com/@simanjuntakalbert5/mastering-dom-xss-exploiting-innerhtml-sink-bba989588c0f?source=rss------xss-5"
-        }
-      },
-      {
-        "id": 124208,
-        "text": "⤷\nTitle:\nExploiting DOM XSS in jQuery Anchor href Attribute Sink\n════════════════════════\n𐀪\nAuthor:\nAlbert Simanjuntak\n════════════════════════\nⴵ\nTime:\nTue, 30 Jun 2026 09:32:37 GMT\n════════════════════════\n⌗\nTags:\n#xs",
-        "date": "2026-06-30T10:04:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124208_0_6ab41060.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124208",
-        "link": {
-          "title": "Exploiting DOM XSS in jQuery Anchor href Attribute Sink",
-          "url": "https://medium.com/@simanjuntakalbert5/exploiting-dom-xss-in-jquery-anchor-href-attribute-sink-ea3e950f2b3b?source=rss------xss-5"
-        }
-      },
-      {
-        "id": 124207,
-        "text": "⤷\nTitle:\nWindows Jump — TryHackMe Walkthrough\n════════════════════════\n𐀪\nAuthor:\nAg3ntOrang3\n════════════════════════\nⴵ\nTime:\nTue, 30 Jun 2026 08:39:34 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_walkthrough\n#kali_linux\n#ethical_hacking\n#active_directory",
-        "date": "2026-06-30T10:04:46+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124207_0_6ab41060.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124207_1_4605f682.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124207",
-        "link": {
-          "title": "Windows Jump — TryHackMe Walkthrough",
-          "url": "https://medium.com/@ag3ntorang3cyb3r/windows-jump-walkthrough-from-guest-access-to-system-27909ae3af2a?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 124206,
-        "text": "⤷\nTitle:\nNTLM Explained in Plain English\n════════════════════════\n𐀪\nAuthor:\nJijo Shibu\n════════════════════════\nⴵ\nTime:\nTue, 30 Jun 2026 09:01:55 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#networking\n#windows_security\n#ethical_hacking\n#information_security",
-        "date": "2026-06-30T10:04:42+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124206_0_6ab41060.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124206_1_cd6ff1a9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124206",
-        "link": {
-          "title": "NTLM Explained in Plain English",
-          "url": "https://medium.com/@jijoshibuwork/ntlm-explained-in-plain-english-17ef3ee02f66?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 124205,
-        "text": "⤷\nTitle:\nWater Bottle\n════════════════════════\n𐀪\nAuthor:\nPoonam Maharjan\n════════════════════════\nⴵ\nTime:\nTue, 30 Jun 2026 09:48:42 GMT\n════════════════════════\n⌗\nTags:\n#osint_investigation\n#easy\n#tryhackme_walkthrough\n#tryhackme\n#osint",
-        "date": "2026-06-30T10:04:39+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124205_0_6ab41060.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124205_1_6f1a1bf6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124205",
-        "link": {
-          "title": "Water Bottle",
-          "url": "https://medium.com/@tryhacking82/water-bottle-dcf13f98114b?source=rss------tryhackme-5"
-        }
       }
     ]
   },
-  "last_update": "2026-06-30T23:57:22.673649+00:00",
+  "last_update": "2026-07-01T02:12:00.707561+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 187,
-    "total_files": 187,
+    "total_media": 190,
+    "total_files": 190,
     "total_links": 0,
     "files_by_type": {
-      "image": 187
+      "image": 190
     },
-    "referenced_files": 187,
-    "existing_media_files": 187,
-    "total_size_mb": 5.28,
-    "last_calculation": "2026-06-30T23:57:22.675184+00:00"
+    "referenced_files": 190,
+    "existing_media_files": 190,
+    "total_size_mb": 5.5,
+    "last_calculation": "2026-07-01T02:12:00.709746+00:00"
   }
 }
