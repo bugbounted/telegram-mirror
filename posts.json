@@ -2,6 +2,144 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 124643,
+        "text": "⤷\nTitle:\nFail-Open Authentication Bypass to Account Takeover\n════════════════════════\n𐀪\nAuthor:\ndebang5hu\n════════════════════════\nⴵ\nTime:\nSat, 04 Jul 2026 18:22:35 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#account_takeover\n#bug_hunting\n#ethical_hacking\n#api",
+        "date": "2026-07-04T20:04:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124643_0_3f0bbc19.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124643_1_e8f44f40.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124643",
+        "link": {
+          "title": "Fail-Open Authentication Bypass to Account Takeover",
+          "url": "https://medium.com/@debang5hu/fail-open-authentication-bypass-to-account-takeover-3e3861e5ceda?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 124642,
+        "text": "⤷\nTitle:\n{HSM} Exception\n════════════════════════\n𐀪\nAuthor:\nNihat Rashidli\n════════════════════════\nⴵ\nTime:\nSat, 04 Jul 2026 18:58:57 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#cybersecurity",
+        "date": "2026-07-04T20:04:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124642_0_3f0bbc19.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124642_1_c8107a36.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124642",
+        "link": {
+          "title": "{HSM} Exception",
+          "url": "https://medium.com/@bravlsmesnoj/hsm-exception-b473584a7e0b?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 124641,
+        "text": "⤷\nTitle:\nInvestigating a Phishing Email Like a SOC Analyst — Part 1: Email Header Analysis\n════════════════════════\n𐀪\nAuthor:\nNajeebparkar\n════════════════════════\nⴵ\nTime:\nSat, 04 Jul 2026 19:10:42 GMT\n════════════════════════\n⌗\nTags:\n#phishing\n#soc_analyst\n#ethical_hacking\n#cybersecurity\n#pentesting",
+        "date": "2026-07-04T20:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124641_0_3f0bbc19.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124641_1_0fa77050.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124641",
+        "link": {
+          "title": "Investigating a Phishing Email Like a SOC Analyst — Part 1: Email Header Analysis",
+          "url": "https://medium.com/@najeebparkar15/investigating-a-phishing-email-like-a-soc-analyst-part-1-email-header-analysis-ff8476cec840?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 124640,
+        "text": "⤷\nTitle:\nFools Mate-TryHackMe Write-UP\n════════════════════════\n𐀪\nAuthor:\nd4nc00p3r\n════════════════════════\nⴵ\nTime:\nSat, 04 Jul 2026 19:36:30 GMT\n════════════════════════\n⌗\nTags:\n#ctf_writeup\n#ctf\n#tryhackme\n#cybersecurity",
+        "date": "2026-07-04T20:03:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124640_0_3f0bbc19.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124640_1_ad186779.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124640",
+        "link": {
+          "title": "Fools Mate-TryHackMe Write-UP",
+          "url": "https://medium.com/@d4nc00p3r/fools-mate-tryhackme-853e6f700ba5?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 124639,
+        "text": "⤷\nTitle:\nTurn ESP32 to a hacking gadget using esp32 marauder\n════════════════════════\n𐀪\nAuthor:\nDeveloper Hacker\n════════════════════════\nⴵ\nTime:\nSat, 04 Jul 2026 18:17:46 GMT\n════════════════════════\n⌗\nTags:\n#iot\n#hacking\n#esp32\n#gadgets",
+        "date": "2026-07-04T20:03:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124639_0_3f0bbc19.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124639_1_b627788c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124639",
+        "link": {
+          "title": "Turn ESP32 to a hacking gadget using esp32 marauder",
+          "url": "https://sysiq.medium.com/turn-esp32-to-a-hacking-gadget-using-esp32-marauder-bfb0e3c2e26c?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 124638,
+        "text": "⤷\nTitle:\nBreak the Gate, Own the Tunnel: The Brutal SSH Flag Guide Every Hacker Must Master\n════════════════════════\n𐀪\nAuthor:\nDevansh Patel\n════════════════════════\nⴵ\nTime:\nSat, 04 Jul 2026 18:22:00 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#bug_bounty\n#linux\n#linux_tutorial\n#cybersecurity",
+        "date": "2026-07-04T20:03:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124638_0_3f0bbc19.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124638_1_c6bdcfcd.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124638",
+        "link": {
+          "title": "Break the Gate, Own the Tunnel: The Brutal SSH Flag Guide Every Hacker Must Master",
+          "url": "https://v3n0m.medium.com/break-the-gate-own-the-tunnel-the-brutal-ssh-flag-guide-every-hacker-must-master-844b75b2cc5a?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 124637,
         "text": "⤷\nTitle:\nTwitter, X, and the Identity Crisis of Social Networks: An Interdisciplinary Analysis Based on…\n════════════════════════\n𐀪\nAuthor:\nYesoroush\n════════════════════════\nⴵ\nTime:\nSat, 04 Jul 2026 16:09:04 GMT\n════════════════════════\n⌗\nTags:\n#freudian_psychoanalysis\n#twitter\n#social_media\n#xs\n#existential_anxiety",
         "date": "2026-07-04T18:04:08+00:00",
@@ -2122,152 +2260,22 @@
           "title": "Critical Cursor Flaws Could Let Prompt Injection Escape Sandbox and Run Commands",
           "url": "https://thehackernews.com/2026/07/critical-cursor-flaws-could-let-prompt.html"
         }
-      },
-      {
-        "id": 124416,
-        "text": "⤷\nTitle:\nAdobe Patches 7 CVSS 10.0 Flaws in ColdFusion and Campaign Classic\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 20:55:46 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-07-01T16:03:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124416_0_d7a44bd6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124416",
-        "link": {
-          "title": "Adobe Patches 7 CVSS 10.0 Flaws in ColdFusion and Campaign Classic",
-          "url": "https://thehackernews.com/2026/07/adobe-patches-7-cvss-100-flaws-in.html"
-        }
-      },
-      {
-        "id": 124415,
-        "text": "⤷\nTitle:\nOusaban Banking Trojan Targets Iberian Bank Users with Fake PDF Lures\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 20:56:55 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-07-01T16:03:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124415_0_d7a44bd6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124415",
-        "link": {
-          "title": "Ousaban Banking Trojan Targets Iberian Bank Users with Fake PDF Lures",
-          "url": "https://thehackernews.com/2026/07/ousaban-banking-trojan-targets-iberian.html"
-        }
-      },
-      {
-        "id": 124414,
-        "text": "⤷\nTitle:\nCVE-2026–10083: Unauthenticated Stored XSS in APCu Manager via Cache Key Pollution\n════════════════════════\n𐀪\nAuthor:\nCyberPodcast\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 13:01:03 GMT\n════════════════════════\n⌗\nTags:\n#web_security\n#cybersecurity\n#xs\n#wordpress_security\n#cve",
-        "date": "2026-07-01T14:05:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124414_0_d7a44bd6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124414_1_af488779.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124414",
-        "link": {
-          "title": "CVE-2026–10083: Unauthenticated Stored XSS in APCu Manager via Cache Key Pollution",
-          "url": "https://medium.com/@cyberpodcast/cve-2026-10083-unauthenticated-stored-xss-in-apcu-manager-via-cache-key-pollution-a584ce8c2789?source=rss------xss-5"
-        }
-      },
-      {
-        "id": 124413,
-        "text": "⤷\nTitle:\nWhat Is ParrotOS 7.3? Here’s Everything That Actually Matters\n════════════════════════\n𐀪\nAuthor:\nTechrefreshing\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 12:05:23 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#parrotos\n#pentesting\n#cybersecurity\n#linux",
-        "date": "2026-07-01T14:04:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124413_0_d7a44bd6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124413_1_838fdf0e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124413",
-        "link": {
-          "title": "What Is ParrotOS 7.3? Here’s Everything That Actually Matters",
-          "url": "https://medium.com/@techrefreshing02/what-is-parrotos-7-3-heres-everything-that-actually-matters-5780fc491e7f?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 124412,
-        "text": "⤷\nTitle:\nCTF practice for security interviews - Kali Linux in your browser\n════════════════════════\n𐀪\nAuthor:\nAmritasha Agrawal\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 13:16:01 GMT\n════════════════════════\n⌗\nTags:\n#interview\n#linux\n#kali_linux\n#cybersecurity\n#ethical_hacking",
-        "date": "2026-07-01T14:04:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124412_0_d7a44bd6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124412_1_745f17db.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124412",
-        "link": {
-          "title": "CTF practice for security interviews - Kali Linux in your browser",
-          "url": "https://medium.com/@amritasha.ag/ctf-practice-for-security-interviews-kali-linux-in-your-browser-aca990e8913c?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 124395,
-        "text": "⤷\nTitle:\nInside the World of Cybersecurity: More Than Just Coding and Hacking\n════════════════════════\n𐀪\nAuthor:\nQnayds Insights\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 09:58:27 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ethical_hacking\n#cyber_security_awareness\n#information_technology\n#career_development",
-        "date": "2026-07-01T12:05:41+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124395_0_d7a44bd6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124395_1_4609afa7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124395",
-        "link": {
-          "title": "Inside the World of Cybersecurity: More Than Just Coding and Hacking",
-          "url": "https://medium.com/@career.qnayds/inside-the-world-of-cybersecurity-more-than-just-coding-and-hacking-ec977e37bc9b?source=rss------ethical_hacking-5"
-        }
       }
     ]
   },
-  "last_update": "2026-07-04T18:52:40.393488+00:00",
+  "last_update": "2026-07-04T20:04:32.503776+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 188,
-    "total_files": 188,
+    "total_media": 190,
+    "total_files": 190,
     "total_links": 0,
     "files_by_type": {
-      "image": 188
+      "image": 190
     },
-    "referenced_files": 188,
-    "existing_media_files": 188,
-    "total_size_mb": 4.89,
-    "last_calculation": "2026-07-04T18:52:40.395843+00:00"
+    "referenced_files": 190,
+    "existing_media_files": 190,
+    "total_size_mb": 4.85,
+    "last_calculation": "2026-07-04T20:04:32.505982+00:00"
   }
 }
