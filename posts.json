@@ -2,6 +2,374 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 124631,
+        "text": "⤷\nTitle:\nBlind SQL Injection With Conditional Errors Lab\n════════════════════════\n𐀪\nAuthor:\nHafsa\n════════════════════════\nⴵ\nTime:\nSat, 04 Jul 2026 14:03:53 GMT\n════════════════════════\n⌗\nTags:\n#portswigger_academy_labs\n#sql_injection\n#blind_sql_injection\n#portswigger_walkthrough\n#portswigger_lab",
+        "date": "2026-07-04T16:04:47+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124631_0_3f0bbc19.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124631_1_58bcc9cb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124631",
+        "link": {
+          "title": "Blind SQL Injection With Conditional Errors Lab",
+          "url": "https://medium.com/@hafsasaif098/blind-sql-injection-with-conditional-errors-203af72c43d6?source=rss------sql_injection-5"
+        }
+      },
+      {
+        "id": 124630,
+        "text": "⤷\nTitle:\nSistemin Anahtarını Ele Geçirmek: RCE Injection ve Gelişmiş Sömürü Rehberi\n════════════════════════\n𐀪\nAuthor:\nbovsec\n════════════════════════\nⴵ\nTime:\nSat, 04 Jul 2026 15:01:30 GMT\n════════════════════════\n⌗\nTags:\n#rce_vulnerability\n#rce\n#remote_code_execution",
+        "date": "2026-07-04T16:04:44+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124630_0_3f0bbc19.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124630_1_99217799.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124630",
+        "link": {
+          "title": "Sistemin Anahtarını Ele Geçirmek: RCE Injection ve Gelişmiş Sömürü Rehberi",
+          "url": "https://medium.com/@bovsec/sistemin-anahtar%C4%B1n%C4%B1-ele-ge%C3%A7irmek-rce-injection-ve-geli%C5%9Fmi%C5%9F-s%C3%B6m%C3%BCr%C3%BC-rehberi-6fc93febd413?source=rss------rce-5"
+        }
+      },
+      {
+        "id": 124629,
+        "text": "⤷\nTitle:\nAI Developers Are Leaking Their Own API Keys: What a New Security Study Reveals\n════════════════════════\n𐀪\nAuthor:\nCse\n════════════════════════\nⴵ\nTime:\nSat, 04 Jul 2026 14:39:29 GMT\n════════════════════════\n⌗\nTags:\n#artificial_intelligence\n#openai\n#cybersecurity\n#software_development\n#api_security",
+        "date": "2026-07-04T16:04:40+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124629_0_3f0bbc19.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124629_1_a3f1573d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124629",
+        "link": {
+          "title": "AI Developers Are Leaking Their Own API Keys: What a New Security Study Reveals",
+          "url": "https://medium.com/@cse20160007/ai-developers-are-leaking-their-own-api-keys-what-a-new-security-study-reveals-833c61b5e0c6?source=rss------api_security-5"
+        }
+      },
+      {
+        "id": 124628,
+        "text": "⤷\nTitle:\nUnderstanding External Network Penetration Testing:\n════════════════════════\n𐀪\nAuthor:\nAditya Pandey\n════════════════════════\nⴵ\nTime:\nSat, 04 Jul 2026 15:05:30 GMT\n════════════════════════\n⌗\nTags:\n#network_security\n#network_penetration_test\n#cybersecurity\n#ethical_hacking\n#cpent",
+        "date": "2026-07-04T16:04:37+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124628_0_3f0bbc19.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124628_1_c987e374.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124628",
+        "link": {
+          "title": "Understanding External Network Penetration Testing:",
+          "url": "https://medium.com/@_adityapandey08_/understanding-external-network-penetration-testing-d6a94a4693ea?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 124627,
+        "text": "⤷\nTitle:\nUsing the Metasploit Framework\n════════════════════════\n𐀪\nAuthor:\nAbdelhamid Houari\n════════════════════════\nⴵ\nTime:\nSat, 04 Jul 2026 14:03:18 GMT\n════════════════════════\n⌗\nTags:\n#hackthebox\n#hackthebox_writeup\n#metasploit_framework\n#using_the_metasploit\n#metasploit_framework_htb",
+        "date": "2026-07-04T16:04:33+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124627_0_3f0bbc19.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124627_1_c082d02e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124627",
+        "link": {
+          "title": "Using the Metasploit Framework",
+          "url": "https://medium.com/@h.abdelhamid.mefrommi/using-the-metasploit-framework-3f02a42d61f0?source=rss------hackthebox_writeup-5"
+        }
+      },
+      {
+        "id": 124626,
+        "text": "⤷\nTitle:\nHackTheBox Reactor\n════════════════════════\n𐀪\nAuthor:\nRajiv Anand Khanal\n════════════════════════\nⴵ\nTime:\nSat, 04 Jul 2026 15:18:09 GMT\n════════════════════════\n⌗\nTags:\n#hackthebox\n#hackthebox_writeup",
+        "date": "2026-07-04T16:04:30+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124626_0_3f0bbc19.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124626_1_e9fa8692.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124626",
+        "link": {
+          "title": "HackTheBox Reactor",
+          "url": "https://rajivanandkhanal.medium.com/hackthebox-reactor-d1fe636d28ad?source=rss------hackthebox_writeup-5"
+        }
+      },
+      {
+        "id": 124625,
+        "text": "⤷\nTitle:\nNetwork Traffic Basics — TryHackMe Write-Up\n════════════════════════\n𐀪\nAuthor:\nDarshan\n════════════════════════\nⴵ\nTime:\nSat, 04 Jul 2026 14:15:10 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#soc\n#cybersecurity",
+        "date": "2026-07-04T16:04:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124625_0_3f0bbc19.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124625_1_a7d9e2c4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124625",
+        "link": {
+          "title": "Network Traffic Basics — TryHackMe Write-Up",
+          "url": "https://medium.com/@darshan331740_89257/network-traffic-basics-tryhackme-write-up-afa3faa53857?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 124624,
+        "text": "⤷\nTitle:\nWireshark: The Basics — TryHackMe Write-Up\n════════════════════════\n𐀪\nAuthor:\nDarshan\n════════════════════════\nⴵ\nTime:\nSat, 04 Jul 2026 14:21:44 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#tryhackme\n#soc",
+        "date": "2026-07-04T16:04:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124624_0_3f0bbc19.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124624_1_00b1999c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124624",
+        "link": {
+          "title": "Wireshark: The Basics — TryHackMe Write-Up",
+          "url": "https://medium.com/@darshan331740_89257/wireshark-the-basics-tryhackme-write-up-2466e5bcf2f4?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 124623,
+        "text": "⤷\nTitle:\nTryHackMe — SeeTwo- Network & Binary File Analysis\n════════════════════════\n𐀪\nAuthor:\nEfe Özel\n════════════════════════\nⴵ\nTime:\nSat, 04 Jul 2026 15:14:18 GMT\n════════════════════════\n⌗\nTags:\n#incident_response\n#tryhackme\n#threat_hunting\n#blue_team\n#cybersecurity",
+        "date": "2026-07-04T16:04:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124623_0_3f0bbc19.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124623_1_588b2434.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124623",
+        "link": {
+          "title": "TryHackMe — SeeTwo- Network & Binary File Analysis",
+          "url": "https://medium.com/@efeqozel/tryhackme-seetwo-network-binary-file-analysis-9d01a8af9e4b?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 124622,
+        "text": "⤷\nTitle:\nFools Mate Tryhackme Writeups\n════════════════════════\n𐀪\nAuthor:\nL4ZZ3RJ0D\n════════════════════════\nⴵ\nTime:\nSat, 04 Jul 2026 15:51:50 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#tryhackme\n#ctf\n#tryhackme_walkthrough\n#writeup",
+        "date": "2026-07-04T16:04:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124622_0_3f0bbc19.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124622_1_7170035c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124622",
+        "link": {
+          "title": "Fools Mate Tryhackme Writeups",
+          "url": "https://medium.com/@l4zz3rj0d/fools-mate-thm-walkthrough-49368db73128?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 124621,
+        "text": "⤷\nTitle:\nHow to discover infidelity in marriage?\n════════════════════════\n𐀪\nAuthor:\nMichael Parks\n════════════════════════\nⴵ\nTime:\nSat, 04 Jul 2026 15:30:52 GMT\n════════════════════════\n⌗\nTags:\n#infidelity\n#marriage\n#hacking\n#cheating\n#affairs",
+        "date": "2026-07-04T16:04:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124621_0_3f0bbc19.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124621_1_4d348310.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124621",
+        "link": {
+          "title": "How to discover infidelity in marriage?",
+          "url": "https://medium.com/@teddy.nixon/how-to-discover-infidelity-in-marriage-30ab005f4dbb?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 124620,
+        "text": "⤷\nTitle:\nFools Mate (THM) Walkthrough\n════════════════════════\n𐀪\nAuthor:\nL4ZZ3RJ0D\n════════════════════════\nⴵ\nTime:\nSat, 04 Jul 2026 15:51:50 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#tryhackme\n#ctf\n#tryhackme_walkthrough\n#writeup",
+        "date": "2026-07-04T16:04:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124620_0_3f0bbc19.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124620_1_b500df91.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124620",
+        "link": {
+          "title": "Fools Mate (THM) Walkthrough",
+          "url": "https://medium.com/@l4zz3rj0d/fools-mate-thm-walkthrough-49368db73128?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 124619,
+        "text": "⤷\nTitle:\nFool’s Mate: Beating a Chess Engine That Cheats — A TryHackMe Walkthrough\n════════════════════════\n𐀪\nAuthor:\nghosteye\n════════════════════════\nⴵ\nTime:\nSat, 04 Jul 2026 14:10:32 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#bug_bounty\n#tryhackme\n#javascript\n#web_security",
+        "date": "2026-07-04T16:04:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124619_0_3f0bbc19.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124619_1_a7fad7f6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124619",
+        "link": {
+          "title": "Fool’s Mate: Beating a Chess Engine That Cheats — A TryHackMe Walkthrough",
+          "url": "https://medium.com/@proxyy/fools-mate-beating-a-chess-engine-that-cheats-a-tryhackme-walkthrough-64b589412da2?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 124618,
+        "text": "⤷\nTitle:\nXML External Entity (XXE) Injection — Arbitrary Local File Disclosure\n════════════════════════\n𐀪\nAuthor:\nEthical Hacker\n════════════════════════\nⴵ\nTime:\nSat, 04 Jul 2026 14:22:08 GMT\n════════════════════════\n⌗\nTags:\n#application_security\n#security_research\n#bug_bounty\n#web_security\n#ethical_hacking",
+        "date": "2026-07-04T16:04:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124618_0_3f0bbc19.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124618_1_870b6185.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124618",
+        "link": {
+          "title": "XML External Entity (XXE) Injection — Arbitrary Local File Disclosure",
+          "url": "https://medium.com/@tonmoybarmon/xml-external-entity-xxe-injection-arbitrary-local-file-disclosure-64fc5b590254?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 124617,
+        "text": "⤷\nTitle:\nHow I Hunt Zero-Days: The 10-Part System That Replaced Luck\n════════════════════════\n𐀪\nAuthor:\nMuhammad Haider Tallal\n════════════════════════\nⴵ\nTime:\nSat, 04 Jul 2026 14:27:28 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#vulnerability_research\n#infosec\n#zero_day\n#cybersecurity",
+        "date": "2026-07-04T16:04:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124617_0_3f0bbc19.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124617_1_958484d9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124617",
+        "link": {
+          "title": "How I Hunt Zero-Days: The 10-Part System That Replaced Luck",
+          "url": "https://ai.gopubby.com/vulnerability-research-methodology-finding-zero-days-ea2e800dc6b9?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 124616,
+        "text": "⤷\nTitle:\nAccount Deletion — Password Confirmation Bypass — bug bounty\n════════════════════════\n𐀪\nAuthor:\nso vode\n════════════════════════\nⴵ\nTime:\nSat, 04 Jul 2026 15:01:41 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty",
+        "date": "2026-07-04T16:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124616_0_3f0bbc19.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124616_1_3ec54333.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124616",
+        "link": {
+          "title": "Account Deletion — Password Confirmation Bypass — bug bounty",
+          "url": "https://medium.com/@sovode17/account-deletion-password-confirmation-bypass-bug-bounty-ae90450e8804?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 124615,
         "text": "⤷\nTitle:\nCVE-2026–10091: Stored XSS in Email JavaScript Cloak WordPress Plugin\n════════════════════════\n𐀪\nAuthor:\nCyberPodcast\n════════════════════════\nⴵ\nTime:\nSat, 04 Jul 2026 13:01:01 GMT\n════════════════════════\n⌗\nTags:\n#wordpress_security\n#xs\n#wordpress_security_plugin\n#security_plugin\n#cve",
         "date": "2026-07-04T14:04:23+00:00",
@@ -1884,378 +2252,10 @@
           "title": "Web Application Penetration Testing — Hunting Vulnerabilities Where the World Can See Them",
           "url": "https://medium.com/@rrmahathi2711/web-application-penetration-testing-hunting-vulnerabilities-where-the-world-can-see-them-64902684dbb5?source=rss------penetration_testing-5"
         }
-      },
-      {
-        "id": 124388,
-        "text": "⤷\nTitle:\nBeyond Canarytokens: Building a DIY Document Tripwire with Passive OS Fingerprinting\n════════════════════════\n𐀪\nAuthor:\nAnezaneo\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 10:14:33 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#redteam_tool\n#pentesting\n#threat_intelligence\n#infosec",
-        "date": "2026-07-01T12:05:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124388_0_d7a44bd6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124388_1_63f875e8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124388",
-        "link": {
-          "title": "Beyond Canarytokens: Building a DIY Document Tripwire with Passive OS Fingerprinting",
-          "url": "https://infosecwriteups.com/beyond-canarytokens-building-a-diy-document-tripwire-with-passive-os-fingerprinting-c39716d386f6?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 124387,
-        "text": "⤷\nTitle:\nSOC Team Internals — part 1\n════════════════════════\n𐀪\nAuthor:\nExploitHunter\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 10:37:43 GMT\n════════════════════════\n⌗\nTags:\n#cyber_security_awareness\n#ethical_hacking\n#cybersecurity\n#web_development\n#infosec",
-        "date": "2026-07-01T12:05:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124387_0_d7a44bd6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124387_1_37544509.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124387",
-        "link": {
-          "title": "SOC Team Internals — part 1",
-          "url": "https://medium.com/@vorasmit22/soc-team-internals-part-1-194e53e61b9b?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 124386,
-        "text": "⤷\nTitle:\nWeb Hacking — part 5\n════════════════════════\n𐀪\nAuthor:\nExploitHunter\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 10:38:26 GMT\n════════════════════════\n⌗\nTags:\n#cyber_security_awareness\n#web_development\n#infosec\n#ethical_hacking\n#cybersecurity",
-        "date": "2026-07-01T12:05:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124386_0_d7a44bd6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124386_1_6f52ff0d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124386",
-        "link": {
-          "title": "Web Hacking — part 5",
-          "url": "https://medium.com/@vorasmit22/web-hacking-part-5-32616fdd0a81?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 124385,
-        "text": "⤷\nTitle:\nThe Risk Was Visible Every Day. Nobody Recognized It.\n════════════════════════\n𐀪\nAuthor:\nFaruk Ahmed\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 11:31:01 GMT\n════════════════════════\n⌗\nTags:\n#system_administration\n#infosec\n#linux\n#cybersecurity\n#technology",
-        "date": "2026-07-01T12:05:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124385_0_d7a44bd6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124385_1_a780e9bb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124385",
-        "link": {
-          "title": "The Risk Was Visible Every Day. Nobody Recognized It.",
-          "url": "https://medium.com/nextgenthreat/the-risk-was-visible-every-day-nobody-recognized-it-67b3737047c9?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 124384,
-        "text": "⤷\nTitle:\n7 Years in Cyber: Why Your Entire Security Setup Fails if Your Email Falls\n════════════════════════\n𐀪\nAuthor:\nMohit\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 11:43:51 GMT\n════════════════════════\n⌗\nTags:\n#technology\n#infosec\n#cybersecurity\n#psychology\n#software_engineering",
-        "date": "2026-07-01T12:05:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124384_0_d7a44bd6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124384_1_37fbf305.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124384",
-        "link": {
-          "title": "7 Years in Cyber: Why Your Entire Security Setup Fails if Your Email Falls",
-          "url": "https://medium.com/@mohiitlamba/7-years-in-cyber-why-your-entire-security-setup-fails-if-your-email-falls-cba429dca963?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 124383,
-        "text": "⤷\nTitle:\nHackTheBox — Cap: I Changed a 1 to a 0 and Got Root\n════════════════════════\n𐀪\nAuthor:\nYooZy\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 10:11:42 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#infosec\n#hacking\n#hackthebox\n#cybersecurity",
-        "date": "2026-07-01T12:05:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124383_0_d7a44bd6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124383_1_d9d3fbbf.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124383",
-        "link": {
-          "title": "HackTheBox — Cap: I Changed a 1 to a 0 and Got Root",
-          "url": "https://infosecwriteups.com/hackthebox-cap-i-changed-a-1-to-a-0-and-got-root-b20aa0fb544f?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 124382,
-        "text": "⤷\nTitle:\nCryptanalysis: Recovering an Affine Encryption Scheme Using GF(2) Linear Algebra\n════════════════════════\n𐀪\nAuthor:\nMuhammad Ashraf Ali\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 10:14:26 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#reverse_engineering\n#cryptography\n#cryptanalysis\n#encryption",
-        "date": "2026-07-01T12:04:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124382_0_d7a44bd6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124382_1_a0881209.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124382",
-        "link": {
-          "title": "Cryptanalysis: Recovering an Affine Encryption Scheme Using GF(2) Linear Algebra",
-          "url": "https://infosecwriteups.com/cryptanalysis-recovering-an-affine-encryption-scheme-using-gf-2-linear-algebra-ef21a98880b6?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 124381,
-        "text": "⤷\nTitle:\nThe Deobfuscation Tax Just Went to Zero: Rebuilding Anti-Bot Defenses for the LLM Era\n════════════════════════\n𐀪\nAuthor:\nDimitri DO BAIRRO\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 10:29:51 GMT\n════════════════════════\n⌗\nTags:\n#osint\n#artificial_intelligence\n#security\n#hacking\n#web_scraping",
-        "date": "2026-07-01T12:04:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124381_0_d7a44bd6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124381_1_db4af4e6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124381",
-        "link": {
-          "title": "The Deobfuscation Tax Just Went to Zero: Rebuilding Anti-Bot Defenses for the LLM Era",
-          "url": "https://medium.com/@dobairro.dimitri/the-deobfuscation-tax-just-went-to-zero-rebuilding-anti-bot-defenses-for-the-llm-era-66b90e32ca35?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 124380,
-        "text": "⤷\nTitle:\nEthical Hacking Course\n════════════════════════\n𐀪\nAuthor:\nEthicalHackingacademy\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 11:08:19 GMT\n════════════════════════\n⌗\nTags:\n#technology\n#cyber_security_awareness\n#ethical_hacking\n#cybersecurity\n#hacking",
-        "date": "2026-07-01T12:04:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124380_0_d7a44bd6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124380_1_2fd0b001.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124380",
-        "link": {
-          "title": "Ethical Hacking Course",
-          "url": "https://medium.com/@ethicalhackingacademy.official/ethical-hacking-course-faad292e471f?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 124379,
-        "text": "⤷\nTitle:\nThe Day Quantum Computers Break the Internet\n════════════════════════\n𐀪\nAuthor:\nPrayers Khristi\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 11:18:02 GMT\n════════════════════════\n⌗\nTags:\n#information_security\n#security\n#cyber_security_awareness\n#hacking\n#quantum_computing",
-        "date": "2026-07-01T12:04:47+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124379_0_d7a44bd6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124379_1_fc81dba1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124379",
-        "link": {
-          "title": "The Day Quantum Computers Break the Internet",
-          "url": "https://systemweakness.com/the-day-quantum-computers-break-the-internet-bfa5ae0d51cf?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 124378,
-        "text": "⤷\nTitle:\nTraceForge: A Browser-First Mobile Pentesting Lab for Static, Dynamic, and AI-Assisted Security…\n════════════════════════\n𐀪\nAuthor:\nAnkits_pandey07\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 10:13:05 GMT\n════════════════════════\n⌗\nTags:\n#android_pentesting\n#ios_security\n#mobile_security\n#frida\n#bug_bounty",
-        "date": "2026-07-01T12:04:43+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124378_0_d7a44bd6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124378_1_8d6c5acb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124378",
-        "link": {
-          "title": "TraceForge: A Browser-First Mobile Pentesting Lab for Static, Dynamic, and AI-Assisted Security…",
-          "url": "https://infosecwriteups.com/traceforge-a-browser-first-mobile-pentesting-lab-for-static-dynamic-and-ai-assisted-security-fe3309c96a21?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 124377,
-        "text": "⤷\nTitle:\nAuth Bypass is it?\n════════════════════════\n𐀪\nAuthor:\nDevansh Patel\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 10:16:28 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#bugbounty_writeup\n#bug_bounty_hunter\n#bug_bounty_writeup\n#bug_bounty_tips",
-        "date": "2026-07-01T12:04:40+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124377_0_d7a44bd6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124377_1_1bb1de68.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124377",
-        "link": {
-          "title": "Auth Bypass is it?",
-          "url": "https://infosecwriteups.com/auth-bypass-is-it-bb19f10cbbba?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 124376,
-        "text": "⤷\nTitle:\nIs the Android Lock Screen an Illusion? A Critical Logical Bypass Discovered in the Gemini App\n════════════════════════\n𐀪\nAuthor:\nMustafa Salih Berk\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 10:17:03 GMT\n════════════════════════\n⌗\nTags:\n#security\n#bug_bounty\n#cybersecurity\n#bugbounty_writeup\n#vulnerability",
-        "date": "2026-07-01T12:04:37+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124376_0_d7a44bd6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124376_1_6a4292d9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124376",
-        "link": {
-          "title": "Is the Android Lock Screen an Illusion? A Critical Logical Bypass Discovered in the Gemini App",
-          "url": "https://infosecwriteups.com/gemini-app-logical-lockscreen-bypass-9e7da290ea06?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 124361,
-        "text": "⤷\nTitle:\nShadow APIs: The Attack Surface Nobody Knows Exists\n════════════════════════\n𐀪\nAuthor:\nCybersphere Official\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 10:00:22 GMT\n════════════════════════\n⌗\nTags:\n#api_security\n#application_security\n#cybersecurity\n#cloud_security\n#infosec",
-        "date": "2026-07-01T10:04:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124361_0_d7a44bd6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124361_1_59a87bc5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124361",
-        "link": {
-          "title": "Shadow APIs: The Attack Surface Nobody Knows Exists",
-          "url": "https://medium.com/@cybersphere.official/shadow-apis-the-attack-surface-nobody-knows-exists-84747209878e?source=rss------api_security-5"
-        }
-      },
-      {
-        "id": 124360,
-        "text": "⤷\nTitle:\nVectara (THM) Walkthrough\n════════════════════════\n𐀪\nAuthor:\nL4ZZ3RJ0D\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 07:58:08 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#cybersecurity\n#ctf\n#writeup\n#happy_hacking",
-        "date": "2026-07-01T10:04:46+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124360_0_d7a44bd6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124360_1_8184aee4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124360",
-        "link": {
-          "title": "Vectara (THM) Walkthrough",
-          "url": "https://medium.com/@l4zz3rj0d/vectara-thm-walkthrough-68e90f79b971?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 124359,
-        "text": "⤷\nTitle:\nSenior Security Analyst Intro | TryHackMe\n════════════════════════\n𐀪\nAuthor:\nRyca\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 07:59:30 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#tryhackme\n#soc_team\n#blue_team",
-        "date": "2026-07-01T10:04:42+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124359_0_d7a44bd6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124359_1_5158e251.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124359",
-        "link": {
-          "title": "Senior Security Analyst Intro | TryHackMe",
-          "url": "https://medium.com/@elaris/senior-security-analyst-intro-tryhackme-49ff56f04124?source=rss------tryhackme-5"
-        }
       }
     ]
   },
-  "last_update": "2026-07-04T15:39:22.524656+00:00",
+  "last_update": "2026-07-04T16:50:42.690963+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2267,7 +2267,7 @@
     },
     "referenced_files": 188,
     "existing_media_files": 188,
-    "total_size_mb": 5.2,
-    "last_calculation": "2026-07-04T15:39:22.526879+00:00"
+    "total_size_mb": 4.87,
+    "last_calculation": "2026-07-04T16:50:42.693253+00:00"
   }
 }
