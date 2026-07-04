@@ -2,6 +2,462 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 124604,
+        "text": "⤷\nTitle:\nSubscription Enforcement Bypass Leading to Unauthorized Full Application Access\n════════════════════════\n𐀪\nAuthor:\n0xMo7areb\n════════════════════════\nⴵ\nTime:\nThu, 02 Jul 2026 13:56:00 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_tips\n#cybersecurity\n#innovation\n#bug_bounty\n#technology",
+        "date": "2026-07-04T12:12:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124604_0_5af01a9b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124604_1_26cc3c84.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124604",
+        "link": {
+          "title": "Subscription Enforcement Bypass Leading to Unauthorized Full Application Access",
+          "url": "https://medium.com/@0xMo7areb/subscription-enforcement-bypass-leading-to-unauthorized-full-application-access-fb897afde3f6?source=rss------bug_bounty_tips-5"
+        }
+      },
+      {
+        "id": 124603,
+        "text": "⤷\nTitle:\nIs the Android Lock Screen an Illusion? How I Bypassed It via the Gemini App\n════════════════════════\n𐀪\nAuthor:\nMustafa Salih Berk\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 10:17:03 GMT\n════════════════════════\n⌗\nTags:\n#security\n#bug_bounty\n#cybersecurity\n#bugbounty_writeup\n#vulnerability",
+        "date": "2026-07-04T12:12:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124603_0_5af01a9b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124603_1_ebd9cdba.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124603",
+        "link": {
+          "title": "Is the Android Lock Screen an Illusion? How I Bypassed It via the Gemini App",
+          "url": "https://infosecwriteups.com/gemini-app-logical-lockscreen-bypass-9e7da290ea06?source=rss------bugbounty_writeup-5"
+        }
+      },
+      {
+        "id": 124602,
+        "text": "⤷\nTitle:\nMethodology over Automation: Deconstructing E-commerce Checkout Logic\n════════════════════════\n𐀪\nAuthor:\nSahil\n════════════════════════\nⴵ\nTime:\nThu, 02 Jul 2026 14:00:04 GMT\n════════════════════════\n⌗\nTags:\n#pentesting\n#bugbounty_writeup\n#cybersecurity\n#hackerone\n#vulnerability",
+        "date": "2026-07-04T12:12:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124602_0_5af01a9b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124602",
+        "link": {
+          "title": "Methodology over Automation: Deconstructing E-commerce Checkout Logic",
+          "url": "https://medium.com/@extraterrestrial2342/methodology-over-automation-deconstructing-e-commerce-checkout-logic-449ae6e1d024?source=rss------bugbounty_writeup-5"
+        }
+      },
+      {
+        "id": 124601,
+        "text": "⤷\nTitle:\n2FA Bypass via Switching Between Email OTP and TOTP During Authentication\n════════════════════════\n𐀪\nAuthor:\nMahmoud Magdy\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 20:29:33 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_tips\n#bug_bounty_writeup\n#otp_bypass\n#2fa_bypass\n#2fa_authentication",
+        "date": "2026-07-04T12:11:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124601_0_5af01a9b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124601_1_25c0396e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124601",
+        "link": {
+          "title": "2FA Bypass via Switching Between Email OTP and TOTP During Authentication",
+          "url": "https://medium.com/@mahmoudmagdy45456/2fa-bypass-via-switching-between-email-otp-and-totp-during-authentication-1e6bfaddbadb?source=rss------bug_bounty_writeup-5"
+        }
+      },
+      {
+        "id": 124600,
+        "text": "⤷\nTitle:\nHow an Insecure Deserialization Flaw in a Cache Layer Triggered an $4,500 Remote Code Execution…\n════════════════════════\n𐀪\nAuthor:\nTanvi Chauhan\n════════════════════════\nⴵ\nTime:\nThu, 02 Jul 2026 11:21:00 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#bug_bounty_writeup\n#bug_bounty\n#security\n#pentesting",
+        "date": "2026-07-04T12:11:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124600_0_5af01a9b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124600_1_81494c62.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124600",
+        "link": {
+          "title": "How an Insecure Deserialization Flaw in a Cache Layer Triggered an $4,500 Remote Code Execution…",
+          "url": "https://medium.com/@21bec131/how-an-insecure-deserialization-flaw-in-a-cache-layer-triggered-an-4-500-remote-code-execution-3e9dc90dabb0?source=rss------bug_bounty_writeup-5"
+        }
+      },
+      {
+        "id": 124599,
+        "text": "⤷\nTitle:\nWith Great Access Comes Great Responsibility\n════════════════════════\n𐀪\nAuthor:\nHas\n════════════════════════\nⴵ\nTime:\nFri, 03 Jul 2026 02:28:16 GMT\n════════════════════════\n⌗\nTags:\n#aws_s3\n#security\n#bug_bounty_writeup",
+        "date": "2026-07-04T12:11:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124599_0_5af01a9b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124599_1_b02863be.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124599",
+        "link": {
+          "title": "With Great Access Comes Great Responsibility",
+          "url": "https://hasisyed.medium.com/with-great-access-comes-great-responsibility-3f0a7a093c47?source=rss------bug_bounty_writeup-5"
+        }
+      },
+      {
+        "id": 124598,
+        "text": "⤷\nTitle:\nHACKING JULY DAY 1: JUICE-SHOP INJECTION\n════════════════════════\n𐀪\nAuthor:\nGiven Quincy\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 14:55:29 GMT\n════════════════════════\n⌗\nTags:\n#owasp_web_top_10\n#cybersecurity\n#sql_injection\n#owasp_juice_shop\n#owasp_top_10",
+        "date": "2026-07-04T12:11:47+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124598_0_5af01a9b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124598_1_9a4176c6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124598",
+        "link": {
+          "title": "HACKING JULY DAY 1: JUICE-SHOP INJECTION",
+          "url": "https://medium.com/@GivenQuincy/hacking-july-day-1-juice-sh-op-injection-2a9a9d5ee805?source=rss------sql_injection-5"
+        }
+      },
+      {
+        "id": 124597,
+        "text": "⤷\nTitle:\nHACKING JULY DAY 2: JUICE-SHOP INJECTION(Part II)\n════════════════════════\n𐀪\nAuthor:\nGiven Quincy\n════════════════════════\nⴵ\nTime:\nThu, 02 Jul 2026 14:56:10 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#owasp_juice_shop\n#sql_injection\n#owasp_top_10\n#medium",
+        "date": "2026-07-04T12:11:43+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124597_0_5af01a9b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124597_1_8ea98ea3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124597",
+        "link": {
+          "title": "HACKING JULY DAY 2: JUICE-SHOP INJECTION(Part II)",
+          "url": "https://medium.com/@GivenQuincy/hacking-july-day-2-juice-shop-injection-part-ii-aa32abc7912a?source=rss------sql_injection-5"
+        }
+      },
+      {
+        "id": 124596,
+        "text": "⤷\nTitle:\nSecure by Design: Implementing Advanced Security in Laravel\n════════════════════════\n𐀪\nAuthor:\nHector Canovas\n════════════════════════\nⴵ\nTime:\nFri, 03 Jul 2026 06:29:38 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#sql_injection\n#php\n#software_architecture\n#laravel",
+        "date": "2026-07-04T12:11:40+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124596_0_5af01a9b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124596_1_ab7b3efc.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124596",
+        "link": {
+          "title": "Secure by Design: Implementing Advanced Security in Laravel",
+          "url": "https://hcanovas.medium.com/secure-by-design-implementing-advanced-security-in-laravel-020b610c6238?source=rss------sql_injection-5"
+        }
+      },
+      {
+        "id": 124595,
+        "text": "⤷\nTitle:\nBeyond SQL Queries: Turning an E-commerce Database into Business Intelligence\n════════════════════════\n𐀪\nAuthor:\nDeep\n════════════════════════\nⴵ\nTime:\nFri, 03 Jul 2026 11:02:44 GMT\n════════════════════════\n⌗\nTags:\n#imarticus_learning\n#sql_injection\n#software_development\n#sql\n#artificial_intelligence",
+        "date": "2026-07-04T12:11:37+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124595_0_5af01a9b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124595_1_b721c947.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124595",
+        "link": {
+          "title": "Beyond SQL Queries: Turning an E-commerce Database into Business Intelligence",
+          "url": "https://medium.com/@deep04011996/beyond-sql-queries-turning-an-e-commerce-database-into-business-intelligence-705363259ffe?source=rss------sql_injection-5"
+        }
+      },
+      {
+        "id": 124594,
+        "text": "⤷\nTitle:\nSQL Injection Test\n════════════════════════\n𐀪\nAuthor:\nDeepForce\n════════════════════════\nⴵ\nTime:\nFri, 03 Jul 2026 20:00:51 GMT\n════════════════════════\n⌗\nTags:\n#writeup\n#learning\n#hacking\n#sql_injection\n#ctf_writeup",
+        "date": "2026-07-04T12:11:33+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124594_0_5af01a9b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124594_1_a2e24d5d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124594",
+        "link": {
+          "title": "SQL Injection Test",
+          "url": "https://medium.com/@sithum567890/sql-injection-test-a9616a001615?source=rss------sql_injection-5"
+        }
+      },
+      {
+        "id": 124593,
+        "text": "⤷\nTitle:\nSQL INJECTION : Part 3.3 — Blind SQL injection vulnerabilities\n════════════════════════\n𐀪\nAuthor:\nRoni Alfredo Simamora\n════════════════════════\nⴵ\nTime:\nFri, 03 Jul 2026 20:32:00 GMT\n════════════════════════\n⌗\nTags:\n#error_based_sql_injection\n#sql_injection\n#portswigger\n#payload\n#blind_sql_injection",
+        "date": "2026-07-04T12:11:30+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124593_0_5af01a9b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124593_1_246b0474.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124593",
+        "link": {
+          "title": "SQL INJECTION : Part 3.3 — Blind SQL injection vulnerabilities",
+          "url": "https://medium.com/@ronialfredo05/sql-injection-part-3-3-blind-sql-injection-vulnerabilities-d2188b9bcf86?source=rss------sql_injection-5"
+        }
+      },
+      {
+        "id": 124592,
+        "text": "⤷\nTitle:\nHACKING JULY DAY 4: JUICE-SHOP INJECTION(Part IV)\n════════════════════════\n𐀪\nAuthor:\nGiven Quincy\n════════════════════════\nⴵ\nTime:\nSat, 04 Jul 2026 09:27:21 GMT\n════════════════════════\n⌗\nTags:\n#sqlite\n#database\n#sql_injection\n#owasp_juice_shop\n#owasp",
+        "date": "2026-07-04T12:11:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124592_0_5af01a9b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124592_1_5c2cc6ed.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124592",
+        "link": {
+          "title": "HACKING JULY DAY 4: JUICE-SHOP INJECTION(Part IV)",
+          "url": "https://medium.com/@GivenQuincy/hacking-july-day-4-juice-shop-injection-part-iv-1bc970dc0b60?source=rss------sql_injection-5"
+        }
+      },
+      {
+        "id": 124591,
+        "text": "⤷\nTitle:\nCambodia Cyber Arena 2026: Web — My Assistant — Writeup\n════════════════════════\n𐀪\nAuthor:\nJamal\n════════════════════════\nⴵ\nTime:\nThu, 02 Jul 2026 03:47:13 GMT\n════════════════════════\n⌗\nTags:\n#openai_api\n#rce\n#ssti\n#cncc_2026\n#ctf_writeup",
+        "date": "2026-07-04T12:11:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124591_0_5af01a9b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124591_1_c1cfea93.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124591",
+        "link": {
+          "title": "Cambodia Cyber Arena 2026: Web — My Assistant — Writeup",
+          "url": "https://medium.com/@0xjamal/cambodia-cyber-arena-2026-web-my-assistant-writeup-6fbf86759c67?source=rss------rce-5"
+        }
+      },
+      {
+        "id": 124590,
+        "text": "⤷\nTitle:\nBilling — TryHackMe\n════════════════════════\n𐀪\nAuthor:\nSubrat Keshari Sahu\n════════════════════════\nⴵ\nTime:\nThu, 02 Jul 2026 15:26:09 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#rce\n#tryhackme_walkthrough\n#cybersecurity\n#billing_room",
+        "date": "2026-07-04T12:11:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124590_0_5af01a9b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124590_1_0f809431.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124590",
+        "link": {
+          "title": "Billing — TryHackMe",
+          "url": "https://medium.com/@sahusk112/billing-tryhackme-f502f5871dd7?source=rss------rce-5"
+        }
+      },
+      {
+        "id": 124589,
+        "text": "⤷\nTitle:\nCVE_2026_44963 Veeam RCE\n════════════════════════\n𐀪\nAuthor:\nsuce\n════════════════════════\nⴵ\nTime:\nFri, 03 Jul 2026 19:09:36 GMT\n════════════════════════\n⌗\nTags:\n#rce\n#veeam\n#deserialization\n#cve\n#dotnet",
+        "date": "2026-07-04T12:11:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124589_0_5af01a9b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124589_1_c76154be.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124589",
+        "link": {
+          "title": "CVE_2026_44963 Veeam RCE",
+          "url": "https://medium.com/@suce0155/cve-2026-44963-veeam-rce-2df483f88e8b?source=rss------rce-5"
+        }
+      },
+      {
+        "id": 124588,
+        "text": "⤷\nTitle:\nUnauthenticated RCE in CKFinder via Null Byte Injection Vulnerability\n════════════════════════\n𐀪\nAuthor:\nAli İltizar\n════════════════════════\nⴵ\nTime:\nFri, 03 Jul 2026 21:44:30 GMT\n════════════════════════\n⌗\nTags:\n#file_upload_bypass\n#rce\n#misconfiguration",
+        "date": "2026-07-04T12:11:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124588_0_5af01a9b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124588_1_660e0798.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124588",
+        "link": {
+          "title": "Unauthenticated RCE in CKFinder via Null Byte Injection Vulnerability",
+          "url": "https://medium.com/@alii76tt/unauthenticated-rce-in-ckfinder-via-null-byte-injection-vulnerability-3e82c0535f05?source=rss------rce-5"
+        }
+      },
+      {
+        "id": 124587,
+        "text": "⤷\nTitle:\nThe Methodology Behind CVE-2026–11395: An Unauthenticated SSRF Hiding in Plain Sight\n════════════════════════\n𐀪\nAuthor:\nLucius-logs\n════════════════════════\nⴵ\nTime:\nFri, 03 Jul 2026 16:35:21 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#bug_bounty\n#vulnerability_research\n#ssrf\n#wordpress_plugins",
+        "date": "2026-07-04T12:11:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124587_0_5af01a9b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124587_1_fb8dce60.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124587",
+        "link": {
+          "title": "The Methodology Behind CVE-2026–11395: An Unauthenticated SSRF Hiding in Plain Sight",
+          "url": "https://medium.com/@luciuslogic/the-methodology-behind-cve-2026-11395-an-unauthenticated-ssrf-hiding-in-plain-sight-c89950051180?source=rss------ssrf-5"
+        }
+      },
+      {
+        "id": 124586,
+        "text": "⤷\nTitle:\nThe Loot Everyone Walks Past: Stored Routine Bodies\n════════════════════════\n𐀪\nAuthor:\nIsuka sanuj\n════════════════════════\nⴵ\nTime:\nFri, 03 Jul 2026 09:19:17 GMT\n════════════════════════\n⌗\nTags:\n#web_exploitation\n#sql_injection\n#web_security\n#sqli",
+        "date": "2026-07-04T12:11:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124586_0_5af01a9b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124586_1_5ed7a58e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124586",
+        "link": {
+          "title": "The Loot Everyone Walks Past: Stored Routine Bodies",
+          "url": "https://medium.com/@isuk4/the-loot-everyone-walks-past-stored-routine-bodies-a1afbb66a4d3?source=rss------sqli-5"
+        }
+      },
+      {
+        "id": 124585,
+        "text": "⤷\nTitle:\n2.1 Count minimal number of jumps from position X to Y in C.\n════════════════════════\n𐀪\nAuthor:\nF. Chrysanthus\n════════════════════════\nⴵ\nTime:\nThu, 02 Jul 2026 11:09:41 GMT\n════════════════════════\n⌗\nTags:\n#algorithms\n#frog\n#long_jump_runway\n#y\n#xs",
+        "date": "2026-07-04T12:11:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124585_0_5af01a9b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124585_1_8be57733.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124585",
+        "link": {
+          "title": "2.1 Count minimal number of jumps from position X to Y in C.",
+          "url": "https://medium.com/@forchatrans/2-1-count-minimal-number-of-jumps-from-position-x-to-y-in-c-95cd60fe635c?source=rss------xss-5"
+        }
+      },
+      {
         "id": 124457,
         "text": "⤷\nTitle:\nLinux Commands in CTF Format: Beating the ER Segment 10-Level Beginner Lab\n════════════════════════\n𐀪\nAuthor:\nPranayXdefSec\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 18:20:46 GMT\n════════════════════════\n⌗\nTags:\n#ctf_walkthrough\n#cybersecurity\n#ethical_hacking\n#kali_linux\n#linux_commands",
         "date": "2026-07-01T20:04:46+00:00",
@@ -1792,458 +2248,22 @@
           "title": "Anthropic Unveils Claude Sonnet 5 for Efficient Agentic AI",
           "url": "https://securityonline.info/claude-sonnet-5-release-agentic-ai/"
         }
-      },
-      {
-        "id": 124347,
-        "text": "⤷\nTitle:\nClaude Code Telemetry Rollback: Anthropic Responds to Backdoor Allegations\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 08:48:15 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#Anthropic\n#Claude\nCode\n#cybersecurity\n#Data\nPrivacy\n#Telemetry",
-        "date": "2026-07-01T10:04:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124347_0_d7a44bd6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124347_1_fb9c026c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124347",
-        "link": {
-          "title": "Claude Code Telemetry Rollback: Anthropic Responds to Backdoor Allegations",
-          "url": "https://securityonline.info/claude-code-telemetry-rollback/"
-        }
-      },
-      {
-        "id": 124346,
-        "text": "⤷\nTitle:\nUNC1151 Phishing Campaign Targets Belarus and Ukraine\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 09:18:27 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#Belarus\n#censys\n#Ghostwriter\n#phishing\n#Ukraine\n#UNC1151",
-        "date": "2026-07-01T10:03:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124346_0_d7a44bd6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124346_1_02cc3231.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124346",
-        "link": {
-          "title": "UNC1151 Phishing Campaign Targets Belarus and Ukraine",
-          "url": "https://securityonline.info/unc1151-phishing-campaign/"
-        }
-      },
-      {
-        "id": 124345,
-        "text": "⤷\nTitle:\nAnthropic Overcomes Export Restrictions: Mythos and Fable Models Restored\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 09:48:39 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#Anthropic\n#artificial\nintelligence\n#national\nsecurity\n#Tech\nNews",
-        "date": "2026-07-01T10:03:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124345_0_d7a44bd6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124345_1_f356683c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124345",
-        "link": {
-          "title": "Anthropic Overcomes Export Restrictions: Mythos and Fable Models Restored",
-          "url": "https://securityonline.info/anthropic-ai-export-ban-lifted/"
-        }
-      },
-      {
-        "id": 124344,
-        "text": "⤷\nTitle:\nPhantom Squatting Uses AI-Hallucinated Domains for Phishing and Malware\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 12:50:51 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-07-01T10:03:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124344_0_d7a44bd6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124344",
-        "link": {
-          "title": "Phantom Squatting Uses AI-Hallucinated Domains for Phishing and Malware",
-          "url": "https://thehackernews.com/2026/07/phantom-squatting-uses-ai-hallucinated.html"
-        }
-      },
-      {
-        "id": 124343,
-        "text": "⤷\nTitle:\nWhy I Stopped Trusting the Padlock Icon\n════════════════════════\n𐀪\nAuthor:\nZ3r0D4y\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 06:07:13 GMT\n════════════════════════\n⌗\nTags:\n#web_security\n#penetration_testing\n#cybersecurity\n#information_security\n#ethical_hacking",
-        "date": "2026-07-01T08:04:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124343_0_d7a44bd6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124343_1_ae168f79.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124343",
-        "link": {
-          "title": "Why I Stopped Trusting the Padlock Icon",
-          "url": "https://medium.com/@pritamtare029/why-i-stopped-trusting-the-padlock-icon-036d2da06b99?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 124342,
-        "text": "⤷\nTitle:\neCPPTv3 Review\n════════════════════════\n𐀪\nAuthor:\nSaid-Abbosxon Nabijonov | 0trc\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 06:50:15 GMT\n════════════════════════\n⌗\nTags:\n#ecppt\n#ethical_hacking\n#cybersecurity\n#penetration_testing\n#infosec",
-        "date": "2026-07-01T08:03:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124342_0_d7a44bd6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124342_1_164fe78c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124342",
-        "link": {
-          "title": "eCPPTv3 Review",
-          "url": "https://0trccccc.medium.com/ecpptv3-review-522cf02bf996?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 124338,
-        "text": "⤷\nTitle:\nSecurity Principles — TryHackMe Answers | by Deepti Gupta\n════════════════════════\n𐀪\nAuthor:\nDeepti Gupta\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 04:42:13 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#cia_triad\n#tryhackme_writeup\n#security_principles\n#tryhackme_walkthrough",
-        "date": "2026-07-01T06:04:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124338_0_d7a44bd6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124338",
-        "link": {
-          "title": "Security Principles — TryHackMe Answers | by Deepti Gupta",
-          "url": "https://medium.com/@deeptisg0/security-principles-tryhackme-answers-by-deepti-gupta-a998e0cabace?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 124337,
-        "text": "⤷\nTitle:\nAI Threat Modeling\n════════════════════════\n𐀪\nAuthor:\nPoonam Maharjan\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 04:52:21 GMT\n════════════════════════\n⌗\nTags:\n#ai_threat_modeling\n#ai_learning\n#tryhackme_walkthrough\n#ai\n#tryhackme",
-        "date": "2026-07-01T06:04:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124337_0_d7a44bd6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124337_1_ed31afca.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124337",
-        "link": {
-          "title": "AI Threat Modeling",
-          "url": "https://medium.com/@tryhacking82/ai-threat-modeling-502683271ef0?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 124336,
-        "text": "⤷\nTitle:\nTryHackMe RootMe Write-Up | Beginner-Friendly Walkthrough\n════════════════════════\n𐀪\nAuthor:\nPearl2k\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 05:41:28 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#penetration_testing\n#tryhackme\n#web_security\n#ethical_hacking",
-        "date": "2026-07-01T06:04:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124336_0_d7a44bd6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124336",
-        "link": {
-          "title": "TryHackMe RootMe Write-Up | Beginner-Friendly Walkthrough",
-          "url": "https://medium.com/@Pearl2k/tryhackme-rootme-write-up-beginner-friendly-walkthrough-95b0428c5d23?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 124335,
-        "text": "⤷\nTitle:\nHow I Built a Digital Cage to Catch a Malware Red-Handed (A 2026 Dynamic Analysis Guide)\n════════════════════════\n𐀪\nAuthor:\nAnees\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 05:25:09 GMT\n════════════════════════\n⌗\nTags:\n#malware\n#hacking\n#infosec\n#ethical_hacking\n#cybersecurity",
-        "date": "2026-07-01T06:04:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124335_0_d7a44bd6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124335_1_9d1c6568.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124335",
-        "link": {
-          "title": "How I Built a Digital Cage to Catch a Malware Red-Handed (A 2026 Dynamic Analysis Guide)",
-          "url": "https://medium.com/@anees78788878/how-i-built-a-digital-cage-to-catch-a-malware-red-handed-a-2026-dynamic-analysis-guide-6c45d95d5d02?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 124334,
-        "text": "⤷\nTitle:\nHow I Turned a Worthless CSRF + IDOR into a Full Account Takeover\n════════════════════════\n𐀪\nAuthor:\nPrabhakar\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 04:00:41 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#security\n#bug_bounty\n#news\n#cybersecurity",
-        "date": "2026-07-01T06:04:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124334_0_d7a44bd6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124334_1_c1f0d6c3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124334",
-        "link": {
-          "title": "How I Turned a Worthless CSRF + IDOR into a Full Account Takeover",
-          "url": "https://medium.com/@psaibtech/how-i-turned-a-worthless-csrf-idor-into-a-full-account-takeover-eb8d448d7a58?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 124333,
-        "text": "⤷\nTitle:\nBroken Authentication Vulnerability That Allowed Unauthorized Users to Like Private Posts\n════════════════════════\n𐀪\nAuthor:\nAnkit Rathva aka Gujarati Hacker\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 05:23:05 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_tips\n#bug_bounty_writeup\n#bugcrowd\n#hackerone\n#bug_bounty",
-        "date": "2026-07-01T06:04:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124333_0_d7a44bd6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124333_1_fe5ecc5f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124333",
-        "link": {
-          "title": "Broken Authentication Vulnerability That Allowed Unauthorized Users to Like Private Posts",
-          "url": "https://medium.com/@ankitrathva/broken-authentication-vulnerability-that-allowed-unauthorized-users-to-like-private-posts-1a9f9edd91c2?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 124332,
-        "text": "⤷\nTitle:\nWindows Server 2022 Hotpatching Support Extended\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 05:53:53 +0000\n════════════════════════\n⌗\nTags:\n#Windows\n#Hotpatching\n#Lifecycle\nExtension\n#Microsoft\nAzure\n#Windows\nServer 2022",
-        "date": "2026-07-01T06:04:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124332_0_d7a44bd6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124332_1_2c12434a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124332",
-        "link": {
-          "title": "Windows Server 2022 Hotpatching Support Extended",
-          "url": "https://meterpreter.org/windows-server-2022-hotpatching/"
-        }
-      },
-      {
-        "id": 124331,
-        "text": "⤷\nTitle:\nCitrix Patches Six NetScaler Flaws Allowing File Read and Denial-of-Service\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 09:24:22 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-07-01T06:04:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124331_0_d7a44bd6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124331",
-        "link": {
-          "title": "Citrix Patches Six NetScaler Flaws Allowing File Read and Denial-of-Service",
-          "url": "https://thehackernews.com/2026/07/citrix-patches-six-netscaler-flaws.html"
-        }
-      },
-      {
-        "id": 124330,
-        "text": "⤷\nTitle:\nResearcher Analyzes 3,000 Live ClickFix Payloads, Exposing API-Driven Malware Delivery\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 11:02:12 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-07-01T06:03:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124330_0_d7a44bd6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124330",
-        "link": {
-          "title": "Researcher Analyzes 3,000 Live ClickFix Payloads, Exposing API-Driven Malware Delivery",
-          "url": "https://thehackernews.com/2026/07/researcher-analyzes-3000-live-clickfix.html"
-        }
-      },
-      {
-        "id": 124329,
-        "text": "⤷\nTitle:\nAzure CLI Password Spray Hits at Least 78 Microsoft Accounts in 81M+ Attempts\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 11:16:03 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-07-01T06:03:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124329_0_d7a44bd6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124329",
-        "link": {
-          "title": "Azure CLI Password Spray Hits at Least 78 Microsoft Accounts in 81M+ Attempts",
-          "url": "https://thehackernews.com/2026/07/azure-cli-password-spray-hits-at-least.html"
-        }
-      },
-      {
-        "id": 124328,
-        "text": "⤷\nTitle:\nWhat is Splunk ?\n════════════════════════\n𐀪\nAuthor:\nKevin Ronex\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 03:45:10 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#splunk\n#internet\n#blue_team\n#ethical_hacking",
-        "date": "2026-07-01T04:04:22+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124328_0_d7a44bd6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124328_1_2fd21e00.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124328",
-        "link": {
-          "title": "What is Splunk ?",
-          "url": "https://medium.com/@kevinchacko58/what-is-splunk-d9a4485f7a27?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 124327,
-        "text": "⤷\nTitle:\nReverse-proof protector\n════════════════════════\n𐀪\nAuthor:\nProgsky\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 02:41:09 GMT\n════════════════════════\n⌗\nTags:\n#coding\n#ethical_hacking\n#cybersecurity\n#hacking",
-        "date": "2026-07-01T04:04:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124327_0_d7a44bd6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124327_1_81b0a7cc.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124327",
-        "link": {
-          "title": "Reverse-proof protector",
-          "url": "https://osintteam.blog/reverse-proof-protector-87b28d61aa98?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 124326,
-        "text": "⤷\nTitle:\nSecuring the Software Supply Chain: Building an AI-Powered Application Security Platform for…\n════════════════════════\n𐀪\nAuthor:\nCHIEF A. AFUBU\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 02:02:33 GMT\n════════════════════════\n⌗\nTags:\n#cloud_security\n#cloud_computing\n#devsecops\n#application_security\n#ai",
-        "date": "2026-07-01T04:04:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124326_0_d7a44bd6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124326_1_0d1084b3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124326",
-        "link": {
-          "title": "Securing the Software Supply Chain: Building an AI-Powered Application Security Platform for…",
-          "url": "https://medium.com/@ChiefAfubu/securing-the-software-supply-chain-building-an-ai-powered-application-security-platform-for-186737b43dd4?source=rss------application_security-5"
-        }
-      },
-      {
-        "id": 124325,
-        "text": "⤷\nTitle:\nHow I found a medium-severity vulnerability on the NASA website.\n════════════════════════\n𐀪\nAuthor:\nAlbertstive\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 03:42:27 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#nasa\n#bug_bounty_writeup\n#cybersecurity\n#software_development",
-        "date": "2026-07-01T04:04:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124325_0_d7a44bd6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124325_1_3b472601.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124325",
-        "link": {
-          "title": "How I found a medium-severity vulnerability on the NASA website.",
-          "url": "https://medium.com/@albertstive1010/how-i-found-a-medium-severity-vulnerability-on-the-nasa-website-0a6b0961dd01?source=rss------bug_bounty-5"
-        }
       }
     ]
   },
-  "last_update": "2026-07-04T11:53:15.969712+00:00",
+  "last_update": "2026-07-04T12:55:39.204939+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 182,
-    "total_files": 182,
+    "total_media": 187,
+    "total_files": 187,
     "total_links": 0,
     "files_by_type": {
-      "image": 182
+      "image": 187
     },
-    "referenced_files": 182,
-    "existing_media_files": 182,
-    "total_size_mb": 5.15,
-    "last_calculation": "2026-07-04T11:53:15.971814+00:00"
+    "referenced_files": 187,
+    "existing_media_files": 187,
+    "total_size_mb": 5.19,
+    "last_calculation": "2026-07-04T12:55:39.207246+00:00"
   }
 }
