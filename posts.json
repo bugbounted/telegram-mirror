@@ -2,6 +2,98 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 124647,
+        "text": "⤷\nTitle:\nAPI Security for Runway\n════════════════════════\n𐀪\nAuthor:\nREIT monero\n════════════════════════\nⴵ\nTime:\nSat, 04 Jul 2026 21:05:21 GMT\n════════════════════════\n⌗\nTags:\n#runway\n#api_security",
+        "date": "2026-07-04T22:04:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124647_0_3f0bbc19.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124647_1_99f80c2f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124647",
+        "link": {
+          "title": "API Security for Runway",
+          "url": "https://medium.com/@juricavoda/api-security-for-runway-ac000c897c31?source=rss------api_security-5"
+        }
+      },
+      {
+        "id": 124646,
+        "text": "⤷\nTitle:\nAdvanced Packet Analysis -Wireshark & TShark\n════════════════════════\n𐀪\nAuthor:\nJose Praveen\n════════════════════════\nⴵ\nTime:\nSat, 04 Jul 2026 20:21:00 GMT\n════════════════════════\n⌗\nTags:\n#tshark\n#tryhackme\n#security_operation_center\n#tryhackme_walkthrough\n#wireshark",
+        "date": "2026-07-04T22:04:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124646_0_3f0bbc19.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124646_1_d43946e3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124646",
+        "link": {
+          "title": "Advanced Packet Analysis -Wireshark & TShark",
+          "url": "https://josepraveen.medium.com/advanced-packet-analysis-wireshark-tshark-b66741eaadf1?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 124645,
+        "text": "⤷\nTitle:\nFools Mate | TryHackMe\n════════════════════════\n𐀪\nAuthor:\nFoggy\n════════════════════════\nⴵ\nTime:\nSat, 04 Jul 2026 21:30:28 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#js\n#reconnaissance",
+        "date": "2026-07-04T22:04:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124645_0_3f0bbc19.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124645_1_4443736e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124645",
+        "link": {
+          "title": "Fools Mate | TryHackMe",
+          "url": "https://medium.com/@mratom2000/fools-mate-tryhackme-3f727c6bce70?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 124644,
+        "text": "⤷\nTitle:\nWhat I Learned in My First 6 Months as a Junior Penetration Tester\n════════════════════════\n𐀪\nAuthor:\nArfat Khan\n════════════════════════\nⴵ\nTime:\nSat, 04 Jul 2026 21:56:00 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#security\n#cybersecurity",
+        "date": "2026-07-04T22:03:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124644_0_3f0bbc19.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124644_1_590155d3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124644",
+        "link": {
+          "title": "What I Learned in My First 6 Months as a Junior Penetration Tester",
+          "url": "https://systemweakness.com/what-i-learned-in-my-first-6-months-as-a-junior-penetration-tester-89551272da5a?source=rss------penetration_testing-5"
+        }
+      },
+      {
         "id": 124643,
         "text": "⤷\nTitle:\nFail-Open Authentication Bypass to Account Takeover\n════════════════════════\n𐀪\nAuthor:\ndebang5hu\n════════════════════════\nⴵ\nTime:\nSat, 04 Jul 2026 18:22:35 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#account_takeover\n#bug_hunting\n#ethical_hacking\n#api",
         "date": "2026-07-04T20:04:05+00:00",
@@ -2180,102 +2272,22 @@
           "title": "Turning Indicators into Intelligence in OpenCTI with Criminal IP",
           "url": "https://securityonline.info/turning-indicators-into-intelligence-in-opencti-with-criminal-ip/"
         }
-      },
-      {
-        "id": 124420,
-        "text": "⤷\nTitle:\nFake Interpol Investigation Emails Push Ransomware at Small Businesses Globally\n════════════════════════\n𐀪\nAuthor:\nWaqas\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 14:21:58 +0000\n════════════════════════\n⌗\nTags:\n#Security\n#Cyber\nCrime\n#Malware\n#Scams\nand Fraud\n#Cyber\nAttack\n#Cybersecurity\n#Fraud\n#Interpol\n#Ransomware\n#Scam",
-        "date": "2026-07-01T16:04:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124420_0_d7a44bd6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124420_1_bbb58605.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124420",
-        "link": {
-          "title": "Fake Interpol Investigation Emails Push Ransomware at Small Businesses Globally",
-          "url": "https://hackread.com/fake-interpol-investigation-emails-ransomware-small-businesses/"
-        }
-      },
-      {
-        "id": 124419,
-        "text": "⤷\nTitle:\nAI-Generated Browser Ransomware Abuses Chromium API on Windows and Android\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 18:29:19 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-07-01T16:04:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124419_0_d7a44bd6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124419",
-        "link": {
-          "title": "AI-Generated Browser Ransomware Abuses Chromium API on Windows and Android",
-          "url": "https://thehackernews.com/2026/07/ai-generated-browser-ransomware-abuses.html"
-        }
-      },
-      {
-        "id": 124418,
-        "text": "⤷\nTitle:\nProgress Kemp LoadMaster Pre-Auth RCE Flaw Faces Active Exploitation Attempts\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 19:26:18 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-07-01T16:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124418_0_d7a44bd6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124418",
-        "link": {
-          "title": "Progress Kemp LoadMaster Pre-Auth RCE Flaw Faces Active Exploitation Attempts",
-          "url": "https://thehackernews.com/2026/07/latest-progress-kemp-loadmaster-pre.html"
-        }
-      },
-      {
-        "id": 124417,
-        "text": "⤷\nTitle:\nCritical Cursor Flaws Could Let Prompt Injection Escape Sandbox and Run Commands\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 20:12:54 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-07-01T16:03:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124417_0_d7a44bd6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124417",
-        "link": {
-          "title": "Critical Cursor Flaws Could Let Prompt Injection Escape Sandbox and Run Commands",
-          "url": "https://thehackernews.com/2026/07/critical-cursor-flaws-could-let-prompt.html"
-        }
       }
     ]
   },
-  "last_update": "2026-07-04T21:26:01.165542+00:00",
+  "last_update": "2026-07-04T22:26:30.587830+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 190,
-    "total_files": 190,
+    "total_media": 193,
+    "total_files": 193,
     "total_links": 0,
     "files_by_type": {
-      "image": 190
+      "image": 193
     },
-    "referenced_files": 190,
-    "existing_media_files": 190,
-    "total_size_mb": 4.85,
-    "last_calculation": "2026-07-04T21:26:01.167829+00:00"
+    "referenced_files": 193,
+    "existing_media_files": 193,
+    "total_size_mb": 4.86,
+    "last_calculation": "2026-07-04T22:26:30.590187+00:00"
   }
 }
