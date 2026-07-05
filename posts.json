@@ -2,6 +2,167 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 124714,
+        "text": "⤷\nTitle:\nSQL INJECTION : Part 3.4 — Blind SQL injection vulnerabilities\n════════════════════════\n𐀪\nAuthor:\nRoni Alfredo Simamora\n════════════════════════\nⴵ\nTime:\nSun, 05 Jul 2026 15:23:00 GMT\n════════════════════════\n⌗\nTags:\n#blind_sql_injection\n#portswigger\n#payload\n#sql_injection\n#error_based_sql_injection",
+        "date": "2026-07-05T16:04:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124714_0_5ffaeb9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124714_1_c36b3463.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124714",
+        "link": {
+          "title": "SQL INJECTION : Part 3.4 — Blind SQL injection vulnerabilities",
+          "url": "https://medium.com/@ronialfredo05/sql-injection-part-3-4-blind-sql-injection-vulnerabilities-81e71a0ccd81?source=rss------sql_injection-5"
+        }
+      },
+      {
+        "id": 124713,
+        "text": "⤷\nTitle:\nLLMNR/NBT-NS POISONING\n════════════════════════\n𐀪\nAuthor:\nAman Chauhan\n════════════════════════\nⴵ\nTime:\nSun, 05 Jul 2026 15:51:55 GMT\n════════════════════════\n⌗\nTags:\n#oscp\n#active_directory\n#llmnr_poisoning\n#windows\n#ethical_hacking",
+        "date": "2026-07-05T16:04:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124713_0_5ffaeb9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124713_1_638e63f8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124713",
+        "link": {
+          "title": "LLMNR/NBT-NS POISONING",
+          "url": "https://amanisher.medium.com/llmnr-nbt-ns-poisoning-5be7b51b4855?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 124712,
+        "text": "⤷\nTitle:\nFools Mate, Revenge THM Walkthrough\n════════════════════════\n𐀪\nAuthor:\nL4ZZ3RJ0D\n════════════════════════\nⴵ\nTime:\nSun, 05 Jul 2026 14:24:05 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_walkthrough\n#ethical_hacking\n#tryhackme\n#web_exploitation\n#ctf",
+        "date": "2026-07-05T16:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124712_0_5ffaeb9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124712_1_90a6b7bd.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124712",
+        "link": {
+          "title": "Fools Mate, Revenge THM Walkthrough",
+          "url": "https://medium.com/@l4zz3rj0d/fools-mate-revenge-thm-walkthrough-2ff28c638b99?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 124711,
+        "text": "⤷\nTitle:\nFools Mate, Revenge — TryHackMe Writeup\n════════════════════════\n𐀪\nAuthor:\nghosteye\n════════════════════════\nⴵ\nTime:\nSun, 05 Jul 2026 15:06:54 GMT\n════════════════════════\n⌗\nTags:\n#cwe_1321\n#api_security\n#tryhackme\n#penetration_testing\n#prototype_pollution",
+        "date": "2026-07-05T16:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124711_0_5ffaeb9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124711_1_94859d84.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124711",
+        "link": {
+          "title": "Fools Mate, Revenge — TryHackMe Writeup",
+          "url": "https://medium.com/@proxyy/fools-mate-revenge-tryhackme-writeup-7b92973a8ea1?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 124710,
+        "text": "⤷\nTitle:\nPhishing in 2026 The Year of Our Lord\n════════════════════════\n𐀪\nAuthor:\nRobert Scocca\n════════════════════════\nⴵ\nTime:\nSun, 05 Jul 2026 14:06:28 GMT\n════════════════════════\n⌗\nTags:\n#phishing\n#penetration_testing\n#cybersecurity\n#hacking\n#threat_intelligence",
+        "date": "2026-07-05T16:03:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124710_0_5ffaeb9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124710_1_083b526a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124710",
+        "link": {
+          "title": "Phishing in 2026 The Year of Our Lord",
+          "url": "https://robertscocca.medium.com/phishing-in-2026-the-year-of-our-lord-0fb1b1a8a5f6?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 124709,
+        "text": "⤷\nTitle:\nFrom File Upload to Admin Account Takeover: Exploring Blind XSS via Malicious File Content\n════════════════════════\n𐀪\nAuthor:\nOrion\n════════════════════════\nⴵ\nTime:\nSun, 05 Jul 2026 14:16:54 GMT\n════════════════════════\n⌗\nTags:\n#file_upload_vulnerability\n#penetration_testing\n#xss_attack\n#bug_bounty\n#web_application_security",
+        "date": "2026-07-05T16:03:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124709_0_5ffaeb9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124709_1_f8bc2d2c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124709",
+        "link": {
+          "title": "From File Upload to Admin Account Takeover: Exploring Blind XSS via Malicious File Content",
+          "url": "https://orion7715.medium.com/from-file-upload-to-admin-account-takeover-exploring-blind-xss-via-malicious-file-content-cba1ac63ab11?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 124708,
+        "text": "⤷\nTitle:\nHow One Small URL Change Opened the Door to an Entire Server\n════════════════════════\n𐀪\nAuthor:\nZ3r0D4y\n════════════════════════\nⴵ\nTime:\nSun, 05 Jul 2026 14:54:40 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#application_security\n#cybersecurity\n#information_security\n#web_security",
+        "date": "2026-07-05T16:03:46+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124708_0_5ffaeb9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124708_1_d8a9666d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124708",
+        "link": {
+          "title": "How One Small URL Change Opened the Door to an Entire Server",
+          "url": "https://medium.com/@pritamtare029/how-one-small-url-change-opened-the-door-to-an-entire-server-779601bea2ff?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 124707,
         "text": "⤷\nTitle:\nTHM — Light\n════════════════════════\n𐀪\nAuthor:\nKort\n════════════════════════\nⴵ\nTime:\nSun, 05 Jul 2026 13:20:11 GMT\n════════════════════════\n⌗\nTags:\n#sql_injection",
         "date": "2026-07-05T14:04:30+00:00",
@@ -2135,171 +2296,10 @@
           "title": "CVE-2026–10091: Stored XSS in Email JavaScript Cloak WordPress Plugin",
           "url": "https://medium.com/@cyberpodcast/cve-2026-10091-stored-xss-in-email-javascript-cloak-wordpress-plugin-4946f19feb3d?source=rss------xss-5"
         }
-      },
-      {
-        "id": 124614,
-        "text": "⤷\nTitle:\nBugged CTF Walkthrough (TryHackMe)\n════════════════════════\n𐀪\nAuthor:\nVanessa3\n════════════════════════\nⴵ\nTime:\nSat, 04 Jul 2026 13:34:45 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#tryhackme\n#cybersecurity\n#ctf\n#iot_security",
-        "date": "2026-07-04T14:04:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124614_0_5af01a9b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124614_1_e4c77837.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124614",
-        "link": {
-          "title": "Bugged CTF Walkthrough (TryHackMe)",
-          "url": "https://medium.com/@Vanessa056/bugged-ctf-walkthrough-tryhackme-12966abf7c36?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 124613,
-        "text": "⤷\nTitle:\nNobody Was Looking at the Wrong Number Until It Mattered\n════════════════════════\n𐀪\nAuthor:\nFaruk Ahmed\n════════════════════════\nⴵ\nTime:\nSat, 04 Jul 2026 12:01:00 GMT\n════════════════════════\n⌗\nTags:\n#technology\n#cybersecurity\n#system_administration\n#infosec\n#linux",
-        "date": "2026-07-04T14:04:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124613_0_5af01a9b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124613_1_b8b9ec7f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124613",
-        "link": {
-          "title": "Nobody Was Looking at the Wrong Number Until It Mattered",
-          "url": "https://medium.com/nextgenthreat/nobody-was-looking-at-the-wrong-number-until-it-mattered-9deaeef92386?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 124612,
-        "text": "⤷\nTitle:\nLab: Exploiting server-side parameter pollution in a query string (API testing) #lab 2\n════════════════════════\n𐀪\nAuthor:\nPRiTi.EX\n════════════════════════\nⴵ\nTime:\nSat, 04 Jul 2026 12:51:12 GMT\n════════════════════════\n⌗\nTags:\n#ai\n#cybersecurity\n#hacking\n#portswigger_lab\n#apihacking",
-        "date": "2026-07-04T14:04:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124612_0_5af01a9b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124612_1_faf625bc.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124612",
-        "link": {
-          "title": "Lab: Exploiting server-side parameter pollution in a query string (API testing) #lab 2",
-          "url": "https://medium.com/@pritiranjanmohanta6371/lab-exploiting-server-side-parameter-pollution-in-a-query-string-api-testing-lab-2-531b237cef8d?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 124611,
-        "text": "⤷\nTitle:\nWonderland (THM) Tryhackme Medium Challenge\n════════════════════════\n𐀪\nAuthor:\nLawvye\n════════════════════════\nⴵ\nTime:\nSat, 04 Jul 2026 13:08:34 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#steganography\n#privilege_escalation\n#cybersecurity\n#tryhackme",
-        "date": "2026-07-04T14:04:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124611_0_5af01a9b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124611_1_b63ffbfd.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124611",
-        "link": {
-          "title": "Wonderland (THM) Tryhackme Medium Challenge",
-          "url": "https://medium.com/@lawvye/wonderland-thm-tryhackme-medium-challenge-e6ba15c9df7d?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 124610,
-        "text": "⤷\nTitle:\nSensitive Information Disclosure: What It Is and the Top 10 Tools to Find It in 2026\n════════════════════════\n𐀪\nAuthor:\nHrishikesh Dahale\n════════════════════════\nⴵ\nTime:\nSat, 04 Jul 2026 12:07:23 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#bug_bounty\n#information_disclosure\n#technology\n#cybersecurity",
-        "date": "2026-07-04T14:04:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124610_0_5af01a9b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124610_1_7adbfe14.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124610",
-        "link": {
-          "title": "Sensitive Information Disclosure: What It Is and the Top 10 Tools to Find It in 2026",
-          "url": "https://medium.com/@dahalehrishi/sensitive-information-disclosure-what-it-is-and-the-top-10-tools-to-find-it-in-2026-4452cd8ccbf3?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 124609,
-        "text": "⤷\nTitle:\nBladeRecon Explained | Next-Generation Recon for Bug Bounty Hunters\n════════════════════════\n𐀪\nAuthor:\nPentester Club\n════════════════════════\nⴵ\nTime:\nSat, 04 Jul 2026 13:17:17 GMT\n════════════════════════\n⌗\nTags:\n#web_development\n#artificial_intelligence\n#hacking\n#cybersecurity\n#bug_bounty",
-        "date": "2026-07-04T14:04:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124609_0_5af01a9b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124609_1_04de284c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124609",
-        "link": {
-          "title": "BladeRecon Explained | Next-Generation Recon for Bug Bounty Hunters",
-          "url": "https://medium.com/@pentesterclubpvtltd/bladerecon-explained-next-generation-recon-for-bug-bounty-hunters-60ce90be6432?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 124608,
-        "text": "⤷\nTitle:\nReconX: A Lightweight Bash-Based Reconnaissance Framework for Ethical Hackers\n════════════════════════\n𐀪\nAuthor:\nA.C.HARIHARAN\n════════════════════════\nⴵ\nTime:\nSat, 04 Jul 2026 13:48:20 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#reconnaissance",
-        "date": "2026-07-04T14:03:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124608_0_5af01a9b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124608_1_7a4c86f8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124608",
-        "link": {
-          "title": "ReconX: A Lightweight Bash-Based Reconnaissance Framework for Ethical Hackers",
-          "url": "https://medium.com/@achariharan07/reconx-a-lightweight-bash-based-reconnaissance-framework-for-ethical-hackers-52610d64e574?source=rss------bug_bounty-5"
-        }
       }
     ]
   },
-  "last_update": "2026-07-05T15:44:27.058785+00:00",
+  "last_update": "2026-07-05T16:53:56.897722+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2311,7 +2311,7 @@
     },
     "referenced_files": 199,
     "existing_media_files": 199,
-    "total_size_mb": 5.3,
-    "last_calculation": "2026-07-05T15:44:27.061108+00:00"
+    "total_size_mb": 5.28,
+    "last_calculation": "2026-07-05T16:53:56.900206+00:00"
   }
 }
