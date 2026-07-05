@@ -2,6 +2,351 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 124674,
+        "text": "⤷\nTitle:\nHow Fable 5 found the SSRF in my phishing scanner\n════════════════════════\n𐀪\nAuthor:\nSigmund Brandstaetter CISSP, CCSP, CISM, OSCP, CEH\n════════════════════════\nⴵ\nTime:\nSun, 05 Jul 2026 07:37:38 GMT\n════════════════════════\n⌗\nTags:\n#python\n#cybersecurity\n#ai\n#ssrf\n#llm",
+        "date": "2026-07-05T08:04:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124674_0_3f0bbc19.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124674_1_3a4aaeca.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124674",
+        "link": {
+          "title": "How Fable 5 found the SSRF in my phishing scanner",
+          "url": "https://osintph.medium.com/how-fable-5-found-the-ssrf-in-my-phishing-scanner-f4b72d95042b?source=rss------ssrf-5"
+        }
+      },
+      {
+        "id": 124673,
+        "text": "⤷\nTitle:\nWhy Every Security Professional Should Learn strace\n════════════════════════\n𐀪\nAuthor:\nFateyaly\n════════════════════════\nⴵ\nTime:\nSun, 05 Jul 2026 07:46:06 GMT\n════════════════════════\n⌗\nTags:\n#coding\n#cybersecurity\n#technology\n#ethical_hacking\n#programming",
+        "date": "2026-07-05T08:04:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124673_0_3f0bbc19.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124673_1_85929252.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124673",
+        "link": {
+          "title": "Why Every Security Professional Should Learn strace",
+          "url": "https://systemweakness.com/why-every-security-professional-should-learn-strace-80816ed1d787?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 124672,
+        "text": "⤷\nTitle:\nSQL Injection Introduction | THM Walkthrough | by Dharavath Nagaraju\n════════════════════════\n𐀪\nAuthor:\nDharavathnagaraju\n════════════════════════\nⴵ\nTime:\nSun, 05 Jul 2026 07:08:56 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#types_of_sql_injection\n#sql_injection\n#authentication",
+        "date": "2026-07-05T08:04:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124672_0_3f0bbc19.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124672_1_6afe88b6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124672",
+        "link": {
+          "title": "SQL Injection Introduction | THM Walkthrough | by Dharavath Nagaraju",
+          "url": "https://medium.com/@dharavathnagaraju2973/sql-injection-introduction-thm-walkthrough-by-dharavath-nagaraju-238b9dd58925?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 124671,
+        "text": "⤷\nTitle:\nTryHackMe — Bounty Hacker: The FTP Server Was Talking. I Just Listened.\n════════════════════════\n𐀪\nAuthor:\nYuky\n════════════════════════\nⴵ\nTime:\nSun, 05 Jul 2026 06:30:57 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#tryhackme\n#hacking\n#infosec\n#penetration_testing",
+        "date": "2026-07-05T08:03:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124671_0_3f0bbc19.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124671_1_d92b6721.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124671",
+        "link": {
+          "title": "TryHackMe — Bounty Hacker: The FTP Server Was Talking. I Just Listened.",
+          "url": "https://infosecwriteups.com/tryhackme-bounty-hacker-the-ftp-server-was-talking-i-just-listened-fb6d40204184?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 124670,
+        "text": "⤷\nTitle:\nMastering curl Commands Bug Bounty Hunter's Guide\n════════════════════════\n𐀪\nAuthor:\nMD Mehedi Hasan\n════════════════════════\nⴵ\nTime:\nSun, 05 Jul 2026 06:06:46 GMT\n════════════════════════\n⌗\nTags:\n#reconnaissance\n#curl_commands\n#curl_bughunter\n#curl\n#bug_bounty",
+        "date": "2026-07-05T08:03:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124670_0_3f0bbc19.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124670_1_6ac32476.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124670",
+        "link": {
+          "title": "Mastering curl Commands Bug Bounty Hunter's Guide",
+          "url": "https://infosecwriteups.com/mastering-curl-commands-bug-bounty-hunters-guide-57037fdc9714?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 124669,
+        "text": "⤷\nTitle:\nHow I Got a ₹0 Checkout on a Real Shopping Site\n════════════════════════\n𐀪\nAuthor:\niamrudhh\n════════════════════════\nⴵ\nTime:\nSun, 05 Jul 2026 07:08:23 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#hacking\n#ethical_hacking\n#bug_bounty_tips\n#cybersecurity",
+        "date": "2026-07-05T08:03:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124669_0_3f0bbc19.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124669_1_9f200c15.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124669",
+        "link": {
+          "title": "How I Got a ₹0 Checkout on a Real Shopping Site",
+          "url": "https://medium.com/@iamrudhh/how-i-got-a-0-checkout-on-a-real-shopping-site-216cccbd692a?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 124668,
+        "text": "⤷\nTitle:\nOperation Slither\n════════════════════════\n𐀪\nAuthor:\nPoonam Maharjan\n════════════════════════\nⴵ\nTime:\nSun, 05 Jul 2026 04:17:48 GMT\n════════════════════════\n⌗\nTags:\n#osint_investigation\n#tryhackme\n#tryhackme_walkthrough\n#instagram\n#osint",
+        "date": "2026-07-05T06:04:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124668_0_3f0bbc19.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124668_1_eee10a15.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124668",
+        "link": {
+          "title": "Operation Slither",
+          "url": "https://medium.com/@tryhacking82/operation-slither-a6c1b792c97b?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 124667,
+        "text": "⤷\nTitle:\nOSINT : A Practical Guide to Footprinting Targets\n════════════════════════\n𐀪\nAuthor:\nAditya Pandey\n════════════════════════\nⴵ\nTime:\nSun, 05 Jul 2026 04:36:00 GMT\n════════════════════════\n⌗\nTags:\n#footprinting\n#open_source_intelligence\n#cybersecurity\n#penetration_testing\n#osint",
+        "date": "2026-07-05T06:04:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124667_0_3f0bbc19.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124667_1_372884aa.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124667",
+        "link": {
+          "title": "OSINT : A Practical Guide to Footprinting Targets",
+          "url": "https://medium.com/@_adityapandey08_/osint-a-practical-guide-to-footprinting-targets-4ec1bcfd5e0c?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 124666,
+        "text": "⤷\nTitle:\nOne Click, Millions at Risk: Why the AdaptHealth Cyberattack Matters to Everyone\n════════════════════════\n𐀪\nAuthor:\nVoidly\n════════════════════════\nⴵ\nTime:\nSun, 05 Jul 2026 05:32:24 GMT\n════════════════════════\n⌗\nTags:\n#data_breach\n#healthcare\n#privacy\n#cybersecurity\n#infosec",
+        "date": "2026-07-05T06:04:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124666_0_3f0bbc19.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124666_1_6e8f6ff8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124666",
+        "link": {
+          "title": "One Click, Millions at Risk: Why the AdaptHealth Cyberattack Matters to Everyone",
+          "url": "https://medium.com/@voidly_ai/one-click-millions-at-risk-why-the-adapthealth-cyberattack-matters-to-everyone-c88ede2375a4?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 124665,
+        "text": "⤷\nTitle:\nThe Silent Architects of Global Security Finally Have a Voice at CypherBlush\n™\n════════════════════════\n𐀪\nAuthor:\nCypherBlush\n™\n════════════════════════\nⴵ\nTime:\nSun, 05 Jul 2026 05:34:49 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#cypherpunk\n#cryptography\n#women_in_tech\n#blockchain",
+        "date": "2026-07-05T06:04:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124665_0_3f0bbc19.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124665_1_8ece4a04.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124665",
+        "link": {
+          "title": "The Silent Architects of Global Security Finally Have a Voice at CypherBlush™",
+          "url": "https://medium.com/@cypherblush/the-silent-architects-of-global-security-finally-have-a-voice-at-cypherblush-51881c4a274c?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 124664,
+        "text": "⤷\nTitle:\nWhy Most Companies Struggle With AI Governance (And How Two ISO Standards Solve It)\n════════════════════════\n𐀪\nAuthor:\nRinu M J\n════════════════════════\nⴵ\nTime:\nSun, 05 Jul 2026 04:30:44 GMT\n════════════════════════\n⌗\nTags:\n#tech\n#hacking\n#technology\n#networking\n#cybersecurity",
+        "date": "2026-07-05T06:04:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124664_0_3f0bbc19.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124664_1_af93e7eb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124664",
+        "link": {
+          "title": "Why Most Companies Struggle With AI Governance (And How Two ISO Standards Solve It)",
+          "url": "https://rinumj.medium.com/why-most-companies-struggle-with-ai-governance-and-how-two-iso-standards-solve-it-fd206af5b13d?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 124663,
+        "text": "⤷\nTitle:\nSetting Up IDS Lab Using SNORT\n════════════════════════\n𐀪\nAuthor:\nrevs3k\n════════════════════════\nⴵ\nTime:\nSun, 05 Jul 2026 05:14:57 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#blue_team\n#kali_linux\n#ethical_hacking\n#ids_ips",
+        "date": "2026-07-05T06:04:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124663_0_3f0bbc19.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124663_1_eec3b3e1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124663",
+        "link": {
+          "title": "Setting Up IDS Lab Using SNORT",
+          "url": "https://revs3k.medium.com/setting-up-ids-lab-using-snort-84012575e462?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 124662,
+        "text": "⤷\nTitle:\nTryHackMe: Fools Mate Walkthrough\n════════════════════════\n𐀪\nAuthor:\n5um1t0x\n════════════════════════\nⴵ\nTime:\nSun, 05 Jul 2026 04:40:16 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#penetration_testing\n#bug_bounty\n#cybersecurity\n#hacking",
+        "date": "2026-07-05T06:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124662_0_3f0bbc19.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124662_1_d653b363.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124662",
+        "link": {
+          "title": "TryHackMe: Fools Mate Walkthrough",
+          "url": "https://medium.com/@5um1t0x/tryhackme-fools-mate-walkthrough-bb3752f012ff?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 124661,
+        "text": "⤷\nTitle:\nThe Modern CSRF Playbook: From Basic Mechanics to SameSite Bypasses\n════════════════════════\n𐀪\nAuthor:\nSau Rav\n════════════════════════\nⴵ\nTime:\nSun, 05 Jul 2026 04:49:21 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#bug_bounty\n#web_security\n#csrf",
+        "date": "2026-07-05T06:03:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124661_0_3f0bbc19.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124661_1_08e0de35.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124661",
+        "link": {
+          "title": "The Modern CSRF Playbook: From Basic Mechanics to SameSite Bypasses",
+          "url": "https://medium.com/@ravsau00/the-modern-csrf-playbook-from-basic-mechanics-to-samesite-bypasses-c28128e40f46?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 124660,
+        "text": "⤷\nTitle:\nThe Recon Habit Most Hunters Skip (And Pay For Later)\n════════════════════════\n𐀪\nAuthor:\nAbhishek meena\n════════════════════════\nⴵ\nTime:\nSun, 05 Jul 2026 05:37:58 GMT\n════════════════════════\n⌗\nTags:\n#reconnaissance\n#bug_bounty_tips\n#bug_bounty_hunter\n#bug_bounty_writeup\n#bug_bounty",
+        "date": "2026-07-05T06:03:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124660_0_3f0bbc19.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124660_1_032cfccb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124660",
+        "link": {
+          "title": "The Recon Habit Most Hunters Skip (And Pay For Later)",
+          "url": "https://medium.com/@Aacle/the-recon-habit-most-hunters-skip-and-pay-for-later-634fd0373cd9?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 124659,
         "text": "⤷\nTitle:\nBecome a Defender: Stepping into Defensive Security\n════════════════════════\n𐀪\nAuthor:\nJonathan Sanfer\n════════════════════════\nⴵ\nTime:\nSun, 05 Jul 2026 03:53:15 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#tryhackme\n#defensive_security\n#threat_detection\n#blue_team",
         "date": "2026-07-05T04:03:53+00:00",
@@ -1943,351 +2288,22 @@
           "title": "Hacked, Audited, Fixed — 10 Vulnerabilities in One Flask App.",
           "url": "https://medium.com/@nilanjan.calculus/hacked-audited-fixed-10-vulnerabilities-in-one-flask-app-0dd829a55aee?source=rss------bug_bounty-5"
         }
-      },
-      {
-        "id": 124447,
-        "text": "⤷\nTitle:\nCL-STA-1062 Cyber Espionage Targets Southeast Asia\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 06:53:56 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#CL_STA_1062\n#Cyber\nEspionage\n#Infosec\n#TinyRCT",
-        "date": "2026-07-01T20:04:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124447_0_80bb53bc.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124447_1_144a1ece.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124447",
-        "link": {
-          "title": "CL-STA-1062 Cyber Espionage Targets Southeast Asia",
-          "url": "https://meterpreter.org/cl-sta-1062-cyber-espionage/"
-        }
-      },
-      {
-        "id": 124446,
-        "text": "⤷\nTitle:\nRansomware-Proof Backup: 7 Strategies for Enterprise IT Teams\n════════════════════════\n𐀪\nAuthor:\nOwais Sultan\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 18:10:30 +0000\n════════════════════════\n⌗\nTags:\n#Security\n#Business\n#Technology\n#Backup\n#Cybersecurity\n#Malware\n#Ransomware",
-        "date": "2026-07-01T20:04:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124446_0_80bb53bc.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124446_1_207824bc.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124446",
-        "link": {
-          "title": "Ransomware-Proof Backup: 7 Strategies for Enterprise IT Teams",
-          "url": "https://hackread.com/ransomware-proof-backup-strategies-enterprise-it-teams/"
-        }
-      },
-      {
-        "id": 124445,
-        "text": "⤷\nTitle:\nVEIL#DROP Malware Chain Uses Blogger Platform to Deliver PureLogs Stealer\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 22:48:50 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-07-01T20:04:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124445_0_80bb53bc.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124445",
-        "link": {
-          "title": "VEIL#DROP Malware Chain Uses Blogger Platform to Deliver PureLogs Stealer",
-          "url": "https://thehackernews.com/2026/07/veildrop-malware-chain-uses-blogger.html"
-        }
-      },
-      {
-        "id": 124444,
-        "text": "⤷\nTitle:\nSEO-Poisoned Software Sites Abuse ScreenConnect to Deploy AsyncRAT\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 23:23:06 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-07-01T20:04:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124444_0_80bb53bc.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124444",
-        "link": {
-          "title": "SEO-Poisoned Software Sites Abuse ScreenConnect to Deploy AsyncRAT",
-          "url": "https://thehackernews.com/2026/07/seo-poisoned-software-sites-abuse.html"
-        }
-      },
-      {
-        "id": 124443,
-        "text": "⤷\nTitle:\n19-Year-Old Scattered Spider Suspect Extradited to Face U.S. Hacking Charges\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nThu, 02 Jul 2026 00:58:07 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-07-01T20:03:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124443_0_80bb53bc.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124443",
-        "link": {
-          "title": "19-Year-Old Scattered Spider Suspect Extradited to Face U.S. Hacking Charges",
-          "url": "https://thehackernews.com/2026/07/19-year-old-scattered-spider-suspect.html"
-        }
-      },
-      {
-        "id": 124442,
-        "text": "⤷\nTitle:\nUnpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nThu, 02 Jul 2026 01:10:06 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-07-01T20:03:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124442_0_80bb53bc.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124442",
-        "link": {
-          "title": "Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters",
-          "url": "https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html"
-        }
-      },
-      {
-        "id": 124441,
-        "text": "⤷\nTitle:\nFrom CTF to Contested Network: A Threat Hunter’s Field Notes #1\n════════════════════════\n𐀪\nAuthor:\nRama\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 16:11:34 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#ctf\n#information_security\n#cybersecurity\n#threat_hunting",
-        "date": "2026-07-01T18:04:22+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124441_0_80bb53bc.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124441_1_15850a7b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124441",
-        "link": {
-          "title": "From CTF to Contested Network: A Threat Hunter’s Field Notes #1",
-          "url": "https://medium.com/@nosqlinjection/from-ctf-to-contested-network-a-threat-hunters-field-notes-1-4f64b7e6e99e?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 124440,
-        "text": "⤷\nTitle:\nWindows to Linux — 5 File Transfer Techniques for Pentesting Exams\n════════════════════════\n𐀪\nAuthor:\nAman Chauhan\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 16:36:44 GMT\n════════════════════════\n⌗\nTags:\n#pentesting\n#file_transfer\n#ethical_hacking\n#oscp\n#cybersecurity",
-        "date": "2026-07-01T18:04:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124440_0_80bb53bc.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124440_1_0342ea41.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124440",
-        "link": {
-          "title": "Windows to Linux — 5 File Transfer Techniques for Pentesting Exams",
-          "url": "https://amanisher.medium.com/windows-to-linux-5-file-transfer-techniques-for-pentesting-exams-8754e8b46c87?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 124439,
-        "text": "⤷\nTitle:\nTryHeartMe — TryHackMe CTF Walkthrough\n════════════════════════\n𐀪\nAuthor:\nJenifer\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 16:11:44 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#tryheartme\n#writeup\n#tryhackme_walkthrough\n#ctf",
-        "date": "2026-07-01T18:04:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124439_0_80bb53bc.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124439_1_35d67b8d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124439",
-        "link": {
-          "title": "TryHeartMe — TryHackMe CTF Walkthrough",
-          "url": "https://medium.com/@djenifer/tryheartme-tryhackme-ctf-walkthrough-3b7c437dd6c2?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 124438,
-        "text": "⤷\nTitle:\nMD2PDF\n════════════════════════\n𐀪\nAuthor:\nShachinpr\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 17:05:30 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#red_team\n#pentesting\n#md2pdf\n#tryhackme_walkthrough",
-        "date": "2026-07-01T18:04:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124438_0_80bb53bc.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124438_1_a87c23de.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124438",
-        "link": {
-          "title": "MD2PDF",
-          "url": "https://medium.com/@shachinpr29/md2pdf-a57938883ccc?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 124437,
-        "text": "⤷\nTitle:\nProxy Challenge — Active Directory TryHackMe CTF Walkthrough\n════════════════════════\n𐀪\nAuthor:\nC09N1T1V3\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 13:37:44 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#penetration_testing\n#tryhackme\n#information_security\n#ctf",
-        "date": "2026-07-01T18:04:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124437_0_80bb53bc.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124437_1_c54fe47b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124437",
-        "link": {
-          "title": "Proxy Challenge — Active Directory TryHackMe CTF Walkthrough",
-          "url": "https://medium.com/@C09N1T1V3/proxychallenge-active-directory-tryhackme-ctf-walkthrough-027d1330ecb5?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 124436,
-        "text": "⤷\nTitle:\nThe SOC Analyst’s new job description nobody wrote down yet\n════════════════════════\n𐀪\nAuthor:\nh@shtalk\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 16:31:01 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#soc_analyst\n#automation\n#triage\n#cybersecurity",
-        "date": "2026-07-01T18:04:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124436_0_80bb53bc.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124436_1_ef06fe76.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124436",
-        "link": {
-          "title": "The SOC Analyst’s new job description nobody wrote down yet",
-          "url": "https://eva-georgieva.medium.com/the-soc-analysts-new-job-description-nobody-wrote-down-yet-20773b87fd9b?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 124435,
-        "text": "⤷\nTitle:\nLab: Bypassing access controls using email address parsing discrepancies ( Business logic…\n════════════════════════\n𐀪\nAuthor:\nPRiTi.EX\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 15:58:52 GMT\n════════════════════════\n⌗\nTags:\n#portswigger_lab\n#business_logic_flaw\n#hacking\n#cybersecurity",
-        "date": "2026-07-01T18:04:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124435_0_80bb53bc.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124435_1_6b525441.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124435",
-        "link": {
-          "title": "Lab: Bypassing access controls using email address parsing discrepancies ( Business logic…",
-          "url": "https://medium.com/@pritiranjanmohanta6371/lab-bypassing-access-controls-using-email-address-parsing-discrepancies-business-logic-5f4c12569918?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 124434,
-        "text": "⤷\nTitle:\nKemp LoadMaster RCE Vulnerability Exploited in the Wild After Public PoC Release\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 16:22:18 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Command\nInjection\n#CVE_2026_33691\n#CVE_2026_8037\n#Kemp\nLoadMaster\n#Progress\nSoftware\n#Remote\nCode Execution",
-        "date": "2026-07-01T18:03:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124434_0_80bb53bc.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124434_1_22ebf246.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124434",
-        "link": {
-          "title": "Kemp LoadMaster RCE Vulnerability Exploited in the Wild After Public PoC Release",
-          "url": "https://securityonline.info/kemp-loadmaster-rce-cve-2026-8037/"
-        }
-      },
-      {
-        "id": 124433,
-        "text": "⤷\nTitle:\nNVIDIA Security Updates Fix Critical Device Vulnerabilities\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 01 Jul 2026 17:03:13 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#BlueField\n#ConnectX\n#CVE\n#nvidia\n#Vulnerability",
-        "date": "2026-07-01T18:03:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124433_0_80bb53bc.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124433_1_2a5818fe.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124433",
-        "link": {
-          "title": "NVIDIA Security Updates Fix Critical Device Vulnerabilities",
-          "url": "https://securityonline.info/nvidia-security-updates-cve/"
-        }
       }
     ]
   },
-  "last_update": "2026-07-05T05:17:00.363924+00:00",
+  "last_update": "2026-07-05T08:24:15.332994+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 193,
-    "total_files": 193,
+    "total_media": 197,
+    "total_files": 197,
     "total_links": 0,
     "files_by_type": {
-      "image": 193
+      "image": 197
     },
-    "referenced_files": 193,
-    "existing_media_files": 193,
-    "total_size_mb": 4.88,
-    "last_calculation": "2026-07-05T05:17:00.366186+00:00"
+    "referenced_files": 197,
+    "existing_media_files": 197,
+    "total_size_mb": 5.24,
+    "last_calculation": "2026-07-05T08:24:15.335326+00:00"
   }
 }
