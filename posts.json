@@ -2,6 +2,52 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 124736,
+        "text": "⤷\nTitle:\nUSN Journal Full Filesystem Snapshot and Remote Exfiltration\n════════════════════════\n𐀪\nAuthor:\nS12 - 0x12Dark Development\n════════════════════════\nⴵ\nTime:\nSun, 05 Jul 2026 20:59:30 GMT\n════════════════════════\n⌗\nTags:\n#malware\n#infosec\n#cybersecurity\n#hacking\n#pentesting",
+        "date": "2026-07-05T22:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124736_0_5ffaeb9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124736_1_2b798c5a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124736",
+        "link": {
+          "title": "USN Journal Full Filesystem Snapshot and Remote Exfiltration",
+          "url": "https://medium.com/@s12deff/usn-journal-full-filesystem-snapshot-and-remote-exfiltration-e13d2a83fa9d?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 124735,
+        "text": "⤷\nTitle:\nA Glance over Various Applications of Internet of Things\n════════════════════════\n𐀪\nAuthor:\nTechdotblogs\n════════════════════════\nⴵ\nTime:\nSun, 05 Jul 2026 20:24:31 GMT\n════════════════════════\n⌗\nTags:\n#tech_dot_blogs\n#iot\n#application_security\n#technology\n#internet_of_things",
+        "date": "2026-07-05T22:03:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124735_0_5ffaeb9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124735_1_d278a59e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124735",
+        "link": {
+          "title": "A Glance over Various Applications of Internet of Things",
+          "url": "https://medium.com/@techdotblogs/a-glance-over-various-applications-of-internet-of-things-0487a5a86993?source=rss------application_security-5"
+        }
+      },
+      {
         "id": 124734,
         "text": "⤷\nTitle:\nWhat Is Ethical Hacking?\n════════════════════════\n𐀪\nAuthor:\nAnullah\n════════════════════════\nⴵ\nTime:\nSun, 05 Jul 2026 19:15:10 GMT\n════════════════════════\n⌗\nTags:\n#information_security\n#cybersecurity\n#ethical_hacking\n#certified_ethical_hacker\n#data_security",
         "date": "2026-07-05T20:04:20+00:00",
@@ -2250,56 +2296,10 @@
           "title": "Twitter, X, and the Identity Crisis of Social Networks: An Interdisciplinary Analysis Based on…",
           "url": "https://yesoroush.medium.com/twitter-x-and-the-identity-crisis-of-social-networks-an-interdisciplinary-analysis-based-on-ff3a49225188?source=rss------xss-5"
         }
-      },
-      {
-        "id": 124636,
-        "text": "⤷\nTitle:\nHTTP QUERY Method Explained:\n════════════════════════\n𐀪\nAuthor:\nSimran Madhok\n════════════════════════\nⴵ\nTime:\nSat, 04 Jul 2026 16:28:50 GMT\n════════════════════════\n⌗\nTags:\n#http_query\n#api_development\n#rest_api\n#api_security\n#web_development",
-        "date": "2026-07-04T18:04:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124636_0_3f0bbc19.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124636_1_c2b6752e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124636",
-        "link": {
-          "title": "HTTP QUERY Method Explained:",
-          "url": "https://medium.com/@madhok.simran8/http-query-method-explained-1fd8299add3a?source=rss------api_security-5"
-        }
-      },
-      {
-        "id": 124635,
-        "text": "⤷\nTitle:\nFools Mate — TryHackMe Writeup\n════════════════════════\n𐀪\nAuthor:\nPoojan Parmar\n════════════════════════\nⴵ\nTime:\nSat, 04 Jul 2026 16:38:19 GMT\n════════════════════════\n⌗\nTags:\n#ai\n#cybersecurity\n#security_research\n#tryhackme\n#tryhackme_walkthrough",
-        "date": "2026-07-04T18:04:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124635_0_3f0bbc19.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124635_1_c01fb6f6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124635",
-        "link": {
-          "title": "Fools Mate — TryHackMe Writeup",
-          "url": "https://medium.com/@poojancoder/fools-mate-tryhackme-writeup-9cbf7cfdf622?source=rss------tryhackme-5"
-        }
       }
     ]
   },
-  "last_update": "2026-07-05T21:33:04.898396+00:00",
+  "last_update": "2026-07-05T22:47:41.908737+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2311,7 +2311,7 @@
     },
     "referenced_files": 199,
     "existing_media_files": 199,
-    "total_size_mb": 5.12,
-    "last_calculation": "2026-07-05T21:33:04.900733+00:00"
+    "total_size_mb": 5.0,
+    "last_calculation": "2026-07-05T22:47:41.911190+00:00"
   }
 }
