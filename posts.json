@@ -2,6 +2,454 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 124838,
+        "text": "⤷\nTitle:\nCVE-2026–10100: Stored XSS in Simple Custom Login Page WordPress Plugin\n════════════════════════\n𐀪\nAuthor:\nCyberPodcast\n════════════════════════\nⴵ\nTime:\nMon, 06 Jul 2026 13:01:03 GMT\n════════════════════════\n⌗\nTags:\n#cve\n#xss_attack\n#xs\n#xss_vulnerability\n#stored_xss",
+        "date": "2026-07-06T14:04:45+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124838_0_5ffaeb9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124838_1_6ee2595f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124838",
+        "link": {
+          "title": "CVE-2026–10100: Stored XSS in Simple Custom Login Page WordPress Plugin",
+          "url": "https://medium.com/@cyberpodcast/cve-2026-10100-stored-xss-in-simple-custom-login-page-wordpress-plugin-f33753f29d07?source=rss------xss-5"
+        }
+      },
+      {
+        "id": 124837,
+        "text": "⤷\nTitle:\nCVE-2026–38075: API keys remained valid after account suspension in RocketAdmin\n════════════════════════\n𐀪\nAuthor:\nPrath\n════════════════════════\nⴵ\nTime:\nMon, 06 Jul 2026 12:34:14 GMT\n════════════════════════\n⌗\nTags:\n#api_security\n#cve\n#vulnerability_research\n#cybersecurity",
+        "date": "2026-07-06T14:04:42+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124837_0_5ffaeb9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124837_1_6a439712.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124837",
+        "link": {
+          "title": "CVE-2026–38075: API keys remained valid after account suspension in RocketAdmin",
+          "url": "https://prathameshbagul.medium.com/cve-2026-38075-api-keys-remained-valid-after-account-suspension-in-rocketadmin-3023d80b6470?source=rss------api_security-5"
+        }
+      },
+      {
+        "id": 124836,
+        "text": "⤷\nTitle:\nAnnie CTF\n════════════════════════\n𐀪\nAuthor:\nKieranglen\n════════════════════════\nⴵ\nTime:\nMon, 06 Jul 2026 13:25:23 GMT\n════════════════════════\n⌗\nTags:\n#ctf_writeup\n#tryhackme",
+        "date": "2026-07-06T14:04:39+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124836_0_5ffaeb9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124836_1_e7b7a8d1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124836",
+        "link": {
+          "title": "Annie CTF",
+          "url": "https://medium.com/@kieranglen007/annie-ctf-c6002f4bdb73?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 124835,
+        "text": "⤷\nTitle:\nNFS Enumeration & Exploitation | A Practical Writeup\n════════════════════════\n𐀪\nAuthor:\nSayed Ahmed\n════════════════════════\nⴵ\nTime:\nMon, 06 Jul 2026 12:27:20 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#cybersecurity\n#linux\n#tryhackme\n#fn",
+        "date": "2026-07-06T14:04:35+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124835_0_5ffaeb9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124835_1_e493e5b6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124835",
+        "link": {
+          "title": "NFS Enumeration & Exploitation | A Practical Writeup",
+          "url": "https://medium.com/@sayedagag926/nfs-enumeration-exploitation-a-practical-writeup-7dad64c058ae?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 124834,
+        "text": "⤷\nTitle:\nBrooklyn Nine Nine | From Anonymous FTP to Root Access | TryHackMe\n════════════════════════\n𐀪\nAuthor:\nGokulnaath | Offensive Security\n════════════════════════\nⴵ\nTime:\nMon, 06 Jul 2026 12:51:16 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#cybersecurity\n#gtfobins\n#tryhackme",
+        "date": "2026-07-06T14:04:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124834_0_5ffaeb9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124834_1_f12661ec.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124834",
+        "link": {
+          "title": "Brooklyn Nine Nine | From Anonymous FTP to Root Access | TryHackMe",
+          "url": "https://medium.com/@gokupa/brooklyn-nine-nine-from-anonymous-ftp-to-root-access-tryhackme-0134e5b5ba4e?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 124833,
+        "text": "⤷\nTitle:\nRabbit Store (THM) Tryhackme Medium Challenge\n════════════════════════\n𐀪\nAuthor:\nLawvye\n════════════════════════\nⴵ\nTime:\nMon, 06 Jul 2026 12:40:12 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#cybersecurity\n#hacking\n#linux\n#privilege_escalation",
+        "date": "2026-07-06T14:04:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124833_0_5ffaeb9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124833_1_93ee43eb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124833",
+        "link": {
+          "title": "Rabbit Store (THM) Tryhackme Medium Challenge",
+          "url": "https://medium.com/@lawvye/rabbit-store-thm-tryhackme-medium-challenge-da4b2d413dd0?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 124832,
+        "text": "⤷\nTitle:\nTop Hacks and Cheats for Dota 2: My Opinion and In-Depth Breakdown of the Market Leader\n════════════════════════\n𐀪\nAuthor:\nAurelivoines\n════════════════════════\nⴵ\nTime:\nMon, 06 Jul 2026 13:31:15 GMT\n════════════════════════\n⌗\nTags:\n#gamehacking\n#hacking\n#hacks\n#cheats\n#dota_2",
+        "date": "2026-07-06T14:04:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124832_0_5ffaeb9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124832_1_cf4c1e2b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124832",
+        "link": {
+          "title": "Top Hacks and Cheats for Dota 2: My Opinion and In-Depth Breakdown of the Market Leader",
+          "url": "https://medium.com/@aurelivoines/top-hacks-and-cheats-for-dota-2-my-opinion-and-in-depth-breakdown-of-the-market-leader-152a508e1ef4?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 124831,
+        "text": "⤷\nTitle:\nMephisto Explained | AI-Powered WordPress Security Testing\n════════════════════════\n𐀪\nAuthor:\nPentester Club\n════════════════════════\nⴵ\nTime:\nMon, 06 Jul 2026 12:35:00 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#cybersecurity\n#wordpress\n#artificial_intelligence\n#bug_bounty",
+        "date": "2026-07-06T14:04:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124831_0_5ffaeb9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124831_1_da4df0d3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124831",
+        "link": {
+          "title": "Mephisto Explained | AI-Powered WordPress Security Testing",
+          "url": "https://medium.com/@pentesterclubpvtltd/mephisto-explained-ai-powered-wordpress-security-testing-c11e78cf73af?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 124830,
+        "text": "⤷\nTitle:\nBeyond Bug Counts: What Actually Measures a QA Engineer’s Productivity?\n════════════════════════\n𐀪\nAuthor:\nUmairQA\n════════════════════════\nⴵ\nTime:\nMon, 06 Jul 2026 12:53:19 GMT\n════════════════════════\n⌗\nTags:\n#umairqa\n#bug_bounty\n#qa_testing\n#software_bugs\n#software_testing",
+        "date": "2026-07-06T14:04:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124830_0_5ffaeb9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124830_1_2772d3f8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124830",
+        "link": {
+          "title": "Beyond Bug Counts: What Actually Measures a QA Engineer’s Productivity?",
+          "url": "https://umairqa.medium.com/beyond-bug-counts-what-actually-measures-a-qa-engineers-productivity-75a22b80db94?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 124829,
+        "text": "⤷\nTitle:\nServer-Side XSS via PDF Generation Functionality\n════════════════════════\n𐀪\nAuthor:\nMohamed\n════════════════════════\nⴵ\nTime:\nMon, 06 Jul 2026 13:15:16 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty",
+        "date": "2026-07-06T14:04:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124829_0_5ffaeb9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124829_1_b0a16670.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124829",
+        "link": {
+          "title": "Server-Side XSS via PDF Generation Functionality",
+          "url": "https://medium.com/@mohamed10111213141516171819/server-side-xss-via-pdf-generation-functionality-d564c512f506?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 124828,
+        "text": "⤷\nTitle:\nValleyRAT Malware Hits Japanese and Chinese Users Through Email Attacks\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 06 Jul 2026 12:21:55 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#DLL\nSideloading\n#Fileless\nMalware\n#LevelBlue\n#Remote\nAccess Trojan\n#ValleyRAT",
+        "date": "2026-07-06T14:04:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124828_0_5ffaeb9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124828_1_7ab2a06f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124828",
+        "link": {
+          "title": "ValleyRAT Malware Hits Japanese and Chinese Users Through Email Attacks",
+          "url": "https://securityonline.info/valleyrat-malware-email-campaign/"
+        }
+      },
+      {
+        "id": 124827,
+        "text": "⤷\nTitle:\nInsignary Closes SBOM Accuracy Gap With Binary-Level Clarity for Regulatory Risk\n════════════════════════\n𐀪\nAuthor:\ncybernewswire\n════════════════════════\nⴵ\nTime:\nMon, 06 Jul 2026 12:30:48 +0000\n════════════════════════\n⌗\nTags:\n#Press\nRelease",
+        "date": "2026-07-06T14:04:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124827_0_5ffaeb9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124827_1_54529fb8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124827",
+        "link": {
+          "title": "Insignary Closes SBOM Accuracy Gap With Binary-Level Clarity for Regulatory Risk",
+          "url": "https://securityonline.info/insignary-closes-sbom-accuracy-gap-with-binary-level-clarity-for-regulatory-risk/"
+        }
+      },
+      {
+        "id": 124826,
+        "text": "⤷\nTitle:\n7 FatFs Bugs Threaten Embedded Devices via Removable Media\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nMon, 06 Jul 2026 13:40:31 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\n#CVE_2026_6682\n#Embedded\nSecurity\n#FatFs\n#Firmware\nSecurity\n#IoT\nSecurity\n#RTOS\nVulnerability\n#runZero",
+        "date": "2026-07-06T14:04:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124826_0_5ffaeb9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124826_1_f5cb3d7e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124826",
+        "link": {
+          "title": "7 FatFs Bugs Threaten Embedded Devices via Removable Media",
+          "url": "https://meterpreter.org/fatfs-vulnerabilities-embedded-devices/"
+        }
+      },
+      {
+        "id": 124825,
+        "text": "⤷\nTitle:\nInsignary Closes SBOM Accuracy Gap With Binary-Level Clarity for Regulatory Risk\n════════════════════════\n𐀪\nAuthor:\nCyberNewswire\n════════════════════════\nⴵ\nTime:\nMon, 06 Jul 2026 12:30:06 +0000\n════════════════════════\n⌗\nTags:\n#Press\nRelease\n#CISO\n#Report",
+        "date": "2026-07-06T14:04:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124825_0_5ffaeb9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124825_1_5bdfd311.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124825",
+        "link": {
+          "title": "Insignary Closes SBOM Accuracy Gap With Binary-Level Clarity for Regulatory Risk",
+          "url": "https://hackread.com/insignary-closes-sbom-accuracy-gap-with-binary-level-clarity-for-regulatory-risk/"
+        }
+      },
+      {
+        "id": 124824,
+        "text": "⤷\nTitle:\nClickFix Scams Abuse Google, Cloudflare Checks to Deliver 7 Malware Families\n════════════════════════\n𐀪\nAuthor:\nWaqas\n════════════════════════\nⴵ\nTime:\nMon, 06 Jul 2026 12:39:37 +0000\n════════════════════════\n⌗\nTags:\n#Security\n#Malware\n#Scams\nand Fraud\n#ClickFix\n#CloudFlare\n#Cyber\nAttack\n#Cybersecurity\n#Google",
+        "date": "2026-07-06T14:03:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124824_0_5ffaeb9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124824_1_ce8fbb83.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124824",
+        "link": {
+          "title": "ClickFix Scams Abuse Google, Cloudflare Checks to Deliver 7 Malware Families",
+          "url": "https://hackread.com/clickfix-scam-google-cloudflare-7-malware-families/"
+        }
+      },
+      {
+        "id": 124823,
+        "text": "⤷\nTitle:\nSuspected China-Nexus Hackers Use Fake Indian Tax Filing Utility to Deploy DcRAT\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nMon, 06 Jul 2026 16:28:16 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-07-06T14:03:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124823_0_5ffaeb9d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124823",
+        "link": {
+          "title": "Suspected China-Nexus Hackers Use Fake Indian Tax Filing Utility to Deploy DcRAT",
+          "url": "https://thehackernews.com/2026/07/suspected-china-nexus-hackers-use-fake.html"
+        }
+      },
+      {
+        "id": 124822,
+        "text": "⤷\nTitle:\nHow to Evaluate an AI SOC Platform in 2026: 6 Capabilities That Separate Leaders from Bolt-On AI solutions\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nMon, 06 Jul 2026 17:00:02 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-07-06T14:03:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124822_0_5ffaeb9d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124822",
+        "link": {
+          "title": "How to Evaluate an AI SOC Platform in 2026: 6 Capabilities That Separate Leaders from Bolt-On AI solutions",
+          "url": "https://thehackernews.com/2026/07/how-to-evaluate-ai-soc-platform-in-2026.html"
+        }
+      },
+      {
+        "id": 124821,
+        "text": "⤷\nTitle:\n⚡\nWeekly Recap: Proxy Botnets, Browser Ransomware, AI Agent Tricks, Fake PoC Malware and More\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nMon, 06 Jul 2026 18:31:14 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-07-06T14:03:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124821_0_5ffaeb9d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124821",
+        "link": {
+          "title": "⚡Weekly Recap: Proxy Botnets, Browser Ransomware, AI Agent Tricks, Fake PoC Malware and More",
+          "url": "https://thehackernews.com/2026/07/monday-recap-proxy-botnets-browser.html"
+        }
+      },
+      {
+        "id": 124820,
+        "text": "⤷\nTitle:\nAPI Security Testing Tools Market Size, Share | Growth Report, 2026–2033\n════════════════════════\n𐀪\nAuthor:\nNIkita Poplai\n════════════════════════\nⴵ\nTime:\nMon, 06 Jul 2026 11:57:08 GMT\n════════════════════════\n⌗\nTags:\n#api\n#api_security\n#technology",
+        "date": "2026-07-06T12:04:41+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124820_0_5ffaeb9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124820_1_e2bf82ab.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124820",
+        "link": {
+          "title": "API Security Testing Tools Market Size, Share | Growth Report, 2026–2033",
+          "url": "https://medium.com/@nikitapoplai006/api-security-testing-tools-market-size-share-growth-report-2026-2033-92454e9181d0?source=rss------api_security-5"
+        }
+      },
+      {
+        "id": 124819,
+        "text": "⤷\nTitle:\nWhat is Cyber Security? A Complete Guide for Beginners\n════════════════════════\n𐀪\nAuthor:\nGokul\n════════════════════════\nⴵ\nTime:\nMon, 06 Jul 2026 10:26:37 GMT\n════════════════════════\n⌗\nTags:\n#data_science\n#cybersecurity\n#information_security\n#ethical_hacking",
+        "date": "2026-07-06T12:04:38+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124819_0_5ffaeb9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124819_1_86387b08.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124819",
+        "link": {
+          "title": "What is Cyber Security? A Complete Guide for Beginners",
+          "url": "https://medium.com/@madhugokul042/what-is-cyber-security-a-complete-guide-for-beginners-70a770a55b03?source=rss------ethical_hacking-5"
+        }
+      },
+      {
         "id": 124805,
         "text": "⤷\nTitle:\nCVE-2025–43807: Stored Cross-Site Scripting (XSS) Vulnerability in Liferay Portal Explained\n════════════════════════\n𐀪\nAuthor:\nLoginsoft\n════════════════════════\nⴵ\nTime:\nMon, 06 Jul 2026 09:03:08 GMT\n════════════════════════\n⌗\nTags:\n#xss_vulnerability\n#cybersecurity\n#cross_site_scripting\n#loginsoft\n#cve_2025_43807",
         "date": "2026-07-06T10:04:32+00:00",
@@ -1828,482 +2276,22 @@
           "title": "Introduction to SIEM | TryHackMe Walkthrough",
           "url": "https://medium.com/@omarsherif1135/introduction-to-siem-tryhackme-walkthrough-3543a48063a8?source=rss------tryhackme-5"
         }
-      },
-      {
-        "id": 124701,
-        "text": "⤷\nTitle:\nSQL Injection (SQLi) 101: How to Spot It and How to Exploit It\n════════════════════════\n𐀪\nAuthor:\nAlperen\n════════════════════════\nⴵ\nTime:\nSun, 05 Jul 2026 13:00:12 GMT\n════════════════════════\n⌗\nTags:\n#web_security\n#sql_injection\n#penetration_testing\n#cybersecurity",
-        "date": "2026-07-05T14:04:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124701_0_3f0bbc19.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124701_1_4fef61ba.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124701",
-        "link": {
-          "title": "SQL Injection (SQLi) 101: How to Spot It and How to Exploit It",
-          "url": "https://medium.com/@enisalprn/sql-injection-sqli-101-how-to-spot-it-and-how-to-exploit-it-b3bc074daa90?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 124700,
-        "text": "⤷\nTitle:\nAthena (THM) Tryhackme Medium Challenge\n════════════════════════\n𐀪\nAuthor:\nLawvye\n════════════════════════\nⴵ\nTime:\nSun, 05 Jul 2026 13:06:14 GMT\n════════════════════════\n⌗\nTags:\n#privilege_escalation\n#cybersecurity\n#reverse_engineering\n#tryhackme\n#hacking",
-        "date": "2026-07-05T14:04:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124700_0_3f0bbc19.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124700_1_c956569a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124700",
-        "link": {
-          "title": "Athena (THM) Tryhackme Medium Challenge",
-          "url": "https://medium.com/@lawvye/athena-thm-tryhackme-medium-challenge-53bad5af4b76?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 124699,
-        "text": "⤷\nTitle:\nI Audited a Vibe-Coded Startup. Then I Found Out 98% of AI-Built Apps Have the Same Flaws.\n════════════════════════\n𐀪\nAuthor:\nKarliwson (Kaká) Oliveira\n════════════════════════\nⴵ\nTime:\nSat, 04 Jul 2026 02:07:37 GMT\n════════════════════════\n⌗\nTags:\n#vibe_coding\n#software_engineering\n#application_security\n#cybersecurity\n#ai_coding",
-        "date": "2026-07-05T14:04:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124699_0_3f0bbc19.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124699_1_37c7cc78.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124699",
-        "link": {
-          "title": "I Audited a Vibe-Coded Startup. Then I Found Out 98% of AI-Built Apps Have the Same Flaws.",
-          "url": "https://medium.com/ai-security-hub/the-vibe-coding-security-gap-9a1c3fb7fecf?source=rss------application_security-5"
-        }
-      },
-      {
-        "id": 124698,
-        "text": "⤷\nTitle:\nHow Hackers Find and Target Vulnerable Websites: The Complete Technical Breakdown\n════════════════════════\n𐀪\nAuthor:\nMainEkHacker\n════════════════════════\nⴵ\nTime:\nSun, 05 Jul 2026 12:31:00 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#bug_bounty_writeup\n#information_security\n#cybersecurity\n#bug_bounty_tips",
-        "date": "2026-07-05T14:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124698_0_3f0bbc19.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124698_1_f33f2eda.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124698",
-        "link": {
-          "title": "How Hackers Find and Target Vulnerable Websites: The Complete Technical Breakdown",
-          "url": "https://mainekhacker.medium.com/how-hackers-find-and-target-vulnerable-websites-the-complete-technical-breakdown-68a53136ecc9?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 124697,
-        "text": "⤷\nTitle:\nMETATRON Explained | AI-Powered Security Analysis with Local LLMs\n════════════════════════\n𐀪\nAuthor:\nPentester Club\n════════════════════════\nⴵ\nTime:\nSun, 05 Jul 2026 13:11:52 GMT\n════════════════════════\n⌗\nTags:\n#web_development\n#bug_bounty\n#artificial_intelligence\n#cybersecurity\n#hacking",
-        "date": "2026-07-05T14:03:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124697_0_3f0bbc19.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124697_1_8d7ce9a9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124697",
-        "link": {
-          "title": "METATRON Explained | AI-Powered Security Analysis with Local LLMs",
-          "url": "https://medium.com/@pentesterclubpvtltd/metatron-explained-ai-powered-security-analysis-with-local-llms-b6f6bbf56734?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 124696,
-        "text": "⤷\nTitle:\nYour Admin Panel Isn’t Protected. It’s Just Hidden.\n════════════════════════\n𐀪\nAuthor:\nVibesecurity\n════════════════════════\nⴵ\nTime:\nSun, 05 Jul 2026 13:27:07 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#bug_bounty_writeup\n#infosec\n#bug_bounty_tips\n#bug_bounty",
-        "date": "2026-07-05T14:03:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124696_0_3f0bbc19.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124696_1_b34b81b5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124696",
-        "link": {
-          "title": "Your Admin Panel Isn’t Protected. It’s Just Hidden.",
-          "url": "https://medium.com/@abhishek__30235/your-admin-panel-isnt-protected-it-s-just-hidden-4448e46266bf?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 124695,
-        "text": "⤷\nTitle:\nBroken Access Control: Low Privilege, Full Organization Visibility\n════════════════════════\n𐀪\nAuthor:\n0xMo7areb\n════════════════════════\nⴵ\nTime:\nSun, 05 Jul 2026 13:56:00 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#technology\n#bug_bounty_tips\n#innovation\n#cybersecurity",
-        "date": "2026-07-05T14:03:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124695_0_3f0bbc19.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124695_1_bfdab8a2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124695",
-        "link": {
-          "title": "Broken Access Control: Low Privilege, Full Organization Visibility",
-          "url": "https://medium.com/@0xMo7areb/broken-access-control-low-privilege-full-organization-visibility-f6f987503648?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 124694,
-        "text": "⤷\nTitle:\nHackthebox: Facts Walkthrough | v3cn4\n════════════════════════\n𐀪\nAuthor:\nMuhammad Arafat\n════════════════════════\nⴵ\nTime:\nSun, 05 Jul 2026 11:32:06 GMT\n════════════════════════\n⌗\nTags:\n#web_exploitation\n#privilege_escalation\n#linux\n#hackthebox\n#hackthebox_writeup",
-        "date": "2026-07-05T12:04:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124694_0_3f0bbc19.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124694_1_68f44c24.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124694",
-        "link": {
-          "title": "Hackthebox: Facts Walkthrough | v3cn4",
-          "url": "https://v3cn4.medium.com/hackthebox-facts-walkthrough-v3cn4-2800ed06873b?source=rss------hackthebox_writeup-5"
-        }
-      },
-      {
-        "id": 124693,
-        "text": "⤷\nTitle:\nHackthebox: Pterodactyl Walkthrough | v3cn4\n════════════════════════\n𐀪\nAuthor:\nMuhammad Arafat\n════════════════════════\nⴵ\nTime:\nSun, 05 Jul 2026 11:39:10 GMT\n════════════════════════\n⌗\nTags:\n#hackthebox_writeup\n#linux\n#hackthebox\n#exploitation\n#cybersecurity",
-        "date": "2026-07-05T12:04:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124693_0_3f0bbc19.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124693_1_800e885c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124693",
-        "link": {
-          "title": "Hackthebox: Pterodactyl Walkthrough | v3cn4",
-          "url": "https://v3cn4.medium.com/hackthebox-pterodactyl-walkthrough-v3cn4-790a5022e589?source=rss------hackthebox_writeup-5"
-        }
-      },
-      {
-        "id": 124692,
-        "text": "⤷\nTitle:\nHTB Machine Walkthrough: Forest\n════════════════════════\n𐀪\nAuthor:\nBalachandar Gowrisankar\n════════════════════════\nⴵ\nTime:\nSun, 05 Jul 2026 11:53:12 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#cybersecurity\n#hackthebox_writeup\n#active_directory",
-        "date": "2026-07-05T12:04:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124692_0_3f0bbc19.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124692_1_03eff1c8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124692",
-        "link": {
-          "title": "HTB Machine Walkthrough: Forest",
-          "url": "https://anirbala98.medium.com/htb-machine-walkthrough-forest-6f9c2aaf0f47?source=rss------hackthebox_writeup-5"
-        }
-      },
-      {
-        "id": 124691,
-        "text": "⤷\nTitle:\nBlind XSS | TryHackMe CTF Walkthrough| by Dharavath Nagaraju\n════════════════════════\n𐀪\nAuthor:\nDharavathnagaraju\n════════════════════════\nⴵ\nTime:\nSun, 05 Jul 2026 10:50:28 GMT\n════════════════════════\n⌗\nTags:\n#web_application_security\n#cybersecuirty\n#blind_xss\n#xss_vulnerability\n#tryhackme",
-        "date": "2026-07-05T12:04:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124691_0_3f0bbc19.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124691_1_0193307b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124691",
-        "link": {
-          "title": "Blind XSS | TryHackMe CTF Walkthrough| by Dharavath Nagaraju",
-          "url": "https://medium.com/@dharavathnagaraju2973/blind-xss-tryhackme-ctf-walkthrough-by-dharavath-nagaraju-2323d2f90c64?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 124690,
-        "text": "⤷\nTitle:\nTryHackMe “Domino” Writeup | XSS, IDOR & JWT Bypass to Root\n════════════════════════\n𐀪\nAuthor:\nmatteo-iacovantuono\n════════════════════════\nⴵ\nTime:\nSun, 05 Jul 2026 10:51:13 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#pentesting\n#ctf\n#ctf_writeup\n#web_application_security",
-        "date": "2026-07-05T12:04:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124690_0_3f0bbc19.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124690_1_f6314d65.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124690",
-        "link": {
-          "title": "TryHackMe “Domino” Writeup | XSS, IDOR & JWT Bypass to Root",
-          "url": "https://medium.com/@matteo.h.iacovantuono/tryhackme-domino-writeup-xss-idor-jwt-bypass-to-root-010c2aec0b25?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 124689,
-        "text": "⤷\nTitle:\nI just completed Offensive Security Intro room on TryHackMe\n════════════════════════\n𐀪\nAuthor:\nDaniyalfaisal\n════════════════════════\nⴵ\nTime:\nSun, 05 Jul 2026 11:33:49 GMT\n════════════════════════\n⌗\nTags:\n#offensive_security\n#cybersecurity\n#deep_learning\n#tryhackme",
-        "date": "2026-07-05T12:04:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124689_0_3f0bbc19.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124689_1_be3f76e0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124689",
-        "link": {
-          "title": "I just completed Offensive Security Intro room on TryHackMe",
-          "url": "https://medium.com/@daniyalfaisal6969/i-just-completed-offensive-security-intro-room-on-tryhackme-f24a7958898f?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 124688,
-        "text": "⤷\nTitle:\nTryHackMe Series #2 — RootMe\n════════════════════════\n𐀪\nAuthor:\nDeepanshusharma\n════════════════════════\nⴵ\nTime:\nSun, 05 Jul 2026 10:38:38 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#penetration_testing\n#ethical_hacking\n#linux\n#tryhackme",
-        "date": "2026-07-05T12:04:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124688_0_3f0bbc19.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124688_1_456ba587.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124688",
-        "link": {
-          "title": "TryHackMe Series #2 — RootMe",
-          "url": "https://medium.com/@deepanshu123sharma4/tryhackme-series-2-rootme-0e7a8dde7579?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 124687,
-        "text": "⤷\nTitle:\nPenetration Testing AI Agents: Securing the Next Generation of Intelligent Applications\n════════════════════════\n𐀪\nAuthor:\nJesse Marlow\n════════════════════════\nⴵ\nTime:\nSun, 05 Jul 2026 10:39:52 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#devops\n#cybersecurity\n#penetration_testing\n#software_development",
-        "date": "2026-07-05T12:04:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124687_0_3f0bbc19.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124687_1_769c2010.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124687",
-        "link": {
-          "title": "Penetration Testing AI Agents: Securing the Next Generation of Intelligent Applications",
-          "url": "https://medium.com/@zinolioncity/penetration-testing-ai-agents-securing-the-next-generation-of-intelligent-applications-e59dfa0f7520?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 124686,
-        "text": "⤷\nTitle:\nDemystifying the OS: A Hands-On Guide to Windows Administration, Linux CLI, and Root Escalation\n════════════════════════\n𐀪\nAuthor:\nAhmad Raza\n════════════════════════\nⴵ\nTime:\nSun, 05 Jul 2026 10:47:38 GMT\n════════════════════════\n⌗\nTags:\n#linux\n#windows\n#cybersecurity\n#operating_systems\n#infosec",
-        "date": "2026-07-05T12:03:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124686_0_3f0bbc19.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124686_1_20d597e2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124686",
-        "link": {
-          "title": "Demystifying the OS: A Hands-On Guide to Windows Administration, Linux CLI, and Root Escalation",
-          "url": "https://medium.com/@ar37191258/demystifying-the-os-a-hands-on-guide-to-windows-administration-linux-cli-and-root-escalation-a0c882fc44c9?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 124685,
-        "text": "⤷\nTitle:\nGoogle Dorking for Bug Hunters\n════════════════════════\n𐀪\nAuthor:\nNitin yadav\n════════════════════════\nⴵ\nTime:\nSun, 05 Jul 2026 11:31:00 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#google_dork\n#hacking\n#cybersecurity\n#google",
-        "date": "2026-07-05T12:03:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124685_0_3f0bbc19.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124685_1_ef07d303.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124685",
-        "link": {
-          "title": "Google Dorking for Bug Hunters",
-          "url": "https://kd-200.medium.com/google-dorking-for-bug-hunters-4cd05061906d?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 124684,
-        "text": "⤷\nTitle:\nThey Said Our Health Matters. My Privacy Didn’t.\n════════════════════════\n𐀪\nAuthor:\nChirag Goel\n════════════════════════\nⴵ\nTime:\nSun, 05 Jul 2026 10:51:24 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#information_security\n#healthcare\n#ethical_hacking\n#cybersecurity",
-        "date": "2026-07-05T12:03:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124684_0_3f0bbc19.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124684_1_d6e743ec.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124684",
-        "link": {
-          "title": "They Said Our Health Matters. My Privacy Didn’t.",
-          "url": "https://garihc-leog.medium.com/they-said-our-health-matters-my-privacy-didnt-3e9cb0fa554f?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 124683,
-        "text": "⤷\nTitle:\nI Built an AI Agent That Hunts Web Vulnerabilities\n════════════════════════\n𐀪\nAuthor:\nOm Chaudhari\n════════════════════════\nⴵ\nTime:\nSun, 05 Jul 2026 10:54:34 GMT\n════════════════════════\n⌗\nTags:\n#artificial_intelligence\n#bug_bounty\n#cybersecurity\n#ai_agent\n#open_source",
-        "date": "2026-07-05T12:03:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124683_0_3f0bbc19.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124683_1_b3038050.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124683",
-        "link": {
-          "title": "I Built an AI Agent That Hunts Web Vulnerabilities",
-          "url": "https://medium.com/@chaudhariom360/i-built-an-ai-agent-that-hunts-web-vulnerabilities-843f69d07fc3?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 124682,
-        "text": "⤷\nTitle:\nWhat Is the Eligibility Criteria for a Cyber Security Diploma After 12th?\n════════════════════════\n𐀪\nAuthor:\ncybersecuritycourse\n════════════════════════\nⴵ\nTime:\nSun, 05 Jul 2026 08:04:30 GMT\n════════════════════════\n⌗\nTags:\n#cyber_security_solutions\n#cybersecurity\n#cybersecurity_training\n#ethical_hacking\n#education",
-        "date": "2026-07-05T10:08:33+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124682_0_3f0bbc19.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124682_1_cd051cc2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124682",
-        "link": {
-          "title": "What Is the Eligibility Criteria for a Cyber Security Diploma After 12th?",
-          "url": "https://medium.com/@cybersecuritycourse/what-is-the-eligibility-criteria-for-a-cyber-security-diploma-after-12th-ae0ff024290d?source=rss------ethical_hacking-5"
-        }
       }
     ]
   },
-  "last_update": "2026-07-06T11:11:42.517547+00:00",
+  "last_update": "2026-07-06T14:42:22.171539+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 197,
-    "total_files": 197,
+    "total_media": 194,
+    "total_files": 194,
     "total_links": 0,
     "files_by_type": {
-      "image": 197
+      "image": 194
     },
-    "referenced_files": 197,
-    "existing_media_files": 197,
-    "total_size_mb": 5.22,
-    "last_calculation": "2026-07-06T11:11:42.519926+00:00"
+    "referenced_files": 194,
+    "existing_media_files": 194,
+    "total_size_mb": 5.19,
+    "last_calculation": "2026-07-06T14:42:22.173978+00:00"
   }
 }
