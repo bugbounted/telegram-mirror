@@ -2,6 +2,144 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 124889,
+        "text": "⤷\nTitle:\nDay 6: Who Are You, and What Can You Do? Kubernetes Auth, Demystified\n════════════════════════\n𐀪\nAuthor:\nUnixSingh\n════════════════════════\nⴵ\nTime:\nMon, 06 Jul 2026 21:33:20 GMT\n════════════════════════\n⌗\nTags:\n#devsecops\n#k8s\n#cloud_security\n#infosec\n#cybersecurity",
+        "date": "2026-07-06T22:04:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124889_0_e58ca074.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124889_1_7fb5f42a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124889",
+        "link": {
+          "title": "Day 6: Who Are You, and What Can You Do? Kubernetes Auth, Demystified",
+          "url": "https://unixsingh.medium.com/day-6-who-are-you-and-what-can-you-do-kubernetes-auth-demystified-4d4720f03580?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 124888,
+        "text": "⤷\nTitle:\nStop Blocking Domains. Here’s How to Actually Protect Yourself.\n════════════════════════\n𐀪\nAuthor:\nPop123\n════════════════════════\nⴵ\nTime:\nMon, 06 Jul 2026 21:15:38 GMT\n════════════════════════\n⌗\nTags:\n#technology\n#hacking\n#cybersecurity\n#data_protection\n#domains",
+        "date": "2026-07-06T22:04:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124888_0_e58ca074.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124888_1_89340dd3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124888",
+        "link": {
+          "title": "Stop Blocking Domains. Here’s How to Actually Protect Yourself.",
+          "url": "https://medium.com/@Pop123/stop-blocking-domains-heres-how-to-actually-protect-yourself-7e10301942eb?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 124887,
+        "text": "⤷\nTitle:\nWe Audited Our Own Security Tool Before Asking Anyone Else to Trust It\n════════════════════════\n𐀪\nAuthor:\nAnkit Das\n════════════════════════\nⴵ\nTime:\nMon, 06 Jul 2026 20:19:09 GMT\n════════════════════════\n⌗\nTags:\n#building_in_public\n#startup\n#cybersecurity\n#software_engineering\n#application_security",
+        "date": "2026-07-06T22:03:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124887_0_e58ca074.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124887_1_d579d94c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124887",
+        "link": {
+          "title": "We Audited Our Own Security Tool Before Asking Anyone Else to Trust It",
+          "url": "https://medium.com/@defiankit/we-audited-our-own-security-tool-before-asking-anyone-else-to-trust-it-fe1b2c3ee54b?source=rss------application_security-5"
+        }
+      },
+      {
+        "id": 124886,
+        "text": "⤷\nTitle:\nWhen Changing an Email Isn’t Enough: Discovering a Persistent Account Takeover and Session Leakage…\n════════════════════════\n𐀪\nAuthor:\nZyadatef\n════════════════════════\nⴵ\nTime:\nMon, 06 Jul 2026 20:12:41 GMT\n════════════════════════\n⌗\nTags:\n#hacker\n#cybersecurity\n#hackerone\n#penetration_testing\n#bug_bounty",
+        "date": "2026-07-06T22:03:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124886_0_e58ca074.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124886_1_91ce51c7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124886",
+        "link": {
+          "title": "When Changing an Email Isn’t Enough: Discovering a Persistent Account Takeover and Session Leakage…",
+          "url": "https://medium.com/@zyadatef2462003/when-changing-an-email-isnt-enough-discovering-a-persistent-account-takeover-and-session-leakage-b0e1cc0b77ac?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 124885,
+        "text": "⤷\nTitle:\nHow I Bypassed Mandatory 2FA Three Ways on a multi tenant SaaS Platform (~$1,125)\n════════════════════════\n𐀪\nAuthor:\nGautam Sharma\n════════════════════════\nⴵ\nTime:\nMon, 06 Jul 2026 20:58:13 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_writeup\n#bug_bounty\n#bug_bounty_tips\n#penetration_testing\n#cybersecurity",
+        "date": "2026-07-06T22:03:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124885_0_e58ca074.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124885_1_18cc128e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124885",
+        "link": {
+          "title": "How I Bypassed Mandatory 2FA Three Ways on a multi tenant SaaS Platform (~$1,125)",
+          "url": "https://medium.com/@gautam2001sharma17/how-i-bypassed-mandatory-2fa-three-ways-on-a-multi-tenant-saas-platform-1-125-b69b6f275a0f?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 124884,
+        "text": "⤷\nTitle:\nHook Chains (how I built Crystal Kit incorrectly*)\n════════════════════════\n𐀪\nAuthor:\nRasta Mouse\n════════════════════════\nⴵ\nTime:\nMon, 06 Jul 2026 20:29:30 GMT\n════════════════════════\n⌗\nTags:\n#crystal_palace",
+        "date": "2026-07-06T22:03:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124884_0_e58ca074.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124884_1_93100307.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124884",
+        "link": {
+          "title": "Hook Chains (how I built Crystal Kit incorrectly*)",
+          "url": "https://rastamouse.me/cpl-hook-chains/"
+        }
+      },
+      {
         "id": 124883,
         "text": "⤷\nTitle:\nLinux Shells — TryHackMe Answers | by Deepti Gupta\n════════════════════════\n𐀪\nAuthor:\nDeepti Gupta\n════════════════════════\nⴵ\nTime:\nMon, 06 Jul 2026 19:29:22 GMT\n════════════════════════\n⌗\nTags:\n#linux\n#tryhackme_walkthrough\n#shell\n#tryhackme\n#tryhackme_writeup",
         "date": "2026-07-06T20:04:13+00:00",
@@ -2126,148 +2264,10 @@
           "title": "I Thought Cybersecurity Was About Hacking. Reality Slapped Me Hard.",
           "url": "https://medium.com/@sonalblue/i-thought-cybersecurity-was-about-hacking-reality-slapped-me-hard-6e43ec245276?source=rss------hacking-5"
         }
-      },
-      {
-        "id": 124755,
-        "text": "⤷\nTitle:\nFrom Recon to Reward: Discovering a SQL Injection Vulnerability on a Subdomain\n════════════════════════\n𐀪\nAuthor:\nJesse Marlow\n════════════════════════\nⴵ\nTime:\nMon, 06 Jul 2026 05:20:57 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#cybersecurity\n#software_development\n#bug_bounty_writeup\n#bug_bounty",
-        "date": "2026-07-06T06:04:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124755_0_5ffaeb9d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124755_1_e808fb4c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124755",
-        "link": {
-          "title": "From Recon to Reward: Discovering a SQL Injection Vulnerability on a Subdomain",
-          "url": "https://medium.com/@zinolioncity/from-recon-to-reward-discovering-a-sql-injection-vulnerability-on-a-subdomain-ed022f5650b6?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 124754,
-        "text": "⤷\nTitle:\nAI-Driven JavaScript Bug Hunting Pipeline\n════════════════════════\n𐀪\nAuthor:\nHarshad Shah\n════════════════════════\nⴵ\nTime:\nMon, 06 Jul 2026 05:31:01 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#cybersecurity\n#hacking\n#penetration_testing\n#bug_bounty",
-        "date": "2026-07-06T06:03:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124754_0_5ffaeb9d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124754_1_4dc52bf9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124754",
-        "link": {
-          "title": "AI-Driven JavaScript Bug Hunting Pipeline",
-          "url": "https://hackerassociate.medium.com/ai-driven-javascript-bug-hunting-pipeline-668c2f3183c6?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 124753,
-        "text": "⤷\nTitle:\nI Built the Recon & OSINT Cheat Sheet I Wish Someone Handed Me on Day One\n════════════════════════\n𐀪\nAuthor:\nVyom Tiwari\n════════════════════════\nⴵ\nTime:\nMon, 06 Jul 2026 05:39:42 GMT\n════════════════════════\n⌗\nTags:\n#software_development\n#bug_bounty\n#cybersecurity\n#security\n#cheet_sheets",
-        "date": "2026-07-06T06:03:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124753_0_5ffaeb9d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124753_1_e0e48e58.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124753",
-        "link": {
-          "title": "I Built the Recon & OSINT Cheat Sheet I Wish Someone Handed Me on Day One",
-          "url": "https://medium.com/@LegitHunter/i-built-the-recon-osint-cheat-sheet-i-wish-someone-handed-me-on-day-one-0678a3cb0196?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 124752,
-        "text": "⤷\nTitle:\nMultiple IBM WebSphere Vulnerabilities Expose Systems\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 06 Jul 2026 02:00:49 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_11712\n#IBM\nWebSphere\n#Vulnerabilities",
-        "date": "2026-07-06T06:03:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124752_0_5ffaeb9d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124752_1_93250f46.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124752",
-        "link": {
-          "title": "Multiple IBM WebSphere Vulnerabilities Expose Systems",
-          "url": "https://securityonline.info/ibm-websphere-vulnerabilities/"
-        }
-      },
-      {
-        "id": 124751,
-        "text": "⤷\nTitle:\nPHP Patches Remote DoS Flaw CVE-2026-12184 and an OpenSSL Memory Corruption Bug\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 06 Jul 2026 02:41:37 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_12184\n#CVE_2026_14355\n#Denial\nof Service\n#memory\ncorruption\n#php\n#PHP_FPM\n#Remote\nDoS",
-        "date": "2026-07-06T06:03:48+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124751_0_5ffaeb9d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124751_1_e26d5032.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124751",
-        "link": {
-          "title": "PHP Patches Remote DoS Flaw CVE-2026-12184 and an OpenSSL Memory Corruption Bug",
-          "url": "https://securityonline.info/php-remote-dos-cve-2026-12184/"
-        }
-      },
-      {
-        "id": 124750,
-        "text": "⤷\nTitle:\nFrom Application RCE to Full Host Takeover via Docker Socket Misconfiguration\n════════════════════════\n𐀪\nAuthor:\nSethu Satheesh\n════════════════════════\nⴵ\nTime:\nMon, 06 Jul 2026 03:31:00 GMT\n════════════════════════\n⌗\nTags:\n#docker\n#devops\n#bug_bounty\n#hacking\n#pentesting",
-        "date": "2026-07-06T04:03:44+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124750_0_5ffaeb9d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124750_1_17557d4f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124750",
-        "link": {
-          "title": "From Application RCE to Full Host Takeover via Docker Socket Misconfiguration",
-          "url": "https://medium.com/@S3THU/from-application-rce-to-full-host-takeover-via-docker-socket-misconfiguration-7f8db4865c2a?source=rss------bug_bounty-5"
-        }
       }
     ]
   },
-  "last_update": "2026-07-06T21:11:40.531425+00:00",
+  "last_update": "2026-07-06T22:44:07.869471+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2279,7 +2279,7 @@
     },
     "referenced_files": 191,
     "existing_media_files": 191,
-    "total_size_mb": 5.24,
-    "last_calculation": "2026-07-06T21:11:40.533173+00:00"
+    "total_size_mb": 5.01,
+    "last_calculation": "2026-07-06T22:44:07.871214+00:00"
   }
 }
