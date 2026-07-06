@@ -2,6 +2,182 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 124883,
+        "text": "⤷\nTitle:\nLinux Shells — TryHackMe Answers | by Deepti Gupta\n════════════════════════\n𐀪\nAuthor:\nDeepti Gupta\n════════════════════════\nⴵ\nTime:\nMon, 06 Jul 2026 19:29:22 GMT\n════════════════════════\n⌗\nTags:\n#linux\n#tryhackme_walkthrough\n#shell\n#tryhackme\n#tryhackme_writeup",
+        "date": "2026-07-06T20:04:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124883_0_e58ca074.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124883_1_f43a5b6a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124883",
+        "link": {
+          "title": "Linux Shells — TryHackMe Answers | by Deepti Gupta",
+          "url": "https://medium.com/@deeptisg0/linux-shells-tryhackme-answers-by-deepti-gupta-cfc2a291190d?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 124882,
+        "text": "⤷\nTitle:\nFractal Reconnaissance in Pentesting: Extracting Signal from Network Randomness\n════════════════════════\n𐀪\nAuthor:\nAYA\n════════════════════════\nⴵ\nTime:\nMon, 06 Jul 2026 19:03:10 GMT\n════════════════════════\n⌗\nTags:\n#reconnaissance\n#penetration_testing\n#cybersecurity",
+        "date": "2026-07-06T20:04:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124882_0_e58ca074.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124882_1_1972d63f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124882",
+        "link": {
+          "title": "Fractal Reconnaissance in Pentesting: Extracting Signal from Network Randomness",
+          "url": "https://medium.com/@utaah/fractal-reconnaissance-in-pentesting-extracting-signal-from-network-randomness-89d8590f9e9c?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 124881,
+        "text": "⤷\nTitle:\nPENTESTING CON AGENTES DE IA\n════════════════════════\n𐀪\nAuthor:\nAdrian Romanov\n════════════════════════\nⴵ\nTime:\nMon, 06 Jul 2026 19:10:13 GMT\n════════════════════════\n⌗\nTags:\n#cybercrime\n#hacking\n#pentesting\n#artificial_intelligence\n#ai",
+        "date": "2026-07-06T20:04:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124881_0_e58ca074.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124881_1_b6a3e730.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124881",
+        "link": {
+          "title": "PENTESTING CON AGENTES DE IA",
+          "url": "https://ingoroman.medium.com/pentesting-con-agentes-de-ia-adcb9b97f5ae?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 124880,
+        "text": "⤷\nTitle:\nIntroducing the Secure Code Review Challenge (Practice Real-World Reviews)\n════════════════════════\n𐀪\nAuthor:\nMohamed AboElKheir\n════════════════════════\nⴵ\nTime:\nMon, 06 Jul 2026 18:53:09 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#code_review\n#software_development\n#application_security",
+        "date": "2026-07-06T20:04:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124880_0_e58ca074.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124880_1_42021b5a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124880",
+        "link": {
+          "title": "Introducing the Secure Code Review Challenge (Practice Real-World Reviews)",
+          "url": "https://medium.com/appsec-untangled/introducing-the-secure-code-review-challenge-practice-real-world-reviews-b59f3bdca114?source=rss------application_security-5"
+        }
+      },
+      {
+        "id": 124879,
+        "text": "⤷\nTitle:\nFinding a Stored XSS in a Support Ticket System: A Responsible Disclosure Story\n════════════════════════\n𐀪\nAuthor:\nIlianothingg\n════════════════════════\nⴵ\nTime:\nMon, 06 Jul 2026 19:08:55 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty",
+        "date": "2026-07-06T20:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124879_0_e58ca074.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124879_1_5fbe209c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124879",
+        "link": {
+          "title": "Finding a Stored XSS in a Support Ticket System: A Responsible Disclosure Story",
+          "url": "https://medium.com/@ilianothingg/finding-a-stored-xss-in-a-support-ticket-system-a-responsible-disclosure-story-d25a15faa487?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 124878,
+        "text": "⤷\nTitle:\nHow a Missing Rate Limit Could Have Flooded an Entire Support System\n════════════════════════\n𐀪\nAuthor:\nIlianothingg\n════════════════════════\nⴵ\nTime:\nMon, 06 Jul 2026 19:15:14 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty",
+        "date": "2026-07-06T20:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124878_0_e58ca074.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124878_1_83b2a93c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124878",
+        "link": {
+          "title": "How a Missing Rate Limit Could Have Flooded an Entire Support System",
+          "url": "https://medium.com/@ilianothingg/how-a-missing-rate-limit-could-have-flooded-an-entire-support-system-ca435214ce69?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 124877,
+        "text": "⤷\nTitle:\n16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nMon, 06 Jul 2026 23:07:01 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-07-06T20:03:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124877_0_e58ca074.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124877",
+        "link": {
+          "title": "16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems",
+          "url": "https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html"
+        }
+      },
+      {
+        "id": 124876,
+        "text": "⤷\nTitle:\nIran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nTue, 07 Jul 2026 00:04:26 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-07-06T20:03:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_124876_0_e58ca074.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/124876",
+        "link": {
+          "title": "Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations",
+          "url": "https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html"
+        }
+      },
+      {
         "id": 124875,
         "text": "⤷\nTitle:\nHow an Exposed .git Directory Left a Scientific Observatory Vulnerable\n════════════════════════\n𐀪\nAuthor:\nNovahunter\n════════════════════════\nⴵ\nTime:\nMon, 06 Jul 2026 06:26:50 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_writeup\n#ethical_hacking\n#cybersecurity\n#information_security\n#web_application_security",
         "date": "2026-07-06T18:04:42+00:00",
@@ -2088,206 +2264,22 @@
           "title": "From Application RCE to Full Host Takeover via Docker Socket Misconfiguration",
           "url": "https://medium.com/@S3THU/from-application-rce-to-full-host-takeover-via-docker-socket-misconfiguration-7f8db4865c2a?source=rss------bug_bounty-5"
         }
-      },
-      {
-        "id": 124749,
-        "text": "⤷\nTitle:\nMySQL & Microsoft SQL Injection: How I Retrieved the Database Version | PortSwigger Web Security…\n════════════════════════\n𐀪\nAuthor:\nJinesh Majithia\n════════════════════════\nⴵ\nTime:\nMon, 06 Jul 2026 01:24:07 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#burpsuite\n#sql_injection_attack\n#portswigger\n#cybersecurity",
-        "date": "2026-07-06T02:04:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124749_0_5ffaeb9d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124749_1_58f4d2c7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124749",
-        "link": {
-          "title": "MySQL & Microsoft SQL Injection: How I Retrieved the Database Version | PortSwigger Web Security…",
-          "url": "https://medium.com/@jineshcanada23/mysql-microsoft-sql-injection-how-i-retrieved-the-database-version-portswigger-web-security-ff62ee456ba2?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 124748,
-        "text": "⤷\nTitle:\nBuilding a GOAD-Light + Elastic EDR Cyber Range on Ludus v2\n════════════════════════\n𐀪\nAuthor:\nstillbigjosh\n════════════════════════\nⴵ\nTime:\nMon, 06 Jul 2026 01:51:41 GMT\n════════════════════════\n⌗\nTags:\n#blue_teaming\n#red_teaming\n#penetration_testing\n#edr_evasion\n#active_directory",
-        "date": "2026-07-06T02:04:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124748_0_5ffaeb9d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124748_1_b897dfe7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124748",
-        "link": {
-          "title": "Building a GOAD-Light + Elastic EDR Cyber Range on Ludus v2",
-          "url": "https://stillbigjosh.medium.com/building-a-goad-light-elastic-edr-cyber-range-on-ludus-v2-961e1ed70dd2?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 124747,
-        "text": "⤷\nTitle:\nThe Alert That Almost Everyone Ignores (Until It’s Too Late)\n════════════════════════\n𐀪\nAuthor:\nParitosh\n════════════════════════\nⴵ\nTime:\nMon, 06 Jul 2026 01:57:12 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#python\n#cybersecurity\n#ai\n#threat_detection",
-        "date": "2026-07-06T02:04:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124747_0_5ffaeb9d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124747_1_aa5ded19.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124747",
-        "link": {
-          "title": "The Alert That Almost Everyone Ignores (Until It’s Too Late)",
-          "url": "https://medium.com/@paritoshblogs/the-alert-that-almost-everyone-ignores-until-its-too-late-0bb4034b8134?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 124746,
-        "text": "⤷\nTitle:\nThe Methodology Behind CVE-2026-11395: An Unauthenticated SSRF Hiding in Plain Sight\n════════════════════════\n𐀪\nAuthor:\nLucius-logs\n════════════════════════\nⴵ\nTime:\nMon, 06 Jul 2026 00:22:55 GMT\n════════════════════════\n⌗\nTags:\n#ssrf\n#bug_bounty\n#vulnerability_management\n#cybersecurity\n#wordpress",
-        "date": "2026-07-06T02:04:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124746_0_5ffaeb9d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124746_1_d59133b6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124746",
-        "link": {
-          "title": "The Methodology Behind CVE-2026-11395: An Unauthenticated SSRF Hiding in Plain Sight",
-          "url": "https://medium.com/@luciuslogic/the-methodology-behind-cve-2026-11395-an-unauthenticated-ssrf-hiding-in-plain-sight-76a5a81d0f2c?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 124745,
-        "text": "⤷\nTitle:\nModSecurity Vulnerabilities Let Attackers Bypass WAF Rules\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 06 Jul 2026 00:37:10 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_52747\n#CVE_2026_52761\n#libmodsecurity\n#modsecurity\n#OWASP\nModSecurity\n#waf\n#WAF\nBypass\n#Web\nApplication Firewall",
-        "date": "2026-07-06T02:03:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124745_0_5ffaeb9d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124745_1_d0430e03.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124745",
-        "link": {
-          "title": "ModSecurity Vulnerabilities Let Attackers Bypass WAF Rules",
-          "url": "https://securityonline.info/modsecurity-vulnerabilities-cve-2026-52747/"
-        }
-      },
-      {
-        "id": 124741,
-        "text": "⤷\nTitle:\nWAF: Exploitation Techniques -OWASP CRS\n════════════════════════\n𐀪\nAuthor:\nJose Praveen\n════════════════════════\nⴵ\nTime:\nSun, 05 Jul 2026 22:41:00 GMT\n════════════════════════\n⌗\nTags:\n#owasp\n#tryhackme_walkthrough\n#sql_injection\n#tryhackme\n#xss_attack",
-        "date": "2026-07-06T00:03:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124741_0_5ffaeb9d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124741_1_7bdf72c6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124741",
-        "link": {
-          "title": "WAF: Exploitation Techniques -OWASP CRS",
-          "url": "https://josepraveen.medium.com/waf-exploitation-techniques-owasp-crs-e7d070ca1016?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 124740,
-        "text": "⤷\nTitle:\nWhy Your Company’s Biggest Cyber Risk Is Probably a Phone Call\n════════════════════════\n𐀪\nAuthor:\nUmar Sks\n════════════════════════\nⴵ\nTime:\nSun, 05 Jul 2026 22:05:35 GMT\n════════════════════════\n⌗\nTags:\n#cyber_security_awareness\n#social_engineering\n#infosec\n#vishing",
-        "date": "2026-07-06T00:03:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124740_0_5ffaeb9d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124740_1_4d5712af.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124740",
-        "link": {
-          "title": "Why Your Company’s Biggest Cyber Risk Is Probably a Phone Call",
-          "url": "https://medium.com/@umar.sks9000/why-your-companys-biggest-cyber-risk-is-probably-a-phone-call-c08699556e27?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 124739,
-        "text": "⤷\nTitle:\nWomen in Cybersecurity Are Winning — But the AI Purge Might Set Us Back\n════════════════════════\n𐀪\nAuthor:\nYua Mikanana\n════════════════════════\nⴵ\nTime:\nSun, 05 Jul 2026 23:33:19 GMT\n════════════════════════\n⌗\nTags:\n#technology\n#hacking\n#information_security\n#ethical_hacking\n#cybersecurity",
-        "date": "2026-07-06T00:03:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124739_0_5ffaeb9d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124739_1_576fffa1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124739",
-        "link": {
-          "title": "Women in Cybersecurity Are Winning — But the AI Purge Might Set Us Back",
-          "url": "https://medium.com/@yua.mikanana19/women-in-cybersecurity-are-winning-but-the-ai-purge-might-set-us-back-83bf493358dc?source=rss------hacking-5"
-        }
       }
     ]
   },
-  "last_update": "2026-07-06T19:29:28.740302+00:00",
+  "last_update": "2026-07-06T21:11:40.531425+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 193,
-    "total_files": 193,
+    "total_media": 191,
+    "total_files": 191,
     "total_links": 0,
     "files_by_type": {
-      "image": 193
+      "image": 191
     },
-    "referenced_files": 193,
-    "existing_media_files": 193,
+    "referenced_files": 191,
+    "existing_media_files": 191,
     "total_size_mb": 5.24,
-    "last_calculation": "2026-07-06T19:29:28.742658+00:00"
+    "last_calculation": "2026-07-06T21:11:40.533173+00:00"
   }
 }
