@@ -2,6 +2,213 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 125027,
+        "text": "⤷\nTitle:\nCaptcha Bypass\n════════════════════════\n𐀪\nAuthor:\nAhemd ashraf\n════════════════════════\nⴵ\nTime:\nTue, 07 Jul 2026 21:04:57 GMT\n════════════════════════\n⌗\nTags:\n#bugbounty_writeup\n#bypass_captcha",
+        "date": "2026-07-07T22:04:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125027_0_33121248.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125027_1_b6f87f8a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125027",
+        "link": {
+          "title": "Captcha Bypass",
+          "url": "https://medium.com/@apop69166/captcha-bypass-33fe3ff229a6?source=rss------bugbounty_writeup-5"
+        }
+      },
+      {
+        "id": 125026,
+        "text": "⤷\nTitle:\nSession Fixation\n════════════════════════\n𐀪\nAuthor:\nAhemd ashraf\n════════════════════════\nⴵ\nTime:\nTue, 07 Jul 2026 21:06:39 GMT\n════════════════════════\n⌗\nTags:\n#session_fixation\n#bugbounty_writeup\n#bug_bounty_tips",
+        "date": "2026-07-07T22:04:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125026_0_33121248.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125026_1_695eafa3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125026",
+        "link": {
+          "title": "Session Fixation",
+          "url": "https://medium.com/@apop69166/session-fixation-b6291b8243f2?source=rss------bugbounty_writeup-5"
+        }
+      },
+      {
+        "id": 125025,
+        "text": "⤷\nTitle:\nConti - Splunk - Tryhackme FR\n════════════════════════\n𐀪\nAuthor:\nKhalil\n════════════════════════\nⴵ\nTime:\nTue, 07 Jul 2026 21:06:59 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#ctf\n#ctf_writeup\n#splunk",
+        "date": "2026-07-07T22:04:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125025_0_33121248.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125025_1_e2e049a4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125025",
+        "link": {
+          "title": "Conti - Splunk - Tryhackme FR",
+          "url": "https://medium.com/@Kh_abdel/conti-splunk-tryhackme-fr-0fd4bd96784c?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 125024,
+        "text": "⤷\nTitle:\nNetworking Concepts — TryHackMe Answers | by Deepti Gupta\n════════════════════════\n𐀪\nAuthor:\nDeepti Gupta\n════════════════════════\nⴵ\nTime:\nTue, 07 Jul 2026 21:20:27 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_walkthrough\n#tryhackme_writeup\n#tryhackme\n#networking",
+        "date": "2026-07-07T22:04:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125024_0_33121248.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125024_1_11916afb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125024",
+        "link": {
+          "title": "Networking Concepts — TryHackMe Answers | by Deepti Gupta",
+          "url": "https://medium.com/@deeptisg0/networking-concepts-tryhackme-answers-by-deepti-gupta-6af9317af2f4?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 125023,
+        "text": "⤷\nTitle:\nBuilding a Mental Map for Blind SQL Injection (The Hard Way)\n════════════════════════\n𐀪\nAuthor:\ncyberguild\n════════════════════════\nⴵ\nTime:\nTue, 07 Jul 2026 20:01:39 GMT\n════════════════════════\n⌗\nTags:\n#sqlinjectiontypes\n#beginners_guide\n#cybersecurity\n#hacking",
+        "date": "2026-07-07T22:04:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125023_0_33121248.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125023_1_a6fba4d5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125023",
+        "link": {
+          "title": "Building a Mental Map for Blind SQL Injection (The Hard Way)",
+          "url": "https://medium.com/@blackbullzz007/building-a-mental-map-for-blind-sql-injection-the-hard-way-a300c46d111d?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 125022,
+        "text": "⤷\nTitle:\nKilling Processes via PEB Pointer Overwrite Using BYOVD\n════════════════════════\n𐀪\nAuthor:\nS12 - 0x12Dark Development\n════════════════════════\nⴵ\nTime:\nTue, 07 Jul 2026 20:09:21 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#hacking\n#malware\n#pentesting\n#cybersecurity",
+        "date": "2026-07-07T22:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125022_0_33121248.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125022_1_9e617c44.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125022",
+        "link": {
+          "title": "Killing Processes via PEB Pointer Overwrite Using BYOVD",
+          "url": "https://medium.com/@s12deff/killing-processes-via-peb-pointer-overwrite-using-byovd-095fca51ff65?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 125021,
+        "text": "⤷\nTitle:\nA Cursor Sandbox Escape Shows Why AI Agents Need Kernel Boundaries\n════════════════════════\n𐀪\nAuthor:\nHideaki Takahashi\n════════════════════════\nⴵ\nTime:\nTue, 07 Jul 2026 20:23:41 GMT\n════════════════════════\n⌗\nTags:\n#ai_agent\n#cursor\n#hacking\n#security\n#claude_code",
+        "date": "2026-07-07T22:03:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125021_0_33121248.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125021_1_45975e5c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125021",
+        "link": {
+          "title": "A Cursor Sandbox Escape Shows Why AI Agents Need Kernel Boundaries",
+          "url": "https://medium.com/@Koukyosyumei/a-cursor-sandbox-escape-shows-why-ai-agents-need-kernel-boundaries-281efdb56396?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 125020,
+        "text": "⤷\nTitle:\nThe Most Dangerous Hackers to Ever Touch the Internet\n════════════════════════\n𐀪\nAuthor:\nIceLatte\n════════════════════════\nⴵ\nTime:\nTue, 07 Jul 2026 21:34:59 GMT\n════════════════════════\n⌗\nTags:\n#money\n#hacking\n#tech\n#cybersecurity\n#finance",
+        "date": "2026-07-07T22:03:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125020_0_33121248.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125020_1_effabe07.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125020",
+        "link": {
+          "title": "The Most Dangerous Hackers to Ever Touch the Internet",
+          "url": "https://medium.com/@fwhub619/the-most-dangerous-hackers-to-ever-touch-the-internet-dd5aa7e7c975?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 125019,
+        "text": "⤷\nTitle:\nOWASP A01: Broken Access Control | P1\n════════════════════════\n𐀪\nAuthor:\nVishnu\n════════════════════════\nⴵ\nTime:\nTue, 07 Jul 2026 20:29:20 GMT\n════════════════════════\n⌗\nTags:\n#owasp\n#api_security\n#web_security\n#application_security\n#cybersecurity",
+        "date": "2026-07-07T22:03:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125019_0_33121248.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125019_1_22d5e021.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125019",
+        "link": {
+          "title": "OWASP A01: Broken Access Control | P1",
+          "url": "https://vishnujchandran.medium.com/owasp-a01-broken-access-control-p1-b33fe1981853?source=rss------application_security-5"
+        }
+      },
+      {
         "id": 125018,
         "text": "⤷\nTitle:\nHow to Grow on X (Formerly Twitter)\n════════════════════════\n𐀪\nAuthor:\nJatin\n════════════════════════\nⴵ\nTime:\nTue, 07 Jul 2026 18:11:01 GMT\n════════════════════════\n⌗\nTags:\n#articles\n#twitter\n#growth\n#premium\n#xs",
         "date": "2026-07-07T20:04:34+00:00",
@@ -2053,217 +2260,10 @@
           "title": "What is Ethical Hacking and How Do You Get Started?",
           "url": "https://medium.com/@tivonakristinathomas.27csb/what-is-ethical-hacking-and-how-do-you-get-started-b738b3dd710d?source=rss------ethical_hacking-5"
         }
-      },
-      {
-        "id": 124911,
-        "text": "⤷\nTitle:\nUltimate Wireshark & TShark Walkthrough: Network Forensics\n════════════════════════\n𐀪\nAuthor:\nMUHAMMAD ROHAIL TARIQ\n════════════════════════\nⴵ\nTime:\nTue, 07 Jul 2026 05:31:27 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#wireshark\n#network_forensics\n#tshark\n#automating_tshark",
-        "date": "2026-07-07T06:04:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124911_0_e58ca074.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124911_1_2d848d87.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124911",
-        "link": {
-          "title": "Ultimate Wireshark & TShark Walkthrough: Network Forensics",
-          "url": "https://medium.com/@mrohail05/ultimate-wireshark-tshark-walkthrough-network-forensics-239cbfad29d4?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 124910,
-        "text": "⤷\nTitle:\nLLMNR/NBT-NS Poisoning — Capturing NTLMv2 Hashes in Active Directory\n════════════════════════\n𐀪\nAuthor:\nKeskarshrishailya\n════════════════════════\nⴵ\nTime:\nTue, 07 Jul 2026 05:53:41 GMT\n════════════════════════\n⌗\nTags:\n#attack_ads\n#ethical_hacking\n#cybersecurity\n#active_directory",
-        "date": "2026-07-07T06:04:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124910_0_e58ca074.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124910_1_3348b0b7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124910",
-        "link": {
-          "title": "LLMNR/NBT-NS Poisoning — Capturing NTLMv2 Hashes in Active Directory",
-          "url": "https://medium.com/@keskarshrishailya/llmnr-nbt-ns-poisoning-capturing-ntlmv2-hashes-in-active-directory-20ea488457912-20ea48845791?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 124909,
-        "text": "⤷\nTitle:\nLost Funds, Lost Trust\n════════════════════════\n𐀪\nAuthor:\nManoj Kumar Desai\n════════════════════════\nⴵ\nTime:\nTue, 07 Jul 2026 05:13:03 GMT\n════════════════════════\n⌗\nTags:\n#dao\n#aave\n#blockchain\n#hacking\n#arbitrum",
-        "date": "2026-07-07T06:04:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124909_0_e58ca074.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124909_1_e8c75ae2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124909",
-        "link": {
-          "title": "Lost Funds, Lost Trust",
-          "url": "https://medium.com/@MconnectDAO/lost-funds-lost-trust-1bf8023e9431?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 124908,
-        "text": "⤷\nTitle:\nHow Hackers Actually Think — And What Developers Miss\n════════════════════════\n𐀪\nAuthor:\nRaj Namdev\n════════════════════════\nⴵ\nTime:\nTue, 07 Jul 2026 05:17:03 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#web_development\n#javascript\n#software_engineering\n#cybersecurity",
-        "date": "2026-07-07T06:04:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124908_0_e58ca074.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124908_1_39d298c9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124908",
-        "link": {
-          "title": "How Hackers Actually Think — And What Developers Miss",
-          "url": "https://infosecwriteups.com/how-hackers-actually-think-and-what-developers-miss-f97f1fea6aef?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 124907,
-        "text": "⤷\nTitle:\nThe Hackers Stopped Hacking. They Started Lying Instead.\n════════════════════════\n𐀪\nAuthor:\nSatelite\n════════════════════════\nⴵ\nTime:\nTue, 07 Jul 2026 05:34:49 GMT\n════════════════════════\n⌗\nTags:\n#web3\n#security\n#hacking\n#cryptocurrency\n#crypto",
-        "date": "2026-07-07T06:03:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124907_0_e58ca074.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124907_1_1c66fab2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124907",
-        "link": {
-          "title": "The Hackers Stopped Hacking. They Started Lying Instead.",
-          "url": "https://medium.com/@connect_81607/the-hackers-stopped-hacking-they-started-lying-instead-8f515830b73c?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 124903,
-        "text": "⤷\nTitle:\nThe Watermelon Effect: Why Your Security is Greener Than it Looks\n════════════════════════\n𐀪\nAuthor:\nSupreet Nagi\n════════════════════════\nⴵ\nTime:\nTue, 07 Jul 2026 03:24:01 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#data_protection\n#api_security\n#data_security\n#safeguarding",
-        "date": "2026-07-07T04:04:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124903_0_e58ca074.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124903_1_1378198b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124903",
-        "link": {
-          "title": "The Watermelon Effect: Why Your Security is Greener Than it Looks",
-          "url": "https://medium.com/@nagisupreet2011/the-watermelon-effect-why-your-security-is-greener-than-it-looks-cc772e7ca583?source=rss------api_security-5"
-        }
-      },
-      {
-        "id": 124902,
-        "text": "⤷\nTitle:\nSearch Skills: Mastering Cyber Security Research & OSINT\n════════════════════════\n𐀪\nAuthor:\nJonathan Sanfer\n════════════════════════\nⴵ\nTime:\nTue, 07 Jul 2026 02:35:59 GMT\n════════════════════════\n⌗\nTags:\n#virustotal\n#shodan\n#cybersecurity\n#tryhackme\n#osint",
-        "date": "2026-07-07T04:04:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124902_0_e58ca074.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124902_1_ff63fcbe.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124902",
-        "link": {
-          "title": "Search Skills: Mastering Cyber Security Research & OSINT",
-          "url": "https://medium.com/@jonathan.sanfer/search-skills-mastering-cyber-security-research-osint-478a8e022075?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 124901,
-        "text": "⤷\nTitle:\nSQL Injection: Listing Database Contents on Non-Oracle Databases | PortSwigger Web Security Academy…\n════════════════════════\n𐀪\nAuthor:\nJinesh Majithia\n════════════════════════\nⴵ\nTime:\nTue, 07 Jul 2026 02:43:27 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#burpsuite\n#sql_injection\n#cybersecurity",
-        "date": "2026-07-07T04:04:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124901_0_e58ca074.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124901_1_0c6b9c70.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124901",
-        "link": {
-          "title": "SQL Injection: Listing Database Contents on Non-Oracle Databases | PortSwigger Web Security Academy…",
-          "url": "https://medium.com/@jineshcanada23/sql-injection-listing-database-contents-on-non-oracle-databases-portswigger-web-security-academy-83a3e6a23f4e?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 124900,
-        "text": "⤷\nTitle:\nWindows 11 Storage Bug Causes Massive Log File Bloat\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 07 Jul 2026 01:56:44 +0000\n════════════════════════\n⌗\nTags:\n#Windows\n#Capability\nAccess Manager\n#KB5095093\n#storage\nbug\n#Windows\n11\n#Windows\nUpdate",
-        "date": "2026-07-07T04:04:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124900_0_e58ca074.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124900_1_12cdf5c3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124900",
-        "link": {
-          "title": "Windows 11 Storage Bug Causes Massive Log File Bloat",
-          "url": "https://securityonline.info/windows-11-storage-bug-fix/"
-        }
       }
     ]
   },
-  "last_update": "2026-07-07T21:02:41.057105+00:00",
+  "last_update": "2026-07-07T22:36:05.856756+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2275,7 +2275,7 @@
     },
     "referenced_files": 190,
     "existing_media_files": 190,
-    "total_size_mb": 5.44,
-    "last_calculation": "2026-07-07T21:02:41.059338+00:00"
+    "total_size_mb": 5.24,
+    "last_calculation": "2026-07-07T22:36:05.858993+00:00"
   }
 }
