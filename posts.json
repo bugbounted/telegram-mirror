@@ -2,6 +2,75 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 125164,
+        "text": "⤷\nTitle:\nThe $0 IDOR That Was Worth More Than a $12,500 P1\n════════════════════════\n𐀪\nAuthor:\nAbhishek meena\n════════════════════════\nⴵ\nTime:\nWed, 08 Jul 2026 21:58:01 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_writeup\n#hackerone\n#idor\n#broken_access_control\n#bug_bounty",
+        "date": "2026-07-08T22:03:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125164_0_922ed12c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125164_1_e455cdaa.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125164",
+        "link": {
+          "title": "The $0 IDOR That Was Worth More Than a $12,500 P1",
+          "url": "https://medium.com/@Aacle/the-0-idor-that-was-worth-more-than-a-12-500-p1-4444d32f2f61?source=rss------bug_bounty_writeup-5"
+        }
+      },
+      {
+        "id": 125163,
+        "text": "⤷\nTitle:\nWhat Is an Application Programming Interface (API)? Types, Uses, & AI Integration\n════════════════════════\n𐀪\nAuthor:\nTahir\n════════════════════════\nⴵ\nTime:\nWed, 08 Jul 2026 21:34:44 GMT\n════════════════════════\n⌗\nTags:\n#how_apis_work\n#what_is_an_api\n#api_security\n#api_explained\n#api_types",
+        "date": "2026-07-08T22:03:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125163_0_922ed12c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125163_1_eb9cf0d3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125163",
+        "link": {
+          "title": "What Is an Application Programming Interface (API)? Types, Uses, & AI Integration",
+          "url": "https://medium.com/@tahirbalarabe2/what-is-an-application-programming-interface-api-types-uses-ai-integration-9aafb10a789c?source=rss------api_security-5"
+        }
+      },
+      {
+        "id": 125162,
+        "text": "⤷\nTitle:\nAI & Automation in Detection Engineering — review & fix an AI-generated detection rule\n════════════════════════\n𐀪\nAuthor:\nJose Praveen\n════════════════════════\nⴵ\nTime:\nWed, 08 Jul 2026 20:21:01 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#tryhackme_walkthrough\n#security_operation_center\n#sigma_rules\n#detection_as_code",
+        "date": "2026-07-08T22:03:47+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125162_0_922ed12c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125162_1_d1e191e9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125162",
+        "link": {
+          "title": "AI & Automation in Detection Engineering — review & fix an AI-generated detection rule",
+          "url": "https://josepraveen.medium.com/ai-automation-in-detection-engineering-review-fix-an-ai-generated-detection-rule-30359732e21e?source=rss------tryhackme-5"
+        }
+      },
+      {
         "id": 125161,
         "text": "⤷\nTitle:\nLinux Fundamentals for Cybersecurity: Building a Strong Foundation\n════════════════════════\n𐀪\nAuthor:\nPrerna Bhamre\n════════════════════════\nⴵ\nTime:\nWed, 08 Jul 2026 18:39:28 GMT\n════════════════════════\n⌗\nTags:\n#linux_commands\n#linux_fundamentals\n#linux\n#ethical_hacking\n#cybersecurity",
         "date": "2026-07-08T20:04:16+00:00",
@@ -2203,79 +2272,10 @@
           "title": "China-Linked UAT-7810 Expands ORB Network With New LONGLEASH Malware",
           "url": "https://thehackernews.com/2026/07/china-linked-uat-7810-expands-orb.html"
         }
-      },
-      {
-        "id": 125061,
-        "text": "⤷\nTitle:\nHow Hackers Steal Data and How to Stop Them: Complete Cybersecurity Guide for Beginners in Nigeria…\n════════════════════════\n𐀪\nAuthor:\nStephen\n════════════════════════\nⴵ\nTime:\nWed, 08 Jul 2026 06:30:39 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#technology\n#ethical_hacking",
-        "date": "2026-07-08T08:04:32+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125061_0_33121248.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125061_1_874ba5d6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125061",
-        "link": {
-          "title": "How Hackers Steal Data and How to Stop Them: Complete Cybersecurity Guide for Beginners in Nigeria…",
-          "url": "https://medium.com/@emeribestephenc/how-hackers-steal-data-and-how-to-stop-them-complete-cybersecurity-guide-for-beginners-in-nigeria-c9ee867bbfd7?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 125060,
-        "text": "⤷\nTitle:\nHow to Install Kali Linux on Windows Using WSL 2 with Win-KeX (Step-by-Step Guide)\n════════════════════════\n𐀪\nAuthor:\nGandhodi Mouresh\n════════════════════════\nⴵ\nTime:\nWed, 08 Jul 2026 07:03:54 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ethical_hacking\n#wsl_2\n#kali_linux\n#wsl",
-        "date": "2026-07-08T08:04:29+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125060_0_33121248.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125060_1_6f705b14.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125060",
-        "link": {
-          "title": "How to Install Kali Linux on Windows Using WSL 2 with Win-KeX (Step-by-Step Guide)",
-          "url": "https://medium.com/@mourishroyal/how-to-install-kali-linux-on-windows-using-wsl-2-with-win-kex-step-by-step-guide-095bd9c14192?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 125059,
-        "text": "⤷\nTitle:\nNetworkMiner — TryHackMe Write-Up\n════════════════════════\n𐀪\nAuthor:\nDarshan\n════════════════════════\nⴵ\nTime:\nWed, 08 Jul 2026 06:33:33 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#tryhackme\n#soc",
-        "date": "2026-07-08T08:04:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125059_0_33121248.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125059_1_2496cbff.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125059",
-        "link": {
-          "title": "NetworkMiner — TryHackMe Write-Up",
-          "url": "https://medium.com/@darshan331740_89257/networkminer-tryhackme-write-up-140548522000?source=rss------tryhackme-5"
-        }
       }
     ]
   },
-  "last_update": "2026-07-08T21:40:55.182168+00:00",
+  "last_update": "2026-07-08T22:54:24.873327+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2287,7 +2287,7 @@
     },
     "referenced_files": 193,
     "existing_media_files": 193,
-    "total_size_mb": 5.04,
-    "last_calculation": "2026-07-08T21:40:55.184531+00:00"
+    "total_size_mb": 5.26,
+    "last_calculation": "2026-07-08T22:54:24.874920+00:00"
   }
 }
