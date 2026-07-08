@@ -2,6 +2,75 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 125030,
+        "text": "⤷\nTitle:\nOperation: Path of Least Resistance, Red Team Tactic as a Sys Admin That Worked For Me During…\n════════════════════════\n𐀪\nAuthor:\nThe Husky Hacker\n════════════════════════\nⴵ\nTime:\nTue, 07 Jul 2026 23:07:32 GMT\n════════════════════════\n⌗\nTags:\n#red_team\n#ethical_hacking",
+        "date": "2026-07-08T00:03:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125030_0_33121248.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125030_1_473968f1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125030",
+        "link": {
+          "title": "Operation: Path of Least Resistance, Red Team Tactic as a Sys Admin That Worked For Me During…",
+          "url": "https://medium.com/@TheHuskyHacker/operation-path-of-least-resistance-red-team-tactic-as-a-sys-admin-that-worked-for-me-during-b2eb5b1febfd?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 125029,
+        "text": "⤷\nTitle:\nStop Buying Overpriced Gear: How to Strip and Weaponize a Pi 5 for Field Operations\n════════════════════════\n𐀪\nAuthor:\nAeon Flex, Elriel Assoc. 2133 [NEON MAXIMA]\n════════════════════════\nⴵ\nTime:\nTue, 07 Jul 2026 21:55:37 GMT\n════════════════════════\n⌗\nTags:\n#raspberry_pi\n#cybersecurity\n#infosec\n#hacking\n#linux",
+        "date": "2026-07-08T00:03:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125029_0_33121248.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125029_1_48e0e4e8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125029",
+        "link": {
+          "title": "Stop Buying Overpriced Gear: How to Strip and Weaponize a Pi 5 for Field Operations",
+          "url": "https://medium.com/@neonmaxima/stop-buying-overpriced-gear-how-to-strip-and-weaponize-a-pi-5-for-field-operations-0a95abf3f327?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 125028,
+        "text": "⤷\nTitle:\nWhy Unity Remains the Most Popular Engine for Mobile Games\n════════════════════════\n𐀪\nAuthor:\nOwais Sultan\n════════════════════════\nⴵ\nTime:\nTue, 07 Jul 2026 22:24:26 +0000\n════════════════════════\n⌗\nTags:\n#Gaming\n#Technology\n#gaming\n#Gaming\nDevelopment\n#Mobile\nGaming\n#Unity",
+        "date": "2026-07-08T00:03:46+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125028_0_33121248.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125028_1_7d1433a8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125028",
+        "link": {
+          "title": "Why Unity Remains the Most Popular Engine for Mobile Games",
+          "url": "https://hackread.com/unity-remains-popular-mobile-games-engine/"
+        }
+      },
+      {
         "id": 125027,
         "text": "⤷\nTitle:\nCaptcha Bypass\n════════════════════════\n𐀪\nAuthor:\nAhemd ashraf\n════════════════════════\nⴵ\nTime:\nTue, 07 Jul 2026 21:04:57 GMT\n════════════════════════\n⌗\nTags:\n#bugbounty_writeup\n#bypass_captcha",
         "date": "2026-07-07T22:04:16+00:00",
@@ -2191,79 +2260,10 @@
           "title": "SQL UNION Attack — Understanding How It Works",
           "url": "https://medium.com/@queenrainv7/lab-3-sql-injection-attack-querying-the-database-type-and-version-on-oracle-03fbd42afd2c?source=rss------sql_injection-5"
         }
-      },
-      {
-        "id": 124914,
-        "text": "⤷\nTitle:\nSQLI LAB 3 : SQL Injection UNION Attack — Determining the Number of Columns Returned by the Query\n════════════════════════\n𐀪\nAuthor:\nVICTUS(RQ)\n════════════════════════\nⴵ\nTime:\nTue, 07 Jul 2026 04:33:53 GMT\n════════════════════════\n⌗\nTags:\n#sqli_union_attack\n#sql_injection\n#sql_injection_portswigger\n#purpose_learning",
-        "date": "2026-07-07T06:04:22+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124914_0_e58ca074.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124914_1_9a68ff60.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124914",
-        "link": {
-          "title": "SQLI LAB 3 : SQL Injection UNION Attack — Determining the Number of Columns Returned by the Query",
-          "url": "https://medium.com/@queenrainv7/sqli-lab-3-sql-injection-union-attack-determining-the-number-of-columns-returned-by-the-query-34440c2ffd6b?source=rss------sql_injection-5"
-        }
-      },
-      {
-        "id": 124913,
-        "text": "⤷\nTitle:\nHackTheBox Walkthrough — Nanocorp\n════════════════════════\n𐀪\nAuthor:\nIndigo Shadow\n════════════════════════\nⴵ\nTime:\nTue, 07 Jul 2026 04:58:19 GMT\n════════════════════════\n⌗\nTags:\n#zip_file_upload\n#htb_nanocorp_writeup\n#checkmk_agent_exploit\n#ethical_hacking\n#ntlm_coercion",
-        "date": "2026-07-07T06:04:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124913_0_e58ca074.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124913_1_59afcb8b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124913",
-        "link": {
-          "title": "HackTheBox Walkthrough — Nanocorp",
-          "url": "https://medium.com/@indigoshadowwashere/hackthebox-walkthrough-nanocorp-a01b9cbd804c?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 124912,
-        "text": "⤷\nTitle:\nWhat is Ethical Hacking and How Do You Get Started?\n════════════════════════\n𐀪\nAuthor:\nTivonakristinathomas Csb\n════════════════════════\nⴵ\nTime:\nTue, 07 Jul 2026 05:07:09 GMT\n════════════════════════\n⌗\nTags:\n#career_paths\n#technology\n#cybersecurity\n#ethical_hacking",
-        "date": "2026-07-07T06:04:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124912_0_e58ca074.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124912_1_abfb37b1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124912",
-        "link": {
-          "title": "What is Ethical Hacking and How Do You Get Started?",
-          "url": "https://medium.com/@tivonakristinathomas.27csb/what-is-ethical-hacking-and-how-do-you-get-started-b738b3dd710d?source=rss------ethical_hacking-5"
-        }
       }
     ]
   },
-  "last_update": "2026-07-07T23:45:11.785922+00:00",
+  "last_update": "2026-07-08T01:21:49.993508+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2275,7 +2275,7 @@
     },
     "referenced_files": 190,
     "existing_media_files": 190,
-    "total_size_mb": 5.24,
-    "last_calculation": "2026-07-07T23:45:11.788236+00:00"
+    "total_size_mb": 5.27,
+    "last_calculation": "2026-07-08T01:21:49.995773+00:00"
   }
 }
