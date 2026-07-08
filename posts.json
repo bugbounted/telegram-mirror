@@ -2,6 +2,282 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 125042,
+        "text": "⤷\nTitle:\ndMSA and BadSuccessor, Oversimplified\n════════════════════════\n𐀪\nAuthor:\nMr. Robot.txt\n════════════════════════\nⴵ\nTime:\nWed, 08 Jul 2026 03:08:24 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#red_team\n#active_directory\n#badsuccessor\n#cybersecurity",
+        "date": "2026-07-08T04:04:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125042_0_33121248.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125042_1_371682ae.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125042",
+        "link": {
+          "title": "dMSA and BadSuccessor, Oversimplified",
+          "url": "https://medium.com/@duncanochieng682/dmsa-and-badsuccessor-oversimplified-417b50bad583?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 125041,
+        "text": "⤷\nTitle:\nLab: DOM XSS in jQuery selector sink using a hashchange event\n════════════════════════\n𐀪\nAuthor:\nCyberForge\n════════════════════════\nⴵ\nTime:\nWed, 08 Jul 2026 03:47:19 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ethical_hacking\n#tech\n#web_application_security",
+        "date": "2026-07-08T04:04:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125041_0_33121248.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125041_1_93cc60c2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125041",
+        "link": {
+          "title": "Lab: DOM XSS in jQuery selector sink using a hashchange event",
+          "url": "https://medium.com/@cyberforge/lab-dom-xss-in-jquery-selector-sink-using-a-hashchange-event-262ecd84a5f1?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 125040,
+        "text": "⤷\nTitle:\nWhat Google Dorks Taught Me About How Searchable We Really Are\n════════════════════════\n𐀪\nAuthor:\nSathish\n════════════════════════\nⴵ\nTime:\nWed, 08 Jul 2026 02:47:44 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#infosec\n#technology",
+        "date": "2026-07-08T04:04:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125040_0_33121248.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125040_1_7e4266a6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125040",
+        "link": {
+          "title": "What Google Dorks Taught Me About How Searchable We Really Are",
+          "url": "https://medium.com/@powervail471/what-google-dorks-taught-me-about-how-searchable-we-really-are-b293dd9fff52?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 125039,
+        "text": "⤷\nTitle:\nHow a Trusted Header Turned Into an Open Redirect in Telekom’s System\n════════════════════════\n𐀪\nAuthor:\nm0ro23\n════════════════════════\nⴵ\nTime:\nWed, 08 Jul 2026 03:00:56 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#bugs\n#bug_bounty_writeup\n#penetration_testing\n#bug_bounty",
+        "date": "2026-07-08T04:03:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125039_0_33121248.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125039_1_5f557797.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125039",
+        "link": {
+          "title": "How a Trusted Header Turned Into an Open Redirect in Telekom’s System",
+          "url": "https://medium.com/@m0ro23/how-a-trusted-header-turned-into-an-open-redirect-in-telekoms-system-250adc6d7878?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 125038,
+        "text": "⤷\nTitle:\nPublic Exploit for GhostLock (CVE-2026-43499) Enables Linux Privilege Escalation and Container Escape\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 08 Jul 2026 02:14:34 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#container\nescape\n#CVE_2026_43499\n#GhostLock\n#kernelCTF\n#Linux\nKernel\n#privilege\nescalation\n#rtmutex\n#use\nafter free",
+        "date": "2026-07-08T04:03:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125038_0_33121248.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125038_1_9c205267.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125038",
+        "link": {
+          "title": "Public Exploit for GhostLock (CVE-2026-43499) Enables Linux Privilege Escalation and Container Escape",
+          "url": "https://securityonline.info/ghostlock-cve-2026-43499/"
+        }
+      },
+      {
+        "id": 125037,
+        "text": "⤷\nTitle:\nWordPress Sites at Risk: Outdated PHP, Plugins, and Default Configs\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 08 Jul 2026 03:53:24 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#censys\n#End_of_Life\nSoftware\n#MR\n.GREEN Hack\n#Outdated\nPHP\n#wordpress\nsecurity\n#xmlrpc\n.php\n#Yoast\nSEO",
+        "date": "2026-07-08T04:03:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125037_0_33121248.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125037_1_39f745dc.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125037",
+        "link": {
+          "title": "WordPress Sites at Risk: Outdated PHP, Plugins, and Default Configs",
+          "url": "https://securityonline.info/wordpress-outdated-php-security-risk/"
+        }
+      },
+      {
+        "id": 125036,
+        "text": "⤷\nTitle:\nRogue Agent Vulnerability Hijacks Google Dialogflow Chatbots\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nWed, 08 Jul 2026 03:50:18 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\n#Chatbot\nSecurity\n#Dialogflow\nCX\n#google\ncloud\n#Rogue\nAgent",
+        "date": "2026-07-08T04:03:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125036_0_33121248.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125036_1_5bcd4a62.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125036",
+        "link": {
+          "title": "Rogue Agent Vulnerability Hijacks Google Dialogflow Chatbots",
+          "url": "https://meterpreter.org/rogue-agent-dialogflow-vulnerability/"
+        }
+      },
+      {
+        "id": 125035,
+        "text": "⤷\nTitle:\nTHM: Fools Mate, Revenge Room Walkthrough | Server‑Side Reward Gate Bypass\n════════════════════════\n𐀪\nAuthor:\nN3NU\n════════════════════════\nⴵ\nTime:\nWed, 08 Jul 2026 01:31:43 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#software_development\n#tryhackme\n#technology\n#javascript",
+        "date": "2026-07-08T02:04:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125035_0_33121248.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125035_1_5934e96e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125035",
+        "link": {
+          "title": "THM: Fools Mate, Revenge Room Walkthrough | Server‑Side Reward Gate Bypass",
+          "url": "https://n3nu.medium.com/thm-fools-mate-revenge-room-walkthrough-server-side-reward-gate-bypass-dfc82e13d71f?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 125034,
+        "text": "⤷\nTitle:\nMy Analyst Automated Half His Queue. Then I Asked One Question\n════════════════════════\n𐀪\nAuthor:\nJbird\n════════════════════════\nⴵ\nTime:\nWed, 08 Jul 2026 01:02:06 GMT\n════════════════════════\n⌗\nTags:\n#agentic_ai\n#artificial_intelligence\n#infosec\n#information_security\n#cybersecurity",
+        "date": "2026-07-08T02:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125034_0_33121248.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125034_1_6fc9cdcd.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125034",
+        "link": {
+          "title": "My Analyst Automated Half His Queue. Then I Asked One Question",
+          "url": "https://medium.com/@jbird24/my-analyst-automated-half-his-queue-then-i-asked-one-question-adcb55da3c46?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 125033,
+        "text": "⤷\nTitle:\nFirmware extracting thrift store junk and finding private key\n════════════════════════\n𐀪\nAuthor:\nBlackism\n════════════════════════\nⴵ\nTime:\nWed, 08 Jul 2026 00:44:29 GMT\n════════════════════════\n⌗\nTags:\n#hardware\n#hacking\n#beginner\n#cybersecurity",
+        "date": "2026-07-08T02:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125033_0_33121248.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125033_1_3070c0c5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125033",
+        "link": {
+          "title": "Firmware extracting thrift store junk and finding private key",
+          "url": "https://medium.com/@Blackism/firmware-extracting-thrift-store-junk-and-finding-private-key-a5ec6661b443?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 125032,
+        "text": "⤷\nTitle:\nBest Phone Clone Service To Catch a Catch a Cheating Partner\n════════════════════════\n𐀪\nAuthor:\nCampbell Joe\n════════════════════════\nⴵ\nTime:\nWed, 08 Jul 2026 01:10:10 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#relationships\n#iphone\n#cyber_security_services\n#cheating",
+        "date": "2026-07-08T02:03:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125032_0_33121248.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125032_1_faba4f81.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125032",
+        "link": {
+          "title": "Best Phone Clone Service To Catch a Catch a Cheating Partner",
+          "url": "https://medium.com/@campbelljoee22/best-phone-clone-service-to-catch-a-catch-a-cheating-partner-accaf9fdce08?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 125031,
+        "text": "⤷\nTitle:\nCISA Adds Four Actively Exploited Flaws to Its KEV Catalog\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 08 Jul 2026 01:53:50 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Actively\nExploited\n#Adobe\nColdFusion\n#CISA\n#CVE_2026_48282\n#CVE_2026_48908\n#CVE_2026_56290\n#joomla\n#KEV\nCatalog\n#Langflow",
+        "date": "2026-07-08T02:03:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125031_0_33121248.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125031_1_850eb241.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125031",
+        "link": {
+          "title": "CISA Adds Four Actively Exploited Flaws to Its KEV Catalog",
+          "url": "https://securityonline.info/cisa-kev-four-actively-exploited-flaws/"
+        }
+      },
+      {
         "id": 125030,
         "text": "⤷\nTitle:\nOperation: Path of Least Resistance, Red Team Tactic as a Sys Admin That Worked For Me During…\n════════════════════════\n𐀪\nAuthor:\nThe Husky Hacker\n════════════════════════\nⴵ\nTime:\nTue, 07 Jul 2026 23:07:32 GMT\n════════════════════════\n⌗\nTags:\n#red_team\n#ethical_hacking",
         "date": "2026-07-08T00:03:52+00:00",
@@ -1996,286 +2272,22 @@
           "title": "Day 2: What Is a Security Operations Center (SOC)? Understanding the Heart of Modern Cyber Defense",
           "url": "https://medium.com/@ahmedseam094/day-2-what-is-a-security-operations-center-soc-understanding-the-heart-of-modern-cyber-defense-e33822f73366?source=rss------ethical_hacking-5"
         }
-      },
-      {
-        "id": 124926,
-        "text": "⤷\nTitle:\nHow I Recovered My Kali Linux Machine After Forgetting My Password\n════════════════════════\n𐀪\nAuthor:\nvipin\n════════════════════════\nⴵ\nTime:\nTue, 07 Jul 2026 07:39:09 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#cybersecurity\n#linux\n#information_technology\n#kali_linux",
-        "date": "2026-07-07T08:04:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124926_0_e58ca074.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124926",
-        "link": {
-          "title": "How I Recovered My Kali Linux Machine After Forgetting My Password",
-          "url": "https://medium.com/@vipingiribgb0/how-i-recovered-my-kali-linux-machine-after-forgetting-my-password-ba7a69d3ce9a?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 124925,
-        "text": "⤷\nTitle:\nTryHackMe | Fools Mate\n════════════════════════\n𐀪\nAuthor:\nHashed\n════════════════════════\nⴵ\nTime:\nTue, 07 Jul 2026 07:19:52 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#walkthrough\n#tryhackme",
-        "date": "2026-07-07T08:04:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124925_0_e58ca074.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124925_1_4a932c95.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124925",
-        "link": {
-          "title": "TryHackMe | Fools Mate",
-          "url": "https://medium.com/@71hashed/tryhackme-fools-mate-e94dd5bebc9d?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 124924,
-        "text": "⤷\nTitle:\nUnderstanding RAG Security: Poisoning, Retrieval Abuse, and Sensitive Information Disclosure…\n════════════════════════\n𐀪\nAuthor:\nNASRALLAH SALEH (Xiro0x)\n════════════════════════\nⴵ\nTime:\nTue, 07 Jul 2026 07:42:29 GMT\n════════════════════════\n⌗\nTags:\n#retrieval_augmented_gen\n#red_team\n#rags\n#ai\n#tryhackme",
-        "date": "2026-07-07T08:04:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124924_0_e58ca074.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124924_1_e2158260.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124924",
-        "link": {
-          "title": "Understanding RAG Security: Poisoning, Retrieval Abuse, and Sensitive Information Disclosure…",
-          "url": "https://medium.com/@Xiro0x01/understanding-rag-security-poisoning-retrieval-abuse-and-sensitive-information-disclosure-7d65ea4b4c19?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 124923,
-        "text": "⤷\nTitle:\nDocker for Beginners: Running DVAPI on Kali Linux\n════════════════════════\n𐀪\nAuthor:\nDasmanish\n════════════════════════\nⴵ\nTime:\nTue, 07 Jul 2026 06:33:03 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#vulnerability_management\n#docker\n#penetration_testing\n#api",
-        "date": "2026-07-07T08:04:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124923_0_e58ca074.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124923_1_dc00cc8f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124923",
-        "link": {
-          "title": "Docker for Beginners: Running DVAPI on Kali Linux",
-          "url": "https://medium.com/@dasmanish6176/docker-for-beginners-running-dvapi-on-kali-linux-051f3af5930b?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 124922,
-        "text": "⤷\nTitle:\nVAPT Services Provider in India | ConsultEdge Global\n════════════════════════\n𐀪\nAuthor:\nConsultedgeglobal\n════════════════════════\nⴵ\nTime:\nTue, 07 Jul 2026 06:48:39 GMT\n════════════════════════\n⌗\nTags:\n#specialized_security\n#application_security\n#consultedge_global\n#vapt_services\n#reporting_support",
-        "date": "2026-07-07T08:04:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124922_0_e58ca074.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124922_1_1fcc60dd.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124922",
-        "link": {
-          "title": "VAPT Services Provider in India | ConsultEdge Global",
-          "url": "https://medium.com/@consultedgeglobal/vapt-services-provider-in-india-consultedge-global-d483ea06c4cd?source=rss------application_security-5"
-        }
-      },
-      {
-        "id": 124921,
-        "text": "⤷\nTitle:\nHow to Report Bugs & Earn PIF Rewards On TheBenefactor.Net\n════════════════════════\n𐀪\nAuthor:\nTheBenefactor.Net\n════════════════════════\nⴵ\nTime:\nTue, 07 Jul 2026 06:16:01 GMT\n════════════════════════\n⌗\nTags:\n#the_benefactor\n#bug_bounty_hunter\n#bug_bounty_writeup\n#bug_bounty",
-        "date": "2026-07-07T08:04:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124921_0_e58ca074.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124921_1_70194688.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124921",
-        "link": {
-          "title": "How to Report Bugs & Earn PIF Rewards On TheBenefactor.Net",
-          "url": "https://medium.com/@thebenefactor.com/how-to-report-bugs-earn-pif-rewards-on-thebenefactor-net-b42e370d33e5?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 124920,
-        "text": "⤷\nTitle:\nDeepSeek AI Generates Browser Native Ransomware\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 07 Jul 2026 06:50:22 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#AI\n#browser\nsecurity\n#Check\nPoint Research\n#DeepSeek\n#ransomware",
-        "date": "2026-07-07T08:04:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124920_0_e58ca074.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124920_1_c7d01f66.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124920",
-        "link": {
-          "title": "DeepSeek AI Generates Browser Native Ransomware",
-          "url": "https://securityonline.info/browser-native-ransomware-ai-malware/"
-        }
-      },
-      {
-        "id": 124919,
-        "text": "⤷\nTitle:\nLinux Kernel Vulnerability CVE-2024-26582: Public PoC Reaches Root Shell\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 07 Jul 2026 07:27:23 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\n#CVE_2024_26582\n#kTLS\n#Linux\nKernel\n#privilege\nescalation\n#use\nafter free",
-        "date": "2026-07-07T08:03:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124919_0_e58ca074.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124919_1_76a9ef16.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124919",
-        "link": {
-          "title": "Linux Kernel Vulnerability CVE-2024-26582: Public PoC Reaches Root Shell",
-          "url": "https://securityonline.info/linux-kernel-cve-2024-26582-root-shell/"
-        }
-      },
-      {
-        "id": 124918,
-        "text": "⤷\nTitle:\nWindows 11 Cloud Rebuild: Reinstall Without USB\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 07 Jul 2026 07:41:38 +0000\n════════════════════════\n⌗\nTags:\n#Windows\n#bitlocker\n#Cloud\nRebuild\n#Microsoft\n#System\nRecovery\n#Windows\n11\n#Windows\nInsider\n#WinRE",
-        "date": "2026-07-07T08:03:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124918_0_e58ca074.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124918_1_a5dacd46.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124918",
-        "link": {
-          "title": "Windows 11 Cloud Rebuild: Reinstall Without USB",
-          "url": "https://securityonline.info/windows-11-cloud-rebuild/"
-        }
-      },
-      {
-        "id": 124917,
-        "text": "⤷\nTitle:\nBeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nTue, 07 Jul 2026 10:46:51 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-07-07T08:03:51+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124917_0_e58ca074.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124917",
-        "link": {
-          "title": "BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA",
-          "url": "https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html"
-        }
-      },
-      {
-        "id": 124916,
-        "text": "⤷\nTitle:\nCERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nTue, 07 Jul 2026 12:10:47 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-07-07T08:03:47+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124916_0_e58ca074.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124916",
-        "link": {
-          "title": "CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware",
-          "url": "https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html"
-        }
-      },
-      {
-        "id": 124915,
-        "text": "⤷\nTitle:\nSQL UNION Attack — Understanding How It Works\n════════════════════════\n𐀪\nAuthor:\nVICTUS(RQ)\n════════════════════════\nⴵ\nTime:\nMon, 06 Jul 2026 05:21:18 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#sql_injection\n#studyportion\n#portswigger_academy_labs",
-        "date": "2026-07-07T06:04:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124915_0_e58ca074.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_124915_1_4bce8aaf.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/124915",
-        "link": {
-          "title": "SQL UNION Attack — Understanding How It Works",
-          "url": "https://medium.com/@queenrainv7/lab-3-sql-injection-attack-querying-the-database-type-and-version-on-oracle-03fbd42afd2c?source=rss------sql_injection-5"
-        }
       }
     ]
   },
-  "last_update": "2026-07-08T01:21:49.993508+00:00",
+  "last_update": "2026-07-08T04:40:41.224687+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 190,
-    "total_files": 190,
+    "total_media": 193,
+    "total_files": 193,
     "total_links": 0,
     "files_by_type": {
-      "image": 190
+      "image": 193
     },
-    "referenced_files": 190,
-    "existing_media_files": 190,
-    "total_size_mb": 5.27,
-    "last_calculation": "2026-07-08T01:21:49.995773+00:00"
+    "referenced_files": 193,
+    "existing_media_files": 193,
+    "total_size_mb": 5.34,
+    "last_calculation": "2026-07-08T04:40:41.226976+00:00"
   }
 }
