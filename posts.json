@@ -2,6 +2,236 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 125174,
+        "text": "⤷\nTitle:\nInside Japan’s 2025 Cyber Threat Report\n════════════════════════\n𐀪\nAuthor:\nDavid SEHYEON Baek\n════════════════════════\nⴵ\nTime:\nThu, 09 Jul 2026 00:12:03 GMT\n════════════════════════\n⌗\nTags:\n#ransomware\n#japan\n#cybersecurity\n#cyberattack\n#hacking",
+        "date": "2026-07-09T02:04:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125174_0_922ed12c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125174_1_10378cc6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125174",
+        "link": {
+          "title": "Inside Japan’s 2025 Cyber Threat Report",
+          "url": "https://medium.com/@davidsehyeonbaek/inside-japans-2025-cyber-threat-report-fe1fa514efe3?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 125173,
+        "text": "⤷\nTitle:\nA Short History of Bug Bounties\n════════════════════════\n𐀪\nAuthor:\nPatrick Lefler\n════════════════════════\nⴵ\nTime:\nThu, 09 Jul 2026 01:40:52 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty",
+        "date": "2026-07-09T02:04:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125173_0_922ed12c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125173_1_e80ad4b6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125173",
+        "link": {
+          "title": "A Short History of Bug Bounties",
+          "url": "https://medium.com/@patrick.lefler/a-short-history-of-bug-bounties-76314c0cf807?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 125172,
+        "text": "⤷\nTitle:\nChrome Security Update Patches 27 Flaws, Including Two Critical Use-After-Free Bugs\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 09 Jul 2026 01:50:41 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#browser\nsecurity\n#Chrome\nSecurity Update\n#CVE_2026_15112\n#CVE_2026_15129\n#CVE_2026_15132\n#google\nchrome\n#use\nafter free",
+        "date": "2026-07-09T02:03:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125172_0_922ed12c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125172_1_084a8447.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125172",
+        "link": {
+          "title": "Chrome Security Update Patches 27 Flaws, Including Two Critical Use-After-Free Bugs",
+          "url": "https://securityonline.info/chrome-security-update-27-fixes/"
+        }
+      },
+      {
+        "id": 125171,
+        "text": "⤷\nTitle:\nCVE-2026-0288: PAN-OS Buffer Overflow Can Execute Arbitrary Code\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 09 Jul 2026 02:00:06 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Arbitrary\nCode Execution\n#buffer\noverflow\n#CVE_2026_0288\n#firewall\nsecurity\n#Palo\nAlto Networks\n#PAN_OS\n#User_ID\nTerminal Server Agent",
+        "date": "2026-07-09T02:03:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125171_0_922ed12c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125171_1_9e1e7d6c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125171",
+        "link": {
+          "title": "CVE-2026-0288: PAN-OS Buffer Overflow Can Execute Arbitrary Code",
+          "url": "https://securityonline.info/pan-os-cve-2026-0288/"
+        }
+      },
+      {
+        "id": 125170,
+        "text": "⤷\nTitle:\nI Tried to Break ChatGPT’s Safety Filters, Here’s What I Learned\n════════════════════════\n𐀪\nAuthor:\nWuch Sec\n════════════════════════\nⴵ\nTime:\nWed, 08 Jul 2026 23:51:11 GMT\n════════════════════════\n⌗\nTags:\n#openai_chatgpt\n#bug_bounty_writeup\n#openai\n#cybersecurity",
+        "date": "2026-07-09T00:04:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125170_0_922ed12c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125170_1_93b8e4f7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125170",
+        "link": {
+          "title": "I Tried to Break ChatGPT’s Safety Filters, Here’s What I Learned",
+          "url": "https://medium.com/@wuchsec/i-tried-to-break-chatgpts-safety-filters-here-s-what-i-learned-ba95b91e67c9?source=rss------bug_bounty_writeup-5"
+        }
+      },
+      {
+        "id": 125169,
+        "text": "⤷\nTitle:\nBRAMHASTRA : I Asked 3 LLMs to Leak Their Secrets. One Failed Spectacularly.\n════════════════════════\n𐀪\nAuthor:\nNilanjan Chowdhury\n════════════════════════\nⴵ\nTime:\nWed, 08 Jul 2026 21:57:22 GMT\n════════════════════════\n⌗\nTags:\n#agentic_rag\n#ai_security\n#cybersecurity\n#ethical_hacking\n#prompt_engineering",
+        "date": "2026-07-09T00:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125169_0_922ed12c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125169_1_004a2c88.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125169",
+        "link": {
+          "title": "BRAMHASTRA : I Asked 3 LLMs to Leak Their Secrets. One Failed Spectacularly.",
+          "url": "https://medium.com/@nilanjan.calculus/bramhastra-i-asked-3-llms-to-leak-their-secrets-one-failed-spectacularly-3d48c3bb1038?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 125168,
+        "text": "⤷\nTitle:\nMetasploit: The Basics Tryhackme Walkthrough | Anon.M | THM\n════════════════════════\n𐀪\nAuthor:\nAnon.M\n════════════════════════\nⴵ\nTime:\nWed, 08 Jul 2026 22:54:57 GMT\n════════════════════════\n⌗\nTags:\n#metasploit\n#tryhackme\n#thm_writeup\n#tryhackme_walkthrough\n#cybersecurity",
+        "date": "2026-07-09T00:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125168_0_922ed12c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125168_1_7f987cba.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125168",
+        "link": {
+          "title": "Metasploit: The Basics Tryhackme Walkthrough | Anon.M | THM",
+          "url": "https://medium.com/@anon.business.dd/metasploit-the-basics-tryhackme-walkthrough-anon-m-thm-486e0e4add7d?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 125167,
+        "text": "⤷\nTitle:\nPyrat Walkthrough\n════════════════════════\n𐀪\nAuthor:\nYacin\n════════════════════════\nⴵ\nTime:\nWed, 08 Jul 2026 22:33:54 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#tryhackme_walkthrough\n#thm_writeup\n#tryhackme_writeup\n#hacking",
+        "date": "2026-07-09T00:03:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125167_0_922ed12c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125167_1_12f7fe8b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125167",
+        "link": {
+          "title": "Pyrat Walkthrough",
+          "url": "https://medium.com/@yacinbb/pyrat-walkthrough-64752290b019?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 125166,
+        "text": "⤷\nTitle:\nThe Attack That Steals Your API Keys Through a GitHub Issue Comment\n════════════════════════\n𐀪\nAuthor:\nPrem kumar Akula\n════════════════════════\nⴵ\nTime:\nWed, 08 Jul 2026 23:15:33 GMT\n════════════════════════\n⌗\nTags:\n#vulnerability\n#bug_bounty\n#artificial_intelligence\n#prompt_injection_attack\n#agentic_ai",
+        "date": "2026-07-09T00:03:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125166_0_922ed12c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125166_1_beceeaf4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125166",
+        "link": {
+          "title": "The Attack That Steals Your API Keys Through a GitHub Issue Comment",
+          "url": "https://medium.com/@rjbdjnf/the-attack-that-steals-your-api-keys-through-a-github-issue-comment-b0301c1906dc?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 125165,
+        "text": "⤷\nTitle:\nIris Recognition vs Fingerprint: Which Biometric Wins in 2026?\n════════════════════════\n𐀪\nAuthor:\nOwais Sultan\n════════════════════════\nⴵ\nTime:\nWed, 08 Jul 2026 22:48:32 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#Privacy\n#Surveillance\n#Biometric\n#Fingerprint\n#Iris\n#Iris\nRecognition\n#ROC\nAI",
+        "date": "2026-07-09T00:03:46+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125165_0_922ed12c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125165_1_63347a10.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125165",
+        "link": {
+          "title": "Iris Recognition vs Fingerprint: Which Biometric Wins in 2026?",
+          "url": "https://hackread.com/iris-recognition-vs-fingerprint-biometric-2026/"
+        }
+      },
+      {
         "id": 125164,
         "text": "⤷\nTitle:\nThe $0 IDOR That Was Worth More Than a $12,500 P1\n════════════════════════\n𐀪\nAuthor:\nAbhishek meena\n════════════════════════\nⴵ\nTime:\nWed, 08 Jul 2026 21:58:01 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_writeup\n#hackerone\n#idor\n#broken_access_control\n#bug_bounty",
         "date": "2026-07-08T22:03:53+00:00",
@@ -2046,248 +2276,22 @@
           "title": "Simple CTF walkthrough",
           "url": "https://medium.com/@battlefieldforever093/simple-ctf-walkthrough-3874da285775?source=rss------tryhackme-5"
         }
-      },
-      {
-        "id": 125071,
-        "text": "⤷\nTitle:\nTryHackMe Carnage Walkthrough\n════════════════════════\n𐀪\nAuthor:\nMDGHramberRemembers\n════════════════════════\nⴵ\nTime:\nWed, 08 Jul 2026 08:54:15 GMT\n════════════════════════\n⌗\nTags:\n#walkthrough\n#carnage\n#tryhackme",
-        "date": "2026-07-08T10:04:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125071_0_33121248.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125071_1_d73cdd30.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125071",
-        "link": {
-          "title": "TryHackMe Carnage Walkthrough",
-          "url": "https://medium.com/@battlefieldforever093/tryhackme-carnage-walkthrough-6db60f8efce8?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 125070,
-        "text": "⤷\nTitle:\nUnderstanding MITM: A Step-by-Step Guide to ARP Spoofing in a Virtual Lab\n════════════════════════\n𐀪\nAuthor:\nt3ch13_y45h\n════════════════════════\nⴵ\nTime:\nWed, 08 Jul 2026 09:27:09 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#cybersecurity\n#penetration_testing\n#network_security\n#kali_linux",
-        "date": "2026-07-08T10:04:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125070_0_33121248.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125070_1_8f6ce0c5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125070",
-        "link": {
-          "title": "Understanding MITM: A Step-by-Step Guide to ARP Spoofing in a Virtual Lab",
-          "url": "https://medium.com/@techie.yashrai/understanding-mitm-a-step-by-step-guide-to-arp-spoofing-in-a-virtual-lab-b6867efa4ce0?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 125069,
-        "text": "⤷\nTitle:\nHalluSquatting, l’attaque invisible des assistants IA\n════════════════════════\n𐀪\nAuthor:\nRomain Leclaire\n════════════════════════\nⴵ\nTime:\nWed, 08 Jul 2026 08:11:52 GMT\n════════════════════════\n⌗\nTags:\n#intelligence_artificielle\n#en_français\n#hacking",
-        "date": "2026-07-08T10:04:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125069_0_33121248.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125069_1_81e1d2d2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125069",
-        "link": {
-          "title": "HalluSquatting, l’attaque invisible des assistants IA",
-          "url": "https://medium.com/@romain-leclaire/hallusquatting-lattaque-invisible-des-assistants-ia-ad4b3dfc7a7f?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 125068,
-        "text": "⤷\nTitle:\nNative Messaging Backdoor Turns a Chrome Extension Into a Windows Threat\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 08 Jul 2026 07:30:48 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#backdoor\n#Chrome\nextension\n#DLL\nside_loading\n#Native\nMessaging\n#phishing",
-        "date": "2026-07-08T10:04:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125068_0_33121248.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125068_1_3e7dcd1b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125068",
-        "link": {
-          "title": "Native Messaging Backdoor Turns a Chrome Extension Into a Windows Threat",
-          "url": "https://securityonline.info/chrome-native-messaging-backdoor/"
-        }
-      },
-      {
-        "id": 125067,
-        "text": "⤷\nTitle:\nPhantom Squatting Attacks Weaponize AI Hallucinated Domains, Unit 42 Warns\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 08 Jul 2026 08:13:32 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#AI\nsecurity\n#LLM\nHallucination\n#Phantom\nSquatting\n#phishing\n#Unit\n42",
-        "date": "2026-07-08T10:04:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125067_0_33121248.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125067_1_5d61d10e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125067",
-        "link": {
-          "title": "Phantom Squatting Attacks Weaponize AI Hallucinated Domains, Unit 42 Warns",
-          "url": "https://securityonline.info/phantom-squatting-ai-hallucinated-domains/"
-        }
-      },
-      {
-        "id": 125066,
-        "text": "⤷\nTitle:\nOpenAI GPT-5.6 Rollout: Global Access Approved\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 08 Jul 2026 08:28:19 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#artificial\nintelligence\n#GPT_5\n.6\n#OpenAI\n#Tech\nNews",
-        "date": "2026-07-08T10:04:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125066_0_33121248.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125066_1_5eb82072.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125066",
-        "link": {
-          "title": "OpenAI GPT-5.6 Rollout: Global Access Approved",
-          "url": "https://securityonline.info/openai-gpt-5-6-rollout/"
-        }
-      },
-      {
-        "id": 125065,
-        "text": "⤷\nTitle:\nSpaceXAI Grok 4.5 Launch: Global Public Release Set\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 08 Jul 2026 08:44:59 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#artificial\nintelligence\n#Elon\nMusk\n#Grok\n4.5\n#SpaceXAI",
-        "date": "2026-07-08T10:03:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125065_0_33121248.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125065_1_8389adaf.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125065",
-        "link": {
-          "title": "SpaceXAI Grok 4.5 Launch: Global Public Release Set",
-          "url": "https://securityonline.info/spacexai-grok-4-5-launch/"
-        }
-      },
-      {
-        "id": 125064,
-        "text": "⤷\nTitle:\nAndroid Remote Root Exploit Chain Unveiled by Nebula\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 08 Jul 2026 09:20:31 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#android\n#Exploit\nChain\n#Linux\nKernel\n#nebula\n#Remote\nRoot",
-        "date": "2026-07-08T10:03:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125064_0_33121248.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125064_1_57ea0edb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125064",
-        "link": {
-          "title": "Android Remote Root Exploit Chain Unveiled by Nebula",
-          "url": "https://securityonline.info/android-remote-root-exploit/"
-        }
-      },
-      {
-        "id": 125063,
-        "text": "⤷\nTitle:\nParrot OS 7.3 Released with Enhanced Performance and Optimized Architecture\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nWed, 08 Jul 2026 09:53:38 +0000\n════════════════════════\n⌗\nTags:\n#Linux\n#Linux\ndistribution\n#Parrot\nOS\n#Penetration\nTesting\n#performance\noptimization",
-        "date": "2026-07-08T10:03:51+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125063_0_33121248.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125063_1_467ed29a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125063",
-        "link": {
-          "title": "Parrot OS 7.3 Released with Enhanced Performance and Optimized Architecture",
-          "url": "https://meterpreter.org/parrot-os-7-3-release/"
-        }
-      },
-      {
-        "id": 125062,
-        "text": "⤷\nTitle:\nChina-Linked UAT-7810 Expands ORB Network With New LONGLEASH Malware\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nWed, 08 Jul 2026 14:34:33 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-07-08T10:03:48+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125062_0_33121248.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125062",
-        "link": {
-          "title": "China-Linked UAT-7810 Expands ORB Network With New LONGLEASH Malware",
-          "url": "https://thehackernews.com/2026/07/china-linked-uat-7810-expands-orb.html"
-        }
       }
     ]
   },
-  "last_update": "2026-07-08T23:59:16.731232+00:00",
+  "last_update": "2026-07-09T02:13:47.776484+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 193,
-    "total_files": 193,
+    "total_media": 194,
+    "total_files": 194,
     "total_links": 0,
     "files_by_type": {
-      "image": 193
+      "image": 194
     },
-    "referenced_files": 193,
-    "existing_media_files": 193,
-    "total_size_mb": 5.26,
-    "last_calculation": "2026-07-08T23:59:16.733505+00:00"
+    "referenced_files": 194,
+    "existing_media_files": 194,
+    "total_size_mb": 5.48,
+    "last_calculation": "2026-07-09T02:13:47.778870+00:00"
   }
 }
