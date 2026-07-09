@@ -2,6 +2,113 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 125271,
+        "text": "⤷\nTitle:\nBackend Security: Everything You Need to Know\n════════════════════════\n𐀪\nAuthor:\nShubham Salunkhe\n════════════════════════\nⴵ\nTime:\nThu, 09 Jul 2026 18:24:31 GMT\n════════════════════════\n⌗\nTags:\n#sql_injection\n#security\n#backend_development\n#web_development\n#software_development",
+        "date": "2026-07-09T20:04:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125271_0_cf1d24b9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125271_1_c80b595d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125271",
+        "link": {
+          "title": "Backend Security: Everything You Need to Know",
+          "url": "https://medium.com/@shubhsalunkhe4199/backend-security-everything-you-need-to-know-9f6842e9606c?source=rss------sql_injection-5"
+        }
+      },
+      {
+        "id": 125270,
+        "text": "⤷\nTitle:\nBRUTE FORCE\n════════════════════════\n𐀪\nAuthor:\nKhanmughees\n════════════════════════\nⴵ\nTime:\nThu, 09 Jul 2026 18:01:54 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#cybersecurity\n#web_security\n#technology\n#brute_force",
+        "date": "2026-07-09T20:04:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125270_0_cf1d24b9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125270_1_082c3426.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125270",
+        "link": {
+          "title": "BRUTE FORCE",
+          "url": "https://medium.com/@khanmughees587/brute-force-014d5491787c?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 125269,
+        "text": "⤷\nTitle:\nBuilding VulnDetect: Designing a Hybrid Python Static Vulnerability Detection Engine\n════════════════════════\n𐀪\nAuthor:\nAgniswar Mukherjee\n════════════════════════\nⴵ\nTime:\nThu, 09 Jul 2026 18:41:23 GMT\n════════════════════════\n⌗\nTags:\n#owasp_top_10\n#cybersecurity\n#devsecops\n#application_security\n#python",
+        "date": "2026-07-09T20:03:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125269_0_cf1d24b9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125269_1_93f878b8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125269",
+        "link": {
+          "title": "Building VulnDetect: Designing a Hybrid Python Static Vulnerability Detection Engine",
+          "url": "https://agnisec.medium.com/building-vulndetect-designing-a-hybrid-python-static-vulnerability-detection-engine-a96fa802ff45?source=rss------application_security-5"
+        }
+      },
+      {
+        "id": 125268,
+        "text": "⤷\nTitle:\nNew GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware, and Spyware\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nThu, 09 Jul 2026 23:38:07 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-07-09T20:03:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125268_0_cf1d24b9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125268",
+        "link": {
+          "title": "New GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware, and Spyware",
+          "url": "https://thehackernews.com/2026/07/new-gigawiper-windows-backdoor-bundles.html"
+        }
+      },
+      {
+        "id": 125267,
+        "text": "⤷\nTitle:\nDormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nFri, 10 Jul 2026 00:08:49 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-07-09T20:03:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125267_0_cf1d24b9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125267",
+        "link": {
+          "title": "Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs",
+          "url": "https://thehackernews.com/2026/07/dormant-github-accounts-help-attackers.html"
+        }
+      },
+      {
         "id": 125266,
         "text": "⤷\nTitle:\nFrom SQL Injection to Remote Code Execution: A Complete Security Assessment of the NovaCRM CTF\n════════════════════════\n𐀪\nAuthor:\nRajkumaryarra\n════════════════════════\nⴵ\nTime:\nThu, 09 Jul 2026 17:11:30 GMT\n════════════════════════\n⌗\nTags:\n#vulnerability\n#rce_vulnerability\n#login_bypass\n#sql_injection\n#file_upload_vulnerability",
         "date": "2026-07-09T18:04:23+00:00",
@@ -2149,117 +2256,10 @@
           "title": "Ash, the Johto League, and the Day I Learned to Listen Before Fighting",
           "url": "https://medium.com/@saurabh.hack.pandey/ash-the-johto-league-and-the-day-i-learned-to-listen-before-fighting-800bb992378b?source=rss------bug_bounty-5"
         }
-      },
-      {
-        "id": 125139,
-        "text": "⤷\nTitle:\nNew HalluSquatting Attack Could Trick AI Coding Assistants Into Installing Botnet Malware\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nWed, 08 Jul 2026 20:37:24 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-07-08T18:03:51+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125139_0_922ed12c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125139",
-        "link": {
-          "title": "New HalluSquatting Attack Could Trick AI Coding Assistants Into Installing Botnet Malware",
-          "url": "https://thehackernews.com/2026/07/new-hallusquatting-attack-could-trick.html"
-        }
-      },
-      {
-        "id": 125138,
-        "text": "⤷\nTitle:\nAI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nWed, 08 Jul 2026 22:32:12 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-07-08T18:03:48+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125138_0_922ed12c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125138",
-        "link": {
-          "title": "AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers",
-          "url": "https://thehackernews.com/2026/07/ai-coding-agents-found-triggering.html"
-        }
-      },
-      {
-        "id": 125137,
-        "text": "⤷\nTitle:\nThe Built-In Linux Tools I Wish Someone Had Shown Me Earlier\n════════════════════════\n𐀪\nAuthor:\nFateyaly\n════════════════════════\nⴵ\nTime:\nWed, 08 Jul 2026 13:51:11 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#technology\n#programming\n#cybersecurity\n#coding",
-        "date": "2026-07-08T16:05:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125137_0_922ed12c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125137_1_f90d76d6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125137",
-        "link": {
-          "title": "The Built-In Linux Tools I Wish Someone Had Shown Me Earlier",
-          "url": "https://medium.com/@fatihaali093/the-built-in-linux-tools-i-wish-someone-had-shown-me-earlier-4621005dffa9?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 125136,
-        "text": "⤷\nTitle:\nHow I Passed INE Certifications and My Cybersecurity Certification Journey\n════════════════════════\n𐀪\nAuthor:\nAlex Watkins\n════════════════════════\nⴵ\nTime:\nWed, 08 Jul 2026 15:47:19 GMT\n════════════════════════\n⌗\nTags:\n#ai\n#ethical_hacking\n#cybersecurity\n#food\n#google",
-        "date": "2026-07-08T16:05:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125136_0_922ed12c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125136_1_6cb94e78.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125136",
-        "link": {
-          "title": "How I Passed INE Certifications and My Cybersecurity Certification Journey",
-          "url": "https://medium.com/@saneme6806/how-i-passed-ine-certifications-and-my-cybersecurity-certification-journey-3fdfb97202b9?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 125135,
-        "text": "⤷\nTitle:\nVulnHub DriftingBlues 2 Walkthrough\n════════════════════════\n𐀪\nAuthor:\nAntonio\n════════════════════════\nⴵ\nTime:\nWed, 08 Jul 2026 15:26:00 GMT\n════════════════════════\n⌗\nTags:\n#vulnhub\n#vulnhub_writeup\n#ctf\n#vulnhub_walkthrough",
-        "date": "2026-07-08T16:05:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125135_0_922ed12c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125135_1_80a277c2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125135",
-        "link": {
-          "title": "VulnHub DriftingBlues 2 Walkthrough",
-          "url": "https://medium.com/@inotp/vulnhub-driftingblues-2-walkthrough-aba448639c6a?source=rss------vulnhub-5"
-        }
       }
     ]
   },
-  "last_update": "2026-07-09T19:19:20.630988+00:00",
+  "last_update": "2026-07-09T21:01:03.356171+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2271,7 +2271,7 @@
     },
     "referenced_files": 189,
     "existing_media_files": 189,
-    "total_size_mb": 5.35,
-    "last_calculation": "2026-07-09T19:19:20.633229+00:00"
+    "total_size_mb": 5.39,
+    "last_calculation": "2026-07-09T21:01:03.357508+00:00"
   }
 }
