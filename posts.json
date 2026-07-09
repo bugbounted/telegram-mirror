@@ -2,6 +2,140 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 125196,
+        "text": "⤷\nTitle:\nCSRF with Broken Referer Validation — Testing with Sonnet 4.6 (Medium Effort)\n════════════════════════\n𐀪\nAuthor:\nBash Overflow\n════════════════════════\nⴵ\nTime:\nThu, 09 Jul 2026 07:33:45 GMT\n════════════════════════\n⌗\nTags:\n#portswigger\n#csrf_attack\n#broken_referer_validation\n#csrf_referer_bypass\n#bug_bounty_tips",
+        "date": "2026-07-09T08:04:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125196_0_922ed12c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125196_1_f3e126ad.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125196",
+        "link": {
+          "title": "CSRF with Broken Referer Validation — Testing with Sonnet 4.6 (Medium Effort)",
+          "url": "https://meetcyber.net/csrf-with-broken-referer-validation-testing-with-sonnet-4-6-medium-effort-24ab7d423ddd?source=rss------bug_bounty_tips-5"
+        }
+      },
+      {
+        "id": 125195,
+        "text": "⤷\nTitle:\nOPERATION VANTABLACK — FREE COMMUNITY CTF WALKTHROUGH\n════════════════════════\n𐀪\nAuthor:\nDallen Sadru\n════════════════════════\nⴵ\nTime:\nThu, 09 Jul 2026 06:48:58 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#digital_forensics\n#ethical_hacking\n#ctf",
+        "date": "2026-07-09T08:04:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125195_0_922ed12c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125195_1_4b7070d2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125195",
+        "link": {
+          "title": "OPERATION VANTABLACK — FREE COMMUNITY CTF WALKTHROUGH",
+          "url": "https://medium.com/@cyberb354/operation-vantablack-free-community-ctf-walkthrough-df472244be3c?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 125194,
+        "text": "⤷\nTitle:\nFrom Zero to Shell: Laying the Linux Foundation for OSCP Part 1\n════════════════════════\n𐀪\nAuthor:\nLeviiq\n════════════════════════\nⴵ\nTime:\nThu, 09 Jul 2026 07:14:45 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#cybersecurity\n#linux",
+        "date": "2026-07-09T08:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125194_0_922ed12c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125194_1_3cb55116.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125194",
+        "link": {
+          "title": "From Zero to Shell: Laying the Linux Foundation for OSCP Part 1",
+          "url": "https://medium.com/@Leviiq/from-zero-to-shell-laying-the-linux-foundation-for-oscp-bb7b5448464c?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 125193,
+        "text": "⤷\nTitle:\nRPC (Remote Procedure Call) Protocol  .\n════════════════════════\n𐀪\nAuthor:\nAshraf Mohammed\n════════════════════════\nⴵ\nTime:\nThu, 09 Jul 2026 07:47:01 GMT\n════════════════════════\n⌗\nTags:\n#windows_post_exploitation\n#rpc\n#cybersecurity\n#penetration_testing\n#smb",
+        "date": "2026-07-09T08:03:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125193_0_922ed12c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125193_1_566e6a74.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125193",
+        "link": {
+          "title": "RPC (Remote Procedure Call) Protocol  .",
+          "url": "https://medium.com/@ashrafal3oni/rpc-remote-procedure-call-protocol-4d5f603934a0?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 125192,
+        "text": "⤷\nTitle:\nPredator Spyware Victims Sue Intellexa\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nThu, 09 Jul 2026 07:51:10 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#Intellexa\n#lawsuit\n#Predator\n#Spyware\n#Surveillance",
+        "date": "2026-07-09T08:03:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125192_0_922ed12c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125192_1_f11bd2b9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125192",
+        "link": {
+          "title": "Predator Spyware Victims Sue Intellexa",
+          "url": "https://meterpreter.org/predator-spyware-victims-lawsuit/"
+        }
+      },
+      {
+        "id": 125191,
+        "text": "⤷\nTitle:\nMeta's New AI Image Tool Lets Others Use Your Public Instagram Photos in AI Images\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nThu, 09 Jul 2026 12:51:06 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-07-09T08:03:46+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125191_0_922ed12c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125191",
+        "link": {
+          "title": "Meta's New AI Image Tool Lets Others Use Your Public Instagram Photos in AI Images",
+          "url": "https://thehackernews.com/2026/07/metas-new-ai-image-tool-lets-others-use.html"
+        }
+      },
+      {
         "id": 125190,
         "text": "⤷\nTitle:\nTryHackMe — Summit Lab Write-up\n════════════════════════\n𐀪\nAuthor:\nSeaf Talal\n════════════════════════\nⴵ\nTime:\nThu, 09 Jul 2026 04:18:45 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_writeup\n#tryhackme\n#tryhackme_walkthrough\n#security\n#threat_detection",
         "date": "2026-07-09T06:04:18+00:00",
@@ -2126,160 +2260,22 @@
           "title": "I built a Free Search Extension for Burp Suite Community (Because I Was Tired of Clicking Through…",
           "url": "https://medium.com/@abdalah336/i-built-a-free-search-extension-for-burp-suite-community-because-i-was-tired-of-clicking-through-34e894de4f61?source=rss------bug_bounty_writeup-5"
         }
-      },
-      {
-        "id": 125093,
-        "text": "⤷\nTitle:\nDeep Dive into Modern Web Vulnerabilities: Advanced API Exploitation vs. Traditional SSRF\n════════════════════════\n𐀪\nAuthor:\nAitzhan Ali\n════════════════════════\nⴵ\nTime:\nWed, 08 Jul 2026 10:12:49 GMT\n════════════════════════\n⌗\nTags:\n#ssrf\n#web_development\n#software_engineering\n#software_development\n#cybersecurity",
-        "date": "2026-07-08T12:04:40+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125093_0_33121248.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125093_1_2e4269a2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125093",
-        "link": {
-          "title": "Deep Dive into Modern Web Vulnerabilities: Advanced API Exploitation vs. Traditional SSRF",
-          "url": "https://medium.com/@aitzhan.ali2012/deep-dive-into-modern-web-vulnerabilities-advanced-api-exploitation-vs-traditional-ssrf-ebf045325b9a?source=rss------ssrf-5"
-        }
-      },
-      {
-        "id": 125092,
-        "text": "⤷\nTitle:\nBest Cybersecurity Courses with Placement Assistance in delhi\n════════════════════════\n𐀪\nAuthor:\ncybersecuritycourse\n════════════════════════\nⴵ\nTime:\nWed, 08 Jul 2026 10:11:16 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ai\n#ethical_hacking\n#education\n#cybersecurity_course",
-        "date": "2026-07-08T12:04:37+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125092_0_33121248.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125092_1_cc54046c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125092",
-        "link": {
-          "title": "Best Cybersecurity Courses with Placement Assistance in delhi",
-          "url": "https://medium.com/@cybersecuritycourse/best-cybersecurity-courses-with-placement-assistance-in-delhi-e464b99decaf?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 125091,
-        "text": "⤷\nTitle:\nIDE Extensions for Initial Access (TA0001): Exploring the Security Risks of VS Code extensions\n════════════════════════\n𐀪\nAuthor:\nMr. Robot.txt\n════════════════════════\nⴵ\nTime:\nWed, 08 Jul 2026 11:57:38 GMT\n════════════════════════\n⌗\nTags:\n#red_team\n#penetration_testing\n#vs_code_extensions\n#ethical_hacking\n#cybersecurity",
-        "date": "2026-07-08T12:04:33+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125091_0_33121248.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125091_1_36e8f854.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125091",
-        "link": {
-          "title": "IDE Extensions for Initial Access (TA0001): Exploring the Security Risks of VS Code extensions",
-          "url": "https://medium.com/@duncanochieng682/ide-extensions-for-initial-access-ta0001-exploring-the-security-risks-of-vs-code-extensions-ea4bf585f2a8?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 125090,
-        "text": "⤷\nTitle:\nThe Downfall of the TryHackMe Leaderboard\n════════════════════════\n𐀪\nAuthor:\nAnon Rider\n════════════════════════\nⴵ\nTime:\nWed, 08 Jul 2026 10:11:45 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#gamification\n#ctf\n#cybersecurity\n#capture_the_flag",
-        "date": "2026-07-08T12:04:30+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125090_0_33121248.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125090_1_4570f2d3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125090",
-        "link": {
-          "title": "The Downfall of the TryHackMe Leaderboard",
-          "url": "https://medium.com/@rankoverflow/the-downfall-of-the-tryhackme-leaderboard-b22f9a90f75b?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 125089,
-        "text": "⤷\nTitle:\nRevenge — TryHackMe WriteUp with Flags\n════════════════════════\n𐀪\nAuthor:\nRayenhafsawy\n════════════════════════\nⴵ\nTime:\nWed, 08 Jul 2026 11:14:46 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#tryhackme_walkthrough\n#cybersecurity\n#tryhackme_writeup\n#ctf",
-        "date": "2026-07-08T12:04:26+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125089_0_33121248.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125089_1_597a2b57.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125089",
-        "link": {
-          "title": "Revenge — TryHackMe WriteUp with Flags",
-          "url": "https://medium.com/@rayenhafsawy/revenge-tryhackme-writeup-with-flags-29eda253ea6a?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 125088,
-        "text": "⤷\nTitle:\nBuild your Cyber Security Career Part — 3\n════════════════════════\n𐀪\nAuthor:\nExploitHunter\n════════════════════════\nⴵ\nTime:\nWed, 08 Jul 2026 11:35:09 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#ethical_hacking\n#cyber_security_awareness\n#web_development\n#cybersecurity",
-        "date": "2026-07-08T12:04:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125088_0_33121248.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125088_1_5e686e3d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125088",
-        "link": {
-          "title": "Build your Cyber Security Career Part — 3",
-          "url": "https://medium.com/@vorasmit22/build-your-cyber-security-career-part-3-938177443e78?source=rss------infosec-5"
-        }
       }
     ]
   },
-  "last_update": "2026-07-09T06:26:24.121059+00:00",
+  "last_update": "2026-07-09T10:02:57.093309+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 191,
-    "total_files": 191,
+    "total_media": 190,
+    "total_files": 190,
     "total_links": 0,
     "files_by_type": {
-      "image": 191
+      "image": 190
     },
-    "referenced_files": 191,
-    "existing_media_files": 191,
-    "total_size_mb": 5.23,
-    "last_calculation": "2026-07-09T06:26:24.123339+00:00"
+    "referenced_files": 190,
+    "existing_media_files": 190,
+    "total_size_mb": 5.32,
+    "last_calculation": "2026-07-09T10:02:57.095663+00:00"
   }
 }
