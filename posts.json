@@ -2,6 +2,190 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 125444,
+        "text": "⤷\nTitle:\nMemburu Celah Keamanan di Situs Besar: Eksplorasi CVE-2021–41182 pada jQuery UI\n════════════════════════\n𐀪\nAuthor:\nAbdulrhidayat\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 03:37:30 GMT\n════════════════════════\n⌗\nTags:\n#cve_2021_41182\n#jquery\n#xss_vulnerability",
+        "date": "2026-07-11T04:03:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125444_0_7a722c7b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125444_1_dfc8f24e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125444",
+        "link": {
+          "title": "Memburu Celah Keamanan di Situs Besar: Eksplorasi CVE-2021–41182 pada jQuery UI",
+          "url": "https://medium.com/@abdulrhidayat/memburu-celah-keamanan-di-situs-besar-eksplorasi-cve-2021-41182-pada-jquery-ui-6b060d5d0faf?source=rss------xss_vulnerability-5"
+        }
+      },
+      {
+        "id": 125443,
+        "text": "⤷\nTitle:\nSQL Injection: Listing Database Contents on Oracle | PortSwigger Web Security Academy Walkthrough\n════════════════════════\n𐀪\nAuthor:\nJinesh Majithia\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 02:48:20 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#portswigger_lab\n#cybersecurity\n#sql_injection\n#burpsuite",
+        "date": "2026-07-11T04:03:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125443_0_7a722c7b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125443_1_8206d230.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125443",
+        "link": {
+          "title": "SQL Injection: Listing Database Contents on Oracle | PortSwigger Web Security Academy Walkthrough",
+          "url": "https://medium.com/@jineshcanada23/sql-injection-listing-database-contents-on-oracle-portswigger-web-security-academy-walkthrough-a11164bd3d2c?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 125442,
+        "text": "⤷\nTitle:\nProtonVPN Stores Your Authentication Private Key in Plaintext — Proton Says It’s Intended Behavior\n════════════════════════\n𐀪\nAuthor:\nAaron Thomas\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 03:43:52 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#bug_bounty",
+        "date": "2026-07-11T04:03:46+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125442_0_7a722c7b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125442_1_de54a866.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125442",
+        "link": {
+          "title": "ProtonVPN Stores Your Authentication Private Key in Plaintext — Proton Says It’s Intended Behavior",
+          "url": "https://infosecwriteups.com/protonvpn-stores-your-authentication-private-key-in-plaintext-proton-says-its-intended-behavior-435dbb823612?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 125441,
+        "text": "⤷\nTitle:\nVulnHub — Funbox: Under Construction! Walkthrough\n════════════════════════\n𐀪\nAuthor:\nAntonio\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 01:01:01 GMT\n════════════════════════\n⌗\nTags:\n#vulnhub\n#vulnhub_walkthrough\n#vulnhub_writeup",
+        "date": "2026-07-11T02:04:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125441_0_7a722c7b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125441_1_b30e52f7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125441",
+        "link": {
+          "title": "VulnHub — Funbox: Under Construction! Walkthrough",
+          "url": "https://medium.com/@inotp/vulnhub-funbox-under-construction-walkthrough-7cdac3720935?source=rss------vulnhub-5"
+        }
+      },
+      {
+        "id": 125440,
+        "text": "⤷\nTitle:\nHacking Web Routers 101\n════════════════════════\n𐀪\nAuthor:\nAleksa Zatezalo\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 00:19:22 GMT\n════════════════════════\n⌗\nTags:\n#python\n#glinet_router\n#hacking",
+        "date": "2026-07-11T02:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125440_0_7a722c7b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125440_1_12cd25ca.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125440",
+        "link": {
+          "title": "Hacking Web Routers 101",
+          "url": "https://aleksazatezalo.medium.com/hacking-web-routers-101-2487dc5faa10?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 125439,
+        "text": "⤷\nTitle:\nFrom Prompt to Shell: Exploiting Tool-Calling Agents via Indirect Injection\n════════════════════════\n𐀪\nAuthor:\nAleksa Zatezalo\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 00:48:15 GMT\n════════════════════════\n⌗\nTags:\n#python\n#ai_agent\n#hacking",
+        "date": "2026-07-11T02:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125439_0_7a722c7b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125439_1_b25763bd.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125439",
+        "link": {
+          "title": "From Prompt to Shell: Exploiting Tool-Calling Agents via Indirect Injection",
+          "url": "https://aleksazatezalo.medium.com/from-prompt-to-shell-exploiting-tool-calling-agents-via-indirect-injection-0bd366b3ac9e?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 125438,
+        "text": "⤷\nTitle:\nSilver Fox Ghost Distributor Delivers MODBEACON Trojan to Chosen Targets\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 01:28:22 +0000\n════════════════════════\n⌗\nTags:\n#Cyber\nSecurity\n#Ghost\nRAT\n#MODBEACON\n#Operation\nPhnom Penh\n#QiAnXin\n#Rust\nmalware\n#Silver\nFox\n#UTG_Q_1000\n#ValleyRAT",
+        "date": "2026-07-11T02:03:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125438_0_7a722c7b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125438_1_dcb69f58.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125438",
+        "link": {
+          "title": "Silver Fox Ghost Distributor Delivers MODBEACON Trojan to Chosen Targets",
+          "url": "https://securityonline.info/silver-fox-modbeacon/"
+        }
+      },
+      {
+        "id": 125437,
+        "text": "⤷\nTitle:\nApache IoTDB Fixes Path Traversal and Authentication Bypass Flaws (CVE-2026-24014)\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 01:37:25 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Apache\nIoTDB\n#Arbitrary\nFile Write\n#Authentication\nBypass\n#CVE_2026_24012\n#CVE_2026_24013\n#CVE_2026_24014\n#IoT\nsecurity\n#Path\nTraversal",
+        "date": "2026-07-11T02:03:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125437_0_7a722c7b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125437_1_2dcd0a45.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125437",
+        "link": {
+          "title": "Apache IoTDB Fixes Path Traversal and Authentication Bypass Flaws (CVE-2026-24014)",
+          "url": "https://securityonline.info/apache-iotdb-vulnerabilities/"
+        }
+      },
+      {
         "id": 125436,
         "text": "⤷\nTitle:\nAI Threatens Defense. Offense Gets the Same Tools — With Rules\n════════════════════════\n𐀪\nAuthor:\nIgor Nesterenko\n════════════════════════\nⴵ\nTime:\nFri, 10 Jul 2026 23:05:29 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#artificial_intelligence\n#red_team\n#ai\n#cybersecurity",
         "date": "2026-07-11T00:04:03+00:00",
@@ -2064,194 +2248,10 @@
           "title": "How I Bypassed a Mandatory 2FA Enforcement Just by Dropping One Request",
           "url": "https://medium.com/@northsidehacker/how-i-bypassed-a-mandatory-2fa-enforcement-just-by-dropping-one-request-863b79f88771?source=rss------bug_bounty-5"
         }
-      },
-      {
-        "id": 125333,
-        "text": "⤷\nTitle:\nHunting the Origin IP Behind AWS CloudFront\n════════════════════════\n𐀪\nAuthor:\nTheWildEye\n════════════════════════\nⴵ\nTime:\nFri, 10 Jul 2026 09:23:04 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#bug_bounty_tips\n#cybersecurity\n#bug_bounty\n#aws_cloudfront",
-        "date": "2026-07-10T10:04:34+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125333_0_cf1d24b9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125333_1_71a4196b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125333",
-        "link": {
-          "title": "Hunting the Origin IP Behind AWS CloudFront",
-          "url": "https://medium.com/@TheWildEye/hunting-the-origin-ip-behind-cloudfront-ecb85fad9249?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 125332,
-        "text": "⤷\nTitle:\nFrom PortSwigger Labs to my First Real-World Bounty: How a Stored XSS Found Me\n════════════════════════\n𐀪\nAuthor:\nh4nin\n════════════════════════\nⴵ\nTime:\nFri, 10 Jul 2026 09:31:00 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_writeup\n#portswigger\n#my_first_bounty\n#xss_vulnerability\n#bug_bounty",
-        "date": "2026-07-10T10:04:31+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125332_0_cf1d24b9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125332_1_4b05fb00.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125332",
-        "link": {
-          "title": "From PortSwigger Labs to my First Real-World Bounty: How a Stored XSS Found Me",
-          "url": "https://medium.com/@haninalmohammadi19/from-portswigger-labs-to-my-first-real-world-bounty-how-a-stored-xss-found-me-4211f2ed3ce9?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 125331,
-        "text": "⤷\nTitle:\nGoogle Ads AI Transparency Tools to Combat Fake Content\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 10 Jul 2026 04:15:04 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#AI\nTransparency\n#artificial\nintelligence\n#Digital\nMarketing\n#Google\nAds",
-        "date": "2026-07-10T10:04:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125331_0_cf1d24b9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125331_1_9ada8331.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125331",
-        "link": {
-          "title": "Google Ads AI Transparency Tools to Combat Fake Content",
-          "url": "https://securityonline.info/google-ads-ai-transparency/"
-        }
-      },
-      {
-        "id": 125330,
-        "text": "⤷\nTitle:\nMeta Introduces Muse Spark 1.1 AI Model\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 10 Jul 2026 05:15:06 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#AI\nAgents\n#artificial\nintelligence\n#machine_learning\n#Meta\nAI\n#Muse\nSpark",
-        "date": "2026-07-10T10:04:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125330_0_cf1d24b9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125330_1_c8083b78.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125330",
-        "link": {
-          "title": "Meta Introduces Muse Spark 1.1 AI Model",
-          "url": "https://securityonline.info/muse-spark-1-1-ai/"
-        }
-      },
-      {
-        "id": 125329,
-        "text": "⤷\nTitle:\nJADEPUFFER Marks the First AI-Driven Agentic Ransomware Attack\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 10 Jul 2026 06:11:59 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#agentic\nransomware\n#AI_driven\nransomware\n#CVE_2025_3248\n#JADEPUFFER\n#Langflow\n#Nacos\n#ransomware\n#Sysdig",
-        "date": "2026-07-10T10:04:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125329_0_cf1d24b9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125329_1_ac35cc29.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125329",
-        "link": {
-          "title": "JADEPUFFER Marks the First AI-Driven Agentic Ransomware Attack",
-          "url": "https://securityonline.info/jadepuffer-agentic-ransomware/"
-        }
-      },
-      {
-        "id": 125328,
-        "text": "⤷\nTitle:\nGNU Guix Vulnerabilities Expose guix substitute and guix pull\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 10 Jul 2026 06:16:51 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#GNU\nGuix\n#guix\npull\n#guix\nsubstitute\n#guix_daemon\n#Linux\nSecurity\n#privilege\nescalation",
-        "date": "2026-07-10T10:04:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125328_0_cf1d24b9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125328_1_8fb98f5a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125328",
-        "link": {
-          "title": "GNU Guix Vulnerabilities Expose guix substitute and guix pull",
-          "url": "https://securityonline.info/guix-substitute-vulnerabilities/"
-        }
-      },
-      {
-        "id": 125327,
-        "text": "⤷\nTitle:\nPamStealer macOS Malware Poses as Maccy to Steal Passwords\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 10 Jul 2026 07:15:57 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#Apple\nSilicon\n#Jamf\nThreat Labs\n#Maccy\n#macOS\nMalware\n#PamStealer\n#Rust\ninfostealer",
-        "date": "2026-07-10T10:04:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125327_0_cf1d24b9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125327_1_ccdc41e0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125327",
-        "link": {
-          "title": "PamStealer macOS Malware Poses as Maccy to Steal Passwords",
-          "url": "https://securityonline.info/pamstealer-macos-malware/"
-        }
-      },
-      {
-        "id": 125326,
-        "text": "⤷\nTitle:\nPublic PoC Discloses CVE-2026-31694, a Linux Kernel FUSE Local Privilege Escalation\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 10 Jul 2026 08:00:22 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_31694\n#FUSE\n#Linux\nKernel\n#Linux\nSecurity\n#Local\nPrivilege Escalation\n#page\ncache overflow\n#proof_of_concept",
-        "date": "2026-07-10T10:04:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125326_0_cf1d24b9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125326_1_94a56d86.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125326",
-        "link": {
-          "title": "Public PoC Discloses CVE-2026-31694, a Linux Kernel FUSE Local Privilege Escalation",
-          "url": "https://securityonline.info/linux-kernel-fuse-cve-2026-31694/"
-        }
       }
     ]
   },
-  "last_update": "2026-07-11T01:20:40.589929+00:00",
+  "last_update": "2026-07-11T04:35:28.508275+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2263,7 +2263,7 @@
     },
     "referenced_files": 187,
     "existing_media_files": 187,
-    "total_size_mb": 4.81,
-    "last_calculation": "2026-07-11T01:20:40.592203+00:00"
+    "total_size_mb": 4.56,
+    "last_calculation": "2026-07-11T04:35:28.510545+00:00"
   }
 }
