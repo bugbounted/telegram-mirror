@@ -2,6 +2,98 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 125529,
+        "text": "⤷\nTitle:\nEl peligro real de la Inyección SQL (SQLi)\n════════════════════════\n𐀪\nAuthor:\nDemegorash\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 20:37:09 GMT\n════════════════════════\n⌗\nTags:\n#sql_injection\n#cybersecurity\n#learning",
+        "date": "2026-07-11T22:04:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125529_0_b08380ce.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125529_1_e52e8ab8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125529",
+        "link": {
+          "title": "El peligro real de la Inyección SQL (SQLi)",
+          "url": "https://medium.com/@demegorash/el-peligro-real-de-la-inyecci%C3%B3n-sql-sqli-9f471ece4370?source=rss------sql_injection-5"
+        }
+      },
+      {
+        "id": 125528,
+        "text": "⤷\nTitle:\nTryHackMe | Phishing Analysis Fundamentals | Write-up\n════════════════════════\n𐀪\nAuthor:\nRansom.Sezan\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 21:20:20 GMT\n════════════════════════\n⌗\nTags:\n#phishing\n#tryhackme\n#tryhackme_writeup\n#tryhackme_walkthrough",
+        "date": "2026-07-11T22:04:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125528_0_b08380ce.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125528_1_059c7d3c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125528",
+        "link": {
+          "title": "TryHackMe | Phishing Analysis Fundamentals | Write-up",
+          "url": "https://medium.com/@codectoc.ransomware/tryhackme-phishing-analysis-fundamentals-write-up-5e270f22a2a8?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 125527,
+        "text": "⤷\nTitle:\nWalkthrough: File Hunter & The Basics of FTP Enumeration\n════════════════════════\n𐀪\nAuthor:\nDRDsec\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 21:22:00 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#hackviser\n#medium\n#cybersecurity",
+        "date": "2026-07-11T22:03:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125527_0_b08380ce.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125527_1_463a4f28.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125527",
+        "link": {
+          "title": "Walkthrough: File Hunter & The Basics of FTP Enumeration",
+          "url": "https://drdsec.medium.com/walkthrough-file-hunter-the-basics-of-ftp-enumeration-0bd37c5043c8?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 125526,
+        "text": "⤷\nTitle:\nHacking the ‘Disaster Prepper’ Paradigm: Ep. #5 — On Emergency Preparedness & Resilience\n════════════════════════\n𐀪\nAuthor:\nz3r0trust\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 21:27:44 GMT\n════════════════════════\n⌗\nTags:\n#resilience\n#hacking\n#emergency_preparedness\n#technology\n#disaster_preparedness",
+        "date": "2026-07-11T22:03:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125526_0_b08380ce.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125526_1_05a194ae.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125526",
+        "link": {
+          "title": "Hacking the ‘Disaster Prepper’ Paradigm: Ep. #5 — On Emergency Preparedness & Resilience",
+          "url": "https://z3r0trust.medium.com/hacking-the-disaster-prepper-paradigm-ep-5-on-emergency-preparedness-resilience-854fc05932a6?source=rss------hacking-5"
+        }
+      },
+      {
         "id": 125525,
         "text": "⤷\nTitle:\nBreaking CSPs\n════════════════════════\n𐀪\nAuthor:\nMarduk I Am\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 19:12:59 GMT\n════════════════════════\n⌗\nTags:\n#web_security\n#web_application_security\n#bug_bounty_tips\n#cybersecurity\n#xss_attack",
         "date": "2026-07-11T20:04:15+00:00",
@@ -2192,102 +2284,10 @@
           "title": "SQL Injection Is Not Dead: Why an Old Vulnerability Still Breaks Modern Applications",
           "url": "https://medium.com/@securestepsdesk/sql-injection-is-not-dead-why-an-old-vulnerability-still-breaks-modern-applications-197f3cde63e4?source=rss------sql_injection-5"
         }
-      },
-      {
-        "id": 125429,
-        "text": "⤷\nTitle:\n“screenshot” | CyberTalents | Bypass SSRF filters using PHP wrappers| Web Exploitation : Hard\n════════════════════════\n𐀪\nAuthor:\nDr_ro0t\n════════════════════════\nⴵ\nTime:\nFri, 10 Jul 2026 21:08:54 GMT\n════════════════════════\n⌗\nTags:\n#web_security\n#ctf_writeup\n#ssrf\n#cyber_talents",
-        "date": "2026-07-10T22:04:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125429_0_7a722c7b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125429_1_b18b31d3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125429",
-        "link": {
-          "title": "“screenshot” | CyberTalents | Bypass SSRF filters using PHP wrappers| Web Exploitation : Hard",
-          "url": "https://systemweakness.com/screenshot-cybertalents-bypass-ssrf-filters-using-php-wrappers-web-exploitation-hard-9625ca91c82d?source=rss------ssrf-5"
-        }
-      },
-      {
-        "id": 125428,
-        "text": "⤷\nTitle:\nPhase One: Getting Situational Awareness Right\n════════════════════════\n𐀪\nAuthor:\nMatthew Hennigan\n════════════════════════\nⴵ\nTime:\nFri, 10 Jul 2026 21:14:27 GMT\n════════════════════════\n⌗\nTags:\n#windows_security\n#cybersecurity\n#penetration_testing\n#active_directory\n#red_team",
-        "date": "2026-07-10T22:03:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125428_0_7a722c7b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125428_1_49be76cf.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125428",
-        "link": {
-          "title": "Phase One: Getting Situational Awareness Right",
-          "url": "https://medium.com/@ironmatt1/phase-one-getting-situational-awareness-right-6a33c08530a1?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 125427,
-        "text": "⤷\nTitle:\nTryHackMe: Support Walkthrough\n════════════════════════\n𐀪\nAuthor:\nFarid Narimanov\n════════════════════════\nⴵ\nTime:\nFri, 10 Jul 2026 21:16:42 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#tryhackme\n#tryhackme_walkthrough\n#ethical_hacking\n#penetration_testing",
-        "date": "2026-07-10T22:03:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125427_0_7a722c7b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125427_1_debd9ba8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125427",
-        "link": {
-          "title": "TryHackMe: Support Walkthrough",
-          "url": "https://medium.com/@faridnarimanof/tryhackme-support-walkthrough-e1296daf1343?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 125426,
-        "text": "⤷\nTitle:\nThe Supply Chain Security Interview Question I Couldn’t Answer — Until I Started Thinking Like an…\n════════════════════════\n𐀪\nAuthor:\nVineet Singh\n════════════════════════\nⴵ\nTime:\nFri, 10 Jul 2026 20:31:18 GMT\n════════════════════════\n⌗\nTags:\n#information_security\n#enterprise_security\n#supply_chain_security\n#application_security\n#product_security",
-        "date": "2026-07-10T22:03:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125426_0_7a722c7b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125426_1_849e05b8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125426",
-        "link": {
-          "title": "The Supply Chain Security Interview Question I Couldn’t Answer — Until I Started Thinking Like an…",
-          "url": "https://vineet08.medium.com/the-supply-chain-security-interview-question-i-couldnt-answer-until-i-started-thinking-like-an-c7b32c1b38bf?source=rss------application_security-5"
-        }
       }
     ]
   },
-  "last_update": "2026-07-11T21:38:48.279330+00:00",
+  "last_update": "2026-07-11T22:36:34.285394+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2299,7 +2299,7 @@
     },
     "referenced_files": 196,
     "existing_media_files": 196,
-    "total_size_mb": 5.57,
-    "last_calculation": "2026-07-11T21:38:48.281599+00:00"
+    "total_size_mb": 5.54,
+    "last_calculation": "2026-07-11T22:36:34.287810+00:00"
   }
 }
