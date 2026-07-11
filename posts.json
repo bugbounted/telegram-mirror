@@ -2,6 +2,370 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 125506,
+        "text": "⤷\nTitle:\nBlind SSRF via Webhook Subscription URLs: When a SaaS Trusts Your Callback Too Much\n════════════════════════\n𐀪\nAuthor:\na71n\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 15:18:11 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_writeup",
+        "date": "2026-07-11T16:04:41+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125506_0_b08380ce.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125506_1_ae246fc7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125506",
+        "link": {
+          "title": "Blind SSRF via Webhook Subscription URLs: When a SaaS Trusts Your Callback Too Much",
+          "url": "https://medium.com/@ajinisadev/blind-ssrf-via-webhook-subscription-urls-when-a-saas-trusts-your-callback-too-much-987f62884693?source=rss------bug_bounty_writeup-5"
+        }
+      },
+      {
+        "id": 125505,
+        "text": "⤷\nTitle:\nWhy I Created the EchoByte Media X Account: A Gamer’s Perspective on Gaming News\n════════════════════════\n𐀪\nAuthor:\nEchoByte Media\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 14:11:43 GMT\n════════════════════════\n⌗\nTags:\n#twitter\n#xs",
+        "date": "2026-07-11T16:04:38+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125505_0_b08380ce.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125505_1_23d49b5f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125505",
+        "link": {
+          "title": "Why I Created the EchoByte Media X Account: A Gamer’s Perspective on Gaming News",
+          "url": "https://medium.com/@EchoByteMedia/why-i-created-the-echobyte-media-x-account-a-gamers-perspective-on-gaming-news-6d9e2f16c8db?source=rss------xss-5"
+        }
+      },
+      {
+        "id": 125504,
+        "text": "⤷\nTitle:\nThe Linux Logs That Solved an Incident Nobody Could Explain\n════════════════════════\n𐀪\nAuthor:\nFateyaly\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 14:15:48 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ethical_hacking\n#coding\n#technology\n#programming",
+        "date": "2026-07-11T16:04:35+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125504_0_b08380ce.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125504_1_e4d5be79.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125504",
+        "link": {
+          "title": "The Linux Logs That Solved an Incident Nobody Could Explain",
+          "url": "https://systemweakness.com/the-linux-logs-that-solved-an-incident-nobody-could-explain-b5d1c3a7da30?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 125503,
+        "text": "⤷\nTitle:\nFrom a Login Screen to Account Takeover: A Critical Security Assessment of a Leading Investment…\n════════════════════════\n𐀪\nAuthor:\nAryan Dake\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 15:21:58 GMT\n════════════════════════\n⌗\nTags:\n#ai_security\n#ethical_hacking\n#red_teaming\n#responsible_disclosure\n#product_security",
+        "date": "2026-07-11T16:04:31+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125503_0_b08380ce.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125503_1_13fa2972.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125503",
+        "link": {
+          "title": "From a Login Screen to Account Takeover: A Critical Security Assessment of a Leading Investment…",
+          "url": "https://medium.com/@aryandake2004/from-a-login-screen-to-account-takeover-a-critical-security-assessment-of-a-leading-investment-20130b865996?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 125502,
+        "text": "⤷\nTitle:\nNmap live host discovery-Abdul Hadi\n════════════════════════\n𐀪\nAuthor:\nAbdul Hadi\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 15:03:48 GMT\n════════════════════════\n⌗\nTags:\n#nmap\n#tryhackme\n#cybersecurity",
+        "date": "2026-07-11T16:04:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125502_0_b08380ce.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125502_1_d396a5a3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125502",
+        "link": {
+          "title": "Nmap live host discovery-Abdul Hadi",
+          "url": "https://medium.com/@abdulhadi.200704/nmap-live-host-discovery-abdul-hadi-4a915daad10f?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 125501,
+        "text": "⤷\nTitle:\nAli Hack Tech\n════════════════════════\n𐀪\nAuthor:\nAli Hack Tech\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 14:22:36 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#cyber_security_awareness\n#cybersecurity\n#penetration_testing",
+        "date": "2026-07-11T16:04:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125501_0_b08380ce.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125501_1_4471bfd3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125501",
+        "link": {
+          "title": "Ali Hack Tech",
+          "url": "https://medium.com/@aht.comm/ali-hack-tech-04e48fae2a5d?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 125500,
+        "text": "⤷\nTitle:\nLinux Privilege Escalation: Python Library Hijacking\n════════════════════════\n𐀪\nAuthor:\nIsha Sangpal\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 15:37:53 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#security\n#betigetin\n#ethical_hacking\n#cybersecurity",
+        "date": "2026-07-11T16:04:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125500_0_b08380ce.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125500_1_d408d3d5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125500",
+        "link": {
+          "title": "Linux Privilege Escalation: Python Library Hijacking",
+          "url": "https://medium.com/@betigetin/linux-privilege-escalation-python-library-hijacking-f5030d50ddcd?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 125499,
+        "text": "⤷\nTitle:\nMountaineer (THM) Tryhackme Hard Challenge\n════════════════════════\n𐀪\nAuthor:\nLawvye\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 14:18:33 GMT\n════════════════════════\n⌗\nTags:\n#privilege_escalation\n#cybersecurity\n#linux\n#tryhackme\n#hacking",
+        "date": "2026-07-11T16:04:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125499_0_b08380ce.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125499_1_1110f6b9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125499",
+        "link": {
+          "title": "Mountaineer (THM) Tryhackme Hard Challenge",
+          "url": "https://medium.com/@lawvye/mountaineer-thm-tryhackme-hard-challenge-21fe6f6f3e92?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 125498,
+        "text": "⤷\nTitle:\nI Infiltrated a Crypto Hacking Gang — This Is What I Found\n════════════════════════\n𐀪\nAuthor:\nOfficer's Notes\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 14:34:59 GMT\n════════════════════════\n⌗\nTags:\n#blockchain\n#hacking\n#security\n#cryptocurrency\n#web3",
+        "date": "2026-07-11T16:04:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125498_0_b08380ce.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125498",
+        "link": {
+          "title": "I Infiltrated a Crypto Hacking Gang — This Is What I Found",
+          "url": "https://medium.com/coinmonks/i-infiltrated-a-crypto-hacking-gang-this-is-what-i-found-5370e12c3817?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 125497,
+        "text": "⤷\nTitle:\nHow I Hacked ULTRAKILL to Prank My Friend on His Birthday\n════════════════════════\n𐀪\nAuthor:\nAlmohtady Bellah\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 14:58:33 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#hacking\n#gamehacking\n#csharp\n#unity",
+        "date": "2026-07-11T16:04:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125497_0_b08380ce.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125497_1_e363c415.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125497",
+        "link": {
+          "title": "How I Hacked ULTRAKILL to Prank My Friend on His Birthday",
+          "url": "https://medium.com/@almohtadyg1/how-i-hacked-ultrakill-to-prank-my-friend-on-his-birthday-699981766cb6?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 125496,
+        "text": "⤷\nTitle:\nDota 2 and LoL Anti-Cheat: VAC vs. Riot Vanguard — A Comparison Now\n════════════════════════\n𐀪\nAuthor:\nMark Hertz\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 15:46:42 GMT\n════════════════════════\n⌗\nTags:\n#gaming\n#hacking\n#games\n#videogames\n#cheats",
+        "date": "2026-07-11T16:04:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125496_0_b08380ce.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125496_1_1bd537e0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125496",
+        "link": {
+          "title": "Dota 2 and LoL Anti-Cheat: VAC vs. Riot Vanguard — A Comparison Now",
+          "url": "https://medium.com/@mrkhertz/dota-2-and-lol-anti-cheat-vac-vs-riot-vanguard-a-comparison-now-4ab8cf56aff5?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 125495,
+        "text": "⤷\nTitle:\nFrom a Simple Publish Request to a Subscription Limit Bypass\n════════════════════════\n𐀪\nAuthor:\nRootxsecurity\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 14:18:04 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#bug_hunting\n#cybersecurity\n#offensive_security",
+        "date": "2026-07-11T16:04:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125495_0_b08380ce.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125495_1_139b4f6d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125495",
+        "link": {
+          "title": "From a Simple Publish Request to a Subscription Limit Bypass",
+          "url": "https://medium.com/@RootXSec/from-a-simple-publish-request-to-a-subscription-limit-bypass-e36ad0d37931?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 125494,
+        "text": "⤷\nTitle:\nKnow Your Enemy: Hackers, Cybercriminals, Insiders, Bots, and Other Threat Actors\n════════════════════════\n𐀪\nAuthor:\nTheMonitor\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 14:56:00 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ethical_hacking\n#owasp\n#web_application_security\n#bug_bounty",
+        "date": "2026-07-11T16:04:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125494_0_b08380ce.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125494_1_848f7e04.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125494",
+        "link": {
+          "title": "Know Your Enemy: Hackers, Cybercriminals, Insiders, Bots, and Other Threat Actors",
+          "url": "https://themonitor.medium.com/know-your-enemy-hackers-cybercriminals-insiders-bots-and-other-threat-actors-cde7181e71d5?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 125493,
+        "text": "⤷\nTitle:\nFrom “Access Denied” to Remote Code Execution: Bypassing Authorization Through a Webhook Trigger\n════════════════════════\n𐀪\nAuthor:\nM0n3m\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 15:13:09 GMT\n════════════════════════\n⌗\nTags:\n#appsec\n#cybersecurity\n#bug_bounty\n#ethical_hacking",
+        "date": "2026-07-11T16:03:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125493_0_b08380ce.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125493_1_85b1d532.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125493",
+        "link": {
+          "title": "From “Access Denied” to Remote Code Execution: Bypassing Authorization Through a Webhook Trigger",
+          "url": "https://medium.com/@m0n3m/from-access-denied-to-remote-code-execution-bypassing-authorization-through-a-webhook-trigger-3365c9519f38?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 125492,
+        "text": "⤷\nTitle:\nSCAN7X TOOL\n════════════════════════\n𐀪\nAuthor:\n7x\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 15:23:47 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_tool\n#bug_bounty\n#web_penetration_testing\n#cybersecurity\n#reconnaissance",
+        "date": "2026-07-11T16:03:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125492_0_b08380ce.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125492_1_d519f11b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125492",
+        "link": {
+          "title": "SCAN7X TOOL",
+          "url": "https://medium.com/@1337kro/scan7x-tool-b2210397bdc9?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 125491,
+        "text": "⤷\nTitle:\nLab 1: Broken Access Control “Unprotected Admin Functionality” (PortSwigger Web Security Academy)\n════════════════════════\n𐀪\nAuthor:\nNitish Mukhiya\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 15:35:49 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_writeup\n#cybersecurity\n#bug_bounty\n#broken_access_control\n#portswigger",
+        "date": "2026-07-11T16:03:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125491_0_b08380ce.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125491_1_80200104.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125491",
+        "link": {
+          "title": "Lab 1: Broken Access Control “Unprotected Admin Functionality” (PortSwigger Web Security Academy)",
+          "url": "https://medium.com/@nitishmukhiya/lab-1-broken-access-control-unprotected-admin-functionality-portswigger-web-security-academy-49b71d270a23?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 125490,
         "text": "⤷\nTitle:\nHACKING JULY DAY 10:JUICE-SHOP XSS\n════════════════════════\n𐀪\nAuthor:\nGiven Quincy\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 12:12:35 GMT\n════════════════════════\n⌗\nTags:\n#dom_xss\n#cybersecurity\n#xss_vulnerability\n#owasp_juice_shop\n#medium",
         "date": "2026-07-11T14:04:19+00:00",
@@ -1920,378 +2284,22 @@
           "title": "CCNA Fundamentals: The Engineering Logic Behind Large-Scale Data Communication",
           "url": "https://medium.com/@tsxninja2004/ccna-fundamentals-the-engineering-logic-behind-large-scale-data-communication-efc459e5453d?source=rss------ethical_hacking-5"
         }
-      },
-      {
-        "id": 125406,
-        "text": "⤷\nTitle:\nWhy Security Teams Love Linux More Than Ever\n════════════════════════\n𐀪\nAuthor:\nFateyaly\n════════════════════════\nⴵ\nTime:\nFri, 10 Jul 2026 17:02:05 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#coding\n#programming\n#technology\n#ethical_hacking",
-        "date": "2026-07-10T18:04:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125406_0_7a722c7b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125406_1_30f497e3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125406",
-        "link": {
-          "title": "Why Security Teams Love Linux More Than Ever",
-          "url": "https://medium.com/@fatihaali093/why-security-teams-love-linux-more-than-ever-83d71f54bf81?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 125405,
-        "text": "⤷\nTitle:\nsolar flare walkthrough\n════════════════════════\n𐀪\nAuthor:\nYahya Sammoud\n════════════════════════\nⴵ\nTime:\nFri, 10 Jul 2026 16:28:25 GMT\n════════════════════════\n⌗\nTags:\n#ctf_walkthrough\n#penetration_testing",
-        "date": "2026-07-10T18:04:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125405_0_7a722c7b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125405_1_b26bd23f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125405",
-        "link": {
-          "title": "solar flare walkthrough",
-          "url": "https://medium.com/@yahya.sammoud66/solar-flare-walkthrough-663473586be9?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 125404,
-        "text": "⤷\nTitle:\nRegister Now for “CVE and AI Vulnerability Discovery” Virtual Conference on July 30, 2026\n════════════════════════\n𐀪\nAuthor:\nCVE Program Blog\n════════════════════════\nⴵ\nTime:\nFri, 10 Jul 2026 16:44:39 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#infosec\n#ai\n#software_development\n#artificial_intelligence",
-        "date": "2026-07-10T18:04:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125404_0_7a722c7b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125404_1_c45becee.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125404",
-        "link": {
-          "title": "Register Now for “CVE and AI Vulnerability Discovery” Virtual Conference on July 30, 2026",
-          "url": "https://medium.com/@cve_program/register-now-for-cve-and-ai-vulnerability-discovery-virtual-conference-on-july-30-2026-548f2f354bb3?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 125403,
-        "text": "⤷\nTitle:\nHow biometric tech is evolving past passwords\n════════════════════════\n𐀪\nAuthor:\nNischal Maharjan\n════════════════════════\nⴵ\nTime:\nFri, 10 Jul 2026 16:12:47 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#passwords\n#security\n#biometrics\n#hacking",
-        "date": "2026-07-10T18:04:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125403_0_7a722c7b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125403_1_b369f69a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125403",
-        "link": {
-          "title": "How biometric tech is evolving past passwords",
-          "url": "https://medium.com/codetodeploy/how-biometric-tech-is-evolving-past-passwords-9edc1ee6d55c?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 125402,
-        "text": "⤷\nTitle:\n⌨️\nRaspberry Pi Pico HID: Real Sistemdə Təhlükəsizlik Testi və USB HID Texnologiyası\n════════════════════════\n𐀪\nAuthor:\ncybershieldy.com\n════════════════════════\nⴵ\nTime:\nFri, 10 Jul 2026 16:47:18 GMT\n════════════════════════\n⌗\nTags:\n#hacker\n#hacking\n#siber\n#kiber",
-        "date": "2026-07-10T18:04:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125402_0_7a722c7b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125402",
-        "link": {
-          "title": "⌨️Raspberry Pi Pico HID: Real Sistemdə Təhlükəsizlik Testi və USB HID Texnologiyası",
-          "url": "https://medium.com/@ccybershieldy/%EF%B8%8F-raspberry-pi-pico-hid-real-sistemd%C9%99-t%C9%99hl%C3%BCk%C9%99sizlik-testi-v%C9%99-usb-hid-texnologiyas%C4%B1-7fad978ec180?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 125401,
-        "text": "⤷\nTitle:\nReviving a Legacy App, and Immediately Breaking It On Purpose\n════════════════════════\n𐀪\nAuthor:\nGertrude Nabasirye\n════════════════════════\nⴵ\nTime:\nFri, 10 Jul 2026 16:48:20 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#nodejs\n#devsecops\n#application_security\n#privilege_escalation",
-        "date": "2026-07-10T18:04:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125401_0_7a722c7b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125401_1_a587ba4f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125401",
-        "link": {
-          "title": "Reviving a Legacy App, and Immediately Breaking It On Purpose",
-          "url": "https://medium.com/@gnabasirye0/reviving-a-legacy-app-and-immediately-breaking-it-on-purpose-df7354e8c889?source=rss------application_security-5"
-        }
-      },
-      {
-        "id": 125400,
-        "text": "⤷\nTitle:\nA Dead Employee’s Account Just Logged Into the Server. Nobody Could Explain Why.\n════════════════════════\n𐀪\nAuthor:\nS Kumar\n════════════════════════\nⴵ\nTime:\nFri, 10 Jul 2026 16:10:16 GMT\n════════════════════════\n⌗\nTags:\n#data_breach\n#bug_bounty\n#cybersecurity\n#information_security\n#cyber_security_awareness",
-        "date": "2026-07-10T18:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125400_0_7a722c7b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125400_1_1f63c7db.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125400",
-        "link": {
-          "title": "A Dead Employee’s Account Just Logged Into the Server. Nobody Could Explain Why.",
-          "url": "https://infosecwriteups.com/a-dead-employees-account-just-logged-into-the-server-nobody-could-explain-why-2783bab79704?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 125399,
-        "text": "⤷\nTitle:\nUNK_MassTraction Hits University Roundcube Servers\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nFri, 10 Jul 2026 14:30:03 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#China\nAPT\n#CVE_2024_42009\n#IceCube\nMalware\n#Proofpoint\n#Roundcube\n#University\nCyberattack\n#UNK_MassTraction",
-        "date": "2026-07-10T18:03:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125399_0_7a722c7b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125399_1_22e37a43.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125399",
-        "link": {
-          "title": "UNK_MassTraction Hits University Roundcube Servers",
-          "url": "https://meterpreter.org/unk-masstraction-roundcube-university/"
-        }
-      },
-      {
-        "id": 125398,
-        "text": "⤷\nTitle:\nCavern Manticore Modular Framework Exposed\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nFri, 10 Jul 2026 15:01:13 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#Cavern\nManticore\n#cybersecurity\n#Iranian\nhackers\n#malware\n#Modular\nFramework",
-        "date": "2026-07-10T18:03:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125398_0_7a722c7b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125398_1_075c26d1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125398",
-        "link": {
-          "title": "Cavern Manticore Modular Framework Exposed",
-          "url": "https://meterpreter.org/cavern-manticore-modular-framework/"
-        }
-      },
-      {
-        "id": 125397,
-        "text": "⤷\nTitle:\nSix New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nFri, 10 Jul 2026 21:27:14 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-07-10T18:03:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125397_0_7a722c7b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125397",
-        "link": {
-          "title": "Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot",
-          "url": "https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html"
-        }
-      },
-      {
-        "id": 125396,
-        "text": "⤷\nTitle:\nInjective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nFri, 10 Jul 2026 22:59:28 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-07-10T18:03:46+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125396_0_7a722c7b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125396",
-        "link": {
-          "title": "Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages",
-          "url": "https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html"
-        }
-      },
-      {
-        "id": 125395,
-        "text": "⤷\nTitle:\nAnalisis Information Disclosure akibat Improper Error Handling pada Aplikasi Web\n════════════════════════\n𐀪\nAuthor:\nMUHAMMAD RAIHANAFI\n════════════════════════\nⴵ\nTime:\nFri, 10 Jul 2026 14:29:54 GMT\n════════════════════════\n⌗\nTags:\n#owasp\n#information_security\n#bug_bounty_tips\n#cybersecurity\n#web_security",
-        "date": "2026-07-10T16:04:36+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125395_0_7a722c7b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125395_1_10a755ff.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125395",
-        "link": {
-          "title": "Analisis Information Disclosure akibat Improper Error Handling pada Aplikasi Web",
-          "url": "https://medium.com/@Xenzuu7/analisis-information-disclosure-akibat-improper-error-handling-pada-aplikasi-web-fc7abed16214?source=rss------bug_bounty_tips-5"
-        }
-      },
-      {
-        "id": 125394,
-        "text": "⤷\nTitle:\nHow to Warm Up a Twitter / X Account for Cold Outreach (2026 Guide)\n════════════════════════\n𐀪\nAuthor:\nanas\n════════════════════════\nⴵ\nTime:\nFri, 10 Jul 2026 15:14:11 GMT\n════════════════════════\n⌗\nTags:\n#digital_marketing\n#cold_outreach\n#marketing\n#xs\n#outreach",
-        "date": "2026-07-10T16:04:32+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125394_0_7a722c7b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125394_1_b7e5e325.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125394",
-        "link": {
-          "title": "How to Warm Up a Twitter / X Account for Cold Outreach (2026 Guide)",
-          "url": "https://medium.com/@coldaccs/how-to-warm-up-a-twitter-x-account-for-cold-outreach-2026-guide-3bb5a023d887?source=rss------xss-5"
-        }
-      },
-      {
-        "id": 125393,
-        "text": "⤷\nTitle:\nDay 5: The Incident Response Lifecycle — From Detection to Recovery\n════════════════════════\n𐀪\nAuthor:\nSIAM AHMED\n════════════════════════\nⴵ\nTime:\nFri, 10 Jul 2026 14:47:04 GMT\n════════════════════════\n⌗\nTags:\n#incident_response\n#soc_analyst\n#cybersecurity\n#ethical_hacking\n#deep_learning",
-        "date": "2026-07-10T16:04:29+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125393_0_7a722c7b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125393_1_9252fea6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125393",
-        "link": {
-          "title": "Day 5: The Incident Response Lifecycle — From Detection to Recovery",
-          "url": "https://medium.com/@ahmedseam094/day-5-the-incident-response-lifecycle-from-detection-to-recovery-47cb432ed8eb?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 125392,
-        "text": "⤷\nTitle:\nPost-Exploitation and Maintaining Access\n════════════════════════\n𐀪\nAuthor:\nAriel404\n════════════════════════\nⴵ\nTime:\nFri, 10 Jul 2026 14:22:23 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#exploitation\n#penetration_testing\n#ethical_hacking\n#web_penetration_testing",
-        "date": "2026-07-10T16:04:26+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125392_0_7a722c7b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125392_1_d12f4492.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125392",
-        "link": {
-          "title": "Post-Exploitation and Maintaining Access",
-          "url": "https://medium.com/@ar1el404/post-exploitation-and-maintaining-access-c81815ff2f5a?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 125391,
-        "text": "⤷\nTitle:\nI Was Paid $50,000 to Break Into a Company’s Servers.\n════════════════════════\n𐀪\nAuthor:\nS Kumar\n════════════════════════\nⴵ\nTime:\nFri, 10 Jul 2026 14:55:24 GMT\n════════════════════════\n⌗\nTags:\n#blacklivesmatter\n#penetration_testing\n#cybersecurity\n#ethical_hacking\n#data_breach",
-        "date": "2026-07-10T16:04:22+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125391_0_7a722c7b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125391_1_174b989b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125391",
-        "link": {
-          "title": "I Was Paid $50,000 to Break Into a Company’s Servers.",
-          "url": "https://infosecwriteups.com/i-was-paid-50-000-to-break-into-a-companys-servers-83f7db896b65?source=rss------penetration_testing-5"
-        }
       }
     ]
   },
-  "last_update": "2026-07-11T15:29:09.610314+00:00",
+  "last_update": "2026-07-11T16:16:39.971983+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 194,
-    "total_files": 194,
+    "total_media": 196,
+    "total_files": 196,
     "total_links": 0,
     "files_by_type": {
-      "image": 194
+      "image": 196
     },
-    "referenced_files": 194,
-    "existing_media_files": 194,
-    "total_size_mb": 5.19,
-    "last_calculation": "2026-07-11T15:29:09.612618+00:00"
+    "referenced_files": 196,
+    "existing_media_files": 196,
+    "total_size_mb": 5.27,
+    "last_calculation": "2026-07-11T16:16:39.974310+00:00"
   }
 }
