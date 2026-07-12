@@ -2,6 +2,209 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 125605,
+        "text": "⤷\nTitle:\nOWASP Top 10 for .NET Developers - Part 8: Preventing Software and Data Integrity Failures\n════════════════════════\n𐀪\nAuthor:\nSurya Raj Ghimire\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 18:10:27 GMT\n════════════════════════\n⌗\nTags:\n#owasp\n#api_security\n#open_banking\n#dotnet\n#cybersecurity",
+        "date": "2026-07-12T20:04:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125605_0_b1558c1c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125605_1_b1c564fd.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125605",
+        "link": {
+          "title": "OWASP Top 10 for .NET Developers - Part 8: Preventing Software and Data Integrity Failures",
+          "url": "https://medium.com/@srghimire061/owasp-top-10-for-net-developers-part-8-preventing-software-and-data-integrity-failures-77b0a806cf5d?source=rss------api_security-5"
+        }
+      },
+      {
+        "id": 125604,
+        "text": "⤷\nTitle:\nNetwork Forensics Investigation: Uncovering a QakBot Infection from a PCAP\n════════════════════════\n𐀪\nAuthor:\nNajeebparkar\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 18:03:34 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#cybersecurity_project\n#ethical_hacking\n#networking\n#soc",
+        "date": "2026-07-12T20:04:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125604_0_b1558c1c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125604_1_b056ef80.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125604",
+        "link": {
+          "title": "Network Forensics Investigation: Uncovering a QakBot Infection from a PCAP",
+          "url": "https://medium.com/@najeebparkar15/network-forensics-investigation-uncovering-a-qakbot-infection-from-a-pcap-6dde4d9193e2?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 125603,
+        "text": "⤷\nTitle:\nReversing ELF — TryHackMe Walkthrough\n════════════════════════\n𐀪\nAuthor:\nSunjid Ahmed Siyem\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 18:47:56 GMT\n════════════════════════\n⌗\nTags:\n#reverse_engineering\n#reversing_elf\n#gdb\n#tryhackme",
+        "date": "2026-07-12T20:04:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125603_0_b1558c1c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125603_1_c66d990f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125603",
+        "link": {
+          "title": "Reversing ELF — TryHackMe Walkthrough",
+          "url": "https://medium.com/@sunjid-ahmed/reversing-elf-tryhackme-walkthrough-fbcd2f7fbe56?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 125602,
+        "text": "⤷\nTitle:\nUnderstanding Vulnerability Databases | TryHackMe\n════════════════════════\n𐀪\nAuthor:\nBinish Alamgir\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 19:09:09 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_walkthrough\n#penetration_testing\n#cybersecurity\n#tryhackme\n#jr_penetration_tester",
+        "date": "2026-07-12T20:04:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125602_0_b1558c1c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125602_1_9829a6ed.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125602",
+        "link": {
+          "title": "Understanding Vulnerability Databases | TryHackMe",
+          "url": "https://medium.com/@binishalamgir/understanding-vulnerability-databases-tryhackme-a0a096a15885?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 125601,
+        "text": "⤷\nTitle:\nAuthenticode Checks Who Signed a PE File. Nothing Checks Whether It’s True.\n════════════════════════\n𐀪\nAuthor:\nRamadhan Zome\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 19:36:36 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#infosec\n#windows\n#reverse_engineering\n#malware",
+        "date": "2026-07-12T20:04:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125601_0_b1558c1c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125601_1_b94d290a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125601",
+        "link": {
+          "title": "Authenticode Checks Who Signed a PE File. Nothing Checks Whether It’s True.",
+          "url": "https://medium.com/@ramadhanzome4/authenticode-checks-who-signed-a-pe-file-nothing-checks-whether-its-true-6ad4ccc8fbe6?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 125600,
+        "text": "⤷\nTitle:\nHow 3 Tiny Registers Control Your PC And Get Hacked (In office example)\n════════════════════════\n𐀪\nAuthor:\nAnees\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 18:51:40 GMT\n════════════════════════\n⌗\nTags:\n#technology\n#computer_science\n#hacking\n#cybersecurity\n#malware_analysis",
+        "date": "2026-07-12T20:04:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125600_0_b1558c1c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125600_1_c97b6acb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125600",
+        "link": {
+          "title": "How 3 Tiny Registers Control Your PC And Get Hacked (In office example)",
+          "url": "https://medium.com/@anees78788878/how-3-tiny-registers-control-your-pc-and-get-hacked-in-office-example-55aaa902cdc0?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 125599,
+        "text": "⤷\nTitle:\nThis Week in Breaches: What HSIN and Accenture Teach Us About Life After the Break-In\n════════════════════════\n𐀪\nAuthor:\nDisaster\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 19:14:22 GMT\n════════════════════════\n⌗\nTags:\n#data_breach\n#cybersecurity\n#information_security\n#cyber_security_awareness\n#hacking",
+        "date": "2026-07-12T20:03:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125599_0_b1558c1c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125599_1_a713047a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125599",
+        "link": {
+          "title": "This Week in Breaches: What HSIN and Accenture Teach Us About Life After the Break-In",
+          "url": "https://medium.com/@arashaddodhiya4948/this-week-in-breaches-what-hsin-and-accenture-teach-us-about-life-after-the-break-in-268a0ff9804c?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 125598,
+        "text": "⤷\nTitle:\nHow I Discovered an Insecure Direct Object Reference (IDOR) Through Google Dorking (Redacted Case…\n════════════════════════\n𐀪\nAuthor:\nSalmanul Faris\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 18:25:32 GMT\n════════════════════════\n⌗\nTags:\n#web_security\n#cybersecurity\n#bug_bounty\n#penetration_testing\n#owasp",
+        "date": "2026-07-12T20:03:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125598_0_b1558c1c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125598_1_3acd2ba9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125598",
+        "link": {
+          "title": "How I Discovered an Insecure Direct Object Reference (IDOR) Through Google Dorking (Redacted Case…",
+          "url": "https://medium.com/@salmanul060/how-i-discovered-an-insecure-direct-object-reference-idor-through-google-dorking-redacted-case-76b79016711d?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 125597,
+        "text": "⤷\nTitle:\nAccount Takeover via Open Redirect XSS\n════════════════════════\n𐀪\nAuthor:\n4M1R\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 19:41:39 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#xss_attack\n#account_takeover\n#penetration_testing\n#bug_bounty",
+        "date": "2026-07-12T20:03:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125597_0_b1558c1c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125597",
+        "link": {
+          "title": "Account Takeover via Open Redirect XSS",
+          "url": "https://medium.com/@amir1382programmer/account-takeover-via-open-redirect-xss-cf25b42abd22?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 125596,
         "text": "⤷\nTitle:\nI built a free CLI tool that finds shadow API routes — here’s what it found in Ghost CMS\n════════════════════════\n𐀪\nAuthor:\nUbaid Ur Rehman\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 17:52:24 GMT\n════════════════════════\n⌗\nTags:\n#open_source\n#devops\n#javascript\n#nodejs\n#api_security",
         "date": "2026-07-12T18:04:31+00:00",
@@ -2073,213 +2276,10 @@
           "title": "Blind SSRF via Webhook Subscription URLs: When a SaaS Trusts Your Callback Too Much",
           "url": "https://medium.com/@ajinisadev/blind-ssrf-via-webhook-subscription-urls-when-a-saas-trusts-your-callback-too-much-987f62884693?source=rss------bug_bounty_writeup-5"
         }
-      },
-      {
-        "id": 125505,
-        "text": "⤷\nTitle:\nWhy I Created the EchoByte Media X Account: A Gamer’s Perspective on Gaming News\n════════════════════════\n𐀪\nAuthor:\nEchoByte Media\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 14:11:43 GMT\n════════════════════════\n⌗\nTags:\n#twitter\n#xs",
-        "date": "2026-07-11T16:04:38+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125505_0_b08380ce.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125505_1_23d49b5f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125505",
-        "link": {
-          "title": "Why I Created the EchoByte Media X Account: A Gamer’s Perspective on Gaming News",
-          "url": "https://medium.com/@EchoByteMedia/why-i-created-the-echobyte-media-x-account-a-gamers-perspective-on-gaming-news-6d9e2f16c8db?source=rss------xss-5"
-        }
-      },
-      {
-        "id": 125504,
-        "text": "⤷\nTitle:\nThe Linux Logs That Solved an Incident Nobody Could Explain\n════════════════════════\n𐀪\nAuthor:\nFateyaly\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 14:15:48 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ethical_hacking\n#coding\n#technology\n#programming",
-        "date": "2026-07-11T16:04:35+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125504_0_b08380ce.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125504_1_e4d5be79.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125504",
-        "link": {
-          "title": "The Linux Logs That Solved an Incident Nobody Could Explain",
-          "url": "https://systemweakness.com/the-linux-logs-that-solved-an-incident-nobody-could-explain-b5d1c3a7da30?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 125503,
-        "text": "⤷\nTitle:\nFrom a Login Screen to Account Takeover: A Critical Security Assessment of a Leading Investment…\n════════════════════════\n𐀪\nAuthor:\nAryan Dake\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 15:21:58 GMT\n════════════════════════\n⌗\nTags:\n#ai_security\n#ethical_hacking\n#red_teaming\n#responsible_disclosure\n#product_security",
-        "date": "2026-07-11T16:04:31+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125503_0_b08380ce.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125503_1_13fa2972.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125503",
-        "link": {
-          "title": "From a Login Screen to Account Takeover: A Critical Security Assessment of a Leading Investment…",
-          "url": "https://medium.com/@aryandake2004/from-a-login-screen-to-account-takeover-a-critical-security-assessment-of-a-leading-investment-20130b865996?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 125502,
-        "text": "⤷\nTitle:\nNmap live host discovery-Abdul Hadi\n════════════════════════\n𐀪\nAuthor:\nAbdul Hadi\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 15:03:48 GMT\n════════════════════════\n⌗\nTags:\n#nmap\n#tryhackme\n#cybersecurity",
-        "date": "2026-07-11T16:04:28+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125502_0_b08380ce.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125502_1_d396a5a3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125502",
-        "link": {
-          "title": "Nmap live host discovery-Abdul Hadi",
-          "url": "https://medium.com/@abdulhadi.200704/nmap-live-host-discovery-abdul-hadi-4a915daad10f?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 125501,
-        "text": "⤷\nTitle:\nAli Hack Tech\n════════════════════════\n𐀪\nAuthor:\nAli Hack Tech\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 14:22:36 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#cyber_security_awareness\n#cybersecurity\n#penetration_testing",
-        "date": "2026-07-11T16:04:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125501_0_b08380ce.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125501_1_4471bfd3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125501",
-        "link": {
-          "title": "Ali Hack Tech",
-          "url": "https://medium.com/@aht.comm/ali-hack-tech-04e48fae2a5d?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 125500,
-        "text": "⤷\nTitle:\nLinux Privilege Escalation: Python Library Hijacking\n════════════════════════\n𐀪\nAuthor:\nIsha Sangpal\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 15:37:53 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#security\n#betigetin\n#ethical_hacking\n#cybersecurity",
-        "date": "2026-07-11T16:04:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125500_0_b08380ce.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125500_1_d408d3d5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125500",
-        "link": {
-          "title": "Linux Privilege Escalation: Python Library Hijacking",
-          "url": "https://medium.com/@betigetin/linux-privilege-escalation-python-library-hijacking-f5030d50ddcd?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 125499,
-        "text": "⤷\nTitle:\nMountaineer (THM) Tryhackme Hard Challenge\n════════════════════════\n𐀪\nAuthor:\nLawvye\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 14:18:33 GMT\n════════════════════════\n⌗\nTags:\n#privilege_escalation\n#cybersecurity\n#linux\n#tryhackme\n#hacking",
-        "date": "2026-07-11T16:04:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125499_0_b08380ce.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125499_1_1110f6b9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125499",
-        "link": {
-          "title": "Mountaineer (THM) Tryhackme Hard Challenge",
-          "url": "https://medium.com/@lawvye/mountaineer-thm-tryhackme-hard-challenge-21fe6f6f3e92?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 125498,
-        "text": "⤷\nTitle:\nI Infiltrated a Crypto Hacking Gang — This Is What I Found\n════════════════════════\n𐀪\nAuthor:\nOfficer's Notes\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 14:34:59 GMT\n════════════════════════\n⌗\nTags:\n#blockchain\n#hacking\n#security\n#cryptocurrency\n#web3",
-        "date": "2026-07-11T16:04:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125498_0_b08380ce.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125498",
-        "link": {
-          "title": "I Infiltrated a Crypto Hacking Gang — This Is What I Found",
-          "url": "https://medium.com/coinmonks/i-infiltrated-a-crypto-hacking-gang-this-is-what-i-found-5370e12c3817?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 125497,
-        "text": "⤷\nTitle:\nHow I Hacked ULTRAKILL to Prank My Friend on His Birthday\n════════════════════════\n𐀪\nAuthor:\nAlmohtady Bellah\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 14:58:33 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#hacking\n#gamehacking\n#csharp\n#unity",
-        "date": "2026-07-11T16:04:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125497_0_b08380ce.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125497_1_e363c415.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125497",
-        "link": {
-          "title": "How I Hacked ULTRAKILL to Prank My Friend on His Birthday",
-          "url": "https://medium.com/@almohtadyg1/how-i-hacked-ultrakill-to-prank-my-friend-on-his-birthday-699981766cb6?source=rss------hacking-5"
-        }
       }
     ]
   },
-  "last_update": "2026-07-12T20:00:28.625588+00:00",
+  "last_update": "2026-07-12T20:42:32.430995+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2291,7 +2291,7 @@
     },
     "referenced_files": 194,
     "existing_media_files": 194,
-    "total_size_mb": 5.38,
-    "last_calculation": "2026-07-12T20:00:28.627841+00:00"
+    "total_size_mb": 5.61,
+    "last_calculation": "2026-07-12T20:42:32.433351+00:00"
   }
 }
