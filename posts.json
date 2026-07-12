@@ -2,6 +2,259 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 125545,
+        "text": "⤷\nTitle:\nCaught in the Octopus Trap: Inside the Unpatched ArgoCD RCE that Leads to K8S Cluster Takeover\n════════════════════════\n𐀪\nAuthor:\nSatyajit Rout\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 03:56:35 GMT\n════════════════════════\n⌗\nTags:\n#kubernetes\n#security\n#rce_vulnerability\n#argo_cd\n#cyber_security_attacks",
+        "date": "2026-07-12T04:04:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125545_0_b08380ce.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125545_1_a16d735f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125545",
+        "link": {
+          "title": "Caught in the Octopus Trap: Inside the Unpatched ArgoCD RCE that Leads to K8S Cluster Takeover",
+          "url": "https://medium.com/@meSATYA95/caught-in-the-octopus-trap-inside-the-unpatched-argocd-rce-that-leads-to-k8s-cluster-takeover-a4d7f65acb4a?source=rss------rce_vulnerability-5"
+        }
+      },
+      {
+        "id": 125544,
+        "text": "⤷\nTitle:\nDOM XSS in document.write sink using source location.search inside a select element\n════════════════════════\n𐀪\nAuthor:\nCyberForge\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 02:44:51 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#tech\n#web_application_security\n#ethical_hacking\n#xss_attack",
+        "date": "2026-07-12T04:04:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125544_0_b08380ce.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125544_1_4a32c8f7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125544",
+        "link": {
+          "title": "DOM XSS in document.write sink using source location.search inside a select element",
+          "url": "https://medium.com/@cyberforge/dom-xss-in-document-write-sink-using-source-location-search-inside-a-select-element-9bfbed0500a9?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 125543,
+        "text": "⤷\nTitle:\nDOM XSS in AngularJS expression with angle brackets and double quotes HTML-encoded\n════════════════════════\n𐀪\nAuthor:\nCyberForge\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 02:55:50 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#web_application_security\n#xss_vulnerability\n#cybersecurity\n#tech",
+        "date": "2026-07-12T04:04:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125543_0_b08380ce.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125543_1_f2694bcd.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125543",
+        "link": {
+          "title": "DOM XSS in AngularJS expression with angle brackets and double quotes HTML-encoded",
+          "url": "https://medium.com/@cyberforge/dom-xss-in-angularjs-expression-with-angle-brackets-and-double-quotes-html-encoded-fc646044d8af?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 125542,
+        "text": "⤷\nTitle:\nNexus — HackTheBox Easy Linux\n════════════════════════\n𐀪\nAuthor:\nYacin\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 03:56:00 GMT\n════════════════════════\n⌗\nTags:\n#htb_walkthrough\n#hackthebox\n#hackthebox_writeup\n#hackthebox_walkthrough\n#htb_writeup",
+        "date": "2026-07-12T04:04:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125542_0_b08380ce.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125542_1_04c2c58b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125542",
+        "link": {
+          "title": "Nexus — HackTheBox Easy Linux",
+          "url": "https://medium.com/@yacinbb/nexus-hackthebox-easy-linux-15b5bda34bd3?source=rss------hackthebox_writeup-5"
+        }
+      },
+      {
+        "id": 125541,
+        "text": "⤷\nTitle:\nXSS as a Password Stealer : A very overlooked XSS attack vector\n════════════════════════\n𐀪\nAuthor:\nAbdulah AlSolaiman\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 01:21:50 GMT\n════════════════════════\n⌗\nTags:\n#xss_attack\n#cybersecurity\n#penetration_testing\n#passwords\n#cross_site_scripting",
+        "date": "2026-07-12T04:04:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125541_0_b08380ce.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125541_1_988d523e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125541",
+        "link": {
+          "title": "XSS as a Password Stealer : A very overlooked XSS attack vector",
+          "url": "https://alsolaiman.medium.com/xss-as-a-password-stealer-a-very-overlooked-xss-attack-vector-56bd42cbf071?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 125540,
+        "text": "⤷\nTitle:\nWireshark Alternative Android\n════════════════════════\n𐀪\nAuthor:\nEbrahim Shafiei (EbraSha)\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 02:54:16 GMT\n════════════════════════\n⌗\nTags:\n#android\n#hacking\n#wireshark",
+        "date": "2026-07-12T04:03:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125540_0_b08380ce.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125540_1_8ea74001.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125540",
+        "link": {
+          "title": "Wireshark Alternative Android",
+          "url": "https://ebrasha.medium.com/wireshark-alternative-android-441e45f06d1b?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 125539,
+        "text": "⤷\nTitle:\nFrom Public Key to Admin Access: An RS256-to-HS256 JWT Confusion Attack on crAPI\n════════════════════════\n𐀪\nAuthor:\nDavid Banjo\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 00:38:07 GMT\n════════════════════════\n⌗\nTags:\n#api_testing\n#api_security\n#cybersecurity\n#api\n#crapi",
+        "date": "2026-07-12T02:04:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125539_0_b08380ce.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125539_1_4f1c9ef2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125539",
+        "link": {
+          "title": "From Public Key to Admin Access: An RS256-to-HS256 JWT Confusion Attack on crAPI",
+          "url": "https://medium.com/@dbanjo982/from-public-key-to-admin-access-an-rs256-to-hs256-jwt-confusion-attack-on-crapi-47e348781e12?source=rss------api_security-5"
+        }
+      },
+      {
+        "id": 125538,
+        "text": "⤷\nTitle:\nXSS as a Password Stealer — A very overlooked XSS attack vector\n════════════════════════\n𐀪\nAuthor:\nAbdulah AlSolaiman\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 01:21:50 GMT\n════════════════════════\n⌗\nTags:\n#xss_attack\n#cybersecurity\n#penetration_testing\n#passwords\n#cross_site_scripting",
+        "date": "2026-07-12T02:04:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125538_0_b08380ce.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125538_1_55e86ebf.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125538",
+        "link": {
+          "title": "XSS as a Password Stealer — A very overlooked XSS attack vector",
+          "url": "https://alsolaiman.medium.com/xss-as-a-password-stealer-a-very-overlooked-xss-attack-vector-56bd42cbf071?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 125537,
+        "text": "⤷\nTitle:\nCVE-2026–13492: UsersWP Vulnerability Lets Subscribers Delete Server Files\n════════════════════════\n𐀪\nAuthor:\nIT Knowledge Bases\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 13:11:59 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#wordpress_plugins\n#information_security\n#vulnerability_management\n#wordpress",
+        "date": "2026-07-12T02:03:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125537_0_b08380ce.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125537_1_18e0e52d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125537",
+        "link": {
+          "title": "CVE-2026–13492: UsersWP Vulnerability Lets Subscribers Delete Server Files",
+          "url": "https://medium.com/@itknowledgebases/cve-2026-13492-userswp-vulnerability-lets-subscribers-delete-server-files-bc424adfbd3b?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 125536,
+        "text": "⤷\nTitle:\nFootprinting a \"Hard\" HTB Box\n════════════════════════\n𐀪\nAuthor:\nGabriel D. Vincent\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 01:38:55 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#cybersecurity\n#hacking\n#infosec",
+        "date": "2026-07-12T02:03:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125536_0_b08380ce.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125536_1_1ff59dc1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125536",
+        "link": {
+          "title": "Footprinting a \"Hard\" HTB Box",
+          "url": "https://medium.com/@gabriel-dakinah-vincent/footprinting-a-hard-htb-box-318758c8e9be?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 125535,
+        "text": "⤷\nTitle:\nHacking Web Application Using cURL\n════════════════════════\n𐀪\nAuthor:\nShatha511\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 01:47:28 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#curl\n#cybersecurity\n#web\n#hacking_using_curl",
+        "date": "2026-07-12T02:03:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125535_0_b08380ce.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125535_1_66ec5298.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125535",
+        "link": {
+          "title": "Hacking Web Application Using cURL",
+          "url": "https://medium.com/@Shatha511/hacking-web-application-using-curl-a5c125a789b4?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 125534,
         "text": "⤷\nTitle:\nTryHackMe Writeup: Clocky\n════════════════════════\n𐀪\nAuthor:\nBerkay AĞGÜL\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 22:02:35 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#tryhackme_writeup\n#tryhackme_walkthrough\n#cybersecurity\n#cybercrime",
         "date": "2026-07-12T00:04:05+00:00",
@@ -2031,263 +2284,10 @@
           "title": "Prompt Injection: How I Hacked a Corporate AI Chatbot to Leak Private API Keys",
           "url": "https://medium.com/@psaibtech/prompt-injection-how-i-hacked-a-corporate-ai-chatbot-to-leak-private-api-keys-26d4793e989f?source=rss------bug_bounty-5"
         }
-      },
-      {
-        "id": 125445,
-        "text": "⤷\nTitle:\nState of Exploited Vulnerabilities — Q2 2026\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 03:45:34 +0000\n════════════════════════\n⌗\nTags:\n#Report\n#CISA\n#CVE\nWatchtower\n#Ivanti\n#KEV\n#Microsoft",
-        "date": "2026-07-11T06:03:43+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125445_0_7a722c7b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125445_1_dce36e66.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125445",
-        "link": {
-          "title": "State of Exploited Vulnerabilities — Q2 2026",
-          "url": "https://securityonline.info/reports-state-of-exploited-vulnerabilities-q2-2026/"
-        }
-      },
-      {
-        "id": 125444,
-        "text": "⤷\nTitle:\nMemburu Celah Keamanan di Situs Besar: Eksplorasi CVE-2021–41182 pada jQuery UI\n════════════════════════\n𐀪\nAuthor:\nAbdulrhidayat\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 03:37:30 GMT\n════════════════════════\n⌗\nTags:\n#cve_2021_41182\n#jquery\n#xss_vulnerability",
-        "date": "2026-07-11T04:03:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125444_0_7a722c7b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125444_1_dfc8f24e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125444",
-        "link": {
-          "title": "Memburu Celah Keamanan di Situs Besar: Eksplorasi CVE-2021–41182 pada jQuery UI",
-          "url": "https://medium.com/@abdulrhidayat/memburu-celah-keamanan-di-situs-besar-eksplorasi-cve-2021-41182-pada-jquery-ui-6b060d5d0faf?source=rss------xss_vulnerability-5"
-        }
-      },
-      {
-        "id": 125443,
-        "text": "⤷\nTitle:\nSQL Injection: Listing Database Contents on Oracle | PortSwigger Web Security Academy Walkthrough\n════════════════════════\n𐀪\nAuthor:\nJinesh Majithia\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 02:48:20 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#portswigger_lab\n#cybersecurity\n#sql_injection\n#burpsuite",
-        "date": "2026-07-11T04:03:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125443_0_7a722c7b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125443_1_8206d230.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125443",
-        "link": {
-          "title": "SQL Injection: Listing Database Contents on Oracle | PortSwigger Web Security Academy Walkthrough",
-          "url": "https://medium.com/@jineshcanada23/sql-injection-listing-database-contents-on-oracle-portswigger-web-security-academy-walkthrough-a11164bd3d2c?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 125442,
-        "text": "⤷\nTitle:\nProtonVPN Stores Your Authentication Private Key in Plaintext — Proton Says It’s Intended Behavior\n════════════════════════\n𐀪\nAuthor:\nAaron Thomas\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 03:43:52 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#bug_bounty",
-        "date": "2026-07-11T04:03:46+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125442_0_7a722c7b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125442_1_de54a866.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125442",
-        "link": {
-          "title": "ProtonVPN Stores Your Authentication Private Key in Plaintext — Proton Says It’s Intended Behavior",
-          "url": "https://infosecwriteups.com/protonvpn-stores-your-authentication-private-key-in-plaintext-proton-says-its-intended-behavior-435dbb823612?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 125441,
-        "text": "⤷\nTitle:\nVulnHub — Funbox: Under Construction! Walkthrough\n════════════════════════\n𐀪\nAuthor:\nAntonio\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 01:01:01 GMT\n════════════════════════\n⌗\nTags:\n#vulnhub\n#vulnhub_walkthrough\n#vulnhub_writeup",
-        "date": "2026-07-11T02:04:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125441_0_7a722c7b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125441_1_b30e52f7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125441",
-        "link": {
-          "title": "VulnHub — Funbox: Under Construction! Walkthrough",
-          "url": "https://medium.com/@inotp/vulnhub-funbox-under-construction-walkthrough-7cdac3720935?source=rss------vulnhub-5"
-        }
-      },
-      {
-        "id": 125440,
-        "text": "⤷\nTitle:\nHacking Web Routers 101\n════════════════════════\n𐀪\nAuthor:\nAleksa Zatezalo\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 00:19:22 GMT\n════════════════════════\n⌗\nTags:\n#python\n#glinet_router\n#hacking",
-        "date": "2026-07-11T02:03:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125440_0_7a722c7b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125440_1_12cd25ca.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125440",
-        "link": {
-          "title": "Hacking Web Routers 101",
-          "url": "https://aleksazatezalo.medium.com/hacking-web-routers-101-2487dc5faa10?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 125439,
-        "text": "⤷\nTitle:\nFrom Prompt to Shell: Exploiting Tool-Calling Agents via Indirect Injection\n════════════════════════\n𐀪\nAuthor:\nAleksa Zatezalo\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 00:48:15 GMT\n════════════════════════\n⌗\nTags:\n#python\n#ai_agent\n#hacking",
-        "date": "2026-07-11T02:03:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125439_0_7a722c7b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125439_1_b25763bd.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125439",
-        "link": {
-          "title": "From Prompt to Shell: Exploiting Tool-Calling Agents via Indirect Injection",
-          "url": "https://aleksazatezalo.medium.com/from-prompt-to-shell-exploiting-tool-calling-agents-via-indirect-injection-0bd366b3ac9e?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 125438,
-        "text": "⤷\nTitle:\nSilver Fox Ghost Distributor Delivers MODBEACON Trojan to Chosen Targets\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 01:28:22 +0000\n════════════════════════\n⌗\nTags:\n#Cyber\nSecurity\n#Ghost\nRAT\n#MODBEACON\n#Operation\nPhnom Penh\n#QiAnXin\n#Rust\nmalware\n#Silver\nFox\n#UTG_Q_1000\n#ValleyRAT",
-        "date": "2026-07-11T02:03:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125438_0_7a722c7b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125438_1_dcb69f58.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125438",
-        "link": {
-          "title": "Silver Fox Ghost Distributor Delivers MODBEACON Trojan to Chosen Targets",
-          "url": "https://securityonline.info/silver-fox-modbeacon/"
-        }
-      },
-      {
-        "id": 125437,
-        "text": "⤷\nTitle:\nApache IoTDB Fixes Path Traversal and Authentication Bypass Flaws (CVE-2026-24014)\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 01:37:25 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Apache\nIoTDB\n#Arbitrary\nFile Write\n#Authentication\nBypass\n#CVE_2026_24012\n#CVE_2026_24013\n#CVE_2026_24014\n#IoT\nsecurity\n#Path\nTraversal",
-        "date": "2026-07-11T02:03:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125437_0_7a722c7b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125437_1_2dcd0a45.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125437",
-        "link": {
-          "title": "Apache IoTDB Fixes Path Traversal and Authentication Bypass Flaws (CVE-2026-24014)",
-          "url": "https://securityonline.info/apache-iotdb-vulnerabilities/"
-        }
-      },
-      {
-        "id": 125436,
-        "text": "⤷\nTitle:\nAI Threatens Defense. Offense Gets the Same Tools — With Rules\n════════════════════════\n𐀪\nAuthor:\nIgor Nesterenko\n════════════════════════\nⴵ\nTime:\nFri, 10 Jul 2026 23:05:29 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#artificial_intelligence\n#red_team\n#ai\n#cybersecurity",
-        "date": "2026-07-11T00:04:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125436_0_7a722c7b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125436_1_9f1db47d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125436",
-        "link": {
-          "title": "AI Threatens Defense. Offense Gets the Same Tools — With Rules",
-          "url": "https://nesterenko-igor.medium.com/ai-threatens-defense-offense-gets-the-same-tools-with-rules-6b6bb086b8e4?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 125435,
-        "text": "⤷\nTitle:\nDissecting RedLine Stealer: A Playbook Walkthrough of Malware Analysis Foundations\n════════════════════════\n𐀪\nAuthor:\nPop123\n════════════════════════\nⴵ\nTime:\nFri, 10 Jul 2026 22:48:43 GMT\n════════════════════════\n⌗\nTags:\n#technology\n#cybersecurity\n#tryhackme\n#malware_analysis\n#hacking",
-        "date": "2026-07-11T00:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125435_0_7a722c7b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125435_1_f0515c49.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125435",
-        "link": {
-          "title": "Dissecting RedLine Stealer: A Playbook Walkthrough of Malware Analysis Foundations",
-          "url": "https://medium.com/@Pop123/dissecting-redline-stealer-a-playbook-walkthrough-of-malware-analysis-foundations-0a105a765ef4?source=rss------hacking-5"
-        }
       }
     ]
   },
-  "last_update": "2026-07-12T01:22:57.164574+00:00",
+  "last_update": "2026-07-12T04:46:46.639889+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2299,7 +2299,7 @@
     },
     "referenced_files": 196,
     "existing_media_files": 196,
-    "total_size_mb": 5.42,
-    "last_calculation": "2026-07-12T01:22:57.166464+00:00"
+    "total_size_mb": 5.65,
+    "last_calculation": "2026-07-12T04:46:46.642217+00:00"
   }
 }
