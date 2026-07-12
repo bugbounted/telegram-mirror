@@ -2,6 +2,117 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 125568,
+        "text": "⤷\nTitle:\nPortSwigger SQL injection vulnerability allowing login bypass WriteUp\n════════════════════════\n𐀪\nAuthor:\nKartikeyan Dubey\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 13:12:30 GMT\n════════════════════════\n⌗\nTags:\n#portswigger_lab\n#ctf_writeup\n#sqlinjection_attack\n#sql_injection\n#portswiggerlab_writeup",
+        "date": "2026-07-12T14:04:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125568_0_b1558c1c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125568_1_d7edd0b4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125568",
+        "link": {
+          "title": "PortSwigger SQL injection vulnerability allowing login bypass WriteUp",
+          "url": "https://medium.com/@kartikeyan.dev.bash/portswigger-sql-injection-vulnerability-allowing-login-bypass-writeup-da450b0f6b6c?source=rss------sql_injection-5"
+        }
+      },
+      {
+        "id": 125567,
+        "text": "⤷\nTitle:\nБАЗОВЫЙ ПЕНТЕСТИНГ | TRYHACKME\n════════════════════════\n𐀪\nAuthor:\nTabrizabuzarov\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 12:37:37 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing",
+        "date": "2026-07-12T14:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125567_0_b1558c1c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125567",
+        "link": {
+          "title": "БАЗОВЫЙ ПЕНТЕСТИНГ | TRYHACKME",
+          "url": "https://medium.com/@tabrizabuzarov/%D0%B1%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BF%D0%B5%D0%BD%D1%82%D0%B5%D1%81%D1%82%D0%B8%D0%BD%D0%B3-tryhackme-9981911f1933?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 125566,
+        "text": "⤷\nTitle:\nBest Hacking Course COSP AI+ by Hackliva: The 6-Month Offensive Security & AI Red Teaming\n════════════════════════\n𐀪\nAuthor:\nHackliva Academy\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 12:48:53 GMT\n════════════════════════\n⌗\nTags:\n#ai\n#hacking\n#automation\n#cybersecurity\n#artificial_intelligence",
+        "date": "2026-07-12T14:03:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125566_0_b1558c1c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125566_1_13cae10e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125566",
+        "link": {
+          "title": "Best Hacking Course COSP AI+ by Hackliva: The 6-Month Offensive Security & AI Red Teaming",
+          "url": "https://hackliva.medium.com/best-hacking-course-cosp-ai-by-hackliva-the-6-month-offensive-security-ai-red-teaming-51b6616ead00?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 125565,
+        "text": "⤷\nTitle:\nThe Docket: Gitea Docker Turned Proxy Trust Into Identity Bypass\n════════════════════════\n𐀪\nAuthor:\nKarla Ortiz-Flores\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 13:01:37 GMT\n════════════════════════\n⌗\nTags:\n#the_docket\n#identity_theft\n#application_security",
+        "date": "2026-07-12T14:03:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125565_0_b1558c1c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125565_1_2d5be1fa.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125565",
+        "link": {
+          "title": "The Docket: Gitea Docker Turned Proxy Trust Into Identity Bypass",
+          "url": "https://medium.com/zerodaydocket/the-docket-gitea-docker-turned-proxy-trust-into-identity-bypass-1d2865798f4a?source=rss------application_security-5"
+        }
+      },
+      {
+        "id": 125564,
+        "text": "⤷\nTitle:\nRobin Explained | AI-Powered Dark Web Intelligence & OSINT\n════════════════════════\n𐀪\nAuthor:\nPentester Club\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 13:37:26 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#darkweb\n#cybersecurity\n#hacking\n#osint",
+        "date": "2026-07-12T14:03:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125564_0_b1558c1c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125564_1_8a4e03a3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125564",
+        "link": {
+          "title": "Robin Explained | AI-Powered Dark Web Intelligence & OSINT",
+          "url": "https://medium.com/@pentesterclubpvtltd/robin-explained-ai-powered-dark-web-intelligence-osint-b1202767e1eb?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 125563,
         "text": "⤷\nTitle:\nTeam — TryHackMe WriteUp with Flags\n════════════════════════\n𐀪\nAuthor:\nRayenhafsawy\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 11:28:53 GMT\n════════════════════════\n⌗\nTags:\n#ctf\n#tryhackme_walkthrough\n#cybersecurity\n#tryhackme_writeup\n#tryhackme",
         "date": "2026-07-12T12:04:06+00:00",
@@ -2169,137 +2280,22 @@
           "title": "MultiCode | PicoCTF General Skills",
           "url": "https://medium.com/@khushbuchandra2161/multicode-picoctf-general-skills-5f06d4b95d7c?source=rss------infosec-5"
         }
-      },
-      {
-        "id": 125468,
-        "text": "⤷\nTitle:\nUnderstanding the Cybersecurity Ecosystem: CVE, CWE, CAPEC, CVSS, NVD, NIST & More\n════════════════════════\n𐀪\nAuthor:\nxayol\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 08:57:08 GMT\n════════════════════════\n⌗\nTags:\n#hacker\n#cve\n#hacking\n#cybersecurity\n#vulnerability_management",
-        "date": "2026-07-11T10:03:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125468_0_7a722c7b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125468_1_5a0b6f2b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125468",
-        "link": {
-          "title": "Understanding the Cybersecurity Ecosystem: CVE, CWE, CAPEC, CVSS, NVD, NIST & More",
-          "url": "https://medium.com/@0rn/understanding-the-cybersecurity-ecosystem-cve-cwe-capec-cvss-nvd-nist-more-4449de80fdaa?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 125467,
-        "text": "⤷\nTitle:\nHow I Found an OS Command Injection (RCE) in Coolify\n════════════════════════\n𐀪\nAuthor:\nCyberTechAjju\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 08:22:27 GMT\n════════════════════════\n⌗\nTags:\n#rce_vulnerability\n#bug_bounty\n#os_command_injection\n#cve\n#hacker",
-        "date": "2026-07-11T10:03:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125467_0_7a722c7b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125467_1_d9c65f88.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125467",
-        "link": {
-          "title": "How I Found an OS Command Injection (RCE) in Coolify",
-          "url": "https://medium.com/@cybertechajju/how-i-found-an-os-command-injection-rce-in-coolify-a93ffce24e74?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 125466,
-        "text": "⤷\nTitle:\nHow Curiosity Led Me to a Critical Authentication Bypass\n════════════════════════\n𐀪\nAuthor:\nWhitehat\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 09:10:25 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_tips\n#cybersecurity\n#hacking\n#infosec\n#bug_bounty",
-        "date": "2026-07-11T10:03:47+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125466_0_7a722c7b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125466_1_24e0734b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125466",
-        "link": {
-          "title": "How Curiosity Led Me to a Critical Authentication Bypass",
-          "url": "https://cybersecuritywriteups.com/how-curiosity-led-me-to-a-critical-authentication-bypass-aa02eda15c70?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 125465,
-        "text": "⤷\nTitle:\nThe Dark Reality of Cybersecurity: Invisible Threats That Could Destroy Your Digital Life.\n════════════════════════\n𐀪\nAuthor:\nMehar Ali raza\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 06:59:51 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#cybercrime\n#artificial_intelligence\n#ethical_hacking\n#information_security",
-        "date": "2026-07-11T08:04:29+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125465_0_7a722c7b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125465_1_feb36c2c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125465",
-        "link": {
-          "title": "The Dark Reality of Cybersecurity: Invisible Threats That Could Destroy Your Digital Life.",
-          "url": "https://medium.com/@meharaliraza207333/the-dark-reality-of-cybersecurity-invisible-threats-that-could-destroy-your-digital-life-39eace30c5d2?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 125464,
-        "text": "⤷\nTitle:\nNmap commands (Part -2)\n════════════════════════\n𐀪\nAuthor:\nAkhil Thakur\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 07:14:30 GMT\n════════════════════════\n⌗\nTags:\n#nmap\n#linux_commands\n#cybersecurity\n#techniques\n#ethical_hacking",
-        "date": "2026-07-11T08:04:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125464_0_7a722c7b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125464_1_9ff3643e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125464",
-        "link": {
-          "title": "Nmap commands (Part -2)",
-          "url": "https://medium.com/codetodeploy/nmap-commands-part-2-e90dd9ad1c0d?source=rss------ethical_hacking-5"
-        }
       }
     ]
   },
-  "last_update": "2026-07-12T12:49:08.167184+00:00",
+  "last_update": "2026-07-12T14:22:27.881860+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 196,
-    "total_files": 196,
+    "total_media": 195,
+    "total_files": 195,
     "total_links": 0,
     "files_by_type": {
-      "image": 196
+      "image": 195
     },
-    "referenced_files": 196,
-    "existing_media_files": 196,
-    "total_size_mb": 5.31,
-    "last_calculation": "2026-07-12T12:49:08.168844+00:00"
+    "referenced_files": 195,
+    "existing_media_files": 195,
+    "total_size_mb": 5.23,
+    "last_calculation": "2026-07-12T14:22:27.884235+00:00"
   }
 }
