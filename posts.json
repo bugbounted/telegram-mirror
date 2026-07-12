@@ -2,6 +2,29 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 125546,
+        "text": "⤷\nTitle:\nTryHackMe — Operation Promotion\n════════════════════════\n𐀪\nAuthor:\nHarry Mike\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 04:08:26 GMT\n════════════════════════\n⌗\nTags:\n#technology\n#cybersecurity\n#tryhackme",
+        "date": "2026-07-12T06:03:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125546_0_b08380ce.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125546_1_282414b8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125546",
+        "link": {
+          "title": "TryHackMe — Operation Promotion",
+          "url": "https://thezeroday.medium.com/tryhackme-operation-promotion-99775f634ec5?source=rss------tryhackme-5"
+        }
+      },
+      {
         "id": 125545,
         "text": "⤷\nTitle:\nCaught in the Octopus Trap: Inside the Unpatched ArgoCD RCE that Leads to K8S Cluster Takeover\n════════════════════════\n𐀪\nAuthor:\nSatyajit Rout\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 03:56:35 GMT\n════════════════════════\n⌗\nTags:\n#kubernetes\n#security\n#rce_vulnerability\n#argo_cd\n#cyber_security_attacks",
         "date": "2026-07-12T04:04:14+00:00",
@@ -2261,33 +2284,10 @@
           "title": "How to Recover Your Snapchat Account: A Complete Cyber Security GuideLosing access to your…",
           "url": "https://medium.com/@shivamshukla28283/how-to-recover-your-snapchat-account-a-complete-cyber-security-guide-losing-access-to-your-3cca263fc822?source=rss------hacking-5"
         }
-      },
-      {
-        "id": 125446,
-        "text": "⤷\nTitle:\nPrompt Injection: How I Hacked a Corporate AI Chatbot to Leak Private API Keys\n════════════════════════\n𐀪\nAuthor:\nPrabhakar\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 04:40:51 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#ethical_hacking\n#data_science\n#writing_prompts\n#cybersecurity",
-        "date": "2026-07-11T06:03:46+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125446_0_7a722c7b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125446_1_5c46ceae.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125446",
-        "link": {
-          "title": "Prompt Injection: How I Hacked a Corporate AI Chatbot to Leak Private API Keys",
-          "url": "https://medium.com/@psaibtech/prompt-injection-how-i-hacked-a-corporate-ai-chatbot-to-leak-private-api-keys-26d4793e989f?source=rss------bug_bounty-5"
-        }
       }
     ]
   },
-  "last_update": "2026-07-12T04:46:46.639889+00:00",
+  "last_update": "2026-07-12T07:25:07.887134+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2299,7 +2299,7 @@
     },
     "referenced_files": 196,
     "existing_media_files": 196,
-    "total_size_mb": 5.65,
-    "last_calculation": "2026-07-12T04:46:46.642217+00:00"
+    "total_size_mb": 5.64,
+    "last_calculation": "2026-07-12T07:25:07.889553+00:00"
   }
 }
