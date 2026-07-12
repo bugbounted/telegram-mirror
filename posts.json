@@ -2,6 +2,351 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 125583,
+        "text": "⤷\nTitle:\nHacking the Hacker’s Assistant: How I Found a Critical Stored XSS in DeepSeek’s Code Sandbox\n════════════════════════\n𐀪\nAuthor:\nSumit Shah (HackSage)\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 14:23:31 GMT\n════════════════════════\n⌗\nTags:\n#deepseek\n#bugbounty_writeup\n#xss_attack\n#xss_vulnerability\n#cybersecurity",
+        "date": "2026-07-12T16:04:38+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125583_0_b1558c1c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125583_1_3cabda0e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125583",
+        "link": {
+          "title": "Hacking the Hacker’s Assistant: How I Found a Critical Stored XSS in DeepSeek’s Code Sandbox",
+          "url": "https://medium.com/@sumitshahorg/hacking-the-hackers-assistant-how-i-found-a-critical-stored-xss-in-deepseek-s-code-sandbox-0e31edc90e70?source=rss------xss_vulnerability-5"
+        }
+      },
+      {
+        "id": 125582,
+        "text": "⤷\nTitle:\nURL-based Access Control Can Be Circumvented | PortSwigger Web Security Academy Walkthrough\n════════════════════════\n𐀪\nAuthor:\nA.C.HARIHARAN\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 15:48:46 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#caido\n#portswigger_ctf_lab",
+        "date": "2026-07-12T16:04:35+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125582_0_b1558c1c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125582_1_c329a6cf.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125582",
+        "link": {
+          "title": "URL-based Access Control Can Be Circumvented | PortSwigger Web Security Academy Walkthrough",
+          "url": "https://medium.com/@achariharan07/url-based-access-control-can-be-circumvented-portswigger-web-security-academy-walkthrough-20a5107fc39b?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 125581,
+        "text": "⤷\nTitle:\nWeb Frameworks: Code Review | TryHackMe Walkthrough (A Beginner’s Guide )\n════════════════════════\n𐀪\nAuthor:\nHibullahi AbdulAzeez\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 14:15:32 GMT\n════════════════════════\n⌗\nTags:\n#code_review\n#tryhackme_walkthrough\n#cybersecurit\n#web_security\n#tryhackme",
+        "date": "2026-07-12T16:04:31+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125581_0_b1558c1c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125581_1_13eb73ad.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125581",
+        "link": {
+          "title": "Web Frameworks: Code Review | TryHackMe Walkthrough (A Beginner’s Guide )",
+          "url": "https://medium.com/@cyb3rleo/web-frameworks-code-review-tryhackme-walkthrough-a-beginners-guide-6b3b0ac76d7c?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 125580,
+        "text": "⤷\nTitle:\nWindows Fundamentals 2: Advanced System Configurations, Computer Management, and Diagnostic Tools\n════════════════════════\n𐀪\nAuthor:\nJonathan Sanfer\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 15:22:45 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#windows\n#tryhackme\n#system_administration\n#diagnostic_systems",
+        "date": "2026-07-12T16:04:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125580_0_b1558c1c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125580_1_71a25ea1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125580",
+        "link": {
+          "title": "Windows Fundamentals 2: Advanced System Configurations, Computer Management, and Diagnostic Tools",
+          "url": "https://medium.com/@jonathan.sanfer/windows-fundamentals-2-advanced-system-configurations-computer-management-and-diagnostic-tools-4a4236351663?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 125579,
+        "text": "⤷\nTitle:\nUltraTech | Tryhachme\n════════════════════════\n𐀪\nAuthor:\nTabrizabuzarov\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 15:07:47 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing",
+        "date": "2026-07-12T16:04:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125579_0_b1558c1c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125579_1_0ce6a74e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125579",
+        "link": {
+          "title": "UltraTech | Tryhachme",
+          "url": "https://medium.com/@tabrizabuzarov/ultratech-tryhachme-f27190e9b1f4?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 125578,
+        "text": "⤷\nTitle:\nBreaking Authentication: Username Enumeration, 2FA Bypass & Broken Logic — PortSwigger Labs\n════════════════════════\n𐀪\nAuthor:\nPranav Aggarwal\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 14:18:49 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#infosec\n#cybersecurity\n#web_security\n#portswigger",
+        "date": "2026-07-12T16:04:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125578_0_b1558c1c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125578_1_8e1552c1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125578",
+        "link": {
+          "title": "Breaking Authentication: Username Enumeration, 2FA Bypass & Broken Logic — PortSwigger Labs",
+          "url": "https://medium.com/@pranavaggarwal173/breaking-authentication-username-enumeration-2fa-bypass-broken-logic-portswigger-labs-2310e8091940?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 125577,
+        "text": "⤷\nTitle:\nFrosteau Busy with Vim (THM) Tryhackme Hard Challenge\n════════════════════════\n𐀪\nAuthor:\nLawvye\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 15:09:57 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#linux\n#tryhackme\n#privilege_escalation\n#cybersecurity",
+        "date": "2026-07-12T16:04:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125577_0_b1558c1c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125577_1_7174f211.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125577",
+        "link": {
+          "title": "Frosteau Busy with Vim (THM) Tryhackme Hard Challenge",
+          "url": "https://medium.com/@lawvye/frosteau-busy-with-vim-thm-tryhackme-hard-challenge-cfe1346f1a50?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 125576,
+        "text": "⤷\nTitle:\nParadigm Shift of Independent Cybersecurity Leadership\n════════════════════════\n𐀪\nAuthor:\nADanielHill\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 15:25:20 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#credibility\n#narrative\n#transparency\n#cybersecurity",
+        "date": "2026-07-12T16:04:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125576_0_b1558c1c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125576_1_f6eba934.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125576",
+        "link": {
+          "title": "Paradigm Shift of Independent Cybersecurity Leadership",
+          "url": "https://alberto-daniel-hill.medium.com/paradigm-shift-of-independent-cybersecurity-leadership-cc80ca883754?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 125575,
+        "text": "⤷\nTitle:\nLearn Linux for Hacking the Smart Way\n════════════════════════\n𐀪\nAuthor:\nShahzaib\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 15:30:41 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#technology\n#hacking\n#linux_tutorial\n#tech",
+        "date": "2026-07-12T16:04:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125575_0_b1558c1c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125575_1_83cce720.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125575",
+        "link": {
+          "title": "Learn Linux for Hacking the Smart Way",
+          "url": "https://medium.com/data-and-beyond/learn-linux-for-hacking-the-smart-way-263dd1087027?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 125574,
+        "text": "⤷\nTitle:\nMatrix 1(VulnHub) Walkthrough — From Enumeration to Root Access\n════════════════════════\n𐀪\nAuthor:\nHarshita Chaplot\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 15:50:02 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#vulnhub\n#matrix\n#ctf_writeup",
+        "date": "2026-07-12T16:04:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125574_0_b1558c1c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125574_1_f88568f4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125574",
+        "link": {
+          "title": "Matrix 1(VulnHub) Walkthrough — From Enumeration to Root Access",
+          "url": "https://medium.com/@harshitachaplot08/matrix-1-vulnhub-walkthrough-from-enumeration-to-root-access-14d932567bd4?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 125573,
+        "text": "⤷\nTitle:\nUnauthenticated PII Disclosure on a Major Automaker’s B2B Auction Portal of private bug bounty…\n════════════════════════\n𐀪\nAuthor:\nBe nice insabat\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 07:31:29 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#bug_bounty\n#python\n#cybersecurity\n#programming",
+        "date": "2026-07-12T16:04:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125573_0_b1558c1c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125573_1_0b05d64e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125573",
+        "link": {
+          "title": "Unauthenticated PII Disclosure on a Major Automaker’s B2B Auction Portal of private bug bounty…",
+          "url": "https://medium.com/@InsbatArshad/unauthenticated-pii-disclosure-on-a-major-automakers-b2b-auction-portal-enabled-by-a-missing-24a980f66729?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 125572,
+        "text": "⤷\nTitle:\nThe Token That Wouldn’t Die\n════════════════════════\n𐀪\nAuthor:\nKrypto\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 14:10:49 GMT\n════════════════════════\n⌗\nTags:\n#appsec\n#bug_bounty\n#authentication\n#cybersecurity\n#bug_bounty_tips",
+        "date": "2026-07-12T16:04:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125572_0_b1558c1c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125572_1_3cec74ea.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125572",
+        "link": {
+          "title": "The Token That Wouldn’t Die",
+          "url": "https://medium.com/@krypto.sec/the-token-that-wouldnt-die-43d3c65f22e0?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 125571,
+        "text": "⤷\nTitle:\nOpen Redirect on [Vulnerable Endpoint] via [Parameter Name] parameter\n════════════════════════\n𐀪\nAuthor:\nMr Robot Hackteam\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 14:32:26 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#bug_bounty\n#web_security\n#cybersecurity\n#open_redirect",
+        "date": "2026-07-12T16:03:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125571_0_b1558c1c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125571_1_469bd4f7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125571",
+        "link": {
+          "title": "Open Redirect on [Vulnerable Endpoint] via [Parameter Name] parameter",
+          "url": "https://medium.com/@byroot/open-redirect-on-vulnerable-endpoint-via-parameter-name-parameter-d802f1975a71?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 125570,
+        "text": "⤷\nTitle:\nPrivilege Escalation Bug Allowing Unauthorized Management of Higher-Privileged Accounts\n════════════════════════\n𐀪\nAuthor:\n0xMo7areb\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 14:56:00 GMT\n════════════════════════\n⌗\nTags:\n#innovation\n#writing\n#bug_bounty\n#penetration_testing\n#technology",
+        "date": "2026-07-12T16:03:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125570_0_b1558c1c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125570_1_cc416005.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125570",
+        "link": {
+          "title": "Privilege Escalation Bug Allowing Unauthorized Management of Higher-Privileged Accounts",
+          "url": "https://medium.com/@0xMo7areb/privilege-escalation-bug-allowing-unauthorized-management-of-higher-privileged-accounts-5fe448973186?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 125569,
+        "text": "⤷\nTitle:\nFrom Duplicate to $$$$ Bounty\n════════════════════════\n𐀪\nAuthor:\nTyrion404\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 15:48:55 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#penetration_testing\n#cybersecurity",
+        "date": "2026-07-12T16:03:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125569_0_b1558c1c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125569_1_044164a3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125569",
+        "link": {
+          "title": "From Duplicate to $$$$ Bounty",
+          "url": "https://medium.com/@youssefmohamedsaadhelal1214/from-duplicate-to-bounty-88d6511dc6db?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 125568,
         "text": "⤷\nTitle:\nPortSwigger SQL injection vulnerability allowing login bypass WriteUp\n════════════════════════\n𐀪\nAuthor:\nKartikeyan Dubey\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 13:12:30 GMT\n════════════════════════\n⌗\nTags:\n#portswigger_lab\n#ctf_writeup\n#sqlinjection_attack\n#sql_injection\n#portswiggerlab_writeup",
         "date": "2026-07-12T14:04:02+00:00",
@@ -1935,355 +2280,10 @@
           "title": "Mastering SQL Injection: Lessons from Solving 18 PortSwigger Web Security Academy Labs",
           "url": "https://medium.com/@shaikhshahidsameer05/mastering-sql-injection-lessons-from-solving-18-portswigger-web-security-academy-labs-0268650d16e0?source=rss------application_security-5"
         }
-      },
-      {
-        "id": 125483,
-        "text": "⤷\nTitle:\nWhy We Hash Passwords Instead of Encrypting Them: A Node.js Guide to bcrypt, Argon2id, and PCI DSS\n════════════════════════\n𐀪\nAuthor:\nFOLAKE SOWONOYE\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 12:54:48 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#application_security\n#javascript\n#passwords\n#nodejs",
-        "date": "2026-07-11T14:03:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125483_0_b08380ce.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125483_1_56ab3590.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125483",
-        "link": {
-          "title": "Why We Hash Passwords Instead of Encrypting Them: A Node.js Guide to bcrypt, Argon2id, and PCI DSS",
-          "url": "https://medium.com/@0l4m1de/why-we-hash-passwords-instead-of-encrypting-them-a-node-js-guide-to-bcrypt-argon2id-and-pci-dss-267c0a1f4cbb?source=rss------application_security-5"
-        }
-      },
-      {
-        "id": 125482,
-        "text": "⤷\nTitle:\nResearching the Netgear R7000 Firmware Update Flaw (CVE-2020–13245)\n════════════════════════\n𐀪\nAuthor:\nJawad Momani\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 12:46:06 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#technology\n#bug_bounty\n#cybersecurity\n#infosec",
-        "date": "2026-07-11T14:03:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125482_0_b08380ce.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125482_1_b40284ba.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125482",
-        "link": {
-          "title": "Researching the Netgear R7000 Firmware Update Flaw (CVE-2020–13245)",
-          "url": "https://medium.com/@Pwnedl0l/researching-the-netgear-r7000-firmware-update-flaw-cve-2020-13245-a872aff7c403?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 125481,
-        "text": "⤷\nTitle:\nBest Artificial Intelligence course in india after 12th\n════════════════════════\n𐀪\nAuthor:\ncybersecuritycourse\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 11:34:10 GMT\n════════════════════════\n⌗\nTags:\n#ai\n#ethical_hacking\n#artificial_intelligence\n#education\n#cybersecurity",
-        "date": "2026-07-11T12:04:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125481_0_7a722c7b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125481_1_5dac69a5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125481",
-        "link": {
-          "title": "Best Artificial Intelligence course in india after 12th",
-          "url": "https://medium.com/@cybersecuritycourse/best-artificial-intelligence-course-in-india-after-12th-bf7224a2503e?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 125480,
-        "text": "⤷\nTitle:\nModern Web Stacks\n════════════════════════\n𐀪\nAuthor:\nSalma Fouad\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 10:39:41 GMT\n════════════════════════\n⌗\nTags:\n#web_vulnerabilities\n#tryhackme\n#exploitation\n#stack_fingerprinting\n#modern_web_application",
-        "date": "2026-07-11T12:04:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125480_0_7a722c7b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125480_1_602a77cb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125480",
-        "link": {
-          "title": "Modern Web Stacks",
-          "url": "https://medium.com/@cybrsalma03/modern-web-stacks-71fe89a585fe?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 125479,
-        "text": "⤷\nTitle:\nJack of All Trades — TryHackMe WriteUp with Flags\n════════════════════════\n𐀪\nAuthor:\nRayenhafsawy\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 10:49:06 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_writeup\n#cybersecurity\n#tryhackme\n#ctf\n#tryhackme_walkthrough",
-        "date": "2026-07-11T12:04:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125479_0_7a722c7b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125479_1_7382755e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125479",
-        "link": {
-          "title": "Jack of All Trades — TryHackMe WriteUp with Flags",
-          "url": "https://medium.com/@rayenhafsawy/jack-of-all-trades-tryhackme-writeup-with-flags-43bc3936a822?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 125478,
-        "text": "⤷\nTitle:\nNetworking Essentials — TryHackMe Answers | by Deepti Gupta\n════════════════════════\n𐀪\nAuthor:\nDeepti Gupta\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 10:54:24 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#networking\n#tryhackme_walkthrough\n#tryhackme_writeup",
-        "date": "2026-07-11T12:04:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125478_0_7a722c7b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125478_1_6f155c08.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125478",
-        "link": {
-          "title": "Networking Essentials — TryHackMe Answers | by Deepti Gupta",
-          "url": "https://medium.com/@deeptisg0/networking-essentials-tryhackme-answers-by-deepti-gupta-f3285a6f2e5e?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 125477,
-        "text": "⤷\nTitle:\nBroken Authentication\n════════════════════════\n𐀪\nAuthor:\nVinayakpawar\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 11:51:22 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#pentesting\n#tryhackme_walkthrough\n#tryhackme_writeup\n#tryhackme",
-        "date": "2026-07-11T12:04:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125477_0_7a722c7b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125477_1_77fe292a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125477",
-        "link": {
-          "title": "Broken Authentication",
-          "url": "https://medium.com/@vinayakpawar2518/broken-authentication-f36aeaf371eb?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 125476,
-        "text": "⤷\nTitle:\nWindows Fundamentals 1: Navigating the Desktop, File System, and Core Utilities\n════════════════════════\n𐀪\nAuthor:\nJonathan Sanfer\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 11:56:45 GMT\n════════════════════════\n⌗\nTags:\n#windows\n#ntfs_file_system\n#cybersecurity\n#os_fundamentals\n#tryhackme",
-        "date": "2026-07-11T12:03:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125476_0_7a722c7b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125476_1_2fbc83e4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125476",
-        "link": {
-          "title": "Windows Fundamentals 1: Navigating the Desktop, File System, and Core Utilities",
-          "url": "https://medium.com/@jonathan.sanfer/windows-fundamentals-1-navigating-the-desktop-file-system-and-core-utilities-cbd1009454e4?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 125475,
-        "text": "⤷\nTitle:\nThis Boring Little Square Wants You to Scan It. If You Do, Your Passwords Are Gone.\n════════════════════════\n𐀪\nAuthor:\nPop123\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 11:28:57 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#technology\n#cybersecurity\n#qr_code\n#passwords",
-        "date": "2026-07-11T12:03:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125475_0_7a722c7b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125475_1_0659b317.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125475",
-        "link": {
-          "title": "This Boring Little Square Wants You to Scan It. If You Do, Your Passwords Are Gone.",
-          "url": "https://medium.com/@Pop123/this-boring-little-square-wants-you-to-scan-it-if-you-do-your-passwords-are-gone-d9c0b85eb90d?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 125474,
-        "text": "⤷\nTitle:\nThe $5,000 Business Logic Bug Everyone Walked Past\n════════════════════════\n𐀪\nAuthor:\nNitin yadav\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 11:31:00 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#business_logic\n#bug_bounty\n#cybersecurity\n#web_security",
-        "date": "2026-07-11T12:03:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125474_0_7a722c7b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125474_1_96868741.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125474",
-        "link": {
-          "title": "The $5,000 Business Logic Bug Everyone Walked Past",
-          "url": "https://kd-200.medium.com/the-5-000-business-logic-bug-everyone-walked-past-0b22ad4a4d31?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 125473,
-        "text": "⤷\nTitle:\nTryHacKMe | Introduction to SIEM\n════════════════════════\n𐀪\nAuthor:\nOmda404X\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 08:44:05 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#blog\n#thm\n#tryhackme\n#siem",
-        "date": "2026-07-11T10:04:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125473_0_7a722c7b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125473_1_1e6fe79e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125473",
-        "link": {
-          "title": "TryHacKMe | Introduction to SIEM",
-          "url": "https://medium.com/@Omda404x/tryhackme-introduction-to-siem-19431517f649?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 125472,
-        "text": "⤷\nTitle:\nThe Problem With Testing WebSockets: Why I Built a Scanner That Treats the Connection as the Unit…\n════════════════════════\n𐀪\nAuthor:\nRegaan\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 09:44:01 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#python\n#websocket\n#penetration_testing",
-        "date": "2026-07-11T10:04:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125472_0_7a722c7b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125472_1_2b87ee74.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125472",
-        "link": {
-          "title": "The Problem With Testing WebSockets: Why I Built a Scanner That Treats the Connection as the Unit…",
-          "url": "https://medium.com/@regaan/the-problem-with-testing-websockets-why-i-built-a-scanner-that-treats-the-connection-as-the-unit-3134bb9d0022?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 125471,
-        "text": "⤷\nTitle:\nOne Password, Three Accounts, Zero Backup Plan\n════════════════════════\n𐀪\nAuthor:\nIyanu Akintan\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 07:52:38 GMT\n════════════════════════\n⌗\nTags:\n#password_security\n#infosec\n#cybercrime\n#technology\n#cybersecurity",
-        "date": "2026-07-11T10:04:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125471_0_7a722c7b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125471_1_38bd2cf3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125471",
-        "link": {
-          "title": "One Password, Three Accounts, Zero Backup Plan",
-          "url": "https://medium.com/@akintaniyanu/one-password-three-accounts-zero-backup-plan-98901d3a574c?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 125470,
-        "text": "⤷\nTitle:\nI Built two AI cats and mice that live on my desktop. Here’s why a Security Engineer made a toy\n════════════════════════\n𐀪\nAuthor:\nh@shtalk\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 09:01:02 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ai_agent\n#ai\n#mls\n#infosec",
-        "date": "2026-07-11T10:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125470_0_7a722c7b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125470_1_914f2201.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125470",
-        "link": {
-          "title": "I Built two AI cats and mice that live on my desktop. Here’s why a Security Engineer made a toy",
-          "url": "https://eva-georgieva.medium.com/i-built-two-ai-cats-and-mice-that-live-on-my-desktop-heres-why-a-security-engineer-made-a-toy-5fa4315e9249?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 125469,
-        "text": "⤷\nTitle:\nMultiCode | PicoCTF General Skills\n════════════════════════\n𐀪\nAuthor:\nKhushbu\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 09:40:03 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ctf_writeup\n#infosec\n#ctf",
-        "date": "2026-07-11T10:03:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125469_0_7a722c7b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125469_1_1c29d345.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125469",
-        "link": {
-          "title": "MultiCode | PicoCTF General Skills",
-          "url": "https://medium.com/@khushbuchandra2161/multicode-picoctf-general-skills-5f06d4b95d7c?source=rss------infosec-5"
-        }
       }
     ]
   },
-  "last_update": "2026-07-12T15:33:03.327426+00:00",
+  "last_update": "2026-07-12T16:30:23.945842+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2295,7 +2295,7 @@
     },
     "referenced_files": 195,
     "existing_media_files": 195,
-    "total_size_mb": 5.23,
-    "last_calculation": "2026-07-12T15:33:03.329739+00:00"
+    "total_size_mb": 5.58,
+    "last_calculation": "2026-07-12T16:30:23.947277+00:00"
   }
 }
