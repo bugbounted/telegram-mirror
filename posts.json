@@ -2,6 +2,297 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 125746,
+        "text": "⤷\nTitle:\nAccount Takeover via CSRF on the Email-Change Endpoint $1,300 Bounty\n════════════════════════\n𐀪\nAuthor:\nGautam Sharma\n════════════════════════\nⴵ\nTime:\nMon, 13 Jul 2026 17:58:51 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#bug_bounty_tips\n#penetration_testing\n#cybersecurity\n#bug_bounty_writeup",
+        "date": "2026-07-13T18:04:30+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125746_0_480950ab.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125746_1_46c156d3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125746",
+        "link": {
+          "title": "Account Takeover via CSRF on the Email-Change Endpoint $1,300 Bounty",
+          "url": "https://medium.com/@gautam2001sharma17/account-takeover-via-csrf-on-the-email-change-endpoint-1-300-bounty-957e46f30b5f?source=rss------bug_bounty_writeup-5"
+        }
+      },
+      {
+        "id": 125745,
+        "text": "⤷\nTitle:\nUnderstanding Server-Side Request Forgery (SSRF): A Complete Guide for Security Researchers\n════════════════════════\n𐀪\nAuthor:\nChandan\n════════════════════════\nⴵ\nTime:\nMon, 13 Jul 2026 17:17:30 GMT\n════════════════════════\n⌗\nTags:\n#ssrf\n#vulnerability\n#vapt\n#owasp_top_10\n#ssrf_attack",
+        "date": "2026-07-13T18:04:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125745_0_480950ab.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125745_1_54f9c6a0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125745",
+        "link": {
+          "title": "Understanding Server-Side Request Forgery (SSRF): A Complete Guide for Security Researchers",
+          "url": "https://medium.com/@chandan20516/understanding-server-side-request-forgery-ssrf-a-complete-guide-for-security-researchers-04e298da71d7?source=rss------ssrf-5"
+        }
+      },
+      {
+        "id": 125744,
+        "text": "⤷\nTitle:\nPart 3 — Before Your API Executes: The Network Security Layers Every MuleSoft Architect Should…\n════════════════════════\n𐀪\nAuthor:\nKapil Lokrey\n════════════════════════\nⴵ\nTime:\nMon, 13 Jul 2026 16:48:49 GMT\n════════════════════════\n⌗\nTags:\n#api_security\n#mulesoft\n#network_security\n#enterprise_architecture\n#cloud_security",
+        "date": "2026-07-13T18:04:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125744_0_480950ab.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125744_1_59b5a36d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125744",
+        "link": {
+          "title": "Part 3 — Before Your API Executes: The Network Security Layers Every MuleSoft Architect Should…",
+          "url": "https://medium.com/@klokrey/part-3-before-your-api-executes-the-network-security-layers-every-mulesoft-architect-should-258cf7fec8b9?source=rss------api_security-5"
+        }
+      },
+      {
+        "id": 125743,
+        "text": "⤷\nTitle:\n​​​ ​​​​​​​​​​​​​ ​​​​​​​\n════════════════════════\n𐀪\nAuthor:\ntheShark817\n════════════════════════\nⴵ\nTime:\nMon, 13 Jul 2026 17:13:08 GMT\n════════════════════════\n⌗\nTags:\n#hackthebox_writeup\n#cybersecurity",
+        "date": "2026-07-13T18:04:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125743_0_480950ab.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125743_1_3affd112.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125743",
+        "link": {
+          "title": "​​​ ​​​​​​​​​​​​​ ​​​​​​​",
+          "url": "https://medium.com/@andrewracecar716/-e14f720698b2?source=rss------hackthebox_writeup-5"
+        }
+      },
+      {
+        "id": 125742,
+        "text": "⤷\nTitle:\nVulnhub: SP-Jerome Walkthrough\n════════════════════════\n𐀪\nAuthor:\nFarid Narimanov\n════════════════════════\nⴵ\nTime:\nMon, 13 Jul 2026 17:52:27 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#ctf\n#cybersecurity\n#vulnhub_walkthrough\n#vulnhub",
+        "date": "2026-07-13T18:04:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125742_0_480950ab.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125742_1_67753c7b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125742",
+        "link": {
+          "title": "Vulnhub: SP-Jerome Walkthrough",
+          "url": "https://medium.com/@faridnarimanof/vulnhub-sp-jerome-walkthrough-379a5927ed6b?source=rss------vulnhub-5"
+        }
+      },
+      {
+        "id": 125741,
+        "text": "⤷\nTitle:\nSigned Messages — LoveNote THM Writeup\n════════════════════════\n𐀪\nAuthor:\nspirit\n════════════════════════\nⴵ\nTime:\nMon, 13 Jul 2026 17:42:30 GMT\n════════════════════════\n⌗\nTags:\n#signed_messages\n#tryhackme\n#thm_writeup\n#ctf_writeup",
+        "date": "2026-07-13T18:04:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125741_0_480950ab.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125741_1_8a0159de.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125741",
+        "link": {
+          "title": "Signed Messages — LoveNote THM Writeup",
+          "url": "https://arvdch.medium.com/signed-messages-lovenote-thm-writeup-fa733e4e5216?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 125740,
+        "text": "⤷\nTitle:\nTHM - Brr\n════════════════════════\n𐀪\nAuthor:\nFrancesco Pastore\n════════════════════════\nⴵ\nTime:\nMon, 13 Jul 2026 16:07:16 GMT\n════════════════════════\n⌗\nTags:\n#tech\n#cybersecurity\n#security\n#technology\n#hacking",
+        "date": "2026-07-13T18:04:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125740_0_480950ab.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125740_1_9eb83071.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125740",
+        "link": {
+          "title": "THM - Brr",
+          "url": "https://2h3ph3rd.medium.com/thm-brr-c52699843a98?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 125739,
+        "text": "⤷\nTitle:\nAttacking Common Services — Owning a Windows File Server Through MSSQL\n════════════════════════\n𐀪\nAuthor:\nAhmet\n════════════════════════\nⴵ\nTime:\nMon, 13 Jul 2026 17:21:48 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#hacking\n#cpt\n#htb_writeup",
+        "date": "2026-07-13T18:04:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125739_0_480950ab.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125739_1_efa098d5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125739",
+        "link": {
+          "title": "Attacking Common Services — Owning a Windows File Server Through MSSQL",
+          "url": "https://medium.com/@cry_02/attacking-common-services-owning-a-windows-file-server-through-mssql-feaa17155123?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 125738,
+        "text": "⤷\nTitle:\nFrom Zero to AppSec: A Fresher’s Guide to Starting Your Application Security Journey\n════════════════════════\n𐀪\nAuthor:\nKamlesh Pendurkar\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 11:33:30 GMT\n════════════════════════\n⌗\nTags:\n#programming\n#career_advice\n#application_security\n#ethical_hacking\n#cybersecurity",
+        "date": "2026-07-13T18:04:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125738_0_480950ab.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125738_1_1e880a8f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125738",
+        "link": {
+          "title": "From Zero to AppSec: A Fresher’s Guide to Starting Your Application Security Journey",
+          "url": "https://medium.com/@kamleshpen123/from-zero-to-appsec-a-freshers-guide-to-starting-your-application-security-journey-e5edecd84d37?source=rss------application_security-5"
+        }
+      },
+      {
+        "id": 125737,
+        "text": "⤷\nTitle:\nThe OWASP Top 10:2025 — But Make It Salesforce\n════════════════════════\n𐀪\nAuthor:\nMusa Ndlala\n════════════════════════\nⴵ\nTime:\nMon, 13 Jul 2026 16:09:16 GMT\n════════════════════════\n⌗\nTags:\n#devsecops\n#information_security\n#salesforce\n#cybersecurity\n#application_security",
+        "date": "2026-07-13T18:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125737_0_480950ab.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125737_1_eb4316b8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125737",
+        "link": {
+          "title": "The OWASP Top 10:2025 — But Make It Salesforce",
+          "url": "https://medium.com/@kmniroi/the-owasp-top-10-2025-but-make-it-salesforce-a924fc6b4bb9?source=rss------application_security-5"
+        }
+      },
+      {
+        "id": 125736,
+        "text": "⤷\nTitle:\nReconnaissance in Cybersecurity: First Step Towards Hacking\n════════════════════════\n𐀪\nAuthor:\nAhmed Ali\n════════════════════════\nⴵ\nTime:\nMon, 13 Jul 2026 17:02:55 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#hacking\n#ethical_hacking\n#bug_bounty\n#ai",
+        "date": "2026-07-13T18:03:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125736_0_480950ab.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125736_1_c892ba0a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125736",
+        "link": {
+          "title": "Reconnaissance in Cybersecurity: First Step Towards Hacking",
+          "url": "https://aydxin.medium.com/reconnaissance-in-cybersecurity-first-step-towards-hacking-85ea3bbfa241?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 125735,
+        "text": "⤷\nTitle:\nGoogle and Microsoft Pull ModHeader With 1.6 Million Installs After Dormant Collector Found\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nMon, 13 Jul 2026 22:47:24 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-07-13T18:03:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125735_0_480950ab.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125735",
+        "link": {
+          "title": "Google and Microsoft Pull ModHeader With 1.6 Million Installs After Dormant Collector Found",
+          "url": "https://thehackernews.com/2026/07/google-and-microsoft-pull-modheader.html"
+        }
+      },
+      {
+        "id": 125734,
+        "text": "⤷\nTitle:\nCrashStealer macOS Malware Uses Notarized Dropper to Pass Gatekeeper Checks\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nMon, 13 Jul 2026 23:06:12 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-07-13T18:03:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125734_0_480950ab.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125734",
+        "link": {
+          "title": "CrashStealer macOS Malware Uses Notarized Dropper to Pass Gatekeeper Checks",
+          "url": "https://thehackernews.com/2026/07/crashstealer-macos-malware-uses.html"
+        }
+      },
+      {
         "id": 125733,
         "text": "⤷\nTitle:\nTryHackMe Have a Break Walkthrough (Medium) | Blue Team Digital Forensics\n════════════════════════\n𐀪\nAuthor:\nAnish Kumar Patel\n════════════════════════\nⴵ\nTime:\nMon, 13 Jul 2026 14:14:05 GMT\n════════════════════════\n⌗\nTags:\n#linux\n#tryhackme\n#osint\n#blue_team\n#have_a_break",
         "date": "2026-07-13T16:04:37+00:00",
@@ -1981,317 +2272,22 @@
           "title": "TryHackMe — Operation Coldstart",
           "url": "https://medium.com/@lb0z/tryhackme-operation-coldstart-fd778212ffbb?source=rss------hacking-5"
         }
-      },
-      {
-        "id": 125609,
-        "text": "⤷\nTitle:\nCTF pwn106 @ TryHackMe\n════════════════════════\n𐀪\nAuthor:\nRafael David\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 21:06:58 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#exploração_de_binários\n#ctf_writeup\n#binary_exploitation\n#ctf",
-        "date": "2026-07-12T22:03:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125609_0_b1558c1c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125609_1_c6a83c4e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125609",
-        "link": {
-          "title": "CTF pwn106 @ TryHackMe",
-          "url": "https://medium.com/@rafael-david-br/ctf-pwn106-tryhackme-cd21bc362996?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 125608,
-        "text": "⤷\nTitle:\nETW Session Hijacking\n════════════════════════\n𐀪\nAuthor:\nS12 - 0x12Dark Development\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 21:38:07 GMT\n════════════════════════\n⌗\nTags:\n#malware\n#pentesting\n#cybersecurity\n#hacking\n#infosec",
-        "date": "2026-07-12T22:03:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125608_0_b1558c1c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125608_1_2afb0497.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125608",
-        "link": {
-          "title": "ETW Session Hijacking",
-          "url": "https://medium.com/@s12deff/etw-session-hijacking-c8f775cbe085?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 125607,
-        "text": "⤷\nTitle:\nLearning the Hard Way: How procedural errors invalidated my Web3 bug bounties (and how to avoid…\n════════════════════════\n𐀪\nAuthor:\nJramon Rivas | Security Auditor\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 20:03:42 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#lessons_learned\n#web3_security\n#cybersecurity\n#blockchain",
-        "date": "2026-07-12T22:03:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125607_0_b1558c1c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125607_1_cbad808e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125607",
-        "link": {
-          "title": "Learning the Hard Way: How procedural errors invalidated my Web3 bug bounties (and how to avoid…",
-          "url": "https://medium.com/@remi.bunker.sys/learning-the-hard-way-how-procedural-errors-invalidated-my-web3-bug-bounties-and-how-to-avoid-3758fb5eef1c?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 125606,
-        "text": "⤷\nTitle:\nZero Days: The Worm That Broke Iran’s Centrifuges Without Firing a Shot\n════════════════════════\n𐀪\nAuthor:\nS Kumar\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 21:03:20 GMT\n════════════════════════\n⌗\nTags:\n#zero_day_vulnerability\n#bug_bounty\n#penetration_testing\n#ethical_hacking\n#cybersecurity",
-        "date": "2026-07-12T22:03:47+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125606_0_b1558c1c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125606_1_3d90c1e7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125606",
-        "link": {
-          "title": "Zero Days: The Worm That Broke Iran’s Centrifuges Without Firing a Shot",
-          "url": "https://srimant999.medium.com/zero-days-the-worm-that-broke-irans-centrifuges-without-firing-a-shot-a7e108247a7a?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 125605,
-        "text": "⤷\nTitle:\nOWASP Top 10 for .NET Developers - Part 8: Preventing Software and Data Integrity Failures\n════════════════════════\n𐀪\nAuthor:\nSurya Raj Ghimire\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 18:10:27 GMT\n════════════════════════\n⌗\nTags:\n#owasp\n#api_security\n#open_banking\n#dotnet\n#cybersecurity",
-        "date": "2026-07-12T20:04:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125605_0_b1558c1c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125605_1_b1c564fd.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125605",
-        "link": {
-          "title": "OWASP Top 10 for .NET Developers - Part 8: Preventing Software and Data Integrity Failures",
-          "url": "https://medium.com/@srghimire061/owasp-top-10-for-net-developers-part-8-preventing-software-and-data-integrity-failures-77b0a806cf5d?source=rss------api_security-5"
-        }
-      },
-      {
-        "id": 125604,
-        "text": "⤷\nTitle:\nNetwork Forensics Investigation: Uncovering a QakBot Infection from a PCAP\n════════════════════════\n𐀪\nAuthor:\nNajeebparkar\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 18:03:34 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#cybersecurity_project\n#ethical_hacking\n#networking\n#soc",
-        "date": "2026-07-12T20:04:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125604_0_b1558c1c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125604_1_b056ef80.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125604",
-        "link": {
-          "title": "Network Forensics Investigation: Uncovering a QakBot Infection from a PCAP",
-          "url": "https://medium.com/@najeebparkar15/network-forensics-investigation-uncovering-a-qakbot-infection-from-a-pcap-6dde4d9193e2?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 125603,
-        "text": "⤷\nTitle:\nReversing ELF — TryHackMe Walkthrough\n════════════════════════\n𐀪\nAuthor:\nSunjid Ahmed Siyem\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 18:47:56 GMT\n════════════════════════\n⌗\nTags:\n#reverse_engineering\n#reversing_elf\n#gdb\n#tryhackme",
-        "date": "2026-07-12T20:04:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125603_0_b1558c1c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125603_1_c66d990f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125603",
-        "link": {
-          "title": "Reversing ELF — TryHackMe Walkthrough",
-          "url": "https://medium.com/@sunjid-ahmed/reversing-elf-tryhackme-walkthrough-fbcd2f7fbe56?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 125602,
-        "text": "⤷\nTitle:\nUnderstanding Vulnerability Databases | TryHackMe\n════════════════════════\n𐀪\nAuthor:\nBinish Alamgir\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 19:09:09 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_walkthrough\n#penetration_testing\n#cybersecurity\n#tryhackme\n#jr_penetration_tester",
-        "date": "2026-07-12T20:04:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125602_0_b1558c1c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125602_1_9829a6ed.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125602",
-        "link": {
-          "title": "Understanding Vulnerability Databases | TryHackMe",
-          "url": "https://medium.com/@binishalamgir/understanding-vulnerability-databases-tryhackme-a0a096a15885?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 125601,
-        "text": "⤷\nTitle:\nAuthenticode Checks Who Signed a PE File. Nothing Checks Whether It’s True.\n════════════════════════\n𐀪\nAuthor:\nRamadhan Zome\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 19:36:36 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#infosec\n#windows\n#reverse_engineering\n#malware",
-        "date": "2026-07-12T20:04:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125601_0_b1558c1c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125601_1_b94d290a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125601",
-        "link": {
-          "title": "Authenticode Checks Who Signed a PE File. Nothing Checks Whether It’s True.",
-          "url": "https://medium.com/@ramadhanzome4/authenticode-checks-who-signed-a-pe-file-nothing-checks-whether-its-true-6ad4ccc8fbe6?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 125600,
-        "text": "⤷\nTitle:\nHow 3 Tiny Registers Control Your PC And Get Hacked (In office example)\n════════════════════════\n𐀪\nAuthor:\nAnees\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 18:51:40 GMT\n════════════════════════\n⌗\nTags:\n#technology\n#computer_science\n#hacking\n#cybersecurity\n#malware_analysis",
-        "date": "2026-07-12T20:04:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125600_0_b1558c1c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125600_1_c97b6acb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125600",
-        "link": {
-          "title": "How 3 Tiny Registers Control Your PC And Get Hacked (In office example)",
-          "url": "https://medium.com/@anees78788878/how-3-tiny-registers-control-your-pc-and-get-hacked-in-office-example-55aaa902cdc0?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 125599,
-        "text": "⤷\nTitle:\nThis Week in Breaches: What HSIN and Accenture Teach Us About Life After the Break-In\n════════════════════════\n𐀪\nAuthor:\nDisaster\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 19:14:22 GMT\n════════════════════════\n⌗\nTags:\n#data_breach\n#cybersecurity\n#information_security\n#cyber_security_awareness\n#hacking",
-        "date": "2026-07-12T20:03:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125599_0_b1558c1c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125599_1_a713047a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125599",
-        "link": {
-          "title": "This Week in Breaches: What HSIN and Accenture Teach Us About Life After the Break-In",
-          "url": "https://medium.com/@arashaddodhiya4948/this-week-in-breaches-what-hsin-and-accenture-teach-us-about-life-after-the-break-in-268a0ff9804c?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 125598,
-        "text": "⤷\nTitle:\nHow I Discovered an Insecure Direct Object Reference (IDOR) Through Google Dorking (Redacted Case…\n════════════════════════\n𐀪\nAuthor:\nSalmanul Faris\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 18:25:32 GMT\n════════════════════════\n⌗\nTags:\n#web_security\n#cybersecurity\n#bug_bounty\n#penetration_testing\n#owasp",
-        "date": "2026-07-12T20:03:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125598_0_b1558c1c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125598_1_3acd2ba9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125598",
-        "link": {
-          "title": "How I Discovered an Insecure Direct Object Reference (IDOR) Through Google Dorking (Redacted Case…",
-          "url": "https://medium.com/@salmanul060/how-i-discovered-an-insecure-direct-object-reference-idor-through-google-dorking-redacted-case-76b79016711d?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 125597,
-        "text": "⤷\nTitle:\nAccount Takeover via Open Redirect XSS\n════════════════════════\n𐀪\nAuthor:\n4M1R\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 19:41:39 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#xss_attack\n#account_takeover\n#penetration_testing\n#bug_bounty",
-        "date": "2026-07-12T20:03:51+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125597_0_b1558c1c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125597",
-        "link": {
-          "title": "Account Takeover via Open Redirect XSS",
-          "url": "https://medium.com/@amir1382programmer/account-takeover-via-open-redirect-xss-cf25b42abd22?source=rss------bug_bounty-5"
-        }
       }
     ]
   },
-  "last_update": "2026-07-13T16:19:55.027566+00:00",
+  "last_update": "2026-07-13T18:16:33.491334+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 194,
-    "total_files": 194,
+    "total_media": 193,
+    "total_files": 193,
     "total_links": 0,
     "files_by_type": {
-      "image": 194
+      "image": 193
     },
-    "referenced_files": 194,
-    "existing_media_files": 194,
-    "total_size_mb": 5.84,
-    "last_calculation": "2026-07-13T16:19:55.029848+00:00"
+    "referenced_files": 193,
+    "existing_media_files": 193,
+    "total_size_mb": 5.71,
+    "last_calculation": "2026-07-13T18:16:33.493079+00:00"
   }
 }
