@@ -2,6 +2,52 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 125616,
+        "text": "⤷\nTitle:\nForeign Transaction Fees Explained: How They Work & How to Avoid Them\n════════════════════════\n𐀪\nAuthor:\nPersonal Finance\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 23:08:29 GMT\n════════════════════════\n⌗\nTags:\n#foreign_transactions\n#banks\n#ethical_hacking\n#hacking_tools\n#credit_cards",
+        "date": "2026-07-13T00:03:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125616_0_b1558c1c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125616_1_3ffd6be7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125616",
+        "link": {
+          "title": "Foreign Transaction Fees Explained: How They Work & How to Avoid Them",
+          "url": "https://medium.com/@danielngbin/foreign-transaction-fees-explained-how-they-work-how-to-avoid-them-69a889e117b0?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 125615,
+        "text": "⤷\nTitle:\nVulnhub: Shenron-1 Walkthrough\n════════════════════════\n𐀪\nAuthor:\nFarid Narimanov\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 22:43:23 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#ethical_hacking\n#vulnhub\n#cybersecurity\n#vulnhub_walkthrough",
+        "date": "2026-07-13T00:03:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125615_0_b1558c1c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125615_1_bf23afe1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125615",
+        "link": {
+          "title": "Vulnhub: Shenron-1 Walkthrough",
+          "url": "https://medium.com/@faridnarimanof/vulnhub-shenron-1-walkthrough-acca96a13fdc?source=rss------penetration_testing-5"
+        }
+      },
+      {
         "id": 125614,
         "text": "⤷\nTitle:\nTryHackMe | SOC L1 Alert Triage — Walkthrough\n════════════════════════\n𐀪\nAuthor:\nOmar Walid Diab\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 20:31:26 GMT\n════════════════════════\n⌗\nTags:\n#siem\n#tryhackme\n#soc\n#alert_triage\n#cybersecurity",
         "date": "2026-07-12T22:04:14+00:00",
@@ -2230,56 +2276,10 @@
           "title": "Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install",
           "url": "https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html"
         }
-      },
-      {
-        "id": 125516,
-        "text": "⤷\nTitle:\nHow I Found SQL Injection\n════════════════════════\n𐀪\nAuthor:\nONEDAY24X7\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 16:09:17 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_writeup\n#websecurity_testing\n#sql_injection\n#cybersecurity\n#news",
-        "date": "2026-07-11T18:04:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125516_0_b08380ce.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125516_1_d1b20f41.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125516",
-        "link": {
-          "title": "How I Found SQL Injection",
-          "url": "https://medium.com/@chouhanashvin600/how-i-found-sql-injection-5120b0d0564f?source=rss------sql_injection-5"
-        }
-      },
-      {
-        "id": 125515,
-        "text": "⤷\nTitle:\nDay 6: What Is SIEM? Understanding the Technology Behind Modern Security Operations\n════════════════════════\n𐀪\nAuthor:\nSIAM AHMED\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 16:56:59 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#cybersecurity\n#deep_learning\n#soc_analyst\n#blue_team",
-        "date": "2026-07-11T18:04:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125515_0_b08380ce.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125515_1_e9d255ad.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125515",
-        "link": {
-          "title": "Day 6: What Is SIEM? Understanding the Technology Behind Modern Security Operations",
-          "url": "https://medium.com/@ahmedseam094/day-6-what-is-siem-understanding-the-technology-behind-modern-security-operations-5cff5fcc7d1b?source=rss------ethical_hacking-5"
-        }
       }
     ]
   },
-  "last_update": "2026-07-12T23:41:49.650068+00:00",
+  "last_update": "2026-07-13T01:23:35.164454+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2291,7 +2291,7 @@
     },
     "referenced_files": 194,
     "existing_media_files": 194,
-    "total_size_mb": 5.37,
-    "last_calculation": "2026-07-12T23:41:49.652478+00:00"
+    "total_size_mb": 5.43,
+    "last_calculation": "2026-07-13T01:23:35.166844+00:00"
   }
 }
