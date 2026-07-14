@@ -2,6 +2,48 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 125901,
+        "text": "⤷\nTitle:\nOWASP Top 10 Labs Series #10 - SSRF: Two Labs, Two Ways a Server Fetches What It Shouldn’t\n════════════════════════\n𐀪\nAuthor:\nOm Fulsundar\n════════════════════════\nⴵ\nTime:\nTue, 14 Jul 2026 21:31:00 GMT\n════════════════════════\n⌗\nTags:\n#writeup\n#owasp\n#cybersecurity\n#ssrf\n#owasp_top_10",
+        "date": "2026-07-14T22:03:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125901_0_fcb5967a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125901_1_2e177471.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125901",
+        "link": {
+          "title": "OWASP Top 10 Labs Series #10 - SSRF: Two Labs, Two Ways a Server Fetches What It Shouldn’t",
+          "url": "https://medium.com/@om.fulsundar.7370/owasp-top-10-labs-series-10-ssrf-two-labs-two-ways-a-server-fetches-what-it-shouldnt-231a9d56048d?source=rss------ssrf-5"
+        }
+      },
+      {
+        "id": 125900,
+        "text": "⤷\nTitle:\nMicrosoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nWed, 15 Jul 2026 01:55:47 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-07-14T22:03:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125900_0_fcb5967a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125900",
+        "link": {
+          "title": "Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack",
+          "url": "https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html"
+        }
+      },
+      {
         "id": 125899,
         "text": "⤷\nTitle:\nOSI Model (En Français)\n════════════════════════\n𐀪\nAuthor:\nS4m1X\n════════════════════════\nⴵ\nTime:\nTue, 14 Jul 2026 18:41:14 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#cybersecurity\n#osi_model\n#networking\n#tryhackme_pre_security",
         "date": "2026-07-14T20:04:13+00:00",
@@ -2206,52 +2248,10 @@
           "title": "The Missing Layer in Your 2026 Cyber Strategy - InfoSecurity Europe 2026",
           "url": "https://meeratamboli.medium.com/the-missing-layer-in-your-2026-cyber-strategy-infosecurity-europe-2026-46779188da03?source=rss------infosec-5"
         }
-      },
-      {
-        "id": 125727,
-        "text": "⤷\nTitle:\nRace Condition on Login Endpoint Allows Complete Brute-Force Rate-Limit Bypass and Block Bypass\n════════════════════════\n𐀪\nAuthor:\nRootxsecurity\n════════════════════════\nⴵ\nTime:\nMon, 13 Jul 2026 14:16:48 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#race_condition\n#bug_hunting\n#cybersecurity",
-        "date": "2026-07-13T16:04:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125727_0_480950ab.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125727_1_0e6bb3b4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125727",
-        "link": {
-          "title": "Race Condition on Login Endpoint Allows Complete Brute-Force Rate-Limit Bypass and Block Bypass",
-          "url": "https://medium.com/@RootXSec/race-condition-on-login-endpoint-allows-complete-brute-force-rate-limit-bypass-and-block-bypass-bb4f7f30e4ab?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 125726,
-        "text": "⤷\nTitle:\nLab 3: Broken Access Control — “User Role Controlled by Request Parameter” (PortSwigger Web…\n════════════════════════\n𐀪\nAuthor:\nNitish Mukhiya\n════════════════════════\nⴵ\nTime:\nMon, 13 Jul 2026 15:40:01 GMT\n════════════════════════\n⌗\nTags:\n#portswigger_lab\n#bug_bounty\n#broken_access_control\n#bug_bounty_tips\n#cybersecurity",
-        "date": "2026-07-13T16:04:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125726_0_480950ab.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125726",
-        "link": {
-          "title": "Lab 3: Broken Access Control — “User Role Controlled by Request Parameter” (PortSwigger Web…",
-          "url": "https://medium.com/@nitishmukhiya/lab-3-broken-access-control-user-role-controlled-by-request-parameter-portswigger-web-3a8d7aefd685?source=rss------bug_bounty-5"
-        }
       }
     ]
   },
-  "last_update": "2026-07-14T21:29:43.151236+00:00",
+  "last_update": "2026-07-14T22:30:32.856464+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2263,7 +2263,7 @@
     },
     "referenced_files": 187,
     "existing_media_files": 187,
-    "total_size_mb": 4.95,
-    "last_calculation": "2026-07-14T21:29:43.153492+00:00"
+    "total_size_mb": 4.87,
+    "last_calculation": "2026-07-14T22:30:32.858676+00:00"
   }
 }
