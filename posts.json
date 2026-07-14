@@ -2,6 +2,151 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 125899,
+        "text": "⤷\nTitle:\nOSI Model (En Français)\n════════════════════════\n𐀪\nAuthor:\nS4m1X\n════════════════════════\nⴵ\nTime:\nTue, 14 Jul 2026 18:41:14 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#cybersecurity\n#osi_model\n#networking\n#tryhackme_pre_security",
+        "date": "2026-07-14T20:04:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125899_0_fcb5967a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125899_1_79fdd708.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125899",
+        "link": {
+          "title": "OSI Model (En Français)",
+          "url": "https://medium.com/@dassamiourahmedsami/le-mod%C3%A8le-osi-de7c95187431?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 125898,
+        "text": "⤷\nTitle:\nPackets and Frames (En Français)\n════════════════════════\n𐀪\nAuthor:\nS4m1X\n════════════════════════\nⴵ\nTime:\nTue, 14 Jul 2026 19:53:03 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_pre_security\n#cybersecurity\n#packets_and_frames\n#networking\n#tryhackme",
+        "date": "2026-07-14T20:04:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125898_0_fcb5967a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125898",
+        "link": {
+          "title": "Packets and Frames (En Français)",
+          "url": "https://medium.com/@dassamiourahmedsami/packets-and-frames-en-fran%C3%A7ais-6caf4add5798?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 125897,
+        "text": "⤷\nTitle:\nBuilding My First Tool: How Reconductor Came Together\n════════════════════════\n𐀪\nAuthor:\nN0flow\n════════════════════════\nⴵ\nTime:\nTue, 14 Jul 2026 18:45:20 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#python\n#penetration_testing",
+        "date": "2026-07-14T20:04:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125897_0_fcb5967a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125897",
+        "link": {
+          "title": "Building My First Tool: How Reconductor Came Together",
+          "url": "https://medium.com/@haroonwaseem003/building-my-first-tool-how-reconductor-came-together-bd8be68a1644?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 125896,
+        "text": "⤷\nTitle:\nTEACCESS.sys + ADV64DRV.sys + PhyMem.sys: KASLR Bypass to SYSTEM Token Theft\n════════════════════════\n𐀪\nAuthor:\nHaidermustafa\n════════════════════════\nⴵ\nTime:\nTue, 14 Jul 2026 19:23:00 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#privilege_escalation\n#reverse_engineering\n#hacking\n#exploit_development",
+        "date": "2026-07-14T20:04:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125896_0_fcb5967a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125896_1_ec13e9d7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125896",
+        "link": {
+          "title": "TEACCESS.sys + ADV64DRV.sys + PhyMem.sys: KASLR Bypass to SYSTEM Token Theft",
+          "url": "https://medium.com/@haider303mustafa/teaccess-sys-adv64drv-sys-phymem-sys-kaslr-bypass-to-system-token-theft-69441310b7f4?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 125895,
+        "text": "⤷\nTitle:\nThe Parameter That Redirects Nowhere: HTML Injection via redirect_page $125 Bounty\n════════════════════════\n𐀪\nAuthor:\nGautam Sharma\n════════════════════════\nⴵ\nTime:\nTue, 14 Jul 2026 18:01:00 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#bug_bounty_writeup\n#bug_bounty\n#penetration_testing\n#bug_bounty_tips",
+        "date": "2026-07-14T20:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125895_0_fcb5967a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125895_1_c18a5aec.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125895",
+        "link": {
+          "title": "The Parameter That Redirects Nowhere: HTML Injection via redirect_page $125 Bounty",
+          "url": "https://medium.com/@gautam2001sharma17/the-parameter-that-redirects-nowhere-html-injection-via-redirect-page-125-bounty-edab7ac9247f?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 125894,
+        "text": "⤷\nTitle:\nResearchers Say Claude for Chrome Flaw Lets Rogue Extensions Trigger Gmail Reads\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nTue, 14 Jul 2026 22:57:23 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-07-14T20:03:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125894_0_fcb5967a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125894",
+        "link": {
+          "title": "Researchers Say Claude for Chrome Flaw Lets Rogue Extensions Trigger Gmail Reads",
+          "url": "https://thehackernews.com/2026/07/claude-for-chrome-flaw-lets-other.html"
+        }
+      },
+      {
+        "id": 125893,
+        "text": "⤷\nTitle:\nSAP Patches CVSS 9.9 NetWeaver ABAP Flaw That Could Expose or Modify Data\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nTue, 14 Jul 2026 23:47:57 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-07-14T20:03:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125893_0_fcb5967a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125893",
+        "link": {
+          "title": "SAP Patches CVSS 9.9 NetWeaver ABAP Flaw That Could Expose or Modify Data",
+          "url": "https://thehackernews.com/2026/07/sap-patches-cvss-99-netweaver-abap-flaw.html"
+        }
+      },
+      {
         "id": 125892,
         "text": "⤷\nTitle:\nHack Smarter Labs — Dark: From Unauthenticated WordPress Bug to Root\n════════════════════════\n𐀪\nAuthor:\nMuhammad Usman Faridi\n════════════════════════\nⴵ\nTime:\nTue, 14 Jul 2026 15:59:07 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#red_team\n#cybersecurity\n#wordpress\n#linux",
         "date": "2026-07-14T18:04:47+00:00",
@@ -2103,175 +2248,22 @@
           "title": "Lab 3: Broken Access Control — “User Role Controlled by Request Parameter” (PortSwigger Web…",
           "url": "https://medium.com/@nitishmukhiya/lab-3-broken-access-control-user-role-controlled-by-request-parameter-portswigger-web-3a8d7aefd685?source=rss------bug_bounty-5"
         }
-      },
-      {
-        "id": 125725,
-        "text": "⤷\nTitle:\nCVE-2026-20744: Privilege Escalation in EV Chargers\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 13 Jul 2026 13:03:48 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_20744\n#CVE_2026_42952\n#CVE_2026_44383\n#privilege\nescalation",
-        "date": "2026-07-13T16:04:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125725_0_480950ab.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125725_1_6286c55c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125725",
-        "link": {
-          "title": "CVE-2026-20744: Privilege Escalation in EV Chargers",
-          "url": "https://securityonline.info/cve-2026-20744-privilege-escalation/"
-        }
-      },
-      {
-        "id": 125724,
-        "text": "⤷\nTitle:\nUAT-7810 Expands Its LapDogs ORB Network With New Router Malware\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 13 Jul 2026 13:30:18 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#China_nexus\n#Cisco\nTalos\n#DOGLEASH\n#JARLEASH\n#LapDogs\n#LONGLEASH\n#ORB\nNetwork\n#UAT_7810",
-        "date": "2026-07-13T16:04:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125724_0_480950ab.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125724_1_1e99af7a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125724",
-        "link": {
-          "title": "UAT-7810 Expands Its LapDogs ORB Network With New Router Malware",
-          "url": "https://securityonline.info/uat-7810-lapdogs-orb-longleash/"
-        }
-      },
-      {
-        "id": 125723,
-        "text": "⤷\nTitle:\nTorq and Criminal IP Partner to Deliver Decision-Ready Threat Intelligence for Autonomous SOC Operations\n════════════════════════\n𐀪\nAuthor:\ncybernewswire\n════════════════════════\nⴵ\nTime:\nMon, 13 Jul 2026 14:00:47 +0000\n════════════════════════\n⌗\nTags:\n#Press\nRelease",
-        "date": "2026-07-13T16:04:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125723_0_480950ab.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125723_1_ff090ba3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125723",
-        "link": {
-          "title": "Torq and Criminal IP Partner to Deliver Decision-Ready Threat Intelligence for Autonomous SOC Operations",
-          "url": "https://securityonline.info/torq-and-criminal-ip-partner-to-deliver-decision-ready-threat-intelligence-for-autonomous-soc-operations/"
-        }
-      },
-      {
-        "id": 125722,
-        "text": "⤷\nTitle:\nTorq and Criminal IP Partner to Deliver Decision-Ready Threat Intelligence for Autonomous SOC Operations\n════════════════════════\n𐀪\nAuthor:\nCyberNewswire\n════════════════════════\nⴵ\nTime:\nMon, 13 Jul 2026 14:00:50 +0000\n════════════════════════\n⌗\nTags:\n#Press\nRelease",
-        "date": "2026-07-13T16:03:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125722_0_480950ab.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125722_1_ab056e13.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125722",
-        "link": {
-          "title": "Torq and Criminal IP Partner to Deliver Decision-Ready Threat Intelligence for Autonomous SOC Operations",
-          "url": "https://hackread.com/torq-and-criminal-ip-partner-to-deliver-decision-ready-threat-intelligence-for-autonomous-soc-operations/"
-        }
-      },
-      {
-        "id": 125721,
-        "text": "⤷\nTitle:\nNew MemGhost Attack Plants Persistent False Memories in AI Agents Through One Email\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nMon, 13 Jul 2026 19:19:48 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-07-13T16:03:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125721_0_480950ab.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125721",
-        "link": {
-          "title": "New MemGhost Attack Plants Persistent False Memories in AI Agents Through One Email",
-          "url": "https://thehackernews.com/2026/07/new-memghost-attack-plants-persistent.html"
-        }
-      },
-      {
-        "id": 125720,
-        "text": "⤷\nTitle:\n⚡\nWeekly Recap: ShareFile Threat, Citrix Bleed 2 Ransomware, AI Coding Attacks, and More\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nMon, 13 Jul 2026 20:35:57 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-07-13T16:03:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125720_0_480950ab.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125720",
-        "link": {
-          "title": "⚡Weekly Recap: ShareFile Threat, Citrix Bleed 2 Ransomware, AI Coding Attacks, and More",
-          "url": "https://thehackernews.com/2026/07/weekly-recap-sharefile-threat-citrix.html"
-        }
-      },
-      {
-        "id": 125719,
-        "text": "⤷\nTitle:\nThe Linux Logs That Solved an Incident Nobody Could Explain\n════════════════════════\n𐀪\nAuthor:\nFateyaly\n════════════════════════\nⴵ\nTime:\nMon, 13 Jul 2026 13:41:14 GMT\n════════════════════════\n⌗\nTags:\n#technology\n#ethical_hacking\n#coding\n#programming\n#cybersecurity",
-        "date": "2026-07-13T14:05:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125719_0_480950ab.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125719_1_8424e2f3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125719",
-        "link": {
-          "title": "The Linux Logs That Solved an Incident Nobody Could Explain",
-          "url": "https://systemweakness.com/the-linux-logs-that-solved-an-incident-nobody-could-explain-5082c66700c8?source=rss------ethical_hacking-5"
-        }
       }
     ]
   },
-  "last_update": "2026-07-14T18:59:54.210591+00:00",
+  "last_update": "2026-07-14T20:08:09.895664+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 189,
-    "total_files": 189,
+    "total_media": 187,
+    "total_files": 187,
     "total_links": 0,
     "files_by_type": {
-      "image": 189
+      "image": 187
     },
-    "referenced_files": 189,
-    "existing_media_files": 189,
-    "total_size_mb": 5.0,
-    "last_calculation": "2026-07-14T18:59:54.212861+00:00"
+    "referenced_files": 187,
+    "existing_media_files": 187,
+    "total_size_mb": 4.95,
+    "last_calculation": "2026-07-14T20:08:09.897948+00:00"
   }
 }
