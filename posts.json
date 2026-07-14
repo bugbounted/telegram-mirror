@@ -2,6 +2,462 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 125839,
+        "text": "⤷\nTitle:\nI Chained Four Privilege Escalation Bugs to Root a Box — Here’s the Full Breakdown\n════════════════════════\n𐀪\nAuthor:\nDebojit Singh\n════════════════════════\nⴵ\nTime:\nTue, 14 Jul 2026 10:45:37 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#cybersecurity\n#tryhackme_writeup\n#red_teaming\n#technology",
+        "date": "2026-07-14T12:04:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125839_0_480950ab.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125839_1_39bd40cb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125839",
+        "link": {
+          "title": "I Chained Four Privilege Escalation Bugs to Root a Box — Here’s the Full Breakdown",
+          "url": "https://medium.com/@root.debojit/i-chained-four-privilege-escalation-bugs-to-root-a-box-heres-the-full-breakdown-9a22cd1c0dbb?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 125838,
+        "text": "⤷\nTitle:\nRooting DC-1: A Beginner’s Walkthrough of a Classic VulnHub Box\n════════════════════════\n𐀪\nAuthor:\nSithum Ranasinghe\n════════════════════════\nⴵ\nTime:\nTue, 14 Jul 2026 11:15:05 GMT\n════════════════════════\n⌗\nTags:\n#ctf_walkthrough\n#ctf_writeup\n#dc_1\n#vulnhub",
+        "date": "2026-07-14T12:04:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125838_0_480950ab.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125838_1_93f9d85f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125838",
+        "link": {
+          "title": "Rooting DC-1: A Beginner’s Walkthrough of a Classic VulnHub Box",
+          "url": "https://medium.com/@sithumsryt/rooting-dc-1-a-beginners-walkthrough-of-a-classic-vulnhub-box-df13a25c62d5?source=rss------vulnhub-5"
+        }
+      },
+      {
+        "id": 125837,
+        "text": "⤷\nTitle:\nI Built a Runtime Immune System for Multi-Agent AI — Here’s What Broke First ️\n════════════════════════\n𐀪\nAuthor:\nNithiya Rajendran\n════════════════════════\nⴵ\nTime:\nTue, 14 Jul 2026 10:36:00 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#security\n#agentic_ai\n#ai\n#infosec",
+        "date": "2026-07-14T12:04:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125837_0_480950ab.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125837_1_91b21f4c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125837",
+        "link": {
+          "title": "I Built a Runtime Immune System for Multi-Agent AI — Here’s What Broke First ️",
+          "url": "https://medium.com/@nithiya.rajesh1998/i-built-a-runtime-immune-system-for-multi-agent-ai-heres-what-broke-first-%EF%B8%8F-e309b8fb5ff2?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 125836,
+        "text": "⤷\nTitle:\nSakana AI Explained | How Nature-Inspired AI Could Transform Cybersecurity\n════════════════════════\n𐀪\nAuthor:\nPentester Club\n════════════════════════\nⴵ\nTime:\nTue, 14 Jul 2026 10:01:07 GMT\n════════════════════════\n⌗\nTags:\n#web_development\n#artificial_intelligence\n#cybersecurity\n#hacking\n#business",
+        "date": "2026-07-14T12:04:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125836_0_480950ab.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125836_1_66af6603.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125836",
+        "link": {
+          "title": "Sakana AI Explained | How Nature-Inspired AI Could Transform Cybersecurity",
+          "url": "https://medium.com/@pentesterclubpvtltd/sakana-ai-explained-how-nature-inspired-ai-could-transform-cybersecurity-502d8bfde854?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 125835,
+        "text": "⤷\nTitle:\nTryHackMe — Skynet Walkthrough\n════════════════════════\n𐀪\nAuthor:\nlb0z\n════════════════════════\nⴵ\nTime:\nTue, 14 Jul 2026 11:20:38 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#cybersecurity\n#tryhackme_walkthrough\n#tryhackme",
+        "date": "2026-07-14T12:04:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125835_0_480950ab.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125835_1_911ae8eb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125835",
+        "link": {
+          "title": "TryHackMe — Skynet Walkthrough",
+          "url": "https://medium.com/@lb0z/tryhackme-skynet-walkthrough-3355d96a09eb?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 125834,
+        "text": "⤷\nTitle:\nTrying to Bypass Root Detection in Android Applications Using KernelSU\n════════════════════════\n𐀪\nAuthor:\nSahil Pednekar\n════════════════════════\nⴵ\nTime:\nTue, 14 Jul 2026 10:58:28 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#cyber_security_solutions\n#application_security\n#android_rooting\n#mobile_app_security",
+        "date": "2026-07-14T12:04:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125834_0_480950ab.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125834_1_c743705c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125834",
+        "link": {
+          "title": "Trying to Bypass Root Detection in Android Applications Using KernelSU",
+          "url": "https://medium.com/@pednekarsahil555/trying-to-bypass-root-detection-in-android-applications-using-kernelsu-c438c9b8db1a?source=rss------application_security-5"
+        }
+      },
+      {
+        "id": 125833,
+        "text": "⤷\nTitle:\nHow I Found an Auth Bypass in 20 Minutes\n════════════════════════\n𐀪\nAuthor:\nNitin yadav\n════════════════════════\nⴵ\nTime:\nTue, 14 Jul 2026 11:31:01 GMT\n════════════════════════\n⌗\nTags:\n#account_takeover\n#authentication\n#cybersecurity\n#tech\n#bug_bounty",
+        "date": "2026-07-14T12:04:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125833_0_480950ab.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125833_1_2023034a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125833",
+        "link": {
+          "title": "How I Found an Auth Bypass in 20 Minutes",
+          "url": "https://kd-200.medium.com/how-i-found-an-auth-bypass-in-20-minutes-6ee4d35e8a6c?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 125832,
+        "text": "⤷\nTitle:\nExposing Administrative Secrets: How an Exposed Nylas Client Secret Led to Full Grant and Email…\n════════════════════════\n𐀪\nAuthor:\nelcezeri\n════════════════════════\nⴵ\nTime:\nTue, 14 Jul 2026 11:34:21 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#bug_bounty_writeup\n#bug_bounty_tips",
+        "date": "2026-07-14T12:04:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125832_0_480950ab.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125832_1_96270ade.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125832",
+        "link": {
+          "title": "Exposing Administrative Secrets: How an Exposed Nylas Client Secret Led to Full Grant and Email…",
+          "url": "https://medium.com/@xelcezeri/exposing-administrative-secrets-how-an-exposed-nylas-client-secret-led-to-full-grant-and-email-4a852720f5ac?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 125831,
+        "text": "⤷\nTitle:\nGrok Build Uploaded Entire Git Repositories to xAI Storage, Not Just Files It Read\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nTue, 14 Jul 2026 14:32:48 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-07-14T12:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125831_0_480950ab.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125831",
+        "link": {
+          "title": "Grok Build Uploaded Entire Git Repositories to xAI Storage, Not Just Files It Read",
+          "url": "https://thehackernews.com/2026/07/grok-build-uploads-entire-git.html"
+        }
+      },
+      {
+        "id": 125830,
+        "text": "⤷\nTitle:\nTypes of Hackers and Security Audits: A Cyber Guide\n════════════════════════\n𐀪\nAuthor:\nEmbee Software\n════════════════════════\nⴵ\nTime:\nTue, 14 Jul 2026 09:05:47 GMT\n════════════════════════\n⌗\nTags:\n#cyber_security_awareness\n#cybersecurity\n#types_of_hacker\n#security\n#ethical_hacking",
+        "date": "2026-07-14T10:05:46+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125830_0_480950ab.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125830_1_7fdfb48a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125830",
+        "link": {
+          "title": "Types of Hackers and Security Audits: A Cyber Guide",
+          "url": "https://medium.com/@embeesoftware/types-of-hackers-and-security-audits-a-cyber-guide-cc36cd2c8130?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 125829,
+        "text": "⤷\nTitle:\nHacking Metasploitable 3: A Hands-On Penetration Testing Journey — Part 1\n════════════════════════\n𐀪\nAuthor:\nAneesh Kv\n════════════════════════\nⴵ\nTime:\nTue, 14 Jul 2026 09:08:48 GMT\n════════════════════════\n⌗\nTags:\n#metasploitable3\n#ethical_hacking\n#cybersecurtiy",
+        "date": "2026-07-14T10:05:43+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125829_0_480950ab.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125829_1_a0afdb24.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125829",
+        "link": {
+          "title": "Hacking Metasploitable 3: A Hands-On Penetration Testing Journey — Part 1",
+          "url": "https://medium.com/@aneesh.kv2003/hacking-metasploitable-3-a-hands-on-penetration-testing-journey-part-1-caca69b427e9?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 125828,
+        "text": "⤷\nTitle:\nPersistent Code Execution: Breaking Down a Stored XSS via Internal Procurement Notes\n════════════════════════\n𐀪\nAuthor:\nM0stafaX404\n════════════════════════\nⴵ\nTime:\nTue, 14 Jul 2026 08:55:16 GMT\n════════════════════════\n⌗\nTags:\n#websecurity_testing\n#cybersecurity\n#info_sec_writeups\n#xs\n#stored_xss",
+        "date": "2026-07-14T10:05:39+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125828_0_480950ab.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125828_1_4c0ee242.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125828",
+        "link": {
+          "title": "Persistent Code Execution: Breaking Down a Stored XSS via Internal Procurement Notes",
+          "url": "https://medium.com/@m.bafy10/persistent-code-execution-breaking-down-a-stored-xss-via-internal-procurement-notes-bf282ca159fe?source=rss------info_sec_writeups-5"
+        }
+      },
+      {
+        "id": 125827,
+        "text": "⤷\nTitle:\nWindows Fundamentals 3: Defending the Endpoint with Native Security Controls\n════════════════════════\n𐀪\nAuthor:\nJonathan Sanfer\n════════════════════════\nⴵ\nTime:\nTue, 14 Jul 2026 08:56:29 GMT\n════════════════════════\n⌗\nTags:\n#endpoint_hardening\n#windows_security\n#windows_os_fundamentals\n#cybersecurity\n#tryhackme",
+        "date": "2026-07-14T10:05:36+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125827_0_480950ab.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125827_1_a18cdea2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125827",
+        "link": {
+          "title": "Windows Fundamentals 3: Defending the Endpoint with Native Security Controls",
+          "url": "https://medium.com/@jonathan.sanfer/windows-fundamentals-3-defending-the-endpoint-with-native-security-controls-c07d3690fd2f?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 125826,
+        "text": "⤷\nTitle:\nMy Journey to Becoming a SOC L1 Analyst: Understanding the First Line of Cyber Defense\n════════════════════════\n𐀪\nAuthor:\nGodase Tejashri\n════════════════════════\nⴵ\nTime:\nTue, 14 Jul 2026 09:10:04 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#cybersecurity\n#defronix_academy\n#soc_analyst\n#blue_team",
+        "date": "2026-07-14T10:05:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125826_0_480950ab.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125826_1_03f06ba5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125826",
+        "link": {
+          "title": "My Journey to Becoming a SOC L1 Analyst: Understanding the First Line of Cyber Defense",
+          "url": "https://medium.com/@godasetejashri5/my-journey-to-becoming-a-soc-l1-analyst-understanding-the-first-line-of-cyber-defense-cf29eaa2e808?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 125825,
+        "text": "⤷\nTitle:\nNetworking Core Protocols — TryHackMe Answers | by Deepti Gupta\n════════════════════════\n𐀪\nAuthor:\nDeepti Gupta\n════════════════════════\nⴵ\nTime:\nTue, 14 Jul 2026 09:15:18 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_walkthrough\n#tryhackme\n#network_protocols\n#tryhackme_writeup\n#networking",
+        "date": "2026-07-14T10:05:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125825_0_480950ab.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125825_1_5fc33d96.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125825",
+        "link": {
+          "title": "Networking Core Protocols — TryHackMe Answers | by Deepti Gupta",
+          "url": "https://medium.com/@deeptisg0/networking-core-protocols-tryhackme-answers-by-deepti-gupta-75ead03a2426?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 125824,
+        "text": "⤷\nTitle:\nVehicle-to-Everything (V2X): The Communication Backbone of Connected Mobility\n════════════════════════\n𐀪\nAuthor:\nSanika\n════════════════════════\nⴵ\nTime:\nTue, 14 Jul 2026 09:00:15 GMT\n════════════════════════\n⌗\nTags:\n#v2x_cybersecurity\n#penetration_testing\n#5g\n#automotive_cybersecurity\n#connected_vehicles",
+        "date": "2026-07-14T10:05:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125824_0_480950ab.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125824_1_e1779626.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125824",
+        "link": {
+          "title": "Vehicle-to-Everything (V2X): The Communication Backbone of Connected Mobility",
+          "url": "https://medium.com/@desaisanika16/vehicle-to-everything-v2x-the-communication-backbone-of-connected-mobility-f574e1c16648?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 125823,
+        "text": "⤷\nTitle:\nInfrastructure Takeover: How Leaked MailWizz API Keys Allowed Bypass of Corporate Email Boundaries\n════════════════════════\n𐀪\nAuthor:\nM0stafaX404\n════════════════════════\nⴵ\nTime:\nTue, 14 Jul 2026 08:38:02 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#web_security\n#api_security\n#cybersecurity\n#information_disclosure",
+        "date": "2026-07-14T10:05:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125823_0_480950ab.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125823_1_743d0517.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125823",
+        "link": {
+          "title": "Infrastructure Takeover: How Leaked MailWizz API Keys Allowed Bypass of Corporate Email Boundaries",
+          "url": "https://medium.com/@m.bafy10/infrastructure-takeover-how-leaked-mailwizz-api-keys-allowed-bypass-of-corporate-email-boundaries-7fe43ca6bcd2?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 125822,
+        "text": "⤷\nTitle:\nThe Agent Did Exactly What It Was Told To Do. That’s the Problem.\n════════════════════════\n𐀪\nAuthor:\nPentest_Testing_Corp\n════════════════════════\nⴵ\nTime:\nTue, 14 Jul 2026 08:52:17 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#penetration_testing\n#ai_security\n#llm_security\n#infosec",
+        "date": "2026-07-14T10:05:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125822_0_480950ab.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125822_1_e85c69d1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125822",
+        "link": {
+          "title": "The Agent Did Exactly What It Was Told To Do. That’s the Problem.",
+          "url": "https://meetcyber.net/the-agent-did-exactly-what-it-was-told-to-do-thats-the-problem-6ae8148877dc?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 125821,
+        "text": "⤷\nTitle:\nInformation Disclosure vulnerabilities: Information Disclosure in Error Messages Walkthrough…\n════════════════════════\n𐀪\nAuthor:\nRahul M S\n════════════════════════\nⴵ\nTime:\nTue, 14 Jul 2026 07:18:23 GMT\n════════════════════════\n⌗\nTags:\n#vapt\n#hacking\n#portswigger_lab\n#security\n#cybersecurity",
+        "date": "2026-07-14T10:05:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125821_0_480950ab.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125821_1_3f277199.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125821",
+        "link": {
+          "title": "Information Disclosure vulnerabilities: Information Disclosure in Error Messages Walkthrough…",
+          "url": "https://1amrahul.medium.com/portswigger-lab-solution-information-disclosure-in-error-messages-walkthrough-apprentice-32882f25d490?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 125820,
+        "text": "⤷\nTitle:\nIf 2FA Exists, Do Passwords Still Matter in 2026?\n════════════════════════\n𐀪\nAuthor:\nSam Writes Security\n════════════════════════\nⴵ\nTime:\nTue, 14 Jul 2026 08:31:00 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#passwords\n#privacy\n#programming\n#hacking",
+        "date": "2026-07-14T10:05:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125820_0_480950ab.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125820_1_34d0671b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125820",
+        "link": {
+          "title": "If 2FA Exists, Do Passwords Still Matter in 2026?",
+          "url": "https://medium.com/secure-words/if-2fa-exists-do-passwords-still-matter-in-2026-a4cb4d499d34?source=rss------hacking-5"
+        }
+      },
+      {
         "id": 125746,
         "text": "⤷\nTitle:\nAccount Takeover via CSRF on the Email-Change Endpoint $1,300 Bounty\n════════════════════════\n𐀪\nAuthor:\nGautam Sharma\n════════════════════════\nⴵ\nTime:\nMon, 13 Jul 2026 17:58:51 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#bug_bounty_tips\n#penetration_testing\n#cybersecurity\n#bug_bounty_writeup",
         "date": "2026-07-13T18:04:30+00:00",
@@ -1812,482 +2268,22 @@
           "title": "Writeup: Thompson en TryHackMe",
           "url": "https://medium.com/@demegorash/writeup-thompson-en-tryhackme-4ebcf5fd41e8?source=rss------tryhackme-5"
         }
-      },
-      {
-        "id": 125629,
-        "text": "⤷\nTitle:\nHow Does Patrick Greenwood Compare to Other Cyberthriller Authors?\n════════════════════════\n𐀪\nAuthor:\nJohn P. Gormally, SR\n════════════════════════\nⴵ\nTime:\nMon, 13 Jul 2026 02:09:10 GMT\n════════════════════════\n⌗\nTags:\n#bitcoin\n#cyber_thriller\n#hacking\n#cybersecurity",
-        "date": "2026-07-13T04:04:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125629_0_b1558c1c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125629_1_f02c136d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125629",
-        "link": {
-          "title": "How Does Patrick Greenwood Compare to Other Cyberthriller Authors?",
-          "url": "https://jpgormally.medium.com/how-does-patrick-greenwood-compare-to-other-cyberthriller-authors-d9020553a2ee?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 125628,
-        "text": "⤷\nTitle:\nStop Wasting Money on WiFi Adapters — Use What You Already Have\n════════════════════════\n𐀪\nAuthor:\nArsh\n════════════════════════\nⴵ\nTime:\nMon, 13 Jul 2026 03:31:00 GMT\n════════════════════════\n⌗\nTags:\n#red_team\n#cybersecurity\n#wifihacking\n#hacking\n#pentesting",
-        "date": "2026-07-13T04:04:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125628_0_b1558c1c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125628_1_e7a197eb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125628",
-        "link": {
-          "title": "Stop Wasting Money on WiFi Adapters — Use What You Already Have",
-          "url": "https://medium.com/@arsh_cipher/stop-wasting-money-on-wifi-adapters-use-what-you-already-have-1d90aa841352?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 125627,
-        "text": "⤷\nTitle:\nWhy “No Internal System Compromise” Does Not Mean No Serious Breach\n════════════════════════\n𐀪\nAuthor:\nDavid SEHYEON Baek\n════════════════════════\nⴵ\nTime:\nMon, 13 Jul 2026 03:59:39 GMT\n════════════════════════\n⌗\nTags:\n#darkweb\n#business\n#cybercrime\n#hacking\n#cybersecurity",
-        "date": "2026-07-13T04:04:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125627_0_b1558c1c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125627_1_6e2872cf.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125627",
-        "link": {
-          "title": "Why “No Internal System Compromise” Does Not Mean No Serious Breach",
-          "url": "https://medium.com/@davidsehyeonbaek/why-no-internal-system-compromise-does-not-mean-no-serious-breach-1fe9e492f1d8?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 125626,
-        "text": "⤷\nTitle:\nThe Wristband Problem\n════════════════════════\n𐀪\nAuthor:\nSentinel Layer\n════════════════════════\nⴵ\nTime:\nMon, 13 Jul 2026 03:01:02 GMT\n════════════════════════\n⌗\nTags:\n#web_security\n#authentication\n#application_security\n#cybersecurity\n#session_hijacking",
-        "date": "2026-07-13T04:04:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125626_0_b1558c1c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125626_1_1431b356.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125626",
-        "link": {
-          "title": "The Wristband Problem",
-          "url": "https://medium.com/@layersentinel/the-wristband-problem-b6147e79fa7d?source=rss------application_security-5"
-        }
-      },
-      {
-        "id": 125625,
-        "text": "⤷\nTitle:\nValid Tokens, Broken Limits: A Race Condition Story\n════════════════════════\n𐀪\nAuthor:\nBavly Zaher\n════════════════════════\nⴵ\nTime:\nMon, 13 Jul 2026 02:12:24 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#bug_bounty_tips\n#race_condition\n#bug_bounty",
-        "date": "2026-07-13T04:04:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125625_0_b1558c1c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125625_1_d37f4c4f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125625",
-        "link": {
-          "title": "Valid Tokens, Broken Limits: A Race Condition Story",
-          "url": "https://medium.com/@pophacker996/valid-tokens-broken-limits-a-race-condition-story-80d90d80093c?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 125624,
-        "text": "⤷\nTitle:\nValid Tokens, Broken Limits: A Race Condition Story\n════════════════════════\n𐀪\nAuthor:\nZeyad Abdelrhman\n════════════════════════\nⴵ\nTime:\nMon, 13 Jul 2026 03:44:50 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_writeup\n#race_condition\n#cybersecurity\n#bug_bounty\n#bug_bounty_tips",
-        "date": "2026-07-13T04:04:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125624_0_b1558c1c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125624_1_eaae387a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125624",
-        "link": {
-          "title": "Valid Tokens, Broken Limits: A Race Condition Story",
-          "url": "https://medium.com/@0Ziiad/valid-tokens-broken-limits-a-race-condition-story-b19a77b26b33?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 125623,
-        "text": "⤷\nTitle:\nCVE-2026-49844: Apache Log4j Emits Invalid JSON Logs\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 13 Jul 2026 00:00:08 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Apache\nLog4j\n#CVE_2026_34481\n#CVE_2026_49844\n#JsonTemplateLayout\n#log4j_api\n#Vulnerability",
-        "date": "2026-07-13T04:04:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125623_0_b1558c1c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125623_1_65be9753.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125623",
-        "link": {
-          "title": "CVE-2026-49844: Apache Log4j Emits Invalid JSON Logs",
-          "url": "https://securityonline.info/apache-log4j-cve-2026-49844/"
-        }
-      },
-      {
-        "id": 125622,
-        "text": "⤷\nTitle:\nMycelium Framework: First AI-as-a-Service Botnet\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 13 Jul 2026 00:38:20 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#AI\nbotnet\n#Cybercrime\n#Mycelium\nFramework",
-        "date": "2026-07-13T04:04:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125622_0_b1558c1c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125622_1_9c9b1a75.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125622",
-        "link": {
-          "title": "Mycelium Framework: First AI-as-a-Service Botnet",
-          "url": "https://securityonline.info/mycelium-framework-ai-as-a-service-botnet/"
-        }
-      },
-      {
-        "id": 125621,
-        "text": "⤷\nTitle:\nWeekly CVE Report: 1,571 New Flaws and 6 Actively Exploited Bugs (July 6–12, 2026)\n════════════════════════\n𐀪\nAuthor:\nddos-admin\n════════════════════════\nⴵ\nTime:\nMon, 13 Jul 2026 01:54:11 +0000\n════════════════════════\n⌗\nTags:\n#Weekly\nRecap\n#actively\nexploited vulnerabilities\n#AI\nagent vulnerabilities\n#CISA\nKEV\n#ColdFusion\n#CVE\nWatchtower\n#Joomla\nRCE\n#Weekly\nCVE Report",
-        "date": "2026-07-13T04:04:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125621_0_b1558c1c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125621_1_275e054f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125621",
-        "link": {
-          "title": "Weekly CVE Report: 1,571 New Flaws and 6 Actively Exploited Bugs (July 6–12, 2026)",
-          "url": "https://securityonline.info/weekly-cve-report-2026-07-06/"
-        }
-      },
-      {
-        "id": 125620,
-        "text": "⤷\nTitle:\nCursor Builds General AI Agent to Rival Claude Cowork\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 13 Jul 2026 03:18:55 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#AI\nagent\n#Anysphere\n#ChatGPT\nWork\n#Claude\nCowork\n#Cursor\nAI\n#Desktop\nAI\n#General\nPurpose AI",
-        "date": "2026-07-13T04:03:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125620_0_b1558c1c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125620_1_14aafabd.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125620",
-        "link": {
-          "title": "Cursor Builds General AI Agent to Rival Claude Cowork",
-          "url": "https://securityonline.info/cursor-ai-agent-claude-cowork/"
-        }
-      },
-      {
-        "id": 125619,
-        "text": "⤷\nTitle:\nSpaceX X Account Breach Exploited for Crypto Scam\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 13 Jul 2026 03:52:01 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#CryptoScam\n#SpaceX\n#Starlink\n#XBreach",
-        "date": "2026-07-13T04:03:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125619_0_b1558c1c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125619_1_9d4b9f06.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125619",
-        "link": {
-          "title": "SpaceX X Account Breach Exploited for Crypto Scam",
-          "url": "https://securityonline.info/spacex-x-account-breach/"
-        }
-      },
-      {
-        "id": 125618,
-        "text": "⤷\nTitle:\nNSA Reinstates Tailored Access Operations for Elite Cyber Unit\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nMon, 13 Jul 2026 03:03:35 +0000\n════════════════════════\n⌗\nTags:\n#Cyber\nSecurity\n#cybersecurity\n#Cyberwarfare\n#NSA\n#TechNews",
-        "date": "2026-07-13T04:03:51+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125618_0_b1558c1c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125618_1_6b7405e7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125618",
-        "link": {
-          "title": "NSA Reinstates Tailored Access Operations for Elite Cyber Unit",
-          "url": "https://meterpreter.org/nsa-tailored-access-operations/"
-        }
-      },
-      {
-        "id": 125617,
-        "text": "⤷\nTitle:\nCyber Threat Sweeps Asia in 2026\n════════════════════════\n𐀪\nAuthor:\nDavid SEHYEON Baek\n════════════════════════\nⴵ\nTime:\nMon, 13 Jul 2026 00:58:45 GMT\n════════════════════════\n⌗\nTags:\n#asia\n#hacking\n#southeast_asia\n#cybercrime\n#cybersecurity",
-        "date": "2026-07-13T02:03:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125617_0_b1558c1c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125617_1_8643a964.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125617",
-        "link": {
-          "title": "Cyber Threat Sweeps Asia in 2026",
-          "url": "https://medium.com/@davidsehyeonbaek/cyber-threat-sweeps-asia-in-2026-09ad247428c1?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 125616,
-        "text": "⤷\nTitle:\nForeign Transaction Fees Explained: How They Work & How to Avoid Them\n════════════════════════\n𐀪\nAuthor:\nPersonal Finance\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 23:08:29 GMT\n════════════════════════\n⌗\nTags:\n#foreign_transactions\n#banks\n#ethical_hacking\n#hacking_tools\n#credit_cards",
-        "date": "2026-07-13T00:03:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125616_0_b1558c1c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125616_1_3ffd6be7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125616",
-        "link": {
-          "title": "Foreign Transaction Fees Explained: How They Work & How to Avoid Them",
-          "url": "https://medium.com/@danielngbin/foreign-transaction-fees-explained-how-they-work-how-to-avoid-them-69a889e117b0?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 125615,
-        "text": "⤷\nTitle:\nVulnhub: Shenron-1 Walkthrough\n════════════════════════\n𐀪\nAuthor:\nFarid Narimanov\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 22:43:23 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#ethical_hacking\n#vulnhub\n#cybersecurity\n#vulnhub_walkthrough",
-        "date": "2026-07-13T00:03:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125615_0_b1558c1c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125615_1_bf23afe1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125615",
-        "link": {
-          "title": "Vulnhub: Shenron-1 Walkthrough",
-          "url": "https://medium.com/@faridnarimanof/vulnhub-shenron-1-walkthrough-acca96a13fdc?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 125614,
-        "text": "⤷\nTitle:\nTryHackMe | SOC L1 Alert Triage — Walkthrough\n════════════════════════\n𐀪\nAuthor:\nOmar Walid Diab\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 20:31:26 GMT\n════════════════════════\n⌗\nTags:\n#siem\n#tryhackme\n#soc\n#alert_triage\n#cybersecurity",
-        "date": "2026-07-12T22:04:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125614_0_b1558c1c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125614_1_391dd0d1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125614",
-        "link": {
-          "title": "TryHackMe | SOC L1 Alert Triage — Walkthrough",
-          "url": "https://medium.com/@omardiab25213/tryhackme-soc-l1-alert-triage-walkthrough-52c5e3c2f84d?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 125613,
-        "text": "⤷\nTitle:\nBrr — TryHackMe: Owning a SCADA Box Through Its Own HMI\n════════════════════════\n𐀪\nAuthor:\nRajsegar Alagarathnam\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 21:13:08 GMT\n════════════════════════\n⌗\nTags:\n#ot_security\n#modbus\n#scada_cyber_security\n#tryhackme\n#cybersecurity",
-        "date": "2026-07-12T22:04:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125613_0_b1558c1c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125613_1_f2b9566c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125613",
-        "link": {
-          "title": "Brr — TryHackMe: Owning a SCADA Box Through Its Own HMI",
-          "url": "https://medium.com/@RajPhantomVector/brr-tryhackme-owning-a-scada-box-through-its-own-hmi-c2d30970f6a5?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 125612,
-        "text": "⤷\nTitle:\nTryHackMe Walking An Application & Content Discovery Walkthrough\n════════════════════════\n𐀪\nAuthor:\nRich\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 21:17:54 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#tryhackme_walkthrough\n#tryhackme_writeup\n#junior_penetration_tester\n#jr_penetration_tester",
-        "date": "2026-07-12T22:04:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125612_0_b1558c1c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125612_1_ddc100a4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125612",
-        "link": {
-          "title": "TryHackMe Walking An Application & Content Discovery Walkthrough",
-          "url": "https://happycamper84.medium.com/tryhackme-walking-an-application-content-discovery-walkthrough-2b7a69cd24f5?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 125611,
-        "text": "⤷\nTitle:\nTryHackMe — CyberLens Write-up\n════════════════════════\n𐀪\nAuthor:\nHamidkhan\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 21:39:05 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#ctf_writeup\n#ctf\n#cybersecurity",
-        "date": "2026-07-12T22:04:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125611_0_b1558c1c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125611_1_ae6bb04b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125611",
-        "link": {
-          "title": "TryHackMe — CyberLens Write-up",
-          "url": "https://hamidcyberr.medium.com/tryhackme-cyberlens-write-up-931fb048c25e?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 125610,
-        "text": "⤷\nTitle:\nTryHackMe — Operation Coldstart\n════════════════════════\n𐀪\nAuthor:\nlb0z\n════════════════════════\nⴵ\nTime:\nSun, 12 Jul 2026 20:12:41 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#cybersecurity\n#hacking\n#tryhackme_walkthrough",
-        "date": "2026-07-12T22:04:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125610_0_b1558c1c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125610_1_c0bc7854.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125610",
-        "link": {
-          "title": "TryHackMe — Operation Coldstart",
-          "url": "https://medium.com/@lb0z/tryhackme-operation-coldstart-fd778212ffbb?source=rss------hacking-5"
-        }
       }
     ]
   },
-  "last_update": "2026-07-14T11:56:32.515862+00:00",
+  "last_update": "2026-07-14T13:01:47.055237+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 193,
-    "total_files": 193,
+    "total_media": 192,
+    "total_files": 192,
     "total_links": 0,
     "files_by_type": {
-      "image": 193
+      "image": 192
     },
-    "referenced_files": 193,
-    "existing_media_files": 193,
-    "total_size_mb": 5.71,
-    "last_calculation": "2026-07-14T11:56:32.518111+00:00"
+    "referenced_files": 192,
+    "existing_media_files": 192,
+    "total_size_mb": 5.68,
+    "last_calculation": "2026-07-14T13:01:47.057522+00:00"
   }
 }
