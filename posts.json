@@ -2,6 +2,228 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 125917,
+        "text": "⤷\nTitle:\n【威脅情資】從 Java RCE 到內網橫向：偽裝成 Defender 的 NisSrv.exe 後門分析\n════════════════════════\n𐀪\nAuthor:\nsegalee\n════════════════════════\nⴵ\nTime:\nWed, 15 Jul 2026 02:01:03 GMT\n════════════════════════\n⌗\nTags:\n#rce\n#cybersecurity\n#fairguard\n#backdoor\n#blue_team",
+        "date": "2026-07-15T02:04:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125917_0_fcb5967a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125917",
+        "link": {
+          "title": "【威脅情資】從 Java RCE 到內網橫向：偽裝成 Defender 的 NisSrv.exe 後門分析",
+          "url": "https://medium.com/@sega_tw/%E5%A8%81%E8%84%85%E6%83%85%E8%B3%87-%E5%BE%9E-java-rce-%E5%88%B0%E5%85%A7%E7%B6%B2%E6%A9%AB%E5%90%91-%E5%81%BD%E8%A3%9D%E6%88%90-defender-%E7%9A%84-nissrv-exe-%E5%BE%8C%E9%96%80%E5%88%86%E6%9E%90-92901cc612ba?source=rss------rce-5"
+        }
+      },
+      {
+        "id": 125916,
+        "text": "⤷\nTitle:\nBreaking CORS : Hunting CORS Misconfigurations For Bug Bounty\n════════════════════════\n𐀪\nAuthor:\nFuzzyy Duck\n════════════════════════\nⴵ\nTime:\nWed, 15 Jul 2026 01:50:24 GMT\n════════════════════════\n⌗\nTags:\n#web_security\n#bug_bounty_tips\n#bug_bounty\n#bug_bounty_writeup\n#web_development",
+        "date": "2026-07-15T02:04:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125916_0_fcb5967a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125916_1_ff9e8060.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125916",
+        "link": {
+          "title": "Breaking CORS : Hunting CORS Misconfigurations For Bug Bounty",
+          "url": "https://osintteam.blog/breaking-cors-hunting-cors-misconfigurations-for-bug-bounty-1f2c36f0e408?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 125915,
+        "text": "⤷\nTitle:\nI Asked the Frontend for Secrets, and It Said Yes\n════════════════════════\n𐀪\nAuthor:\nDevansh Patel\n════════════════════════\nⴵ\nTime:\nWed, 15 Jul 2026 01:51:32 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_tips\n#bug_bounty_hunter\n#bug_bounty\n#bug_bounty_writeup\n#cybersecurity",
+        "date": "2026-07-15T02:04:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125915_0_fcb5967a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125915_1_d1f48f52.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125915",
+        "link": {
+          "title": "I Asked the Frontend for Secrets, and It Said Yes",
+          "url": "https://osintteam.blog/i-asked-the-frontend-for-secrets-and-it-said-yes-7cb62e15f750?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 125914,
+        "text": "⤷\nTitle:\nAPI Fuzzing for Bug Bounty — Part 3: GraphQL Security — The Complete Attack Playbook\n════════════════════════\n𐀪\nAuthor:\nFuzzyy Duck\n════════════════════════\nⴵ\nTime:\nWed, 15 Jul 2026 01:58:14 GMT\n════════════════════════\n⌗\nTags:\n#graphql\n#bug_bounty_tips\n#security\n#bug_bounty_writeup\n#bug_bounty",
+        "date": "2026-07-15T02:04:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125914_0_fcb5967a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125914_1_8309eb7b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125914",
+        "link": {
+          "title": "API Fuzzing for Bug Bounty — Part 3: GraphQL Security — The Complete Attack Playbook",
+          "url": "https://osintteam.blog/api-fuzzing-for-bug-bounty-part-3-graphql-security-the-complete-attack-playbook-5d1c0a91068d?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 125913,
+        "text": "⤷\nTitle:\nThis Tool Found An XSS Bug In 40 Seconds That I Missed Manually For An Hour\n════════════════════════\n𐀪\nAuthor:\nYamini Yadav_369\n════════════════════════\nⴵ\nTime:\nWed, 15 Jul 2026 01:51:16 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#ethical_hacking\n#penetration_testing\n#medium\n#cybersecurity",
+        "date": "2026-07-15T02:04:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125913_0_fcb5967a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125913_1_4c0bb4ec.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125913",
+        "link": {
+          "title": "This Tool Found An XSS Bug In 40 Seconds That I Missed Manually For An Hour",
+          "url": "https://osintteam.blog/this-tool-found-an-xss-bug-in-40-seconds-that-i-missed-manually-for-an-hour-fc193d157178?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 125912,
+        "text": "⤷\nTitle:\nRed Team Domain Shepherding\n════════════════════════\n𐀪\nAuthor:\nRobert Scocca\n════════════════════════\nⴵ\nTime:\nWed, 15 Jul 2026 00:01:03 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#phishing\n#cybersecurity\n#ai\n#web_development",
+        "date": "2026-07-15T02:04:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125912_0_fcb5967a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125912_1_f4670173.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125912",
+        "link": {
+          "title": "Red Team Domain Shepherding",
+          "url": "https://robertscocca.medium.com/red-team-domain-shepherding-ae9c482c0505?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 125911,
+        "text": "⤷\nTitle:\nCredential Stuffing Explained\n════════════════════════\n𐀪\nAuthor:\nCyber T\n════════════════════════\nⴵ\nTime:\nWed, 15 Jul 2026 01:50:07 GMT\n════════════════════════\n⌗\nTags:\n#osint\n#cyber_security_awareness\n#education\n#cybersecurity\n#hacking",
+        "date": "2026-07-15T02:04:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125911_0_fcb5967a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125911_1_6872de43.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125911",
+        "link": {
+          "title": "Credential Stuffing Explained",
+          "url": "https://osintteam.blog/credential-stuffing-explained-856e05ed4c93?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 125910,
+        "text": "⤷\nTitle:\nGuía de Seguridad en LLM: Inyección de Prompts y Explotación de APIs\n════════════════════════\n𐀪\nAuthor:\nJPablo13\n════════════════════════\nⴵ\nTime:\nWed, 15 Jul 2026 00:01:03 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#cybersecurity\n#llm\n#technology\n#bug_bounty",
+        "date": "2026-07-15T02:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125910_0_fcb5967a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125910",
+        "link": {
+          "title": "Guía de Seguridad en LLM: Inyección de Prompts y Explotación de APIs",
+          "url": "https://medium.com/@jpablo13/gu%C3%ADa-de-seguridad-en-llm-inyecci%C3%B3n-de-prompts-y-explotaci%C3%B3n-de-apis-9f7ee0382a62?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 125909,
+        "text": "⤷\nTitle:\nHow I Found a Cross-Student IDOR in Academy LMS That Leaked Correct Quiz Answers\n════════════════════════\n𐀪\nAuthor:\nShikhali Jamalzade\n════════════════════════\nⴵ\nTime:\nWed, 15 Jul 2026 00:03:29 GMT\n════════════════════════\n⌗\nTags:\n#technology\n#wordpress\n#bug_bounty\n#walkthrough\n#cybersecurity",
+        "date": "2026-07-15T02:03:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125909_0_fcb5967a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125909_1_cf628da2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125909",
+        "link": {
+          "title": "How I Found a Cross-Student IDOR in Academy LMS That Leaked Correct Quiz Answers",
+          "url": "https://infosecwriteups.com/how-i-found-a-cross-student-idor-in-academy-lms-that-leaked-correct-quiz-answers-c68bfe06f3a0?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 125908,
+        "text": "⤷\nTitle:\nMicrosoft July 2026 Patch Tuesday Fixes 570 Flaws, Two Zero-Days Exploited in the Wild\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 14 Jul 2026 22:49:57 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#AD\nFS\n#bitlocker\n#Microsoft\n#Patch\nTuesday\n#Sharepoint\n#zero_day",
+        "date": "2026-07-15T02:03:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125908_0_fcb5967a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125908_1_a508f2e5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125908",
+        "link": {
+          "title": "Microsoft July 2026 Patch Tuesday Fixes 570 Flaws, Two Zero-Days Exploited in the Wild",
+          "url": "https://securityonline.info/july-2026-patch-tuesday/"
+        }
+      },
+      {
         "id": 125907,
         "text": "⤷\nTitle:\nWindows Fundamentals 1\n════════════════════════\n𐀪\nAuthor:\nb4t54ndw1ch\n════════════════════════\nⴵ\nTime:\nTue, 14 Jul 2026 21:58:51 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#windows",
         "date": "2026-07-15T00:04:11+00:00",
@@ -2026,232 +2248,10 @@
           "title": "Part 3 — Before Your API Executes: The Network Security Layers Every MuleSoft Architect Should…",
           "url": "https://medium.com/@klokrey/part-3-before-your-api-executes-the-network-security-layers-every-mulesoft-architect-should-258cf7fec8b9?source=rss------api_security-5"
         }
-      },
-      {
-        "id": 125743,
-        "text": "⤷\nTitle:\n​​​ ​​​​​​​​​​​​​ ​​​​​​​\n════════════════════════\n𐀪\nAuthor:\ntheShark817\n════════════════════════\nⴵ\nTime:\nMon, 13 Jul 2026 17:13:08 GMT\n════════════════════════\n⌗\nTags:\n#hackthebox_writeup\n#cybersecurity",
-        "date": "2026-07-13T18:04:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125743_0_480950ab.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125743_1_3affd112.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125743",
-        "link": {
-          "title": "​​​ ​​​​​​​​​​​​​ ​​​​​​​",
-          "url": "https://medium.com/@andrewracecar716/-e14f720698b2?source=rss------hackthebox_writeup-5"
-        }
-      },
-      {
-        "id": 125742,
-        "text": "⤷\nTitle:\nVulnhub: SP-Jerome Walkthrough\n════════════════════════\n𐀪\nAuthor:\nFarid Narimanov\n════════════════════════\nⴵ\nTime:\nMon, 13 Jul 2026 17:52:27 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#ctf\n#cybersecurity\n#vulnhub_walkthrough\n#vulnhub",
-        "date": "2026-07-13T18:04:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125742_0_480950ab.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125742_1_67753c7b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125742",
-        "link": {
-          "title": "Vulnhub: SP-Jerome Walkthrough",
-          "url": "https://medium.com/@faridnarimanof/vulnhub-sp-jerome-walkthrough-379a5927ed6b?source=rss------vulnhub-5"
-        }
-      },
-      {
-        "id": 125741,
-        "text": "⤷\nTitle:\nSigned Messages — LoveNote THM Writeup\n════════════════════════\n𐀪\nAuthor:\nspirit\n════════════════════════\nⴵ\nTime:\nMon, 13 Jul 2026 17:42:30 GMT\n════════════════════════\n⌗\nTags:\n#signed_messages\n#tryhackme\n#thm_writeup\n#ctf_writeup",
-        "date": "2026-07-13T18:04:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125741_0_480950ab.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125741_1_8a0159de.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125741",
-        "link": {
-          "title": "Signed Messages — LoveNote THM Writeup",
-          "url": "https://arvdch.medium.com/signed-messages-lovenote-thm-writeup-fa733e4e5216?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 125740,
-        "text": "⤷\nTitle:\nTHM - Brr\n════════════════════════\n𐀪\nAuthor:\nFrancesco Pastore\n════════════════════════\nⴵ\nTime:\nMon, 13 Jul 2026 16:07:16 GMT\n════════════════════════\n⌗\nTags:\n#tech\n#cybersecurity\n#security\n#technology\n#hacking",
-        "date": "2026-07-13T18:04:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125740_0_480950ab.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125740_1_9eb83071.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125740",
-        "link": {
-          "title": "THM - Brr",
-          "url": "https://2h3ph3rd.medium.com/thm-brr-c52699843a98?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 125739,
-        "text": "⤷\nTitle:\nAttacking Common Services — Owning a Windows File Server Through MSSQL\n════════════════════════\n𐀪\nAuthor:\nAhmet\n════════════════════════\nⴵ\nTime:\nMon, 13 Jul 2026 17:21:48 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#hacking\n#cpt\n#htb_writeup",
-        "date": "2026-07-13T18:04:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125739_0_480950ab.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125739_1_efa098d5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125739",
-        "link": {
-          "title": "Attacking Common Services — Owning a Windows File Server Through MSSQL",
-          "url": "https://medium.com/@cry_02/attacking-common-services-owning-a-windows-file-server-through-mssql-feaa17155123?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 125738,
-        "text": "⤷\nTitle:\nFrom Zero to AppSec: A Fresher’s Guide to Starting Your Application Security Journey\n════════════════════════\n𐀪\nAuthor:\nKamlesh Pendurkar\n════════════════════════\nⴵ\nTime:\nSat, 11 Jul 2026 11:33:30 GMT\n════════════════════════\n⌗\nTags:\n#programming\n#career_advice\n#application_security\n#ethical_hacking\n#cybersecurity",
-        "date": "2026-07-13T18:04:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125738_0_480950ab.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125738_1_1e880a8f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125738",
-        "link": {
-          "title": "From Zero to AppSec: A Fresher’s Guide to Starting Your Application Security Journey",
-          "url": "https://medium.com/@kamleshpen123/from-zero-to-appsec-a-freshers-guide-to-starting-your-application-security-journey-e5edecd84d37?source=rss------application_security-5"
-        }
-      },
-      {
-        "id": 125737,
-        "text": "⤷\nTitle:\nThe OWASP Top 10:2025 — But Make It Salesforce\n════════════════════════\n𐀪\nAuthor:\nMusa Ndlala\n════════════════════════\nⴵ\nTime:\nMon, 13 Jul 2026 16:09:16 GMT\n════════════════════════\n⌗\nTags:\n#devsecops\n#information_security\n#salesforce\n#cybersecurity\n#application_security",
-        "date": "2026-07-13T18:03:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125737_0_480950ab.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125737_1_eb4316b8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125737",
-        "link": {
-          "title": "The OWASP Top 10:2025 — But Make It Salesforce",
-          "url": "https://medium.com/@kmniroi/the-owasp-top-10-2025-but-make-it-salesforce-a924fc6b4bb9?source=rss------application_security-5"
-        }
-      },
-      {
-        "id": 125736,
-        "text": "⤷\nTitle:\nReconnaissance in Cybersecurity: First Step Towards Hacking\n════════════════════════\n𐀪\nAuthor:\nAhmed Ali\n════════════════════════\nⴵ\nTime:\nMon, 13 Jul 2026 17:02:55 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#hacking\n#ethical_hacking\n#bug_bounty\n#ai",
-        "date": "2026-07-13T18:03:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125736_0_480950ab.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125736_1_c892ba0a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125736",
-        "link": {
-          "title": "Reconnaissance in Cybersecurity: First Step Towards Hacking",
-          "url": "https://aydxin.medium.com/reconnaissance-in-cybersecurity-first-step-towards-hacking-85ea3bbfa241?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 125735,
-        "text": "⤷\nTitle:\nGoogle and Microsoft Pull ModHeader With 1.6 Million Installs After Dormant Collector Found\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nMon, 13 Jul 2026 22:47:24 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-07-13T18:03:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125735_0_480950ab.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125735",
-        "link": {
-          "title": "Google and Microsoft Pull ModHeader With 1.6 Million Installs After Dormant Collector Found",
-          "url": "https://thehackernews.com/2026/07/google-and-microsoft-pull-modheader.html"
-        }
-      },
-      {
-        "id": 125734,
-        "text": "⤷\nTitle:\nCrashStealer macOS Malware Uses Notarized Dropper to Pass Gatekeeper Checks\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nMon, 13 Jul 2026 23:06:12 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-07-13T18:03:48+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125734_0_480950ab.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125734",
-        "link": {
-          "title": "CrashStealer macOS Malware Uses Notarized Dropper to Pass Gatekeeper Checks",
-          "url": "https://thehackernews.com/2026/07/crashstealer-macos-malware-uses.html"
-        }
       }
     ]
   },
-  "last_update": "2026-07-15T00:12:58.343865+00:00",
+  "last_update": "2026-07-15T03:44:13.256899+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2264,6 +2264,6 @@
     "referenced_files": 187,
     "existing_media_files": 187,
     "total_size_mb": 4.88,
-    "last_calculation": "2026-07-15T00:12:58.346057+00:00"
+    "last_calculation": "2026-07-15T03:44:13.259181+00:00"
   }
 }
