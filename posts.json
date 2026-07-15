@@ -2,6 +2,458 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 125992,
+        "text": "⤷\nTitle:\nHow I Turned a Database Import Feature into an Internal Network Scanner\n════════════════════════\n𐀪\nAuthor:\nRootxsecurity\n════════════════════════\nⴵ\nTime:\nWed, 15 Jul 2026 06:04:21 GMT\n════════════════════════\n⌗\nTags:\n#bug_hunting\n#bug_bounty\n#cybersecurity\n#ssrf\n#hacking",
+        "date": "2026-07-15T14:05:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125992_0_6cd85efa.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125992_1_2d8f33c0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125992",
+        "link": {
+          "title": "How I Turned a Database Import Feature into an Internal Network Scanner",
+          "url": "https://medium.com/@RootXSec/how-i-turned-a-database-import-feature-into-an-internal-network-scanner-the-art-of-the-ssrf-dbe5f07aface?source=rss------ssrf-5"
+        }
+      },
+      {
+        "id": 125991,
+        "text": "⤷\nTitle:\nOS Command Injection ve Filtre Bypass Teknikleri\n════════════════════════\n𐀪\nAuthor:\nMert Budak\n════════════════════════\nⴵ\nTime:\nWed, 15 Jul 2026 13:17:50 GMT\n════════════════════════\n⌗\nTags:\n#pentesting\n#siber_guvenlik\n#cybersecurity\n#web_security\n#tryhackme",
+        "date": "2026-07-15T14:04:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125991_0_6cd85efa.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125991_1_ac61ad85.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125991",
+        "link": {
+          "title": "OS Command Injection ve Filtre Bypass Teknikleri",
+          "url": "https://mertbudak.medium.com/os-command-injection-ve-filtre-bypass-teknikleri-0c9a4baeca0b?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 125990,
+        "text": "⤷\nTitle:\nTech_Supp0rt: 1 (THM) Tryhackme Walkthrough Easy Challenge\n════════════════════════\n𐀪\nAuthor:\nLawvye\n════════════════════════\nⴵ\nTime:\nWed, 15 Jul 2026 13:57:15 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#privilege_escalation\n#cybersecurity\n#tryhackme\n#linux",
+        "date": "2026-07-15T14:04:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125990_0_6cd85efa.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125990_1_d3050732.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125990",
+        "link": {
+          "title": "Tech_Supp0rt: 1 (THM) Tryhackme Walkthrough Easy Challenge",
+          "url": "https://medium.com/@lawvye/tech-supp0rt-1-thm-tryhackme-walkthrough-easy-challenge-f102f804c228?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 125989,
+        "text": "⤷\nTitle:\nAWS Pentesting | Walkthrough Breach in Cloud — @PWNED Labs\n════════════════════════\n𐀪\nAuthor:\nVyom Maloo\n════════════════════════\nⴵ\nTime:\nWed, 15 Jul 2026 12:17:42 GMT\n════════════════════════\n⌗\nTags:\n#aws\n#pwned_lab\n#cloud_security\n#penetration_testing\n#cybersecurity",
+        "date": "2026-07-15T14:04:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125989_0_6cd85efa.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125989_1_193ef5d4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125989",
+        "link": {
+          "title": "AWS Pentesting | Walkthrough Breach in Cloud — @PWNED Labs",
+          "url": "https://meetcyber.net/aws-pentesting-walkthrough-breach-in-cloud-pwned-labs-1b20bc65d253?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 125988,
+        "text": "⤷\nTitle:\nDefault Security Becomes a Backdoor: Assessing the Smart Wi-Fi Camera\n════════════════════════\n𐀪\nAuthor:\nVeereshgadige\n════════════════════════\nⴵ\nTime:\nWed, 15 Jul 2026 12:35:31 GMT\n════════════════════════\n⌗\nTags:\n#device_security\n#iot_security\n#penetration_testing",
+        "date": "2026-07-15T14:04:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125988_0_6cd85efa.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125988_1_d29e7e97.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125988",
+        "link": {
+          "title": "Default Security Becomes a Backdoor: Assessing the Smart Wi-Fi Camera",
+          "url": "https://medium.com/@veereshgadige8/default-security-becomes-a-backdoor-assessing-the-smart-wi-fi-camera-c121bbb753e4?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 125987,
+        "text": "⤷\nTitle:\nThe Biggest Lie About \"Hacking Gadgets\" That Beginners Believe\n════════════════════════\n𐀪\nAuthor:\nJagadishtripathy\n════════════════════════\nⴵ\nTime:\nWed, 15 Jul 2026 13:31:33 GMT\n════════════════════════\n⌗\nTags:\n#technology\n#penetration_testing\n#information_security\n#cybersecurity\n#ethical_hacking",
+        "date": "2026-07-15T14:04:45+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125987_0_6cd85efa.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125987_1_5eb749fe.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125987",
+        "link": {
+          "title": "The Biggest Lie About \"Hacking Gadgets\" That Beginners Believe",
+          "url": "https://jagadishtripathy.medium.com/the-biggest-lie-about-hacking-gadgets-that-beginners-believe-45b65e2c6c63?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 125986,
+        "text": "⤷\nTitle:\nWSHawk Explained | WebSocket Security Testing Made Easy\n════════════════════════\n𐀪\nAuthor:\nPentester Club\n════════════════════════\nⴵ\nTime:\nWed, 15 Jul 2026 13:48:26 GMT\n════════════════════════\n⌗\nTags:\n#artificial_intelligence\n#web_development\n#hacking\n#apps\n#cybersecurity",
+        "date": "2026-07-15T14:04:41+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125986_0_6cd85efa.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125986_1_f8389cd9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125986",
+        "link": {
+          "title": "WSHawk Explained | WebSocket Security Testing Made Easy",
+          "url": "https://medium.com/@pentesterclubpvtltd/wshawk-explained-websocket-security-testing-made-easy-f8ccd7e14a6d?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 125985,
+        "text": "⤷\nTitle:\nPython Web Penetration Testing\n════════════════════════\n𐀪\nAuthor:\nAman Sharma\n════════════════════════\nⴵ\nTime:\nWed, 15 Jul 2026 12:34:49 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#cybersecurity\n#technology\n#hacking\n#programming",
+        "date": "2026-07-15T14:04:38+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125985_0_6cd85efa.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125985_1_c44edb51.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125985",
+        "link": {
+          "title": "Python Web Penetration Testing",
+          "url": "https://python.plainenglish.io/python-web-penetration-testing-c0d127b69c2f?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 125984,
+        "text": "⤷\nTitle:\nUMANG App Vulnerability: Why Responsible Disclosure Matters More Than Headlines\n════════════════════════\n𐀪\nAuthor:\nRadha Vidhale\n════════════════════════\nⴵ\nTime:\nWed, 15 Jul 2026 12:40:12 GMT\n════════════════════════\n⌗\nTags:\n#cyber_security_awareness\n#cybersecurity\n#vapt\n#bug_bounty\n#umang_app",
+        "date": "2026-07-15T14:04:34+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125984_0_6cd85efa.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125984_1_f821c21e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125984",
+        "link": {
+          "title": "UMANG App Vulnerability: Why Responsible Disclosure Matters More Than Headlines",
+          "url": "https://medium.com/@radhavidhale4/umang-app-vulnerability-why-responsible-disclosure-matters-more-than-headlines-51a87c4fa4f7?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 125983,
+        "text": "⤷\nTitle:\nHow Automatic Link Generation in Transactional Emails Can Introduce Security Risks\n════════════════════════\n𐀪\nAuthor:\nAya Ayman(GERR4Y)\n════════════════════════\nⴵ\nTime:\nWed, 15 Jul 2026 12:49:59 GMT\n════════════════════════\n⌗\nTags:\n#reconnaissance\n#injection\n#phishing\n#bug_bounty",
+        "date": "2026-07-15T14:04:31+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125983_0_6cd85efa.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125983_1_865c973d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125983",
+        "link": {
+          "title": "How Automatic Link Generation in Transactional Emails Can Introduce Security Risks",
+          "url": "https://medium.com/@GERRR4Y/how-automatic-link-generation-in-transactional-emails-can-introduce-security-risks-d83f6b7d54aa?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 125982,
+        "text": "⤷\nTitle:\nI Just Wanted a Cold Coffee. Instead I Found a Master Key to a Vending Machine Empire.\n════════════════════════\n𐀪\nAuthor:\nGokul\n════════════════════════\nⴵ\nTime:\nWed, 15 Jul 2026 12:56:40 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#cybersecurity\n#vdp",
+        "date": "2026-07-15T14:04:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125982_0_6cd85efa.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125982_1_5778ac06.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125982",
+        "link": {
+          "title": "I Just Wanted a Cold Coffee. Instead I Found a Master Key to a Vending Machine Empire.",
+          "url": "https://medium.com/@gokul965/i-just-wanted-a-cold-coffee-instead-i-found-a-master-key-to-a-vending-machine-empire-fc4bad7bc1db?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 125981,
+        "text": "⤷\nTitle:\nKAPE 101: A Kroll Artifact Parser and Extractor Cheatsheet\n════════════════════════\n𐀪\nAuthor:\nBHIS\n════════════════════════\nⴵ\nTime:\nWed, 15 Jul 2026 14:00:00 +0000\n════════════════════════\n⌗\nTags:\n#Blue\nTeam\n#Blue\nTeam Tools\n#DFIR\n#Guest\nAuthor\n#How_To\n#Incident\nResponse\n#Informational\n#Artifact\nExtraction\n#Gerard\nJohansen\n#InfoSec\nSurvival Guide\n#KAPE\n#Windows\nForensic Artifacts",
+        "date": "2026-07-15T14:04:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125981_0_6cd85efa.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125981_1_29c11ec9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125981",
+        "link": {
+          "title": "KAPE 101: A Kroll Artifact Parser and Extractor Cheatsheet",
+          "url": "https://www.blackhillsinfosec.com/kape-cheatsheet/"
+        }
+      },
+      {
+        "id": 125980,
+        "text": "⤷\nTitle:\nLegacyHive: Unpatched Windows Privilege Escalation Exploit Publicly Disclosed\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nWed, 15 Jul 2026 12:52:52 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\n#LegacyHive\n#Nightmare_Eclipse\n#privilege\nescalation\n#Windows\nExploit\n#zero_day",
+        "date": "2026-07-15T14:04:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125980_0_6cd85efa.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125980_1_55769455.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125980",
+        "link": {
+          "title": "LegacyHive: Unpatched Windows Privilege Escalation Exploit Publicly Disclosed",
+          "url": "https://meterpreter.org/legacyhive-windows-privilege-escalation/"
+        }
+      },
+      {
+        "id": 125979,
+        "text": "⤷\nTitle:\nModHeader Extension Removed for Hidden Tracking\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nWed, 15 Jul 2026 12:53:15 +0000\n════════════════════════\n⌗\nTags:\n#Data\nLeak\n#browser\nsecurity\n#data\nprivacy\n#malware\n#ModHeader\n#Tracking",
+        "date": "2026-07-15T14:04:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125979_0_6cd85efa.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125979_1_2063ac43.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125979",
+        "link": {
+          "title": "ModHeader Extension Removed for Hidden Tracking",
+          "url": "https://meterpreter.org/modheader-hidden-tracking/"
+        }
+      },
+      {
+        "id": 125978,
+        "text": "⤷\nTitle:\nUS Sanctions Disrupt 1VPNS Service and Trigger Telegram Domain Outage\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nWed, 15 Jul 2026 13:30:08 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#1VPNS\n#cybersecurity\n#OFAC\n#Telegram\n#US\nSanctions",
+        "date": "2026-07-15T14:04:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125978_0_6cd85efa.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125978_1_4eacfc3b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125978",
+        "link": {
+          "title": "US Sanctions Disrupt 1VPNS Service and Trigger Telegram Domain Outage",
+          "url": "https://meterpreter.org/1vpns-us-sanctions/"
+        }
+      },
+      {
+        "id": 125977,
+        "text": "⤷\nTitle:\nPromptFiction Flaw Auto-Submitted Hidden Prompts in Claude Desktop\n════════════════════════\n𐀪\nAuthor:\nWaqas\n════════════════════════\nⴵ\nTime:\nWed, 15 Jul 2026 12:29:42 +0000\n════════════════════════\n⌗\nTags:\n#Security\n#Artificial\nIntelligence\n#AI\n#Anthropic\n#Claude\n#Cybersecurity\n#Oasis\nSecurity\n#PromptFiction\n#security\n#Vulnerability",
+        "date": "2026-07-15T14:04:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125977_0_6cd85efa.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125977_1_80731ff8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125977",
+        "link": {
+          "title": "PromptFiction Flaw Auto-Submitted Hidden Prompts in Claude Desktop",
+          "url": "https://hackread.com/promptfiction-flaw-auto-prompts-claude-desktop/"
+        }
+      },
+      {
+        "id": 125976,
+        "text": "⤷\nTitle:\nInsignary Launches Clarity On-Demand: SBOMs, No Annual Commitment Required\n════════════════════════\n𐀪\nAuthor:\nCyberNewswire\n════════════════════════\nⴵ\nTime:\nWed, 15 Jul 2026 13:00:06 +0000\n════════════════════════\n⌗\nTags:\n#Press\nRelease\n#Product\nLaunch",
+        "date": "2026-07-15T14:04:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125976_0_6cd85efa.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125976_1_42c6ba65.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125976",
+        "link": {
+          "title": "Insignary Launches Clarity On-Demand: SBOMs, No Annual Commitment Required",
+          "url": "https://hackread.com/insignary-launches-clarity-on-demand-sboms-no-annual-commitment-required/"
+        }
+      },
+      {
+        "id": 125975,
+        "text": "⤷\nTitle:\nPulse Security Debuts Operational Management Platform Built for Security Leaders\n════════════════════════\n𐀪\nAuthor:\nCyberNewswire\n════════════════════════\nⴵ\nTime:\nWed, 15 Jul 2026 13:35:08 +0000\n════════════════════════\n⌗\nTags:\n#Press\nRelease\n#CISO\n#Funding\n#Product\nLaunch",
+        "date": "2026-07-15T14:04:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125975_0_6cd85efa.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125975_1_42dfd73d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125975",
+        "link": {
+          "title": "Pulse Security Debuts Operational Management Platform Built for Security Leaders",
+          "url": "https://hackread.com/pulse-security-debuts-operational-management-platform-built-for-security-leaders/"
+        }
+      },
+      {
+        "id": 125974,
+        "text": "⤷\nTitle:\nNew Webinar: Closing the Approval Gap in AI-Era Ad Tech\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nWed, 15 Jul 2026 16:36:57 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-07-15T14:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125974_0_6cd85efa.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125974",
+        "link": {
+          "title": "New Webinar: Closing the Approval Gap in AI-Era Ad Tech",
+          "url": "https://thehackernews.com/2026/07/new-webinar-closing-approval-gap-in-ai.html"
+        }
+      },
+      {
+        "id": 125973,
+        "text": "⤷\nTitle:\nResearcher Drops New Windows Zero-Day PoC Hours After Microsoft Patch Tuesday\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nWed, 15 Jul 2026 16:37:07 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-07-15T14:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_125973_0_6cd85efa.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/125973",
+        "link": {
+          "title": "Researcher Drops New Windows Zero-Day PoC Hours After Microsoft Patch Tuesday",
+          "url": "https://thehackernews.com/2026/07/researcher-drops-new-windows-zero-day.html"
+        }
+      },
+      {
         "id": 125970,
         "text": "⤷\nTitle:\nHTTP QUERY Method: A New Era for API Query Operations\n════════════════════════\n𐀪\nAuthor:\nShubham Girme\n════════════════════════\nⴵ\nTime:\nWed, 15 Jul 2026 11:03:40 GMT\n════════════════════════\n⌗\nTags:\n#http_query_method\n#http_methods\n#query_vs_get_vs_post\n#api_security\n#https",
         "date": "2026-07-15T12:04:35+00:00",
@@ -1796,478 +2248,22 @@
           "title": "File Inclusion Challenge (TryHackMe)",
           "url": "https://medium.com/@ivasenetanikita/file-inclusion-challenge-tryhackme-f95e27388c26?source=rss------tryhackme-5"
         }
-      },
-      {
-        "id": 125890,
-        "text": "⤷\nTitle:\nSakura Room -OSINT TryHackMe Guide/Walkthrough\n════════════════════════\n𐀪\nAuthor:\nCallum Clark\n════════════════════════\nⴵ\nTime:\nTue, 14 Jul 2026 17:44:31 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#technology\n#ctf_writeup\n#tryhackme\n#osint",
-        "date": "2026-07-14T18:04:40+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125890_0_fcb5967a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125890_1_79aa22f9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125890",
-        "link": {
-          "title": "Sakura Room -OSINT TryHackMe Guide/Walkthrough",
-          "url": "https://medium.com/@cjc.cyber/sakura-room-osint-tryhackme-guide-walkthrough-828b9dc83aea?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 125889,
-        "text": "⤷\nTitle:\nMy First Android Malware Reverse Engineering: Analyzing a Fake Bank of India Re-KYC APK\n════════════════════════\n𐀪\nAuthor:\nAdityabhosale\n════════════════════════\nⴵ\nTime:\nTue, 14 Jul 2026 16:25:38 GMT\n════════════════════════\n⌗\nTags:\n#mobile_hacking\n#reverse_engineering\n#hacking\n#scam\n#cybersecurity",
-        "date": "2026-07-14T18:04:37+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125889_0_fcb5967a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125889_1_b4d6b411.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125889",
-        "link": {
-          "title": "My First Android Malware Reverse Engineering: Analyzing a Fake Bank of India Re-KYC APK",
-          "url": "https://medium.com/@adityabhosale212223/my-first-android-malware-reverse-engineering-analyzing-a-fake-bank-of-india-re-kyc-apk-1cbe63d98d8d?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 125888,
-        "text": "⤷\nTitle:\nOur Household Got Hacked by AI, and Yours Probably Will Too (Part 1)\n════════════════════════\n𐀪\nAuthor:\nBrian Julius\n════════════════════════\nⴵ\nTime:\nTue, 14 Jul 2026 17:07:55 GMT\n════════════════════════\n⌗\nTags:\n#data_protection\n#ai\n#action_plan\n#hacking\n#passkey",
-        "date": "2026-07-14T18:04:33+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125888_0_fcb5967a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125888_1_db4e85d4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125888",
-        "link": {
-          "title": "Our Household Got Hacked by AI, and Yours Probably Will Too (Part 1)",
-          "url": "https://medium.com/@brjul2/our-household-got-hacked-by-ai-and-yours-probably-will-too-part-1-588556d928ed?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 125887,
-        "text": "⤷\nTitle:\nAPI Hacking Basics Every Bug Bounty Hunter Should Know\n════════════════════════\n𐀪\nAuthor:\nMasood Nfc\n════════════════════════\nⴵ\nTime:\nTue, 14 Jul 2026 16:11:23 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#web_security\n#hacking\n#api\n#cybersecurity",
-        "date": "2026-07-14T18:04:30+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125887_0_fcb5967a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125887_1_07ab4842.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125887",
-        "link": {
-          "title": "API Hacking Basics Every Bug Bounty Hunter Should Know",
-          "url": "https://medium.com/@masood.nfc77/api-hacking-basics-every-bug-bounty-hunter-should-know-db2931d7323a?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 125886,
-        "text": "⤷\nTitle:\nThe Mindset Shift That Changed My Bug Bounty Results\n════════════════════════\n𐀪\nAuthor:\nMasood Nfc\n════════════════════════\nⴵ\nTime:\nTue, 14 Jul 2026 16:13:40 GMT\n════════════════════════\n⌗\nTags:\n#mindset\n#cybersecurity\n#bug_bounty\n#web_security\n#hacking",
-        "date": "2026-07-14T18:04:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125886_0_fcb5967a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125886_1_057a6f18.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125886",
-        "link": {
-          "title": "The Mindset Shift That Changed My Bug Bounty Results",
-          "url": "https://medium.com/@masood.nfc77/the-mindset-shift-that-changed-my-bug-bounty-results-78c055e58010?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 125885,
-        "text": "⤷\nTitle:\nAnthropic API Billing Error Hits Developer for $16M\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 14 Jul 2026 12:45:28 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#Anthropic\n#Billing\nError\n#Claude\nAPI\n#cybersecurity\n#Tech\nNews",
-        "date": "2026-07-14T18:04:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125885_0_fcb5967a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125885_1_dbc436b5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125885",
-        "link": {
-          "title": "Anthropic API Billing Error Hits Developer for $16M",
-          "url": "https://securityonline.info/anthropic-api-billing-error/"
-        }
-      },
-      {
-        "id": 125884,
-        "text": "⤷\nTitle:\nPublic Exploit and Details Released for Bad Epoll Root Flaw (CVE-2026-46242)\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 14 Jul 2026 13:00:53 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#android\n#Bad\nEpoll\n#CVE_2026_43074\n#CVE_2026_46242\n#epoll\n#kernelCTF\n#Linux\nKernel\n#privilege\nescalation\n#use\nafter free",
-        "date": "2026-07-14T18:04:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125884_0_fcb5967a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125884_1_556c20ae.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125884",
-        "link": {
-          "title": "Public Exploit and Details Released for Bad Epoll Root Flaw (CVE-2026-46242)",
-          "url": "https://securityonline.info/bad-epoll-cve-2026-46242/"
-        }
-      },
-      {
-        "id": 125883,
-        "text": "⤷\nTitle:\nCVE-2026-59948: PHP Composer Flaw Lets Packages Execute Code Outside the Project Context\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 14 Jul 2026 13:30:50 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Arbitrary\nFile Write\n#CVE_2026_59946\n#CVE_2026_59947\n#CVE_2026_59948\n#Path\nTraversal\n#PHP\nComposer\n#Supply\nChain",
-        "date": "2026-07-14T18:04:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125883_0_fcb5967a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125883_1_5974ea00.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125883",
-        "link": {
-          "title": "CVE-2026-59948: PHP Composer Flaw Lets Packages Execute Code Outside the Project Context",
-          "url": "https://securityonline.info/php-composer-cve-2026-59948/"
-        }
-      },
-      {
-        "id": 125882,
-        "text": "⤷\nTitle:\nCVE-2026-56000: Use-After-Free Flaw Hits X.Org Server and Xwayland\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 14 Jul 2026 14:03:45 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_55999\n#CVE_2026_56000\n#Heap\nBuffer Overflow\n#Linux\nSecurity\n#use\nafter free\n#X\n.Org Server\n#XWayland",
-        "date": "2026-07-14T18:04:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125882_0_fcb5967a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125882_1_c68eca29.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125882",
-        "link": {
-          "title": "CVE-2026-56000: Use-After-Free Flaw Hits X.Org Server and Xwayland",
-          "url": "https://securityonline.info/xorg-server-cve-2026-56000/"
-        }
-      },
-      {
-        "id": 125881,
-        "text": "⤷\nTitle:\nExploited in the Wild? Debian Webhost Rooted as Public PoCs Land for Bad Epoll (CVE-2026-46242) and IPv6 Frag Escape\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 14 Jul 2026 14:08:07 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Bad\nEpoll\n#CVE_2026_46242\n#CVE_2026_53362\n#Linux\nKernel\n#privilege\nescalation",
-        "date": "2026-07-14T18:04:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125881_0_fcb5967a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125881_1_e26641a9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125881",
-        "link": {
-          "title": "Exploited in the Wild? Debian Webhost Rooted as Public PoCs Land for Bad Epoll (CVE-2026-46242) and IPv6 Frag Escape",
-          "url": "https://securityonline.info/bad-epoll-cve-2026-46242-2/"
-        }
-      },
-      {
-        "id": 125880,
-        "text": "⤷\nTitle:\nCVE-2026-53481 & CVE-2026-53483: Dell PowerProtect Full Takeover (9.8)\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 14 Jul 2026 14:53:41 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_53483\n#Dell\nvulnerabilities\n#PowerProtect",
-        "date": "2026-07-14T18:04:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125880_0_fcb5967a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125880_1_2ebc71c5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125880",
-        "link": {
-          "title": "CVE-2026-53481 & CVE-2026-53483: Dell PowerProtect Full Takeover (9.8)",
-          "url": "https://securityonline.info/cve-2026-53483-take-complete-control-system/"
-        }
-      },
-      {
-        "id": 125879,
-        "text": "⤷\nTitle:\nTego AI Finds Claude Tag Slack Integration Can Trigger Unauthorized Enterprise Actions\n════════════════════════\n𐀪\nAuthor:\ncybernewswire\n════════════════════════\nⴵ\nTime:\nTue, 14 Jul 2026 16:46:51 +0000\n════════════════════════\n⌗\nTags:\n#Press\nRelease",
-        "date": "2026-07-14T18:04:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125879_0_fcb5967a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125879_1_738d994a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125879",
-        "link": {
-          "title": "Tego AI Finds Claude Tag Slack Integration Can Trigger Unauthorized Enterprise Actions",
-          "url": "https://securityonline.info/tego-ai-finds-claude-tag-slack-integration-can-trigger-unauthorized-enterprise-actions/"
-        }
-      },
-      {
-        "id": 125878,
-        "text": "⤷\nTitle:\nTego AI Finds Claude Tag Slack Integration Can Trigger Unauthorized Enterprise Actions\n════════════════════════\n𐀪\nAuthor:\nCyberNewswire\n════════════════════════\nⴵ\nTime:\nTue, 14 Jul 2026 16:47:00 +0000\n════════════════════════\n⌗\nTags:\n#Press\nRelease\n#Research",
-        "date": "2026-07-14T18:03:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125878_0_fcb5967a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125878_1_247cad3d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125878",
-        "link": {
-          "title": "Tego AI Finds Claude Tag Slack Integration Can Trigger Unauthorized Enterprise Actions",
-          "url": "https://hackread.com/tego-ai-finds-claude-tag-slack-integration-can-trigger-unauthorized-enterprise-actions/"
-        }
-      },
-      {
-        "id": 125877,
-        "text": "⤷\nTitle:\nUpwind Finds Coordinated Supply Chain Campaign Compromising Multiple AsyncAPI npm Packages\n════════════════════════\n𐀪\nAuthor:\nOwais Sultan\n════════════════════════\nⴵ\nTime:\nTue, 14 Jul 2026 17:31:15 +0000\n════════════════════════\n⌗\nTags:\n#Security\n#AsyncAPI\n#Cyber\nAttack\n#Cybersecurity\n#NPM\n#Supply\nChain\n#Upwind\n#Vulnerability",
-        "date": "2026-07-14T18:03:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125877_0_fcb5967a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125877_1_29a7a423.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125877",
-        "link": {
-          "title": "Upwind Finds Coordinated Supply Chain Campaign Compromising Multiple AsyncAPI npm Packages",
-          "url": "https://hackread.com/upwind-supply-chain-compromise-asyncapi-npm-packages/"
-        }
-      },
-      {
-        "id": 125876,
-        "text": "⤷\nTitle:\nLabubaRAT Masquerades as NVIDIA Software to Control Windows Hosts\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nTue, 14 Jul 2026 22:22:37 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-07-14T18:03:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125876_0_fcb5967a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125876",
-        "link": {
-          "title": "LabubaRAT Masquerades as NVIDIA Software to Control Windows Hosts",
-          "url": "https://thehackernews.com/2026/07/labubarat-masquerades-as-nvidia.html"
-        }
-      },
-      {
-        "id": 125875,
-        "text": "⤷\nTitle:\nYour License Plate is a Remote Key: The 2024 Kia API Hack Case Study\n════════════════════════\n𐀪\nAuthor:\nShreypatel\n════════════════════════\nⴵ\nTime:\nTue, 14 Jul 2026 14:41:26 GMT\n════════════════════════\n⌗\nTags:\n#automotive_security\n#cybersecurity\n#api_security\n#car_hacking\n#technology",
-        "date": "2026-07-14T16:04:42+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125875_0_fcb5967a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125875_1_96fd79a0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125875",
-        "link": {
-          "title": "Your License Plate is a Remote Key: The 2024 Kia API Hack Case Study",
-          "url": "https://medium.com/@shreypatel25907/your-license-plate-is-a-remote-key-the-2024-kia-api-hack-case-study-7b980b80a0d7?source=rss------api_security-5"
-        }
-      },
-      {
-        "id": 125874,
-        "text": "⤷\nTitle:\nVulnerability: Blind OS Command Injection with Output Redirection\n════════════════════════\n𐀪\nAuthor:\nEthical Hacker\n════════════════════════\nⴵ\nTime:\nTue, 14 Jul 2026 14:26:09 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#pentesting\n#web_security\n#ethical_hacking",
-        "date": "2026-07-14T16:04:39+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125874_0_fcb5967a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125874_1_bef61c8a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125874",
-        "link": {
-          "title": "Vulnerability: Blind OS Command Injection with Output Redirection",
-          "url": "https://medium.com/@tonmoybarmon/vulnerability-blind-os-command-injection-with-output-redirection-efd962a5f259?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 125873,
-        "text": "⤷\nTitle:\nEtika Peretasan: Garis Tipis Antara Keamanan Jaringan dan Pelanggaran Privasi\n════════════════════════\n𐀪\nAuthor:\nJ for Jay\n════════════════════════\nⴵ\nTime:\nTue, 14 Jul 2026 14:29:50 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ethical_hacking\n#information_security\n#privacy\n#technology",
-        "date": "2026-07-14T16:04:36+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125873_0_fcb5967a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125873_1_98e0296d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125873",
-        "link": {
-          "title": "Etika Peretasan: Garis Tipis Antara Keamanan Jaringan dan Pelanggaran Privasi",
-          "url": "https://medium.com/@wijayak433/etika-peretasan-garis-tipis-antara-keamanan-jaringan-dan-pelanggaran-privasi-cc0b8330cd71?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 125872,
-        "text": "⤷\nTitle:\nWhereCTF — Docker Forensics Challenge\n════════════════════════\n𐀪\nAuthor:\necstasyyy\n════════════════════════\nⴵ\nTime:\nTue, 14 Jul 2026 15:49:33 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#digital_forensics\n#netanixctf",
-        "date": "2026-07-14T16:04:32+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125872_0_fcb5967a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125872_1_de8400f1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125872",
-        "link": {
-          "title": "WhereCTF — Docker Forensics Challenge",
-          "url": "https://medium.com/@0xh4ck3rm4n/wherectf-docker-forensics-challenge-54d86d75fbea?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 125871,
-        "text": "⤷\nTitle:\nTakeOver | TryHackMe | Writeup\n════════════════════════\n𐀪\nAuthor:\nSiapaHeker\n════════════════════════\nⴵ\nTime:\nTue, 14 Jul 2026 14:08:21 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#ctf_writeup\n#tryhackme_walkthrough\n#ctf\n#cybersecurity",
-        "date": "2026-07-14T16:04:28+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125871_0_fcb5967a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125871_1_918f084a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125871",
-        "link": {
-          "title": "TakeOver | TryHackMe | Writeup",
-          "url": "https://medium.com/@aryaganzz09/takeover-tryhackme-writeup-b547326910e0?source=rss------tryhackme-5"
-        }
       }
     ]
   },
-  "last_update": "2026-07-15T12:10:36.500616+00:00",
+  "last_update": "2026-07-15T14:19:00.225179+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 188,
-    "total_files": 188,
+    "total_media": 187,
+    "total_files": 187,
     "total_links": 0,
     "files_by_type": {
-      "image": 188
+      "image": 187
     },
-    "referenced_files": 188,
-    "existing_media_files": 188,
-    "total_size_mb": 5.5,
-    "last_calculation": "2026-07-15T12:10:36.502912+00:00"
+    "referenced_files": 187,
+    "existing_media_files": 187,
+    "total_size_mb": 5.62,
+    "last_calculation": "2026-07-15T14:19:00.226899+00:00"
   }
 }
