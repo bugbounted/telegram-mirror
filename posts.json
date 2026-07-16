@@ -2,6 +2,190 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 126152,
+        "text": "⤷\nTitle:\nHow I Discovered a Weak Login Function Over HTTP That Exposed User Credentials\n════════════════════════\n𐀪\nAuthor:\nkirti soni\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 16:12:07 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_writeup\n#owasp_top_10",
+        "date": "2026-07-16T18:04:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126152_0_7475f475.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126152_1_903afeef.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126152",
+        "link": {
+          "title": "How I Discovered a Weak Login Function Over HTTP That Exposed User Credentials",
+          "url": "https://medium.com/@kirti.soni010/how-i-discovered-a-weak-login-function-over-http-that-exposed-user-credentials-f7ab18a4fb15?source=rss------bug_bounty_writeup-5"
+        }
+      },
+      {
+        "id": 126151,
+        "text": "⤷\nTitle:\nBasic Pentesting Tryhackme Room\n════════════════════════\n𐀪\nAuthor:\nDuong\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 16:56:03 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_walkthrough\n#tryhackme\n#tryhackme_writeup",
+        "date": "2026-07-16T18:04:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126151_0_7475f475.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126151_1_18d89215.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126151",
+        "link": {
+          "title": "Basic Pentesting Tryhackme Room",
+          "url": "https://medium.com/@duong26012002/basic-pentesting-tryhackme-room-42546eccc036?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 126150,
+        "text": "⤷\nTitle:\nTryHackMe Write-up: The Game.\n════════════════════════\n𐀪\nAuthor:\nCalofir Marius Adrian\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 16:58:24 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#tryhackme_writeup\n#the_game\n#ctf_write_ups",
+        "date": "2026-07-16T18:04:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126150_0_7475f475.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126150_1_78bda5d6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126150",
+        "link": {
+          "title": "TryHackMe Write-up: The Game.",
+          "url": "https://calofir-adrian.medium.com/write-up-for-the-game-thm-78aab164545e?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 126149,
+        "text": "⤷\nTitle:\nThat’s The Ticket — TryHackMe WriteUp with Flags\n════════════════════════\n𐀪\nAuthor:\nRayenhafsawy\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 17:21:39 GMT\n════════════════════════\n⌗\nTags:\n#ctf\n#tryhackme\n#tryhackme_writeup\n#tryhackme_walkthrough\n#cybersecurity",
+        "date": "2026-07-16T18:04:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126149_0_7475f475.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126149_1_9dd9e369.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126149",
+        "link": {
+          "title": "That’s The Ticket — TryHackMe WriteUp with Flags",
+          "url": "https://medium.com/@rayenhafsawy/thats-the-ticket-tryhackme-writeup-with-flags-18cb0920c468?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 126148,
+        "text": "⤷\nTitle:\nRooting DC-2: WordPress, Custom Wordlists, and a Restricted Shell Breakout\n════════════════════════\n𐀪\nAuthor:\nSithum Ranasinghe\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 17:11:32 GMT\n════════════════════════\n⌗\nTags:\n#ctf\n#vulnhub_walkthrough\n#penetration_testing",
+        "date": "2026-07-16T18:04:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126148_0_7475f475.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126148_1_d7357cc5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126148",
+        "link": {
+          "title": "Rooting DC-2: WordPress, Custom Wordlists, and a Restricted Shell Breakout",
+          "url": "https://medium.com/@sithumsryt/rooting-dc-2-wordpress-custom-wordlists-and-a-restricted-shell-breakout-f14260b5dbdb?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 126147,
+        "text": "⤷\nTitle:\nHow i hacked HTB paperwork with exposed LPD service .\n════════════════════════\n𐀪\nAuthor:\nBroy\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 17:11:16 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#hackthebox\n#exploitation\n#cybersecurity",
+        "date": "2026-07-16T18:03:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126147_0_7475f475.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126147_1_79b25332.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126147",
+        "link": {
+          "title": "How i hacked HTB paperwork with exposed LPD service .",
+          "url": "https://medium.com/@broy353671/how-i-hacked-htb-paperwork-with-exposed-lpd-service-c292fd706eae?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 126146,
+        "text": "⤷\nTitle:\nIt Was Just a Number!!?\n════════════════════════\n𐀪\nAuthor:\nAbdelrahman Maged\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 16:02:56 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#web_penetration_testing\n#hacker\n#penetration_testing\n#bug_bounty",
+        "date": "2026-07-16T18:03:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126146_0_7475f475.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126146_1_e1b22e0b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126146",
+        "link": {
+          "title": "It Was Just a Number!!?",
+          "url": "https://medium.com/@abdelrahman.maged.cg/it-was-just-a-number-6547f360a1b2?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 126145,
+        "text": "⤷\nTitle:\nStored XSS via SVG File Upload Leading to Account Takeover in an LMS Platform\n════════════════════════\n𐀪\nAuthor:\nHossein Zarei\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 16:38:37 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_tips\n#web_security\n#pentesting\n#bug_bounty\n#cybersecurity",
+        "date": "2026-07-16T18:03:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126145_0_7475f475.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126145_1_3b7a164f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126145",
+        "link": {
+          "title": "Stored XSS via SVG File Upload Leading to Account Takeover in an LMS Platform",
+          "url": "https://medium.com/@hossein.za68/stored-xss-via-svg-file-upload-leading-to-account-takeover-in-an-lms-platform-c3266453c9a0?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 126144,
         "text": "⤷\nTitle:\nFungames Write-Up\n════════════════════════\n𐀪\nAuthor:\nTamerlan Shabanov\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 14:42:25 GMT\n════════════════════════\n⌗\nTags:\n#blue_team\n#cybersecurity\n#btlo\n#network_forensics\n#sql_injection",
         "date": "2026-07-16T16:04:49+00:00",
@@ -2068,194 +2252,10 @@
           "title": "Hammer | THM — Walkthrough",
           "url": "https://root0x09.medium.com/hammer-thm-walkthrough-1c3d5f43aaff?source=rss------tryhackme-5"
         }
-      },
-      {
-        "id": 126052,
-        "text": "⤷\nTitle:\nTryHackMe Series #4 — Linux Privilege Escalation\n════════════════════════\n𐀪\nAuthor:\nDeepanshusharma\n════════════════════════\nⴵ\nTime:\nWed, 15 Jul 2026 20:02:22 GMT\n════════════════════════\n⌗\nTags:\n#linux\n#penetration_testing\n#tryhackme\n#privilege_escalation\n#cybersecurity",
-        "date": "2026-07-15T22:04:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126052_0_6cd85efa.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126052_1_9d658db8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126052",
-        "link": {
-          "title": "TryHackMe Series #4 — Linux Privilege Escalation",
-          "url": "https://medium.com/@deepanshu123sharma4/tryhackme-series-4-linux-privilege-escalation-7ba97e7930c8?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 126051,
-        "text": "⤷\nTitle:\nActive Directory Fundamentals — Complete Beginner Notes\n════════════════════════\n𐀪\nAuthor:\nNASRALLAH SALEH (Xiro0x)\n════════════════════════\nⴵ\nTime:\nWed, 15 Jul 2026 21:30:43 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#thm_writeup\n#windows\n#red_team\n#active_directory",
-        "date": "2026-07-15T22:03:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126051_0_6cd85efa.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126051_1_5d3b6b0b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126051",
-        "link": {
-          "title": "Active Directory Fundamentals — Complete Beginner Notes",
-          "url": "https://medium.com/@Xiro0x01/active-directory-fundamentals-complete-beginner-notes-69f3b10a1b55?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 126050,
-        "text": "⤷\nTitle:\nUnderstanding SSH & SSH Keys: The Foundation Every Linux Learner Should Know\n════════════════════════\n𐀪\nAuthor:\nSowmya Goud\n════════════════════════\nⴵ\nTime:\nWed, 15 Jul 2026 20:55:19 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#devops\n#linux\n#cybersecurity\n#ssh_keys",
-        "date": "2026-07-15T22:03:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126050_0_6cd85efa.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126050_1_0624ee93.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126050",
-        "link": {
-          "title": "Understanding SSH & SSH Keys: The Foundation Every Linux Learner Should Know",
-          "url": "https://medium.com/@sowmyagoud0219/understanding-ssh-ssh-keys-the-foundation-every-linux-learner-should-know-fbb2b49d2617?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 126049,
-        "text": "⤷\nTitle:\nA Threat Model of The GL Inet Web Router\n════════════════════════\n𐀪\nAuthor:\nAleksa Zatezalo\n════════════════════════\nⴵ\nTime:\nWed, 15 Jul 2026 21:23:36 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#threat_modeling\n#gl_inet",
-        "date": "2026-07-15T22:03:51+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126049_0_6cd85efa.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126049_1_29e7de96.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126049",
-        "link": {
-          "title": "A Threat Model of The GL Inet Web Router",
-          "url": "https://aleksazatezalo.medium.com/a-threat-model-of-the-gl-inet-web-router-a199f5552138?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 126048,
-        "text": "⤷\nTitle:\nYour First Cybersecurity Lab: Setting Up a Virtual Machine From Scratch\n════════════════════════\n𐀪\nAuthor:\nHEKKO\n════════════════════════\nⴵ\nTime:\nWed, 15 Jul 2026 19:53:26 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#cybersecurity\n#internships\n#tryhackme_walkthrough\n#linkedin",
-        "date": "2026-07-15T20:04:38+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126048_0_6cd85efa.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126048_1_11637a87.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126048",
-        "link": {
-          "title": "Your First Cybersecurity Lab: Setting Up a Virtual Machine From Scratch",
-          "url": "https://hekko-x.medium.com/your-first-cybersecurity-lab-setting-up-a-virtual-machine-from-scratch-180f271731da?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 126047,
-        "text": "⤷\nTitle:\nSummit -TryHackMe Walkthrough\n════════════════════════\n𐀪\nAuthor:\nOm Fulsundar\n════════════════════════\nⴵ\nTime:\nWed, 15 Jul 2026 18:31:01 GMT\n════════════════════════\n⌗\nTags:\n#summit\n#tryhackme\n#walkthrough\n#tryhackme_writeup\n#tryhackme_walkthrough",
-        "date": "2026-07-15T20:04:35+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126047_0_6cd85efa.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126047_1_032791d3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126047",
-        "link": {
-          "title": "Summit -TryHackMe Walkthrough",
-          "url": "https://medium.com/@om.fulsundar.7370/summit-tryhackme-walkthrough-4cf4094acf91?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 126046,
-        "text": "⤷\nTitle:\nPlug & Pray (HTB Write-up)\n════════════════════════\n𐀪\nAuthor:\nVentie\n════════════════════════\nⴵ\nTime:\nWed, 15 Jul 2026 19:17:46 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#ctf\n#cybersecurity\n#hackthebox\n#iot_security",
-        "date": "2026-07-15T20:04:31+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126046_0_6cd85efa.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126046_1_4d28c744.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126046",
-        "link": {
-          "title": "Plug & Pray (HTB Write-up)",
-          "url": "https://medium.com/@ventie/plug-pray-htb-write-up-3031d00ea0a0?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 126045,
-        "text": "⤷\nTitle:\nDay 10: MITRE ATT&CK Framework — Understanding the Language of Modern Cyber Defense\n════════════════════════\n𐀪\nAuthor:\nSIAM AHMED\n════════════════════════\nⴵ\nTime:\nWed, 15 Jul 2026 18:05:10 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#technology\n#infosec\n#deep_learning\n#security",
-        "date": "2026-07-15T20:04:28+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126045_0_6cd85efa.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126045_1_0f5bf890.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126045",
-        "link": {
-          "title": "Day 10: MITRE ATT&CK Framework — Understanding the Language of Modern Cyber Defense",
-          "url": "https://medium.com/@ahmedseam094/day-10-mitre-att-ck-framework-understanding-the-language-of-modern-cyber-defense-ea477c8d084f?source=rss------infosec-5"
-        }
       }
     ]
   },
-  "last_update": "2026-07-16T17:46:48.830795+00:00",
+  "last_update": "2026-07-16T18:54:17.655759+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2267,7 +2267,7 @@
     },
     "referenced_files": 188,
     "existing_media_files": 188,
-    "total_size_mb": 5.53,
-    "last_calculation": "2026-07-16T17:46:48.832521+00:00"
+    "total_size_mb": 5.36,
+    "last_calculation": "2026-07-16T18:54:17.657957+00:00"
   }
 }
