@@ -2,6 +2,400 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 126127,
+        "text": "⤷\nTitle:\n(IDOR)Allows Deletion of OpenAPI Specification Files Across Organizations\n════════════════════════\n𐀪\nAuthor:\nX-Ghost\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 12:52:09 GMT\n════════════════════════\n⌗\nTags:\n#web_app_pentesting\n#bug_bounty_writeup\n#cybersecurity",
+        "date": "2026-07-16T14:04:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126127_0_7475f475.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126127_1_02c8bdfe.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126127",
+        "link": {
+          "title": "(IDOR)Allows Deletion of OpenAPI Specification Files Across Organizations",
+          "url": "https://medium.com/@X-Ghost/idor-allows-deletion-of-openapi-specification-files-across-organizations-22fe4d79711d?source=rss------bug_bounty_writeup-5"
+        }
+      },
+      {
+        "id": 126126,
+        "text": "⤷\nTitle:\nMonitoring Active Directory with Splunk: Finding Anomalies in High-Volume Logs | TryHackMe…\n════════════════════════\n𐀪\nAuthor:\nManahilfatimamalik\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 12:47:53 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#splunk\n#tryhackme\n#active_directory\n#siem",
+        "date": "2026-07-16T14:04:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126126_0_7475f475.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126126_1_42d6c80a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126126",
+        "link": {
+          "title": "Monitoring Active Directory with Splunk: Finding Anomalies in High-Volume Logs | TryHackMe…",
+          "url": "https://medium.com/@manahilfatimamalik420/monitoring-active-directory-with-splunk-finding-anomalies-in-high-volume-logs-tryhackme-7d3b7e12ea5b?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 126125,
+        "text": "⤷\nTitle:\nTryHackMe — Hunt Me I: Payment Collectors\n════════════════════════\n𐀪\nAuthor:\nEfe Özel\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 13:54:02 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#splunk\n#tryhackme\n#tryhackme_walkthrough\n#soc_analyst",
+        "date": "2026-07-16T14:04:45+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126125_0_7475f475.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126125_1_d87b37bc.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126125",
+        "link": {
+          "title": "TryHackMe — Hunt Me I: Payment Collectors",
+          "url": "https://medium.com/@efeqozel/tryhackme-hunt-me-i-payment-collectors-d4e7277cb9fe?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 126124,
+        "text": "⤷\nTitle:\nBlue | TryHackMe\n════════════════════════\n𐀪\nAuthor:\nTabrizabuzarov\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 11:53:01 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing",
+        "date": "2026-07-16T14:04:42+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126124_0_7475f475.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126124_1_fe81bb78.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126124",
+        "link": {
+          "title": "Blue | TryHackMe",
+          "url": "https://medium.com/@tabrizabuzarov/blue-tryhackme-5b0ade40e9bc?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 126123,
+        "text": "⤷\nTitle:\nTryHackMe | Nmap Post Port Scans\n════════════════════════\n𐀪\nAuthor:\nShivam Maurya\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 12:48:08 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#penetration_testing\n#ethical_hacking\n#nmap",
+        "date": "2026-07-16T14:04:39+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126123_0_7475f475.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126123_1_40d0e5bb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126123",
+        "link": {
+          "title": "TryHackMe | Nmap Post Port Scans",
+          "url": "https://medium.com/@jojouwah/tryhackme-nmap-post-port-scans-9d1588a2ce39?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 126122,
+        "text": "⤷\nTitle:\nMastering Blue Teaming: A Beginner’s Honest Roadmap to Defensive Security\n════════════════════════\n𐀪\nAuthor:\n@krittikasarkar\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 12:27:06 GMT\n════════════════════════\n⌗\nTags:\n#defensive_security\n#blue_team\n#cybersecurity\n#security_researchers\n#hacking",
+        "date": "2026-07-16T14:04:35+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126122_0_7475f475.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126122_1_f407f0ab.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126122",
+        "link": {
+          "title": "Mastering Blue Teaming: A Beginner’s Honest Roadmap to Defensive Security",
+          "url": "https://medium.com/@sarkarkrittika192/mastering-blue-teaming-a-beginners-honest-roadmap-to-defensive-security-d303c5a0615c?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 126121,
+        "text": "⤷\nTitle:\nCVE-2026–10117: HTTP/2 Resource Exhaustion in Open5GS’s SBI Server\n════════════════════════\n𐀪\nAuthor:\nCyberPodcast\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 13:01:03 GMT\n════════════════════════\n⌗\nTags:\n#open5gs\n#hacking\n#ethical_hacking\n#cve_2026_10117\n#cwe_404",
+        "date": "2026-07-16T14:04:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126121_0_7475f475.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126121_1_a3f97ad9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126121",
+        "link": {
+          "title": "CVE-2026–10117: HTTP/2 Resource Exhaustion in Open5GS’s SBI Server",
+          "url": "https://medium.com/@cyberpodcast/cve-2026-10117-http-2-resource-exhaustion-in-open5gss-sbi-server-96810212d7f2?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 126120,
+        "text": "⤷\nTitle:\nCarpe Diem 1 (THM) Tryhackme Hard Challenge\n════════════════════════\n𐀪\nAuthor:\nLawvye\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 13:02:28 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#linux\n#privilege_escalation\n#cybersecurity\n#hacking",
+        "date": "2026-07-16T14:04:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126120_0_7475f475.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126120_1_2d8624be.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126120",
+        "link": {
+          "title": "Carpe Diem 1 (THM) Tryhackme Hard Challenge",
+          "url": "https://medium.com/@lawvye/carpe-diem-1-thm-tryhackme-hard-challenge-f68ca4279bec?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 126119,
+        "text": "⤷\nTitle:\nSmali By bithowl: Chapter 2 Why Every Android Hacker Needs Smali\n════════════════════════\n𐀪\nAuthor:\nbithowl\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 12:20:24 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#bugbounty_writeup\n#bithowl",
+        "date": "2026-07-16T14:04:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126119_0_7475f475.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126119_1_c7461fbc.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126119",
+        "link": {
+          "title": "Smali By bithowl: Chapter 2 Why Every Android Hacker Needs Smali",
+          "url": "https://medium.com/@bithowl/smali-by-bithowl-chapter-2-why-every-android-hacker-needs-smali-1d89d42f1b7c?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 126118,
+        "text": "⤷\nTitle:\nA Hacker Built Self-Updating Bug Bounty Skills From 2,000 Reports\n════════════════════════\n𐀪\nAuthor:\nAbhishek meena\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 13:05:15 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#hackerone\n#claude_code\n#ai_security\n#bug_bounty_tips",
+        "date": "2026-07-16T14:04:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126118_0_7475f475.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126118_1_35b9d682.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126118",
+        "link": {
+          "title": "A Hacker Built Self-Updating Bug Bounty Skills From 2,000 Reports",
+          "url": "https://medium.com/@Aacle/the-claude-code-bug-bounty-run-part-1-of-2-how-a-live-hacking-40k-run-started-with-a-single-804183834a0b?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 126117,
+        "text": "⤷\nTitle:\nOne-Click Full Account Takeover: How an Unauthenticated OAuth Endpoint Let Anyone Impersonate a…\n════════════════════════\n𐀪\nAuthor:\n0xlight\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 13:45:43 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#bug_bounty\n#bug_bounty_tips\n#infosec\n#penetration_testing",
+        "date": "2026-07-16T14:04:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126117_0_7475f475.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126117_1_862bae9d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126117",
+        "link": {
+          "title": "One-Click Full Account Takeover: How an Unauthenticated OAuth Endpoint Let Anyone Impersonate a…",
+          "url": "https://medium.com/@mohamedatefsarhan123/one-click-full-account-takeover-how-an-unauthenticated-oauth-endpoint-let-anyone-impersonate-a-0c2715a18561?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 126116,
+        "text": "⤷\nTitle:\nSouth Korean Police Uncover Massive GitHub Token Leak\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 12:41:19 +0000\n════════════════════════\n⌗\nTags:\n#Data\nLeak\n#cybersecurity\n#data\nbreach\n#Github\n#Investigation",
+        "date": "2026-07-16T14:04:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126116_0_7475f475.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126116_1_cd9d4c7c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126116",
+        "link": {
+          "title": "South Korean Police Uncover Massive GitHub Token Leak",
+          "url": "https://meterpreter.org/github-token-leak-uncovered/"
+        }
+      },
+      {
+        "id": 126115,
+        "text": "⤷\nTitle:\nThe Rise of Autonomous AI Cyber Attacks\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 13:09:22 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#Artificial\nintelligence\n#cybersecurity\n#threat\nintelligence\n#vulnerability",
+        "date": "2026-07-16T14:04:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126115_0_7475f475.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126115_1_82db5c51.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126115",
+        "link": {
+          "title": "The Rise of Autonomous AI Cyber Attacks",
+          "url": "https://meterpreter.org/autonomous-ai-cyber-attacks/"
+        }
+      },
+      {
+        "id": 126114,
+        "text": "⤷\nTitle:\nDaxin Resurfaces in Taiwan Alongside Stupig Pre-Login SYSTEM Backdoor\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 16:47:23 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-07-16T14:04:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126114_0_7475f475.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126114",
+        "link": {
+          "title": "Daxin Resurfaces in Taiwan Alongside Stupig Pre-Login SYSTEM Backdoor",
+          "url": "https://thehackernews.com/2026/07/daxin-resurfaces-in-taiwan-alongside.html"
+        }
+      },
+      {
+        "id": 126113,
+        "text": "⤷\nTitle:\nNew Agent Data Injection Attack Can Make AI Agents Misclick or Run Attacker Commands\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 17:02:28 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-07-16T14:04:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126113_0_7475f475.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126113",
+        "link": {
+          "title": "New Agent Data Injection Attack Can Make AI Agents Misclick or Run Attacker Commands",
+          "url": "https://thehackernews.com/2026/07/new-agent-data-injection-attack-can.html"
+        }
+      },
+      {
+        "id": 126112,
+        "text": "⤷\nTitle:\n20+ Hijacked Government Websites Becamean Attack Channel\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 17:28:00 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-07-16T14:04:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126112_0_7475f475.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126112",
+        "link": {
+          "title": "20+ Hijacked Government Websites Becamean Attack Channel",
+          "url": "https://thehackernews.com/2026/07/20-hijacked-government-websites.html"
+        }
+      },
+      {
+        "id": 126111,
+        "text": "⤷\nTitle:\nNew ClickLock macOS Stealer Kills Apps Every 210ms Until Victims Type Their Password\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 18:03:42 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-07-16T14:03:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126111_0_7475f475.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126111",
+        "link": {
+          "title": "New ClickLock macOS Stealer Kills Apps Every 210ms Until Victims Type Their Password",
+          "url": "https://thehackernews.com/2026/07/new-clicklock-macos-stealer-kills-apps.html"
+        }
+      },
+      {
+        "id": 126110,
+        "text": "⤷\nTitle:\nNew TELEPUZ Malware Spreads via ClickFix to Steal Data and Run Commands\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 18:20:13 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-07-16T14:03:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126110_0_7475f475.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126110",
+        "link": {
+          "title": "New TELEPUZ Malware Spreads via ClickFix to Steal Data and Run Commands",
+          "url": "https://thehackernews.com/2026/07/new-telepuz-malware-spreads-via.html"
+        }
+      },
+      {
         "id": 126109,
         "text": "⤷\nTitle:\nBest Cybersecurity Training Institutes in Jaipur -Honest Comparison 2026\n════════════════════════\n𐀪\nAuthor:\nCodetech Lab\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 10:29:52 GMT\n════════════════════════\n⌗\nTags:\n#vapt_services\n#cybersecurity\n#oscp\n#ethical_hacking\n#ceh_certification",
         "date": "2026-07-16T12:04:18+00:00",
@@ -1866,436 +2260,22 @@
           "title": "Hwat Hell Machine Hacking | Achieving Reverse Shell and Capturing the Flags",
           "url": "https://medium.com/@ahad66949/hwat-hell-machine-hacking-achieving-reverse-shell-and-capturing-the-flags-f4bdb6030c4c?source=rss------hacking-5"
         }
-      },
-      {
-        "id": 126027,
-        "text": "⤷\nTitle:\nRFID\n════════════════════════\n𐀪\nAuthor:\nBURAK BALTA\n════════════════════════\nⴵ\nTime:\nWed, 15 Jul 2026 17:51:49 GMT\n════════════════════════\n⌗\nTags:\n#red_team\n#siber_guvenlik\n#wireless\n#hacking\n#rfid",
-        "date": "2026-07-15T18:05:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126027_0_6cd85efa.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126027_1_4ebcc375.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126027",
-        "link": {
-          "title": "RFID",
-          "url": "https://medium.com/@082220004/rfid-a5872771675c?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 126026,
-        "text": "⤷\nTitle:\nHow a Simple S3 Bucket Misconfiguration Turned into a Security Assessment\n════════════════════════\n𐀪\nAuthor:\nsunny561\n════════════════════════\nⴵ\nTime:\nWed, 15 Jul 2026 16:10:56 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#bug_bounty_tips\n#bug_bounty\n#pentesting\n#cloud_security",
-        "date": "2026-07-15T18:05:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126026_0_6cd85efa.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126026_1_a8db02ff.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126026",
-        "link": {
-          "title": "How a Simple S3 Bucket Misconfiguration Turned into a Security Assessment",
-          "url": "https://medium.com/@sunny561/how-a-simple-s3-bucket-misconfiguration-turned-into-a-security-assessment-6b4ac536652c?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 126025,
-        "text": "⤷\nTitle:\nLegacyHive: Exploit Code and Full Details Publicly Disclosed for Unpatched Windows Privilege Escalation Flaw\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 14 Jul 2026 23:46:53 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#LegacyHive\n#Nightmare_Eclipse\n#privilege\nescalation\n#windows\n#zero_day",
-        "date": "2026-07-15T18:05:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126025_0_6cd85efa.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126025_1_4dba5a7f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126025",
-        "link": {
-          "title": "LegacyHive: Exploit Code and Full Details Publicly Disclosed for Unpatched Windows Privilege Escalation Flaw",
-          "url": "https://securityonline.info/legacyhive-windows-exploit/"
-        }
-      },
-      {
-        "id": 126024,
-        "text": "⤷\nTitle:\nCVE-2026-15409: SonicWall SMA1000 SSRF Vulnerability (CVSS 10.0) Exploited in the Wild\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 15 Jul 2026 00:00:11 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#code_injection\n#SMA1000\n#SonicWall\n#ssrf",
-        "date": "2026-07-15T18:05:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126024_0_6cd85efa.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126024_1_b1f1911d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126024",
-        "link": {
-          "title": "CVE-2026-15409: SonicWall SMA1000 SSRF Vulnerability (CVSS 10.0) Exploited in the Wild",
-          "url": "https://securityonline.info/sonicwall-sma1000-ssrf/"
-        }
-      },
-      {
-        "id": 126023,
-        "text": "⤷\nTitle:\nNode.js Backdoor Hides Its C2 on the TON Blockchain\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 15 Jul 2026 00:10:15 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#EtherHiding\n#LevelBlue\n#LNK\nmalware\n#NodeJS\nBackdoor\n#phishing\n#TON\nBlockchain\n#TonRAT",
-        "date": "2026-07-15T18:05:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126023_0_6cd85efa.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126023_1_b3a27e4c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126023",
-        "link": {
-          "title": "Node.js Backdoor Hides Its C2 on the TON Blockchain",
-          "url": "https://securityonline.info/nodejs-backdoor-ton-blockchain/"
-        }
-      },
-      {
-        "id": 126022,
-        "text": "⤷\nTitle:\nCISA Warns Three SharePoint Server Vulnerabilities Are Exploited in the Wild, Urges Hardening\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 15 Jul 2026 01:05:56 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CISA\n#KEV\n#Microsoft\n#Sharepoint",
-        "date": "2026-07-15T18:04:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126022_0_6cd85efa.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126022_1_1527694f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126022",
-        "link": {
-          "title": "CISA Warns Three SharePoint Server Vulnerabilities Are Exploited in the Wild, Urges Hardening",
-          "url": "https://securityonline.info/cisa-sharepoint-hardening/"
-        }
-      },
-      {
-        "id": 126021,
-        "text": "⤷\nTitle:\nPasskey Phishing Campaign Uses Vishing Calls to Hijack Microsoft Entra Accounts\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 15 Jul 2026 01:10:18 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#Account\nTakeover\n#data\nextortion\n#Microsoft\nEntra\n#O_UNC_066\n#Okta\n#Passkey\nPhishing\n#Phishing\nKit\n#Pink\n#Vishing",
-        "date": "2026-07-15T18:04:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126021_0_6cd85efa.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126021_1_3c114f23.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126021",
-        "link": {
-          "title": "Passkey Phishing Campaign Uses Vishing Calls to Hijack Microsoft Entra Accounts",
-          "url": "https://securityonline.info/entra-passkey-phishing/"
-        }
-      },
-      {
-        "id": 126020,
-        "text": "⤷\nTitle:\nChrome 150 Security Update Fixes 15 Flaws, Including Two Critical Use-After-Free Bugs\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 15 Jul 2026 01:45:52 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#chrome\n#google\n#use\nafter free\n#V8",
-        "date": "2026-07-15T18:04:51+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126020_0_6cd85efa.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126020_1_7fbaf4f2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126020",
-        "link": {
-          "title": "Chrome 150 Security Update Fixes 15 Flaws, Including Two Critical Use-After-Free Bugs",
-          "url": "https://securityonline.info/chrome-150-security-update/"
-        }
-      },
-      {
-        "id": 126019,
-        "text": "⤷\nTitle:\nNotepad++ v8.9.7 Fixes 5 Vulnerabilities, All With Public Details and PoC Exploit Code\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 15 Jul 2026 02:28:16 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#buffer\noverflow\n#notepad\n++\n#Path\nTraversal\n#Zip\nSlip",
-        "date": "2026-07-15T18:04:48+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126019_0_6cd85efa.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126019_1_006162cf.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126019",
-        "link": {
-          "title": "Notepad++ v8.9.7 Fixes 5 Vulnerabilities, All With Public Details and PoC Exploit Code",
-          "url": "https://securityonline.info/notepad-plus-plus-vulnerabilities/"
-        }
-      },
-      {
-        "id": 126018,
-        "text": "⤷\nTitle:\nGodDamn Ransomware Rebrands Beast and Uses a Malicious Signed Driver to Disable Defenses\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 15 Jul 2026 06:11:12 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#AnyDesk\n#Beast\nRansomware\n#BYOVD\n#GodDamn\nRansomware\n#Hyadina\n#Malicious\nKernel Driver\n#mimikatz\n#Monster\nRansomware\n#PoisonX\n#Symantec",
-        "date": "2026-07-15T18:04:44+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126018_0_6cd85efa.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126018_1_9bf61c21.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126018",
-        "link": {
-          "title": "GodDamn Ransomware Rebrands Beast and Uses a Malicious Signed Driver to Disable Defenses",
-          "url": "https://securityonline.info/goddamn-ransomware-beast-rebrand/"
-        }
-      },
-      {
-        "id": 126017,
-        "text": "⤷\nTitle:\nMalicious Go Module Exposes a 222-Repository GitHub Lure Network\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 15 Jul 2026 07:11:10 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#AsyncRAT\n#GitHub\nlure network\n#malicious\nGo module\n#Operation\nMuck and Load\n#Socket\n#Software\nSupply Chain\n#Vidar\nInfostealer",
-        "date": "2026-07-15T18:04:41+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126017_0_6cd85efa.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126017_1_75cb67d4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126017",
-        "link": {
-          "title": "Malicious Go Module Exposes a 222-Repository GitHub Lure Network",
-          "url": "https://securityonline.info/malicious-go-module-lure-network/"
-        }
-      },
-      {
-        "id": 126016,
-        "text": "⤷\nTitle:\nCVE-2026-10577: CVSS 10 Access Control Vulnerability Hits Rockwell Automation 1715 Redundant I/O Modules\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 15 Jul 2026 07:32:07 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Access\nControl\n#ICS\n#OT\nSecurity\n#Rockwell\nAutomation",
-        "date": "2026-07-15T18:04:37+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126016_0_6cd85efa.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126016_1_bf448605.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126016",
-        "link": {
-          "title": "CVE-2026-10577: CVSS 10 Access Control Vulnerability Hits Rockwell Automation 1715 Redundant I/O Modules",
-          "url": "https://securityonline.info/rockwell-1715-vulnerability/"
-        }
-      },
-      {
-        "id": 126015,
-        "text": "⤷\nTitle:\nRedWing Android Malware Rents Out Spyware and Bank Theft on Telegram\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 15 Jul 2026 08:11:06 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#Android\nSpyware\n#Banking\nTrojan\n#Malware_as_a_Service\n#Overlay\nAttack\n#RedWing\nAndroid malware\n#Telegram\nmalware\n#Zimperium",
-        "date": "2026-07-15T18:04:34+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126015_0_6cd85efa.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126015_1_465ae8fd.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126015",
-        "link": {
-          "title": "RedWing Android Malware Rents Out Spyware and Bank Theft on Telegram",
-          "url": "https://securityonline.info/redwing-android-malware/"
-        }
-      },
-      {
-        "id": 126001,
-        "text": "⤷\nTitle:\nManaging Crypto Made Simple with Crypnio\n════════════════════════\n𐀪\nAuthor:\nKennedemily\n════════════════════════\nⴵ\nTime:\nWed, 15 Jul 2026 14:28:25 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#eth\n#ethics\n#ethereum\n#ethereum_blockchain",
-        "date": "2026-07-15T16:04:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126001_0_6cd85efa.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126001_1_a12901f0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126001",
-        "link": {
-          "title": "Managing Crypto Made Simple with Crypnio",
-          "url": "https://medium.com/@kennedemily84/managing-crypto-made-simple-with-crypnio-56d8a6c464b9?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 126000,
-        "text": "⤷\nTitle:\nUnderstanding Firewalls: What I Learned from TryHackMe's Firewall Fundamentals Room\n════════════════════════\n𐀪\nAuthor:\nEddy Kilonzo\n════════════════════════\nⴵ\nTime:\nWed, 15 Jul 2026 14:11:58 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#tryhackme_walkthrough\n#firewall\n#cybersecurity\n#network_security",
-        "date": "2026-07-15T16:04:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126000_0_6cd85efa.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126000_1_9fa0964b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126000",
-        "link": {
-          "title": "Understanding Firewalls: What I Learned from TryHackMe's Firewall Fundamentals Room",
-          "url": "https://medium.com/@eddy.kilonzo/understanding-firewalls-what-i-learned-from-tryhackmes-firewall-fundamentals-room-4c2a48e9c527?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 125999,
-        "text": "⤷\nTitle:\nBasic Vulnerability Identification Techniques\n════════════════════════\n𐀪\nAuthor:\nVinayakpawar\n════════════════════════\nⴵ\nTime:\nWed, 15 Jul 2026 15:18:34 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_walkthrough\n#pentesting\n#cybersecurity\n#tryhackme\n#tryhackme_writeup",
-        "date": "2026-07-15T16:04:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125999_0_6cd85efa.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125999_1_a53f1b3c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125999",
-        "link": {
-          "title": "Basic Vulnerability Identification Techniques",
-          "url": "https://medium.com/@vinayakpawar2518/basic-vulnerability-identification-techniques-db209836a43b?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 125998,
-        "text": "⤷\nTitle:\nTryHackMe Series #3— Investigating Windows Walkthrough\n════════════════════════\n𐀪\nAuthor:\nDeepanshusharma\n════════════════════════\nⴵ\nTime:\nWed, 15 Jul 2026 15:35:27 GMT\n════════════════════════\n⌗\nTags:\n#incident_response\n#tryhackme\n#cybersecurity\n#windows\n#digital_forensics",
-        "date": "2026-07-15T16:04:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125998_0_6cd85efa.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125998_1_80e8054f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125998",
-        "link": {
-          "title": "TryHackMe Series #3— Investigating Windows Walkthrough",
-          "url": "https://medium.com/@deepanshu123sharma4/tryhackme-series-3-investigating-windows-walkthrough-662a222124aa?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 125997,
-        "text": "⤷\nTitle:\nStrengthening Digital Security With Advanced Vulnerability Assessment Strategies\n════════════════════════\n𐀪\nAuthor:\nEyeqdotnet\n════════════════════════\nⴵ\nTime:\nWed, 15 Jul 2026 14:38:38 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing",
-        "date": "2026-07-15T16:04:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125997_0_6cd85efa.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_125997_1_a54cb098.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/125997",
-        "link": {
-          "title": "Strengthening Digital Security With Advanced Vulnerability Assessment Strategies",
-          "url": "https://medium.com/@eyeqdotnet704/strengthening-digital-security-with-advanced-vulnerability-assessment-strategies-0a21c22b748f?source=rss------penetration_testing-5"
-        }
       }
     ]
   },
-  "last_update": "2026-07-16T12:59:03.804640+00:00",
+  "last_update": "2026-07-16T14:55:05.048048+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 195,
-    "total_files": 195,
+    "total_media": 190,
+    "total_files": 190,
     "total_links": 0,
     "files_by_type": {
-      "image": 195
+      "image": 190
     },
-    "referenced_files": 195,
-    "existing_media_files": 195,
-    "total_size_mb": 5.36,
-    "last_calculation": "2026-07-16T12:59:03.807064+00:00"
+    "referenced_files": 190,
+    "existing_media_files": 190,
+    "total_size_mb": 5.16,
+    "last_calculation": "2026-07-16T14:55:05.050395+00:00"
   }
 }
