@@ -2,6 +2,308 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 126248,
+        "text": "⤷\nTitle:\nFile Upload Bypass Using a Pre-Signed S3 URL\n════════════════════════\n𐀪\nAuthor:\nMahmoud Elsaidy\n════════════════════════\nⴵ\nTime:\nFri, 17 Jul 2026 04:19:09 GMT\n════════════════════════\n⌗\nTags:\n#file_upload_vulnerability\n#amazon_s3\n#bug_bounty_writeup",
+        "date": "2026-07-17T12:04:35+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126248_0_7314cc12.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126248_1_bb8056d1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126248",
+        "link": {
+          "title": "File Upload Bypass Using a Pre-Signed S3 URL",
+          "url": "https://medium.com/@m.elsaidy35/file-upload-bypass-on-indrive-29f81ba5ae5d?source=rss------bug_bounty_writeup-5"
+        }
+      },
+      {
+        "id": 126247,
+        "text": "⤷\nTitle:\nHow I Found an AWS Secret Key Leak on My College Website\n════════════════════════\n𐀪\nAuthor:\nRohit dalal\n════════════════════════\nⴵ\nTime:\nFri, 17 Jul 2026 11:07:23 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#vulnerability\n#aws\n#exposure\n#javascript",
+        "date": "2026-07-17T12:04:31+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126247_0_7314cc12.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126247_1_4f09836b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126247",
+        "link": {
+          "title": "How I Found an AWS Secret Key Leak on My College Website",
+          "url": "https://rohitdalal.medium.com/how-i-found-an-aws-secret-key-leak-on-my-college-website-3ee7f25d8c7f?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 126246,
+        "text": "⤷\nTitle:\nUnIndexed: TryHackMe AI Security Challenge\n════════════════════════\n𐀪\nAuthor:\nRaymond Ebonine\n════════════════════════\nⴵ\nTime:\nFri, 17 Jul 2026 11:49:47 GMT\n════════════════════════\n⌗\nTags:\n#artificial_intelligence\n#cybersecurity\n#ai\n#llm\n#tryhackme",
+        "date": "2026-07-17T12:04:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126246_0_7314cc12.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126246_1_f5ce4273.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126246",
+        "link": {
+          "title": "UnIndexed: TryHackMe AI Security Challenge",
+          "url": "https://meetcyber.net/unindexed-tryhackme-ai-security-challenge-717021633bec?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 126245,
+        "text": "⤷\nTitle:\nAndroid Infostealer Malware Analysis | Let’sDefend Walkthrough\n════════════════════════\n𐀪\nAuthor:\nAnshuman Thakur\n════════════════════════\nⴵ\nTime:\nFri, 17 Jul 2026 09:54:55 GMT\n════════════════════════\n⌗\nTags:\n#lets_defend\n#malware_analysis\n#penetration_testing\n#security_operation_center",
+        "date": "2026-07-17T12:04:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126245_0_7314cc12.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126245_1_14f5c8d0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126245",
+        "link": {
+          "title": "Android Infostealer Malware Analysis | Let’sDefend Walkthrough",
+          "url": "https://vritra0.medium.com/android-infostealer-malware-analysis-letsdefend-walkthrough-6a2385c11368?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 126244,
+        "text": "⤷\nTitle:\nCybersecurity Risk of the User Registration Page\n════════════════════════\n𐀪\nAuthor:\nAnand babu\n════════════════════════\nⴵ\nTime:\nFri, 17 Jul 2026 10:22:23 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#penetration_testing\n#ethical_hacking",
+        "date": "2026-07-17T12:04:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126244_0_7314cc12.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126244_1_2486edf2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126244",
+        "link": {
+          "title": "Cybersecurity Risk of the User Registration Page",
+          "url": "https://medium.com/@nanianand2004/cybersecurity-risk-of-the-user-registration-page-b5f7cf8a8ac1?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 126243,
+        "text": "⤷\nTitle:\nCan AI write secure code? I audited 50 AI-Generated snippets\n════════════════════════\n𐀪\nAuthor:\nh@shtalk\n════════════════════════\nⴵ\nTime:\nFri, 17 Jul 2026 10:41:01 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#secure_code_review\n#ai\n#infosec",
+        "date": "2026-07-17T12:04:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126243_0_7314cc12.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126243_1_0e5d5c54.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126243",
+        "link": {
+          "title": "Can AI write secure code? I audited 50 AI-Generated snippets",
+          "url": "https://eva-georgieva.medium.com/can-ai-write-secure-code-i-audited-50-ai-generated-snippets-54e71fef6efd?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 126242,
+        "text": "⤷\nTitle:\nI Accidentally Exposed My AWS Secrets — Here’s How I Built a Detection System Before Hackers Found…\n════════════════════════\n𐀪\nAuthor:\nDavebhargavi\n════════════════════════\nⴵ\nTime:\nFri, 17 Jul 2026 10:16:10 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#devsecops\n#devops\n#aws_secret\n#security",
+        "date": "2026-07-17T12:04:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126242_0_7314cc12.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126242_1_d3e78a2a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126242",
+        "link": {
+          "title": "I Accidentally Exposed My AWS Secrets — Here’s How I Built a Detection System Before Hackers Found…",
+          "url": "https://medium.com/@davebhargavi507/i-accidentally-exposed-my-aws-secrets-heres-how-i-built-a-detection-system-before-hackers-found-ee019f79f8b6?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 126241,
+        "text": "⤷\nTitle:\nKeyHunter Explained | The Open-Source Tool Every Security Researcher Should Know\n════════════════════════\n𐀪\nAuthor:\nPentester Club\n════════════════════════\nⴵ\nTime:\nFri, 17 Jul 2026 11:57:09 GMT\n════════════════════════\n⌗\nTags:\n#security\n#api\n#hacking\n#artificial_intelligence\n#cybersecurity",
+        "date": "2026-07-17T12:04:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126241_0_7314cc12.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126241_1_03e4b991.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126241",
+        "link": {
+          "title": "KeyHunter Explained | The Open-Source Tool Every Security Researcher Should Know",
+          "url": "https://medium.com/@pentesterclubpvtltd/keyhunter-explained-the-open-source-tool-every-security-researcher-should-know-f8bfd9c84fb8?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 126240,
+        "text": "⤷\nTitle:\nTELEPUZ: A New Modular MaaS Malware Spreads Through ClickFix Lures on Compromised Websites\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nFri, 17 Jul 2026 12:00:08 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#ClickFix\n#Elastic\nSecurity Labs\n#MaaS\n#TELEPUZ\n#Vidar",
+        "date": "2026-07-17T12:04:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126240_0_7314cc12.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126240_1_81f19451.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126240",
+        "link": {
+          "title": "TELEPUZ: A New Modular MaaS Malware Spreads Through ClickFix Lures on Compromised Websites",
+          "url": "https://meterpreter.org/telepuz-malware/"
+        }
+      },
+      {
+        "id": 126239,
+        "text": "⤷\nTitle:\nNew GoSerpent Malware Targets Southeast Asian Governments and Diplomats for Espionage\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nFri, 17 Jul 2026 14:16:45 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-07-17T12:04:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126239_0_7314cc12.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126239",
+        "link": {
+          "title": "New GoSerpent Malware Targets Southeast Asian Governments and Diplomats for Espionage",
+          "url": "https://thehackernews.com/2026/07/new-goserpent-malware-targets-southeast.html"
+        }
+      },
+      {
+        "id": 126238,
+        "text": "⤷\nTitle:\nACR Stealer Uses ClickFix Lures to Steal Browser Tokens and Microsoft 365 Files\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nFri, 17 Jul 2026 14:26:39 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-07-17T12:04:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126238_0_7314cc12.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126238",
+        "link": {
+          "title": "ACR Stealer Uses ClickFix Lures to Steal Browser Tokens and Microsoft 365 Files",
+          "url": "https://thehackernews.com/2026/07/acr-stealer-uses-clickfix-lures-to.html"
+        }
+      },
+      {
+        "id": 126237,
+        "text": "⤷\nTitle:\nArmenia Detains Russian Tourist on U.S. Warrant for REvil Hacker, Lawyers Say Wrong Man\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nFri, 17 Jul 2026 16:23:31 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-07-17T12:03:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126237_0_7314cc12.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126237",
+        "link": {
+          "title": "Armenia Detains Russian Tourist on U.S. Warrant for REvil Hacker, Lawyers Say Wrong Man",
+          "url": "https://thehackernews.com/2026/07/armenia-detains-russian-tourist-on-us.html"
+        }
+      },
+      {
+        "id": 126236,
+        "text": "⤷\nTitle:\nThe Race to Field Military Autonomy Is On, Can Trusted Information Infrastructure Keep Pace?\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nFri, 17 Jul 2026 17:00:00 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-07-17T12:03:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126236_0_7314cc12.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126236",
+        "link": {
+          "title": "The Race to Field Military Autonomy Is On, Can Trusted Information Infrastructure Keep Pace?",
+          "url": "https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html"
+        }
+      },
+      {
+        "id": 126235,
+        "text": "⤷\nTitle:\nE.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nFri, 17 Jul 2026 17:14:41 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-07-17T12:03:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126235_0_7314cc12.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126235",
+        "link": {
+          "title": "E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants",
+          "url": "https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html"
+        }
+      },
+      {
         "id": 126234,
         "text": "⤷\nTitle:\nTop 20 Cyber Security Interview Questions for Freshers\n════════════════════════\n𐀪\nAuthor:\ncybersecuritycourse\n════════════════════════\nⴵ\nTime:\nFri, 17 Jul 2026 08:30:25 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#cybersecurity_training\n#cybersecurity\n#cyber_security_awareness\n#education",
         "date": "2026-07-17T10:04:44+00:00",
@@ -1966,332 +2268,22 @@
           "title": "How Android Apps Communicate with Servers Without Exposing APIs",
           "url": "https://medium.com/@sharathkumarlokesh/how-android-apps-communicate-with-servers-without-exposing-apis-a45d485a3b58?source=rss------api_security-5"
         }
-      },
-      {
-        "id": 126141,
-        "text": "⤷\nTitle:\nWeek 1 of My Thunder Cipher Cybersecurity Internship: Building Strong Cybersecurity Foundations\n════════════════════════\n𐀪\nAuthor:\ncyb3rPh03n1x\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 15:00:11 GMT\n════════════════════════\n⌗\nTags:\n#learning\n#ethical_hacking\n#linux\n#networking\n#cybersecurity",
-        "date": "2026-07-16T16:04:39+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126141_0_7475f475.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126141_1_b10ccdd9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126141",
-        "link": {
-          "title": "Week 1 of My Thunder Cipher Cybersecurity Internship: Building Strong Cybersecurity Foundations",
-          "url": "https://medium.com/@cyb3rPh03n1x/week-1-of-my-thunder-cipher-cybersecurity-internship-building-strong-cybersecurity-foundations-07f57901b8d8?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 126140,
-        "text": "⤷\nTitle:\nWeek 2 of My Thunder Cipher Cybersecurity Internship: Diving into Networking & OSINT\n════════════════════════\n𐀪\nAuthor:\ncyb3rPh03n1x\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 15:11:48 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#networking\n#kali_linux\n#cybersecurity\n#osint",
-        "date": "2026-07-16T16:04:35+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126140_0_7475f475.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126140_1_63b8def0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126140",
-        "link": {
-          "title": "Week 2 of My Thunder Cipher Cybersecurity Internship: Diving into Networking & OSINT",
-          "url": "https://medium.com/@cyb3rPh03n1x/week-2-of-my-thunder-cipher-cybersecurity-internship-diving-into-networking-osint-695a2f4de112?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 126139,
-        "text": "⤷\nTitle:\nI Didn’t Learn Linux From Tutorials, I Learned It From Breaking Things\n════════════════════════\n𐀪\nAuthor:\nFateyaly\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 15:13:44 GMT\n════════════════════════\n⌗\nTags:\n#technology\n#programming\n#cybersecurity\n#coding\n#ethical_hacking",
-        "date": "2026-07-16T16:04:32+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126139_0_7475f475.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126139_1_e5a8f2c5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126139",
-        "link": {
-          "title": "I Didn’t Learn Linux From Tutorials, I Learned It From Breaking Things",
-          "url": "https://meetcyber.net/i-didnt-learn-linux-from-tutorials-i-learned-it-from-breaking-things-0a32f7cf9e20?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 126138,
-        "text": "⤷\nTitle:\nCompiled | TryHackme | Writeup\n════════════════════════\n𐀪\nAuthor:\nSiapaHeker\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 15:19:56 GMT\n════════════════════════\n⌗\nTags:\n#ctf_writeup\n#cybersecurity\n#tryhackme",
-        "date": "2026-07-16T16:04:28+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126138_0_7475f475.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126138",
-        "link": {
-          "title": "Compiled | TryHackme | Writeup",
-          "url": "https://siapaheker.medium.com/compiled-tryhackme-writeup-49a0ab7b1efe?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 126137,
-        "text": "⤷\nTitle:\nWhat Cybersecurity Consulting Taught Me That No Certification Did\n════════════════════════\n𐀪\nAuthor:\nAbhishek Kumar\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 15:05:49 GMT\n════════════════════════\n⌗\nTags:\n#technology\n#penetration_testing\n#careers\n#cybersecurity\n#information_security",
-        "date": "2026-07-16T16:04:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126137_0_7475f475.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126137_1_5f469f5e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126137",
-        "link": {
-          "title": "What Cybersecurity Consulting Taught Me That No Certification Did",
-          "url": "https://medium.com/@shakie9224/what-cybersecurity-consulting-taught-me-that-no-certification-did-d5e3020039fa?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 126136,
-        "text": "⤷\nTitle:\nWinRecon v2.0: A Full GUI Tool for Windows Recon and Security Auditing\n════════════════════════\n𐀪\nAuthor:\nHackProKP\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 15:09:02 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#open_source\n#penetration_testing\n#python\n#cybersecurity",
-        "date": "2026-07-16T16:04:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126136_0_7475f475.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126136_1_c4d99f54.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126136",
-        "link": {
-          "title": "WinRecon v2.0: A Full GUI Tool for Windows Recon and Security Auditing",
-          "url": "https://hackprokp.medium.com/winrecon-v2-0-a-full-gui-tool-for-windows-recon-and-security-auditing-89dbabc4fbbc?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 126135,
-        "text": "⤷\nTitle:\nThe burnout nobody mentions: When your tools work faster than you think\n════════════════════════\n𐀪\nAuthor:\nh@shtalk\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 14:31:01 GMT\n════════════════════════\n⌗\nTags:\n#ai\n#infosec\n#machine_learning\n#cybersecurity",
-        "date": "2026-07-16T16:04:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126135_0_7475f475.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126135_1_83ed1c0a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126135",
-        "link": {
-          "title": "The burnout nobody mentions: When your tools work faster than you think",
-          "url": "https://eva-georgieva.medium.com/the-burnout-nobody-mentions-when-your-tools-work-faster-than-you-think-d2abe0c35139?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 126134,
-        "text": "⤷\nTitle:\nWhy Your Investigations Stall and How to Force a Next Move\n════════════════════════\n𐀪\nAuthor:\nAeon Flex, Elriel Assoc. 2133 [NEON MAXIMA]\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 14:49:49 GMT\n════════════════════════\n⌗\nTags:\n#programming\n#open_source\n#infosec\n#red_team\n#osint",
-        "date": "2026-07-16T16:04:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126134_0_7475f475.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126134_1_07028d96.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126134",
-        "link": {
-          "title": "Why Your Investigations Stall and How to Force a Next Move",
-          "url": "https://medium.com/@neonmaxima/why-your-investigations-stall-and-how-to-force-a-next-move-1c42d5825da6?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 126133,
-        "text": "⤷\nTitle:\nTitle: How I Bypassed WAF on a Critical Indian Government Portal (CBSE) as a 9th-Grade Student\n════════════════════════\n𐀪\nAuthor:\nUjjwalanarwade\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 14:03:43 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#web_security\n#cybersecurity\n#ethical_hacking\n#info_sec_writeups",
-        "date": "2026-07-16T16:04:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126133_0_7475f475.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126133_1_8e6a0b03.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126133",
-        "link": {
-          "title": "Title: How I Bypassed WAF on a Critical Indian Government Portal (CBSE) as a 9th-Grade Student",
-          "url": "https://medium.com/@ujjwalanarwade945/title-how-i-bypassed-waf-on-a-critical-indian-government-portal-cbse-as-a-9th-grade-student-cc64eb78a4d0?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 126132,
-        "text": "⤷\nTitle:\nA Newsletter Confirmation Link That Doubled as a Permanent, Non-Expiring Login Token\n════════════════════════\n𐀪\nAuthor:\nNorthSideHacker\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 15:11:23 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_writeup\n#bug_bounty_tips\n#bug_bounty",
-        "date": "2026-07-16T16:04:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126132_0_7475f475.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126132_1_e56a7b86.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126132",
-        "link": {
-          "title": "A Newsletter Confirmation Link That Doubled as a Permanent, Non-Expiring Login Token",
-          "url": "https://medium.com/@northsidehacker/a-newsletter-confirmation-link-that-doubled-as-a-permanent-non-expiring-login-token-7bb7e424d0dc?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 126131,
-        "text": "⤷\nTitle:\nWorkflow Bypass Leading to Unauthorized Access to Sensitive Records (IDOR / Broken Object-Level…\n════════════════════════\n𐀪\nAuthor:\nKaisec\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 15:34:38 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_hunter\n#bug_bounty_tips\n#bug_bounty_writeup\n#bug_bounty",
-        "date": "2026-07-16T16:04:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126131_0_7475f475.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126131_1_3740cd61.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126131",
-        "link": {
-          "title": "Workflow Bypass Leading to Unauthorized Access to Sensitive Records (IDOR / Broken Object-Level…",
-          "url": "https://medium.com/@kaisec42/workflow-bypass-leading-to-unauthorized-access-to-sensitive-records-idor-broken-object-level-39bc801663e7?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 126130,
-        "text": "⤷\nTitle:\nTwo Scattered Spider Members Sentenced to 5.6 Years Over TfL Cyberattack\n════════════════════════\n𐀪\nAuthor:\nWaqas\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 15:48:42 +0000\n════════════════════════\n⌗\nTags:\n#Cyber\nCrime\n#Security\n#Cyber\nAttack\n#Cybersecurity\n#Owen\nFlowers\n#Scattered\nSpider\n#TFL\n#Thalha\nJubai\n#Transport\nfor London\n#United\nKindgom",
-        "date": "2026-07-16T16:04:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126130_0_7475f475.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126130_1_2aef8300.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126130",
-        "link": {
-          "title": "Two Scattered Spider Members Sentenced to 5.6 Years Over TfL Cyberattack",
-          "url": "https://hackread.com/two-scattered-spider-members-sentenced-tfl-cyberattack/"
-        }
-      },
-      {
-        "id": 126129,
-        "text": "⤷\nTitle:\nn8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 19:03:25 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-07-16T16:03:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126129_0_7475f475.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126129",
-        "link": {
-          "title": "n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer",
-          "url": "https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html"
-        }
-      },
-      {
-        "id": 126128,
-        "text": "⤷\nTitle:\nThreatsDay: Game Cheat Spyware, 24-Hour Ransomware, Chrome Sync Stalking + 12 More Stories\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 21:11:15 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-07-16T16:03:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126128_0_7475f475.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126128",
-        "link": {
-          "title": "ThreatsDay: Game Cheat Spyware, 24-Hour Ransomware, Chrome Sync Stalking + 12 More Stories",
-          "url": "https://thehackernews.com/2026/07/threatsday-game-cheat-spyware-24-hour.html"
-        }
       }
     ]
   },
-  "last_update": "2026-07-17T11:02:23.480022+00:00",
+  "last_update": "2026-07-17T12:41:28.032448+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 194,
-    "total_files": 194,
+    "total_media": 192,
+    "total_files": 192,
     "total_links": 0,
     "files_by_type": {
-      "image": 194
+      "image": 192
     },
-    "referenced_files": 194,
-    "existing_media_files": 194,
-    "total_size_mb": 5.35,
-    "last_calculation": "2026-07-17T11:02:23.482309+00:00"
+    "referenced_files": 192,
+    "existing_media_files": 192,
+    "total_size_mb": 4.93,
+    "last_calculation": "2026-07-17T12:41:28.034773+00:00"
   }
 }
