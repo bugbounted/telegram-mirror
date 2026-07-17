@@ -2,6 +2,90 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 126309,
+        "text": "⤷\nTitle:\nI Funded a Stranger’s Bank Card With My Own Money; and That’s Exactly the Problem\n════════════════════════\n𐀪\nAuthor:\nMuhammad Usman Faridi\n════════════════════════\nⴵ\nTime:\nFri, 17 Jul 2026 21:00:51 GMT\n════════════════════════\n⌗\nTags:\n#api_security\n#bola\n#ethical_hacking\n#cybersecurity\n#jwt_token",
+        "date": "2026-07-17T22:04:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126309_0_7314cc12.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126309_1_3d5b8f1d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126309",
+        "link": {
+          "title": "I Funded a Stranger’s Bank Card With My Own Money; and That’s Exactly the Problem",
+          "url": "https://infosecwriteups.com/i-funded-a-strangers-bank-card-with-my-own-money-and-that-s-exactly-the-problem-a3bfc069a8b9?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 126308,
+        "text": "⤷\nTitle:\nMy eJPT Experience: First Offensive Security Certificate\n════════════════════════\n𐀪\nAuthor:\nFarid Narimanov\n════════════════════════\nⴵ\nTime:\nFri, 17 Jul 2026 20:38:31 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#ejptv2\n#penetration_testing\n#cybersecurity\n#ethical_hacking",
+        "date": "2026-07-17T22:04:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126308_0_7314cc12.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126308_1_2acc1718.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126308",
+        "link": {
+          "title": "My eJPT Experience: First Offensive Security Certificate",
+          "url": "https://medium.com/@faridnarimanof/my-ejpt-experience-first-offensive-security-certificate-fc0deccd16c6?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 126307,
+        "text": "⤷\nTitle:\nOpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 01:50:53 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-07-17T22:04:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126307_0_7314cc12.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126307",
+        "link": {
+          "title": "OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests",
+          "url": "https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html"
+        }
+      },
+      {
+        "id": 126306,
+        "text": "⤷\nTitle:\nNew wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 02:50:10 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-07-17T22:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126306_0_7314cc12.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126306",
+        "link": {
+          "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code",
+          "url": "https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html"
+        }
+      },
+      {
         "id": 126305,
         "text": "⤷\nTitle:\nInjectics | TryHackMe Walkthrough: SQL Injection & SSTI\n════════════════════════\n𐀪\nAuthor:\nroot0x9\n════════════════════════\nⴵ\nTime:\nFri, 17 Jul 2026 18:56:57 GMT\n════════════════════════\n⌗\nTags:\n#ssti_exploitation\n#web_app_pentesting\n#tryhackme_walkthrough\n#cybersecurity\n#sql_injection",
         "date": "2026-07-17T20:04:13+00:00",
@@ -2168,114 +2252,22 @@
           "title": "Finding Reflected XSS Parameters Fast: A Deep Dive into RefleX",
           "url": "https://medium.com/@arshadshoaib029/finding-reflected-xss-parameters-fast-a-deep-dive-into-reflex-ab5f063d7355?source=rss------bug_bounty-5"
         }
-      },
-      {
-        "id": 126209,
-        "text": "⤷\nTitle:\nLab Walkthrough: Exploiting Username Enumeration via Different Responses\n════════════════════════\n𐀪\nAuthor:\n5um1t0x\n════════════════════════\nⴵ\nTime:\nFri, 17 Jul 2026 07:09:47 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#bug_bounty\n#burpsuite\n#penetration_testing\n#cybersecurity",
-        "date": "2026-07-17T08:04:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126209_0_7475f475.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126209_1_19b0f90e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126209",
-        "link": {
-          "title": "Lab Walkthrough: Exploiting Username Enumeration via Different Responses",
-          "url": "https://medium.com/@5um1t0x/lab-walkthrough-exploiting-username-enumeration-via-different-responses-8974f010bca8?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 126208,
-        "text": "⤷\nTitle:\nSAR 2,629 For Stored XSS via svg Image Leading to ATO\n════════════════════════\n𐀪\nAuthor:\nAnas NadY\n════════════════════════\nⴵ\nTime:\nFri, 17 Jul 2026 07:18:36 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#bug_bounty_tips\n#cybersecurity\n#penetration_testing\n#bug_bounty_writeup",
-        "date": "2026-07-17T08:04:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126208_0_7475f475.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126208_1_95fac244.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126208",
-        "link": {
-          "title": "SAR 2,629 For Stored XSS via svg Image Leading to ATO",
-          "url": "https://infosecwriteups.com/sar-2-629-for-stored-xss-via-svg-image-leading-to-ato-1916c50251dc?source=rss----7b722bfd1b8d--bug_bounty"
-        }
-      },
-      {
-        "id": 126207,
-        "text": "⤷\nTitle:\nHow I Found a Cross-Student IDOR in Academy LMS That Leaked Correct Quiz Answers\n════════════════════════\n𐀪\nAuthor:\nShikhali Jamalzade\n════════════════════════\nⴵ\nTime:\nFri, 17 Jul 2026 07:19:31 GMT\n════════════════════════\n⌗\nTags:\n#technology\n#wordpress\n#bug_bounty\n#walkthrough\n#cybersecurity",
-        "date": "2026-07-17T08:04:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126207_0_7475f475.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126207_1_c381dc04.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126207",
-        "link": {
-          "title": "How I Found a Cross-Student IDOR in Academy LMS That Leaked Correct Quiz Answers",
-          "url": "https://infosecwriteups.com/how-i-found-a-cross-student-idor-in-academy-lms-that-leaked-correct-quiz-answers-c68bfe06f3a0?source=rss----7b722bfd1b8d--bug_bounty"
-        }
-      },
-      {
-        "id": 126206,
-        "text": "⤷\nTitle:\nZero Credentials, Full Access: Inside a Complete Authorization Failure\n════════════════════════\n𐀪\nAuthor:\n0x-elfateh\n════════════════════════\nⴵ\nTime:\nFri, 17 Jul 2026 07:19:36 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#cybersecurity\n#authentication\n#api\n#bug_bounty",
-        "date": "2026-07-17T08:04:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126206_0_7475f475.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126206_1_10a55302.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126206",
-        "link": {
-          "title": "Zero Credentials, Full Access: Inside a Complete Authorization Failure",
-          "url": "https://infosecwriteups.com/zero-credentials-full-access-inside-a-complete-authorization-failure-1607f0cf12ca?source=rss----7b722bfd1b8d--bug_bounty"
-        }
       }
     ]
   },
-  "last_update": "2026-07-17T21:40:53.488129+00:00",
+  "last_update": "2026-07-17T22:37:51.799812+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 190,
-    "total_files": 190,
+    "total_media": 188,
+    "total_files": 188,
     "total_links": 0,
     "files_by_type": {
-      "image": 190
+      "image": 188
     },
-    "referenced_files": 190,
-    "existing_media_files": 190,
-    "total_size_mb": 4.66,
-    "last_calculation": "2026-07-17T21:40:53.490431+00:00"
+    "referenced_files": 188,
+    "existing_media_files": 188,
+    "total_size_mb": 4.54,
+    "last_calculation": "2026-07-17T22:37:51.802088+00:00"
   }
 }
