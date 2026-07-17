@@ -2,6 +2,466 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 126200,
+        "text": "⤷\nTitle:\nFile Upload Bypass On Indrive\n════════════════════════\n𐀪\nAuthor:\nMahmoud Elsaidy\n════════════════════════\nⴵ\nTime:\nFri, 17 Jul 2026 04:19:09 GMT\n════════════════════════\n⌗\nTags:\n#file_upload_vulnerability\n#amazon_s3\n#bug_bounty_writeup",
+        "date": "2026-07-17T06:05:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126200_0_7475f475.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126200_1_35ff183d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126200",
+        "link": {
+          "title": "File Upload Bypass On Indrive",
+          "url": "https://medium.com/@m.elsaidy35/file-upload-bypass-on-indrive-29f81ba5ae5d?source=rss------bug_bounty_writeup-5"
+        }
+      },
+      {
+        "id": 126199,
+        "text": "⤷\nTitle:\nHTB Bobby’s Bistro Writeup\n════════════════════════\n𐀪\nAuthor:\nShenyuchao\n════════════════════════\nⴵ\nTime:\nFri, 17 Jul 2026 05:01:03 GMT\n════════════════════════\n⌗\nTags:\n#htb\n#htb_writeup\n#jwt_token\n#sql_injection",
+        "date": "2026-07-17T06:05:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126199_0_7475f475.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126199_1_2bdd5806.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126199",
+        "link": {
+          "title": "HTB Bobby’s Bistro Writeup",
+          "url": "https://medium.com/@shenyuchao194268/htb-bobbys-bistro-writeup-ec60ee0f69ef?source=rss------sql_injection-5"
+        }
+      },
+      {
+        "id": 126198,
+        "text": "⤷\nTitle:\nIDOR simple way with no burpsuite banged P3\n════════════════════════\n𐀪\nAuthor:\nSai Jayanth\n════════════════════════\nⴵ\nTime:\nFri, 17 Jul 2026 04:07:15 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ethical_hacking\n#bugs\n#idor\n#learn",
+        "date": "2026-07-17T06:05:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126198_0_7475f475.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126198_1_cdebb147.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126198",
+        "link": {
+          "title": "IDOR simple way with no burpsuite banged P3",
+          "url": "https://medium.com/@saijayanth25dec2003/idor-simple-way-with-no-burpsuite-banged-p3-f9d0d1bb4a8f?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 126197,
+        "text": "⤷\nTitle:\nA 65,529-Sample Lie: How a Tiny TIFF Fooled GDAL Into Asking for 16 GB\n════════════════════════\n𐀪\nAuthor:\nAleens-labs\n════════════════════════\nⴵ\nTime:\nFri, 17 Jul 2026 05:47:51 GMT\n════════════════════════\n⌗\nTags:\n#information_security\n#cve\n#open_source\n#cybersecurity\n#bug_bounty",
+        "date": "2026-07-17T06:05:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126197_0_7475f475.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126197_1_0fd96456.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126197",
+        "link": {
+          "title": "A 65,529-Sample Lie: How a Tiny TIFF Fooled GDAL Into Asking for 16 GB",
+          "url": "https://medium.com/@aleens09/a-65-529-sample-lie-how-a-tiny-tiff-fooled-gdal-into-asking-for-16-gb-d3be93606c3d?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 126196,
+        "text": "⤷\nTitle:\nRelevant Walkthrough | SMB Enumeration, IIS Exploitation & Windows Privilege Escalation\n════════════════════════\n𐀪\nAuthor:\nTibeRius_12\n════════════════════════\nⴵ\nTime:\nFri, 17 Jul 2026 05:31:01 GMT\n════════════════════════\n⌗\nTags:\n#smb_enumeration\n#tryhackme\n#privilege_escalation\n#penetration_testing\n#windows_security",
+        "date": "2026-07-17T06:05:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126196_0_7475f475.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126196_1_72f6fa24.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126196",
+        "link": {
+          "title": "Relevant Walkthrough | SMB Enumeration, IIS Exploitation & Windows Privilege Escalation",
+          "url": "https://medium.com/@parshva2033/relevant-walkthrough-smb-enumeration-iis-exploitation-windows-privilege-escalation-448c619b687b?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 126195,
+        "text": "⤷\nTitle:\n50+ Registration Page Vulnerabilities Every Pentester Should Validate\n════════════════════════\n𐀪\nAuthor:\nMehboob khan\n════════════════════════\nⴵ\nTime:\nFri, 17 Jul 2026 05:48:28 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#penetration_testing\n#ethical_hacking",
+        "date": "2026-07-17T06:05:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126195_0_7475f475.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126195_1_b92e116d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126195",
+        "link": {
+          "title": "50+ Registration Page Vulnerabilities Every Pentester Should Validate",
+          "url": "https://themehboobkhan.medium.com/50-registration-page-vulnerabilities-every-pentester-should-validate-65701706d49e?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 126194,
+        "text": "⤷\nTitle:\nAuthentication Security Testing Checklist for Security Researchers\n════════════════════════\n𐀪\nAuthor:\nChilukavarshith\n════════════════════════\nⴵ\nTime:\nFri, 17 Jul 2026 05:50:16 GMT\n════════════════════════\n⌗\nTags:\n#authentication\n#cybersecurity\n#web_security\n#penetration_testing\n#owasp_top_10",
+        "date": "2026-07-17T06:05:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126194_0_7475f475.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126194_1_4d04d38a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126194",
+        "link": {
+          "title": "Authentication Security Testing Checklist for Security Researchers",
+          "url": "https://medium.com/@chilukavarshith4005/authentication-security-testing-checklist-for-security-researchers-7ed9f0047893?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 126193,
+        "text": "⤷\nTitle:\nLessons From DAO Governance Attacks A Critical Analysis of Kelp DAO and BonkDAO\n════════════════════════\n𐀪\nAuthor:\nManoj Kumar Desai\n════════════════════════\nⴵ\nTime:\nFri, 17 Jul 2026 04:24:58 GMT\n════════════════════════\n⌗\nTags:\n#web3\n#decentralization\n#hacking\n#dao\n#blockchain",
+        "date": "2026-07-17T06:05:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126193_0_7475f475.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126193_1_07bab7ac.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126193",
+        "link": {
+          "title": "Lessons From DAO Governance Attacks A Critical Analysis of Kelp DAO and BonkDAO",
+          "url": "https://medium.com/@MconnectDAO/lessons-from-dao-governance-attacks-a-critical-analysis-of-kelp-dao-and-bonkdao-012df7733192?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 126192,
+        "text": "⤷\nTitle:\nSplunk Fixes Three Splunk Enterprise Vulnerabilities Led by CVE-2026-20296 CSRF Flaw\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 02:11:30 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CSRF\n#CVE_2026_20296\n#CVE_2026_20297\n#CVE_2026_20298\n#Splunk\n#Splunk\nEnterprise",
+        "date": "2026-07-17T06:04:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126192_0_7475f475.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126192_1_3bce6b0d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126192",
+        "link": {
+          "title": "Splunk Fixes Three Splunk Enterprise Vulnerabilities Led by CVE-2026-20296 CSRF Flaw",
+          "url": "https://securityonline.info/splunk-enterprise-vulnerabilities-cve-2026-20296/"
+        }
+      },
+      {
+        "id": 126191,
+        "text": "⤷\nTitle:\nCISA Adds Oracle E-Business Suite and KNX Flaws to KEV Catalog\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 02:31:40 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CISA\n#CVE_2023_4346\n#CVE_2026_46817\n#KEV\n#KNX\n#Oracle\nE_Business Suite",
+        "date": "2026-07-17T06:04:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126191_0_7475f475.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126191_1_e5ab4381.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126191",
+        "link": {
+          "title": "CISA Adds Oracle E-Business Suite and KNX Flaws to KEV Catalog",
+          "url": "https://securityonline.info/cisa-kev-cve-2026-46817-cve-2023-4346/"
+        }
+      },
+      {
+        "id": 126190,
+        "text": "⤷\nTitle:\nGigaWiper Backdoor Bundles Disk Wiping Malware and Fake Ransomware\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 06:03:10 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#backdoor\n#Crucio\nransomware\n#disk\nwiping malware\n#FlockWiper\n#GigaWiper\n#Microsoft\nThreat Intelligence\n#wiper\nmalware",
+        "date": "2026-07-17T06:04:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126190_0_7475f475.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126190_1_30ecf813.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126190",
+        "link": {
+          "title": "GigaWiper Backdoor Bundles Disk Wiping Malware and Fake Ransomware",
+          "url": "https://securityonline.info/gigawiper-backdoor/"
+        }
+      },
+      {
+        "id": 126189,
+        "text": "⤷\nTitle:\nHelix Data Extortion Group Emerges from BlackFile, ReliaQuest Reports\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 07:03:08 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#BlackFile\n#data\nextortion\n#Device\nCode Phishing\n#Helix\n#ReliaQuest\n#Sharepoint\n#ShinyHunters\n#Vishing",
+        "date": "2026-07-17T06:04:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126189_0_7475f475.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126189_1_a9ce587f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126189",
+        "link": {
+          "title": "Helix Data Extortion Group Emerges from BlackFile, ReliaQuest Reports",
+          "url": "https://securityonline.info/helix-data-extortion-group/"
+        }
+      },
+      {
+        "id": 126188,
+        "text": "⤷\nTitle:\nAlbiriox Android Banking Trojan Spreads Through Fake UniCredit Rewards on Telegram\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 07:30:12 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#Accessibility\nAbuse\n#Albiriox\n#Android\nBanking Trojan\n#Android\nRAT\n#D3Lab\n#Fake\nBanking Rewards\n#On_Device\nFraud\n#Telegram\nmalware\n#UniCredit",
+        "date": "2026-07-17T06:04:45+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126188_0_7475f475.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126188_1_8fe35a85.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126188",
+        "link": {
+          "title": "Albiriox Android Banking Trojan Spreads Through Fake UniCredit Rewards on Telegram",
+          "url": "https://securityonline.info/albiriox-android-banking-trojan/"
+        }
+      },
+      {
+        "id": 126187,
+        "text": "⤷\nTitle:\nChina and India Cyberespionage Converge on Pakistani Law Enforcement\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 08:03:06 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#AsyncRAT\n#Balochistan\nPolice\n#Chinese\nCyberespionage\n#Cobalt\nStrike\n#Pakistani\nLaw Enforcement\n#PlugX\n#Remcos\n#SentinelLABS\n#ShadowPad\n#TAG_179",
+        "date": "2026-07-17T06:04:42+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126187_0_7475f475.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126187_1_86820970.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126187",
+        "link": {
+          "title": "China and India Cyberespionage Converge on Pakistani Law Enforcement",
+          "url": "https://securityonline.info/balochistan-police-espionage/"
+        }
+      },
+      {
+        "id": 126186,
+        "text": "⤷\nTitle:\nAge of Empires CVE-2026-50663: High-Risk Lobby Bug Fixed\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 09:12:27 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Age\nof Empires\n#CVE_2026_50663\n#cybersecurity\n#Game\nSecurity\n#Microsoft",
+        "date": "2026-07-17T06:04:39+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126186_0_7475f475.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126186_1_2ed7294a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126186",
+        "link": {
+          "title": "Age of Empires CVE-2026-50663: High-Risk Lobby Bug Fixed",
+          "url": "https://securityonline.info/age-of-empires-cve-lobby-bug/"
+        }
+      },
+      {
+        "id": 126185,
+        "text": "⤷\nTitle:\nElon Musk: X/Twitter Will Fully Open-Source Its Codebase for Public Review\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 09:55:19 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#Elon\nMusk\n#open_source\n#transparency\n#X\n/Twitter",
+        "date": "2026-07-17T06:04:35+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126185_0_7475f475.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126185_1_6665ae48.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126185",
+        "link": {
+          "title": "Elon Musk: X/Twitter Will Fully Open-Source Its Codebase for Public Review",
+          "url": "https://securityonline.info/x-twitter-open-source-codebase/"
+        }
+      },
+      {
+        "id": 126184,
+        "text": "⤷\nTitle:\nMicrosoft Blocks the July 2026 Security Update on Dell Devices Over an Intel Driver Conflict\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 12:08:13 +0000\n════════════════════════\n⌗\nTags:\n#Windows\n#dell\n#intel\n#Microsoft\n#Windows\n11\n#Windows\nUpdate",
+        "date": "2026-07-17T06:04:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126184_0_7475f475.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126184_1_1f408cae.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126184",
+        "link": {
+          "title": "Microsoft Blocks the July 2026 Security Update on Dell Devices Over an Intel Driver Conflict",
+          "url": "https://securityonline.info/windows-11-update-blocked-dell/"
+        }
+      },
+      {
+        "id": 126183,
+        "text": "⤷\nTitle:\nDell PowerFlex Manager Flaw CVE-2026-56688 Allows Root Command Execution\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 12:38:05 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_56688\n#dell\n#Dell\nPowerFlex\n#os\ncommand injection\n#PowerFlex\nManager\n#rce",
+        "date": "2026-07-17T06:04:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126183_0_7475f475.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126183_1_2ae5dc98.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126183",
+        "link": {
+          "title": "Dell PowerFlex Manager Flaw CVE-2026-56688 Allows Root Command Execution",
+          "url": "https://securityonline.info/dell-powerflex-cve-2026-56688-rce/"
+        }
+      },
+      {
+        "id": 126182,
+        "text": "⤷\nTitle:\nSonicWall SMA1000 CVE-2026-15409 (CVSS 10.0) RCE Exploited in the Wild as Public PoC Drops\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 12:49:57 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Actively\nExploited\n#CVE_2026_15409\n#CVE_2026_15410\n#Remote\nCode Execution\n#SMA1000\n#SonicWall\n#ssrf\n#zero_day",
+        "date": "2026-07-17T06:04:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126182_0_7475f475.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126182_1_1aa65abe.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126182",
+        "link": {
+          "title": "SonicWall SMA1000 CVE-2026-15409 (CVSS 10.0) RCE Exploited in the Wild as Public PoC Drops",
+          "url": "https://securityonline.info/sonicwall-sma1000-vulnerability-cve-2026-15409/"
+        }
+      },
+      {
+        "id": 126181,
+        "text": "⤷\nTitle:\nApache IoTDB Patches Five Security Flaws, Upgrade to 2.0.10\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 13:00:01 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Apache\nIoTDB\n#CVE_2026_28564\n#CVE_2026_40005\n#CVE_2026_40006\n#CVE_2026_40008\n#CVE_2026_40009\n#IoT\nsecurity\n#Time_Series\nDatabase",
+        "date": "2026-07-17T06:04:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126181_0_7475f475.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126181_1_dd97c3f4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126181",
+        "link": {
+          "title": "Apache IoTDB Patches Five Security Flaws, Upgrade to 2.0.10",
+          "url": "https://securityonline.info/apache-iotdb-vulnerabilities-2/"
+        }
+      },
+      {
         "id": 126173,
         "text": "⤷\nTitle:\nPhishing Analysis Tools\n════════════════════════\n𐀪\nAuthor:\nExploitHunter\n════════════════════════\nⴵ\nTime:\nFri, 17 Jul 2026 03:42:40 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#cyber_security_awareness\n#web_development\n#cybersecurity\n#infosec",
         "date": "2026-07-17T04:03:59+00:00",
@@ -1792,474 +2252,22 @@
           "title": "When VPNs Cross the Line: Why the U.S.",
           "url": "https://medium.com/@elnjasi/when-vpns-cross-the-line-why-the-u-s-f41e8cf226a3?source=rss------infosec-5"
         }
-      },
-      {
-        "id": 126093,
-        "text": "⤷\nTitle:\nActive Directory Basics: Centralizing Identity and Governance in the Enterprise\n════════════════════════\n𐀪\nAuthor:\nJonathan Sanfer\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 09:59:05 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#active_directory\n#windows_server\n#cybersecurity\n#network_security",
-        "date": "2026-07-16T10:04:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126093_0_6cd85efa.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126093_1_1888d2b2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126093",
-        "link": {
-          "title": "Active Directory Basics: Centralizing Identity and Governance in the Enterprise",
-          "url": "https://medium.com/@jonathan.sanfer/active-directory-basics-centralizing-identity-and-governance-in-the-enterprise-a3fbb346a26a?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 126092,
-        "text": "⤷\nTitle:\nHow PUSH, POP, CALL, and RET Control Your Computer (And Get Exploited).The Boss’s \"In-Tray\".\n════════════════════════\n𐀪\nAuthor:\nAnees\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 07:59:44 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#computer_science\n#technology\n#software_engineering\n#malware",
-        "date": "2026-07-16T10:04:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126092_0_6cd85efa.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126092_1_ddede786.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126092",
-        "link": {
-          "title": "How PUSH, POP, CALL, and RET Control Your Computer (And Get Exploited).The Boss’s \"In-Tray\".",
-          "url": "https://medium.com/@anees78788878/how-push-pop-call-and-ret-control-your-computer-and-get-exploited-the-bosss-in-tray-629bfee6aa27?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 126091,
-        "text": "⤷\nTitle:\nWhat Financial Hacks Can Help Indian Professionals Succeed?\n════════════════════════\n𐀪\nAuthor:\nPrimescore\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 09:42:47 GMT\n════════════════════════\n⌗\nTags:\n#finance\n#credit_score\n#india\n#company_culture\n#hacking",
-        "date": "2026-07-16T10:04:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126091_0_6cd85efa.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126091_1_022c5962.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126091",
-        "link": {
-          "title": "What Financial Hacks Can Help Indian Professionals Succeed?",
-          "url": "https://medium.com/@primescore37/what-financial-hacks-can-help-indian-professionals-succeed-360448d8c369?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 126090,
-        "text": "⤷\nTitle:\nExposing Hardware Backdoors with VeriChat AI\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 08:04:25 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#AI\n#cybersecurity\n#Hardware\nSecurity",
-        "date": "2026-07-16T10:03:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126090_0_6cd85efa.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126090_1_5184f965.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126090",
-        "link": {
-          "title": "Exposing Hardware Backdoors with VeriChat AI",
-          "url": "https://meterpreter.org/hardware-backdoor-detection-verichat/"
-        }
-      },
-      {
-        "id": 126089,
-        "text": "⤷\nTitle:\nZoom Patches Critical Windows Flaw That Could Enable Account Takeover\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 12:52:44 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-07-16T10:03:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126089_0_6cd85efa.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126089",
-        "link": {
-          "title": "Zoom Patches Critical Windows Flaw That Could Enable Account Takeover",
-          "url": "https://thehackernews.com/2026/07/zoom-patches-critical-windows-flaw-that.html"
-        }
-      },
-      {
-        "id": 126088,
-        "text": "⤷\nTitle:\nOpenAI’s GPT-Red Automates Prompt Injection Testing to Harden GPT-5.6 Sol\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 14:12:31 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-07-16T10:03:51+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126088_0_6cd85efa.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126088",
-        "link": {
-          "title": "OpenAI’s GPT-Red Automates Prompt Injection Testing to Harden GPT-5.6 Sol",
-          "url": "https://thehackernews.com/2026/07/openais-gpt-red-automates-prompt.html"
-        }
-      },
-      {
-        "id": 126087,
-        "text": "⤷\nTitle:\nLinux Privilege Escalation via PATH Variable Manipulation\n════════════════════════\n𐀪\nAuthor:\nIsha Sangpal\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 07:53:53 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#security\n#penetration_testing\n#betigetin\n#cybersecurity",
-        "date": "2026-07-16T08:04:31+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126087_0_6cd85efa.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126087_1_6262f2dd.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126087",
-        "link": {
-          "title": "Linux Privilege Escalation via PATH Variable Manipulation",
-          "url": "https://medium.com/@betigetin/linux-privilege-escalation-via-path-variable-manipulation-8a38a9b7b2cb?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 126086,
-        "text": "⤷\nTitle:\nCrypto Failures — Tryhackme walkthrough\n════════════════════════\n𐀪\nAuthor:\nPRiTi.EX\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 06:22:57 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_walkthrough\n#crypto\n#tryhackme",
-        "date": "2026-07-16T08:04:28+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126086_0_6cd85efa.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126086_1_2c485e1a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126086",
-        "link": {
-          "title": "Crypto Failures — Tryhackme walkthrough",
-          "url": "https://medium.com/@pritiranjanmohanta6371/crypto-failures-tryhackme-walkthrough-08ca7349b7c5?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 126085,
-        "text": "⤷\nTitle:\n[Binary Exploit — EP.5–1] Introduction to Buffer Overflow\n════════════════════════\n𐀪\nAuthor:\nPattharadanai Sanitjairak\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 06:01:02 GMT\n════════════════════════\n⌗\nTags:\n#binary_exploitation\n#penetration_testing\n#buffer_overflow\n#pwnable\n#cybersecurity",
-        "date": "2026-07-16T08:04:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126085_0_6cd85efa.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126085_1_faee560c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126085",
-        "link": {
-          "title": "[Binary Exploit — EP.5–1] Introduction to Buffer Overflow",
-          "url": "https://medium.com/@pat.sanitjairak/binary-exploit-ep-5-1-introduction-to-buffer-overflow-2f99bd1c1e8c?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 126084,
-        "text": "⤷\nTitle:\nWhy Traditional Security Is No Longer Enough: Why AI Must Become Part of Your Security Architecture\n════════════════════════\n𐀪\nAuthor:\nBervice\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 06:37:49 GMT\n════════════════════════\n⌗\nTags:\n#bervice\n#zero_trust\n#infosec\n#cybersecurity\n#automation",
-        "date": "2026-07-16T08:04:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126084_0_6cd85efa.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126084_1_6cc32119.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126084",
-        "link": {
-          "title": "Why Traditional Security Is No Longer Enough: Why AI Must Become Part of Your Security Architecture",
-          "url": "https://medium.com/@bervice/why-traditional-security-is-no-longer-enough-why-ai-must-become-part-of-your-security-architecture-28d8ebf46560?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 126083,
-        "text": "⤷\nTitle:\nNice netcat… | PicoCTF General Skills | By Dharavath Nagaraju\n════════════════════════\n𐀪\nAuthor:\nDharavathnagaraju\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 06:07:15 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#generalskills\n#nice_netcat\n#ascii\n#picoctf",
-        "date": "2026-07-16T08:04:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126083_0_6cd85efa.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126083_1_15e45ca9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126083",
-        "link": {
-          "title": "Nice netcat… | PicoCTF General Skills | By Dharavath Nagaraju",
-          "url": "https://medium.com/@dharavathnagaraju2973/nice-netcat-picoctf-general-skills-by-dharavath-nagaraju-543d38a8512e?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 126082,
-        "text": "⤷\nTitle:\nBypass Kernel Anti Cheat CrackMe - TryBypassMe\n════════════════════════\n𐀪\nAuthor:\nZ0rd\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 06:15:21 GMT\n════════════════════════\n⌗\nTags:\n#games\n#gamehacking\n#hacking\n#reverse_engineering",
-        "date": "2026-07-16T08:04:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126082_0_6cd85efa.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126082_1_a2b56391.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126082",
-        "link": {
-          "title": "Bypass Kernel Anti Cheat CrackMe - TryBypassMe",
-          "url": "https://0ord.medium.com/bypass-kernel-anti-cheat-crackme-trybypassme-b7fd46acba0b?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 126081,
-        "text": "⤷\nTitle:\nCan Someone Hack My WhatsApp? 15 Warning Signs You Should Know (2026)\n════════════════════════\n𐀪\nAuthor:\nQnaydshackersacadamy\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 06:36:25 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#two_step_verification\n#ai\n#hacking",
-        "date": "2026-07-16T08:04:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126081_0_6cd85efa.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126081_1_cbf23111.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126081",
-        "link": {
-          "title": "Can Someone Hack My WhatsApp? 15 Warning Signs You Should Know (2026)",
-          "url": "https://medium.com/@qnaydshackersacadamy/can-someone-hack-my-whatsapp-15-warning-signs-you-should-know-2026-1bdd46ab45be?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 126080,
-        "text": "⤷\nTitle:\nSupply Chain Attack via Fake Interview\n════════════════════════\n𐀪\nAuthor:\nAbhishek\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 07:16:37 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#cyber_security_awareness\n#phishing\n#hacking",
-        "date": "2026-07-16T08:04:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126080_0_6cd85efa.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126080_1_80f7f7fe.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126080",
-        "link": {
-          "title": "Supply Chain Attack via Fake Interview",
-          "url": "https://medium.com/@bitsabhi/supply-chain-attack-via-fake-interview-18dc86624b3a?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 126079,
-        "text": "⤷\nTitle:\nInformation Disclosure vulnerabilities: Source Code Disclosure via Backup Files Walkthrough…\n════════════════════════\n𐀪\nAuthor:\nRahul M S\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 07:24:50 GMT\n════════════════════════\n⌗\nTags:\n#vapt\n#portswigger_lab\n#burpsuite\n#cybersecurity\n#hacking",
-        "date": "2026-07-16T08:04:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126079_0_6cd85efa.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126079_1_eb0198cd.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126079",
-        "link": {
-          "title": "Information Disclosure vulnerabilities: Source Code Disclosure via Backup Files Walkthrough…",
-          "url": "https://1amrahul.medium.com/information-disclosure-vulnerabilities-source-code-disclosure-via-backup-files-walkthrough-8669c93d4dd0?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 126078,
-        "text": "⤷\nTitle:\nBusiness logic vulnerabilities: Excessive Trust in Client-Side Controls Walkthrough (Apprentice)\n════════════════════════\n𐀪\nAuthor:\nRahul M S\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 07:26:30 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#hacking\n#burpsuite\n#portswigger_lab\n#vapt",
-        "date": "2026-07-16T08:04:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126078_0_6cd85efa.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126078_1_e9eb98c0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126078",
-        "link": {
-          "title": "Business logic vulnerabilities: Excessive Trust in Client-Side Controls Walkthrough (Apprentice)",
-          "url": "https://1amrahul.medium.com/business-logic-vulnerabilities-excessive-trust-in-client-side-controls-walkthrough-apprentice-9cb7017b9b43?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 126077,
-        "text": "⤷\nTitle:\nOne postMessage Was Enough to Break a Trust Boundary (CSRF)\n════════════════════════\n𐀪\nAuthor:\nRootxsecurity\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 07:30:47 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#csrf\n#cybersecurity\n#bug_hunting",
-        "date": "2026-07-16T08:03:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126077_0_6cd85efa.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126077_1_d259eab7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126077",
-        "link": {
-          "title": "One postMessage Was Enough to Break a Trust Boundary (CSRF)",
-          "url": "https://medium.com/@RootXSec/one-postmessage-was-enough-to-break-a-trust-boundary-csrf-8adeb40315ac?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 126076,
-        "text": "⤷\nTitle:\nForgotten UEFI Shims Undermine Secure Boot Defenses\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 06:41:21 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\n#cybersecurity\n#Linux\n#Secure\nBoot\n#UEFI\n#windows",
-        "date": "2026-07-16T08:03:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126076_0_6cd85efa.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126076_1_52017ac2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126076",
-        "link": {
-          "title": "Forgotten UEFI Shims Undermine Secure Boot Defenses",
-          "url": "https://meterpreter.org/uefi-shims-secure-boot-vulnerability/"
-        }
-      },
-      {
-        "id": 126075,
-        "text": "⤷\nTitle:\nCISA Urges SharePoint Hardening to Prevent Exploits\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 07:11:28 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\n#CISA\n#cybersecurity\n#SharePoint\n#vulnerability",
-        "date": "2026-07-16T08:03:51+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126075_0_6cd85efa.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126075_1_ec478261.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126075",
-        "link": {
-          "title": "CISA Urges SharePoint Hardening to Prevent Exploits",
-          "url": "https://meterpreter.org/sharepoint-security-hardening/"
-        }
-      },
-      {
-        "id": 126074,
-        "text": "⤷\nTitle:\nPorts and Their Numbers: A Cybersecurity Guide Every Beginner Must Know\n════════════════════════\n𐀪\nAuthor:\nCyberfox\n════════════════════════\nⴵ\nTime:\nThu, 16 Jul 2026 04:31:04 GMT\n════════════════════════\n⌗\nTags:\n#programming\n#networking\n#cybersecurity\n#technology\n#ethical_hacking",
-        "date": "2026-07-16T06:04:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126074_0_6cd85efa.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126074_1_31cf8f13.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126074",
-        "link": {
-          "title": "Ports and Their Numbers: A Cybersecurity Guide Every Beginner Must Know",
-          "url": "https://medium.com/@cyberfox282/ports-and-their-numbers-a-cybersecurity-guide-every-beginner-must-know-5c3466d8cc74?source=rss------ethical_hacking-5"
-        }
       }
     ]
   },
-  "last_update": "2026-07-17T04:33:53.322414+00:00",
+  "last_update": "2026-07-17T07:09:29.503042+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 186,
-    "total_files": 186,
+    "total_media": 188,
+    "total_files": 188,
     "total_links": 0,
     "files_by_type": {
-      "image": 186
+      "image": 188
     },
-    "referenced_files": 186,
-    "existing_media_files": 186,
-    "total_size_mb": 5.09,
-    "last_calculation": "2026-07-17T04:33:53.324709+00:00"
+    "referenced_files": 188,
+    "existing_media_files": 188,
+    "total_size_mb": 5.01,
+    "last_calculation": "2026-07-17T07:09:29.505278+00:00"
   }
 }
