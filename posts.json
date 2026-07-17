@@ -2,6 +2,136 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 126305,
+        "text": "⤷\nTitle:\nInjectics | TryHackMe Walkthrough: SQL Injection & SSTI\n════════════════════════\n𐀪\nAuthor:\nroot0x9\n════════════════════════\nⴵ\nTime:\nFri, 17 Jul 2026 18:56:57 GMT\n════════════════════════\n⌗\nTags:\n#ssti_exploitation\n#web_app_pentesting\n#tryhackme_walkthrough\n#cybersecurity\n#sql_injection",
+        "date": "2026-07-17T20:04:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126305_0_7314cc12.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126305_1_04f3a708.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126305",
+        "link": {
+          "title": "Injectics | TryHackMe Walkthrough: SQL Injection & SSTI",
+          "url": "https://root0x09.medium.com/injectics-tryhackme-walkthrough-sql-injection-ssti-05292cf35567?source=rss------sql_injection-5"
+        }
+      },
+      {
+        "id": 126304,
+        "text": "⤷\nTitle:\nEnumeration & Brute Force TryHackMe Room Walkthrough\n════════════════════════\n𐀪\nAuthor:\nAmr Sebie\n════════════════════════\nⴵ\nTime:\nFri, 17 Jul 2026 19:20:57 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#tryhackme\n#ctf_writeup",
+        "date": "2026-07-17T20:04:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126304_0_7314cc12.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126304_1_1f2d6d9f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126304",
+        "link": {
+          "title": "Enumeration & Brute Force TryHackMe Room Walkthrough",
+          "url": "https://medium.com/@asoubea/enumeration-brute-force-tryhackme-room-walkthrough-4c6c6e5b51b0?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 126303,
+        "text": "⤷\nTitle:\nBreaking CCTV Manager — Solving YesWeHack Dojo #43\n════════════════════════\n𐀪\nAuthor:\n0xZeus\n════════════════════════\nⴵ\nTime:\nFri, 17 Jul 2026 19:44:08 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#yeswehack\n#ctf_writeup\n#ctf\n#yaml",
+        "date": "2026-07-17T20:04:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126303_0_7314cc12.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126303_1_22a294b2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126303",
+        "link": {
+          "title": "Breaking CCTV Manager — Solving YesWeHack Dojo #43",
+          "url": "https://medium.com/@napelyon55/breaking-cctv-manager-solving-yeswehack-dojo-43-4af5394795c0?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 126302,
+        "text": "⤷\nTitle:\nI Found a CSRF-Style Bug in Proton and Earned a $200 Bounty.\n════════════════════════\n𐀪\nAuthor:\nKenjisubagja\n════════════════════════\nⴵ\nTime:\nFri, 17 Jul 2026 18:04:07 GMT\n════════════════════════\n⌗\nTags:\n#bug_hunting\n#bugpoc\n#bug_bounty_writeup\n#bug_bounty\n#proton",
+        "date": "2026-07-17T20:04:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126302_0_7314cc12.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126302",
+        "link": {
+          "title": "I Found a CSRF-Style Bug in Proton and Earned a $200 Bounty.",
+          "url": "https://medium.com/@kenjisubagja/i-found-a-csrf-style-bug-in-simplelogin-and-earned-a-200-bounty-7f0375f785d1?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 126301,
+        "text": "⤷\nTitle:\nI Ignored the Lab Instructions and Solved It My Own Way -Here’s What I Learned\n════════════════════════\n𐀪\nAuthor:\nPushkar Padhye\n════════════════════════\nⴵ\nTime:\nFri, 17 Jul 2026 18:10:42 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#infosec\n#security\n#web_development\n#bug_bounty",
+        "date": "2026-07-17T20:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126301_0_7314cc12.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126301_1_3f66d63c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126301",
+        "link": {
+          "title": "I Ignored the Lab Instructions and Solved It My Own Way -Here’s What I Learned",
+          "url": "https://medium.com/@padhyepushkar/i-ignored-the-lab-instructions-and-solved-it-my-own-way-heres-what-i-learned-9558f67341a3?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 126300,
+        "text": "⤷\nTitle:\nSeven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 00:24:51 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-07-17T20:03:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126300_0_7314cc12.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126300",
+        "link": {
+          "title": "Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT",
+          "url": "https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html"
+        }
+      },
+      {
         "id": 126299,
         "text": "⤷\nTitle:\nCara Saya Menemukan Celah User Enumeration & Missing Rate Limiting (Universitas Brawijaya)\n════════════════════════\n𐀪\nAuthor:\nxenzuu7\n════════════════════════\nⴵ\nTime:\nFri, 17 Jul 2026 17:05:53 GMT\n════════════════════════\n⌗\nTags:\n#information_security\n#cybersecurity\n#bug_bounty_writeup\n#web_security",
         "date": "2026-07-17T18:04:41+00:00",
@@ -2130,156 +2260,22 @@
           "title": "Zero Credentials, Full Access: Inside a Complete Authorization Failure",
           "url": "https://infosecwriteups.com/zero-credentials-full-access-inside-a-complete-authorization-failure-1607f0cf12ca?source=rss----7b722bfd1b8d--bug_bounty"
         }
-      },
-      {
-        "id": 126205,
-        "text": "⤷\nTitle:\nSupply Chain Trojan Targets Software Developers Through Project Files\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 17 Jul 2026 06:04:07 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#crypto\nwallet theft\n#developer\nsecurity\n#Doctor\nWeb\n#malware\n#Software\nSupply Chain\n#Supply\nChain Trojan\n#XMRig",
-        "date": "2026-07-17T08:04:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126205_0_7475f475.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126205_1_233076f1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126205",
-        "link": {
-          "title": "Supply Chain Trojan Targets Software Developers Through Project Files",
-          "url": "https://securityonline.info/supply-chain-trojan-software-developers/"
-        }
-      },
-      {
-        "id": 126204,
-        "text": "⤷\nTitle:\nChrome Security Update Patches Three Critical Use-After-Free Flaws in CameraCapture, GPU, and Network\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 17 Jul 2026 07:02:57 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#browser\nsecurity\n#Chrome\nSecurity Update\n#Chromium\n#CVE_2026_15899\n#CVE_2026_15900\n#CVE_2026_15901\n#google\nchrome\n#use\nafter free\n#V8",
-        "date": "2026-07-17T08:04:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126204_0_7475f475.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126204_1_2a52201a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126204",
-        "link": {
-          "title": "Chrome Security Update Patches Three Critical Use-After-Free Flaws in CameraCapture, GPU, and Network",
-          "url": "https://securityonline.info/chrome-security-update-cve-2026-15899/"
-        }
-      },
-      {
-        "id": 126203,
-        "text": "⤷\nTitle:\nFarewell NotebookLM: Google Rebrands Its AI Research Tool as Gemini Notebook, Adds Native Code Execution\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 17 Jul 2026 07:59:04 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#AI\n#Gemini\n#Gemini\nNotebook\n#google\n#NotebookLM",
-        "date": "2026-07-17T08:04:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126203_0_7475f475.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126203_1_64f95a88.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126203",
-        "link": {
-          "title": "Farewell NotebookLM: Google Rebrands Its AI Research Tool as Gemini Notebook, Adds Native Code Execution",
-          "url": "https://securityonline.info/notebooklm-gemini-notebook-rebrand/"
-        }
-      },
-      {
-        "id": 126202,
-        "text": "⤷\nTitle:\nSingGuard-NSFA: Ant Group Open-Sources a Guardrail to Stop Malicious AI Agent Commands After the JadePuffer Attack\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nFri, 17 Jul 2026 07:45:00 +0000\n════════════════════════\n⌗\nTags:\n#Open\nSource Tool\n#AI\nAgents\n#AI\nsecurity\n#Ant\nGroup\n#JadePuffer\n#SingGuard_NSFA",
-        "date": "2026-07-17T08:04:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126202_0_7475f475.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126202_1_0be0716e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126202",
-        "link": {
-          "title": "SingGuard-NSFA: Ant Group Open-Sources a Guardrail to Stop Malicious AI Agent Commands After the JadePuffer Attack",
-          "url": "https://meterpreter.org/singguard-nsfa/"
-        }
-      },
-      {
-        "id": 126201,
-        "text": "⤷\nTitle:\nCISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nFri, 17 Jul 2026 12:12:23 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-07-17T08:03:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126201_0_7475f475.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126201",
-        "link": {
-          "title": "CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV",
-          "url": "https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html"
-        }
-      },
-      {
-        "id": 126200,
-        "text": "⤷\nTitle:\nFile Upload Bypass On Indrive\n════════════════════════\n𐀪\nAuthor:\nMahmoud Elsaidy\n════════════════════════\nⴵ\nTime:\nFri, 17 Jul 2026 04:19:09 GMT\n════════════════════════\n⌗\nTags:\n#file_upload_vulnerability\n#amazon_s3\n#bug_bounty_writeup",
-        "date": "2026-07-17T06:05:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126200_0_7475f475.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126200_1_35ff183d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126200",
-        "link": {
-          "title": "File Upload Bypass On Indrive",
-          "url": "https://medium.com/@m.elsaidy35/file-upload-bypass-on-indrive-29f81ba5ae5d?source=rss------bug_bounty_writeup-5"
-        }
       }
     ]
   },
-  "last_update": "2026-07-17T19:58:13.890322+00:00",
+  "last_update": "2026-07-17T20:43:03.354363+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 191,
-    "total_files": 191,
+    "total_media": 190,
+    "total_files": 190,
     "total_links": 0,
     "files_by_type": {
-      "image": 191
+      "image": 190
     },
-    "referenced_files": 191,
-    "existing_media_files": 191,
-    "total_size_mb": 4.74,
-    "last_calculation": "2026-07-17T19:58:13.892646+00:00"
+    "referenced_files": 190,
+    "existing_media_files": 190,
+    "total_size_mb": 4.66,
+    "last_calculation": "2026-07-17T20:43:03.356616+00:00"
   }
 }
