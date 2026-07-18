@@ -2,6 +2,52 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 126311,
+        "text": "⤷\nTitle:\nI Found 400 Hidden Subdomains On My First Target Using One Free Tool\n════════════════════════\n𐀪\nAuthor:\nYamini Yadav_369\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 00:00:58 GMT\n════════════════════════\n⌗\nTags:\n#medium\n#bug_bounty\n#bug_bounty_tips\n#cybersecurity\n#ethical_hacking",
+        "date": "2026-07-18T00:03:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126311_0_7314cc12.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126311_1_a42f464e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126311",
+        "link": {
+          "title": "I Found 400 Hidden Subdomains On My First Target Using One Free Tool",
+          "url": "https://osintteam.blog/i-found-400-hidden-subdomains-on-my-first-target-using-one-free-tool-19c720fdf304?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 126310,
+        "text": "⤷\nTitle:\nThis Free Tool Showed Me A Company’s Deleted API Keys From 2019\n════════════════════════\n𐀪\nAuthor:\nYamini Yadav_369\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 00:01:41 GMT\n════════════════════════\n⌗\nTags:\n#medium\n#ethical_hacking\n#bug_bounty\n#penetration_testing\n#cybersecurity",
+        "date": "2026-07-18T00:03:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126310_0_7314cc12.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126310_1_d614d799.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126310",
+        "link": {
+          "title": "This Free Tool Showed Me A Company’s Deleted API Keys From 2019",
+          "url": "https://osintteam.blog/this-free-tool-showed-me-a-companys-deleted-api-keys-from-2019-94286224b4ab?source=rss------ethical_hacking-5"
+        }
+      },
+      {
         "id": 126309,
         "text": "⤷\nTitle:\nI Funded a Stranger’s Bank Card With My Own Money; and That’s Exactly the Problem\n════════════════════════\n𐀪\nAuthor:\nMuhammad Usman Faridi\n════════════════════════\nⴵ\nTime:\nFri, 17 Jul 2026 21:00:51 GMT\n════════════════════════\n⌗\nTags:\n#api_security\n#bola\n#ethical_hacking\n#cybersecurity\n#jwt_token",
         "date": "2026-07-17T22:04:09+00:00",
@@ -2206,56 +2252,10 @@
           "title": "When -1 Crossed a Library Boundary: How libvips Hardened Its TIFF Loader",
           "url": "https://medium.com/@aleens09/when-1-crossed-a-library-boundary-how-libvips-hardened-its-tiff-loader-35cda3e16544?source=rss------bug_bounty-5"
         }
-      },
-      {
-        "id": 126211,
-        "text": "⤷\nTitle:\nRoom 8 Is Live: Why Server-Side Request Forgery Still Challenges Modern Security Teams\n════════════════════════\n𐀪\nAuthor:\nTHM{0x416469747961204D6163686972616A75}\n════════════════════════\nⴵ\nTime:\nFri, 17 Jul 2026 06:28:36 GMT\n════════════════════════\n⌗\nTags:\n#web_security\n#owasp\n#bug_bounty\n#cybersecurity\n#penetration_testing",
-        "date": "2026-07-17T08:04:31+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126211_0_7475f475.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126211_1_c89ae46a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126211",
-        "link": {
-          "title": "Room 8 Is Live: Why Server-Side Request Forgery Still Challenges Modern Security Teams",
-          "url": "https://meetcyber.net/room-8-is-live-why-server-side-request-forgery-still-challenges-modern-security-teams-e3a3187ac0da?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 126210,
-        "text": "⤷\nTitle:\nFinding Reflected XSS Parameters Fast: A Deep Dive into RefleX\n════════════════════════\n𐀪\nAuthor:\nwhoami_404\n════════════════════════\nⴵ\nTime:\nFri, 17 Jul 2026 07:04:09 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#web_security\n#cybersecurity\n#python",
-        "date": "2026-07-17T08:04:28+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126210_0_7475f475.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126210_1_c40a1c8b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126210",
-        "link": {
-          "title": "Finding Reflected XSS Parameters Fast: A Deep Dive into RefleX",
-          "url": "https://medium.com/@arshadshoaib029/finding-reflected-xss-parameters-fast-a-deep-dive-into-reflex-ab5f063d7355?source=rss------bug_bounty-5"
-        }
       }
     ]
   },
-  "last_update": "2026-07-17T23:41:41.044526+00:00",
+  "last_update": "2026-07-18T01:15:23.756153+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2267,7 +2267,7 @@
     },
     "referenced_files": 188,
     "existing_media_files": 188,
-    "total_size_mb": 4.54,
-    "last_calculation": "2026-07-17T23:41:41.046286+00:00"
+    "total_size_mb": 4.59,
+    "last_calculation": "2026-07-18T01:15:23.758427+00:00"
   }
 }
