@@ -2,6 +2,121 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 126405,
+        "text": "⤷\nTitle:\nKioptrix Level 1 Walkthrough: From Enumeration to Root Access.\n════════════════════════\n𐀪\nAuthor:\nVarshith Reddy\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 19:24:43 GMT\n════════════════════════\n⌗\nTags:\n#vulnhub_walkthrough\n#offensive_security\n#privilege_escalation\n#linux_security\n#ethical_hacking",
+        "date": "2026-07-18T20:04:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126405_0_afba4756.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126405_1_a187ca4c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126405",
+        "link": {
+          "title": "Kioptrix Level 1 Walkthrough: From Enumeration to Root Access.",
+          "url": "https://medium.com/@chilukavarshith4005/kioptrix-level-1-walkthrough-from-enumeration-to-root-access-72f1a4833b8c?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 126404,
+        "text": "⤷\nTitle:\nGetting Started with bWAPP on Linux: Installation, Database Configuration, Service Management &…\n════════════════════════\n𐀪\nAuthor:\nOm Barot\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 18:08:07 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#ethical_hacking\n#web_security\n#kali_linux\n#cybersecurity",
+        "date": "2026-07-18T20:04:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126404_0_afba4756.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126404_1_eaff9c08.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126404",
+        "link": {
+          "title": "Getting Started with bWAPP on Linux: Installation, Database Configuration, Service Management &…",
+          "url": "https://medium.com/@llombarotll/getting-started-with-bwapp-on-linux-installation-database-configuration-service-management-4ec066592eee?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 126403,
+        "text": "⤷\nTitle:\n10 Ways to Encode an XSS Payload\n════════════════════════\n𐀪\nAuthor:\nDerek Johnston\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 18:29:15 GMT\n════════════════════════\n⌗\nTags:\n#xss_attack\n#bug_bounty\n#hacking\n#cybersecurity",
+        "date": "2026-07-18T20:03:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126403_0_afba4756.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126403_1_022cd08a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126403",
+        "link": {
+          "title": "10 Ways to Encode an XSS Payload",
+          "url": "https://systemweakness.com/10-ways-to-encode-an-xss-payload-daf64595ebcf?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 126402,
+        "text": "⤷\nTitle:\nFrom Reflected XSS to Critical Bug Led to Sensitive Data Leakage\n════════════════════════\n𐀪\nAuthor:\nNyx0r\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 18:43:37 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#cors\n#web_app_pentesting\n#xss_vulnerability",
+        "date": "2026-07-18T20:03:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126402_0_afba4756.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126402_1_456b3ba8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126402",
+        "link": {
+          "title": "From Reflected XSS to Critical Bug Led to Sensitive Data Leakage",
+          "url": "https://medium.com/@Nyx0r/from-reflected-xss-to-critical-bug-led-to-sensitive-data-leakage-229c61722992?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 126401,
+        "text": "⤷\nTitle:\nWhen XSS Meets CSRF\n════════════════════════\n𐀪\nAuthor:\nMainEkHacker\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 19:31:01 GMT\n════════════════════════\n⌗\nTags:\n#security\n#bug_bounty\n#websecurity_testing\n#cybersecurity\n#bug_bounty_writeup",
+        "date": "2026-07-18T20:03:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126401_0_afba4756.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126401_1_90786ac8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126401",
+        "link": {
+          "title": "When XSS Meets CSRF",
+          "url": "https://mainekhacker.medium.com/when-xss-meets-csrf-3d595df08d0e?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 126400,
         "text": "⤷\nTitle:\nDay 12: Log Correlation — Connecting the Dots to Detect Cyber Threats\n════════════════════════\n𐀪\nAuthor:\nSIAM AHMED\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 16:50:01 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#technology\n#cybersecurity\n#soc_analyst\n#deep_learning",
         "date": "2026-07-18T18:04:46+00:00",
@@ -2173,133 +2288,22 @@
           "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code",
           "url": "https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html"
         }
-      },
-      {
-        "id": 126305,
-        "text": "⤷\nTitle:\nInjectics | TryHackMe Walkthrough: SQL Injection & SSTI\n════════════════════════\n𐀪\nAuthor:\nroot0x9\n════════════════════════\nⴵ\nTime:\nFri, 17 Jul 2026 18:56:57 GMT\n════════════════════════\n⌗\nTags:\n#ssti_exploitation\n#web_app_pentesting\n#tryhackme_walkthrough\n#cybersecurity\n#sql_injection",
-        "date": "2026-07-17T20:04:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126305_0_7314cc12.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126305_1_04f3a708.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126305",
-        "link": {
-          "title": "Injectics | TryHackMe Walkthrough: SQL Injection & SSTI",
-          "url": "https://root0x09.medium.com/injectics-tryhackme-walkthrough-sql-injection-ssti-05292cf35567?source=rss------sql_injection-5"
-        }
-      },
-      {
-        "id": 126304,
-        "text": "⤷\nTitle:\nEnumeration & Brute Force TryHackMe Room Walkthrough\n════════════════════════\n𐀪\nAuthor:\nAmr Sebie\n════════════════════════\nⴵ\nTime:\nFri, 17 Jul 2026 19:20:57 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#tryhackme\n#ctf_writeup",
-        "date": "2026-07-17T20:04:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126304_0_7314cc12.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126304_1_1f2d6d9f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126304",
-        "link": {
-          "title": "Enumeration & Brute Force TryHackMe Room Walkthrough",
-          "url": "https://medium.com/@asoubea/enumeration-brute-force-tryhackme-room-walkthrough-4c6c6e5b51b0?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 126303,
-        "text": "⤷\nTitle:\nBreaking CCTV Manager — Solving YesWeHack Dojo #43\n════════════════════════\n𐀪\nAuthor:\n0xZeus\n════════════════════════\nⴵ\nTime:\nFri, 17 Jul 2026 19:44:08 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#yeswehack\n#ctf_writeup\n#ctf\n#yaml",
-        "date": "2026-07-17T20:04:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126303_0_7314cc12.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126303_1_22a294b2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126303",
-        "link": {
-          "title": "Breaking CCTV Manager — Solving YesWeHack Dojo #43",
-          "url": "https://medium.com/@napelyon55/breaking-cctv-manager-solving-yeswehack-dojo-43-4af5394795c0?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 126302,
-        "text": "⤷\nTitle:\nI Found a CSRF-Style Bug in Proton and Earned a $200 Bounty.\n════════════════════════\n𐀪\nAuthor:\nKenjisubagja\n════════════════════════\nⴵ\nTime:\nFri, 17 Jul 2026 18:04:07 GMT\n════════════════════════\n⌗\nTags:\n#bug_hunting\n#bugpoc\n#bug_bounty_writeup\n#bug_bounty\n#proton",
-        "date": "2026-07-17T20:04:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126302_0_7314cc12.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126302",
-        "link": {
-          "title": "I Found a CSRF-Style Bug in Proton and Earned a $200 Bounty.",
-          "url": "https://medium.com/@kenjisubagja/i-found-a-csrf-style-bug-in-simplelogin-and-earned-a-200-bounty-7f0375f785d1?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 126301,
-        "text": "⤷\nTitle:\nI Ignored the Lab Instructions and Solved It My Own Way -Here’s What I Learned\n════════════════════════\n𐀪\nAuthor:\nPushkar Padhye\n════════════════════════\nⴵ\nTime:\nFri, 17 Jul 2026 18:10:42 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#infosec\n#security\n#web_development\n#bug_bounty",
-        "date": "2026-07-17T20:03:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126301_0_7314cc12.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126301_1_3f66d63c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126301",
-        "link": {
-          "title": "I Ignored the Lab Instructions and Solved It My Own Way -Here’s What I Learned",
-          "url": "https://medium.com/@padhyepushkar/i-ignored-the-lab-instructions-and-solved-it-my-own-way-heres-what-i-learned-9558f67341a3?source=rss------bug_bounty-5"
-        }
       }
     ]
   },
-  "last_update": "2026-07-18T19:39:40.261484+00:00",
+  "last_update": "2026-07-18T20:36:54.885327+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 196,
-    "total_files": 196,
+    "total_media": 197,
+    "total_files": 197,
     "total_links": 0,
     "files_by_type": {
-      "image": 196
+      "image": 197
     },
-    "referenced_files": 196,
-    "existing_media_files": 196,
-    "total_size_mb": 5.6,
-    "last_calculation": "2026-07-18T19:39:40.263760+00:00"
+    "referenced_files": 197,
+    "existing_media_files": 197,
+    "total_size_mb": 5.86,
+    "last_calculation": "2026-07-18T20:36:54.887676+00:00"
   }
 }
