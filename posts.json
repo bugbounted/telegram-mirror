@@ -2,6 +2,190 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 126413,
+        "text": "⤷\nTitle:\nI Hardened a Linux Server, Lost It to My Own Mistake, and Rebuilt It From My Own Notes\n════════════════════════\n𐀪\nAuthor:\nHammad Khan | SOC & Pentesting\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 21:24:23 GMT\n════════════════════════\n⌗\nTags:\n#ubuntu\n#security\n#cybersecurity\n#ethical_hacking\n#linux",
+        "date": "2026-07-18T22:04:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126413_0_afba4756.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126413_1_fe259761.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126413",
+        "link": {
+          "title": "I Hardened a Linux Server, Lost It to My Own Mistake, and Rebuilt It From My Own Notes",
+          "url": "https://medium.com/@hammad.k.sec/i-hardened-a-linux-server-lost-it-to-my-own-mistake-and-rebuilt-it-from-my-own-notes-6b9f17902324?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 126412,
+        "text": "⤷\nTitle:\nTryHackMe: Guided Pentest Web\n════════════════════════\n𐀪\nAuthor:\nl1nux\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 20:58:42 GMT\n════════════════════════\n⌗\nTags:\n#education\n#technology\n#computer_science\n#tryhackme\n#cybersecurity",
+        "date": "2026-07-18T22:04:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126412_0_afba4756.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126412_1_0ec8d456.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126412",
+        "link": {
+          "title": "TryHackMe: Guided Pentest Web",
+          "url": "https://l1nux.medium.com/tryhackme-guided-pentest-web-401966ce4d41?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 126411,
+        "text": "⤷\nTitle:\nTask 2.1 -> Reconnaissance (Further Nmap)\n════════════════════════\n𐀪\nAuthor:\nGunay Safarzadeh\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 21:22:05 GMT\n════════════════════════\n⌗\nTags:\n#network_security\n#tryhackme\n#ethical_hacking\n#cybersecurity",
+        "date": "2026-07-18T22:04:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126411_0_afba4756.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126411_1_1878cc37.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126411",
+        "link": {
+          "title": "Task 2.1 -> Reconnaissance (Further Nmap)",
+          "url": "https://medium.com/@gunaysafarzadeh01/task-2-1-reconnaissance-further-nmap-ab5bc371c970?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 126410,
+        "text": "⤷\nTitle:\nNetwork Traffic Carving\n════════════════════════\n𐀪\nAuthor:\nPop123\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 21:26:57 GMT\n════════════════════════\n⌗\nTags:\n#networking\n#wireshark\n#tutorial\n#cybersecurity\n#tryhackme",
+        "date": "2026-07-18T22:04:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126410_0_afba4756.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126410_1_ff6ba5ec.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126410",
+        "link": {
+          "title": "Network Traffic Carving",
+          "url": "https://infosecwriteups.com/network-traffic-carving-42ed0078b59c?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 126409,
+        "text": "⤷\nTitle:\nWalkthrough OffSec — ColdBoxEasy\n════════════════════════\n𐀪\nAuthor:\nVyom Maloo\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 20:30:49 GMT\n════════════════════════\n⌗\nTags:\n#offsec\n#penetration_testing\n#web_penetration_testing\n#cybersecurity\n#privilege_escalation",
+        "date": "2026-07-18T22:03:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126409_0_afba4756.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126409_1_efd463a1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126409",
+        "link": {
+          "title": "Walkthrough OffSec — ColdBoxEasy",
+          "url": "https://meetcyber.net/walkthrough-offsec-coldboxeasy-857f4ba4c5e0?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 126408,
+        "text": "⤷\nTitle:\nTryHackMe: Hammer Walkthrough\n════════════════════════\n𐀪\nAuthor:\nFarid Narimanov\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 21:45:43 GMT\n════════════════════════\n⌗\nTags:\n#web_penetration_testing\n#penetration_testing\n#vulnhub\n#ctf\n#cybersecurity",
+        "date": "2026-07-18T22:03:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126408_0_afba4756.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126408_1_c89d3985.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126408",
+        "link": {
+          "title": "TryHackMe: Hammer Walkthrough",
+          "url": "https://medium.com/@faridnarimanof/tryhackme-hammer-walkthrough-9242763ff766?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 126407,
+        "text": "⤷\nTitle:\nYour AI Coding Assistant Doesn’t Need You to Click Anything to Get Hacked\n════════════════════════\n𐀪\nAuthor:\nPragya Mittal\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 20:29:15 GMT\n════════════════════════\n⌗\nTags:\n#trending\n#ai\n#hacking\n#technology",
+        "date": "2026-07-18T22:03:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126407_0_afba4756.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126407_1_552b7461.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126407",
+        "link": {
+          "title": "Your AI Coding Assistant Doesn’t Need You to Click Anything to Get Hacked",
+          "url": "https://medium.com/@pragyaagrasenmittal/your-ai-coding-assistant-doesnt-need-you-to-click-anything-to-get-hacked-cfaaf0572181?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 126406,
+        "text": "⤷\nTitle:\nBug Bounty Pre-Recon Methodology: A Beginner’s Guide to Finding the Attack Surface\n════════════════════════\n𐀪\nAuthor:\nAk-4!7\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 20:56:16 GMT\n════════════════════════\n⌗\nTags:\n#learning\n#reconnaissance\n#bug_bounty\n#cybersecurity",
+        "date": "2026-07-18T22:03:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126406_0_afba4756.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126406_1_72e727ed.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126406",
+        "link": {
+          "title": "Bug Bounty Pre-Recon Methodology: A Beginner’s Guide to Finding the Attack Surface",
+          "url": "https://medium.com/@nsm10a01akhil/bug-bounty-pre-recon-methodology-a-beginners-guide-to-finding-the-attack-surface-892e5699e5e8?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 126405,
         "text": "⤷\nTitle:\nKioptrix Level 1 Walkthrough: From Enumeration to Root Access.\n════════════════════════\n𐀪\nAuthor:\nVarshith Reddy\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 19:24:43 GMT\n════════════════════════\n⌗\nTags:\n#vulnhub_walkthrough\n#offensive_security\n#privilege_escalation\n#linux_security\n#ethical_hacking",
         "date": "2026-07-18T20:04:04+00:00",
@@ -2112,198 +2296,22 @@
           "title": "Breaking the iframes: Modern Clickjacking Attacks Explained",
           "url": "https://osintteam.blog/breaking-the-iframes-modern-clickjacking-attacks-explained-3032da7c238f?source=rss------bug_bounty-5"
         }
-      },
-      {
-        "id": 126313,
-        "text": "⤷\nTitle:\nAPT-C-60 Attacks Target Japan With SpyGlace Malware\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 01:00:11 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#APT_C_60\n#Japan\n#JPCERT\n#living_off_the_land\n#LNK\nmalware\n#spear_phishing\n#SpyGlace",
-        "date": "2026-07-18T02:03:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126313_0_7314cc12.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126313_1_daa35730.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126313",
-        "link": {
-          "title": "APT-C-60 Attacks Target Japan With SpyGlace Malware",
-          "url": "https://securityonline.info/apt-c-60-attacks-spyglace-malware/"
-        }
-      },
-      {
-        "id": 126312,
-        "text": "⤷\nTitle:\nWordPress Pre-Auth RCE CVE-2026-63030: Vulnerability Details and PoC Exploit Code Now Public\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 01:55:40 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_60137\n#CVE_2026_63030\n#Pre_Auth\nRCE\n#proof_of_concept\n#REST\nAPI\n#Searchlight\nCyber\n#sql\ninjection\n#wordpress\n#wp2shell",
-        "date": "2026-07-18T02:03:51+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126312_0_7314cc12.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126312_1_9726579d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126312",
-        "link": {
-          "title": "WordPress Pre-Auth RCE CVE-2026-63030: Vulnerability Details and PoC Exploit Code Now Public",
-          "url": "https://securityonline.info/wordpress-pre-auth-rce-cve-2026-63030/"
-        }
-      },
-      {
-        "id": 126311,
-        "text": "⤷\nTitle:\nI Found 400 Hidden Subdomains On My First Target Using One Free Tool\n════════════════════════\n𐀪\nAuthor:\nYamini Yadav_369\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 00:00:58 GMT\n════════════════════════\n⌗\nTags:\n#medium\n#bug_bounty\n#bug_bounty_tips\n#cybersecurity\n#ethical_hacking",
-        "date": "2026-07-18T00:03:51+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126311_0_7314cc12.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126311_1_a42f464e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126311",
-        "link": {
-          "title": "I Found 400 Hidden Subdomains On My First Target Using One Free Tool",
-          "url": "https://osintteam.blog/i-found-400-hidden-subdomains-on-my-first-target-using-one-free-tool-19c720fdf304?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 126310,
-        "text": "⤷\nTitle:\nThis Free Tool Showed Me A Company’s Deleted API Keys From 2019\n════════════════════════\n𐀪\nAuthor:\nYamini Yadav_369\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 00:01:41 GMT\n════════════════════════\n⌗\nTags:\n#medium\n#ethical_hacking\n#bug_bounty\n#penetration_testing\n#cybersecurity",
-        "date": "2026-07-18T00:03:48+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126310_0_7314cc12.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126310_1_d614d799.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126310",
-        "link": {
-          "title": "This Free Tool Showed Me A Company’s Deleted API Keys From 2019",
-          "url": "https://osintteam.blog/this-free-tool-showed-me-a-companys-deleted-api-keys-from-2019-94286224b4ab?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 126309,
-        "text": "⤷\nTitle:\nI Funded a Stranger’s Bank Card With My Own Money; and That’s Exactly the Problem\n════════════════════════\n𐀪\nAuthor:\nMuhammad Usman Faridi\n════════════════════════\nⴵ\nTime:\nFri, 17 Jul 2026 21:00:51 GMT\n════════════════════════\n⌗\nTags:\n#api_security\n#bola\n#ethical_hacking\n#cybersecurity\n#jwt_token",
-        "date": "2026-07-17T22:04:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126309_0_7314cc12.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126309_1_3d5b8f1d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126309",
-        "link": {
-          "title": "I Funded a Stranger’s Bank Card With My Own Money; and That’s Exactly the Problem",
-          "url": "https://infosecwriteups.com/i-funded-a-strangers-bank-card-with-my-own-money-and-that-s-exactly-the-problem-a3bfc069a8b9?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 126308,
-        "text": "⤷\nTitle:\nMy eJPT Experience: First Offensive Security Certificate\n════════════════════════\n𐀪\nAuthor:\nFarid Narimanov\n════════════════════════\nⴵ\nTime:\nFri, 17 Jul 2026 20:38:31 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#ejptv2\n#penetration_testing\n#cybersecurity\n#ethical_hacking",
-        "date": "2026-07-17T22:04:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126308_0_7314cc12.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126308_1_2acc1718.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126308",
-        "link": {
-          "title": "My eJPT Experience: First Offensive Security Certificate",
-          "url": "https://medium.com/@faridnarimanof/my-ejpt-experience-first-offensive-security-certificate-fc0deccd16c6?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 126307,
-        "text": "⤷\nTitle:\nOpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 01:50:53 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-07-17T22:04:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126307_0_7314cc12.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126307",
-        "link": {
-          "title": "OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests",
-          "url": "https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html"
-        }
-      },
-      {
-        "id": 126306,
-        "text": "⤷\nTitle:\nNew wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 02:50:10 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-07-17T22:03:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126306_0_7314cc12.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126306",
-        "link": {
-          "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code",
-          "url": "https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html"
-        }
       }
     ]
   },
-  "last_update": "2026-07-18T21:39:35.930421+00:00",
+  "last_update": "2026-07-18T22:37:27.820532+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 197,
-    "total_files": 197,
+    "total_media": 199,
+    "total_files": 199,
     "total_links": 0,
     "files_by_type": {
-      "image": 197
+      "image": 199
     },
-    "referenced_files": 197,
-    "existing_media_files": 197,
-    "total_size_mb": 5.86,
-    "last_calculation": "2026-07-18T21:39:35.932894+00:00"
+    "referenced_files": 199,
+    "existing_media_files": 199,
+    "total_size_mb": 6.09,
+    "last_calculation": "2026-07-18T22:37:27.822992+00:00"
   }
 }
