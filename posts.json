@@ -2,6 +2,236 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 126483,
+        "text": "⤷\nTitle:\nLogin Logic: Exploiting Boolean-Based Blind SQL Injection\n════════════════════════\n𐀪\nAuthor:\nAyobami olaniyi\n════════════════════════\nⴵ\nTime:\nSun, 19 Jul 2026 16:36:25 GMT\n════════════════════════\n⌗\nTags:\n#web_application_security\n#sql_injection\n#cybersecurity",
+        "date": "2026-07-19T18:04:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126483_0_2fb3887b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126483_1_a3862d6a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126483",
+        "link": {
+          "title": "Login Logic: Exploiting Boolean-Based Blind SQL Injection",
+          "url": "https://medium.com/@danielolaniyi400/login-logic-exploiting-boolean-based-blind-sql-injection-0d519acb73ff?source=rss------sql_injection-5"
+        }
+      },
+      {
+        "id": 126482,
+        "text": "⤷\nTitle:\nDay 13: Detection Engineering — Turning Attacker Behavior Into Actionable Security Detections\n════════════════════════\n𐀪\nAuthor:\nSIAM AHMED\n════════════════════════\nⴵ\nTime:\nSun, 19 Jul 2026 16:27:42 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#soc_analyst\n#deep_learning\n#cybersecurity\n#technology",
+        "date": "2026-07-19T18:04:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126482_0_2fb3887b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126482_1_ee11dc3c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126482",
+        "link": {
+          "title": "Day 13: Detection Engineering — Turning Attacker Behavior Into Actionable Security Detections",
+          "url": "https://medium.com/@ahmedseam094/day-13-detection-engineering-turning-attacker-behavior-into-actionable-security-detections-7cd43bcec381?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 126481,
+        "text": "⤷\nTitle:\nThe disk Group: The Quietest Root Shell You'll Ever Hand Out\n════════════════════════\n𐀪\nAuthor:\nKalash Kundaliya\n════════════════════════\nⴵ\nTime:\nSun, 19 Jul 2026 17:28:32 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#walkthrough\n#disk\n#cybersecurity\n#privilege_escalation",
+        "date": "2026-07-19T18:04:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126481_0_2fb3887b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126481_1_075021c4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126481",
+        "link": {
+          "title": "The disk Group: The Quietest Root Shell You'll Ever Hand Out",
+          "url": "https://medium.com/@kalashkundaliya/the-disk-group-the-quietest-root-shell-youll-ever-hand-out-2f8137949da8?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 126480,
+        "text": "⤷\nTitle:\nJavaScript: Simple Demo\n════════════════════════\n𐀪\nAuthor:\nb4t54ndw1ch\n════════════════════════\nⴵ\nTime:\nSun, 19 Jul 2026 17:13:32 GMT\n════════════════════════\n⌗\nTags:\n#javascript\n#tryhackme",
+        "date": "2026-07-19T18:04:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126480_0_2fb3887b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126480_1_a9cc2e7c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126480",
+        "link": {
+          "title": "JavaScript: Simple Demo",
+          "url": "https://medium.com/@b4t54ndw1ch/javascript-simple-demo-2237da3302e8?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 126479,
+        "text": "⤷\nTitle:\nSimplifying Python Web Scraping with Playwright\n════════════════════════\n𐀪\nAuthor:\nYatin Anuj Kashyap\n════════════════════════\nⴵ\nTime:\nSun, 19 Jul 2026 16:52:51 GMT\n════════════════════════\n⌗\nTags:\n#python\n#playwright_test\n#penetration_testing\n#automation\n#web_scraping",
+        "date": "2026-07-19T18:04:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126479_0_2fb3887b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126479_1_a4c84950.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126479",
+        "link": {
+          "title": "Simplifying Python Web Scraping with Playwright",
+          "url": "https://medium.com/@yatinkashyap1252/simplifying-python-web-scraping-with-playwright-d42b892622bc?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 126478,
+        "text": "⤷\nTitle:\nWhat Happens to Your Data After a Company Gets Hacked? (It’s Worse Than Most People Think)\n════════════════════════\n𐀪\nAuthor:\nBENSEC\n════════════════════════\nⴵ\nTime:\nSun, 19 Jul 2026 16:12:58 GMT\n════════════════════════\n⌗\nTags:\n#information_technology\n#technology\n#darkweb\n#hacking\n#cybersecurity",
+        "date": "2026-07-19T18:04:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126478_0_2fb3887b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126478_1_9e695058.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126478",
+        "link": {
+          "title": "What Happens to Your Data After a Company Gets Hacked? (It’s Worse Than Most People Think)",
+          "url": "https://medium.com/@bensec/what-happens-to-your-data-after-a-company-gets-hacked-its-worse-than-most-people-think-090896f193b2?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 126477,
+        "text": "⤷\nTitle:\nVulnNet Roasted — TryHackMe Active Directory Write-up\n════════════════════════\n𐀪\nAuthor:\nKavin Jindal\n════════════════════════\nⴵ\nTime:\nSun, 19 Jul 2026 16:22:19 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#tryhackme\n#cybersecurity\n#ctf_writeup",
+        "date": "2026-07-19T18:04:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126477_0_2fb3887b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126477_1_ab882572.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126477",
+        "link": {
+          "title": "VulnNet Roasted — TryHackMe Active Directory Write-up",
+          "url": "https://infosecwriteups.com/vulnnet-roasted-tryhackme-active-directory-write-up-9cdfccacc13e?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 126476,
+        "text": "⤷\nTitle:\nHow Much Can a Stranger Learn About You From Public Information Alone? An OSINT Case Study\n════════════════════════\n𐀪\nAuthor:\nYassin Hamada\n════════════════════════\nⴵ\nTime:\nSun, 19 Jul 2026 16:29:26 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#infosec\n#osint\n#cybersecurity",
+        "date": "2026-07-19T18:04:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126476_0_2fb3887b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126476_1_9545c381.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126476",
+        "link": {
+          "title": "How Much Can a Stranger Learn About You From Public Information Alone? An OSINT Case Study",
+          "url": "https://medium.com/@hdhffxfg/how-much-can-a-stranger-learn-about-you-from-public-information-alone-an-osint-case-study-25bff4106af0?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 126475,
+        "text": "⤷\nTitle:\nRocket : HTB\n════════════════════════\n𐀪\nAuthor:\nOnix.09\n════════════════════════\nⴵ\nTime:\nSun, 19 Jul 2026 16:46:34 GMT\n════════════════════════\n⌗\nTags:\n#htb\n#hacking\n#rocket_htb\n#rockets",
+        "date": "2026-07-19T18:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126475_0_2fb3887b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126475_1_b8352508.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126475",
+        "link": {
+          "title": "Rocket : HTB",
+          "url": "https://medium.com/@aryanmalto9/rocket-htb-0a5268ea0990?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 126474,
+        "text": "⤷\nTitle:\nHacking the Human Mind\n════════════════════════\n𐀪\nAuthor:\nGuillermo Pineda\n════════════════════════\nⴵ\nTime:\nSun, 19 Jul 2026 17:17:20 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ethical_hacking\n#hacking\n#cyberattack",
+        "date": "2026-07-19T18:03:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126474_0_2fb3887b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126474_1_55ebfdc8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126474",
+        "link": {
+          "title": "Hacking the Human Mind",
+          "url": "https://meetcyber.net/hacking-the-human-mind-dffaa248d84c?source=rss------hacking-5"
+        }
+      },
+      {
         "id": 126473,
         "text": "⤷\nTitle:\nHow One X Creator Made $17,546\n════════════════════════\n𐀪\nAuthor:\nSushila Devi\n════════════════════════\nⴵ\nTime:\nSun, 19 Jul 2026 14:05:10 GMT\n════════════════════════\n⌗\nTags:\n#payouts\n#money\n#creator_revenue\n#xs",
         "date": "2026-07-19T16:04:20+00:00",
@@ -2058,240 +2288,10 @@
           "title": "US Justice Department Approves TikTok for Government Devices",
           "url": "https://securityonline.info/doj-approves-tiktok-government-devices/"
         }
-      },
-      {
-        "id": 126383,
-        "text": "⤷\nTitle:\nPentesterLab — Recon 10: Visual Reconnaissance\n════════════════════════\n𐀪\nAuthor:\nYosef\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 15:13:45 GMT\n════════════════════════\n⌗\nTags:\n#pentesting\n#cybersecurity\n#recon",
-        "date": "2026-07-18T16:04:29+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126383_0_afba4756.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126383_1_697f48d4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126383",
-        "link": {
-          "title": "PentesterLab — Recon 10: Visual Reconnaissance",
-          "url": "https://medium.com/@G4f3r/pentesterlab-recon-10-visual-reconnaissance-7a359ea73152?source=rss------recon-5"
-        }
-      },
-      {
-        "id": 126382,
-        "text": "⤷\nTitle:\n[POC] Cara Saya Menemukan Celah User Enumeration & Missing Rate Limiting (Universitas Brawijaya)\n════════════════════════\n𐀪\nAuthor:\nxenzuu7\n════════════════════════\nⴵ\nTime:\nFri, 17 Jul 2026 17:05:53 GMT\n════════════════════════\n⌗\nTags:\n#information_security\n#cybersecurity\n#bug_bounty_writeup\n#web_security",
-        "date": "2026-07-18T16:04:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126382_0_afba4756.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126382_1_d6215dd4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126382",
-        "link": {
-          "title": "[POC] Cara Saya Menemukan Celah User Enumeration & Missing Rate Limiting (Universitas Brawijaya)",
-          "url": "https://medium.com/@Xenzuu7/cara-saya-menemukan-celah-user-enumeration-missing-rate-limiting-universitas-brawijaya-9f30e220223b?source=rss------bug_bounty_writeup-5"
-        }
-      },
-      {
-        "id": 126381,
-        "text": "⤷\nTitle:\nCTF: Jump TryhackMe Room\n════════════════════════\n𐀪\nAuthor:\nDuong\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 14:22:11 GMT\n════════════════════════\n⌗\nTags:\n#privilege_escalation\n#ctf\n#tryhackme",
-        "date": "2026-07-18T16:04:22+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126381_0_afba4756.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126381_1_ae5c8fa1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126381",
-        "link": {
-          "title": "CTF: Jump TryhackMe Room",
-          "url": "https://medium.com/@duong26012002/ctf-jump-tryhackme-room-5919e082c5d8?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 126380,
-        "text": "⤷\nTitle:\nVulnhub: Twilight Walkthrough\n════════════════════════\n𐀪\nAuthor:\nFarid Narimanov\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 14:33:07 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#cybersecurity\n#ethical_hacking\n#vulnhub\n#infosec",
-        "date": "2026-07-18T16:04:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126380_0_afba4756.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126380_1_dc0e0bc7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126380",
-        "link": {
-          "title": "Vulnhub: Twilight Walkthrough",
-          "url": "https://medium.com/@faridnarimanof/vulnhub-twilight-walkthrough-e3d217c7e901?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 126379,
-        "text": "⤷\nTitle:\nThe 16-Year Wait is Over: Meet the New HTTP QUERY Method\n════════════════════════\n𐀪\nAuthor:\nSushil Ram\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 15:36:29 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#api\n#web_development\n#cybersecurity\n#software_development",
-        "date": "2026-07-18T16:04:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126379_0_afba4756.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126379_1_1519b62b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126379",
-        "link": {
-          "title": "The 16-Year Wait is Over: Meet the New HTTP QUERY Method",
-          "url": "https://sushil1337.medium.com/the-16-year-wait-is-over-meet-the-new-http-query-method-1f8d98ba381b?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 126378,
-        "text": "⤷\nTitle:\nBypass TryHackMe Lab\n════════════════════════\n𐀪\nAuthor:\nGamuchirai\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 15:29:29 GMT\n════════════════════════\n⌗\nTags:\n#website\n#hacking\n#authentication_bypass\n#red_team\n#web3",
-        "date": "2026-07-18T16:04:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126378_0_afba4756.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126378_1_5a694261.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126378",
-        "link": {
-          "title": "Bypass TryHackMe Lab",
-          "url": "https://medium.com/@.rai/bypass-tryhackme-lab-5cd1e0954665?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 126377,
-        "text": "⤷\nTitle:\nPrompt Injection Is Just SSRF for Text. MCP Security → Part 3\n════════════════════════\n𐀪\nAuthor:\nAbhishek meena\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 14:30:16 GMT\n════════════════════════\n⌗\nTags:\n#ssrf\n#mcp_security\n#bug_bounty_tips\n#bug_bounty\n#prompt_injection_attack",
-        "date": "2026-07-18T16:04:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126377_0_afba4756.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126377_1_39d0a968.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126377",
-        "link": {
-          "title": "Prompt Injection Is Just SSRF for Text. MCP Security → Part 3",
-          "url": "https://medium.com/@Aacle/prompt-injection-is-just-ssrf-for-text-7c864c73571e?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 126376,
-        "text": "⤷\nTitle:\nIt Worked, Then It Didn’t, Then I Understood Why: A Bug Bounty Story on Authorization Bypass\n════════════════════════\n𐀪\nAuthor:\nAtharv Chawan\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 14:51:28 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#bug_bounty\n#bug_bounty_writeup",
-        "date": "2026-07-18T16:04:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126376_0_afba4756.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126376_1_be67e245.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126376",
-        "link": {
-          "title": "It Worked, Then It Didn’t, Then I Understood Why: A Bug Bounty Story on Authorization Bypass",
-          "url": "https://atharvchawan.medium.com/it-worked-then-it-didnt-then-i-understood-why-a-bug-bounty-story-on-authorization-bypass-8104ff822da6?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 126375,
-        "text": "⤷\nTitle:\nAuthorization Bypass via Privilege Persistence After Role Downgrade in Hasura PromptQL\n════════════════════════\n𐀪\nAuthor:\nAhmed Embaby\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 15:12:35 GMT\n════════════════════════\n⌗\nTags:\n#web_security\n#authorization\n#bug_bounty\n#cybersecurity\n#graphql",
-        "date": "2026-07-18T16:04:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126375_0_afba4756.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126375_1_991df898.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126375",
-        "link": {
-          "title": "Authorization Bypass via Privilege Persistence After Role Downgrade in Hasura PromptQL",
-          "url": "https://medium.com/@0xembaby/authorization-bypass-via-privilege-persistence-after-role-downgrade-in-hasura-promptql-85be47dbac5a?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 126374,
-        "text": "⤷\nTitle:\nZero Requiem: The $5,000 Blind SSRF Chain That Owned Lelouch Lamperouge\n════════════════════════\n𐀪\nAuthor:\n0B1To_X_ucH!h4\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 15:31:43 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#rce",
-        "date": "2026-07-18T16:03:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126374_0_afba4756.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126374_1_91769d94.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126374",
-        "link": {
-          "title": "Zero Requiem: The $5,000 Blind SSRF Chain That Owned Lelouch Lamperouge",
-          "url": "https://atanupal22256.medium.com/zero-requiem-the-5-000-blind-ssrf-chain-that-owned-lelouch-lamperouge-f0e00c919213?source=rss------bug_bounty-5"
-        }
       }
     ]
   },
-  "last_update": "2026-07-19T17:31:27.199253+00:00",
+  "last_update": "2026-07-19T18:29:36.253321+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2303,7 +2303,7 @@
     },
     "referenced_files": 197,
     "existing_media_files": 197,
-    "total_size_mb": 5.19,
-    "last_calculation": "2026-07-19T17:31:27.201587+00:00"
+    "total_size_mb": 5.06,
+    "last_calculation": "2026-07-19T18:29:36.255697+00:00"
   }
 }
