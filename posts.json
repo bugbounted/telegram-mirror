@@ -2,6 +2,328 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 126449,
+        "text": "⤷\nTitle:\nNmap commands (Part-4)\n════════════════════════\n𐀪\nAuthor:\nAkhil Thakur\n════════════════════════\nⴵ\nTime:\nSun, 19 Jul 2026 09:30:38 GMT\n════════════════════════\n⌗\nTags:\n#nmap\n#cybersecurity\n#commands\n#nmap_command\n#ethical_hacking",
+        "date": "2026-07-19T10:04:42+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126449_0_afba4756.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126449_1_76c9321b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126449",
+        "link": {
+          "title": "Nmap commands (Part-4)",
+          "url": "https://blog.stackademic.com/nmap-commands-part-4-a49b1f625ede?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 126448,
+        "text": "⤷\nTitle:\nSiXeS: 1 — VulnHub Walkthrough\n════════════════════════\n𐀪\nAuthor:\nRootxsecuritynetwork\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 16:21:02 GMT\n════════════════════════\n⌗\nTags:\n#vulnhub\n#penetration_testing\n#capture_the_flag\n#cybersecurity\n#ethical_hacking",
+        "date": "2026-07-19T10:04:39+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126448_0_afba4756.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126448_1_120c298c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126448",
+        "link": {
+          "title": "SiXeS: 1 — VulnHub Walkthrough",
+          "url": "https://medium.com/@rootxsecuritynetwork7393/sixes-1-complete-walkthrough-and-flag-capture-8f65482ff6e3?source=rss------vulnhub-5"
+        }
+      },
+      {
+        "id": 126447,
+        "text": "⤷\nTitle:\nCTF: Windows Jump TryhackMe Room\n════════════════════════\n𐀪\nAuthor:\nDuong\n════════════════════════\nⴵ\nTime:\nSun, 19 Jul 2026 07:55:04 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#ctf\n#privilege_escalation\n#windows\n#smbclient",
+        "date": "2026-07-19T10:04:35+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126447_0_afba4756.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126447_1_37ffa803.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126447",
+        "link": {
+          "title": "CTF: Windows Jump TryhackMe Room",
+          "url": "https://medium.com/@duong26012002/ctf-windows-jump-tryhackme-room-387c8e23fda0?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 126446,
+        "text": "⤷\nTitle:\nTryHackMe: Fools Mate\n════════════════════════\n𐀪\nAuthor:\nl1nux\n════════════════════════\nⴵ\nTime:\nSun, 19 Jul 2026 08:06:22 GMT\n════════════════════════\n⌗\nTags:\n#education\n#computer_science\n#tryhackme\n#technology\n#cybersecurity",
+        "date": "2026-07-19T10:04:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126446_0_afba4756.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126446_1_e804561c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126446",
+        "link": {
+          "title": "TryHackMe: Fools Mate",
+          "url": "https://l1nux.medium.com/tryhackme-fools-mate-18262a2ba273?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 126445,
+        "text": "⤷\nTitle:\nIce || TryHackMe\n════════════════════════\n𐀪\nAuthor:\nMoatef\n════════════════════════\nⴵ\nTime:\nSun, 19 Jul 2026 09:43:14 GMT\n════════════════════════\n⌗\nTags:\n#programming\n#red_team\n#cybersecurity\n#tryhackme",
+        "date": "2026-07-19T10:04:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126445_0_afba4756.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126445_1_099b1f66.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126445",
+        "link": {
+          "title": "Ice || TryHackMe",
+          "url": "https://medium.com/@moatef7308/ice-tryhackme-7c5e8ffc6889?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 126444,
+        "text": "⤷\nTitle:\nEscaping the Corridor: A Walkthrough of the Tryhackme Room\n════════════════════════\n𐀪\nAuthor:\nFrozenIntegar\n════════════════════════\nⴵ\nTime:\nSun, 19 Jul 2026 09:45:15 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_walkthrough\n#tryhackme\n#tryhackme_writeup\n#burpsuite",
+        "date": "2026-07-19T10:04:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126444_0_afba4756.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126444_1_42edbc2f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126444",
+        "link": {
+          "title": "Escaping the Corridor: A Walkthrough of the Tryhackme Room",
+          "url": "https://medium.com/@sg4073805/escaping-the-corridor-a-walkthrough-of-the-tryhackme-room-db678ce650cd?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 126443,
+        "text": "⤷\nTitle:\nPyRat — TryHackMe WriteUp with Flags\n════════════════════════\n𐀪\nAuthor:\nRayenhafsawy\n════════════════════════\nⴵ\nTime:\nSun, 19 Jul 2026 09:47:02 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_writeup\n#tryhackme_walkthrough\n#tryhackme\n#ctf_writeup\n#ctf",
+        "date": "2026-07-19T10:04:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126443_0_afba4756.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126443_1_f6642f75.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126443",
+        "link": {
+          "title": "PyRat — TryHackMe WriteUp with Flags",
+          "url": "https://medium.com/@rayenhafsawy/pyrat-tryhackme-writeup-with-flags-1ef6e9d4ee37?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 126442,
+        "text": "⤷\nTitle:\nHow Shodan Maps the Entire Internet — And What That Means for Your Infrastructure\n════════════════════════\n𐀪\nAuthor:\nMohan Sai Krishna G M\n════════════════════════\nⴵ\nTime:\nSun, 19 Jul 2026 09:38:45 GMT\n════════════════════════\n⌗\nTags:\n#shodan\n#tech\n#penetration_testing\n#cybersecurity\n#technology",
+        "date": "2026-07-19T10:04:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126442_0_afba4756.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126442_1_5c41605f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126442",
+        "link": {
+          "title": "How Shodan Maps the Entire Internet — And What That Means for Your Infrastructure",
+          "url": "https://meetcyber.net/how-shodan-maps-the-entire-internet-and-what-that-means-for-your-infrastructure-bf290f40b66a?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 126441,
+        "text": "⤷\nTitle:\nWhat an AI Penetration Test Actually Covers\n════════════════════════\n𐀪\nAuthor:\nPentest_Testing_Corp\n════════════════════════\nⴵ\nTime:\nSun, 19 Jul 2026 09:48:43 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#cybersecurity\n#llm_security\n#penetration_testing\n#ai_security",
+        "date": "2026-07-19T10:04:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126441_0_afba4756.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126441_1_740fa474.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126441",
+        "link": {
+          "title": "What an AI Penetration Test Actually Covers",
+          "url": "https://meetcyber.net/what-an-ai-penetration-test-actually-covers-7634435cc422?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 126440,
+        "text": "⤷\nTitle:\nHow CMP, JMP, and JE Make Malware Smart And Detect Debuggers (The Boss’s Decision Doors)\n════════════════════════\n𐀪\nAuthor:\nAnees\n════════════════════════\nⴵ\nTime:\nSun, 19 Jul 2026 08:03:36 GMT\n════════════════════════\n⌗\nTags:\n#programming\n#malware\n#software_engineering\n#hacking\n#cybersecurity",
+        "date": "2026-07-19T10:04:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126440_0_afba4756.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126440_1_3aac3694.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126440",
+        "link": {
+          "title": "How CMP, JMP, and JE Make Malware Smart And Detect Debuggers (The Boss’s Decision Doors)",
+          "url": "https://medium.com/@anees78788878/how-cmp-jmp-and-je-make-malware-smart-and-detect-debuggers-the-bosss-decision-doors-b8ddef919b4e?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 126439,
+        "text": "⤷\nTitle:\nHTB Space Explorer Writeup\n════════════════════════\n𐀪\nAuthor:\nRaviaravindhan Official\n════════════════════════\nⴵ\nTime:\nSun, 19 Jul 2026 08:06:00 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ethical_hacking\n#hackthebox_walkthrough\n#hack_the_box_walkthrough\n#hacking",
+        "date": "2026-07-19T10:04:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126439_0_afba4756.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126439_1_c9ead9bc.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126439",
+        "link": {
+          "title": "HTB Space Explorer Writeup",
+          "url": "https://medium.com/@raviaravindhan.official/htb-space-explorer-writeup-07fb8945aa6a?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 126438,
+        "text": "⤷\nTitle:\nThe Code Was Fine. The Access Model Was Not.\n════════════════════════\n𐀪\nAuthor:\nShiki65536@TechRoamer\n════════════════════════\nⴵ\nTime:\nSun, 19 Jul 2026 09:05:37 GMT\n════════════════════════\n⌗\nTags:\n#application_security\n#postgresql\n#database_security\n#backend_development\n#supabase",
+        "date": "2026-07-19T10:04:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126438_0_afba4756.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126438_1_259f6fc2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126438",
+        "link": {
+          "title": "The Code Was Fine. The Access Model Was Not.",
+          "url": "https://medium.com/@shiki65536/the-code-was-fine-the-access-model-was-not-2bcc32ccf3ac?source=rss------application_security-5"
+        }
+      },
+      {
+        "id": 126437,
+        "text": "⤷\nTitle:\nHow Anthropic Could Have Prevented the “Claude Gift Fraud” With Security 101\n════════════════════════\n𐀪\nAuthor:\nVivek Kartha\n════════════════════════\nⴵ\nTime:\nSun, 19 Jul 2026 09:53:31 GMT\n════════════════════════\n⌗\nTags:\n#anthropic_claude\n#fraud_detection\n#artificial_intelligence\n#application_security\n#cybersecurity",
+        "date": "2026-07-19T10:04:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126437_0_afba4756.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126437_1_f844e0d7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126437",
+        "link": {
+          "title": "How Anthropic Could Have Prevented the “Claude Gift Fraud” With Security 101",
+          "url": "https://nightshade7.medium.com/how-anthropic-could-have-prevented-the-claude-gift-fraud-with-security-101-df6f10a6af64?source=rss------application_security-5"
+        }
+      },
+      {
+        "id": 126436,
+        "text": "⤷\nTitle:\nHow a Simple Profile Setting Revealed Sensitive Credentials in a Bug Bounty Program\n════════════════════════\n𐀪\nAuthor:\nMazen Rady\n════════════════════════\nⴵ\nTime:\nSun, 19 Jul 2026 08:09:01 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#information_disclosure\n#web_penetration_testing\n#bugbounty_writeup\n#bug_bounty",
+        "date": "2026-07-19T10:03:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126436_0_afba4756.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126436_1_6a4a807c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126436",
+        "link": {
+          "title": "How a Simple Profile Setting Revealed Sensitive Credentials in a Bug Bounty Program",
+          "url": "https://mazenrady.medium.com/how-a-simple-profile-setting-revealed-sensitive-credentials-in-a-bug-bounty-program-7809a8bdd827?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 126435,
         "text": "⤷\nTitle:\nToken Authentication in Microservices\n════════════════════════\n𐀪\nAuthor:\nBojjapavithradurga\n════════════════════════\nⴵ\nTime:\nSun, 19 Jul 2026 07:20:57 GMT\n════════════════════════\n⌗\nTags:\n#authentication\n#microservices\n#software_architecture\n#jwt\n#api_security",
         "date": "2026-07-19T08:04:30+00:00",
@@ -1974,332 +2296,10 @@
           "title": "How I Hunt and Find XSS Bugs in Bug Bounty Programs (2026)",
           "url": "https://sayemeh.medium.com/how-i-hunt-and-find-xss-bugs-in-bug-bounty-programs-2026-aed6b265e782?source=rss------bug_bounty-5"
         }
-      },
-      {
-        "id": 126349,
-        "text": "⤷\nTitle:\nHTTP Request Smuggling: Turning Two Servers Against Each Other on a Single TCP Connection\n════════════════════════\n𐀪\nAuthor:\nFurkanalpgunay\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 11:22:27 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#http_request_smuggling\n#cybersecurity\n#penetration_testing\n#web_security",
-        "date": "2026-07-18T12:04:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126349_0_afba4756.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126349_1_e8d4aaa5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126349",
-        "link": {
-          "title": "HTTP Request Smuggling: Turning Two Servers Against Each Other on a Single TCP Connection",
-          "url": "https://medium.com/@furkanalpgunay41/http-request-smuggling-turning-two-servers-against-each-other-on-a-single-tcp-connection-9b26f50e9944?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 126348,
-        "text": "⤷\nTitle:\nMicrosoft Ends OneDrive Support for Windows 10\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 10:17:35 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#cloud\nstorage\n#Microsoft\n365\n#OneDrive\n#Software\nLifecycle\n#Windows\n10",
-        "date": "2026-07-18T12:04:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126348_0_afba4756.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126348_1_c9f4e586.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126348",
-        "link": {
-          "title": "Microsoft Ends OneDrive Support for Windows 10",
-          "url": "https://securityonline.info/onedrive-windows-10-support/"
-        }
-      },
-      {
-        "id": 126347,
-        "text": "⤷\nTitle:\nCloudflare Blocks Critical WordPress wp2shell Vulnerability\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 10:25:31 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#cloudflare\n#RCE\nvulnerability\n#security\nupdate\n#WAF\nRules\n#wordpress\n#wp2shell",
-        "date": "2026-07-18T12:04:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126347_0_afba4756.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126347_1_d24aef0e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126347",
-        "link": {
-          "title": "Cloudflare Blocks Critical WordPress wp2shell Vulnerability",
-          "url": "https://securityonline.info/wordpress-wp2shell-vulnerability/"
-        }
-      },
-      {
-        "id": 126346,
-        "text": "⤷\nTitle:\nActive Exploitation and Public PoC Disclosed for CVE-2026-6875 ServiceNow Sandbox Escape Remote Code Execution\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 11:02:56 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_6875\n#Sandbox\nescape RCE\n#ServiceNow",
-        "date": "2026-07-18T12:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126346_0_afba4756.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126346_1_0c1de23b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126346",
-        "link": {
-          "title": "Active Exploitation and Public PoC Disclosed for CVE-2026-6875 ServiceNow Sandbox Escape Remote Code Execution",
-          "url": "https://securityonline.info/cve-2026-6875-servicenow-sandbox-escape-rce/"
-        }
-      },
-      {
-        "id": 126345,
-        "text": "⤷\nTitle:\nClaude Fable 5 Subscription Changes Announced\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 11:14:58 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#AI\nSubscription\n#Anthropic\n#Claude\nFable 5\n#Claude\nPro",
-        "date": "2026-07-18T12:03:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126345_0_afba4756.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126345_1_953a6b9d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126345",
-        "link": {
-          "title": "Claude Fable 5 Subscription Changes Announced",
-          "url": "https://securityonline.info/claude-fable-5-subscription-changes/"
-        }
-      },
-      {
-        "id": 126344,
-        "text": "⤷\nTitle:\nCritical WordPress wp2shell Vulnerability Discovered\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 10:32:21 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\n#RCE\nvulnerability\n#Searchlight\nCyber\n#WordPress\n#wp2shell",
-        "date": "2026-07-18T12:03:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126344_0_afba4756.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126344_1_c479fe80.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126344",
-        "link": {
-          "title": "Critical WordPress wp2shell Vulnerability Discovered",
-          "url": "https://meterpreter.org/wordpress-wp2shell-vulnerability/"
-        }
-      },
-      {
-        "id": 126343,
-        "text": "⤷\nTitle:\nNmap Commands (Part-3)\n════════════════════════\n𐀪\nAuthor:\nAkhil Thakur\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 08:46:45 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#nmap_command\n#nmap\n#ethical_hacking\n#commands",
-        "date": "2026-07-18T10:04:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126343_0_7314cc12.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126343_1_c4335b5d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126343",
-        "link": {
-          "title": "Nmap Commands (Part-3)",
-          "url": "https://blog.stackademic.com/nmap-commands-part-3-95fda0569a8c?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 126342,
-        "text": "⤷\nTitle:\nHow Hackers Hack Websites: A Deep Dive into Web Application Attacks\n════════════════════════\n𐀪\nAuthor:\nabbeymusumba\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 09:19:14 GMT\n════════════════════════\n⌗\nTags:\n#ubuntu_20_04\n#ethical_hacking",
-        "date": "2026-07-18T10:04:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126342_0_7314cc12.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126342_1_fbbdee3f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126342",
-        "link": {
-          "title": "How Hackers Hack Websites: A Deep Dive into Web Application Attacks",
-          "url": "https://medium.com/@musumbasa055/how-hackers-hack-websites-a-deep-dive-into-web-application-attacks-26401cbe2bb3?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 126341,
-        "text": "⤷\nTitle:\nSmol — TryHackMe WriteUp with Flags\n════════════════════════\n𐀪\nAuthor:\nRayenhafsawy\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 08:58:24 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#tryhackme_writeup\n#ctf\n#tryhackme\n#tryhackme_walkthrough",
-        "date": "2026-07-18T10:04:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126341_0_7314cc12.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126341_1_6f8ea72b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126341",
-        "link": {
-          "title": "Smol — TryHackMe WriteUp with Flags",
-          "url": "https://medium.com/@rayenhafsawy/smol-tryhackme-writeup-with-flags-7749a194b02e?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 126340,
-        "text": "⤷\nTitle:\nNEWSLETTER: Latest in AI, TikTok, Cybersecurity and “Is AI Entering Its ‘CVE & CVSS’ Moment”\n════════════════════════\n𐀪\nAuthor:\nNitin Garg\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 07:52:07 GMT\n════════════════════════\n⌗\nTags:\n#vulnerability\n#cybersecurity\n#ai\n#infosec\n#artificial_intelligence",
-        "date": "2026-07-18T10:04:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126340_0_7314cc12.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126340_1_e9395cc3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126340",
-        "link": {
-          "title": "NEWSLETTER: Latest in AI, TikTok, Cybersecurity and “Is AI Entering Its ‘CVE & CVSS’ Moment”",
-          "url": "https://medium.com/a-life-to-remember/newsletter-latest-in-ai-tiktok-cybersecurity-and-is-ai-entering-its-cve-cvss-moment-f746f62fe56f?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 126339,
-        "text": "⤷\nTitle:\nFD — Walkthrough [Pwnable.kr]\n════════════════════════\n𐀪\nAuthor:\nNitish ram\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 09:14:58 GMT\n════════════════════════\n⌗\nTags:\n#linux_file_descriptors\n#linux\n#hacking\n#ctf_walkthrough\n#ctf",
-        "date": "2026-07-18T10:04:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126339_0_7314cc12.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126339_1_8a085acb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126339",
-        "link": {
-          "title": "FD — Walkthrough [Pwnable.kr]",
-          "url": "https://medium.com/@nitishramceh/fd-walkthrough-pwnable-kr-49849a7ae754?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 126338,
-        "text": "⤷\nTitle:\nPortSwigger — Access control vulnerabilities and privilege escalation\n════════════════════════\n𐀪\nAuthor:\nNigar Hasanova\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 08:48:06 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#pentesting\n#broken_access_control\n#portswigger\n#cybersecurity",
-        "date": "2026-07-18T10:04:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126338_0_7314cc12.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126338_1_52fc25da.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126338",
-        "link": {
-          "title": "PortSwigger — Access control vulnerabilities and privilege escalation",
-          "url": "https://medium.com/@hasanliniki/portswigger-access-control-vulnerabilities-and-privilege-escalation-6bb91d858954?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 126337,
-        "text": "⤷\nTitle:\nThe GraphQL Bugs Worth Submitting in Bug Bounty (2026)\n════════════════════════\n𐀪\nAuthor:\nAfi0pchik\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 09:50:06 GMT\n════════════════════════\n⌗\nTags:\n#graphql\n#bug_bounty\n#api_security\n#ethical_hacking\n#cybersecurity",
-        "date": "2026-07-18T10:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126337_0_7314cc12.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126337_1_7ca046e2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126337",
-        "link": {
-          "title": "The GraphQL Bugs Worth Submitting in Bug Bounty (2026)",
-          "url": "https://meetcyber.net/the-graphql-bugs-worth-submitting-in-bug-bounty-2026-518b96b3de95?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 126336,
-        "text": "⤷\nTitle:\n600$ For Stealing Podcasts/Show via RSS Feed Manipulation\n════════════════════════\n𐀪\nAuthor:\nAnas NadY\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 09:22:18 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_tips\n#bug_bounty_writeup\n#bug_bounty\n#bugs\n#penetration_testing",
-        "date": "2026-07-18T10:03:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126336_0_7314cc12.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126336_1_c91f4aba.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126336",
-        "link": {
-          "title": "600$ For Stealing Podcasts/Show via RSS Feed Manipulation",
-          "url": "https://infosecwriteups.com/600-for-stealing-podcasts-show-via-rss-feed-manipulation-f3f2cef08adf?source=rss----7b722bfd1b8d--bug_bounty"
-        }
       }
     ]
   },
-  "last_update": "2026-07-19T09:25:16.515776+00:00",
+  "last_update": "2026-07-19T10:51:00.554896+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2311,7 +2311,7 @@
     },
     "referenced_files": 199,
     "existing_media_files": 199,
-    "total_size_mb": 5.76,
-    "last_calculation": "2026-07-19T09:25:16.518218+00:00"
+    "total_size_mb": 5.55,
+    "last_calculation": "2026-07-19T10:51:00.557260+00:00"
   }
 }
