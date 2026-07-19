@@ -2,6 +2,94 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 126417,
+        "text": "⤷\nTitle:\nExtending Your Network (En Français)\n════════════════════════\n𐀪\nAuthor:\nS4m1X\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 23:28:34 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#cybersécurité\n#tryhackme_pre_security\n#cybersecurity\n#networking",
+        "date": "2026-07-19T00:04:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126417_0_afba4756.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126417",
+        "link": {
+          "title": "Extending Your Network (En Français)",
+          "url": "https://medium.com/@dassamiourahmedsami/extending-your-network-en-fran%C3%A7ais-7c8d8551bfb0?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 126416,
+        "text": "⤷\nTitle:\nTask 2.1 -> Reconnaissance (nmap01)\n════════════════════════\n𐀪\nAuthor:\nGunay Safarzadeh\n════════════════════════\nⴵ\nTime:\nSun, 19 Jul 2026 00:00:07 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#tryhackme\n#ethical_hacking\n#nmap\n#network_security",
+        "date": "2026-07-19T00:03:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126416_0_afba4756.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126416_1_0fe6893b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126416",
+        "link": {
+          "title": "Task 2.1 -> Reconnaissance (nmap01)",
+          "url": "https://medium.com/@gunaysafarzadeh01/task-2-1-reconnaissance-nmap01-d9acb2c1b035?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 126415,
+        "text": "⤷\nTitle:\nTryHackMe — Forward WriteUp\n════════════════════════\n𐀪\nAuthor:\nMark@Saber\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 22:01:01 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#cybersecurity\n#active_directory\n#oscp\n#tryhackme",
+        "date": "2026-07-19T00:03:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126415_0_afba4756.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126415_1_de93e216.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126415",
+        "link": {
+          "title": "TryHackMe — Forward WriteUp",
+          "url": "https://medium.com/@saber22/tryhackme-forward-writeup-d6f0c9a1163f?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 126414,
+        "text": "⤷\nTitle:\nHardware Signals & Pocket Recon: How to Be a Ghost in the Machine\n════════════════════════\n𐀪\nAuthor:\nAeon Flex, Elriel Assoc. 2133 [NEON MAXIMA]\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 23:42:33 GMT\n════════════════════════\n⌗\nTags:\n#cypherpunk\n#hacking\n#programming\n#cybersecurity\n#esp32",
+        "date": "2026-07-19T00:03:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126414_0_afba4756.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126414_1_9454c989.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126414",
+        "link": {
+          "title": "Hardware Signals & Pocket Recon: How to Be a Ghost in the Machine",
+          "url": "https://medium.com/@neonmaxima/hardware-signals-pocket-recon-how-to-be-a-ghost-in-the-machine-f89f1e2cff6a?source=rss------hacking-5"
+        }
+      },
+      {
         "id": 126413,
         "text": "⤷\nTitle:\nI Hardened a Linux Server, Lost It to My Own Mistake, and Rebuilt It From My Own Notes\n════════════════════════\n𐀪\nAuthor:\nHammad Khan | SOC & Pentesting\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 21:24:23 GMT\n════════════════════════\n⌗\nTags:\n#ubuntu\n#security\n#cybersecurity\n#ethical_hacking\n#linux",
         "date": "2026-07-18T22:04:12+00:00",
@@ -2204,114 +2292,22 @@
           "title": "OWASP Top 10 2025: IAAA Failures",
           "url": "https://medium.com/@b4t54ndw1ch/owasp-top-10-2025-iaaa-failures-ab51862370d4?source=rss------tryhackme-5"
         }
-      },
-      {
-        "id": 126317,
-        "text": "⤷\nTitle:\nBurp Suite: Repeater\n════════════════════════\n𐀪\nAuthor:\nb4t54ndw1ch\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 01:38:24 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#burpsuite",
-        "date": "2026-07-18T02:04:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126317_0_7314cc12.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126317_1_cf5d232f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126317",
-        "link": {
-          "title": "Burp Suite: Repeater",
-          "url": "https://medium.com/@b4t54ndw1ch/burp-suite-repeater-525a07851bc4?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 126316,
-        "text": "⤷\nTitle:\nAuthentication in Active Directory: The Foundation of AD Security\n════════════════════════\n𐀪\nAuthor:\nNASRALLAH SALEH (Xiro0x)\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 00:53:40 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#windows\n#tryhackme\n#hacking\n#active_directory",
-        "date": "2026-07-18T02:04:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126316_0_7314cc12.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126316_1_99274bf7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126316",
-        "link": {
-          "title": "Authentication in Active Directory: The Foundation of AD Security",
-          "url": "https://medium.com/@Xiro0x01/authentication-in-active-directory-the-foundation-of-ad-security-f8d4f7deaf5f?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 126315,
-        "text": "⤷\nTitle:\nBreaking Directories: A Bug Hunter’s Guide to Directory Traversal\n════════════════════════\n𐀪\nAuthor:\nFuzzyy Duck\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 00:01:50 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_writeup\n#bug_bounty\n#web_security\n#bug_bounty_tips\n#web_development",
-        "date": "2026-07-18T02:04:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126315_0_7314cc12.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126315_1_69ef52e9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126315",
-        "link": {
-          "title": "Breaking Directories: A Bug Hunter’s Guide to Directory Traversal",
-          "url": "https://osintteam.blog/breaking-directories-a-bug-hunters-guide-to-directory-traversal-112b98b515e7?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 126314,
-        "text": "⤷\nTitle:\nBreaking the iframes: Modern Clickjacking Attacks Explained\n════════════════════════\n𐀪\nAuthor:\nFuzzyy Duck\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 00:05:18 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_writeup\n#web_development\n#web_security\n#bug_bounty_tips\n#bug_bounty",
-        "date": "2026-07-18T02:03:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126314_0_7314cc12.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126314_1_ef59bacf.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126314",
-        "link": {
-          "title": "Breaking the iframes: Modern Clickjacking Attacks Explained",
-          "url": "https://osintteam.blog/breaking-the-iframes-modern-clickjacking-attacks-explained-3032da7c238f?source=rss------bug_bounty-5"
-        }
       }
     ]
   },
-  "last_update": "2026-07-18T23:41:25.023475+00:00",
+  "last_update": "2026-07-19T01:20:31.295930+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 199,
-    "total_files": 199,
+    "total_media": 198,
+    "total_files": 198,
     "total_links": 0,
     "files_by_type": {
-      "image": 199
+      "image": 198
     },
-    "referenced_files": 199,
-    "existing_media_files": 199,
-    "total_size_mb": 6.09,
-    "last_calculation": "2026-07-18T23:41:25.025344+00:00"
+    "referenced_files": 198,
+    "existing_media_files": 198,
+    "total_size_mb": 6.02,
+    "last_calculation": "2026-07-19T01:20:31.298315+00:00"
   }
 }
