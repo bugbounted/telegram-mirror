@@ -2,6 +2,282 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 126435,
+        "text": "⤷\nTitle:\nToken Authentication in Microservices\n════════════════════════\n𐀪\nAuthor:\nBojjapavithradurga\n════════════════════════\nⴵ\nTime:\nSun, 19 Jul 2026 07:20:57 GMT\n════════════════════════\n⌗\nTags:\n#authentication\n#microservices\n#software_architecture\n#jwt\n#api_security",
+        "date": "2026-07-19T08:04:30+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126435_0_afba4756.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126435_1_c24fdfc6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126435",
+        "link": {
+          "title": "Token Authentication in Microservices",
+          "url": "https://medium.com/@bojjapavithradurga/token-authentication-in-microservices-3903c1729101?source=rss------api_security-5"
+        }
+      },
+      {
+        "id": 126434,
+        "text": "⤷\nTitle:\nHow I Earned a $300 Bug Bounty by Finding an Authorization Bypass in a Private Program\n════════════════════════\n𐀪\nAuthor:\nameensec\n════════════════════════\nⴵ\nTime:\nSun, 19 Jul 2026 06:19:51 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#bugbounty_writeup",
+        "date": "2026-07-19T08:04:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126434_0_afba4756.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126434_1_2e4b29d7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126434",
+        "link": {
+          "title": "How I Earned a $300 Bug Bounty by Finding an Authorization Bypass in a Private Program",
+          "url": "https://ameensec.medium.com/how-i-earned-a-300-bug-bounty-by-finding-an-authorization-bypass-in-a-private-program-cb9b560d1924?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 126433,
+        "text": "⤷\nTitle:\nActive Directory Enumeration & Password Spraying: A Hands-On Guide\n════════════════════════\n𐀪\nAuthor:\nNASRALLAH SALEH (Xiro0x)\n════════════════════════\nⴵ\nTime:\nSun, 19 Jul 2026 06:03:56 GMT\n════════════════════════\n⌗\nTags:\n#active_directory\n#ad_enum\n#kerberos\n#tryhackme\n#cybersecurity",
+        "date": "2026-07-19T08:04:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126433_0_afba4756.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126433_1_e19ef0cc.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126433",
+        "link": {
+          "title": "Active Directory Enumeration & Password Spraying: A Hands-On Guide",
+          "url": "https://medium.com/@Xiro0x01/active-directory-enumeration-password-spraying-a-hands-on-guide-1e7bc6094a68?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 126432,
+        "text": "⤷\nTitle:\nThe Tools Behind the SOC: What I Learned About Core SOC Solutions\n════════════════════════\n𐀪\nAuthor:\nPrabhat bansal\n════════════════════════\nⴵ\nTime:\nSun, 19 Jul 2026 06:44:20 GMT\n════════════════════════\n⌗\nTags:\n#siem\n#soc\n#cybersecurity\n#blue_team\n#tryhackme",
+        "date": "2026-07-19T08:04:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126432_0_afba4756.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126432_1_322e86d0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126432",
+        "link": {
+          "title": "The Tools Behind the SOC: What I Learned About Core SOC Solutions",
+          "url": "https://medium.com/@dolo65o/the-tools-behind-the-soc-what-i-learned-about-core-soc-solutions-9837b3f81f7d?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 126431,
+        "text": "⤷\nTitle:\n10 Linux Commands That Quietly Made Me Faster at Penetration Testing\n════════════════════════\n𐀪\nAuthor:\nFatima\n════════════════════════\nⴵ\nTime:\nSun, 19 Jul 2026 06:33:25 GMT\n════════════════════════\n⌗\nTags:\n#linux\n#ethical_hacking\n#cybersecurity\n#kali_linux\n#penetration_testing",
+        "date": "2026-07-19T08:04:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126431_0_afba4756.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126431_1_21bd6a32.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126431",
+        "link": {
+          "title": "10 Linux Commands That Quietly Made Me Faster at Penetration Testing",
+          "url": "https://medium.com/@fatimax00/10-linux-commands-that-quietly-made-me-faster-at-penetration-testing-1fc5e827b852?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 126430,
+        "text": "⤷\nTitle:\nDefensive Security Trends\n════════════════════════\n𐀪\nAuthor:\nExploitHunter\n════════════════════════\nⴵ\nTime:\nSun, 19 Jul 2026 06:13:28 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#ethical_hacking\n#web_development\n#cyber_security_awareness\n#cybersecurity",
+        "date": "2026-07-19T08:04:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126430_0_afba4756.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126430_1_7c77537b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126430",
+        "link": {
+          "title": "Defensive Security Trends",
+          "url": "https://medium.com/@vorasmit22/defensive-security-trends-4df4c218a1d3?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 126429,
+        "text": "⤷\nTitle:\nNetwork Security Essentials\n════════════════════════\n𐀪\nAuthor:\nExploitHunter\n════════════════════════\nⴵ\nTime:\nSun, 19 Jul 2026 06:14:23 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#infosec\n#cyber_security_awareness\n#web_development\n#ethical_hacking",
+        "date": "2026-07-19T08:04:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126429_0_afba4756.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126429_1_d734e07a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126429",
+        "link": {
+          "title": "Network Security Essentials",
+          "url": "https://medium.com/@vorasmit22/network-security-essentials-3a3859b4307f?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 126428,
+        "text": "⤷\nTitle:\nCritical Vulnerability in WordPress Core\n════════════════════════\n𐀪\nAuthor:\nPatrik Žák\n════════════════════════\nⴵ\nTime:\nSun, 19 Jul 2026 05:59:10 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#cybersecurity_news\n#wordpress\n#cybersecurity_awareness\n#wp2shell",
+        "date": "2026-07-19T08:04:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126428_0_afba4756.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126428_1_802d38bc.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126428",
+        "link": {
+          "title": "Critical Vulnerability in WordPress Core",
+          "url": "https://medium.com/@zakpatrikcz/critical-vulnerability-in-wordpress-core-e0fe18776b99?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 126427,
+        "text": "⤷\nTitle:\nPassword Cracking — TryHackMe\n════════════════════════\n𐀪\nAuthor:\nFuad Hasan\n════════════════════════\nⴵ\nTime:\nSun, 19 Jul 2026 07:48:03 GMT\n════════════════════════\n⌗\nTags:\n#password_cracking\n#tryhackme\n#passwords\n#hacking\n#thm_walkthrough",
+        "date": "2026-07-19T08:04:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126427_0_afba4756.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126427_1_156cf151.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126427",
+        "link": {
+          "title": "Password Cracking — TryHackMe",
+          "url": "https://medium.com/@fuadh6565/password-cracking-tryhackme-7ec5434ea9bc?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 126426,
+        "text": "⤷\nTitle:\nThe Cursor Zero-Day That Sat Through 70 Versions\n════════════════════════\n𐀪\nAuthor:\nAbhishek meena\n════════════════════════\nⴵ\nTime:\nSun, 19 Jul 2026 06:07:29 GMT\n════════════════════════\n⌗\nTags:\n#cursor\n#zero_day\n#infosec\n#bug_bounty\n#windows",
+        "date": "2026-07-19T08:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126426_0_afba4756.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126426_1_f4c9981e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126426",
+        "link": {
+          "title": "The Cursor Zero-Day That Sat Through 70 Versions",
+          "url": "https://medium.com/@Aacle/the-cursor-zero-day-that-sat-through-70-versions-a144c79ae20f?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 126425,
+        "text": "⤷\nTitle:\nWhen JPEGs Start Giving Orders: A Journey into Multi-modal Prompt Injection\n════════════════════════\n𐀪\nAuthor:\nJobson\n════════════════════════\nⴵ\nTime:\nSun, 19 Jul 2026 06:08:56 GMT\n════════════════════════\n⌗\nTags:\n#pentesting\n#prompt_injection_attack\n#hacking\n#cybersecurity\n#bug_bounty",
+        "date": "2026-07-19T08:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126425_0_afba4756.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126425_1_422b1e6e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126425",
+        "link": {
+          "title": "When JPEGs Start Giving Orders: A Journey into Multi-modal Prompt Injection",
+          "url": "https://infosecwriteups.com/multi-modal-prompt-injection-0b5108f4a7c0?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 126424,
+        "text": "⤷\nTitle:\nHow I Found a Race Condition in an Email Verification Feature\n════════════════════════\n𐀪\nAuthor:\nMazen Rady\n════════════════════════\nⴵ\nTime:\nSun, 19 Jul 2026 07:25:41 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_writeup\n#web_penetration_testing\n#bug_bounty\n#penetration_testing\n#bugbounty_poc",
+        "date": "2026-07-19T08:03:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126424_0_afba4756.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126424_1_3b00a5ff.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126424",
+        "link": {
+          "title": "How I Found a Race Condition in an Email Verification Feature",
+          "url": "https://medium.com/@mm4568434/how-i-found-a-race-condition-in-an-email-verification-feature-57f3637e9ca9?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 126423,
         "text": "⤷\nTitle:\nHackTheBox Walkthrough — Nexus\n════════════════════════\n𐀪\nAuthor:\nIndigo Shadow\n════════════════════════\nⴵ\nTime:\nSun, 19 Jul 2026 05:51:01 GMT\n════════════════════════\n⌗\nTags:\n#git_repo_escape\n#ethical_hacking\n#htb_walkthrough_nexus\n#file_upload_vulnerability\n#git_objects",
         "date": "2026-07-19T06:03:54+00:00",
@@ -2020,286 +2296,10 @@
           "title": "600$ For Stealing Podcasts/Show via RSS Feed Manipulation",
           "url": "https://infosecwriteups.com/600-for-stealing-podcasts-show-via-rss-feed-manipulation-f3f2cef08adf?source=rss----7b722bfd1b8d--bug_bounty"
         }
-      },
-      {
-        "id": 126335,
-        "text": "⤷\nTitle:\nFrom User Enumeration to PII Exposure: Chaining Two APIs Into a $2,000 Bug\n════════════════════════\n𐀪\nAuthor:\nEhtesham Ul Haq\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 09:23:37 GMT\n════════════════════════\n⌗\nTags:\n#api_security\n#bug_bounty\n#penetration_testing\n#broken_access_control\n#cybersecurity",
-        "date": "2026-07-18T10:03:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126335_0_7314cc12.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126335_1_e18829f1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126335",
-        "link": {
-          "title": "From User Enumeration to PII Exposure: Chaining Two APIs Into a $2,000 Bug",
-          "url": "https://infosecwriteups.com/from-user-enumeration-to-pii-exposure-chaining-two-apis-into-a-2-000-bug-adb9ed54ab30?source=rss----7b722bfd1b8d--bug_bounty"
-        }
-      },
-      {
-        "id": 126334,
-        "text": "⤷\nTitle:\nUbuntu Pro Client Flaw CVE-2026-11386 Allows Arbitrary Code Execution With Root Privileges\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 08:30:35 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#APT\n#Arbitrary\nCode Execution\n#Canonical\n#CVE_2026_11386\n#Root\nPrivileges\n#Ubuntu\n#Ubuntu\nPro Client\n#ubuntu_advantage_tools\n#USN_8555_1",
-        "date": "2026-07-18T10:03:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126334_0_7314cc12.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126334_1_08f83c0e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126334",
-        "link": {
-          "title": "Ubuntu Pro Client Flaw CVE-2026-11386 Allows Arbitrary Code Execution With Root Privileges",
-          "url": "https://securityonline.info/ubuntu-pro-client-cve-2026-11386/"
-        }
-      },
-      {
-        "id": 126333,
-        "text": "⤷\nTitle:\nX Just Updated Its Algorithm: Here’s What It Means for Everyone\n════════════════════════\n𐀪\nAuthor:\nZolosoft\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 07:04:44 GMT\n════════════════════════\n⌗\nTags:\n#content_creation\n#social_media\n#xs\n#digital_marketing\n#technology",
-        "date": "2026-07-18T08:04:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126333_0_7314cc12.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126333_1_daa06e7b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126333",
-        "link": {
-          "title": "X Just Updated Its Algorithm: Here’s What It Means for Everyone",
-          "url": "https://zolosoft.medium.com/x-just-updated-its-algorithm-heres-what-it-means-for-everyone-dc703039423a?source=rss------xss-5"
-        }
-      },
-      {
-        "id": 126332,
-        "text": "⤷\nTitle:\nSession Management TryHackMe-Writeup\n════════════════════════\n𐀪\nAuthor:\nAmr Sebie\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 06:05:41 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#penetration_testing\n#tryhackme_walkthrough\n#tryhackme_writeup",
-        "date": "2026-07-18T08:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126332_0_7314cc12.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126332_1_c6bdff1e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126332",
-        "link": {
-          "title": "Session Management TryHackMe-Writeup",
-          "url": "https://medium.com/@asoubea/session-management-tryhackme-writeup-4b0aa04f2020?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 126331,
-        "text": "⤷\nTitle:\nHow Palo Alto App-ID Works (Beginner-Friendly Guide)\n════════════════════════\n𐀪\nAuthor:\nHussainsec\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 06:02:04 GMT\n════════════════════════\n⌗\nTags:\n#firewall\n#networking\n#cybersecurity\n#ccna\n#hacking",
-        "date": "2026-07-18T08:03:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126331_0_7314cc12.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126331_1_ef487a28.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126331",
-        "link": {
-          "title": "How Palo Alto App-ID Works (Beginner-Friendly Guide)",
-          "url": "https://medium.com/@hussainsec/how-palo-alto-app-id-works-beginner-friendly-guide-9acf1fea6ffe?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 126330,
-        "text": "⤷\nTitle:\nThe Complete Metasploit DVWA Tutorial: A Step-by-Step Guide to Ethical Hacking & Penetration…\n════════════════════════\n𐀪\nAuthor:\nA. AntorCSE404\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 07:52:49 GMT\n════════════════════════\n⌗\nTags:\n#medium\n#hacking\n#cybersecurity\n#pentesting\n#programming",
-        "date": "2026-07-18T08:03:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126330_0_7314cc12.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126330_1_671e5d9f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126330",
-        "link": {
-          "title": "The Complete Metasploit DVWA Tutorial: A Step-by-Step Guide to Ethical Hacking & Penetration…",
-          "url": "https://medium.com/@antor.csecu/the-complete-metasploit-dvwa-tutorial-a-step-by-step-guide-to-ethical-hacking-penetration-c75c1c525cf7?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 126329,
-        "text": "⤷\nTitle:\nI Built a Git Repository Without Using Git (or GitHub): A Hacker’s POV\n════════════════════════\n𐀪\nAuthor:\nIndigo Shadow\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 04:45:12 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#git_objects\n#git_inner_workings\n#git_behind_the_scenes\n#build_git_repo_python",
-        "date": "2026-07-18T06:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126329_0_7314cc12.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126329_1_8909ee1c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126329",
-        "link": {
-          "title": "I Built a Git Repository Without Using Git (or GitHub): A Hacker’s POV",
-          "url": "https://infosecwriteups.com/i-built-a-git-repository-without-using-git-or-github-a-hackers-pov-c16dc06bbbd5?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 126328,
-        "text": "⤷\nTitle:\nTryHackMe Web Server Attacks I & II\n════════════════════════\n𐀪\nAuthor:\nRich\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 04:10:31 GMT\n════════════════════════\n⌗\nTags:\n#web_app_security\n#tryhackme_walkthrough\n#tryhackme\n#web_app_pentesting\n#tryhackme_writeup",
-        "date": "2026-07-18T06:03:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126328_0_7314cc12.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126328_1_c80f2f52.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126328",
-        "link": {
-          "title": "TryHackMe Web Server Attacks I & II",
-          "url": "https://happycamper84.medium.com/tryhackme-web-server-attacks-i-ii-c9d8811aadae?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 126327,
-        "text": "⤷\nTitle:\nBreaking Into Internal: Enumeration, Exploitation & Privilege Escalation\n════════════════════════\n𐀪\nAuthor:\nMohamed Sameh\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 05:11:22 GMT\n════════════════════════\n⌗\nTags:\n#wordpress_security\n#penetration_testing\n#cybersecurity\n#tryhackme\n#privilege_escalation",
-        "date": "2026-07-18T06:03:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126327_0_7314cc12.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126327_1_6ddd587c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126327",
-        "link": {
-          "title": "Breaking Into Internal: Enumeration, Exploitation & Privilege Escalation",
-          "url": "https://medium.com/@mohamedsamehms15/breaking-into-internal-enumeration-exploitation-privilege-escalation-64ac98b2286b?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 126326,
-        "text": "⤷\nTitle:\n10 Penetration Testing Companies to Consider in 2026\n════════════════════════\n𐀪\nAuthor:\nKhanshohan\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 05:18:32 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#penetration_testing\n#company",
-        "date": "2026-07-18T06:03:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126326_0_7314cc12.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126326_1_3f1962f8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126326",
-        "link": {
-          "title": "10 Penetration Testing Companies to Consider in 2026",
-          "url": "https://medium.com/@khanshohan20/10-penetration-testing-companies-to-consider-in-2026-34a8e684f3b0?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 126325,
-        "text": "⤷\nTitle:\nHACKER (Unofficial Full Form)\n════════════════════════\n𐀪\nAuthor:\nFrozenIntegar\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 02:15:18 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#ehtical_hacker\n#hacker_types\n#hacker",
-        "date": "2026-07-18T04:04:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126325_0_7314cc12.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126325_1_9c0e7976.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126325",
-        "link": {
-          "title": "HACKER (Unofficial Full Form)",
-          "url": "https://medium.com/@sg4073805/hacker-unofficial-full-form-5189d6a61136?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 126324,
-        "text": "⤷\nTitle:\nWalkThroughs CAP CTF HTB\n════════════════════════\n𐀪\nAuthor:\nZODiAK\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 02:38:19 GMT\n════════════════════════\n⌗\nTags:\n#zodiakx\n#hackthebox\n#hack_the_planet\n#tryhackme\n#ctf_writeup",
-        "date": "2026-07-18T04:04:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126324_0_7314cc12.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126324_1_04d25e28.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126324",
-        "link": {
-          "title": "WalkThroughs CAP CTF HTB",
-          "url": "https://medium.com/@zodiak0x6/walkthroughs-cap-ctf-htb-427e875ab11f?source=rss------tryhackme-5"
-        }
       }
     ]
   },
-  "last_update": "2026-07-19T07:21:08.072838+00:00",
+  "last_update": "2026-07-19T09:25:16.515776+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2311,7 +2311,7 @@
     },
     "referenced_files": 199,
     "existing_media_files": 199,
-    "total_size_mb": 6.11,
-    "last_calculation": "2026-07-19T07:21:08.074217+00:00"
+    "total_size_mb": 5.76,
+    "last_calculation": "2026-07-19T09:25:16.518218+00:00"
   }
 }
