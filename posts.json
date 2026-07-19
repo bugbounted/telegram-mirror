@@ -2,6 +2,52 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 126423,
+        "text": "⤷\nTitle:\nHackTheBox Walkthrough — Nexus\n════════════════════════\n𐀪\nAuthor:\nIndigo Shadow\n════════════════════════\nⴵ\nTime:\nSun, 19 Jul 2026 05:51:01 GMT\n════════════════════════\n⌗\nTags:\n#git_repo_escape\n#ethical_hacking\n#htb_walkthrough_nexus\n#file_upload_vulnerability\n#git_objects",
+        "date": "2026-07-19T06:03:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126423_0_afba4756.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126423_1_a9338729.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126423",
+        "link": {
+          "title": "HackTheBox Walkthrough — Nexus",
+          "url": "https://medium.com/@indigoshadowwashere/hackthebox-walkthrough-nexus-f48a53ea87d5?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 126422,
+        "text": "⤷\nTitle:\nAuthentication Vulnerability\n════════════════════════\n𐀪\nAuthor:\nSreeragPramod\n════════════════════════\nⴵ\nTime:\nSun, 19 Jul 2026 05:31:01 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#cybersecurity\n#bug_bounty\n#authentication\n#websecurity_testing",
+        "date": "2026-07-19T06:03:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126422_0_afba4756.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126422_1_daf72b4c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126422",
+        "link": {
+          "title": "Authentication Vulnerability",
+          "url": "https://medium.com/@sreeragpramod777/authentication-vulnerability-429d80750021?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 126421,
         "text": "⤷\nTitle:\nAI-Generated Code Needs Security Too: Here’s My Approach\n════════════════════════\n𐀪\nAuthor:\nPuja Maheshvari\n════════════════════════\nⴵ\nTime:\nSun, 19 Jul 2026 03:45:44 GMT\n════════════════════════\n⌗\nTags:\n#application_security\n#devsecops\n#ai\n#cybersecurity\n#devops",
         "date": "2026-07-19T04:03:50+00:00",
@@ -2250,64 +2296,22 @@
           "title": "WalkThroughs CAP CTF HTB",
           "url": "https://medium.com/@zodiak0x6/walkthroughs-cap-ctf-htb-427e875ab11f?source=rss------tryhackme-5"
         }
-      },
-      {
-        "id": 126323,
-        "text": "⤷\nTitle:\nFool’s Mate (TryHackMe): I Checkmated the Bot, the Server Still Said No — So I Polluted Its…\n════════════════════════\n𐀪\nAuthor:\nSyedmohathashimali\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 03:58:05 GMT\n════════════════════════\n⌗\nTags:\n#prototype_pollution\n#tryhackme\n#ctf\n#cybersecurity\n#web_security",
-        "date": "2026-07-18T04:03:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126323_0_7314cc12.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126323",
-        "link": {
-          "title": "Fool’s Mate (TryHackMe): I Checkmated the Bot, the Server Still Said No — So I Polluted Its…",
-          "url": "https://medium.com/@syedmohathashimali93/fools-mate-tryhackme-i-checkmated-the-bot-the-server-still-said-no-so-i-polluted-its-2a1f629ff2d4?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 126322,
-        "text": "⤷\nTitle:\nNetwork Discovery Detection\n════════════════════════\n𐀪\nAuthor:\nExploitHunter\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 03:39:48 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#infosec\n#cyber_security_awareness\n#ethical_hacking\n#web_development",
-        "date": "2026-07-18T04:03:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126322_0_7314cc12.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126322_1_a9f4726f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126322",
-        "link": {
-          "title": "Network Discovery Detection",
-          "url": "https://medium.com/@vorasmit22/network-discovery-detection-9749648e6d5a?source=rss------infosec-5"
-        }
       }
     ]
   },
-  "last_update": "2026-07-19T04:42:27.609160+00:00",
+  "last_update": "2026-07-19T07:21:08.072838+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 198,
-    "total_files": 198,
+    "total_media": 199,
+    "total_files": 199,
     "total_links": 0,
     "files_by_type": {
-      "image": 198
+      "image": 199
     },
-    "referenced_files": 198,
-    "existing_media_files": 198,
-    "total_size_mb": 6.08,
-    "last_calculation": "2026-07-19T04:42:27.611072+00:00"
+    "referenced_files": 199,
+    "existing_media_files": 199,
+    "total_size_mb": 6.11,
+    "last_calculation": "2026-07-19T07:21:08.074217+00:00"
   }
 }
