@@ -2,6 +2,75 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 126496,
+        "text": "⤷\nTitle:\nTask 2.1 -> Reconnaissance (Passive Recon)\n════════════════════════\n𐀪\nAuthor:\nGunay Safarzadeh\n════════════════════════\nⴵ\nTime:\nSun, 19 Jul 2026 22:05:45 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#passive_reconnaissance\n#cybersecurity",
+        "date": "2026-07-20T00:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126496_0_2fb3887b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126496_1_ae21a6bb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126496",
+        "link": {
+          "title": "Task 2.1 -> Reconnaissance (Passive Recon)",
+          "url": "https://medium.com/@gunaysafarzadeh01/task-2-1-reconnaissance-passive-recon-2a450bd84f83?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 126495,
+        "text": "⤷\nTitle:\nVulnhub: Dawn Walkthrough\n════════════════════════\n𐀪\nAuthor:\nFarid Narimanov\n════════════════════════\nⴵ\nTime:\nSun, 19 Jul 2026 23:22:32 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#ethical_hacking\n#vulnhub\n#infosec\n#cybersecurity",
+        "date": "2026-07-20T00:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126495_0_2fb3887b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126495_1_48384691.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126495",
+        "link": {
+          "title": "Vulnhub: Dawn Walkthrough",
+          "url": "https://medium.com/@faridnarimanof/vulnhub-dawn-walkthrough-c62e0e6a33a1?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 126494,
+        "text": "⤷\nTitle:\nHide Loaded Modules in Remote Processes\n════════════════════════\n𐀪\nAuthor:\nS12 - 0x12Dark Development\n════════════════════════\nⴵ\nTime:\nSun, 19 Jul 2026 22:52:13 GMT\n════════════════════════\n⌗\nTags:\n#malware\n#pentesting\n#infosec\n#hacking\n#cybersecurity",
+        "date": "2026-07-20T00:03:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126494_0_2fb3887b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126494_1_b8c38edd.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126494",
+        "link": {
+          "title": "Hide Loaded Modules in Remote Processes",
+          "url": "https://medium.com/@s12deff/hide-loaded-modules-in-remote-processes-8d4e5012fc48?source=rss------hacking-5"
+        }
+      },
+      {
         "id": 126493,
         "text": "⤷\nTitle:\nTryHackMe Nmap Live Host Discovery (versão em português)\n════════════════════════\n𐀪\nAuthor:\nChris Mineff\n════════════════════════\nⴵ\nTime:\nSun, 19 Jul 2026 20:01:51 GMT\n════════════════════════\n⌗\nTags:\n#pentesting\n#pentest\n#tryhackme\n#cibersecurity\n#tryhackme_walkthrough",
         "date": "2026-07-19T22:04:01+00:00",
@@ -2211,79 +2280,10 @@
           "title": "Wireshark: The Basics — TryHackMe Answers | by Deepti Gupta",
           "url": "https://medium.com/@deeptisg0/wireshark-the-basics-tryhackme-answers-by-deepti-gupta-1c88222906c6?source=rss------tryhackme-5"
         }
-      },
-      {
-        "id": 126396,
-        "text": "⤷\nTitle:\nSixes-1: Complete Walkthrough and Flag Capture\n════════════════════════\n𐀪\nAuthor:\nRootxsecuritynetwork\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 16:21:02 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#cybersecurity\n#ethical_hacking",
-        "date": "2026-07-18T18:04:32+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126396_0_afba4756.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126396_1_886a1bc9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126396",
-        "link": {
-          "title": "Sixes-1: Complete Walkthrough and Flag Capture",
-          "url": "https://medium.com/@rootxsecuritynetwork7393/sixes-1-complete-walkthrough-and-flag-capture-8f65482ff6e3?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 126395,
-        "text": "⤷\nTitle:\nDC:1 VulnHub Walkthrough: Enumerating, Exploiting Drupalgeddon, and Escalating to Root | by Nidhin…\n════════════════════════\n𐀪\nAuthor:\nNidhindev\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 16:47:35 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#vulnhub\n#penetration_testing\n#cybersecurity\n#ctf",
-        "date": "2026-07-18T18:04:28+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126395_0_afba4756.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126395_1_f8ba4484.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126395",
-        "link": {
-          "title": "DC:1 VulnHub Walkthrough: Enumerating, Exploiting Drupalgeddon, and Escalating to Root | by Nidhin…",
-          "url": "https://medium.com/@nidhindev362/dc-1-vulnhub-walkthrough-enumerating-exploiting-drupalgeddon-and-escalating-to-root-by-nidhin-0ae8289c6d1d?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 126394,
-        "text": "⤷\nTitle:\nHTB Season 10 — Logging (Medium)\n════════════════════════\n𐀪\nAuthor:\nMohamed Adel\n════════════════════════\nⴵ\nTime:\nSat, 18 Jul 2026 17:01:27 GMT\n════════════════════════\n⌗\nTags:\n#hackthebox\n#active_directory\n#ctf\n#cybersecurity\n#penetration_testing",
-        "date": "2026-07-18T18:04:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126394_0_afba4756.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126394_1_94d6ce08.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126394",
-        "link": {
-          "title": "HTB Season 10 — Logging (Medium)",
-          "url": "https://medium.com/@mohamed.adel.887275/htb-season-10-logging-medium-96a5beb621de?source=rss------penetration_testing-5"
-        }
       }
     ]
   },
-  "last_update": "2026-07-19T23:46:05.769017+00:00",
+  "last_update": "2026-07-20T01:23:46.218534+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2295,7 +2295,7 @@
     },
     "referenced_files": 195,
     "existing_media_files": 195,
-    "total_size_mb": 5.16,
-    "last_calculation": "2026-07-19T23:46:05.771330+00:00"
+    "total_size_mb": 5.25,
+    "last_calculation": "2026-07-20T01:23:46.220882+00:00"
   }
 }
