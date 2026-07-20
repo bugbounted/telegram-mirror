@@ -2,6 +2,293 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 126577,
+        "text": "⤷\nTitle:\nCVE-2026–5029 (Unpatched)Case Study Unauthenticated Remote Code Execution (RCE)\n════════════════════════\n𐀪\nAuthor:\nphantom_hat\n════════════════════════\nⴵ\nTime:\nMon, 20 Jul 2026 11:50:52 GMT\n════════════════════════\n⌗\nTags:\n#cve\n#mcp_server\n#rce\n#vulnerability\n#exploit_development",
+        "date": "2026-07-20T14:04:30+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126577_0_c15fb3bc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126577_1_d55c0ea2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126577",
+        "link": {
+          "title": "CVE-2026–5029 (Unpatched)Case Study Unauthenticated Remote Code Execution (RCE)",
+          "url": "https://medium.com/@phantom_hat/cve-2026-5029-unpatched-case-study-unauthenticated-remote-code-execution-rce-66c7706f2320?source=rss------rce-5"
+        }
+      },
+      {
+        "id": 126576,
+        "text": "⤷\nTitle:\nCVE-2026-10122: Third Stack Overflow Confirms Systemic Flaws in TRENDnet TEW-432BRP Firmware\n════════════════════════\n𐀪\nAuthor:\nCyberPodcast\n════════════════════════\nⴵ\nTime:\nMon, 20 Jul 2026 13:01:02 GMT\n════════════════════════\n⌗\nTags:\n#stackoverflow\n#ethical_hacking\n#cve_2026_10122\n#cwe_119\n#cwe_121",
+        "date": "2026-07-20T14:04:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126576_0_c15fb3bc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126576_1_168eca26.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126576",
+        "link": {
+          "title": "CVE-2026-10122: Third Stack Overflow Confirms Systemic Flaws in TRENDnet TEW-432BRP Firmware",
+          "url": "https://medium.com/@cyberpodcast/cve-2026-10122-third-stack-overflow-confirms-systemic-flaws-in-trendnet-tew-432brp-firmware-a121f20bdb6e?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 126575,
+        "text": "⤷\nTitle:\nDiscover Lernaean: Exploiting Default Credentials & SSH Access\n════════════════════════\n𐀪\nAuthor:\nghosteye\n════════════════════════\nⴵ\nTime:\nMon, 20 Jul 2026 13:36:10 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#hackviser\n#gobuster\n#hydra\n#penetration_testing",
+        "date": "2026-07-20T14:04:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126575_0_c15fb3bc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126575_1_7c8ada3c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126575",
+        "link": {
+          "title": "Discover Lernaean: Exploiting Default Credentials & SSH Access",
+          "url": "https://medium.com/@proxyy/discover-lernaean-exploiting-default-credentials-ssh-access-eefdbd727fc7?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 126574,
+        "text": "⤷\nTitle:\n6 Critical SOC Phases Every Security Team Should Master\n════════════════════════\n𐀪\nAuthor:\nCrest Data\n════════════════════════\nⴵ\nTime:\nMon, 20 Jul 2026 12:21:34 GMT\n════════════════════════\n⌗\nTags:\n#security_operations\n#cybersecurity\n#infosec\n#siem\n#soc",
+        "date": "2026-07-20T14:04:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126574_0_c15fb3bc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126574_1_ff80202c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126574",
+        "link": {
+          "title": "6 Critical SOC Phases Every Security Team Should Master",
+          "url": "https://medium.com/@crestdata/6-critical-soc-phases-every-security-team-should-master-8b03348ac50e?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 126573,
+        "text": "⤷\nTitle:\n“Part I : BugBounty — Roadmap”\n════════════════════════\n𐀪\nAuthor:\nYassin Hamada\n════════════════════════\nⴵ\nTime:\nMon, 20 Jul 2026 12:22:30 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#bug_bounty\n#hacking\n#infosec",
+        "date": "2026-07-20T14:04:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126573_0_c15fb3bc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126573_1_34be1175.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126573",
+        "link": {
+          "title": "“Part I : BugBounty — Roadmap”",
+          "url": "https://medium.com/@hdhffxfg/-f889260eaf37?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 126572,
+        "text": "⤷\nTitle:\nThe between-reports problem: why security teams miss what attackers see\n════════════════════════\n𐀪\nAuthor:\nGreg Jenkins\n════════════════════════\nⴵ\nTime:\nMon, 20 Jul 2026 00:00:00 GMT\n════════════════════════\n⌗\nTags:\n#Business\nInsights",
+        "date": "2026-07-20T14:04:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126572_0_c15fb3bc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126572_1_3cbcc1b5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126572",
+        "link": {
+          "title": "The between-reports problem: why security teams miss what attackers see",
+          "url": "https://www.intigriti.com/blog/business-insights/why-security-teams-miss-what-attackers-see"
+        }
+      },
+      {
+        "id": 126571,
+        "text": "⤷\nTitle:\nCVE-2026-56451: CVSS 10 Siemens Opcenter X Flaw Grants Full Unauthorized Access\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 20 Jul 2026 12:53:30 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Authentication\nBypass\n#ICS\n#JWT\n#Opcenter\nX\n#Siemens",
+        "date": "2026-07-20T14:04:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126571_0_c15fb3bc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126571_1_669aa719.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126571",
+        "link": {
+          "title": "CVE-2026-56451: CVSS 10 Siemens Opcenter X Flaw Grants Full Unauthorized Access",
+          "url": "https://securityonline.info/siemens-opcenter-x-auth-bypass/"
+        }
+      },
+      {
+        "id": 126570,
+        "text": "⤷\nTitle:\nCritical Apache Doris Flaw (CVE-2026-58319) Exposes Admin APIs to Unauthenticated Attackers\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 20 Jul 2026 13:30:28 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Apache\nDoris\n#CVE_2026_58319\n#database\nsecurity\n#improper\nauthentication\n#Vulnerability",
+        "date": "2026-07-20T14:04:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126570_0_c15fb3bc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126570_1_54ddaa68.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126570",
+        "link": {
+          "title": "Critical Apache Doris Flaw (CVE-2026-58319) Exposes Admin APIs to Unauthenticated Attackers",
+          "url": "https://securityonline.info/apache-doris-cve-2026-58319/"
+        }
+      },
+      {
+        "id": 126569,
+        "text": "⤷\nTitle:\nOpenSSL HollowByte Memory Leak Vulnerability\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nMon, 20 Jul 2026 12:59:46 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\n#Cyber\nSecurity\n#HollowByte\n#Memory\nLeak\n#openssl",
+        "date": "2026-07-20T14:04:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126569_0_c15fb3bc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126569_1_6f908d52.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126569",
+        "link": {
+          "title": "OpenSSL HollowByte Memory Leak Vulnerability",
+          "url": "https://meterpreter.org/openssl-hollowbyte-memory-leak-vulnerability/"
+        }
+      },
+      {
+        "id": 126568,
+        "text": "⤷\nTitle:\nThe Hidden Risk in Enterprise AI Agents: Ungoverned Context\n════════════════════════\n𐀪\nAuthor:\nOwais Sultan\n════════════════════════\nⴵ\nTime:\nMon, 20 Jul 2026 12:11:45 +0000\n════════════════════════\n⌗\nTags:\n#Artificial\nIntelligence\n#Security\n#Agentic\nAI\n#AI\n#AI\nAgents\n#Cybersecurity",
+        "date": "2026-07-20T14:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126568_0_c15fb3bc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126568_1_fd991731.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126568",
+        "link": {
+          "title": "The Hidden Risk in Enterprise AI Agents: Ungoverned Context",
+          "url": "https://hackread.com/hidden-risk-enterprise-ai-agents-ungoverned-context/"
+        }
+      },
+      {
+        "id": 126567,
+        "text": "⤷\nTitle:\nMythos Didn't Break Your Security Program. Your Exposure Window Could.\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nMon, 20 Jul 2026 17:00:00 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-07-20T14:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126567_0_c15fb3bc.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126567",
+        "link": {
+          "title": "Mythos Didn't Break Your Security Program. Your Exposure Window Could.",
+          "url": "https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html"
+        }
+      },
+      {
+        "id": 126566,
+        "text": "⤷\nTitle:\nRussian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nMon, 20 Jul 2026 17:43:39 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-07-20T14:03:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126566_0_c15fb3bc.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126566",
+        "link": {
+          "title": "Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine",
+          "url": "https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html"
+        }
+      },
+      {
+        "id": 126565,
+        "text": "⤷\nTitle:\n⚡\nWeekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nMon, 20 Jul 2026 19:02:26 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-07-20T14:03:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126565_0_c15fb3bc.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126565",
+        "link": {
+          "title": "⚡Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More",
+          "url": "https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html"
+        }
+      },
+      {
         "id": 126564,
         "text": "⤷\nTitle:\nBest Institute for Cyber Security course in Delhi after 12th\n════════════════════════\n𐀪\nAuthor:\ncybersecuritycourse\n════════════════════════\nⴵ\nTime:\nMon, 20 Jul 2026 09:54:58 GMT\n════════════════════════\n⌗\nTags:\n#ai\n#cybersecurity\n#cybersecurity_training\n#education_technology\n#ethical_hacking",
         "date": "2026-07-20T12:04:36+00:00",
@@ -1969,321 +2256,22 @@
           "title": "XSS— TryHackMe",
           "url": "https://medium.com/@darshmohile303/xss-tryhackme-62be47977a8c?source=rss------xss_vulnerability-5"
         }
-      },
-      {
-        "id": 126463,
-        "text": "⤷\nTitle:\nCVE-2026–10121: Second Unpatchable Stack Overflow Discovered in TRENDnet TEW-432BRP\n════════════════════════\n𐀪\nAuthor:\nCyberPodcast\n════════════════════════\nⴵ\nTime:\nSun, 19 Jul 2026 13:01:02 GMT\n════════════════════════\n⌗\nTags:\n#cwe_121\n#stackoverflow\n#cve_2026_10121\n#ethical_hacking\n#cwe_119",
-        "date": "2026-07-19T14:04:26+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126463_0_2fb3887b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126463_1_9f0ed056.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126463",
-        "link": {
-          "title": "CVE-2026–10121: Second Unpatchable Stack Overflow Discovered in TRENDnet TEW-432BRP",
-          "url": "https://medium.com/@cyberpodcast/cve-2026-10121-second-unpatchable-stack-overflow-discovered-in-trendnet-tew-432brp-da9bafc0befd?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 126462,
-        "text": "⤷\nTitle:\nNexus — HTB Writeup\n════════════════════════\n𐀪\nAuthor:\nZODiAK\n════════════════════════\nⴵ\nTime:\nSun, 19 Jul 2026 13:57:15 GMT\n════════════════════════\n⌗\nTags:\n#zod1ak\n#hackthebox_writeup\n#cybersecurity\n#ctf\n#hackthebox",
-        "date": "2026-07-19T14:04:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126462_0_2fb3887b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126462_1_6ed54f8d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126462",
-        "link": {
-          "title": "Nexus — HTB Writeup",
-          "url": "https://medium.com/@zodiak0x6/nexus-htb-writeup-198f6b02df2c?source=rss------hackthebox_writeup-5"
-        }
-      },
-      {
-        "id": 126461,
-        "text": "⤷\nTitle:\nHow Hackers Get Caught: Inside a Real Email Investigation (2026)\n════════════════════════\n𐀪\nAuthor:\nXpert4Cyber\n════════════════════════\nⴵ\nTime:\nSun, 19 Jul 2026 12:20:00 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#phishing\n#data_privacy\n#osint\n#cybersecurity",
-        "date": "2026-07-19T14:04:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126461_0_2fb3887b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126461_1_a2277190.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126461",
-        "link": {
-          "title": "How Hackers Get Caught: Inside a Real Email Investigation (2026)",
-          "url": "https://medium.com/@xpert4cyber/how-hackers-get-caught-inside-a-real-email-investigation-2026-80b1e23ed15b?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 126460,
-        "text": "⤷\nTitle:\nThe Kudankulam Nuclear Power Plant Data Extortion Incident by the World Leaks Ransomware Group\n════════════════════════\n𐀪\nAuthor:\nDavid SEHYEON Baek\n════════════════════════\nⴵ\nTime:\nSun, 19 Jul 2026 13:10:56 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#ransomware\n#data_breach\n#cybercrime\n#cybersecurity",
-        "date": "2026-07-19T14:04:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126460_0_2fb3887b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126460_1_b4ee7993.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126460",
-        "link": {
-          "title": "The Kudankulam Nuclear Power Plant Data Extortion Incident by the World Leaks Ransomware Group",
-          "url": "https://medium.com/@davidsehyeonbaek/the-kudankulam-nuclear-power-plant-data-extortion-incident-by-the-world-leaks-ransomware-group-cbacd4036e82?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 126459,
-        "text": "⤷\nTitle:\nHot Take: Signature-Based Security Is Officially Dead — AI Just Made Sure of It\n════════════════════════\n𐀪\nAuthor:\nYua Mikanana\n════════════════════════\nⴵ\nTime:\nSun, 19 Jul 2026 13:18:37 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#technology\n#red_team\n#ethical_hacking\n#cybersecurity",
-        "date": "2026-07-19T14:04:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126459_0_2fb3887b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126459_1_7e5d4ffb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126459",
-        "link": {
-          "title": "Hot Take: Signature-Based Security Is Officially Dead — AI Just Made Sure of It",
-          "url": "https://medium.com/@yua.mikanana19/hot-take-signature-based-security-is-officially-dead-ai-just-made-sure-of-it-c8650c78adfa?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 126458,
-        "text": "⤷\nTitle:\nI Found an HTML Injection Vulnerability | A Responsible Bug Bounty Journey\n════════════════════════\n𐀪\nAuthor:\nPentester Club\n════════════════════════\nⴵ\nTime:\nSun, 19 Jul 2026 13:37:40 GMT\n════════════════════════\n⌗\nTags:\n#artificial_intelligence\n#hacking\n#cybersecurity\n#ctf\n#web_development",
-        "date": "2026-07-19T14:04:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126458_0_2fb3887b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126458_1_8eafd59d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126458",
-        "link": {
-          "title": "I Found an HTML Injection Vulnerability | A Responsible Bug Bounty Journey",
-          "url": "https://medium.com/@pentesterclubpvtltd/i-found-an-html-injection-vulnerability-a-responsible-bug-bounty-journey-8207ce6c61c1?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 126457,
-        "text": "⤷\nTitle:\nAccount Takeover via Broken Password Reset Validation\n════════════════════════\n𐀪\nAuthor:\nMohamed Abd almalek\n════════════════════════\nⴵ\nTime:\nSun, 19 Jul 2026 12:00:58 GMT\n════════════════════════\n⌗\nTags:\n#web_penetration_testing\n#websecurity_testing\n#bug_bounty_writeup\n#bug_bounty_tips\n#bug_bounty",
-        "date": "2026-07-19T14:04:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126457_0_2fb3887b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126457_1_3c405f98.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126457",
-        "link": {
-          "title": "Account Takeover via Broken Password Reset Validation",
-          "url": "https://medium.com/@z9mohamed74/account-takeover-via-broken-password-reset-validation-35cb3c0d07c1?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 126456,
-        "text": "⤷\nTitle:\nSonicWall SMA Zero-Day Chain Roots VPN Appliances and Plants Hidden Malware\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nSun, 19 Jul 2026 13:52:13 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#CVE_2026_15409\n#CVE_2026_15410\n#SMA\n1000\n#SonicWall\n#UTA0533\n#Volexity\n#VPN\nexploitation\n#zero_day",
-        "date": "2026-07-19T14:04:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126456_0_2fb3887b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126456_1_d6d0b323.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126456",
-        "link": {
-          "title": "SonicWall SMA Zero-Day Chain Roots VPN Appliances and Plants Hidden Malware",
-          "url": "https://securityonline.info/sonicwall-sma-zero-day/"
-        }
-      },
-      {
-        "id": 126455,
-        "text": "⤷\nTitle:\nSQL Injection Introduction — TryHackMe\n════════════════════════\n𐀪\nAuthor:\nSora\n════════════════════════\nⴵ\nTime:\nSun, 19 Jul 2026 10:59:05 GMT\n════════════════════════\n⌗\nTags:\n#sql_injection\n#introduction\n#tryhackme_writeup\n#offensive_security",
-        "date": "2026-07-19T12:04:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126455_0_2fb3887b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126455_1_9b4b52cb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126455",
-        "link": {
-          "title": "SQL Injection Introduction — TryHackMe",
-          "url": "https://medium.com/@nanami.evan/sql-injection-introduction-tryhackme-54d770ed8386?source=rss------sql_injection-5"
-        }
-      },
-      {
-        "id": 126454,
-        "text": "⤷\nTitle:\nBest Ethical Hacking Training in Noida | Ducat India\n════════════════════════\n𐀪\nAuthor:\nKhushi Choudhary\n════════════════════════\nⴵ\nTime:\nSun, 19 Jul 2026 11:25:43 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking",
-        "date": "2026-07-19T12:04:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126454_0_2fb3887b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126454_1_827e3b8f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126454",
-        "link": {
-          "title": "Best Ethical Hacking Training in Noida | Ducat India",
-          "url": "https://medium.com/@kc0170679/best-ethical-hacking-training-in-noida-ducat-india-1bcc241acca3?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 126453,
-        "text": "⤷\nTitle:\nBest Ethical Hacking Training in Noida | Ducat India\n════════════════════════\n𐀪\nAuthor:\nArshee Garg\n════════════════════════\nⴵ\nTime:\nSun, 19 Jul 2026 11:25:44 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking",
-        "date": "2026-07-19T12:03:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126453_0_2fb3887b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126453_1_d99fd95f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126453",
-        "link": {
-          "title": "Best Ethical Hacking Training in Noida | Ducat India",
-          "url": "https://medium.com/@gargarshee3012/best-ethical-hacking-training-in-noida-ducat-india-2d1d11bc2640?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 126452,
-        "text": "⤷\nTitle:\nWindows PowerShell: Advanced Object Filtering and Enterprise Automation\n════════════════════════\n𐀪\nAuthor:\nJonathan Sanfer\n════════════════════════\nⴵ\nTime:\nSun, 19 Jul 2026 09:56:58 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#windows\n#tryhackme\n#powershell\n#cybersecurity",
-        "date": "2026-07-19T12:03:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126452_0_2fb3887b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126452_1_2b58daea.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126452",
-        "link": {
-          "title": "Windows PowerShell: Advanced Object Filtering and Enterprise Automation",
-          "url": "https://medium.com/@jonathan.sanfer/windows-powershell-advanced-object-filtering-and-enterprise-automation-f56d4818589c?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 126451,
-        "text": "⤷\nTitle:\nZero: Seeing What’s Hidden\n════════════════════════\n𐀪\nAuthor:\nTalha Bağcı\n════════════════════════\nⴵ\nTime:\nSun, 19 Jul 2026 09:54:42 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#hacking\n#technology\n#books\n#ethical_hacking",
-        "date": "2026-07-19T12:03:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126451_0_2fb3887b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126451_1_1c56abc0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126451",
-        "link": {
-          "title": "Zero: Seeing What’s Hidden",
-          "url": "https://medium.com/@talhabagci2008/zero-seeing-whats-hidden-89f3e9a5691f?source=rss------hacking-5"
-        }
       }
     ]
   },
-  "last_update": "2026-07-20T13:01:02.554338+00:00",
+  "last_update": "2026-07-20T15:11:44.107714+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 192,
-    "total_files": 192,
+    "total_media": 189,
+    "total_files": 189,
     "total_links": 0,
     "files_by_type": {
-      "image": 192
+      "image": 189
     },
-    "referenced_files": 192,
-    "existing_media_files": 192,
-    "total_size_mb": 4.97,
-    "last_calculation": "2026-07-20T13:01:02.556637+00:00"
+    "referenced_files": 189,
+    "existing_media_files": 189,
+    "total_size_mb": 4.89,
+    "last_calculation": "2026-07-20T15:11:44.109990+00:00"
   }
 }
