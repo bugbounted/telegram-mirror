@@ -2,6 +2,163 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 126744,
+        "text": "⤷\nTitle:\nSQL Injection: Remains one of the OWASP Top 10 vulnerabilities in the generation of AI\n════════════════════════\n𐀪\nAuthor:\nAbd Alrhman Yaser Hourani\n════════════════════════\nⴵ\nTime:\nTue, 21 Jul 2026 18:30:56 GMT\n════════════════════════\n⌗\nTags:\n#data_protection\n#cybersecurity\n#sql_injection",
+        "date": "2026-07-21T20:04:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126744_0_a8eb638b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126744_1_d577baa4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126744",
+        "link": {
+          "title": "SQL Injection: Remains one of the OWASP Top 10 vulnerabilities in the generation of AI",
+          "url": "https://medium.com/@abdayaser24/sql-injection-remains-one-of-the-owasp-top-10-vulnerabilities-in-the-generation-of-ai-757b6390271b?source=rss------sql_injection-5"
+        }
+      },
+      {
+        "id": 126743,
+        "text": "⤷\nTitle:\nSSRF with Blacklist-Based Input Filter:Write-up\n════════════════════════\n𐀪\nAuthor:\nAnubhav_bora\n════════════════════════\nⴵ\nTime:\nTue, 21 Jul 2026 18:31:01 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ctf_writeup\n#ssrf_attack\n#ssrf",
+        "date": "2026-07-21T20:04:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126743_0_a8eb638b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126743_1_5bbb9528.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126743",
+        "link": {
+          "title": "SSRF with Blacklist-Based Input Filter:Write-up",
+          "url": "https://medium.com/@anubhavbora40/ssrf-with-blacklist-based-input-filter-write-up-8b765088c53c?source=rss------ssrf-5"
+        }
+      },
+      {
+        "id": 126742,
+        "text": "⤷\nTitle:\nUsing Game Cheat PoC Code to Exploit Userland Processes. (Part 2 — Chrome and Others)\n════════════════════════\n𐀪\nAuthor:\nSwifty\n════════════════════════\nⴵ\nTime:\nTue, 21 Jul 2026 18:38:29 GMT\n════════════════════════\n⌗\nTags:\n#malware\n#penetration_testing\n#malware_analysis\n#cybersecurity\n#reverse_engineering",
+        "date": "2026-07-21T20:04:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126742_0_a8eb638b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126742_1_b87b881a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126742",
+        "link": {
+          "title": "Using Game Cheat PoC Code to Exploit Userland Processes. (Part 2 — Chrome and Others)",
+          "url": "https://medium.com/@andy99998/using-game-cheat-poc-code-to-exploit-userland-processes-part-2-chrome-and-others-a247a7ea4802?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 126741,
+        "text": "⤷\nTitle:\nO Caso McKinsey e a Nova Fronteira do Riscos de IA: Quando Falhas Clássicas Encontram Agentes…\n════════════════════════\n𐀪\nAuthor:\nAdriano Santos\n════════════════════════\nⴵ\nTime:\nTue, 21 Jul 2026 18:18:04 GMT\n════════════════════════\n⌗\nTags:\n#prompt_engineering\n#hacking\n#cybersecurity\n#artificial_intelligence",
+        "date": "2026-07-21T20:04:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126741_0_a8eb638b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126741",
+        "link": {
+          "title": "O Caso McKinsey e a Nova Fronteira do Riscos de IA: Quando Falhas Clássicas Encontram Agentes…",
+          "url": "https://medium.com/@adrianosantos-dev/o-caso-mckinsey-e-a-nova-fronteira-do-riscos-de-ia-quando-falhas-cl%C3%A1ssicas-encontram-agentes-2f0feaf3a1ff?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 126740,
+        "text": "⤷\nTitle:\nMenubot: A Plaiderdays Case Study\n════════════════════════\n𐀪\nAuthor:\nMichelle Fu\n════════════════════════\nⴵ\nTime:\nTue, 21 Jul 2026 18:20:30 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#engineering_culture\n#hackathons\n#fintech\n#software_engineering",
+        "date": "2026-07-21T20:03:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126740_0_a8eb638b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126740_1_359752c4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126740",
+        "link": {
+          "title": "Menubot: A Plaiderdays Case Study",
+          "url": "https://engineering.plaid.com/menubot-a-plaiderdays-case-study-e59672ddca14?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 126739,
+        "text": "⤷\nTitle:\nAI Agents Are the New Attack Surface of 2026 — Here’s What Security Teams Must Do Now\n════════════════════════\n𐀪\nAuthor:\nNikhil Mistry\n════════════════════════\nⴵ\nTime:\nTue, 21 Jul 2026 18:28:53 GMT\n════════════════════════\n⌗\nTags:\n#future\n#hacking\n#cybersecurity\n#ai_attack\n#ai_agent",
+        "date": "2026-07-21T20:03:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126739_0_a8eb638b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126739_1_881c436f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126739",
+        "link": {
+          "title": "AI Agents Are the New Attack Surface of 2026 — Here’s What Security Teams Must Do Now",
+          "url": "https://medium.com/@nikhil116444/ai-agents-are-the-new-attack-surface-of-2026-heres-what-security-teams-must-do-now-a433c2c99d39?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 126738,
+        "text": "⤷\nTitle:\nHow I Approach Finding GraphQL API Vulnerabilities\n════════════════════════\n𐀪\nAuthor:\nShakthi\n════════════════════════\nⴵ\nTime:\nTue, 21 Jul 2026 18:00:59 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty",
+        "date": "2026-07-21T20:03:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126738_0_a8eb638b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126738_1_3a2d7b57.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126738",
+        "link": {
+          "title": "How I Approach Finding GraphQL API Vulnerabilities",
+          "url": "https://medium.com/@shakthisv90/how-i-approach-finding-graphql-api-vulnerabilities-621172e9dcf4?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 126737,
         "text": "⤷\nTitle:\nDay 15: Understanding the Threat Intelligence Lifecycle\n════════════════════════\n𐀪\nAuthor:\nSIAM AHMED\n════════════════════════\nⴵ\nTime:\nTue, 21 Jul 2026 16:30:58 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#deep_learning\n#threat_intelligence\n#cybersecurity\n#soc_analyst",
         "date": "2026-07-21T18:04:39+00:00",
@@ -2091,183 +2248,22 @@
           "title": "Secure File Upload System",
           "url": "https://medium.com/@ericmpta/secure-file-upload-system-7beb494eb141?source=rss------application_security-5"
         }
-      },
-      {
-        "id": 126642,
-        "text": "⤷\nTitle:\nBuild a Powerful ESP32-C3 Ad Blocker\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nTue, 21 Jul 2026 04:28:45 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#ad\nblocker\n#cybersecurity\n#DIY\nElectronics\n#DNS\nFilter\n#ESP32_C3\n#Microcontroller",
-        "date": "2026-07-21T06:03:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126642_0_c15fb3bc.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126642_1_0e865d84.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126642",
-        "link": {
-          "title": "Build a Powerful ESP32-C3 Ad Blocker",
-          "url": "https://meterpreter.org/esp32-c3-ad-blocker/"
-        }
-      },
-      {
-        "id": 126641,
-        "text": "⤷\nTitle:\nAndroid 16 Gemini Bypass: Lock Screen Security Flaw\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nTue, 21 Jul 2026 06:00:28 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#Android\n16\n#cybersecurity\n#Gemini\nBypass\n#mobile\nsecurity",
-        "date": "2026-07-21T06:03:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126641_0_c15fb3bc.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126641_1_669bedce.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126641",
-        "link": {
-          "title": "Android 16 Gemini Bypass: Lock Screen Security Flaw",
-          "url": "https://meterpreter.org/android-16-gemini-bypass/"
-        }
-      },
-      {
-        "id": 126640,
-        "text": "⤷\nTitle:\nI Thought Penetration Testing Was About Hacking... I Was Wrong.\n════════════════════════\n𐀪\nAuthor:\nNaman Patil\n════════════════════════\nⴵ\nTime:\nTue, 21 Jul 2026 03:20:00 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#penetration_testing\n#ethical_hacking\n#cybersecurity\n#tryhackme",
-        "date": "2026-07-21T04:04:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126640_0_c15fb3bc.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126640_1_93baa5ac.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126640",
-        "link": {
-          "title": "I Thought Penetration Testing Was About Hacking... I Was Wrong.",
-          "url": "https://medium.com/@namanpatil1248/i-thought-penetration-testing-was-about-hacking-i-was-wrong-8d6be8af7538?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 126639,
-        "text": "⤷\nTitle:\nCupid’s Matchmaker — TryHackMe Walkthrough\n════════════════════════\n𐀪\nAuthor:\n5um1t0x\n════════════════════════\nⴵ\nTime:\nTue, 21 Jul 2026 02:01:03 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#penetration_testing\n#bug_bounty\n#infosec\n#cybersecurity",
-        "date": "2026-07-21T04:04:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126639_0_c15fb3bc.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126639_1_04fe5c04.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126639",
-        "link": {
-          "title": "Cupid’s Matchmaker — TryHackMe Walkthrough",
-          "url": "https://medium.com/@5um1t0x/cupids-matchmaker-tryhackme-walkthrough-6f1ed059472d?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 126638,
-        "text": "⤷\nTitle:\nDeep-Dive Technical Write-up: CVE-2026–13156 — MailerSend WordPress Plugin CSRF Settings Deletion &…\n════════════════════════\n𐀪\nAuthor:\nHuynh Kien Minh\n════════════════════════\nⴵ\nTime:\nTue, 21 Jul 2026 02:14:05 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#cybersecurity\n#wordpress\n#cve\n#bug_bounty",
-        "date": "2026-07-21T04:04:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126638_0_c15fb3bc.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126638_1_edf6ba65.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126638",
-        "link": {
-          "title": "Deep-Dive Technical Write-up: CVE-2026–13156 — MailerSend WordPress Plugin CSRF Settings Deletion &…",
-          "url": "https://medium.com/@minhhk/deep-dive-technical-write-up-cve-2026-13156-mailersend-wordpress-plugin-csrf-settings-deletion-5b3638e201e7?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 126637,
-        "text": "⤷\nTitle:\nLG Monitors Auto-Install Adware Through Windows Device Metadata\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 21 Jul 2026 02:03:32 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#adware\n#Device\nMetadata\n#Group\nPolicy\n#LG\n#Microsoft\nStore\n#windows",
-        "date": "2026-07-21T04:04:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126637_0_c15fb3bc.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126637_1_367ca249.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126637",
-        "link": {
-          "title": "LG Monitors Auto-Install Adware Through Windows Device Metadata",
-          "url": "https://securityonline.info/lg-monitor-adware/"
-        }
-      },
-      {
-        "id": 126636,
-        "text": "⤷\nTitle:\nLinux Kernel Publishes 440 CVE Advisories in 24 Hours as AI Accelerates Bug Hunting\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 21 Jul 2026 02:09:49 +0000\n════════════════════════\n⌗\nTags:\n#Linux\n#AI\n#CVE\n#KVM\n#Linux\nKernel\n#smb\n#Vulnerability",
-        "date": "2026-07-21T04:03:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126636_0_c15fb3bc.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126636_1_cb2cc5ff.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126636",
-        "link": {
-          "title": "Linux Kernel Publishes 440 CVE Advisories in 24 Hours as AI Accelerates Bug Hunting",
-          "url": "https://securityonline.info/linux-kernel-cves/"
-        }
       }
     ]
   },
-  "last_update": "2026-07-21T19:59:37.116748+00:00",
+  "last_update": "2026-07-21T21:01:07.174286+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 189,
-    "total_files": 189,
+    "total_media": 188,
+    "total_files": 188,
     "total_links": 0,
     "files_by_type": {
-      "image": 189
+      "image": 188
     },
-    "referenced_files": 189,
-    "existing_media_files": 189,
-    "total_size_mb": 5.14,
-    "last_calculation": "2026-07-21T19:59:37.118978+00:00"
+    "referenced_files": 188,
+    "existing_media_files": 188,
+    "total_size_mb": 5.26,
+    "last_calculation": "2026-07-21T21:01:07.175858+00:00"
   }
 }
