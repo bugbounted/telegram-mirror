@@ -2,6 +2,458 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 126722,
+        "text": "⤷\nTitle:\nThe Subdomain Subfinder Missed: How a German Wordlist Led Me to a Hidden Bug (and a CHF 100…\n════════════════════════\n𐀪\nAuthor:\nkjulius\n════════════════════════\nⴵ\nTime:\nTue, 21 Jul 2026 15:34:08 GMT\n════════════════════════\n⌗\nTags:\n#subdomains_enumeration\n#bug_bounty_writeup\n#subfinder\n#gobuster\n#germany",
+        "date": "2026-07-21T16:05:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126722_0_a8eb638b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126722_1_3966cac6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126722",
+        "link": {
+          "title": "The Subdomain Subfinder Missed: How a German Wordlist Led Me to a Hidden Bug (and a CHF 100…",
+          "url": "https://infosecwriteups.com/the-subdomain-subfinder-missed-how-a-german-wordlist-led-me-to-a-hidden-bug-and-a-chf-100-d53ac4e6a880?source=rss------bug_bounty_writeup-5"
+        }
+      },
+      {
+        "id": 126721,
+        "text": "⤷\nTitle:\n“screenshot” | CyberTalents | Bypass SSRF filters using PHP wrappers | Web Exploitation : Hard\n════════════════════════\n𐀪\nAuthor:\nDr_ro0t\n════════════════════════\nⴵ\nTime:\nFri, 10 Jul 2026 21:08:54 GMT\n════════════════════════\n⌗\nTags:\n#web_security\n#ctf_writeup\n#ssrf\n#cyber_talents",
+        "date": "2026-07-21T16:04:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126721_0_a8eb638b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126721_1_0b234eff.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126721",
+        "link": {
+          "title": "“screenshot” | CyberTalents | Bypass SSRF filters using PHP wrappers | Web Exploitation : Hard",
+          "url": "https://systemweakness.com/screenshot-cybertalents-bypass-ssrf-filters-using-php-wrappers-web-exploitation-hard-9625ca91c82d?source=rss------ssrf-5"
+        }
+      },
+      {
+        "id": 126720,
+        "text": "⤷\nTitle:\nParsing the Payload: A Playbook Walkthrough of Web Server Log Forensics\n════════════════════════\n𐀪\nAuthor:\nPop123\n════════════════════════\nⴵ\nTime:\nTue, 21 Jul 2026 15:08:53 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#technology\n#logs\n#tutorial\n#tryhackme",
+        "date": "2026-07-21T16:04:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126720_0_a8eb638b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126720_1_36797c4c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126720",
+        "link": {
+          "title": "Parsing the Payload: A Playbook Walkthrough of Web Server Log Forensics",
+          "url": "https://infosecwriteups.com/parsing-the-payload-a-playbook-walkthrough-of-web-server-log-forensics-5326f05c1b16?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 126719,
+        "text": "⤷\nTitle:\nThe Lockout That Wasn’t: How a Stateless Brute-Force Test Broke My Own Login Throttle\n════════════════════════\n𐀪\nAuthor:\nPratyay Mukherjee\n════════════════════════\nⴵ\nTime:\nTue, 21 Jul 2026 15:04:45 GMT\n════════════════════════\n⌗\nTags:\n#hydra\n#kali_linux\n#ethical_hacking\n#penetration_testing\n#cybersecurity",
+        "date": "2026-07-21T16:04:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126719_0_a8eb638b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126719_1_a0db213f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126719",
+        "link": {
+          "title": "The Lockout That Wasn’t: How a Stateless Brute-Force Test Broke My Own Login Throttle",
+          "url": "https://medium.com/@prof.m0r14rty/the-lockout-that-wasnt-how-a-stateless-brute-force-test-broke-my-own-login-throttle-eafefe2ae5ad?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 126718,
+        "text": "⤷\nTitle:\nLinux Shells: Terminal Interfaces, Shell Environments, and Automation\n════════════════════════\n𐀪\nAuthor:\nJonathan Sanfer\n════════════════════════\nⴵ\nTime:\nTue, 21 Jul 2026 14:38:50 GMT\n════════════════════════\n⌗\nTags:\n#linux\n#infosec\n#cybersecurity\n#tryhackme\n#bash",
+        "date": "2026-07-21T16:04:47+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126718_0_a8eb638b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126718_1_395216b5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126718",
+        "link": {
+          "title": "Linux Shells: Terminal Interfaces, Shell Environments, and Automation",
+          "url": "https://medium.com/@jonathan.sanfer/linux-shells-terminal-interfaces-shell-environments-and-automation-72f7f0af624a?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 126717,
+        "text": "⤷\nTitle:\nHow Hackers Hack Your Android Phone Using BTMOB 4.5.2 — And How to Protect Yourself\n════════════════════════\n𐀪\nAuthor:\nHackers Things\n════════════════════════\nⴵ\nTime:\nTue, 21 Jul 2026 14:13:26 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#cybersecurity\n#technology\n#android\n#penetration_testing",
+        "date": "2026-07-21T16:04:44+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126717_0_a8eb638b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126717_1_453a1a82.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126717",
+        "link": {
+          "title": "How Hackers Hack Your Android Phone Using BTMOB 4.5.2 — And How to Protect Yourself",
+          "url": "https://medium.com/infosec-writes-up/how-hack-andriod-phone-in-2026-fd098ac394ef?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 126716,
+        "text": "⤷\nTitle:\nCrocc Crew (THM) Tryhackme Hard Challenge\n════════════════════════\n𐀪\nAuthor:\nLawvye\n════════════════════════\nⴵ\nTime:\nTue, 21 Jul 2026 15:45:21 GMT\n════════════════════════\n⌗\nTags:\n#linux\n#tryhackme\n#privilege_escalation\n#cybersecurity\n#hacking",
+        "date": "2026-07-21T16:04:40+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126716_0_a8eb638b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126716_1_6bd25aa1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126716",
+        "link": {
+          "title": "Crocc Crew (THM) Tryhackme Hard Challenge",
+          "url": "https://medium.com/@lawvye/crocc-crew-thm-tryhackme-hard-challenge-72e53d9b8bdf?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 126715,
+        "text": "⤷\nTitle:\nHow Your Spring Boot API Leaks Data (And Why Adding an Auth Check Isn’t the Fix)\n════════════════════════\n𐀪\nAuthor:\nNajee Shaheen\n════════════════════════\nⴵ\nTime:\nTue, 21 Jul 2026 15:28:25 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#idor\n#application_security\n#java\n#spring_boot",
+        "date": "2026-07-21T16:04:37+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126715_0_a8eb638b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126715_1_2452eaba.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126715",
+        "link": {
+          "title": "How Your Spring Boot API Leaks Data (And Why Adding an Auth Check Isn’t the Fix)",
+          "url": "https://medium.com/@najee.shaheen.98/how-your-spring-boot-api-leaks-data-and-why-adding-an-auth-check-isnt-the-fix-2013c798e3ab?source=rss------application_security-5"
+        }
+      },
+      {
+        "id": 126714,
+        "text": "⤷\nTitle:\nThe File Is Lying to You: 10 Steganography Methods That Hide Secrets in Plain Sight\n════════════════════════\n𐀪\nAuthor:\nDevansh Patel\n════════════════════════\nⴵ\nTime:\nTue, 21 Jul 2026 14:31:39 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#hacking\n#ethical_hacking\n#blog\n#cybersecurity",
+        "date": "2026-07-21T16:04:34+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126714_0_a8eb638b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126714_1_8c6ee4bb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126714",
+        "link": {
+          "title": "The File Is Lying to You: 10 Steganography Methods That Hide Secrets in Plain Sight",
+          "url": "https://infosecwriteups.com/the-file-is-lying-to-you-10-steganography-methods-that-hide-secrets-in-plain-sight-3cc5c76ade5f?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 126713,
+        "text": "⤷\nTitle:\nCVE-2026-49488: Arbitrary File Read Flaw in Apache OpenMeetings Exposes Server Credentials\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 21 Jul 2026 12:25:58 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#apache\n#Apache\nOpenMeetings\n#Arbitrary\nFile Read\n#Path\nTraversal",
+        "date": "2026-07-21T16:04:30+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126713_0_a8eb638b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126713_1_03f56395.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126713",
+        "link": {
+          "title": "CVE-2026-49488: Arbitrary File Read Flaw in Apache OpenMeetings Exposes Server Credentials",
+          "url": "https://securityonline.info/openmeetings-file-read/"
+        }
+      },
+      {
+        "id": 126712,
+        "text": "⤷\nTitle:\nCVE-2026-50522 SharePoint RCE Flaw Exploited in the Wild With Public PoC Exploit\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 21 Jul 2026 12:45:54 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_50522\n#CVE_2026_58644\n#Deserialization\n#DEVCORE\n#exploited\nin the wild\n#Microsoft\n#proof_of_concept\n#Remote\nCode Execution\n#Sharepoint\n#SharePoint\nRCE",
+        "date": "2026-07-21T16:04:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126712_0_a8eb638b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126712_1_77f29ec5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126712",
+        "link": {
+          "title": "CVE-2026-50522 SharePoint RCE Flaw Exploited in the Wild With Public PoC Exploit",
+          "url": "https://securityonline.info/cve-2026-50522-sharepoint-rce/"
+        }
+      },
+      {
+        "id": 126711,
+        "text": "⤷\nTitle:\nZimbra 10.1.20 Patches an SNMP Command Injection Flaw and Multiple XSS Bugs\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 21 Jul 2026 13:03:00 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Classic\nWeb Client\n#mail\nforwarding bypass\n#SNMP\ncommand injection\n#ssrf\n#XSS\n#ZCS\n#Zimbra\n#Zimbra\n10.1.20\n#Zimbra\nvulnerabilities",
+        "date": "2026-07-21T16:04:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126711_0_a8eb638b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126711_1_9a5a0857.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126711",
+        "link": {
+          "title": "Zimbra 10.1.20 Patches an SNMP Command Injection Flaw and Multiple XSS Bugs",
+          "url": "https://securityonline.info/zimbra-10-1-20-vulnerabilities/"
+        }
+      },
+      {
+        "id": 126710,
+        "text": "⤷\nTitle:\nThree SQL Injection Flaws Patched in Apache Fineract Core Banking Platform\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 21 Jul 2026 13:15:50 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#apache\n#Apache\nFineract\n#Core\nBanking\n#sql\ninjection",
+        "date": "2026-07-21T16:04:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126710_0_a8eb638b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126710_1_8f7539ca.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126710",
+        "link": {
+          "title": "Three SQL Injection Flaws Patched in Apache Fineract Core Banking Platform",
+          "url": "https://securityonline.info/apache-fineract-sql-injection/"
+        }
+      },
+      {
+        "id": 126709,
+        "text": "⤷\nTitle:\nPublic PoC Released for CVE-2026-42980 Windows Privilege Escalation Flaw\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 21 Jul 2026 13:20:45 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_42980\n#LPE\n#Microsoft\n#Patch\nTuesday\n#proof_of_concept\n#Windows\nKernel\n#Windows\nPrivilege Escalation\n#WMI\nvulnerability",
+        "date": "2026-07-21T16:04:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126709_0_a8eb638b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126709_1_06382b53.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126709",
+        "link": {
+          "title": "Public PoC Released for CVE-2026-42980 Windows Privilege Escalation Flaw",
+          "url": "https://securityonline.info/cve-2026-42980-privilege-escalation/"
+        }
+      },
+      {
+        "id": 126708,
+        "text": "⤷\nTitle:\nASUS Patches Router and PC Software Flaws, Including a CVSS 9.5 Command Execution Bug\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 21 Jul 2026 14:16:46 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#ASUS\n#ASUSWRT\n#Driver\nVulnerability\n#router\nsecurity",
+        "date": "2026-07-21T16:04:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126708_0_a8eb638b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126708_1_95262fd3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126708",
+        "link": {
+          "title": "ASUS Patches Router and PC Software Flaws, Including a CVSS 9.5 Command Execution Bug",
+          "url": "https://securityonline.info/asus-security-advisories/"
+        }
+      },
+      {
+        "id": 126707,
+        "text": "⤷\nTitle:\nTELEPUZ Malware Spreads Through ClickFix and VIDAR Attacks\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 21 Jul 2026 14:57:42 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#ClickFix\n#Elastic\nSecurity Labs\n#Infostealer\n#MaaS\n#TELEPUZ\n#Vidar\n#WebInject",
+        "date": "2026-07-21T16:04:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126707_0_a8eb638b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126707_1_a82fa2dc.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126707",
+        "link": {
+          "title": "TELEPUZ Malware Spreads Through ClickFix and VIDAR Attacks",
+          "url": "https://securityonline.info/telepuz-malware-clickfix/"
+        }
+      },
+      {
+        "id": 126706,
+        "text": "⤷\nTitle:\nMagnet Forensics Sues Over Stolen iPhone Zero-Day\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nTue, 21 Jul 2026 14:15:30 +0000\n════════════════════════\n⌗\nTags:\n#Apple\n#Information\nSecurity\n#cybersecurity\n#iOS\nExploits\n#iPhone\nZero_Day\n#Magnet\nForensics",
+        "date": "2026-07-21T16:04:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126706_0_a8eb638b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126706_1_dc3de744.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126706",
+        "link": {
+          "title": "Magnet Forensics Sues Over Stolen iPhone Zero-Day",
+          "url": "https://meterpreter.org/iphone-zero-day-lawsuit/"
+        }
+      },
+      {
+        "id": 126705,
+        "text": "⤷\nTitle:\nFig Expands SecOps Engineering Lifecycle as Security Teams Seek More Resilient Infrastructure\n════════════════════════\n𐀪\nAuthor:\nOwais Sultan\n════════════════════════\nⴵ\nTime:\nTue, 21 Jul 2026 14:59:43 +0000\n════════════════════════\n⌗\nTags:\n#Security\n#CI\n/CD\n#Cybersecurity\n#Fig\n#Fig\nSecurity\n#SecOps",
+        "date": "2026-07-21T16:04:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126705_0_a8eb638b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126705_1_2c31c3cb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126705",
+        "link": {
+          "title": "Fig Expands SecOps Engineering Lifecycle as Security Teams Seek More Resilient Infrastructure",
+          "url": "https://hackread.com/fig-secops-engineering-lifecycle-security-teams-infrastructure/"
+        }
+      },
+      {
+        "id": 126704,
+        "text": "⤷\nTitle:\nZimbra Patches Critical SNMP Command Injection and Four XSS Vulnerabilities\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nTue, 21 Jul 2026 18:48:31 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-07-21T16:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126704_0_a8eb638b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126704",
+        "link": {
+          "title": "Zimbra Patches Critical SNMP Command Injection and Four XSS Vulnerabilities",
+          "url": "https://thehackernews.com/2026/07/zimbra-patches-critical-snmp-command.html"
+        }
+      },
+      {
+        "id": 126703,
+        "text": "⤷\nTitle:\nQilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nTue, 21 Jul 2026 19:34:57 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-07-21T16:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126703_0_a8eb638b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126703",
+        "link": {
+          "title": "Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access",
+          "url": "https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html"
+        }
+      },
+      {
         "id": 126701,
         "text": "⤷\nTitle:\nCVE-2026-10123: Fourth Stack Overflow in a Week Confirms Widespread Firmware Failure in TRENDnet…\n════════════════════════\n𐀪\nAuthor:\nCyberPodcast\n════════════════════════\nⴵ\nTime:\nTue, 21 Jul 2026 13:01:04 GMT\n════════════════════════\n⌗\nTags:\n#stackoverflow\n#cwe_119\n#ethical_hacking\n#cwe_121\n#cve_2026_10123",
         "date": "2026-07-21T14:04:35+00:00",
@@ -1808,462 +2260,10 @@
           "title": "TryHackMe Writeup: Wgel CTF",
           "url": "https://medium.com/@brkyagl/tryhackme-writeup-wgel-ctf-5cb76968b3a4?source=rss------tryhackme-5"
         }
-      },
-      {
-        "id": 126620,
-        "text": "⤷\nTitle:\nTryHackMe: Firewalls -hands-on labs\n════════════════════════\n𐀪\nAuthor:\nJose Praveen\n════════════════════════\nⴵ\nTime:\nMon, 20 Jul 2026 20:41:01 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#nmap\n#firewall\n#network_security\n#tryhackme_writeup",
-        "date": "2026-07-20T22:04:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126620_0_c15fb3bc.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126620_1_0640bbf8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126620",
-        "link": {
-          "title": "TryHackMe: Firewalls -hands-on labs",
-          "url": "https://josepraveen.medium.com/tryhackme-firewalls-hands-on-labs-9cccbdc2568e?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 126619,
-        "text": "⤷\nTitle:\nSifting the Streams: A Playbook Walkthrough of PCAP Forensics\n════════════════════════\n𐀪\nAuthor:\nPop123\n════════════════════════\nⴵ\nTime:\nMon, 20 Jul 2026 21:31:00 GMT\n════════════════════════\n⌗\nTags:\n#technology\n#forensics\n#tutorial\n#cybersecurity\n#tryhackme",
-        "date": "2026-07-20T22:04:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126619_0_c15fb3bc.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126619_1_0bc2bd5b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126619",
-        "link": {
-          "title": "Sifting the Streams: A Playbook Walkthrough of PCAP Forensics",
-          "url": "https://medium.com/@Pop123/sifting-the-streams-a-playbook-walkthrough-of-pcap-forensics-2ea6eb40046f?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 126618,
-        "text": "⤷\nTitle:\nGPT-5.5 Trusted Access for Cyber Isn’t What Most Pentesters Think It Is\n════════════════════════\n𐀪\nAuthor:\nGeorg Ph. E. Heise\n════════════════════════\nⴵ\nTime:\nMon, 20 Jul 2026 20:26:50 GMT\n════════════════════════\n⌗\nTags:\n#artificial_intelligence\n#openai\n#penetration_testing\n#red_team\n#cybersecurity",
-        "date": "2026-07-20T22:04:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126618_0_c15fb3bc.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126618_1_36604de1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126618",
-        "link": {
-          "title": "GPT-5.5 Trusted Access for Cyber Isn’t What Most Pentesters Think It Is",
-          "url": "https://medium.com/@gpheheise/gpt-5-5-trusted-access-for-cyber-isnt-what-most-pentesters-think-it-is-9577e625e7ab?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 126617,
-        "text": "⤷\nTitle:\nGoogle Dorking\n════════════════════════\n𐀪\nAuthor:\nBabayeva Sevinj\n════════════════════════\nⴵ\nTime:\nMon, 20 Jul 2026 20:03:09 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#pentesting\n#tryhackme\n#tryhackme_walkthrough\n#cybersecurity",
-        "date": "2026-07-20T22:04:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126617_0_c15fb3bc.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126617_1_f2ccdf40.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126617",
-        "link": {
-          "title": "Google Dorking",
-          "url": "https://medium.com/@sevinjrb/google-dorking-f8b40984f356?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 126616,
-        "text": "⤷\nTitle:\nAI-300 / OSAI Review: My Experience with OffSec’s AI Red Teaming Certification\n════════════════════════\n𐀪\nAuthor:\nsomecanadian\n════════════════════════\nⴵ\nTime:\nMon, 20 Jul 2026 20:25:09 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#offsec\n#ai_300\n#ai_hacking\n#hacking",
-        "date": "2026-07-20T22:03:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126616_0_c15fb3bc.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126616_1_d9e927e3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126616",
-        "link": {
-          "title": "AI-300 / OSAI Review: My Experience with OffSec’s AI Red Teaming Certification",
-          "url": "https://somecanadian.medium.com/ai-300-osai-review-my-experience-with-offsecs-ai-red-teaming-certification-13c4bd719c0a?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 126615,
-        "text": "⤷\nTitle:\nWalkthrough:System based host attacks CTF 1\n════════════════════════\n𐀪\nAuthor:\nGaonkarpranay\n════════════════════════\nⴵ\nTime:\nMon, 20 Jul 2026 20:26:06 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#metasploit\n#my_ejpt_experience\n#windows_exploitation\n#ejpt",
-        "date": "2026-07-20T22:03:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126615_0_c15fb3bc.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126615_1_11653478.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126615",
-        "link": {
-          "title": "Walkthrough:System based host attacks CTF 1",
-          "url": "https://medium.com/@gaonkarpranay1947/walkthrough-system-based-host-attacks-ctf-1-63c88f8c530c?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 126614,
-        "text": "⤷\nTitle:\nHugging Face Says Autonomous AI Agent System Breached Production Infrastructure\n════════════════════════\n𐀪\nAuthor:\nWaqas\n════════════════════════\nⴵ\nTime:\nMon, 20 Jul 2026 21:06:48 +0000\n════════════════════════\n⌗\nTags:\n#Security\n#Artificial\nIntelligence\n#Cyber\nAttacks\n#Data\nBreaches\n#Agentic\nAI\n#AI\nAgents\n#Cyber\nAttack\n#Cyber\nCrime\n#Cybersecurity\n#data\nbreach\n#Hugging\nFace\n#Machine\nLearning",
-        "date": "2026-07-20T22:03:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126614_0_c15fb3bc.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126614_1_7fc841b1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126614",
-        "link": {
-          "title": "Hugging Face Says Autonomous AI Agent System Breached Production Infrastructure",
-          "url": "https://hackread.com/hugging-face-ai-agent-breach-production-system/"
-        }
-      },
-      {
-        "id": 126613,
-        "text": "⤷\nTitle:\nDay 14: Threat Intelligence — Transforming Information Into Actionable Cyber Defense\n════════════════════════\n𐀪\nAuthor:\nSIAM AHMED\n════════════════════════\nⴵ\nTime:\nMon, 20 Jul 2026 17:56:36 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ethical_hacking\n#soc_analyst\n#deep_learning\n#technology",
-        "date": "2026-07-20T20:04:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126613_0_c15fb3bc.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126613_1_071263cf.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126613",
-        "link": {
-          "title": "Day 14: Threat Intelligence — Transforming Information Into Actionable Cyber Defense",
-          "url": "https://medium.com/@ahmedseam094/day-14-threat-intelligence-transforming-information-into-actionable-cyber-defense-178496feeb3d?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 126612,
-        "text": "⤷\nTitle:\nNetwork Reconnaissance with Nmap in a VirtualBox Cybersecurity Lab\n════════════════════════\n𐀪\nAuthor:\nSouhardya\n════════════════════════\nⴵ\nTime:\nMon, 20 Jul 2026 18:28:50 GMT\n════════════════════════\n⌗\nTags:\n#nmap\n#kali_linux\n#cybersecurity\n#ethical_hacking\n#virtual_machine",
-        "date": "2026-07-20T20:04:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126612_0_c15fb3bc.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126612_1_92876d97.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126612",
-        "link": {
-          "title": "Network Reconnaissance with Nmap in a VirtualBox Cybersecurity Lab",
-          "url": "https://medium.com/@souhardya1230/network-reconnaissance-with-nmap-in-a-virtualbox-cybersecurity-lab-e932597e7378?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 126611,
-        "text": "⤷\nTitle:\nTryHackMe Writeup: Bounty Hacker\n════════════════════════\n𐀪\nAuthor:\nBerkay AĞGÜL\n════════════════════════\nⴵ\nTime:\nMon, 20 Jul 2026 19:14:09 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#cybersecurity\n#tryhackme_writeup\n#cybercrime\n#tryhackme_walkthrough",
-        "date": "2026-07-20T20:04:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126611_0_c15fb3bc.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126611_1_919d9251.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126611",
-        "link": {
-          "title": "TryHackMe Writeup: Bounty Hacker",
-          "url": "https://medium.com/@brkyagl/tryhackme-writeup-bounty-hacker-a68c1ac63ce0?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 126610,
-        "text": "⤷\nTitle:\nGetting a job in Europe\n════════════════════════\n𐀪\nAuthor:\nRysaheer\n════════════════════════\nⴵ\nTime:\nMon, 20 Jul 2026 19:39:47 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#linkedin\n#europe\n#cybersecurity\n#jobs",
-        "date": "2026-07-20T20:04:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126610_0_c15fb3bc.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126610_1_a524919e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126610",
-        "link": {
-          "title": "Getting a job in Europe",
-          "url": "https://medium.com/@rysaheer/getting-a-job-in-europe-bbe6a0a06d5a?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 126609,
-        "text": "⤷\nTitle:\nYour Breach Plan Is Protecting the Wrong File\n════════════════════════\n𐀪\nAuthor:\nS6 Tech\n════════════════════════\nⴵ\nTime:\nMon, 20 Jul 2026 19:34:07 GMT\n════════════════════════\n⌗\nTags:\n#small_business\n#cybercrime\n#infosec\n#cybersecurity\n#newsletter",
-        "date": "2026-07-20T20:04:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126609_0_c15fb3bc.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126609_1_b7c66bb8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126609",
-        "link": {
-          "title": "Your Breach Plan Is Protecting the Wrong File",
-          "url": "https://medium.com/@s6techllc/your-breach-plan-is-protecting-the-wrong-file-87d574fffbb4?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 126608,
-        "text": "⤷\nTitle:\nSQL INJECTION\n════════════════════════\n𐀪\nAuthor:\nAliamar\n════════════════════════\nⴵ\nTime:\nMon, 20 Jul 2026 19:55:55 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#sql\n#sql_server\n#hacking\n#sql_injection",
-        "date": "2026-07-20T20:04:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126608_0_c15fb3bc.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126608_1_8d5d4530.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126608",
-        "link": {
-          "title": "SQL INJECTION",
-          "url": "https://medium.com/@aliamartrader/sql-injection-cedba1691763?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 126607,
-        "text": "⤷\nTitle:\nFrida Server on Dopamine Jailbreak Only Listens on 127.0.0.1\n════════════════════════\n𐀪\nAuthor:\nSupra\n════════════════════════\nⴵ\nTime:\nMon, 20 Jul 2026 19:45:23 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#application_security\n#penetration_testing\n#ios_security\n#vapt",
-        "date": "2026-07-20T20:04:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126607_0_c15fb3bc.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126607_1_346930fa.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126607",
-        "link": {
-          "title": "Frida Server on Dopamine Jailbreak Only Listens on 127.0.0.1",
-          "url": "https://medium.com/@supraxhacker/frida-server-loopback-issue-ios-pentesting-fix-9049a794499c?source=rss------application_security-5"
-        }
-      },
-      {
-        "id": 126606,
-        "text": "⤷\nTitle:\nHunting an Unauthenticated IDOR in a Registration API\n════════════════════════\n𐀪\nAuthor:\nAdham Mohamed\n════════════════════════\nⴵ\nTime:\nMon, 20 Jul 2026 19:28:06 GMT\n════════════════════════\n⌗\nTags:\n#idor\n#owasp_top_10\n#bug_bounty_writeup\n#bug_bounty\n#unauthenticated_idor",
-        "date": "2026-07-20T20:03:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126606_0_c15fb3bc.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126606_1_006a6988.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126606",
-        "link": {
-          "title": "Hunting an Unauthenticated IDOR in a Registration API",
-          "url": "https://medium.com/@am8337/hunting-an-unauthenticated-idor-in-a-registration-api-6bb8036162e7?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 126605,
-        "text": "⤷\nTitle:\nExposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nMon, 20 Jul 2026 22:59:50 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-07-20T20:03:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126605_0_c15fb3bc.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126605",
-        "link": {
-          "title": "Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign",
-          "url": "https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html"
-        }
-      },
-      {
-        "id": 126604,
-        "text": "⤷\nTitle:\nFakeGit Campaign Uses 7,600 GitHub Repositories to Spread SmartLoader Malware\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nMon, 20 Jul 2026 23:53:03 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-07-20T20:03:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126604_0_c15fb3bc.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126604",
-        "link": {
-          "title": "FakeGit Campaign Uses 7,600 GitHub Repositories to Spread SmartLoader Malware",
-          "url": "https://thehackernews.com/2026/07/fakegit-campaign-uses-7600-github.html"
-        }
-      },
-      {
-        "id": 126603,
-        "text": "⤷\nTitle:\nWanted: Your Ideas & Intellectual Property — New Leaf News\n════════════════════════\n𐀪\nAuthor:\nGreg Simbeck\n════════════════════════\nⴵ\nTime:\nMon, 20 Jul 2026 14:45:21 GMT\n════════════════════════\n⌗\nTags:\n#spotify\n#eeoc\n#intellectual_property\n#xs",
-        "date": "2026-07-20T18:04:45+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126603_0_c15fb3bc.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126603_1_4686caa6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126603",
-        "link": {
-          "title": "Wanted: Your Ideas & Intellectual Property — New Leaf News",
-          "url": "https://medium.com/@gsimbeck1/wanted-your-ideas-intellectual-property-new-leaf-news-5e8cea847386?source=rss------xss-5"
-        }
-      },
-      {
-        "id": 126602,
-        "text": "⤷\nTitle:\nDaily Bugle: Exploding CMS Vulnerabilities and sudo Misconfigurations\n════════════════════════\n𐀪\nAuthor:\nsbimoxa\n════════════════════════\nⴵ\nTime:\nMon, 20 Jul 2026 17:12:11 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_writeup\n#mitre_attack\n#penetration_testing\n#cibersecurity",
-        "date": "2026-07-20T18:04:42+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126602_0_c15fb3bc.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126602_1_f0e79b21.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126602",
-        "link": {
-          "title": "Daily Bugle: Exploding CMS Vulnerabilities and sudo Misconfigurations",
-          "url": "https://medium.com/@sbimoxa/daily-bugle-exploding-cms-vulnerabilities-and-sudo-misconfigurations-56852ee0881e?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 126601,
-        "text": "⤷\nTitle:\nCuriosity Is the Most Underrated Skill in Cybersecurity Investigations Series: Cybersecurity…\n════════════════════════\n𐀪\nAuthor:\nMiddle East Cybersecurity Mentor\n════════════════════════\nⴵ\nTime:\nMon, 20 Jul 2026 16:36:01 GMT\n════════════════════════\n⌗\nTags:\n#information_security\n#technology\n#cybersecurity\n#information_technology\n#infosec",
-        "date": "2026-07-20T18:04:38+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126601_0_c15fb3bc.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126601_1_3a3ea2e2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126601",
-        "link": {
-          "title": "Curiosity Is the Most Underrated Skill in Cybersecurity Investigations Series: Cybersecurity…",
-          "url": "https://medium.com/@rafiudeen.1995/curiosity-is-the-most-underrated-skill-in-cybersecurity-investigations-series-cybersecurity-ea95f31a770c?source=rss------infosec-5"
-        }
       }
     ]
   },
-  "last_update": "2026-07-21T15:21:48.427112+00:00",
+  "last_update": "2026-07-21T16:52:50.949225+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2275,7 +2275,7 @@
     },
     "referenced_files": 191,
     "existing_media_files": 191,
-    "total_size_mb": 5.1,
-    "last_calculation": "2026-07-21T15:21:48.429484+00:00"
+    "total_size_mb": 5.23,
+    "last_calculation": "2026-07-21T16:52:50.951587+00:00"
   }
 }
