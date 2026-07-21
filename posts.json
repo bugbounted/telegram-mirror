@@ -2,6 +2,113 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 126655,
+        "text": "⤷\nTitle:\nIDOR: The Vulnerability Hiding in a Single URL Parameter\n════════════════════════\n𐀪\nAuthor:\nThe Skillpods\n════════════════════════\nⴵ\nTime:\nTue, 21 Jul 2026 07:29:27 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#idor\n#ethical_hacking\n#broken_access_control\n#idor_vulnerability",
+        "date": "2026-07-21T08:04:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126655_0_c15fb3bc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126655_1_85e84b7d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126655",
+        "link": {
+          "title": "IDOR: The Vulnerability Hiding in a Single URL Parameter",
+          "url": "https://theskillpod.medium.com/idor-the-vulnerability-hiding-in-a-single-url-parameter-f486706b7de2?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 126654,
+        "text": "⤷\nTitle:\nDOM XSS using web messages and JSON.parse\n════════════════════════\n𐀪\nAuthor:\nKarthik_Mudgal\n════════════════════════\nⴵ\nTime:\nTue, 21 Jul 2026 07:58:33 GMT\n════════════════════════\n⌗\nTags:\n#web_application_testing\n#penetration_testing\n#portswigger\n#bug_bounty",
+        "date": "2026-07-21T08:04:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126654_0_c15fb3bc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126654_1_f34c6e57.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126654",
+        "link": {
+          "title": "DOM XSS using web messages and JSON.parse",
+          "url": "https://medium.com/@karthikmudgal12/dom-xss-using-web-messages-and-json-parse-70a1324330e7?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 126653,
+        "text": "⤷\nTitle:\nSonicWall SMA Zero-Day Exploits: A Severe VPN Security Flaw\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nTue, 21 Jul 2026 06:27:29 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\n#CVE_2026_15409\n#SonicWall\nSMA\n#VPN\nSecurity\n#zero_day",
+        "date": "2026-07-21T08:04:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126653_0_c15fb3bc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126653_1_5e6e9709.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126653",
+        "link": {
+          "title": "SonicWall SMA Zero-Day Exploits: A Severe VPN Security Flaw",
+          "url": "https://meterpreter.org/sonicwall-sma-zero-day/"
+        }
+      },
+      {
+        "id": 126652,
+        "text": "⤷\nTitle:\nCritical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nTue, 21 Jul 2026 11:59:26 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-07-21T08:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126652_0_c15fb3bc.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126652",
+        "link": {
+          "title": "Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution",
+          "url": "https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html"
+        }
+      },
+      {
+        "id": 126651,
+        "text": "⤷\nTitle:\nNew ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nTue, 21 Jul 2026 13:04:32 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-07-21T08:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126651_0_c15fb3bc.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126651",
+        "link": {
+          "title": "New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack",
+          "url": "https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html"
+        }
+      },
+      {
         "id": 126650,
         "text": "⤷\nTitle:\nSession Hijacking & Injection\n════════════════════════\n𐀪\nAuthor:\nShofa\n════════════════════════\nⴵ\nTime:\nTue, 21 Jul 2026 04:12:55 GMT\n════════════════════════\n⌗\nTags:\n#front_end_development\n#web_security\n#sql_injection\n#backend_development\n#web_development",
         "date": "2026-07-21T06:04:23+00:00",
@@ -2161,137 +2268,22 @@
           "title": "Why Delaying VAPT Can Cost Your Business More Than You Think",
           "url": "https://westadvancedtechnologies.medium.com/why-delaying-vapt-can-cost-your-business-more-than-you-think-cfda6e0a5e8c?source=rss------penetration_testing-5"
         }
-      },
-      {
-        "id": 126555,
-        "text": "⤷\nTitle:\nMr. Robot Hands-on: Wireless Attack\n════════════════════════\n𐀪\nAuthor:\nAllen Ace\n════════════════════════\nⴵ\nTime:\nMon, 20 Jul 2026 10:33:11 GMT\n════════════════════════\n⌗\nTags:\n#wireless_security\n#ethical_hacking\n#penetration_testing\n#wifihacking\n#cybersecurity",
-        "date": "2026-07-20T12:04:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126555_0_c15fb3bc.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126555_1_6fc1073b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126555",
-        "link": {
-          "title": "Mr. Robot Hands-on: Wireless Attack",
-          "url": "https://allenace.medium.com/mr-robot-hands-on-wireless-attack-541269d40eab?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 126554,
-        "text": "⤷\nTitle:\n544,908 Events in 20 Days — OpenCanary Multi-Service Honeypot Data\n════════════════════════\n𐀪\nAuthor:\nD. Blanko\n════════════════════════\nⴵ\nTime:\nMon, 20 Jul 2026 10:28:17 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#honeypot\n#malware\n#cybersecurity\n#threat_intelligence",
-        "date": "2026-07-20T12:04:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126554_0_c15fb3bc.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126554_1_b23168bb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126554",
-        "link": {
-          "title": "544,908 Events in 20 Days — OpenCanary Multi-Service Honeypot Data",
-          "url": "https://infosecwriteups.com/544-908-events-in-20-days-opencanary-multi-service-honeypot-data-8ea9a7a78607?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 126553,
-        "text": "⤷\nTitle:\nPasskeys vs Passwords: What’s the Difference?\n════════════════════════\n𐀪\nAuthor:\nShahzaib\n════════════════════════\nⴵ\nTime:\nMon, 20 Jul 2026 10:54:53 GMT\n════════════════════════\n⌗\nTags:\n#passwordhack\n#cybersecurity\n#hacking\n#tech\n#technology",
-        "date": "2026-07-20T12:03:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126553_0_c15fb3bc.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126553_1_9487b1dd.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126553",
-        "link": {
-          "title": "Passkeys vs Passwords: What’s the Difference?",
-          "url": "https://medium.com/data-and-beyond/passkeys-vs-passwords-whats-the-difference-7e98414f2914?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 126552,
-        "text": "⤷\nTitle:\nWriteup for CyLab/picoCTF challenge “strings it”\n════════════════════════\n𐀪\nAuthor:\nWalter Moar\n════════════════════════\nⴵ\nTime:\nMon, 20 Jul 2026 11:01:01 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#ctf\n#cybersecurity\n#cylab\n#ctf_writeup",
-        "date": "2026-07-20T12:03:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126552_0_c15fb3bc.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126552_1_d3c1674d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126552",
-        "link": {
-          "title": "Writeup for CyLab/picoCTF challenge “strings it”",
-          "url": "https://medium.com/@waltermoar/writeup-for-cylab-picoctf-challenge-strings-it-6dd36e683a42?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 126551,
-        "text": "⤷\nTitle:\nFBI Arrests Florida Man in $220,000 Steam Crypto Theft Case\n════════════════════════\n𐀪\nAuthor:\nWaqas\n════════════════════════\nⴵ\nTime:\nMon, 20 Jul 2026 11:24:55 +0000\n════════════════════════\n⌗\nTags:\n#Cyber\nCrime\n#Crypto\n#Malware\n#BlockBlasters\n#Chemia\n#Cybersecurity\n#Dashverse\n/DashFPS\n#Florida\n#Lampy\n#Lunara\n#PirateFi\n#Privacy\n#security\n#Steam\n#Tokenova",
-        "date": "2026-07-20T12:03:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126551_0_c15fb3bc.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126551_1_640dd295.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126551",
-        "link": {
-          "title": "FBI Arrests Florida Man in $220,000 Steam Crypto Theft Case",
-          "url": "https://hackread.com/fbi-arrests-florida-man-steam-crypto-theft-case/"
-        }
       }
     ]
   },
-  "last_update": "2026-07-21T07:27:39.323017+00:00",
+  "last_update": "2026-07-21T09:58:43.566609+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 194,
-    "total_files": 194,
+    "total_media": 192,
+    "total_files": 192,
     "total_links": 0,
     "files_by_type": {
-      "image": 194
+      "image": 192
     },
-    "referenced_files": 194,
-    "existing_media_files": 194,
-    "total_size_mb": 5.24,
-    "last_calculation": "2026-07-21T07:27:39.325431+00:00"
+    "referenced_files": 192,
+    "existing_media_files": 192,
+    "total_size_mb": 5.12,
+    "last_calculation": "2026-07-21T09:58:43.568927+00:00"
   }
 }
