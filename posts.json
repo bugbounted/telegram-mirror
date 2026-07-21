@@ -2,6 +2,236 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 126640,
+        "text": "⤷\nTitle:\nI Thought Penetration Testing Was About Hacking... I Was Wrong.\n════════════════════════\n𐀪\nAuthor:\nNaman Patil\n════════════════════════\nⴵ\nTime:\nTue, 21 Jul 2026 03:20:00 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#penetration_testing\n#ethical_hacking\n#cybersecurity\n#tryhackme",
+        "date": "2026-07-21T04:04:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126640_0_c15fb3bc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126640_1_93baa5ac.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126640",
+        "link": {
+          "title": "I Thought Penetration Testing Was About Hacking... I Was Wrong.",
+          "url": "https://medium.com/@namanpatil1248/i-thought-penetration-testing-was-about-hacking-i-was-wrong-8d6be8af7538?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 126639,
+        "text": "⤷\nTitle:\nCupid’s Matchmaker — TryHackMe Walkthrough\n════════════════════════\n𐀪\nAuthor:\n5um1t0x\n════════════════════════\nⴵ\nTime:\nTue, 21 Jul 2026 02:01:03 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#penetration_testing\n#bug_bounty\n#infosec\n#cybersecurity",
+        "date": "2026-07-21T04:04:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126639_0_c15fb3bc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126639_1_04fe5c04.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126639",
+        "link": {
+          "title": "Cupid’s Matchmaker — TryHackMe Walkthrough",
+          "url": "https://medium.com/@5um1t0x/cupids-matchmaker-tryhackme-walkthrough-6f1ed059472d?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 126638,
+        "text": "⤷\nTitle:\nDeep-Dive Technical Write-up: CVE-2026–13156 — MailerSend WordPress Plugin CSRF Settings Deletion &…\n════════════════════════\n𐀪\nAuthor:\nHuynh Kien Minh\n════════════════════════\nⴵ\nTime:\nTue, 21 Jul 2026 02:14:05 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#cybersecurity\n#wordpress\n#cve\n#bug_bounty",
+        "date": "2026-07-21T04:04:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126638_0_c15fb3bc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126638_1_edf6ba65.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126638",
+        "link": {
+          "title": "Deep-Dive Technical Write-up: CVE-2026–13156 — MailerSend WordPress Plugin CSRF Settings Deletion &…",
+          "url": "https://medium.com/@minhhk/deep-dive-technical-write-up-cve-2026-13156-mailersend-wordpress-plugin-csrf-settings-deletion-5b3638e201e7?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 126637,
+        "text": "⤷\nTitle:\nLG Monitors Auto-Install Adware Through Windows Device Metadata\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 21 Jul 2026 02:03:32 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#adware\n#Device\nMetadata\n#Group\nPolicy\n#LG\n#Microsoft\nStore\n#windows",
+        "date": "2026-07-21T04:04:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126637_0_c15fb3bc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126637_1_367ca249.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126637",
+        "link": {
+          "title": "LG Monitors Auto-Install Adware Through Windows Device Metadata",
+          "url": "https://securityonline.info/lg-monitor-adware/"
+        }
+      },
+      {
+        "id": 126636,
+        "text": "⤷\nTitle:\nLinux Kernel Publishes 440 CVE Advisories in 24 Hours as AI Accelerates Bug Hunting\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 21 Jul 2026 02:09:49 +0000\n════════════════════════\n⌗\nTags:\n#Linux\n#AI\n#CVE\n#KVM\n#Linux\nKernel\n#smb\n#Vulnerability",
+        "date": "2026-07-21T04:03:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126636_0_c15fb3bc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126636_1_cb2cc5ff.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126636",
+        "link": {
+          "title": "Linux Kernel Publishes 440 CVE Advisories in 24 Hours as AI Accelerates Bug Hunting",
+          "url": "https://securityonline.info/linux-kernel-cves/"
+        }
+      },
+      {
+        "id": 126635,
+        "text": "⤷\nTitle:\nQilin Ransomware Deployed via Palo Alto GlobalProtect Flaw CVE-2026-0257\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 21 Jul 2026 03:15:54 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#Arctic\nWolf\n#Authentication\nBypass\n#CVE_2026_0257\n#Double\nExtortion\n#Palo\nAlto GlobalProtect\n#PAN_OS\n#Qilin\nRansomware\n#Ransomware_as_a_Service",
+        "date": "2026-07-21T04:03:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126635_0_c15fb3bc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126635_1_791b914c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126635",
+        "link": {
+          "title": "Qilin Ransomware Deployed via Palo Alto GlobalProtect Flaw CVE-2026-0257",
+          "url": "https://securityonline.info/qilin-ransomware-cve-2026-0257/"
+        }
+      },
+      {
+        "id": 126634,
+        "text": "⤷\nTitle:\nWhite House Launches GOLD EAGLE Initiative to Speed Vulnerability Patching\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 21 Jul 2026 03:39:32 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#AI\ncybersecurity\n#CISA\n#Critical\nInfrastructure\n#EO\n14409\n#GOLD\nEAGLE\n#Trump\nAdministration\n#vulnerability\ncoordination\n#White\nHouse",
+        "date": "2026-07-21T04:03:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126634_0_c15fb3bc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126634_1_fa254304.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126634",
+        "link": {
+          "title": "White House Launches GOLD EAGLE Initiative to Speed Vulnerability Patching",
+          "url": "https://securityonline.info/gold-eagle-vulnerability-coordination/"
+        }
+      },
+      {
+        "id": 126633,
+        "text": "⤷\nTitle:\nWordPress Security Alert: Why Updating Your Website Is More Important Than Ever\n════════════════════════\n𐀪\nAuthor:\nDamerchiloa\n════════════════════════\nⴵ\nTime:\nTue, 21 Jul 2026 01:54:05 GMT\n════════════════════════\n⌗\nTags:\n#web_security\n#ethical_hacking\n#information_security\n#wordpress\n#cybersecurity",
+        "date": "2026-07-21T02:04:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126633_0_c15fb3bc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126633_1_8c489a19.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126633",
+        "link": {
+          "title": "WordPress Security Alert: Why Updating Your Website Is More Important Than Ever",
+          "url": "https://medium.com/@damerchiloa/wordpress-security-alert-why-updating-your-website-is-more-important-than-ever-baabfb7226ca?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 126632,
+        "text": "⤷\nTitle:\nTuesday Morning Threat Report: Jul 21, 2026\n════════════════════════\n𐀪\nAuthor:\nMark Maguire\n════════════════════════\nⴵ\nTime:\nTue, 21 Jul 2026 01:32:58 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#hacking\n#grok_build",
+        "date": "2026-07-21T02:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126632_0_c15fb3bc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126632_1_13abecdd.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126632",
+        "link": {
+          "title": "Tuesday Morning Threat Report: Jul 21, 2026",
+          "url": "https://medium.com/@cyber_securiti/tuesday-morning-threat-report-jul-21-2026-938f37eca48b?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 126631,
+        "text": "⤷\nTitle:\nwp2shell: WordPress Core RCE Exploited in the Wild as Public PoC Code Circulates\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 21 Jul 2026 01:49:52 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_60137\n#CVE_2026_63030\n#Pre_Auth\nRCE\n#REST\nAPI batch\n#webshell\n#WordPress\nCore RCE\n#wordpress\nsecurity\n#wp2shell\nexploit",
+        "date": "2026-07-21T02:03:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126631_0_c15fb3bc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126631_1_2ace3f60.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126631",
+        "link": {
+          "title": "wp2shell: WordPress Core RCE Exploited in the Wild as Public PoC Code Circulates",
+          "url": "https://securityonline.info/wp2shell-wordpress-core-rce/"
+        }
+      },
+      {
         "id": 126630,
         "text": "⤷\nTitle:\nTryHackMe : Understanding Vulnerability Databases\n════════════════════════\n𐀪\nAuthor:\nNuray Xudadatova\n════════════════════════\nⴵ\nTime:\nMon, 20 Jul 2026 22:01:16 GMT\n════════════════════════\n⌗\nTags:\n#vulnerability\n#tryhackme_walkthrough\n#tryhackme\n#vulnerability_assessment",
         "date": "2026-07-21T00:04:14+00:00",
@@ -2046,244 +2276,22 @@
           "title": "Rooting DC-3: A Single Port, a Joomla SQL Injection, and a Kernel Exploit",
           "url": "https://medium.com/@sithumsryt/rooting-dc-3-a-single-port-a-joomla-sql-injection-and-a-kernel-exploit-5f9f15bf9409?source=rss------penetration_testing-5"
         }
-      },
-      {
-        "id": 126540,
-        "text": "⤷\nTitle:\nA White Screen Led Me to a Much Bigger WordPress Problem\n════════════════════════\n𐀪\nAuthor:\nAshish Dwivedi\n════════════════════════\nⴵ\nTime:\nMon, 20 Jul 2026 07:53:24 GMT\n════════════════════════\n⌗\nTags:\n#security\n#hacking\n#freelancing\n#wordpress\n#software_development",
-        "date": "2026-07-20T10:04:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126540_0_2fb3887b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126540_1_3bf22388.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126540",
-        "link": {
-          "title": "A White Screen Led Me to a Much Bigger WordPress Problem",
-          "url": "https://medium.com/@adwivedi008/a-white-screen-led-me-to-a-much-bigger-wordpress-problem-e5feecdd6a2e?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 126539,
-        "text": "⤷\nTitle:\nCan Public Wi-Fi Really Hack Your Phone? 11 Risks You Must Know (2026 Guide)\n════════════════════════\n𐀪\nAuthor:\nQnaydshackersacadamy\n════════════════════════\nⴵ\nTime:\nMon, 20 Jul 2026 07:53:40 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ai\n#hacking",
-        "date": "2026-07-20T10:04:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126539_0_2fb3887b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126539_1_4380d060.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126539",
-        "link": {
-          "title": "Can Public Wi-Fi Really Hack Your Phone? 11 Risks You Must Know (2026 Guide)",
-          "url": "https://medium.com/@qnaydshackersacadamy/can-public-wi-fi-really-hack-your-phone-11-risks-you-must-know-2026-guide-40c65b74e98a?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 126538,
-        "text": "⤷\nTitle:\nWhy Machine Learning Belongs in the Future of Web Application Security\n════════════════════════\n𐀪\nAuthor:\nGladioswaf\n════════════════════════\nⴵ\nTime:\nMon, 20 Jul 2026 08:47:07 GMT\n════════════════════════\n⌗\nTags:\n#web_security\n#application_security\n#cybersecurity\n#machine_learning\n#api_security",
-        "date": "2026-07-20T10:04:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126538_0_2fb3887b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126538_1_1b167dac.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126538",
-        "link": {
-          "title": "Why Machine Learning Belongs in the Future of Web Application Security",
-          "url": "https://medium.com/@gladioswaf/why-machine-learning-belongs-in-the-future-of-web-application-security-ed5578ab0c13?source=rss------application_security-5"
-        }
-      },
-      {
-        "id": 126537,
-        "text": "⤷\nTitle:\n# From “users” to “admin”: How a Simple Response Copy-Paste Led to Privilege Escalation\n════════════════════════\n𐀪\nAuthor:\nPankaj Kumar Yadav\n════════════════════════\nⴵ\nTime:\nMon, 20 Jul 2026 09:33:52 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_writeup\n#software_development\n#cyber_security_awareness\n#bug_bounty\n#infosec",
-        "date": "2026-07-20T10:04:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126537_0_2fb3887b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126537_1_1d877ebf.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126537",
-        "link": {
-          "title": "# From “users” to “admin”: How a Simple Response Copy-Paste Led to Privilege Escalation",
-          "url": "https://medium.com/@pankaj_73968/from-users-to-admin-how-a-simple-response-copy-paste-led-to-privilege-escalation-f93c1220f1e5?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 126536,
-        "text": "⤷\nTitle:\nHow a Single UUID Change Led to an IDOR Vulnerability\n════════════════════════\n𐀪\nAuthor:\nPrachi_Tyagi\n════════════════════════\nⴵ\nTime:\nMon, 20 Jul 2026 09:34:42 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#bug_bounty\n#idor\n#ethical_hacking\n#vulnerability",
-        "date": "2026-07-20T10:04:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126536_0_2fb3887b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126536_1_fddd05eb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126536",
-        "link": {
-          "title": "How a Single UUID Change Led to an IDOR Vulnerability",
-          "url": "https://medium.com/@ctf.exe890/how-a-single-uuid-change-led-to-an-idor-vulnerability-e3913d0d9985?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 126535,
-        "text": "⤷\nTitle:\nCrashStealer: New macOS Infostealer Poses as Apple Crash Reporter to Steal Wallets and Passwords\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 20 Jul 2026 08:00:24 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#CrashStealer\n#Cryptocurrency\nWallet\n#Infostealer\n#Jamf\nThreat Labs\n#macOS\nMalware",
-        "date": "2026-07-20T10:04:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126535_0_2fb3887b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126535_1_bdb8c6eb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126535",
-        "link": {
-          "title": "CrashStealer: New macOS Infostealer Poses as Apple Crash Reporter to Steal Wallets and Passwords",
-          "url": "https://securityonline.info/crashstealer-macos-infostealer/"
-        }
-      },
-      {
-        "id": 126534,
-        "text": "⤷\nTitle:\nHOLLOWGRAPH Malware Hides Command-and-Control in Microsoft 365 Calendars\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 20 Jul 2026 08:08:43 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#calendar\nC2\n#Cavern\nframework\n#cyber_espionage\n#DNS\ntunneling\n#HOLLOWGRAPH\nmalware\n#Lyceum\n#Microsoft\n365 Security\n#Microsoft\nGraph API abuse",
-        "date": "2026-07-20T10:04:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126534_0_2fb3887b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126534_1_4b693783.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126534",
-        "link": {
-          "title": "HOLLOWGRAPH Malware Hides Command-and-Control in Microsoft 365 Calendars",
-          "url": "https://securityonline.info/hollowgraph-malware-microsoft-graph-api/"
-        }
-      },
-      {
-        "id": 126533,
-        "text": "⤷\nTitle:\nRussian-Speaking Hacker Uses Google Gemini CLI to Control Botnet of Eight Dental Clinic PCs\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nMon, 20 Jul 2026 14:37:11 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-07-20T10:03:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126533_0_2fb3887b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126533",
-        "link": {
-          "title": "Russian-Speaking Hacker Uses Google Gemini CLI to Control Botnet of Eight Dental Clinic PCs",
-          "url": "https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html"
-        }
-      },
-      {
-        "id": 126532,
-        "text": "⤷\nTitle:\nNew 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nMon, 20 Jul 2026 14:40:56 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-07-20T10:03:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126532_0_2fb3887b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126532",
-        "link": {
-          "title": "New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction",
-          "url": "https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html"
-        }
-      },
-      {
-        "id": 126531,
-        "text": "⤷\nTitle:\nSQLi UNION attack,finding a column containing text\n════════════════════════\n𐀪\nAuthor:\n@i.ogore\n════════════════════════\nⴵ\nTime:\nMon, 20 Jul 2026 06:09:12 GMT\n════════════════════════\n⌗\nTags:\n#sql_injection\n#burpsuite\n#portswigger\n#cybersecurity",
-        "date": "2026-07-20T08:04:40+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126531_0_2fb3887b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126531_1_8992c513.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126531",
-        "link": {
-          "title": "SQLi UNION attack,finding a column containing text",
-          "url": "https://medium.com/@samogore8/sqli-union-attack-finding-a-column-containing-text-242f915923fe?source=rss------sql_injection-5"
-        }
       }
     ]
   },
-  "last_update": "2026-07-21T01:20:43.377952+00:00",
+  "last_update": "2026-07-21T04:41:01.520032+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 192,
-    "total_files": 192,
+    "total_media": 194,
+    "total_files": 194,
     "total_links": 0,
     "files_by_type": {
-      "image": 192
+      "image": 194
     },
-    "referenced_files": 192,
-    "existing_media_files": 192,
-    "total_size_mb": 5.04,
-    "last_calculation": "2026-07-21T01:20:43.380351+00:00"
+    "referenced_files": 194,
+    "existing_media_files": 194,
+    "total_size_mb": 5.17,
+    "last_calculation": "2026-07-21T04:41:01.522337+00:00"
   }
 }
