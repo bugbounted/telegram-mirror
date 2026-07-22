@@ -2,6 +2,75 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 126762,
+        "text": "⤷\nTitle:\nHTB Writeup — Fireflow\n════════════════════════\n𐀪\nAuthor:\nk4toch4\n════════════════════════\nⴵ\nTime:\nWed, 22 Jul 2026 00:54:16 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#hackthebox_writeup\n#ctf_writeup\n#ctf\n#hackthebox",
+        "date": "2026-07-22T02:03:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126762_0_a8eb638b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126762_1_e74b4e46.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126762",
+        "link": {
+          "title": "HTB Writeup — Fireflow",
+          "url": "https://medium.com/@k4toch4/htb-writeup-fireflow-169003d1560d?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 126761,
+        "text": "⤷\nTitle:\nOpenVAS\n════════════════════════\n𐀪\nAuthor:\nBabayeva Sevinj\n════════════════════════\nⴵ\nTime:\nWed, 22 Jul 2026 00:56:07 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_walkthrough\n#hacking\n#cybersecurity\n#openvas\n#pentesting",
+        "date": "2026-07-22T02:03:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126761_0_a8eb638b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126761_1_608cd829.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126761",
+        "link": {
+          "title": "OpenVAS",
+          "url": "https://medium.com/@sevinjrb/openvas-f8493c25aaba?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 126760,
+        "text": "⤷\nTitle:\nSolarWinds Patches 15 Critical Serv-U Vulnerabilities Enabling Root Access\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 21 Jul 2026 17:21:35 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#broken\naccess control\n#CVE_2026_28307\n#CVE_2026_28308\n#CVE_2026_28321\n#File\nTransfer\n#IDOR\n#privilege\nescalation\n#rce\n#SolarWinds\n#SolarWinds\nServ_U",
+        "date": "2026-07-22T02:03:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126760_0_a8eb638b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126760_1_378ec87c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126760",
+        "link": {
+          "title": "SolarWinds Patches 15 Critical Serv-U Vulnerabilities Enabling Root Access",
+          "url": "https://securityonline.info/solarwinds-serv-u-vulnerabilities/"
+        }
+      },
+      {
         "id": 126759,
         "text": "⤷\nTitle:\nPrompt Injection — Demonstrate Indirect prompt injection in action\n════════════════════════\n𐀪\nAuthor:\nJose Praveen\n════════════════════════\nⴵ\nTime:\nTue, 21 Jul 2026 22:31:01 GMT\n════════════════════════\n⌗\nTags:\n#prompt_injection\n#indirect_prompt_injection\n#tryhackme_writeup\n#ai_security\n#tryhackme",
         "date": "2026-07-22T00:04:09+00:00",
@@ -2183,79 +2252,10 @@
           "title": "Claude Team Plan Now Starts at Just 2 Seats",
           "url": "https://securityonline.info/claude-team-plan-2-seat-minimum/"
         }
-      },
-      {
-        "id": 126661,
-        "text": "⤷\nTitle:\nNextcloud Website Suffers Cyberattack and Phishing Redirect\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 21 Jul 2026 07:55:52 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#cyberattack\n#Data\nSecurity\n#Nextcloud\n#phishing\n#WordPress\nVulnerability",
-        "date": "2026-07-21T10:04:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126661_0_a8eb638b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126661_1_1048627d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126661",
-        "link": {
-          "title": "Nextcloud Website Suffers Cyberattack and Phishing Redirect",
-          "url": "https://securityonline.info/nextcloud-website-hacked/"
-        }
-      },
-      {
-        "id": 126660,
-        "text": "⤷\nTitle:\nTuxBot v3 Evolution — an IoT Botnet Built With LLM Help\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 21 Jul 2026 08:11:55 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#Akiru\n#ddos\n#IoT\nbotnet\n#Keksec\n#LLM\nmalware\n#TuxBot\n#Unit\n42",
-        "date": "2026-07-21T10:04:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126660_0_a8eb638b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126660_1_c354eb6a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126660",
-        "link": {
-          "title": "TuxBot v3 Evolution — an IoT Botnet Built With LLM Help",
-          "url": "https://securityonline.info/tuxbot-v3-evolution-iot-botnet/"
-        }
-      },
-      {
-        "id": 126659,
-        "text": "⤷\nTitle:\nOVH Patches CVE-2026-53359 KVM Flaw Across a Million VMs\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 21 Jul 2026 08:26:08 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Cloud\nSecurity\n#CVE_2026_53359\n#KVM\n#Linux\nKernel\n#OVHCloud\n#Vulnerability",
-        "date": "2026-07-21T10:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126659_0_a8eb638b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126659_1_3362715f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126659",
-        "link": {
-          "title": "OVH Patches CVE-2026-53359 KVM Flaw Across a Million VMs",
-          "url": "https://securityonline.info/ovh-cve-2026-53359-kvm-patch/"
-        }
       }
     ]
   },
-  "last_update": "2026-07-22T00:14:26.673095+00:00",
+  "last_update": "2026-07-22T03:55:13.688559+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2267,7 +2267,7 @@
     },
     "referenced_files": 189,
     "existing_media_files": 189,
-    "total_size_mb": 5.39,
-    "last_calculation": "2026-07-22T00:14:26.674243+00:00"
+    "total_size_mb": 5.27,
+    "last_calculation": "2026-07-22T03:55:13.690781+00:00"
   }
 }
