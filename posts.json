@@ -2,6 +2,144 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 126925,
+        "text": "⤷\nTitle:\n[IronHold] — Spring Boot Source Code Analysis: Finding Credentials, SQL Injection, PrivEsc, and…\n════════════════════════\n𐀪\nAuthor:\nBash Overflow\n════════════════════════\nⴵ\nTime:\nThu, 23 Jul 2026 05:38:52 GMT\n════════════════════════\n⌗\nTags:\n#capture_the_flag\n#spring_boot\n#sql_injection\n#insecure_deserialization\n#privilege_escalation",
+        "date": "2026-07-23T06:04:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126925_0_c8a5cc39.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126925_1_83b0f966.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126925",
+        "link": {
+          "title": "[IronHold] — Spring Boot Source Code Analysis: Finding Credentials, SQL Injection, PrivEsc, and…",
+          "url": "https://meetcyber.net/ironhold-spring-boot-source-code-analysis-finding-credentials-sql-injection-privesc-and-6b494f41611b?source=rss------sql_injection-5"
+        }
+      },
+      {
+        "id": 126924,
+        "text": "⤷\nTitle:\nVulnerability Scanning Tools | TryHackMe (THM)\n════════════════════════\n𐀪\nAuthor:\nNuray Xudadatova\n════════════════════════\nⴵ\nTime:\nThu, 23 Jul 2026 05:03:54 GMT\n════════════════════════\n⌗\nTags:\n#openvas\n#vulnerability\n#tryhackme\n#vulnerability_scanning\n#vulnerability_assessment",
+        "date": "2026-07-23T06:04:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126924_0_c8a5cc39.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126924_1_bb2f3008.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126924",
+        "link": {
+          "title": "Vulnerability Scanning Tools | TryHackMe (THM)",
+          "url": "https://estoym1a.medium.com/vulnerability-scanning-tools-tryhackme-thm-ce54a3eaa4ca?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 126923,
+        "text": "⤷\nTitle:\nNo Domain, No Problem! Until There Is One…Building an Active Directory Home Lab from Scratch\n════════════════════════\n𐀪\nAuthor:\nTyler Reynolds\n════════════════════════\nⴵ\nTime:\nThu, 23 Jul 2026 04:03:47 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#blue_team\n#infosec\n#active_directory\n#homelab",
+        "date": "2026-07-23T06:04:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126923_0_c8a5cc39.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126923_1_10fd23ec.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126923",
+        "link": {
+          "title": "No Domain, No Problem! Until There Is One…Building an Active Directory Home Lab from Scratch",
+          "url": "https://medium.com/@treynolds172/no-domain-no-problem-until-there-is-one-building-an-active-directory-home-lab-from-scratch-1aa0adca60a0?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 126922,
+        "text": "⤷\nTitle:\nCryptography 101: What I Learned Trying to Understand How Our Data Actually Stays Safe\n════════════════════════\n𐀪\nAuthor:\nAbhinav Mtk\n════════════════════════\nⴵ\nTime:\nThu, 23 Jul 2026 03:58:04 GMT\n════════════════════════\n⌗\nTags:\n#study\n#hacking\n#cryptography\n#beginers_guide\n#cybersecurity",
+        "date": "2026-07-23T06:04:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126922_0_c8a5cc39.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126922_1_b280651e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126922",
+        "link": {
+          "title": "Cryptography 101: What I Learned Trying to Understand How Our Data Actually Stays Safe",
+          "url": "https://medium.com/@abhinavmtk22/cryptography-101-what-i-learned-trying-to-understand-how-our-data-actually-stays-safe-597a61cc4146?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 126921,
+        "text": "⤷\nTitle:\nGitHub Just Halved Its Bug Bounty Payouts — Here’s What Actually Changed\n════════════════════════\n𐀪\nAuthor:\nHarsh_Exploits\n════════════════════════\nⴵ\nTime:\nThu, 23 Jul 2026 05:27:29 GMT\n════════════════════════\n⌗\nTags:\n#vulnerability\n#cybersecurity\n#bug_bounty_tips\n#web_application_security\n#bug_bounty",
+        "date": "2026-07-23T06:03:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126921_0_c8a5cc39.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126921_1_7256d04f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126921",
+        "link": {
+          "title": "GitHub Just Halved Its Bug Bounty Payouts — Here’s What Actually Changed",
+          "url": "https://medium.com/@haarshagrawal/github-just-halved-its-bug-bounty-payouts-heres-what-actually-changed-10e21514a5b7?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 126920,
+        "text": "⤷\nTitle:\nHow to Extract Information from Websites: Automated OSINT Techniques and Tools\n════════════════════════\n𐀪\nAuthor:\nKarthikeyan Nagaraj\n════════════════════════\nⴵ\nTime:\nThu, 23 Jul 2026 05:36:14 GMT\n════════════════════════\n⌗\nTags:\n#careers\n#cybersecurity\n#jobs\n#osint\n#bug_bounty",
+        "date": "2026-07-23T06:03:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126920_0_c8a5cc39.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126920_1_b2b0828a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126920",
+        "link": {
+          "title": "How to Extract Information from Websites: Automated OSINT Techniques and Tools",
+          "url": "https://cyberw1ng.medium.com/how-to-extract-information-from-websites-automated-osint-techniques-and-tools-6bd180ec978a?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 126919,
         "text": "⤷\nTitle:\nFrom Random Scans to Real Strategy: What Penetration Testing Frameworks Taught Me\n════════════════════════\n𐀪\nAuthor:\nNaman Patil\n════════════════════════\nⴵ\nTime:\nThu, 23 Jul 2026 03:25:24 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#information_security\n#tryhackme\n#penetration_testing\n#cybersecurity",
         "date": "2026-07-23T04:04:16+00:00",
@@ -2150,148 +2288,10 @@
           "title": "The OSI Model: How Each Layer Works, and Where Attackers Actually Hit It",
           "url": "https://medium.com/@sakshambhawaniya305/the-osi-model-how-each-layer-works-and-where-attackers-actually-hit-it-fa830e60090c?source=rss------ethical_hacking-5"
         }
-      },
-      {
-        "id": 126820,
-        "text": "⤷\nTitle:\nDesigning OSINT Challenges in the Age of LLMs: Why Observation Still Beats Prompting\n════════════════════════\n𐀪\nAuthor:\nN3tPh4nt0m\n════════════════════════\nⴵ\nTime:\nWed, 22 Jul 2026 11:39:26 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#capture_the_flag\n#ethical_hacking\n#osint",
-        "date": "2026-07-22T12:04:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126820_0_c8a5cc39.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126820_1_d77f7df9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126820",
-        "link": {
-          "title": "Designing OSINT Challenges in the Age of LLMs: Why Observation Still Beats Prompting",
-          "url": "https://medium.com/@anushrichittawar06/designing-osint-challenges-in-the-age-of-llms-why-observation-still-beats-prompting-d8f4cc652898?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 126819,
-        "text": "⤷\nTitle:\nSQHell — TryHackMe WriteUp with Flags\n════════════════════════\n𐀪\nAuthor:\nRayenhafsawy\n════════════════════════\nⴵ\nTime:\nWed, 22 Jul 2026 10:22:56 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#tryhackme_walkthrough\n#tryhackme_writeup\n#ctf_writeup\n#cybersecurity",
-        "date": "2026-07-22T12:04:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126819_0_c8a5cc39.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126819_1_a029c778.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126819",
-        "link": {
-          "title": "SQHell — TryHackMe WriteUp with Flags",
-          "url": "https://medium.com/@rayenhafsawy/sqhell-tryhackme-writeup-with-flags-5a3a72f76592?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 126818,
-        "text": "⤷\nTitle:\nTask 2 -> OSINT Techniques (Missing Person)\n════════════════════════\n𐀪\nAuthor:\nGunay Safarzadeh\n════════════════════════\nⴵ\nTime:\nWed, 22 Jul 2026 10:43:54 GMT\n════════════════════════\n⌗\nTags:\n#google_maps\n#social_media\n#cybersecurity\n#tryhackme\n#osint",
-        "date": "2026-07-22T12:04:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126818_0_c8a5cc39.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126818_1_9b24f663.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126818",
-        "link": {
-          "title": "Task 2 -> OSINT Techniques (Missing Person)",
-          "url": "https://medium.com/@gunaysafarzadeh01/task-2-osint-techniques-missing-person-073bff173a13?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 126817,
-        "text": "⤷\nTitle:\nRooting DC-4: Brute Force, Leaked Mail, and a Custom Sudo Binary\n════════════════════════\n𐀪\nAuthor:\nSithum Ranasinghe\n════════════════════════\nⴵ\nTime:\nWed, 22 Jul 2026 11:58:59 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#brute_force\n#ctf\n#vulnhub",
-        "date": "2026-07-22T12:04:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126817_0_c8a5cc39.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126817_1_033d71e3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126817",
-        "link": {
-          "title": "Rooting DC-4: Brute Force, Leaked Mail, and a Custom Sudo Binary",
-          "url": "https://medium.com/@sithumsryt/rooting-dc-4-brute-force-leaked-mail-and-a-custom-sudo-binary-b7b147d12bf9?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 126816,
-        "text": "⤷\nTitle:\nWeb Security Monitoring — part 1\n════════════════════════\n𐀪\nAuthor:\nExploitHunter\n════════════════════════\nⴵ\nTime:\nWed, 22 Jul 2026 11:30:03 GMT\n════════════════════════\n⌗\nTags:\n#web_development\n#cyber_security_awareness\n#infosec\n#cybersecurity\n#ethical_hacking",
-        "date": "2026-07-22T12:04:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126816_0_c8a5cc39.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126816_1_d52a7d3e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126816",
-        "link": {
-          "title": "Web Security Monitoring — part 1",
-          "url": "https://medium.com/@vorasmit22/web-security-monitoring-part-1-295169e6f7be?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 126815,
-        "text": "⤷\nTitle:\nPart III — Linux: The Operating System Behind the Internet\n════════════════════════\n𐀪\nAuthor:\nYassin Hamada\n════════════════════════\nⴵ\nTime:\nWed, 22 Jul 2026 10:42:57 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#yassin_hamada\n#infosec\n#hacking\n#kali_linux",
-        "date": "2026-07-22T12:04:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126815_0_c8a5cc39.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126815_1_4ed387c9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126815",
-        "link": {
-          "title": "Part III — Linux: The Operating System Behind the Internet",
-          "url": "https://medium.com/@hdhffxfg/part-iii-linux-the-operating-system-behind-the-internet-26effb9cf1b3?source=rss------hacking-5"
-        }
       }
     ]
   },
-  "last_update": "2026-07-23T04:45:49.667184+00:00",
+  "last_update": "2026-07-23T07:27:58.315547+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2303,7 +2303,7 @@
     },
     "referenced_files": 197,
     "existing_media_files": 197,
-    "total_size_mb": 6.1,
-    "last_calculation": "2026-07-23T04:45:49.669639+00:00"
+    "total_size_mb": 6.21,
+    "last_calculation": "2026-07-23T07:27:58.318023+00:00"
   }
 }
