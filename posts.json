@@ -2,6 +2,466 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 127021,
+        "text": "⤷\nTitle:\nThe Linux Command That Quietly Became My Favorite Debugging Tool\n════════════════════════\n𐀪\nAuthor:\nFateyaly\n════════════════════════\nⴵ\nTime:\nThu, 23 Jul 2026 15:38:13 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#technology\n#programming\n#coding\n#ethical_hacking",
+        "date": "2026-07-23T16:05:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127021_0_56a59d66.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127021_1_41dd60d1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127021",
+        "link": {
+          "title": "The Linux Command That Quietly Became My Favorite Debugging Tool",
+          "url": "https://systemweakness.com/the-linux-command-that-quietly-became-my-favorite-debugging-tool-bf51221c3471?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 127020,
+        "text": "⤷\nTitle:\nIs Penetration Testing Still Relevant\n════════════════════════\n𐀪\nAuthor:\nSachin\n════════════════════════\nⴵ\nTime:\nThu, 23 Jul 2026 15:13:46 GMT\n════════════════════════\n⌗\nTags:\n#security_testing\n#penetration_testing\n#cybersecurity\n#cyber_physical_systems",
+        "date": "2026-07-23T16:05:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127020_0_56a59d66.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127020_1_90fe9654.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127020",
+        "link": {
+          "title": "Is Penetration Testing Still Relevant",
+          "url": "https://medium.com/@sahi2959/is-penetration-testing-still-relevant-a442a0883ed4?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 127019,
+        "text": "⤷\nTitle:\nCoercion to krbtgt: NTLM Relay and ADCS ESC8 in 2026\n════════════════════════\n𐀪\nAuthor:\nGilo\n════════════════════════\nⴵ\nTime:\nThu, 23 Jul 2026 15:33:38 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#penetration_testing\n#dfir\n#esc8\n#adcs_attacks",
+        "date": "2026-07-23T16:04:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127019_0_56a59d66.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127019_1_8ceb6e46.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127019",
+        "link": {
+          "title": "Coercion to krbtgt: NTLM Relay and ADCS ESC8 in 2026",
+          "url": "https://medium.com/@giloyosef31/coercion-to-krbtgt-ntlm-relay-and-adcs-esc8-in-2026-ed3bf23c218a?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 127018,
+        "text": "⤷\nTitle:\nInternal (THM) Tryhackme Hard Challenge\n════════════════════════\n𐀪\nAuthor:\nLawvye\n════════════════════════\nⴵ\nTime:\nThu, 23 Jul 2026 14:05:21 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#hacking\n#tryhackme\n#privilege_escalation\n#linux",
+        "date": "2026-07-23T16:04:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127018_0_56a59d66.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127018_1_2ea64bee.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127018",
+        "link": {
+          "title": "Internal (THM) Tryhackme Hard Challenge",
+          "url": "https://medium.com/@lawvye/internal-thm-tryhackme-hard-challenge-570955fc6e4f?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 127017,
+        "text": "⤷\nTitle:\nStop Using requirements.txt: The pylock.toml Migration Guide\n════════════════════════\n𐀪\nAuthor:\nDaily Python Programming\n════════════════════════\nⴵ\nTime:\nThu, 23 Jul 2026 15:15:44 GMT\n════════════════════════\n⌗\nTags:\n#python\n#programming\n#hacking\n#software_engineering\n#devops",
+        "date": "2026-07-23T16:04:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127017_0_56a59d66.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127017_1_66da50cd.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127017",
+        "link": {
+          "title": "Stop Using requirements.txt: The pylock.toml Migration Guide",
+          "url": "https://dailypythonprogramming.medium.com/stop-using-requirements-txt-the-pylock-toml-migration-guide-cdb963275422?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 127016,
+        "text": "⤷\nTitle:\nWhat is Vulnerability Assessment vs Penetration Testing?\n════════════════════════\n𐀪\nAuthor:\nHimanshu Parmar\n════════════════════════\nⴵ\nTime:\nThu, 23 Jul 2026 14:46:31 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#penetration_testing\n#application_security\n#information_security\n#ethical_hacking",
+        "date": "2026-07-23T16:04:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127016_0_56a59d66.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127016_1_52bf286a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127016",
+        "link": {
+          "title": "What is Vulnerability Assessment vs Penetration Testing?",
+          "url": "https://himanshuh4cker.medium.com/what-is-vulnerability-assessment-vs-penetration-testing-ddcb46e68c7e?source=rss------application_security-5"
+        }
+      },
+      {
+        "id": 127015,
+        "text": "⤷\nTitle:\nBypassing reCAPTCHA Due to Missing Server-Side Validation\n════════════════════════\n𐀪\nAuthor:\n0X0DOoOM\n════════════════════════\nⴵ\nTime:\nThu, 23 Jul 2026 14:07:35 GMT\n════════════════════════\n⌗\nTags:\n#hackerone\n#recaptcha\n#web_application_security\n#bug_bounty\n#misconfiguration",
+        "date": "2026-07-23T16:04:44+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127015_0_56a59d66.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127015_1_04975b04.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127015",
+        "link": {
+          "title": "Bypassing reCAPTCHA Due to Missing Server-Side Validation",
+          "url": "https://medium.com/@0X0DOoOM/bypassing-recaptcha-due-to-missing-server-side-validation-7b653afd221c?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 127014,
+        "text": "⤷\nTitle:\nHow a Simple Google Dork Led Me to Find Reflected XSS & HTML Injection on NASA and Earn a Letter of…\n════════════════════════\n𐀪\nAuthor:\nItsS4LEH\n════════════════════════\nⴵ\nTime:\nThu, 23 Jul 2026 15:07:34 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#bug_bounty_tips\n#bug_bounty_writeup\n#bug_bounty\n#bugbounty_writeup",
+        "date": "2026-07-23T16:04:41+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127014_0_56a59d66.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127014_1_f117ad7f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127014",
+        "link": {
+          "title": "How a Simple Google Dork Led Me to Find Reflected XSS & HTML Injection on NASA and Earn a Letter of…",
+          "url": "https://medium.com/@itss4leh/how-a-simple-google-dork-led-me-to-find-reflected-xss-html-injection-on-nasa-and-earn-a-letter-of-83075852de42?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 127013,
+        "text": "⤷\nTitle:\nAI vs. Human Audit: Why Automation Cannot Replace Cybersecurity Expertise\n════════════════════════\n𐀪\nAuthor:\nSdxShadowlabs\n════════════════════════\nⴵ\nTime:\nThu, 23 Jul 2026 15:19:39 GMT\n════════════════════════\n⌗\nTags:\n#ai\n#audit\n#bug_bounty\n#sdxshadowlabs\n#cybersecurity",
+        "date": "2026-07-23T16:04:37+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127013_0_56a59d66.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127013_1_9f097c10.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127013",
+        "link": {
+          "title": "AI vs. Human Audit: Why Automation Cannot Replace Cybersecurity Expertise",
+          "url": "https://medium.com/@SdxShadowlabs/ai-vs-human-audit-why-automation-cannot-replace-cybersecurity-expertise-0d9decbf80be?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 127012,
+        "text": "⤷\nTitle:\nThe Confused Deputy in the AWS Cloud: Bypassing Kubernetes NodeRestriction via IAM Spoofing\n════════════════════════\n𐀪\nAuthor:\nSachin Patil\n════════════════════════\nⴵ\nTime:\nThu, 23 Jul 2026 15:48:27 GMT\n════════════════════════\n⌗\nTags:\n#kubernetes\n#cybersecurity\n#bug_bounty\n#aws\n#cloud_security",
+        "date": "2026-07-23T16:04:34+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127012_0_56a59d66.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127012_1_752b76b4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127012",
+        "link": {
+          "title": "The Confused Deputy in the AWS Cloud: Bypassing Kubernetes NodeRestriction via IAM Spoofing",
+          "url": "https://medium.com/@sachinpatilsp/the-confused-deputy-in-the-aws-cloud-bypassing-kubernetes-noderestriction-via-iam-spoofing-04eec5298e32?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 127011,
+        "text": "⤷\nTitle:\nApache Syncope Patches SQL Injection and Privilege Escalation Flaws\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 23 Jul 2026 14:10:21 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Apache\nsecurity\n#Apache\nSyncope vulnerabilities\n#CVE_2026_57308\n#CVE_2026_62183\n#Identity\nManagement\n#patch\nmanagement\n#privilege\nescalation flaw\n#sql\ninjection",
+        "date": "2026-07-23T16:04:31+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127011_0_56a59d66.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127011_1_8163420b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127011",
+        "link": {
+          "title": "Apache Syncope Patches SQL Injection and Privilege Escalation Flaws",
+          "url": "https://securityonline.info/apache-syncope-vulnerabilities/"
+        }
+      },
+      {
+        "id": 127010,
+        "text": "⤷\nTitle:\nJetBrains Patches 18 Flaws, Including Two CVSS 10 Bugs in IntelliJ IDEA Remote Development\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 23 Jul 2026 14:22:59 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Arbitrary\nCode Execution\n#CVE_2026_64812\n#CVE_2026_64813\n#CVE_2026_65907\n#IntelliJ\nIDEA\n#JetBrains\n#JetBrains\nvulnerabilities\n#TeamCity",
+        "date": "2026-07-23T16:04:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127010_0_56a59d66.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127010_1_06201961.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127010",
+        "link": {
+          "title": "JetBrains Patches 18 Flaws, Including Two CVSS 10 Bugs in IntelliJ IDEA Remote Development",
+          "url": "https://securityonline.info/jetbrains-vulnerabilities-cvss-10/"
+        }
+      },
+      {
+        "id": 127009,
+        "text": "⤷\nTitle:\nTA488 and TA458 Steal Government Email Using Half-Click Webmail Exploits\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 23 Jul 2026 14:44:35 +0000\n════════════════════════\n⌗\nTags:\n#Cyber\nSecurity\n#half_click\nexploits\n#Proofpoint\n#SpyPress\n#TA458\n#TA488\n#webmail\nzero_days\n#Zimbra\n#ZimReaper",
+        "date": "2026-07-23T16:04:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127009_0_56a59d66.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127009_1_150d7ffa.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127009",
+        "link": {
+          "title": "TA488 and TA458 Steal Government Email Using Half-Click Webmail Exploits",
+          "url": "https://securityonline.info/half-click-exploits-webmail/"
+        }
+      },
+      {
+        "id": 127008,
+        "text": "⤷\nTitle:\nHTTP/2 DoS Vulnerability Lets Attackers Exhaust Server Memory via Stalled Flow Control\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 23 Jul 2026 15:00:18 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Apache\nTraffic Server\n#CVE_2026_44909\n#CVE_2026_59173\n#CVE_2026_59762\n#Denial\nof Service\n#HTTP\n/2 DoS vulnerability\n#memory\nexhaustion\n#stalled\nflow control",
+        "date": "2026-07-23T16:04:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127008_0_56a59d66.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127008_1_e58bd751.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127008",
+        "link": {
+          "title": "HTTP/2 DoS Vulnerability Lets Attackers Exhaust Server Memory via Stalled Flow Control",
+          "url": "https://securityonline.info/http2-dos-vulnerability/"
+        }
+      },
+      {
+        "id": 127007,
+        "text": "⤷\nTitle:\nGoogle Selfie Video Sign-In Recovers Locked Accounts\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 23 Jul 2026 15:22:11 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#Account\nRecovery\n#Account\nSecurity\n#Biometrics\n#deepfake\n#google\n#Passkeys\n#Selfie\nVideo",
+        "date": "2026-07-23T16:04:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127007_0_56a59d66.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127007_1_beb11d0c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127007",
+        "link": {
+          "title": "Google Selfie Video Sign-In Recovers Locked Accounts",
+          "url": "https://securityonline.info/google-selfie-video-sign-in/"
+        }
+      },
+      {
+        "id": 127006,
+        "text": "⤷\nTitle:\nMalicious npm Worm Targets AI Software Supply Chains\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nThu, 23 Jul 2026 14:00:59 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#AI\nsecurity\n#CrowdStrike\n#cybersecurity\n#npm\nWorm\n#supply\nchain attack",
+        "date": "2026-07-23T16:04:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127006_0_56a59d66.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127006_1_4b5f50fd.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127006",
+        "link": {
+          "title": "Malicious npm Worm Targets AI Software Supply Chains",
+          "url": "https://meterpreter.org/npm-worm-ai-attack/"
+        }
+      },
+      {
+        "id": 127005,
+        "text": "⤷\nTitle:\nAgentBaiting Malware Campaign Targets AI MCP Servers\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nThu, 23 Jul 2026 14:24:56 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#AgentBaiting\n#AI\nMalware\n#GitHub\nSecurity\n#MCP\nServer\n#StealC",
+        "date": "2026-07-23T16:04:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127005_0_56a59d66.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127005_1_fb983f5a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127005",
+        "link": {
+          "title": "AgentBaiting Malware Campaign Targets AI MCP Servers",
+          "url": "https://meterpreter.org/agentbaiting-malware-campaign/"
+        }
+      },
+      {
+        "id": 127004,
+        "text": "⤷\nTitle:\nJADEPUFFER AI Ransomware Devastates Corporate Infrastructure\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nThu, 23 Jul 2026 15:00:03 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#AI\nRansomware\n#cybersecurity\n#ENCFORGE\n#JadePuffer\n#Langflow",
+        "date": "2026-07-23T16:04:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127004_0_56a59d66.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127004_1_40d48408.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127004",
+        "link": {
+          "title": "JADEPUFFER AI Ransomware Devastates Corporate Infrastructure",
+          "url": "https://meterpreter.org/jadepuffer-ai-ransomware/"
+        }
+      },
+      {
+        "id": 127003,
+        "text": "⤷\nTitle:\nBlockchain Life Returns to Dubai — Featuring the Debut of AI Future\n════════════════════════\n𐀪\nAuthor:\nCyberNewswire\n════════════════════════\nⴵ\nTime:\nThu, 23 Jul 2026 15:13:39 +0000\n════════════════════════\n⌗\nTags:\n#Press\nRelease",
+        "date": "2026-07-23T16:04:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127003_0_56a59d66.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127003_1_55c1e033.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127003",
+        "link": {
+          "title": "Blockchain Life Returns to Dubai — Featuring the Debut of AI Future",
+          "url": "https://hackread.com/blockchain-life-returns-to-dubai-featuring-the-debut-of-ai-future/"
+        }
+      },
+      {
+        "id": 127002,
+        "text": "⤷\nTitle:\nWhat Is Cryptocurrency and How Does It Actually Work?\n════════════════════════\n𐀪\nAuthor:\nOwais Sultan\n════════════════════════\nⴵ\nTime:\nThu, 23 Jul 2026 15:17:21 +0000\n════════════════════════\n⌗\nTags:\n#Crypto\n#Blockchain\n#Cryptocurrency\n#Cryptography\n#Fintech\n#Technology",
+        "date": "2026-07-23T16:04:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127002_0_56a59d66.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127002_1_10168064.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127002",
+        "link": {
+          "title": "What Is Cryptocurrency and How Does It Actually Work?",
+          "url": "https://hackread.com/what-is-cryptocurrency-how-it-work/"
+        }
+      },
+      {
         "id": 126998,
         "text": "⤷\nTitle:\nNATAS RAMBLINGS 1\n════════════════════════\n𐀪\nAuthor:\nZion Patricks\n════════════════════════\nⴵ\nTime:\nThu, 23 Jul 2026 12:05:27 GMT\n════════════════════════\n⌗\nTags:\n#beginner\n#natas\n#overthewire\n#ctf_walkthrough\n#ethical_hacking",
         "date": "2026-07-23T14:05:16+00:00",
@@ -1824,478 +2284,22 @@
           "title": "Bridge the Gap in Cybersecurity Training ROI",
           "url": "https://medium.com/@etikee/bridge-the-gap-in-cybersecurity-training-roi-327f5f685cc2?source=rss------ethical_hacking-5"
         }
-      },
-      {
-        "id": 126909,
-        "text": "⤷\nTitle:\nI’m Not a Hacker. Here’s What Happened When I First Opened TryHackMe\n════════════════════════\n𐀪\nAuthor:\nEberechukwu Etike\n════════════════════════\nⴵ\nTime:\nThu, 23 Jul 2026 00:33:56 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#cyber_training\n#cybersecurity\n#ciso",
-        "date": "2026-07-23T02:04:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126909_0_c8a5cc39.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126909_1_5cc12b84.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126909",
-        "link": {
-          "title": "I’m Not a Hacker. Here’s What Happened When I First Opened TryHackMe",
-          "url": "https://medium.com/@etikee/im-not-a-hacker-here-s-what-happened-when-i-first-opened-tryhackme-c674af5a3911?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 126908,
-        "text": "⤷\nTitle:\nAI Isn’t Replacing Testers — It’s Replacing Outdated Testing\n════════════════════════\n𐀪\nAuthor:\nSachinsharma\n════════════════════════\nⴵ\nTime:\nThu, 23 Jul 2026 01:29:37 GMT\n════════════════════════\n⌗\nTags:\n#python\n#postman\n#penetration_testing\n#manual_testing\n#software_testing",
-        "date": "2026-07-23T02:04:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126908_0_c8a5cc39.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126908_1_58175575.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126908",
-        "link": {
-          "title": "AI Isn’t Replacing Testers — It’s Replacing Outdated Testing",
-          "url": "https://medium.com/@sachinsharma45561/ai-isnt-replacing-testers-it-s-replacing-outdated-testing-ea939d7ce543?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 126907,
-        "text": "⤷\nTitle:\nOpenAI’s AI Hacked Nobody — But You Believed It Anyway\n════════════════════════\n𐀪\nAuthor:\nThe Opinion Board\n════════════════════════\nⴵ\nTime:\nThu, 23 Jul 2026 01:38:54 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#openai\n#hacking\n#ai_policy\n#artificial_intelligence",
-        "date": "2026-07-23T02:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126907_0_c8a5cc39.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126907_1_c8383efd.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126907",
-        "link": {
-          "title": "OpenAI’s AI Hacked Nobody — But You Believed It Anyway",
-          "url": "https://medium.com/@theOpinionBoard/openais-ai-hacked-nobody-but-you-believed-it-anyway-e230c0b3edc8?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 126906,
-        "text": "⤷\nTitle:\nAI-Powered Malware\n════════════════════════\n𐀪\nAuthor:\nEhsan Morad\n════════════════════════\nⴵ\nTime:\nThu, 23 Jul 2026 01:51:15 GMT\n════════════════════════\n⌗\nTags:\n#security\n#malware\n#ai\n#hacking\n#virus",
-        "date": "2026-07-23T02:03:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126906_0_c8a5cc39.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126906_1_c247891b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126906",
-        "link": {
-          "title": "AI-Powered Malware",
-          "url": "https://medium.com/@ehsan.morad.ir/ai-powered-malware-bac6f8daf0ed?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 126905,
-        "text": "⤷\nTitle:\nBug Bounty Automation — Elite Recon Pipeline + bonus Script\n════════════════════════\n𐀪\nAuthor:\nAYA\n════════════════════════\nⴵ\nTime:\nThu, 23 Jul 2026 00:27:46 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#automation\n#penetration_testing\n#networking\n#recon",
-        "date": "2026-07-23T02:03:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126905_0_c8a5cc39.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126905_1_7d890e39.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126905",
-        "link": {
-          "title": "Bug Bounty Automation — Elite Recon Pipeline + bonus Script",
-          "url": "https://medium.com/@utaah/bug-bounty-automation-elite-recon-pipeline-bonus-script-7fd94ad62d84?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 126904,
-        "text": "⤷\nTitle:\n600K Sites at Risk: Ninja Forms Stored XSS Flaw CVE-2026-65048 Hits CVSS 9.3\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 23 Jul 2026 01:00:16 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_65048\n#CVE_2026_65049\n#CVE_2026_65050\n#CVE_2026_65052\n#Ninja\nForms\n#Stored\nXSS\n#WordPress\nPlugin",
-        "date": "2026-07-23T02:03:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126904_0_c8a5cc39.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126904_1_22aa4f62.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126904",
-        "link": {
-          "title": "600K Sites at Risk: Ninja Forms Stored XSS Flaw CVE-2026-65048 Hits CVSS 9.3",
-          "url": "https://securityonline.info/ninja-forms-vulnerability-cve-2026-65048/"
-        }
-      },
-      {
-        "id": 126903,
-        "text": "⤷\nTitle:\nLab: SQL injection UNION attack, retrieving data from other tables\n════════════════════════\n𐀪\nAuthor:\n@i.ogore\n════════════════════════\nⴵ\nTime:\nWed, 22 Jul 2026 22:19:43 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ctf_writeup\n#sql_injection\n#portswigger_lab\n#burpsuite",
-        "date": "2026-07-23T00:04:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126903_0_c8a5cc39.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126903_1_82757f02.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126903",
-        "link": {
-          "title": "Lab: SQL injection UNION attack, retrieving data from other tables",
-          "url": "https://medium.com/@samogore8/lab-sql-injection-union-attack-retrieving-data-from-other-tables-5abc3645e7eb?source=rss------sql_injection-5"
-        }
-      },
-      {
-        "id": 126902,
-        "text": "⤷\nTitle:\nCyber Security: Complete Guide to Protect Your Digital Life in 2026\n════════════════════════\n𐀪\nAuthor:\nTechOrbion\n════════════════════════\nⴵ\nTime:\nWed, 22 Jul 2026 22:41:24 GMT\n════════════════════════\n⌗\nTags:\n#online_safety\n#technology\n#ethical_hacking\n#cybersecurity\n#information_security",
-        "date": "2026-07-23T00:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126902_0_c8a5cc39.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126902_1_9afd22c2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126902",
-        "link": {
-          "title": "Cyber Security: Complete Guide to Protect Your Digital Life in 2026",
-          "url": "https://medium.com/@techorbion.info/cyber-security-complete-guide-to-protect-your-digital-life-in-2026-304a7666938a?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 126901,
-        "text": "⤷\nTitle:\nJailbreaking — challenge: do not reveal\n════════════════════════\n𐀪\nAuthor:\nJose Praveen\n════════════════════════\nⴵ\nTime:\nWed, 22 Jul 2026 22:11:01 GMT\n════════════════════════\n⌗\nTags:\n#ai_security\n#tryhackme_writeup\n#tryhackme\n#prompt_injection_attack",
-        "date": "2026-07-23T00:03:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126901_0_c8a5cc39.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126901_1_6683e579.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126901",
-        "link": {
-          "title": "Jailbreaking — challenge: do not reveal",
-          "url": "https://josepraveen.medium.com/jailbreaking-challenge-do-not-reveal-22c4c4a4be30?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 126900,
-        "text": "⤷\nTitle:\nField Notes #1 — Hallucinations\n════════════════════════\n𐀪\nAuthor:\nAnans1\n════════════════════════\nⴵ\nTime:\nWed, 22 Jul 2026 22:13:06 GMT\n════════════════════════\n⌗\nTags:\n#ai_hallucination\n#llm\n#pentesting\n#ai\n#penetration_testing",
-        "date": "2026-07-23T00:03:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126900_0_c8a5cc39.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126900_1_c228ac23.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126900",
-        "link": {
-          "title": "Field Notes #1 — Hallucinations",
-          "url": "https://anans1.medium.com/field-notes-1-hallucinations-4328f14ad2e1?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 126899,
-        "text": "⤷\nTitle:\nUnpacking the Prisma Browser extension with a 32-byte table\n════════════════════════\n𐀪\nAuthor:\nuser32\n════════════════════════\nⴵ\nTime:\nWed, 22 Jul 2026 23:05:00 GMT\n════════════════════════\n⌗\nTags:\n#technology\n#reverse_engineering\n#cybersecurity\n#application_security\n#hacking",
-        "date": "2026-07-23T00:03:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126899_0_c8a5cc39.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126899_1_a9e4fad0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126899",
-        "link": {
-          "title": "Unpacking the Prisma Browser extension with a 32-byte table",
-          "url": "https://infosecwriteups.com/unpacking-the-prisma-browser-extension-with-a-32-byte-table-f3717df15f61?source=rss------application_security-5"
-        }
-      },
-      {
-        "id": 126898,
-        "text": "⤷\nTitle:\nBug Bounty: como iniciar e se integrar nesse mundo.\n════════════════════════\n𐀪\nAuthor:\nMateus Costa\n════════════════════════\nⴵ\nTime:\nWed, 22 Jul 2026 22:32:16 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#cybersecurity\n#hacking",
-        "date": "2026-07-23T00:03:47+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126898_0_c8a5cc39.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126898_1_029d16c1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126898",
-        "link": {
-          "title": "Bug Bounty: como iniciar e se integrar nesse mundo.",
-          "url": "https://medium.com/@mateuscostarust/bug-bounty-como-iniciar-e-se-integrar-nesse-mundo-d1e16833060e?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 126897,
-        "text": "⤷\nTitle:\nThe Huggingface “AI Offensive Attack” Incident: What’s Truly Concerning Isn’t That AI Became…\n════════════════════════\n𐀪\nAuthor:\nJames Zhang\n════════════════════════\nⴵ\nTime:\nWed, 22 Jul 2026 21:45:40 GMT\n════════════════════════\n⌗\nTags:\n#ai_security\n#information_security\n#ai_agent\n#generative_ai_tools\n#hacking",
-        "date": "2026-07-22T22:04:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126897_0_c8a5cc39.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126897_1_72117cbf.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126897",
-        "link": {
-          "title": "The Huggingface “AI Offensive Attack” Incident: What’s Truly Concerning Isn’t That AI Became…",
-          "url": "https://medium.com/@james.zhang.himarley/the-huggingface-ai-offensive-attack-incident-whats-truly-concerning-isn-t-that-ai-became-2e66389bb11a?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 126896,
-        "text": "⤷\nTitle:\nFile Path Traversal, Simple Case Walkthrough (Apprentice)\n════════════════════════\n𐀪\nAuthor:\nRahul M S\n════════════════════════\nⴵ\nTime:\nWed, 22 Jul 2026 21:04:49 GMT\n════════════════════════\n⌗\nTags:\n#vapt\n#bug_bounty\n#portswigger\n#cybersecurity\n#hacking",
-        "date": "2026-07-22T22:03:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126896_0_c8a5cc39.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126896_1_da7ef7bd.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126896",
-        "link": {
-          "title": "File Path Traversal, Simple Case Walkthrough (Apprentice)",
-          "url": "https://1amrahul.medium.com/file-path-traversal-simple-case-walkthrough-apprentice-b79182ae4d49?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 126895,
-        "text": "⤷\nTitle:\nGitHub Cuts Public Bug Bounty Payouts, Moves Top Rewards to VIP Tier\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nThu, 23 Jul 2026 00:07:42 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-07-22T22:03:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126895_0_c8a5cc39.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126895",
-        "link": {
-          "title": "GitHub Cuts Public Bug Bounty Payouts, Moves Top Rewards to VIP Tier",
-          "url": "https://thehackernews.com/2026/07/github-cuts-public-bug-bounty-payouts.html"
-        }
-      },
-      {
-        "id": 126894,
-        "text": "⤷\nTitle:\nBuilding My Cybersecurity Home Lab from Scratch: The Foundation of My Learning Journey\n════════════════════════\n𐀪\nAuthor:\nEvansdavou\n════════════════════════\nⴵ\nTime:\nWed, 22 Jul 2026 18:45:29 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#soc_home_lab\n#ubuntu\n#cybersecurity\n#linux",
-        "date": "2026-07-22T20:04:30+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126894_0_c8a5cc39.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126894_1_9c7f89f1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126894",
-        "link": {
-          "title": "Building My Cybersecurity Home Lab from Scratch: The Foundation of My Learning Journey",
-          "url": "https://medium.com/@evansdavou178/building-my-cybersecurity-home-lab-from-scratch-the-foundation-of-my-learning-journey-488dc4f76725?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 126893,
-        "text": "⤷\nTitle:\nTryHackMe Presecurity: Computer Fundamentals — Complete Walkthrough\n════════════════════════\n𐀪\nAuthor:\nSandeep Shrivastava\n════════════════════════\nⴵ\nTime:\nWed, 22 Jul 2026 18:28:30 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#cybersecurity\n#tryhackme_walkthrough\n#cloud_computing\n#ctf_writeup",
-        "date": "2026-07-22T20:04:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126893_0_c8a5cc39.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126893_1_da5604c2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126893",
-        "link": {
-          "title": "TryHackMe Presecurity: Computer Fundamentals — Complete Walkthrough",
-          "url": "https://sandeep0x01.medium.com/tryhackme-presecurity-computer-fundamentals-complete-walkthrough-6d9f0542b790?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 126892,
-        "text": "⤷\nTitle:\nCTF: Expose TryhackMe Room\n════════════════════════\n𐀪\nAuthor:\nDuong\n════════════════════════\nⴵ\nTime:\nWed, 22 Jul 2026 19:34:29 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#privilege_escalation\n#ctf\n#sqlmap\n#file_upload",
-        "date": "2026-07-22T20:04:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126892_0_c8a5cc39.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126892_1_82534260.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126892",
-        "link": {
-          "title": "CTF: Expose TryhackMe Room",
-          "url": "https://medium.com/@duong26012002/ctf-expose-tryhackme-room-d0892223122a?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 126891,
-        "text": "⤷\nTitle:\nWhy Every Business Needs a Vulnerability Assessment & Penetration Testing (VAPT)\n════════════════════════\n𐀪\nAuthor:\nAdmin\n════════════════════════\nⴵ\nTime:\nWed, 22 Jul 2026 18:17:54 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#penetration_testing\n#ethical_hacking\n#information_security\n#vapt",
-        "date": "2026-07-22T20:04:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126891_0_c8a5cc39.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126891_1_becc11fa.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126891",
-        "link": {
-          "title": "Why Every Business Needs a Vulnerability Assessment & Penetration Testing (VAPT)",
-          "url": "https://medium.com/@jbhan612/why-every-business-needs-a-vulnerability-assessment-penetration-testing-vapt-50c486b17515?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 126890,
-        "text": "⤷\nTitle:\nNetworking Concepts: OSI Model, TCP/IP, and Protocol Fundamentals\n════════════════════════\n𐀪\nAuthor:\nJonathan Sanfer\n════════════════════════\nⴵ\nTime:\nWed, 22 Jul 2026 19:35:51 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#tryhackme\n#osi_model\n#networking\n#infosec",
-        "date": "2026-07-22T20:04:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126890_0_c8a5cc39.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126890_1_bbe036ec.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126890",
-        "link": {
-          "title": "Networking Concepts: OSI Model, TCP/IP, and Protocol Fundamentals",
-          "url": "https://medium.com/@jonathan.sanfer/networking-concepts-osi-model-tcp-ip-and-protocol-fundamentals-8318122af6b1?source=rss------infosec-5"
-        }
       }
     ]
   },
-  "last_update": "2026-07-23T15:31:21.008911+00:00",
+  "last_update": "2026-07-23T16:59:26.004819+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 195,
-    "total_files": 195,
+    "total_media": 196,
+    "total_files": 196,
     "total_links": 0,
     "files_by_type": {
-      "image": 195
+      "image": 196
     },
-    "referenced_files": 195,
-    "existing_media_files": 195,
-    "total_size_mb": 5.38,
-    "last_calculation": "2026-07-23T15:31:21.010712+00:00"
+    "referenced_files": 196,
+    "existing_media_files": 196,
+    "total_size_mb": 5.26,
+    "last_calculation": "2026-07-23T16:59:26.007170+00:00"
   }
 }
