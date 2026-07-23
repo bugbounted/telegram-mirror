@@ -2,6 +2,144 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 126903,
+        "text": "⤷\nTitle:\nLab: SQL injection UNION attack, retrieving data from other tables\n════════════════════════\n𐀪\nAuthor:\n@i.ogore\n════════════════════════\nⴵ\nTime:\nWed, 22 Jul 2026 22:19:43 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ctf_writeup\n#sql_injection\n#portswigger_lab\n#burpsuite",
+        "date": "2026-07-23T00:04:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126903_0_c8a5cc39.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126903_1_82757f02.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126903",
+        "link": {
+          "title": "Lab: SQL injection UNION attack, retrieving data from other tables",
+          "url": "https://medium.com/@samogore8/lab-sql-injection-union-attack-retrieving-data-from-other-tables-5abc3645e7eb?source=rss------sql_injection-5"
+        }
+      },
+      {
+        "id": 126902,
+        "text": "⤷\nTitle:\nCyber Security: Complete Guide to Protect Your Digital Life in 2026\n════════════════════════\n𐀪\nAuthor:\nTechOrbion\n════════════════════════\nⴵ\nTime:\nWed, 22 Jul 2026 22:41:24 GMT\n════════════════════════\n⌗\nTags:\n#online_safety\n#technology\n#ethical_hacking\n#cybersecurity\n#information_security",
+        "date": "2026-07-23T00:04:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126902_0_c8a5cc39.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126902_1_9afd22c2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126902",
+        "link": {
+          "title": "Cyber Security: Complete Guide to Protect Your Digital Life in 2026",
+          "url": "https://medium.com/@techorbion.info/cyber-security-complete-guide-to-protect-your-digital-life-in-2026-304a7666938a?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 126901,
+        "text": "⤷\nTitle:\nJailbreaking — challenge: do not reveal\n════════════════════════\n𐀪\nAuthor:\nJose Praveen\n════════════════════════\nⴵ\nTime:\nWed, 22 Jul 2026 22:11:01 GMT\n════════════════════════\n⌗\nTags:\n#ai_security\n#tryhackme_writeup\n#tryhackme\n#prompt_injection_attack",
+        "date": "2026-07-23T00:03:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126901_0_c8a5cc39.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126901_1_6683e579.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126901",
+        "link": {
+          "title": "Jailbreaking — challenge: do not reveal",
+          "url": "https://josepraveen.medium.com/jailbreaking-challenge-do-not-reveal-22c4c4a4be30?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 126900,
+        "text": "⤷\nTitle:\nField Notes #1 — Hallucinations\n════════════════════════\n𐀪\nAuthor:\nAnans1\n════════════════════════\nⴵ\nTime:\nWed, 22 Jul 2026 22:13:06 GMT\n════════════════════════\n⌗\nTags:\n#ai_hallucination\n#llm\n#pentesting\n#ai\n#penetration_testing",
+        "date": "2026-07-23T00:03:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126900_0_c8a5cc39.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126900_1_c228ac23.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126900",
+        "link": {
+          "title": "Field Notes #1 — Hallucinations",
+          "url": "https://anans1.medium.com/field-notes-1-hallucinations-4328f14ad2e1?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 126899,
+        "text": "⤷\nTitle:\nUnpacking the Prisma Browser extension with a 32-byte table\n════════════════════════\n𐀪\nAuthor:\nuser32\n════════════════════════\nⴵ\nTime:\nWed, 22 Jul 2026 23:05:00 GMT\n════════════════════════\n⌗\nTags:\n#technology\n#reverse_engineering\n#cybersecurity\n#application_security\n#hacking",
+        "date": "2026-07-23T00:03:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126899_0_c8a5cc39.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126899_1_a9e4fad0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126899",
+        "link": {
+          "title": "Unpacking the Prisma Browser extension with a 32-byte table",
+          "url": "https://infosecwriteups.com/unpacking-the-prisma-browser-extension-with-a-32-byte-table-f3717df15f61?source=rss------application_security-5"
+        }
+      },
+      {
+        "id": 126898,
+        "text": "⤷\nTitle:\nBug Bounty: como iniciar e se integrar nesse mundo.\n════════════════════════\n𐀪\nAuthor:\nMateus Costa\n════════════════════════\nⴵ\nTime:\nWed, 22 Jul 2026 22:32:16 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#cybersecurity\n#hacking",
+        "date": "2026-07-23T00:03:47+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126898_0_c8a5cc39.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_126898_1_029d16c1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/126898",
+        "link": {
+          "title": "Bug Bounty: como iniciar e se integrar nesse mundo.",
+          "url": "https://medium.com/@mateuscostarust/bug-bounty-como-iniciar-e-se-integrar-nesse-mundo-d1e16833060e?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 126897,
         "text": "⤷\nTitle:\nThe Huggingface “AI Offensive Attack” Incident: What’s Truly Concerning Isn’t That AI Became…\n════════════════════════\n𐀪\nAuthor:\nJames Zhang\n════════════════════════\nⴵ\nTime:\nWed, 22 Jul 2026 21:45:40 GMT\n════════════════════════\n⌗\nTags:\n#ai_security\n#information_security\n#ai_agent\n#generative_ai_tools\n#hacking",
         "date": "2026-07-22T22:04:02+00:00",
@@ -2146,148 +2284,10 @@
           "title": "How I Found an Auth Flaw in a Government Site: From GraphQL Introspection to Unauthorized Access",
           "url": "https://infosecwriteups.com/how-i-found-an-auth-flaw-in-a-government-site-from-graphql-introspection-to-unauthorized-access-0c877cc3ee07?source=rss------bug_bounty-5"
         }
-      },
-      {
-        "id": 126798,
-        "text": "⤷\nTitle:\nWhat is Cross-Site Scripting (XSS)? A Complete Beginner’s Guide\n════════════════════════\n𐀪\nAuthor:\nMahendra Patil\n════════════════════════\nⴵ\nTime:\nWed, 22 Jul 2026 09:54:36 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#xss_attack\n#bug_bounty\n#owasp_top_10\n#web_security",
-        "date": "2026-07-22T10:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126798_0_c8a5cc39.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126798_1_aa433bd7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126798",
-        "link": {
-          "title": "What is Cross-Site Scripting (XSS)? A Complete Beginner’s Guide",
-          "url": "https://mrpatil.medium.com/what-is-cross-site-scripting-xss-a-complete-beginners-guide-9bd20d30c0d4?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 126797,
-        "text": "⤷\nTitle:\nDaxin Malware Resurfaces in Taiwan Alongside New Stupig Backdoor\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 22 Jul 2026 08:00:57 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#backdoor\n#cyber_espionage\n#Daxin\n#Stupig\n#Symantec\n#Taiwan",
-        "date": "2026-07-22T10:03:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126797_0_c8a5cc39.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126797_1_7f65587b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126797",
-        "link": {
-          "title": "Daxin Malware Resurfaces in Taiwan Alongside New Stupig Backdoor",
-          "url": "https://securityonline.info/daxin-malware-stupig-backdoor/"
-        }
-      },
-      {
-        "id": 126796,
-        "text": "⤷\nTitle:\nIRGC Claims Strike on AWS Bahrain Data Center\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 22 Jul 2026 08:08:38 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#Amazon\nWeb Services\n#AWS\n#Bahrain\n#Cloud\nOutage\n#Data\nCenter Security\n#Iran\n#IRGC",
-        "date": "2026-07-22T10:03:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126796_0_c8a5cc39.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126796_1_6c510c45.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126796",
-        "link": {
-          "title": "IRGC Claims Strike on AWS Bahrain Data Center",
-          "url": "https://securityonline.info/aws-bahrain-data-center-claim/"
-        }
-      },
-      {
-        "id": 126795,
-        "text": "⤷\nTitle:\nCVE-2026-60206 (CVSS 9.9): Takeover Flaw Hits Oracle WebLogic Server\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 22 Jul 2026 09:58:24 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_60204\n#CVE_2026_60205\n#CVE_2026_60206\n#Oracle\nCPU July 2026\n#Oracle\nFusion Middleware\n#Oracle\nWebLogic Server\n#Server\nTakeover",
-        "date": "2026-07-22T10:03:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126795_0_c8a5cc39.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126795_1_d02acdb9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126795",
-        "link": {
-          "title": "CVE-2026-60206 (CVSS 9.9): Takeover Flaw Hits Oracle WebLogic Server",
-          "url": "https://securityonline.info/oracle-weblogic-server-vulnerability-cve-2026-60206/"
-        }
-      },
-      {
-        "id": 126794,
-        "text": "⤷\nTitle:\nCYBER SECURITY IN HAMIRPUR\n════════════════════════\n𐀪\nAuthor:\nTally Trainer\n════════════════════════\nⴵ\nTime:\nWed, 22 Jul 2026 06:27:20 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ethical_hacking",
-        "date": "2026-07-22T08:04:44+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126794_0_a8eb638b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126794_1_8860de56.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126794",
-        "link": {
-          "title": "CYBER SECURITY IN HAMIRPUR",
-          "url": "https://medium.com/@sakshita771/cyber-security-in-hamirpur-ee7a0675147d?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 126793,
-        "text": "⤷\nTitle:\nWhat is ethical hacking?a beginners guide (2026)\n════════════════════════\n𐀪\nAuthor:\nQnaydshackersacadamy\n════════════════════════\nⴵ\nTime:\nWed, 22 Jul 2026 07:33:37 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#ai\n#cybersecurity",
-        "date": "2026-07-22T08:04:41+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126793_0_a8eb638b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_126793_1_8032147d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/126793",
-        "link": {
-          "title": "What is ethical hacking?a beginners guide (2026)",
-          "url": "https://medium.com/@qnaydshackersacadamy/what-is-ethical-hacking-a-beginners-guide-2026-ddd718de91c3?source=rss------ethical_hacking-5"
-        }
       }
     ]
   },
-  "last_update": "2026-07-22T23:54:32.992515+00:00",
+  "last_update": "2026-07-23T01:25:43.009708+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2299,7 +2299,7 @@
     },
     "referenced_files": 196,
     "existing_media_files": 196,
-    "total_size_mb": 6.1,
-    "last_calculation": "2026-07-22T23:54:32.994841+00:00"
+    "total_size_mb": 6.09,
+    "last_calculation": "2026-07-23T01:25:43.010897+00:00"
   }
 }
