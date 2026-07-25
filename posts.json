@@ -2,6 +2,255 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 127190,
+        "text": "⤷\nTitle:\nWordPress Penetration Testing and Privilege Escalation\n════════════════════════\n𐀪\nAuthor:\nCyberLabyrinthX\n════════════════════════\nⴵ\nTime:\nSat, 25 Jul 2026 03:54:09 GMT\n════════════════════════\n⌗\nTags:\n#cyberattack\n#cyber_security_awareness\n#hacker\n#tryhackme_walkthrough\n#ethical_hacking",
+        "date": "2026-07-25T04:04:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127190_0_a27b7578.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127190_1_c285a775.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127190",
+        "link": {
+          "title": "WordPress Penetration Testing and Privilege Escalation",
+          "url": "https://cyberlabyrinthx.medium.com/wordpress-penetration-testing-and-privilege-escalation-46203b75d0f0?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 127189,
+        "text": "⤷\nTitle:\nWhy You Should ALWAYS Test WebSockets (And Why Most Hunters Never Do)\n════════════════════════\n𐀪\nAuthor:\nCypherNova1337\n════════════════════════\nⴵ\nTime:\nSat, 25 Jul 2026 03:34:00 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#websocket\n#graphql\n#bug_bounty\n#penetration_testing",
+        "date": "2026-07-25T04:04:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127189_0_a27b7578.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127189_1_7967594e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127189",
+        "link": {
+          "title": "Why You Should ALWAYS Test WebSockets (And Why Most Hunters Never Do)",
+          "url": "https://cyphernova1337.medium.com/why-you-should-always-test-websockets-and-why-most-hunters-never-do-84d3f3a901fd?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 127188,
+        "text": "⤷\nTitle:\nFastJson RCE CVE-2026-16723 Exploited in the Wild as Details and PoC Exploit Code Go Public\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nSat, 25 Jul 2026 02:23:23 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_16723\n#Deserialization\n#exploited\nin the wild\n#Fastjson\n#Remote\nCode Execution\n#Spring\nBoot\n#zero_day",
+        "date": "2026-07-25T04:04:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127188_0_a27b7578.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127188_1_409f5d79.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127188",
+        "link": {
+          "title": "FastJson RCE CVE-2026-16723 Exploited in the Wild as Details and PoC Exploit Code Go Public",
+          "url": "https://securityonline.info/fastjson-rce-cve-2026-16723/"
+        }
+      },
+      {
+        "id": 127187,
+        "text": "⤷\nTitle:\nAnthropic Claude Opus 5 Rivals Fable 5 at Half the Price\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nSat, 25 Jul 2026 02:38:24 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#AI\nmodels\n#Anthropic\n#Claude\nOpus 5\n#Fable\n5\n#large\nlanguage models",
+        "date": "2026-07-25T04:04:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127187_0_a27b7578.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127187_1_966ef4f9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127187",
+        "link": {
+          "title": "Anthropic Claude Opus 5 Rivals Fable 5 at Half the Price",
+          "url": "https://securityonline.info/claude-opus-5-launch/"
+        }
+      },
+      {
+        "id": 127186,
+        "text": "⤷\nTitle:\nFacebook Verified Adds Free Real-Person Badge to Fight AI Fakes\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nSat, 25 Jul 2026 02:51:52 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#Facebook\nVerified\n#Fake\nAccounts\n#identity\nverification\n#Meta\n#Online\nSafety",
+        "date": "2026-07-25T04:03:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127186_0_a27b7578.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127186_1_6658567f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127186",
+        "link": {
+          "title": "Facebook Verified Adds Free Real-Person Badge to Fight AI Fakes",
+          "url": "https://securityonline.info/facebook-verified-real-person-badge/"
+        }
+      },
+      {
+        "id": 127185,
+        "text": "⤷\nTitle:\n25 Tech Firms Sign Open-Weight AI Letter Backing US Leadership\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nSat, 25 Jul 2026 03:35:03 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#AI\nPolicy\n#Microsoft\n#nvidia\n#Open_Source\nAI\n#Open_Weight\nAI\n#US_China\nAI",
+        "date": "2026-07-25T04:03:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127185_0_a27b7578.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127185_1_87c5f94d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127185",
+        "link": {
+          "title": "25 Tech Firms Sign Open-Weight AI Letter Backing US Leadership",
+          "url": "https://securityonline.info/open-weight-ai-open-letter/"
+        }
+      },
+      {
+        "id": 127184,
+        "text": "⤷\nTitle:\nMeta Seller App Brings Pro Tools and Meta AI to Marketplace\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nSat, 25 Jul 2026 03:50:02 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#eCommerce\n#Facebook\nMarketplace\n#Meta\nAI\n#Meta\nSeller App\n#Social\nCommerce",
+        "date": "2026-07-25T04:03:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127184_0_a27b7578.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127184_1_b0a8c304.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127184",
+        "link": {
+          "title": "Meta Seller App Brings Pro Tools and Meta AI to Marketplace",
+          "url": "https://securityonline.info/meta-seller-app-marketplace/"
+        }
+      },
+      {
+        "id": 127183,
+        "text": "⤷\nTitle:\n【網路資安筆記】「只是按了個連結，錢就被轉走了？」一文搞懂前端兩大經典威脅 XSS 與 CSRF\n════════════════════════\n𐀪\nAuthor:\nChwang\n════════════════════════\nⴵ\nTime:\nSat, 25 Jul 2026 01:05:50 GMT\n════════════════════════\n⌗\nTags:\n#xs\n#web_security\n#csrf\n#cybersecurity\n#csrf_attack",
+        "date": "2026-07-25T02:04:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127183_0_a27b7578.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127183",
+        "link": {
+          "title": "【網路資安筆記】「只是按了個連結，錢就被轉走了？」一文搞懂前端兩大經典威脅 XSS 與 CSRF",
+          "url": "https://chwang12341.medium.com/%E7%B6%B2%E8%B7%AF%E8%B3%87%E5%AE%89%E7%AD%86%E8%A8%98-%E5%8F%AA%E6%98%AF%E6%8C%89%E4%BA%86%E5%80%8B%E9%80%A3%E7%B5%90-%E9%8C%A2%E5%B0%B1%E8%A2%AB%E8%BD%89%E8%B5%B0%E4%BA%86-%E4%B8%80%E6%96%87%E6%90%9E%E6%87%82%E5%89%8D%E7%AB%AF%E5%85%A9%E5%A4%A7%E7%B6%93%E5%85%B8%E5%A8%81%E8%84%85-xss-%E8%88%87-csrf-589d76d7a683?source=rss------xss-5"
+        }
+      },
+      {
+        "id": 127182,
+        "text": "⤷\nTitle:\nThe Home SOC Lab I Built Without Waiting for Better Hardware\n════════════════════════\n𐀪\nAuthor:\nGUNASEELAN\n════════════════════════\nⴵ\nTime:\nSat, 25 Jul 2026 01:01:01 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#soc_analyst\n#homelab\n#infosec\n#cybersecurity_careers",
+        "date": "2026-07-25T02:04:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127182_0_a27b7578.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127182_1_aeb9c4b1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127182",
+        "link": {
+          "title": "The Home SOC Lab I Built Without Waiting for Better Hardware",
+          "url": "https://medium.com/@guna-techAI/the-home-soc-lab-i-built-without-waiting-for-better-hardware-ad66371d9a29?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 127181,
+        "text": "⤷\nTitle:\n7 Pivots That Take You From a Username to a Home Address in 3 Clicks\n════════════════════════\n𐀪\nAuthor:\nAeon Flex, Elriel Assoc. 2133 [NEON MAXIMA]\n════════════════════════\nⴵ\nTime:\nSat, 25 Jul 2026 01:50:54 GMT\n════════════════════════\n⌗\nTags:\n#privacy\n#hacking\n#cybersecurity\n#osint\n#open_source",
+        "date": "2026-07-25T02:03:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127181_0_a27b7578.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127181_1_9bba1cab.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127181",
+        "link": {
+          "title": "7 Pivots That Take You From a Username to a Home Address in 3 Clicks",
+          "url": "https://medium.com/@neonmaxima/7-pivots-that-take-you-from-a-username-to-a-home-address-in-3-clicks-6269915fbe74?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 127180,
+        "text": "⤷\nTitle:\nI Built an AI-Powered Security Code Review Tool\n════════════════════════\n𐀪\nAuthor:\nSanaullah Aman Korai\n════════════════════════\nⴵ\nTime:\nSat, 25 Jul 2026 00:41:35 GMT\n════════════════════════\n⌗\nTags:\n#application_security\n#python\n#ai\n#cybersecurity\n#open_source",
+        "date": "2026-07-25T02:03:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127180_0_a27b7578.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127180_1_f8ad32de.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127180",
+        "link": {
+          "title": "I Built an AI-Powered Security Code Review Tool",
+          "url": "https://sanaullahamankorai.medium.com/i-built-an-ai-powered-security-code-review-tool-6cdc5ad2c105?source=rss------application_security-5"
+        }
+      },
+      {
         "id": 127179,
         "text": "⤷\nTitle:\nHackTheBox — Attacking Common Services — Medium — Walkthrough\n════════════════════════\n𐀪\nAuthor:\nth3V0!D\n════════════════════════\nⴵ\nTime:\nFri, 24 Jul 2026 23:37:07 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#hacking\n#cybersecurity\n#education\n#hackthebox_walkthrough",
         "date": "2026-07-25T00:03:59+00:00",
@@ -1999,275 +2248,22 @@
           "title": "Extracted — KeePass Memory Forensics via CVE-2023–32784 + Master Key Recovery | TryHackMe",
           "url": "https://meetcyber.net/extracted-keepass-memory-forensics-via-cve-2023-32784-master-key-recovery-tryhackme-359e9bdc85ca?source=rss------penetration_testing-5"
         }
-      },
-      {
-        "id": 127090,
-        "text": "⤷\nTitle:\nCybersecurity Roadmap 2026 — Part 1: The Foundation\n════════════════════════\n𐀪\nAuthor:\nharshit patel\n════════════════════════\nⴵ\nTime:\nFri, 24 Jul 2026 07:49:36 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ethical_hacking\n#penetration_testing\n#information_security\n#career_advice",
-        "date": "2026-07-24T08:04:29+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127090_0_56a59d66.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127090_1_e4a18002.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127090",
-        "link": {
-          "title": "Cybersecurity Roadmap 2026 — Part 1: The Foundation",
-          "url": "https://medium.com/@harshitp1971/cybersecurity-roadmap-2026-part-1-the-foundation-c87964906e2d?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 127089,
-        "text": "⤷\nTitle:\nWeb Security Monitoring — part 2\n════════════════════════\n𐀪\nAuthor:\nExploitHunter\n════════════════════════\nⴵ\nTime:\nFri, 24 Jul 2026 06:33:34 GMT\n════════════════════════\n⌗\nTags:\n#web_development\n#cyber_security_awareness\n#cybersecurity\n#ethical_hacking\n#infosec",
-        "date": "2026-07-24T08:04:26+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127089_0_56a59d66.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127089_1_0268d171.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127089",
-        "link": {
-          "title": "Web Security Monitoring — part 2",
-          "url": "https://medium.com/@vorasmit22/web-security-monitoring-part-2-5be79050049a?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 127088,
-        "text": "⤷\nTitle:\nHow a 9-Year-Old Linux Kernel Bug Grants Silent Root Access\n════════════════════════\n𐀪\nAuthor:\nXpert4Cyber\n════════════════════════\nⴵ\nTime:\nFri, 24 Jul 2026 06:51:09 GMT\n════════════════════════\n⌗\nTags:\n#vulnerability\n#cybersecurity\n#devsecops\n#linux\n#infosec",
-        "date": "2026-07-24T08:04:22+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127088_0_56a59d66.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127088_1_e5c970b4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127088",
-        "link": {
-          "title": "How a 9-Year-Old Linux Kernel Bug Grants Silent Root Access",
-          "url": "https://medium.com/@xpert4cyber/how-a-9-year-old-linux-kernel-bug-grants-silent-root-access-41007e669e7c?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 127087,
-        "text": "⤷\nTitle:\nMKingdomTryhackme Writeup\n════════════════════════\n𐀪\nAuthor:\nEnryuuu\n════════════════════════\nⴵ\nTime:\nFri, 24 Jul 2026 07:10:59 GMT\n════════════════════════\n⌗\nTags:\n#ctf\n#tryhackme\n#cybersecurity\n#infosec\n#ctf_writeup",
-        "date": "2026-07-24T08:04:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127087_0_56a59d66.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127087_1_7e9d2c6a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127087",
-        "link": {
-          "title": "MKingdomTryhackme Writeup",
-          "url": "https://medium.com/@cristopher.gilbert27/mkingdomtryhackme-writeup-cb45e4d1ab9f?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 127086,
-        "text": "⤷\nTitle:\nThe BreakOut into the Open\n════════════════════════\n𐀪\nAuthor:\ncalculito\n════════════════════════\nⴵ\nTime:\nFri, 24 Jul 2026 06:01:05 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#openai\n#ai",
-        "date": "2026-07-24T08:04:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127086_0_56a59d66.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127086_1_b0be4bb3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127086",
-        "link": {
-          "title": "The BreakOut into the Open",
-          "url": "https://ion-oaie.medium.com/the-breakout-into-the-open-599d98c26b80?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 127085,
-        "text": "⤷\nTitle:\nThe Boss’s Mailman vs Calculator: MOV, LEA, and the NOP Slide (The Final Piece of the Puzzle)\n════════════════════════\n𐀪\nAuthor:\nAnees\n════════════════════════\nⴵ\nTime:\nFri, 24 Jul 2026 06:56:11 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#programming\n#cybersecurity\n#software_engineering\n#technology",
-        "date": "2026-07-24T08:04:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127085_0_56a59d66.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127085_1_7dd9e379.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127085",
-        "link": {
-          "title": "The Boss’s Mailman vs Calculator: MOV, LEA, and the NOP Slide (The Final Piece of the Puzzle)",
-          "url": "https://medium.com/@anees78788878/the-bosss-mailman-vs-calculator-mov-lea-and-the-nop-slide-the-final-piece-of-the-puzzle-f39f58231fe1?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 127084,
-        "text": "⤷\nTitle:\nI’ve Been Building Web Apps for Years. This Module Made Me Realize I Didn’t Understand Them.\n════════════════════════\n𐀪\nAuthor:\nAbdulmujeeb Uthman\n════════════════════════\nⴵ\nTime:\nFri, 24 Jul 2026 07:01:02 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#programming\n#web_development\n#cybersecurity\n#software_engineering",
-        "date": "2026-07-24T08:04:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127084_0_56a59d66.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127084_1_e92aa8ef.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127084",
-        "link": {
-          "title": "I’ve Been Building Web Apps for Years. This Module Made Me Realize I Didn’t Understand Them.",
-          "url": "https://medium.com/@Devwithmujeeb/ive-been-building-web-apps-for-years-this-module-made-me-realize-i-didn-t-understand-them-ae7b032522f5?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 127083,
-        "text": "⤷\nTitle:\nFree Orders via Business Logic Flaw: How a Simple Interception Uncovered an Unpaid Order Bug\n════════════════════════\n𐀪\nAuthor:\nZyad Ibrahim\n════════════════════════\nⴵ\nTime:\nFri, 24 Jul 2026 07:15:45 GMT\n════════════════════════\n⌗\nTags:\n#vulnerability\n#bug_bounty_tips\n#penetration_testing\n#cybersecurity\n#bug_bounty",
-        "date": "2026-07-24T08:04:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127083_0_56a59d66.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127083_1_1ebf677a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127083",
-        "link": {
-          "title": "Free Orders via Business Logic Flaw: How a Simple Interception Uncovered an Unpaid Order Bug",
-          "url": "https://medium.com/@zyad_ibrahim333/free-orders-via-business-logic-flaw-how-a-simple-interception-uncovered-an-unpaid-order-bug-0dc8c7d69d49?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 127082,
-        "text": "⤷\nTitle:\nACR Stealer Spreads Through ClickFix Lures in Two Attack Chains\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 24 Jul 2026 06:40:20 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#ACR\nStealer\n#ClickFix\n#Credential\nTheft\n#EtherHiding\n#Infostealer\n#Malware_as_a_Service\n#Microsoft\nDefender\n#powershell",
-        "date": "2026-07-24T08:04:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127082_0_56a59d66.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127082_1_ec5506d5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127082",
-        "link": {
-          "title": "ACR Stealer Spreads Through ClickFix Lures in Two Attack Chains",
-          "url": "https://securityonline.info/acr-stealer-clickfix/"
-        }
-      },
-      {
-        "id": 127081,
-        "text": "⤷\nTitle:\nNorth Korean Contagious Interview Campaign Hides Malware in Fake Coding Tests\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 24 Jul 2026 07:15:12 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#Contagious\nInterview\n#developer\ntargeting\n#DPRK\n#Elastic\nSecurity Labs\n#Infostealer\n#North\nKorea\n#OtterCookie\n#SVG\nsteganography",
-        "date": "2026-07-24T08:03:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127081_0_56a59d66.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127081_1_7723260b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127081",
-        "link": {
-          "title": "North Korean Contagious Interview Campaign Hides Malware in Fake Coding Tests",
-          "url": "https://securityonline.info/contagious-interview-svg-malware/"
-        }
-      },
-      {
-        "id": 127080,
-        "text": "⤷\nTitle:\nAI Sandbox Escape Vulnerabilities Threaten Coding Tools\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nFri, 24 Jul 2026 06:47:51 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\n#AI\nsecurity\n#Codex\n#Cursor\n#Gemini\nCLI\n#Sandbox\nEscape",
-        "date": "2026-07-24T08:03:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127080_0_56a59d66.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127080_1_b705232b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127080",
-        "link": {
-          "title": "AI Sandbox Escape Vulnerabilities Threaten Coding Tools",
-          "url": "https://meterpreter.org/ai-sandbox-escape-vulnerabilities/"
-        }
       }
     ]
   },
-  "last_update": "2026-07-25T01:23:23.954056+00:00",
+  "last_update": "2026-07-25T04:37:26.996068+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 188,
-    "total_files": 188,
+    "total_media": 187,
+    "total_files": 187,
     "total_links": 0,
     "files_by_type": {
-      "image": 188
+      "image": 187
     },
-    "referenced_files": 188,
-    "existing_media_files": 188,
-    "total_size_mb": 4.78,
-    "last_calculation": "2026-07-25T01:23:23.955694+00:00"
+    "referenced_files": 187,
+    "existing_media_files": 187,
+    "total_size_mb": 4.75,
+    "last_calculation": "2026-07-25T04:37:26.997205+00:00"
   }
 }
