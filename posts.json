@@ -2,6 +2,98 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 127256,
+        "text": "⤷\nTitle:\nCTF: Publisher TryhackMe Room\n════════════════════════\n𐀪\nAuthor:\nDuong\n════════════════════════\nⴵ\nTime:\nSat, 25 Jul 2026 16:48:50 GMT\n════════════════════════\n⌗\nTags:\n#ctf\n#privilege_escalation\n#perl_based\n#tryhackme",
+        "date": "2026-07-25T18:04:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127256_0_6f216a81.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127256_1_e6d9a662.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127256",
+        "link": {
+          "title": "CTF: Publisher TryhackMe Room",
+          "url": "https://medium.com/@duong26012002/ctf-publisher-tryhackme-room-05387d30ef13?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 127255,
+        "text": "⤷\nTitle:\nMr. Robot Hands-on: Data Destruction\n════════════════════════\n𐀪\nAuthor:\nAllen Ace\n════════════════════════\nⴵ\nTime:\nSat, 25 Jul 2026 17:30:35 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#penetration_testing\n#technology\n#ransomware\n#cybersecurity",
+        "date": "2026-07-25T18:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127255_0_6f216a81.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127255_1_405cc49b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127255",
+        "link": {
+          "title": "Mr. Robot Hands-on: Data Destruction",
+          "url": "https://allenace.medium.com/mr-robot-hands-on-data-destruction-963d66e972da?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 127254,
+        "text": "⤷\nTitle:\nA Vulnerability That Allowed Me To Do NOTHING\n════════════════════════\n𐀪\nAuthor:\nKongsec\n════════════════════════\nⴵ\nTime:\nSat, 25 Jul 2026 16:42:23 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#writing_prompts\n#ai\n#bug_bounty_tips\n#cybersecurity",
+        "date": "2026-07-25T18:03:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127254_0_6f216a81.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127254_1_7ea0da55.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127254",
+        "link": {
+          "title": "A Vulnerability That Allowed Me To Do NOTHING",
+          "url": "https://kongsec.medium.com/a-vulnerability-that-allowed-me-to-do-nothing-404be931f8b1?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 127253,
+        "text": "⤷\nTitle:\nThe Biggest Reason Beginners Don’t Find Bugs Has Nothing to Do with Bug Hunting\n════════════════════════\n𐀪\nAuthor:\nT3rminat0r\n════════════════════════\nⴵ\nTime:\nSat, 25 Jul 2026 16:56:40 GMT\n════════════════════════\n⌗\nTags:\n#learning\n#bug_bounty\n#hacking\n#cybersecurity\n#ethical_hacking",
+        "date": "2026-07-25T18:03:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127253_0_6f216a81.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127253_1_a287fcd0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127253",
+        "link": {
+          "title": "The Biggest Reason Beginners Don’t Find Bugs Has Nothing to Do with Bug Hunting",
+          "url": "https://medium.com/@T3rmint0r_01/the-biggest-reason-beginners-dont-find-bugs-has-nothing-to-do-with-bug-hunting-f0e7abd55dc7?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 127252,
         "text": "⤷\nTitle:\n7 Linux Checks I Run Before Blaming the Network\n════════════════════════\n𐀪\nAuthor:\nFateyaly\n════════════════════════\nⴵ\nTime:\nSat, 25 Jul 2026 14:48:20 GMT\n════════════════════════\n⌗\nTags:\n#coding\n#cybersecurity\n#technology\n#ethical_hacking\n#programming",
         "date": "2026-07-25T16:04:19+00:00",
@@ -2168,110 +2260,22 @@
           "title": "BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery",
           "url": "https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html"
         }
-      },
-      {
-        "id": 127156,
-        "text": "⤷\nTitle:\n“Owls Blog” | CyberTalents | Bypassing a Regex Filter to Exploit SQL Injection | Web Exploitation\n════════════════════════\n𐀪\nAuthor:\nDr_ro0t\n════════════════════════\nⴵ\nTime:\nFri, 24 Jul 2026 15:34:50 GMT\n════════════════════════\n⌗\nTags:\n#sql_injection\n#ctf_writeup\n#web_exploitation\n#ctf",
-        "date": "2026-07-24T16:04:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127156_0_a27b7578.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127156_1_27e8785d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127156",
-        "link": {
-          "title": "“Owls Blog” | CyberTalents | Bypassing a Regex Filter to Exploit SQL Injection | Web Exploitation",
-          "url": "https://medium.com/@Dr_ro0t/owls-blog-cybertalents-bypassing-a-regex-filter-to-exploit-sql-injection-web-exploitation-0246aca0a244?source=rss------sql_injection-5"
-        }
-      },
-      {
-        "id": 127155,
-        "text": "⤷\nTitle:\nContent Security Policy Explained ️\n════════════════════════\n𐀪\nAuthor:\nMarcelo Domingues\n════════════════════════\nⴵ\nTime:\nFri, 24 Jul 2026 15:31:01 GMT\n════════════════════════\n⌗\nTags:\n#csp\n#web_development\n#header\n#xs\n#security",
-        "date": "2026-07-24T16:04:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127155_0_a27b7578.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127155",
-        "link": {
-          "title": "Content Security Policy Explained ️",
-          "url": "https://medium.com/the-60-second-programmer/content-security-policy-explained-%EF%B8%8F-871e5f92e111?source=rss------xss-5"
-        }
-      },
-      {
-        "id": 127154,
-        "text": "⤷\nTitle:\nBest Ethical Hacking Training in Noida | Ducat India\n════════════════════════\n𐀪\nAuthor:\nGayatri\n════════════════════════\nⴵ\nTime:\nFri, 24 Jul 2026 14:07:33 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking",
-        "date": "2026-07-24T16:04:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127154_0_a27b7578.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127154_1_a999d0e9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127154",
-        "link": {
-          "title": "Best Ethical Hacking Training in Noida | Ducat India",
-          "url": "https://medium.com/@gayatri2552006/best-ethical-hacking-training-in-noida-ducat-india-c3f1df812650?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 127153,
-        "text": "⤷\nTitle:\nI got tired of spraying RCE payloads that never fire — so I built a tool that only sends the ones…\n════════════════════════\n𐀪\nAuthor:\nahmad kabiri\n════════════════════════\nⴵ\nTime:\nFri, 24 Jul 2026 14:42:15 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#cybersecurity\n#security\n#rce",
-        "date": "2026-07-24T16:04:46+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127153_0_a27b7578.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127153_1_b567bff7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127153",
-        "link": {
-          "title": "I got tired of spraying RCE payloads that never fire — so I built a tool that only sends the ones…",
-          "url": "https://medium.com/@ad.kabiri/i-got-tired-of-spraying-rce-payloads-that-never-fire-so-i-built-a-tool-that-only-sends-the-ones-e3aae7a7e357?source=rss------penetration_testing-5"
-        }
       }
     ]
   },
-  "last_update": "2026-07-25T17:47:42.036684+00:00",
+  "last_update": "2026-07-25T18:46:54.796728+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 189,
-    "total_files": 189,
+    "total_media": 190,
+    "total_files": 190,
     "total_links": 0,
     "files_by_type": {
-      "image": 189
+      "image": 190
     },
-    "referenced_files": 189,
-    "existing_media_files": 189,
-    "total_size_mb": 5.62,
-    "last_calculation": "2026-07-25T17:47:42.038937+00:00"
+    "referenced_files": 190,
+    "existing_media_files": 190,
+    "total_size_mb": 5.77,
+    "last_calculation": "2026-07-25T18:46:54.799078+00:00"
   }
 }
