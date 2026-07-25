@@ -2,6 +2,52 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 127179,
+        "text": "⤷\nTitle:\nHackTheBox — Attacking Common Services — Medium — Walkthrough\n════════════════════════\n𐀪\nAuthor:\nth3V0!D\n════════════════════════\nⴵ\nTime:\nFri, 24 Jul 2026 23:37:07 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#hacking\n#cybersecurity\n#education\n#hackthebox_walkthrough",
+        "date": "2026-07-25T00:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127179_0_a27b7578.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127179_1_b3575077.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127179",
+        "link": {
+          "title": "HackTheBox — Attacking Common Services — Medium — Walkthrough",
+          "url": "https://medium.com/@theV01D/hackthebox-attacking-common-services-medium-walkthrough-a7c6d56ed361?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 127178,
+        "text": "⤷\nTitle:\nThe wp2shell Exploit Chain: Understanding the Critical WordPress Core Pre-Auth RCE (CVE-2026–63030…\n════════════════════════\n𐀪\nAuthor:\nHaakimSec\n════════════════════════\nⴵ\nTime:\nFri, 24 Jul 2026 22:43:03 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#wordpress\n#bug_bounty\n#vulnerability\n#infosec",
+        "date": "2026-07-25T00:03:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127178_0_a27b7578.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127178_1_de893c8e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127178",
+        "link": {
+          "title": "The wp2shell Exploit Chain: Understanding the Critical WordPress Core Pre-Auth RCE (CVE-2026–63030…",
+          "url": "https://medium.com/@hakimabdi206/the-wp2shell-exploit-chain-understanding-the-critical-wordpress-core-pre-auth-rce-41de56d4d19e?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 127177,
         "text": "⤷\nTitle:\nSolving “The Byte Lotus Resort” — An OSINT Journey Through Social Media\n════════════════════════\n𐀪\nAuthor:\nAdarsh Kumar\n════════════════════════\nⴵ\nTime:\nFri, 24 Jul 2026 20:21:17 GMT\n════════════════════════\n⌗\nTags:\n#hacker_holidays\n#tryhackme\n#the_brochure\n#tryhackme_walkthrough\n#tryhackme_writeup",
         "date": "2026-07-24T22:04:02+00:00",
@@ -2206,64 +2252,22 @@
           "title": "AI Sandbox Escape Vulnerabilities Threaten Coding Tools",
           "url": "https://meterpreter.org/ai-sandbox-escape-vulnerabilities/"
         }
-      },
-      {
-        "id": 127079,
-        "text": "⤷\nTitle:\nFake Notepad++ Plugin Delivers MATCHBOIL.V2 in UAC-0099 Attacks\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nFri, 24 Jul 2026 12:20:57 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-07-24T08:03:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127079_0_56a59d66.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127079",
-        "link": {
-          "title": "Fake Notepad++ Plugin Delivers MATCHBOIL.V2 in UAC-0099 Attacks",
-          "url": "https://thehackernews.com/2026/07/fake-notepad-plugin-delivers.html"
-        }
-      },
-      {
-        "id": 127078,
-        "text": "⤷\nTitle:\nHow Can You Simplify API Authentication Without Sacrificing Security?\n════════════════════════\n𐀪\nAuthor:\nThe Unmeshed Team\n════════════════════════\nⴵ\nTime:\nFri, 24 Jul 2026 05:15:43 GMT\n════════════════════════\n⌗\nTags:\n#authentication\n#workflow\n#backend_development\n#api_security\n#orchestration",
-        "date": "2026-07-24T06:04:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127078_0_56a59d66.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127078_1_ee29d403.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127078",
-        "link": {
-          "title": "How Can You Simplify API Authentication Without Sacrificing Security?",
-          "url": "https://medium.com/@marketing_57115/how-can-you-simplify-api-authentication-without-sacrificing-security-06e4b755677d?source=rss------api_security-5"
-        }
       }
     ]
   },
-  "last_update": "2026-07-24T23:54:11.394757+00:00",
+  "last_update": "2026-07-25T01:23:23.954056+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 187,
-    "total_files": 187,
+    "total_media": 188,
+    "total_files": 188,
     "total_links": 0,
     "files_by_type": {
-      "image": 187
+      "image": 188
     },
-    "referenced_files": 187,
-    "existing_media_files": 187,
-    "total_size_mb": 4.66,
-    "last_calculation": "2026-07-24T23:54:11.397087+00:00"
+    "referenced_files": 188,
+    "existing_media_files": 188,
+    "total_size_mb": 4.78,
+    "last_calculation": "2026-07-25T01:23:23.955694+00:00"
   }
 }
