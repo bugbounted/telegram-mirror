@@ -2,6 +2,29 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 127191,
+        "text": "⤷\nTitle:\nYour Internal Systems Were Never the Point\n════════════════════════\n𐀪\nAuthor:\nDavid SEHYEON Baek\n════════════════════════\nⴵ\nTime:\nSat, 25 Jul 2026 04:24:45 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#cybercrime\n#cybersecurity\n#cyberattack\n#ransomware",
+        "date": "2026-07-25T06:03:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127191_0_a27b7578.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127191_1_1fdac8e0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127191",
+        "link": {
+          "title": "Your Internal Systems Were Never the Point",
+          "url": "https://medium.com/@davidsehyeonbaek/your-internal-systems-were-never-the-point-e8a28e46c8a4?source=rss------hacking-5"
+        }
+      },
+      {
         "id": 127190,
         "text": "⤷\nTitle:\nWordPress Penetration Testing and Privilege Escalation\n════════════════════════\n𐀪\nAuthor:\nCyberLabyrinthX\n════════════════════════\nⴵ\nTime:\nSat, 25 Jul 2026 03:54:09 GMT\n════════════════════════\n⌗\nTags:\n#cyberattack\n#cyber_security_awareness\n#hacker\n#tryhackme_walkthrough\n#ethical_hacking",
         "date": "2026-07-25T04:04:11+00:00",
@@ -2225,33 +2248,10 @@
           "title": "HTML — disabled buttons Challenge | Web-Client | by Kirhash",
           "url": "https://medium.com/@kirtimaan8676/html-disabled-buttons-challenge-web-client-by-kirhash-baabb8a524ab?source=rss------penetration_testing-5"
         }
-      },
-      {
-        "id": 127091,
-        "text": "⤷\nTitle:\nExtracted — KeePass Memory Forensics via CVE-2023–32784 + Master Key Recovery | TryHackMe\n════════════════════════\n𐀪\nAuthor:\nRoshan Rajbanshi\n════════════════════════\nⴵ\nTime:\nFri, 24 Jul 2026 07:42:00 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#cybersecurity\n#penetration_testing\n#memory_forensics\n#pentesting",
-        "date": "2026-07-24T08:04:33+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127091_0_56a59d66.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127091_1_af013195.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127091",
-        "link": {
-          "title": "Extracted — KeePass Memory Forensics via CVE-2023–32784 + Master Key Recovery | TryHackMe",
-          "url": "https://meetcyber.net/extracted-keepass-memory-forensics-via-cve-2023-32784-master-key-recovery-tryhackme-359e9bdc85ca?source=rss------penetration_testing-5"
-        }
       }
     ]
   },
-  "last_update": "2026-07-25T04:37:26.996068+00:00",
+  "last_update": "2026-07-25T07:09:22.558749+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2263,7 +2263,7 @@
     },
     "referenced_files": 187,
     "existing_media_files": 187,
-    "total_size_mb": 4.75,
-    "last_calculation": "2026-07-25T04:37:26.997205+00:00"
+    "total_size_mb": 4.76,
+    "last_calculation": "2026-07-25T07:09:22.560446+00:00"
   }
 }
