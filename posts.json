@@ -2,6 +2,190 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 127264,
+        "text": "⤷\nTitle:\nPicoCTF — SQLiLite\n════════════════════════\n𐀪\nAuthor:\nJolie Catharine\n════════════════════════\nⴵ\nTime:\nSat, 25 Jul 2026 18:31:25 GMT\n════════════════════════\n⌗\nTags:\n#ctf_writeup\n#picoctf\n#sql_injection\n#web_exploitation\n#ctf",
+        "date": "2026-07-25T20:04:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127264_0_6f216a81.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127264_1_b41f4c9f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127264",
+        "link": {
+          "title": "PicoCTF — SQLiLite",
+          "url": "https://medium.com/@28.site/picoctf-sqlilite-de4d905d2a48?source=rss------sql_injection-5"
+        }
+      },
+      {
+        "id": 127263,
+        "text": "⤷\nTitle:\nSSRF with Filter Bypass via Open Redirection\n════════════════════════\n𐀪\nAuthor:\nAnubhav_bora\n════════════════════════\nⴵ\nTime:\nSat, 25 Jul 2026 18:31:01 GMT\n════════════════════════\n⌗\nTags:\n#ssrf\n#ctf\n#learning\n#cybersecurity\n#vulnerability",
+        "date": "2026-07-25T20:04:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127263_0_6f216a81.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127263_1_afccfde2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127263",
+        "link": {
+          "title": "SSRF with Filter Bypass via Open Redirection",
+          "url": "https://medium.com/@anubhavbora40/ssrf-with-filter-bypass-via-open-redirection-dcd2b570bde5?source=rss------ssrf-5"
+        }
+      },
+      {
+        "id": 127262,
+        "text": "⤷\nTitle:\nDay 19: Sigma Rules — A Universal Language for Detection Engineering\n════════════════════════\n𐀪\nAuthor:\nSIAM AHMED\n════════════════════════\nⴵ\nTime:\nSat, 25 Jul 2026 17:59:11 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#cybersecurity\n#deep_learning\n#blue_team\n#soc_analyst",
+        "date": "2026-07-25T20:04:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127262_0_6f216a81.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127262_1_51ed6192.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127262",
+        "link": {
+          "title": "Day 19: Sigma Rules — A Universal Language for Detection Engineering",
+          "url": "https://medium.com/@ahmedseam094/day-19-sigma-rules-a-universal-language-for-detection-engineering-a94ad6d2f5d9?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 127261,
+        "text": "⤷\nTitle:\nTask 2.3 -> Vulnerability Assessment(vulnerabilities101)\n════════════════════════\n𐀪\nAuthor:\nGunay Safarzadeh\n════════════════════════\nⴵ\nTime:\nSat, 25 Jul 2026 18:18:22 GMT\n════════════════════════\n⌗\nTags:\n#vulnerability_assessment\n#tryhackme\n#cybersecurity",
+        "date": "2026-07-25T20:04:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127261_0_6f216a81.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127261_1_59b32c5e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127261",
+        "link": {
+          "title": "Task 2.3 -> Vulnerability Assessment(vulnerabilities101)",
+          "url": "https://medium.com/@gunaysafarzadeh01/task-2-3-vulnerability-assessment-vulnerabilities101-71b8d7c46e19?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 127260,
+        "text": "⤷\nTitle:\nTask 3.1 -> Exploitation & Post-Exploitation (postexploit)\n════════════════════════\n𐀪\nAuthor:\nGunay Safarzadeh\n════════════════════════\nⴵ\nTime:\nSat, 25 Jul 2026 18:19:06 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#tryhackme\n#post_exploitation",
+        "date": "2026-07-25T20:04:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127260_0_6f216a81.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127260_1_5172f384.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127260",
+        "link": {
+          "title": "Task 3.1 -> Exploitation & Post-Exploitation (postexploit)",
+          "url": "https://medium.com/@gunaysafarzadeh01/task-3-1-exploitation-post-exploitation-postexploit-10c7375ddcbc?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 127259,
+        "text": "⤷\nTitle:\nMalware Analysis with x64dbg: Extracting an In-Memory Payload Step by Step\n════════════════════════\n𐀪\nAuthor:\nCHANDRA KANT BAURI\n════════════════════════\nⴵ\nTime:\nSat, 25 Jul 2026 19:37:20 GMT\n════════════════════════\n⌗\nTags:\n#reverse_engineering\n#cybersecurity\n#malware_analysis\n#infosec",
+        "date": "2026-07-25T20:03:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127259_0_6f216a81.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127259_1_99e1f086.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127259",
+        "link": {
+          "title": "Malware Analysis with x64dbg: Extracting an In-Memory Payload Step by Step",
+          "url": "https://medium.com/@ckant/malware-analysis-with-x64dbg-extracting-an-in-memory-payload-step-by-step-7bb291e2fa30?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 127258,
+        "text": "⤷\nTitle:\nMultiple Ways to Achieve Windows Persistence\n════════════════════════\n𐀪\nAuthor:\nAyushmohansah\n════════════════════════\nⴵ\nTime:\nSat, 25 Jul 2026 18:13:20 GMT\n════════════════════════\n⌗\nTags:\n#red_team\n#persistence\n#cybersecurity\n#hacking\n#windows",
+        "date": "2026-07-25T20:03:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127258_0_6f216a81.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127258_1_470ec81f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127258",
+        "link": {
+          "title": "Multiple Ways to Achieve Windows Persistence",
+          "url": "https://medium.com/@ayushmohansah/multiple-ways-to-achieve-windows-persistence-e8b22943dd26?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 127257,
+        "text": "⤷\nTitle:\nCRLF Injection — Advanced Bypass Techniques ( P 2/3 )\n════════════════════════\n𐀪\nAuthor:\nCybersecplayground\n════════════════════════\nⴵ\nTime:\nSat, 25 Jul 2026 19:47:34 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_writeup\n#crlf_injection\n#bug_bounty_tips\n#bug_bounty\n#bypass",
+        "date": "2026-07-25T20:03:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127257_0_6f216a81.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127257_1_5a985ea3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127257",
+        "link": {
+          "title": "CRLF Injection — Advanced Bypass Techniques ( P 2/3 )",
+          "url": "https://medium.com/@cybersecplayground/crlf-injection-advanced-bypass-techniques-p-2-3-62b2ca091f7d?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 127256,
         "text": "⤷\nTitle:\nCTF: Publisher TryhackMe Room\n════════════════════════\n𐀪\nAuthor:\nDuong\n════════════════════════\nⴵ\nTime:\nSat, 25 Jul 2026 16:48:50 GMT\n════════════════════════\n⌗\nTags:\n#ctf\n#privilege_escalation\n#perl_based\n#tryhackme",
         "date": "2026-07-25T18:04:00+00:00",
@@ -2084,198 +2268,22 @@
           "title": "Nvidia’s CEO Just Joined X. His First Post Started an AI Debate.",
           "url": "https://medium.com/@sushilaDevi/nvidias-ceo-just-joined-x-his-first-post-started-an-ai-debate-eb0bb22344a1?source=rss------xss-5"
         }
-      },
-      {
-        "id": 127164,
-        "text": "⤷\nTitle:\n️ My Ethical Hacking Journey: From Curiosity to International Recognition\n════════════════════════\n𐀪\nAuthor:\nRaj |Hacker|Penetration Tester & Security Analyst\n════════════════════════\nⴵ\nTime:\nFri, 24 Jul 2026 16:28:08 GMT\n════════════════════════\n⌗\nTags:\n#personal_growth\n#careers\n#ethical_hacking\n#cybersecurity\n#artificial_intelligence",
-        "date": "2026-07-24T18:04:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127164_0_a27b7578.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127164",
-        "link": {
-          "title": "️ My Ethical Hacking Journey: From Curiosity to International Recognition",
-          "url": "https://medium.com/@Raj101/%EF%B8%8F-my-ethical-hacking-journey-from-curiosity-to-international-recognition-942551c07c34?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 127163,
-        "text": "⤷\nTitle:\nOSI Model Explained: A Complete Beginner’s Guide with a Cybersecurity Perspective\n════════════════════════\n𐀪\nAuthor:\nYogesh Mali\n════════════════════════\nⴵ\nTime:\nFri, 24 Jul 2026 17:45:00 GMT\n════════════════════════\n⌗\nTags:\n#osi_model\n#ethical_hacking\n#computer_network\n#cybersecurity\n#networking",
-        "date": "2026-07-24T18:04:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127163_0_a27b7578.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127163_1_36eb9ac0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127163",
-        "link": {
-          "title": "OSI Model Explained: A Complete Beginner’s Guide with a Cybersecurity Perspective",
-          "url": "https://yogeshmali01.medium.com/osi-model-explained-a-complete-beginners-guide-with-a-cybersecurity-perspective-8273d849cc36?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 127162,
-        "text": "⤷\nTitle:\nDay 18: False Positives vs. False Negatives — Finding the Right Balance in Cybersecurity Detection\n════════════════════════\n𐀪\nAuthor:\nSIAM AHMED\n════════════════════════\nⴵ\nTime:\nFri, 24 Jul 2026 17:56:16 GMT\n════════════════════════\n⌗\nTags:\n#deep_learning\n#cybersecurity\n#ethical_hacking\n#threat_detection\n#soc_analyst",
-        "date": "2026-07-24T18:04:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127162_0_a27b7578.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127162_1_6097996c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127162",
-        "link": {
-          "title": "Day 18: False Positives vs. False Negatives — Finding the Right Balance in Cybersecurity Detection",
-          "url": "https://medium.com/@ahmedseam094/day-18-false-positives-vs-false-negatives-finding-the-right-balance-in-cybersecurity-detection-5570000bd04f?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 127161,
-        "text": "⤷\nTitle:\nTryHackMe — OWASP Juice Shop\n════════════════════════\n𐀪\nAuthor:\nibr_yzr\n════════════════════════\nⴵ\nTime:\nFri, 24 Jul 2026 16:34:31 GMT\n════════════════════════\n⌗\nTags:\n#owasp\n#tryhackme_walkthrough\n#owasp_juice_shop\n#tryhackme\n#ctf_writeup",
-        "date": "2026-07-24T18:04:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127161_0_a27b7578.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127161_1_e5b27bbd.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127161",
-        "link": {
-          "title": "TryHackMe — OWASP Juice Shop",
-          "url": "https://medium.com/@ibr_yzr/tryhackme-owasp-juice-shop-3f1d48bda7ab?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 127160,
-        "text": "⤷\nTitle:\nThe Brochure — TryHackMe Answers | by Deepti Gupta\n════════════════════════\n𐀪\nAuthor:\nDeepti Gupta\n════════════════════════\nⴵ\nTime:\nFri, 24 Jul 2026 17:37:44 GMT\n════════════════════════\n⌗\nTags:\n#osint\n#cybersecurity\n#tryhackme\n#ai\n#hacker",
-        "date": "2026-07-24T18:04:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127160_0_a27b7578.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127160_1_6bb4f19b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127160",
-        "link": {
-          "title": "The Brochure — TryHackMe Answers | by Deepti Gupta",
-          "url": "https://medium.com/@deeptisg0/the-brochure-tryhackme-answers-by-deepti-gupta-ad3b92742c57?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 127159,
-        "text": "⤷\nTitle:\nBeyond the Frontend: API Recon and Hidden Attack Surfaces\n════════════════════════\n𐀪\nAuthor:\nAlireza Sajadi\n════════════════════════\nⴵ\nTime:\nFri, 24 Jul 2026 17:25:54 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#web_security\n#penetration_testing\n#api_security\n#cybersecurity",
-        "date": "2026-07-24T18:03:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127159_0_a27b7578.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127159_1_401f68da.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127159",
-        "link": {
-          "title": "Beyond the Frontend: API Recon and Hidden Attack Surfaces",
-          "url": "https://medium.com/@sajjadi.alireza1378/beyond-the-frontend-api-recon-and-hidden-attack-surfaces-66787b675cb2?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 127158,
-        "text": "⤷\nTitle:\nHow Hackers Turned a Notepad++ Plugin Into a Malware Delivery System\n════════════════════════\n𐀪\nAuthor:\nXpert4Cyber\n════════════════════════\nⴵ\nTime:\nFri, 24 Jul 2026 15:49:43 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#cybersecurity\n#technology\n#information_security\n#news",
-        "date": "2026-07-24T18:03:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127158_0_a27b7578.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127158_1_03655e29.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127158",
-        "link": {
-          "title": "How Hackers Turned a Notepad++ Plugin Into a Malware Delivery System",
-          "url": "https://medium.com/@xpert4cyber/how-hackers-turned-a-notepad-plugin-into-a-malware-delivery-system-c7d12b10c800?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 127157,
-        "text": "⤷\nTitle:\nBlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nFri, 24 Jul 2026 20:42:35 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-07-24T18:03:51+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127157_0_a27b7578.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127157",
-        "link": {
-          "title": "BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery",
-          "url": "https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html"
-        }
       }
     ]
   },
-  "last_update": "2026-07-25T18:46:54.796728+00:00",
+  "last_update": "2026-07-25T20:04:59.192574+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 190,
-    "total_files": 190,
+    "total_media": 192,
+    "total_files": 192,
     "total_links": 0,
     "files_by_type": {
-      "image": 190
+      "image": 192
     },
-    "referenced_files": 190,
-    "existing_media_files": 190,
-    "total_size_mb": 5.77,
-    "last_calculation": "2026-07-25T18:46:54.799078+00:00"
+    "referenced_files": 192,
+    "existing_media_files": 192,
+    "total_size_mb": 5.9,
+    "last_calculation": "2026-07-25T20:04:59.194941+00:00"
   }
 }
