@@ -2,6 +2,167 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 127343,
+        "text": "⤷\nTitle:\nOne ${} in Your Code Can Hand Over Your Entire Database. Here's Exactly How.\n════════════════════════\n𐀪\nAuthor:\nAbdul Hannan\n════════════════════════\nⴵ\nTime:\nSun, 26 Jul 2026 13:33:21 GMT\n════════════════════════\n⌗\nTags:\n#data_science\n#cybersecurity\n#software_development\n#programming\n#sql_injection",
+        "date": "2026-07-26T14:04:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127343_0_5a358906.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127343_1_1ed3ced5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127343",
+        "link": {
+          "title": "One ${} in Your Code Can Hand Over Your Entire Database. Here's Exactly How.",
+          "url": "https://a-hannan-se.medium.com/one-in-your-code-can-hand-over-your-entire-database-heres-exactly-how-b9263757ebc5?source=rss------sql_injection-5"
+        }
+      },
+      {
+        "id": 127342,
+        "text": "⤷\nTitle:\nExploiting a Windows Host via HTTP-Delivered Meterpreter Payload (MSFPC) — Metasploit Walkthrough\n════════════════════════\n𐀪\nAuthor:\nPriyankachandrakar\n════════════════════════\nⴵ\nTime:\nSun, 26 Jul 2026 12:15:58 GMT\n════════════════════════\n⌗\nTags:\n#kali_linux\n#red_teamer\n#oscp\n#cybersecurity\n#ethical_hacking",
+        "date": "2026-07-26T14:04:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127342_0_5a358906.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127342_1_312d564d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127342",
+        "link": {
+          "title": "Exploiting a Windows Host via HTTP-Delivered Meterpreter Payload (MSFPC) — Metasploit Walkthrough",
+          "url": "https://priyankachandrakar.medium.com/exploiting-a-windows-host-via-http-delivered-meterpreter-payload-msfpc-metasploit-walkthrough-d4da9bcdb8c3?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 127341,
+        "text": "⤷\nTitle:\nMultiple Ways to Bypass UAC using Metasploit\n════════════════════════\n𐀪\nAuthor:\nPriyankachandrakar\n════════════════════════\nⴵ\nTime:\nSun, 26 Jul 2026 12:22:40 GMT\n════════════════════════\n⌗\nTags:\n#ejpt\n#oscp\n#cybersecurity\n#kali_linux\n#ethical_hacking",
+        "date": "2026-07-26T14:04:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127341_0_5a358906.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127341_1_15255a93.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127341",
+        "link": {
+          "title": "Multiple Ways to Bypass UAC using Metasploit",
+          "url": "https://priyankachandrakar.medium.com/multiple-ways-to-bypass-uac-using-metasploit-360bf6cd06e6?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 127340,
+        "text": "⤷\nTitle:\nThe Header That Signed Itself: Full Account Takeover in a Google SSO Flow\n════════════════════════\n𐀪\nAuthor:\nAbdelrhman Amin\n════════════════════════\nⴵ\nTime:\nSun, 26 Jul 2026 12:24:27 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_writeup\n#penetration_testing\n#web_security\n#bug_bounty_tips\n#bug_bounty",
+        "date": "2026-07-26T14:04:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127340_0_5a358906.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127340_1_97ab7904.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127340",
+        "link": {
+          "title": "The Header That Signed Itself: Full Account Takeover in a Google SSO Flow",
+          "url": "https://uchihamrx.medium.com/the-header-that-signed-itself-full-account-takeover-in-a-google-sso-flow-940ed68b77e2?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 127339,
+        "text": "⤷\nTitle:\nHow an Unpatched N-Day Let Any Anonymous Visitor Rewrite WooCommerce Prices in ND Booking\n════════════════════════\n𐀪\nAuthor:\nShikhali Jamalzade\n════════════════════════\nⴵ\nTime:\nSun, 26 Jul 2026 12:56:50 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#technology\n#bug_bounty_writeup\n#bug_bounty\n#wordpress",
+        "date": "2026-07-26T14:04:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127339_0_5a358906.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127339_1_8e3f6fcd.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127339",
+        "link": {
+          "title": "How an Unpatched N-Day Let Any Anonymous Visitor Rewrite WooCommerce Prices in ND Booking",
+          "url": "https://alisalive.medium.com/how-an-unpatched-n-day-let-any-anonymous-visitor-rewrite-woocommerce-prices-in-nd-booking-65c69c9a32ef?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 127338,
+        "text": "⤷\nTitle:\nWhen APIs Trust Too Much: The Hidden Risks of Broken Object Level Authorization (BOLA)\n════════════════════════\n𐀪\nAuthor:\nZ3r0D4y\n════════════════════════\nⴵ\nTime:\nSun, 26 Jul 2026 13:43:26 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#web_security\n#bug_bounty\n#penetration_testing\n#api",
+        "date": "2026-07-26T14:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127338_0_5a358906.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127338_1_cddfca95.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127338",
+        "link": {
+          "title": "When APIs Trust Too Much: The Hidden Risks of Broken Object Level Authorization (BOLA)",
+          "url": "https://medium.com/@pritamtare029/when-apis-trust-too-much-the-hidden-risks-of-broken-object-level-authorization-bola-289e0962e78f?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 127337,
+        "text": "⤷\nTitle:\nJadeProx Exposed: Unveiling TriBack Loader & China-Nexus C2 Infrastructure\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nSun, 26 Jul 2026 13:45:18 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#APT\n#Cyber\nEspionage\n#Group_IB\n#JadeProx\n#TriBack\nLoader",
+        "date": "2026-07-26T14:03:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127337_0_5a358906.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127337_1_94896804.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127337",
+        "link": {
+          "title": "JadeProx Exposed: Unveiling TriBack Loader & China-Nexus C2 Infrastructure",
+          "url": "https://meterpreter.org/jadeprox-triback-loader-infrastructure/"
+        }
+      },
+      {
         "id": 127336,
         "text": "⤷\nTitle:\nDatabase.queryWithBinds() — Most Asked Salesforce Interview Question\n════════════════════════\n𐀪\nAuthor:\nRaja Saha\n════════════════════════\nⴵ\nTime:\nSun, 26 Jul 2026 10:03:23 GMT\n════════════════════════\n⌗\nTags:\n#salesforce\n#sql_injection\n#lightning_web_component\n#salesforce_apex",
         "date": "2026-07-26T12:04:45+00:00",
@@ -2119,171 +2280,10 @@
           "title": "Supabase Security Checklist for AI-Built Apps",
           "url": "https://medium.com/@Secvura/supabase-security-checklist-for-ai-built-apps-16576013dd65?source=rss------application_security-5"
         }
-      },
-      {
-        "id": 127243,
-        "text": "⤷\nTitle:\nSicherheit im Netz: Zwischen Technik, Mensch und Infrastruktur\n════════════════════════\n𐀪\nAuthor:\nmertes.dev\n════════════════════════\nⴵ\nTime:\nSat, 25 Jul 2026 13:31:01 GMT\n════════════════════════\n⌗\nTags:\n#sql_injection\n#phishing\n#spam\n#social_engineering\n#security",
-        "date": "2026-07-25T14:04:31+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127243_0_6f216a81.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127243_1_88893015.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127243",
-        "link": {
-          "title": "Sicherheit im Netz: Zwischen Technik, Mensch und Infrastruktur",
-          "url": "https://medium.com/@mertes.dev/sicherheit-im-netz-zwischen-technik-mensch-und-infrastruktur-cbea1824e3f5?source=rss------sql_injection-5"
-        }
-      },
-      {
-        "id": 127242,
-        "text": "⤷\nTitle:\nHow to Secure Your Spring Boot APIs Using JWT and AI-Based Monitoring in 2026\n════════════════════════\n𐀪\nAuthor:\nFutureLens\n════════════════════════\nⴵ\nTime:\nSat, 25 Jul 2026 13:22:18 GMT\n════════════════════════\n⌗\nTags:\n#api_security\n#ai_monitoring\n#cybersecurity\n#jwt\n#spring_boot",
-        "date": "2026-07-25T14:04:28+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127242_0_6f216a81.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127242_1_82b78f2c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127242",
-        "link": {
-          "title": "How to Secure Your Spring Boot APIs Using JWT and AI-Based Monitoring in 2026",
-          "url": "https://medium.com/illumination/how-to-secure-your-spring-boot-apis-using-jwt-and-ai-based-monitoring-in-2026-858329ad442e?source=rss------api_security-5"
-        }
-      },
-      {
-        "id": 127241,
-        "text": "⤷\nTitle:\nWHY WE USE KALI LINUX FOR HACKING\n════════════════════════\n𐀪\nAuthor:\nMuhammad Abdal Khan\n════════════════════════\nⴵ\nTime:\nSat, 25 Jul 2026 12:08:40 GMT\n════════════════════════\n⌗\nTags:\n#kali_linux\n#linux_tutorial\n#linux_for_hackers\n#linux\n#ethical_hacking",
-        "date": "2026-07-25T14:04:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127241_0_6f216a81.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127241_1_89700e47.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127241",
-        "link": {
-          "title": "WHY WE USE KALI LINUX FOR HACKING",
-          "url": "https://medium.com/@mabdalkhan15/why-we-use-kali-linux-for-hacking-46151a40475b?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 127240,
-        "text": "⤷\nTitle:\nFool Mate by TryHackMe\n════════════════════════\n𐀪\nAuthor:\nAbdelhamid Houari\n════════════════════════\nⴵ\nTime:\nSat, 25 Jul 2026 12:01:22 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_challenge\n#tryhackme\n#tryhackme_walkthrough\n#fool_mate\n#fool_mate_by_tryhackme",
-        "date": "2026-07-25T14:04:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127240_0_6f216a81.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127240_1_ad7f00d2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127240",
-        "link": {
-          "title": "Fool Mate by TryHackMe",
-          "url": "https://medium.com/@h.abdelhamid.mefrommi/fool-mate-by-tryhackme-e08d099af023?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 127239,
-        "text": "⤷\nTitle:\nTryHackMe | Basic Malware Reverse Engineering — Walkthrough\n════════════════════════\n𐀪\nAuthor:\nOmar Walid Diab\n════════════════════════\nⴵ\nTime:\nSat, 25 Jul 2026 13:08:27 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#malware\n#reverse_engineering\n#tryhackme",
-        "date": "2026-07-25T14:04:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127239_0_6f216a81.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127239_1_290ee2ff.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127239",
-        "link": {
-          "title": "TryHackMe | Basic Malware Reverse Engineering — Walkthrough",
-          "url": "https://medium.com/@omardiab25213/tryhackme-basic-malware-reverse-engineering-walkthrough-1eb0fa2a55ba?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 127238,
-        "text": "⤷\nTitle:\nLetsDefend — StageComp — Reverse Engineering\n════════════════════════\n𐀪\nAuthor:\nEfe Özel\n════════════════════════\nⴵ\nTime:\nSat, 25 Jul 2026 12:41:08 GMT\n════════════════════════\n⌗\nTags:\n#threat_hunting\n#hacking\n#blue_team\n#cybersecurity\n#reverse_engineering",
-        "date": "2026-07-25T14:04:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127238_0_6f216a81.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127238_1_08bd6eec.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127238",
-        "link": {
-          "title": "LetsDefend — StageComp — Reverse Engineering",
-          "url": "https://medium.com/@efeqozel/letsdefend-stagecomp-reverse-engineering-677943fc0b40?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 127237,
-        "text": "⤷\nTitle:\nRabbit Hole (THM) Tryhackme Hard Challenge\n════════════════════════\n𐀪\nAuthor:\nLawvye\n════════════════════════\nⴵ\nTime:\nSat, 25 Jul 2026 13:05:11 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#cybersecurity\n#sql_injection\n#hacking\n#xss_attack",
-        "date": "2026-07-25T14:04:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127237_0_6f216a81.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127237_1_512647ea.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127237",
-        "link": {
-          "title": "Rabbit Hole (THM) Tryhackme Hard Challenge",
-          "url": "https://medium.com/@lawvye/rabbit-hole-thm-tryhackme-hard-challenge-1dfd8af20e8e?source=rss------hacking-5"
-        }
       }
     ]
   },
-  "last_update": "2026-07-26T12:36:26.792900+00:00",
+  "last_update": "2026-07-26T14:23:17.130582+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2295,7 +2295,7 @@
     },
     "referenced_files": 195,
     "existing_media_files": 195,
-    "total_size_mb": 5.23,
-    "last_calculation": "2026-07-26T12:36:26.795248+00:00"
+    "total_size_mb": 5.39,
+    "last_calculation": "2026-07-26T14:23:17.132927+00:00"
   }
 }
