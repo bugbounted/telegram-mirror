@@ -2,6 +2,167 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 127371,
+        "text": "⤷\nTitle:\nSingle-Endpoint Race Conditions: Exploiting an Email Change Race Condition (PortSwigger Lab)\n════════════════════════\n𐀪\nAuthor:\nCybernerddd\n════════════════════════\nⴵ\nTime:\nSun, 26 Jul 2026 19:15:40 GMT\n════════════════════════\n⌗\nTags:\n#race\n#ethical_hacking\n#vapt\n#web_app_security\n#cybersecurity",
+        "date": "2026-07-26T20:04:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127371_0_5a358906.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127371_1_a5b38fe1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127371",
+        "link": {
+          "title": "Single-Endpoint Race Conditions: Exploiting an Email Change Race Condition (PortSwigger Lab)",
+          "url": "https://medium.com/@cybernerddd/single-endpoint-race-conditions-exploiting-an-email-change-race-condition-portswigger-lab-0f7b10a34b24?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 127370,
+        "text": "⤷\nTitle:\nLab day task (sqlinjectionlm)\n════════════════════════\n𐀪\nAuthor:\nGunay Safarzadeh\n════════════════════════\nⴵ\nTime:\nSun, 26 Jul 2026 19:37:47 GMT\n════════════════════════\n⌗\nTags:\n#sqlinjectionlm\n#cybersecurity\n#tryhackme\n#sql_injection",
+        "date": "2026-07-26T20:04:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127370_0_5a358906.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127370_1_97d64ed1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127370",
+        "link": {
+          "title": "Lab day task (sqlinjectionlm)",
+          "url": "https://medium.com/@gunaysafarzadeh/lab-day-task-sqlinjectionlm-655fde1b4665?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 127369,
+        "text": "⤷\nTitle:\nTask 3.1 -> Exploitation & Post-Exploitation (rppsempire)\n════════════════════════\n𐀪\nAuthor:\nGunay Safarzadeh\n════════════════════════\nⴵ\nTime:\nSun, 26 Jul 2026 19:40:07 GMT\n════════════════════════\n⌗\nTags:\n#post_exploitation\n#cybersecurity\n#tryhackme",
+        "date": "2026-07-26T20:04:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127369_0_5a358906.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127369_1_69b6e7d3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127369",
+        "link": {
+          "title": "Task 3.1 -> Exploitation & Post-Exploitation (rppsempire)",
+          "url": "https://medium.com/@gunaysafarzadeh/task-3-1-exploitation-post-exploitation-rppsempire-50059ec860cb?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 127368,
+        "text": "⤷\nTitle:\nMetasploit Introduction TryHackMe Room Walkthrough\n════════════════════════\n𐀪\nAuthor:\nAmr Sebie\n════════════════════════\nⴵ\nTime:\nSun, 26 Jul 2026 20:01:16 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#pentesting\n#metasploit\n#tryhackme_writeup\n#tryhackme_walkthrough",
+        "date": "2026-07-26T20:04:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127368_0_5a358906.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127368_1_0678f667.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127368",
+        "link": {
+          "title": "Metasploit Introduction TryHackMe Room Walkthrough",
+          "url": "https://medium.com/@asoubea/metasploit-introduction-tryhackme-room-walkthrough-9a969263f470?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 127367,
+        "text": "⤷\nTitle:\nSubix: One Go Binary for the Entire Subdomain Enumeration Pipeline\n════════════════════════\n𐀪\nAuthor:\nwhoami_404\n════════════════════════\nⴵ\nTime:\nSun, 26 Jul 2026 19:42:58 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#subdomains_enumeration",
+        "date": "2026-07-26T20:04:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127367_0_5a358906.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127367_1_fd91c76e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127367",
+        "link": {
+          "title": "Subix: One Go Binary for the Entire Subdomain Enumeration Pipeline",
+          "url": "https://medium.com/@whoami_10192006/subix-one-go-binary-for-the-entire-subdomain-enumeration-pipeline-8e0d878768f2?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 127366,
+        "text": "⤷\nTitle:\nBlue — TryHackMe\n════════════════════════\n𐀪\nAuthor:\nMoatef\n════════════════════════\nⴵ\nTime:\nSun, 26 Jul 2026 19:46:07 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#tryhackme\n#cybersecurity",
+        "date": "2026-07-26T20:04:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127366_0_5a358906.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127366_1_f5b814b7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127366",
+        "link": {
+          "title": "Blue — TryHackMe",
+          "url": "https://medium.com/@moatef7308/blue-tryhackme-761d754100f2?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 127365,
+        "text": "⤷\nTitle:\nBuilding Bug Bounty Recon Pipeline: From Target Domain to Vulnerability Discovery\n════════════════════════\n𐀪\nAuthor:\nA. AntorCSE404\n════════════════════════\nⴵ\nTime:\nSun, 26 Jul 2026 18:17:05 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#pentesting\n#hacking\n#programming\n#cybersecurity",
+        "date": "2026-07-26T20:04:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127365_0_5a358906.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127365_1_9710871d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127365",
+        "link": {
+          "title": "Building Bug Bounty Recon Pipeline: From Target Domain to Vulnerability Discovery",
+          "url": "https://medium.com/@antor.csecu/building-bug-bounty-recon-pipeline-from-target-domain-to-vulnerability-discovery-cdc3e90e7a20?source=rss------hacking-5"
+        }
+      },
+      {
         "id": 127364,
         "text": "⤷\nTitle:\nJailbreak universal en modelos de IA\n════════════════════════\n𐀪\nAuthor:\nTU INSIGNIA\n════════════════════════\nⴵ\nTime:\nSun, 26 Jul 2026 18:37:33 GMT\n════════════════════════\n⌗\nTags:\n#ai\n#generative_ai_tools\n#cybersecurity\n#hacking\n#ai_agent",
         "date": "2026-07-26T20:04:01+00:00",
@@ -2111,179 +2272,22 @@
           "title": "How Hacking Has Changed in the Last Decade — Need to Know in 2026",
           "url": "https://medium.com/@vom96274/how-hacking-has-changed-in-the-last-decade-need-to-know-in-2026-be67da50c3a3?source=rss------hacking-5"
         }
-      },
-      {
-        "id": 127271,
-        "text": "⤷\nTitle:\nWhat Every Developer Should Know About IDOR\n════════════════════════\n𐀪\nAuthor:\nIsmail Tasdelen\n════════════════════════\nⴵ\nTime:\nSat, 25 Jul 2026 22:43:16 GMT\n════════════════════════\n⌗\nTags:\n#vulnerability\n#cybersecurity\n#idor\n#idor_vulnerability\n#application_security",
-        "date": "2026-07-26T00:03:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127271_0_6f216a81.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127271_1_39502d96.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127271",
-        "link": {
-          "title": "What Every Developer Should Know About IDOR",
-          "url": "https://ismailtasdelen.medium.com/what-every-developer-should-know-about-idor-d674a86895fb?source=rss------application_security-5"
-        }
-      },
-      {
-        "id": 127270,
-        "text": "⤷\nTitle:\nOne Header Away from 10+ GB of Customer Documents (PII) — $6K Bounty\n════════════════════════\n𐀪\nAuthor:\nAlvin Ferdiansyah\n════════════════════════\nⴵ\nTime:\nSat, 25 Jul 2026 23:50:39 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_writeup\n#bucketlist\n#bug_bounty\n#bug_bounty_tips\n#authentication",
-        "date": "2026-07-26T00:03:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127270_0_6f216a81.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127270_1_3627041e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127270",
-        "link": {
-          "title": "One Header Away from 10+ GB of Customer Documents (PII) — $6K Bounty",
-          "url": "https://alvinferd.medium.com/one-header-away-from-10-gb-of-customer-documents-pii-6k-bounty-0c0ac8c335f2?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 127269,
-        "text": "⤷\nTitle:\nIoT Walkthrough on HMV\n════════════════════════\n𐀪\nAuthor:\nSecurity Posture\n════════════════════════\nⴵ\nTime:\nSat, 25 Jul 2026 21:02:33 GMT\n════════════════════════\n⌗\nTags:\n#ctf_walkthrough\n#hackmyvm\n#ethical_hacking",
-        "date": "2026-07-25T22:04:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127269_0_6f216a81.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127269_1_b8f97150.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127269",
-        "link": {
-          "title": "IoT Walkthrough on HMV",
-          "url": "https://securityposture.medium.com/iot-walkthrough-on-hmv-06102a18dbdf?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 127268,
-        "text": "⤷\nTitle:\nSummit — TryHackMe SOC Level 1 CTF Walkthrough 1/12\n════════════════════════\n𐀪\nAuthor:\nCallum Clark\n════════════════════════\nⴵ\nTime:\nSat, 25 Jul 2026 20:38:09 GMT\n════════════════════════\n⌗\nTags:\n#ctf\n#blue_team\n#cybersecurity\n#tryhackme\n#ctf_writeup",
-        "date": "2026-07-25T22:04:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127268_0_6f216a81.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127268_1_2577177c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127268",
-        "link": {
-          "title": "Summit — TryHackMe SOC Level 1 CTF Walkthrough 1/12",
-          "url": "https://medium.com/@cjc.cyber/summit-tryhackme-soc-level-1-ctf-walkthrough-1-12-7020b20f9e80?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 127267,
-        "text": "⤷\nTitle:\nSSL/TLS Explained\n════════════════════════\n𐀪\nAuthor:\nCyber T\n════════════════════════\nⴵ\nTime:\nSat, 25 Jul 2026 20:11:01 GMT\n════════════════════════\n⌗\nTags:\n#information_security\n#networking\n#hacking\n#cyber_security_awareness\n#cybersecurity",
-        "date": "2026-07-25T22:04:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127267_0_6f216a81.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127267_1_0263a13e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127267",
-        "link": {
-          "title": "SSL/TLS Explained",
-          "url": "https://systemweakness.com/ssl-tls-explained-36b2831cf7fe?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 127266,
-        "text": "⤷\nTitle:\nHow Do You Hack a Spacecraft? A Journey from CCSDS Protocols to the RF Layer\n════════════════════════\n𐀪\nAuthor:\nYusufKayhan\n════════════════════════\nⴵ\nTime:\nSat, 25 Jul 2026 20:51:00 GMT\n════════════════════════\n⌗\nTags:\n#hackasat\n#ccsd\n#pentesting\n#spacecraft\n#hacking",
-        "date": "2026-07-25T22:04:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127266_0_6f216a81.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127266_1_3bca7528.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127266",
-        "link": {
-          "title": "How Do You Hack a Spacecraft? A Journey from CCSDS Protocols to the RF Layer",
-          "url": "https://medium.com/@YusufKayhan.Taryus/how-do-you-hack-a-spacecraft-a-journey-from-ccsds-protocols-to-the-rf-layer-63752f5e14cd?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 127265,
-        "text": "⤷\nTitle:\nMalvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nSun, 26 Jul 2026 00:18:44 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-07-25T22:04:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127265_0_6f216a81.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127265",
-        "link": {
-          "title": "Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable",
-          "url": "https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html"
-        }
       }
     ]
   },
-  "last_update": "2026-07-26T20:04:03.231300+00:00",
+  "last_update": "2026-07-26T21:17:33.969905+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 192,
-    "total_files": 192,
+    "total_media": 193,
+    "total_files": 193,
     "total_links": 0,
     "files_by_type": {
-      "image": 192
+      "image": 193
     },
-    "referenced_files": 192,
-    "existing_media_files": 192,
-    "total_size_mb": 4.99,
-    "last_calculation": "2026-07-26T20:04:03.233557+00:00"
+    "referenced_files": 193,
+    "existing_media_files": 193,
+    "total_size_mb": 4.88,
+    "last_calculation": "2026-07-26T21:17:33.972263+00:00"
   }
 }
