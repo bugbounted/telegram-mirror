@@ -2,6 +2,186 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 127351,
+        "text": "⤷\nTitle:\nWhat I Learned Today\n════════════════════════\n𐀪\nAuthor:\nCyberSum\n════════════════════════\nⴵ\nTime:\nSun, 26 Jul 2026 14:26:05 GMT\n════════════════════════\n⌗\nTags:\n#self_improvement\n#information_security\n#cybersecurity\n#blue_team\n#ethical_hacking",
+        "date": "2026-07-26T16:04:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127351_0_5a358906.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127351_1_40242a7c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127351",
+        "link": {
+          "title": "What I Learned Today",
+          "url": "https://cybersum.medium.com/what-i-learned-today-4228e3367ba3?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 127350,
+        "text": "⤷\nTitle:\nWrite-up for “Billing” room in Tryhackme\n════════════════════════\n𐀪\nAuthor:\nLi67t\n════════════════════════\nⴵ\nTime:\nSun, 26 Jul 2026 15:07:58 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#boot2root\n#ethical_hacking\n#pentesting",
+        "date": "2026-07-26T16:04:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127350_0_5a358906.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127350_1_8d9ca6b7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127350",
+        "link": {
+          "title": "Write-up for “Billing” room in Tryhackme",
+          "url": "https://medium.com/@aitouflihanouar/write-up-for-billing-room-in-tryhackme-acff90aeb958?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 127349,
+        "text": "⤷\nTitle:\nRetro (THM) Tryhackme Hard Challenge\n════════════════════════\n𐀪\nAuthor:\nLawvye\n════════════════════════\nⴵ\nTime:\nSun, 26 Jul 2026 14:20:06 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#hacking\n#privilege_escalation\n#pwn\n#cybersecurity",
+        "date": "2026-07-26T16:04:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127349_0_5a358906.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127349_1_211edb4d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127349",
+        "link": {
+          "title": "Retro (THM) Tryhackme Hard Challenge",
+          "url": "https://medium.com/@lawvye/retro-thm-tryhackme-hard-challenge-eac1e93738b2?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 127348,
+        "text": "⤷\nTitle:\nWhy Scanners Lie\n════════════════════════\n𐀪\nAuthor:\nYassin Hamada\n════════════════════════\nⴵ\nTime:\nSun, 26 Jul 2026 15:23:34 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#cybersecurity\n#hacking\n#infosec",
+        "date": "2026-07-26T16:04:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127348_0_5a358906.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127348",
+        "link": {
+          "title": "Why Scanners Lie",
+          "url": "https://medium.com/@hdhffxfg/why-scanners-lie-21922cd7e8b8?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 127347,
+        "text": "⤷\nTitle:\nPeekList: How Brave’s Playlist bypassed FaceID Protection for Private Tabs\n════════════════════════\n𐀪\nAuthor:\nAaron Thomas\n════════════════════════\nⴵ\nTime:\nSun, 26 Jul 2026 15:52:58 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_writeup\n#cybersecurity\n#bug_bounty",
+        "date": "2026-07-26T16:04:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127347_0_5a358906.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127347_1_547e0ac4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127347",
+        "link": {
+          "title": "PeekList: How Brave’s Playlist bypassed FaceID Protection for Private Tabs",
+          "url": "https://medium.com/@aaront_60605/peeklist-how-braves-playlist-bypassed-faceid-protection-for-private-tabs-9d1691b077be?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 127346,
+        "text": "⤷\nTitle:\nUnauthenticated Disclosure of A/B Test Data in Convert Pro — How Two Forgotten AJAX Endpoints…\n════════════════════════\n𐀪\nAuthor:\nShikhali Jamalzade\n════════════════════════\nⴵ\nTime:\nSun, 26 Jul 2026 15:54:17 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#technology\n#bug_bounty_writeup\n#wordpress\n#bug_bounty",
+        "date": "2026-07-26T16:04:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127346_0_5a358906.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127346_1_a760197a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127346",
+        "link": {
+          "title": "Unauthenticated Disclosure of A/B Test Data in Convert Pro — How Two Forgotten AJAX Endpoints…",
+          "url": "https://infosecwriteups.com/unauthenticated-disclosure-of-a-b-test-data-in-convert-pro-how-two-forgotten-ajax-endpoints-dbefc9c3e440?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 127345,
+        "text": "⤷\nTitle:\nTAG-195 Deploys ChonkyChicken Modular Malware Framework\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nSun, 26 Jul 2026 14:45:21 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#ChonkyChicken\n#ClickFix\n#Malware_as_a_Service\n#TAG_195\n#TinyEgg",
+        "date": "2026-07-26T16:04:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127345_0_5a358906.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127345_1_1bd31553.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127345",
+        "link": {
+          "title": "TAG-195 Deploys ChonkyChicken Modular Malware Framework",
+          "url": "https://meterpreter.org/tag-195-chonkychicken-modular-malware/"
+        }
+      },
+      {
+        "id": 127344,
+        "text": "⤷\nTitle:\nCheck Point Security Management Flaw Exploited in Wild Attacks\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nSun, 26 Jul 2026 15:30:23 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#Check\nPoint\n#CVE_2026_16232\n#firewall\n#network\nsecurity\n#vulnerability",
+        "date": "2026-07-26T16:03:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127344_0_5a358906.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127344_1_325d75c6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127344",
+        "link": {
+          "title": "Check Point Security Management Flaw Exploited in Wild Attacks",
+          "url": "https://meterpreter.org/check-point-security-management-flaw/"
+        }
+      },
+      {
         "id": 127343,
         "text": "⤷\nTitle:\nOne ${} in Your Code Can Hand Over Your Entire Database. Here's Exactly How.\n════════════════════════\n𐀪\nAuthor:\nAbdul Hannan\n════════════════════════\nⴵ\nTime:\nSun, 26 Jul 2026 13:33:21 GMT\n════════════════════════\n⌗\nTags:\n#data_science\n#cybersecurity\n#software_development\n#programming\n#sql_injection",
         "date": "2026-07-26T14:04:14+00:00",
@@ -2096,206 +2276,22 @@
           "title": "7 Linux Checks I Run Before Blaming the Network",
           "url": "https://systemweakness.com/7-linux-checks-i-run-before-blaming-the-network-787f554e251d?source=rss------ethical_hacking-5"
         }
-      },
-      {
-        "id": 127251,
-        "text": "⤷\nTitle:\nTryHackMe Write-up: SQL Injection\n════════════════════════\n𐀪\nAuthor:\nLimestar\n════════════════════════\nⴵ\nTime:\nSat, 25 Jul 2026 14:11:28 GMT\n════════════════════════\n⌗\nTags:\n#sql_injection\n#cybersecurity\n#tryhackme\n#technology",
-        "date": "2026-07-25T16:04:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127251_0_6f216a81.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127251_1_8a9b5931.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127251",
-        "link": {
-          "title": "TryHackMe Write-up: SQL Injection",
-          "url": "https://medium.com/@lime27star/tryhackme-write-up-sql-injection-00d957ff80dc?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 127250,
-        "text": "⤷\nTitle:\nWeek 15: Wi-Fi — How It Works and How Hackers Break It\n════════════════════════\n𐀪\nAuthor:\nNishant kumar\n════════════════════════\nⴵ\nTime:\nSat, 25 Jul 2026 15:48:19 GMT\n════════════════════════\n⌗\nTags:\n#networking\n#penetration_testing\n#ethical_hacking\n#information_security\n#cybersecurity",
-        "date": "2026-07-25T16:04:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127250_0_6f216a81.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127250_1_7ac56132.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127250",
-        "link": {
-          "title": "Week 15: Wi-Fi — How It Works and How Hackers Break It",
-          "url": "https://meetcyber.net/week-15-wi-fi-how-it-works-and-how-hackers-break-it-7f5cc0d1cdda?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 127249,
-        "text": "⤷\nTitle:\nAttacking a Vulnerable Active Directory Lab from Scratch to Practice AD Network Attacks\n════════════════════════\n𐀪\nAuthor:\nAhad Abbasi\n════════════════════════\nⴵ\nTime:\nSat, 25 Jul 2026 15:50:38 GMT\n════════════════════════\n⌗\nTags:\n#kali_linux\n#penetration_testing\n#cybersecurity\n#active_directory",
-        "date": "2026-07-25T16:04:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127249_0_6f216a81.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127249_1_6e9ae9ef.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127249",
-        "link": {
-          "title": "Attacking a Vulnerable Active Directory Lab from Scratch to Practice AD Network Attacks",
-          "url": "https://medium.com/@aliahad002/attacking-a-vulnerable-active-directory-lab-from-scratch-to-practice-ad-network-attacks-d2d6bdfe0ed3?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 127248,
-        "text": "⤷\nTitle:\nOpenAI, Escape & Hack: The Day AI Found a Way Its Creators Never Imagined\n════════════════════════\n𐀪\nAuthor:\nDavid Samuel Joy\n════════════════════════\nⴵ\nTime:\nSat, 25 Jul 2026 14:25:30 GMT\n════════════════════════\n⌗\nTags:\n#ai_safety\n#hacking\n#ai\n#artificial_intelligence\n#data_breach",
-        "date": "2026-07-25T16:04:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127248_0_6f216a81.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127248_1_ed208394.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127248",
-        "link": {
-          "title": "OpenAI, Escape & Hack: The Day AI Found a Way Its Creators Never Imagined",
-          "url": "https://medium.com/@our1truegod/openai-escape-hack-the-day-ai-found-a-way-its-creators-never-imagined-d704775578ec?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 127247,
-        "text": "⤷\nTitle:\nBare Metal and Neural Nets: Crafting a Purpose-Driven AI Cyberdeck\n════════════════════════\n𐀪\nAuthor:\nAeon Flex, Elriel Assoc. 2133 [NEON MAXIMA]\n════════════════════════\nⴵ\nTime:\nSat, 25 Jul 2026 14:30:19 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#computer_vision\n#cyberdeck\n#programming\n#diy",
-        "date": "2026-07-25T16:04:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127247_0_6f216a81.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127247_1_db745cf7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127247",
-        "link": {
-          "title": "Bare Metal and Neural Nets: Crafting a Purpose-Driven AI Cyberdeck",
-          "url": "https://medium.com/@neonmaxima/bare-metal-and-neural-nets-crafting-a-purpose-driven-ai-cyberdeck-aace86cbbca2?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 127246,
-        "text": "⤷\nTitle:\nKimi K3 Arrives at the Open Frontier, and Cybersecurity Will Feel It First\n════════════════════════\n𐀪\nAuthor:\nDavid SEHYEON Baek\n════════════════════════\nⴵ\nTime:\nSat, 25 Jul 2026 15:07:14 GMT\n════════════════════════\n⌗\nTags:\n#cybercrime\n#hacking\n#ai\n#cybersecurity\n#artificial_intelligence",
-        "date": "2026-07-25T16:03:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127246_0_6f216a81.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127246_1_a0e560a6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127246",
-        "link": {
-          "title": "Kimi K3 Arrives at the Open Frontier, and Cybersecurity Will Feel It First",
-          "url": "https://medium.com/@davidsehyeonbaek/kimi-k3-arrives-at-the-open-frontier-and-cybersecurity-will-feel-it-first-efc9e2bc4a72?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 127245,
-        "text": "⤷\nTitle:\nServer-Side Request Forgery (SSRF): A Complete Technical Guide\n════════════════════════\n𐀪\nAuthor:\nUmair Majeed\n════════════════════════\nⴵ\nTime:\nSat, 25 Jul 2026 15:20:26 GMT\n════════════════════════\n⌗\nTags:\n#vulnerability\n#hacking\n#cybersecurity\n#ethical_hacking",
-        "date": "2026-07-25T16:03:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127245_0_6f216a81.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127245_1_2ea671f3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127245",
-        "link": {
-          "title": "Server-Side Request Forgery (SSRF): A Complete Technical Guide",
-          "url": "https://medium.com/@hassankhan229361/server-side-request-forgery-ssrf-a-complete-technical-guide-0533209463ad?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 127244,
-        "text": "⤷\nTitle:\nSupabase Security Checklist for AI-Built Apps\n════════════════════════\n𐀪\nAuthor:\nSecvura\n════════════════════════\nⴵ\nTime:\nSat, 25 Jul 2026 15:32:30 GMT\n════════════════════════\n⌗\nTags:\n#startup\n#application_security\n#cybersecurity\n#supabase\n#software_development",
-        "date": "2026-07-25T16:03:51+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127244_0_6f216a81.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127244_1_d46369b9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127244",
-        "link": {
-          "title": "Supabase Security Checklist for AI-Built Apps",
-          "url": "https://medium.com/@Secvura/supabase-security-checklist-for-ai-built-apps-16576013dd65?source=rss------application_security-5"
-        }
       }
     ]
   },
-  "last_update": "2026-07-26T15:36:52.878839+00:00",
+  "last_update": "2026-07-26T16:44:12.692252+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 195,
-    "total_files": 195,
+    "total_media": 194,
+    "total_files": 194,
     "total_links": 0,
     "files_by_type": {
-      "image": 195
+      "image": 194
     },
-    "referenced_files": 195,
-    "existing_media_files": 195,
-    "total_size_mb": 5.39,
-    "last_calculation": "2026-07-26T15:36:52.881208+00:00"
+    "referenced_files": 194,
+    "existing_media_files": 194,
+    "total_size_mb": 5.17,
+    "last_calculation": "2026-07-26T16:44:12.694622+00:00"
   }
 }
