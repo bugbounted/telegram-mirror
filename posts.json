@@ -2,6 +2,121 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 127274,
+        "text": "⤷\nTitle:\nWireshark: Packet Operations\n════════════════════════\n𐀪\nAuthor:\nPl\n════════════════════════\nⴵ\nTime:\nSat, 25 Jul 2026 23:05:54 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#wireshark\n#tryhackme\n#tryhackme_walkthrough",
+        "date": "2026-07-26T00:04:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127274_0_6f216a81.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127274_1_a3d3450e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127274",
+        "link": {
+          "title": "Wireshark: Packet Operations",
+          "url": "https://medium.com/@henry.eguma1/wireshark-packet-operations-7240e56e6cf5?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 127273,
+        "text": "⤷\nTitle:\nHacking Got Easy. Here’s the Data — and a Field Guide to Who’s Doing It\n════════════════════════\n𐀪\nAuthor:\nFuncybot\n════════════════════════\nⴵ\nTime:\nSat, 25 Jul 2026 22:40:41 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#cybersecurity\n#phylosophy",
+        "date": "2026-07-26T00:04:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127273_0_6f216a81.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127273_1_6ec78bbd.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127273",
+        "link": {
+          "title": "Hacking Got Easy. Here’s the Data — and a Field Guide to Who’s Doing It",
+          "url": "https://medium.com/@funcybot/hacking-got-easy-heres-the-data-and-a-field-guide-to-who-s-doing-it-75bfd51f3949?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 127272,
+        "text": "⤷\nTitle:\nHow Hacking Has Changed in the Last Decade — Need to Know in 2026\n════════════════════════\n𐀪\nAuthor:\ndark stats\n════════════════════════\nⴵ\nTime:\nSat, 25 Jul 2026 22:42:57 GMT\n════════════════════════\n⌗\nTags:\n#hacking",
+        "date": "2026-07-26T00:04:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127272_0_6f216a81.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127272_1_42f8928b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127272",
+        "link": {
+          "title": "How Hacking Has Changed in the Last Decade — Need to Know in 2026",
+          "url": "https://medium.com/@vom96274/how-hacking-has-changed-in-the-last-decade-need-to-know-in-2026-be67da50c3a3?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 127271,
+        "text": "⤷\nTitle:\nWhat Every Developer Should Know About IDOR\n════════════════════════\n𐀪\nAuthor:\nIsmail Tasdelen\n════════════════════════\nⴵ\nTime:\nSat, 25 Jul 2026 22:43:16 GMT\n════════════════════════\n⌗\nTags:\n#vulnerability\n#cybersecurity\n#idor\n#idor_vulnerability\n#application_security",
+        "date": "2026-07-26T00:03:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127271_0_6f216a81.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127271_1_39502d96.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127271",
+        "link": {
+          "title": "What Every Developer Should Know About IDOR",
+          "url": "https://ismailtasdelen.medium.com/what-every-developer-should-know-about-idor-d674a86895fb?source=rss------application_security-5"
+        }
+      },
+      {
+        "id": 127270,
+        "text": "⤷\nTitle:\nOne Header Away from 10+ GB of Customer Documents (PII) — $6K Bounty\n════════════════════════\n𐀪\nAuthor:\nAlvin Ferdiansyah\n════════════════════════\nⴵ\nTime:\nSat, 25 Jul 2026 23:50:39 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_writeup\n#bucketlist\n#bug_bounty\n#bug_bounty_tips\n#authentication",
+        "date": "2026-07-26T00:03:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127270_0_6f216a81.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127270_1_3627041e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127270",
+        "link": {
+          "title": "One Header Away from 10+ GB of Customer Documents (PII) — $6K Bounty",
+          "url": "https://alvinferd.medium.com/one-header-away-from-10-gb-of-customer-documents-pii-6k-bounty-0c0ac8c335f2?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 127269,
         "text": "⤷\nTitle:\nIoT Walkthrough on HMV\n════════════════════════\n𐀪\nAuthor:\nSecurity Posture\n════════════════════════\nⴵ\nTime:\nSat, 25 Jul 2026 21:02:33 GMT\n════════════════════════\n⌗\nTags:\n#ctf_walkthrough\n#hackmyvm\n#ethical_hacking",
         "date": "2026-07-25T22:04:15+00:00",
@@ -2149,125 +2264,10 @@
           "title": "OpenAI’s Unintended Attack Against Hugging Face is a Warning of What is Coming",
           "url": "https://matthew-rosenquist.medium.com/openais-unintended-attack-against-hugging-face-is-a-warning-of-what-is-coming-7a5285e8f865?source=rss------hacking-5"
         }
-      },
-      {
-        "id": 127174,
-        "text": "⤷\nTitle:\nBeyond the Vendor Perimeter: Strategic Pentest for Third-Party Supply Chain Attacks\n════════════════════════\n𐀪\nAuthor:\nRajyavardhan Handa\n════════════════════════\nⴵ\nTime:\nFri, 24 Jul 2026 21:20:17 GMT\n════════════════════════\n⌗\nTags:\n#application_security\n#penetration_testing\n#cybersecurity\n#supply_chain_security",
-        "date": "2026-07-24T22:03:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127174_0_a27b7578.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127174_1_cfab6973.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127174",
-        "link": {
-          "title": "Beyond the Vendor Perimeter: Strategic Pentest for Third-Party Supply Chain Attacks",
-          "url": "https://medium.com/workday-engineering/beyond-the-vendor-perimeter-strategic-pentest-for-third-party-supply-chain-attacks-6df0c9f4c22f?source=rss------application_security-5"
-        }
-      },
-      {
-        "id": 127173,
-        "text": "⤷\nTitle:\nThe Hidden Control Room Beneath Windows: Enter the Registry, Where One Wrong Value Can Change…\n════════════════════════\n𐀪\nAuthor:\nDevansh Patel\n════════════════════════\nⴵ\nTime:\nFri, 24 Jul 2026 20:41:47 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#bug_bounty\n#pentesting\n#cybersecurity\n#windows",
-        "date": "2026-07-24T22:03:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127173_0_a27b7578.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127173_1_e2907fc6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127173",
-        "link": {
-          "title": "The Hidden Control Room Beneath Windows: Enter the Registry, Where One Wrong Value Can Change…",
-          "url": "https://meetcyber.net/the-hidden-control-room-beneath-windows-enter-the-registry-where-one-wrong-value-can-change-455e6681bf82?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 127172,
-        "text": "⤷\nTitle:\nTempest — TryHackMe Write-Up\n════════════════════════\n𐀪\nAuthor:\nDarshan\n════════════════════════\nⴵ\nTime:\nFri, 24 Jul 2026 18:32:38 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#soc\n#tryhackme",
-        "date": "2026-07-24T20:04:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127172_0_a27b7578.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127172_1_c79b0ad3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127172",
-        "link": {
-          "title": "Tempest — TryHackMe Write-Up",
-          "url": "https://medium.com/@darshan331740_89257/tempest-tryhackme-write-up-e3032293a054?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 127171,
-        "text": "⤷\nTitle:\nBoogeyman 1 — TryHackMe Write-Up\n════════════════════════\n𐀪\nAuthor:\nDarshan\n════════════════════════\nⴵ\nTime:\nFri, 24 Jul 2026 18:34:29 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#soc\n#tryhackme",
-        "date": "2026-07-24T20:04:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127171_0_a27b7578.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127171_1_b87e52b8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127171",
-        "link": {
-          "title": "Boogeyman 1 — TryHackMe Write-Up",
-          "url": "https://medium.com/@darshan331740_89257/boogeyman-1-tryhackme-write-up-24ded0e92ed5?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 127170,
-        "text": "⤷\nTitle:\nFrom Global Admin to Domain Admin: Reproducing the Cloud Kerberos Trust Attack\n════════════════════════\n𐀪\nAuthor:\nShebin53\n════════════════════════\nⴵ\nTime:\nFri, 24 Jul 2026 19:17:30 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#redteam_tool\n#red_team\n#penetration_testing",
-        "date": "2026-07-24T20:04:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127170_0_a27b7578.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127170_1_a54825b5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127170",
-        "link": {
-          "title": "From Global Admin to Domain Admin: Reproducing the Cloud Kerberos Trust Attack",
-          "url": "https://medium.com/@shebinjohn53/from-global-admin-to-domain-admin-reproducing-the-cloud-kerberos-trust-attack-1554c8f092fb?source=rss------penetration_testing-5"
-        }
       }
     ]
   },
-  "last_update": "2026-07-25T23:29:02.790510+00:00",
+  "last_update": "2026-07-26T01:04:50.244935+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2279,7 +2279,7 @@
     },
     "referenced_files": 191,
     "existing_media_files": 191,
-    "total_size_mb": 6.01,
-    "last_calculation": "2026-07-25T23:29:02.792832+00:00"
+    "total_size_mb": 5.92,
+    "last_calculation": "2026-07-26T01:04:50.246336+00:00"
   }
 }
