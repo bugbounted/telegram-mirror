@@ -2,6 +2,48 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 127364,
+        "text": "⤷\nTitle:\nJailbreak universal en modelos de IA\n════════════════════════\n𐀪\nAuthor:\nTU INSIGNIA\n════════════════════════\nⴵ\nTime:\nSun, 26 Jul 2026 18:37:33 GMT\n════════════════════════\n⌗\nTags:\n#ai\n#generative_ai_tools\n#cybersecurity\n#hacking\n#ai_agent",
+        "date": "2026-07-26T20:04:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127364_0_5a358906.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127364",
+        "link": {
+          "title": "Jailbreak universal en modelos de IA",
+          "url": "https://medium.com/@TUINSIGNIA/jailbreak-universal-en-modelos-de-ia-b74744edd715?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 127363,
+        "text": "⤷\nTitle:\nTwo Simple but Amazing Pre-Account Takeover (ATO) Ideas\n════════════════════════\n𐀪\nAuthor:\nMohamed Naser\n════════════════════════\nⴵ\nTime:\nSun, 26 Jul 2026 18:04:35 GMT\n════════════════════════\n⌗\nTags:\n#vulnerability\n#bug_bounty\n#cybersecurity\n#bug_bounty_tips\n#account_takeover",
+        "date": "2026-07-26T20:03:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127363_0_5a358906.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127363_1_188b7074.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127363",
+        "link": {
+          "title": "Two Simple but Amazing Pre-Account Takeover (ATO) Ideas",
+          "url": "https://medium.com/@mo_0xnaser/two-simple-but-amazing-pre-account-takeover-ato-ideas-b4a98311a5e9?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 127362,
         "text": "⤷\nTitle:\nadmin:admin123 — How Default Keycloak Credentials on a Cargo Training Environment Exposed 766…\n════════════════════════\n𐀪\nAuthor:\nPriyansh\n════════════════════════\nⴵ\nTime:\nSun, 26 Jul 2026 17:54:51 GMT\n════════════════════════\n⌗\nTags:\n#bugs\n#bug_bounty_tips\n#hacking\n#bug_bounty_writeup",
         "date": "2026-07-26T18:04:31+00:00",
@@ -2226,68 +2268,22 @@
           "title": "Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable",
           "url": "https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html"
         }
-      },
-      {
-        "id": 127264,
-        "text": "⤷\nTitle:\nPicoCTF — SQLiLite\n════════════════════════\n𐀪\nAuthor:\nJolie Catharine\n════════════════════════\nⴵ\nTime:\nSat, 25 Jul 2026 18:31:25 GMT\n════════════════════════\n⌗\nTags:\n#ctf_writeup\n#picoctf\n#sql_injection\n#web_exploitation\n#ctf",
-        "date": "2026-07-25T20:04:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127264_0_6f216a81.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127264_1_b41f4c9f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127264",
-        "link": {
-          "title": "PicoCTF — SQLiLite",
-          "url": "https://medium.com/@28.site/picoctf-sqlilite-de4d905d2a48?source=rss------sql_injection-5"
-        }
-      },
-      {
-        "id": 127263,
-        "text": "⤷\nTitle:\nSSRF with Filter Bypass via Open Redirection\n════════════════════════\n𐀪\nAuthor:\nAnubhav_bora\n════════════════════════\nⴵ\nTime:\nSat, 25 Jul 2026 18:31:01 GMT\n════════════════════════\n⌗\nTags:\n#ssrf\n#ctf\n#learning\n#cybersecurity\n#vulnerability",
-        "date": "2026-07-25T20:04:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127263_0_6f216a81.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127263_1_afccfde2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127263",
-        "link": {
-          "title": "SSRF with Filter Bypass via Open Redirection",
-          "url": "https://medium.com/@anubhavbora40/ssrf-with-filter-bypass-via-open-redirection-dcd2b570bde5?source=rss------ssrf-5"
-        }
       }
     ]
   },
-  "last_update": "2026-07-26T18:52:43.306961+00:00",
+  "last_update": "2026-07-26T20:04:03.231300+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 193,
-    "total_files": 193,
+    "total_media": 192,
+    "total_files": 192,
     "total_links": 0,
     "files_by_type": {
-      "image": 193
+      "image": 192
     },
-    "referenced_files": 193,
-    "existing_media_files": 193,
-    "total_size_mb": 5.03,
-    "last_calculation": "2026-07-26T18:52:43.309271+00:00"
+    "referenced_files": 192,
+    "existing_media_files": 192,
+    "total_size_mb": 4.99,
+    "last_calculation": "2026-07-26T20:04:03.233557+00:00"
   }
 }
