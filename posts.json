@@ -2,6 +2,412 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 127495,
+        "text": "⤷\nTitle:\nReading the patch instead of the code: SQL Injection in GLPI (CVE-2026–53629)\n════════════════════════\n𐀪\nAuthor:\nPaulo Werneck (5kr1pt)\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 13:52:40 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#offensive_security\n#sql_injection\n#vulnerability_research\n#cve",
+        "date": "2026-07-27T16:04:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127495_0_60c9dbc7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127495_1_a480f5a0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127495",
+        "link": {
+          "title": "Reading the patch instead of the code: SQL Injection in GLPI (CVE-2026–53629)",
+          "url": "https://medium.com/@pgwerneck5/reading-the-patch-instead-of-the-code-sql-injection-in-glpi-cve-2026-53629-f58f8aea68de?source=rss------sql_injection-5"
+        }
+      },
+      {
+        "id": 127494,
+        "text": "⤷\nTitle:\nDatabase developments DON’Ts\n════════════════════════\n𐀪\nAuthor:\nZahir Mohideen\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 15:46:51 GMT\n════════════════════════\n⌗\nTags:\n#explain_plan\n#sql\n#best_practices\n#sql_injection\n#database_development",
+        "date": "2026-07-27T16:04:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127494_0_60c9dbc7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127494_1_0bb8989a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127494",
+        "link": {
+          "title": "Database developments DON’Ts",
+          "url": "https://zahirmohideen.medium.com/database-developments-donts-f5206b2eb58b?source=rss------sql_injection-5"
+        }
+      },
+      {
+        "id": 127493,
+        "text": "⤷\nTitle:\nIntroduction\n════════════════════════\n𐀪\nAuthor:\nShreya Upadhyay\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 15:25:05 GMT\n════════════════════════\n⌗\nTags:\n#students\n#cybersecurity\n#content_creation\n#technology\n#ethical_hacking",
+        "date": "2026-07-27T16:04:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127493_0_60c9dbc7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127493_1_ef7e3312.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127493",
+        "link": {
+          "title": "Introduction",
+          "url": "https://medium.com/@upadhyayshreyaaa/introduction-72f4f698916d?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 127492,
+        "text": "⤷\nTitle:\nYACS — Ethical Hacking & Cybersecurity Course in Kerala\n════════════════════════\n𐀪\nAuthor:\nEldho Yacs\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 15:33:40 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking",
+        "date": "2026-07-27T16:04:47+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127492_0_60c9dbc7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127492_1_a9d906b4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127492",
+        "link": {
+          "title": "YACS — Ethical Hacking & Cybersecurity Course in Kerala",
+          "url": "https://medium.com/@eldho.yacs/yacs-ethical-hacking-cybersecurity-course-in-kerala-8035a8d23f40?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 127491,
+        "text": "⤷\nTitle:\nTryHackMe The Brochure Day 0 Challenge\n════════════════════════\n𐀪\nAuthor:\nBenedict\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 14:07:03 GMT\n════════════════════════\n⌗\nTags:\n#osint_investigation\n#tryhackme\n#osint",
+        "date": "2026-07-27T16:04:44+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127491_0_60c9dbc7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127491_1_c4dccda5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127491",
+        "link": {
+          "title": "TryHackMe The Brochure Day 0 Challenge",
+          "url": "https://bexxtrexx.medium.com/tryhackme-the-brochure-day-0-challenge-d72c002be396?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 127490,
+        "text": "⤷\nTitle:\nTryHackMe — Metasploit Meterpreter\n════════════════════════\n𐀪\nAuthor:\nUfuk Yaman\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 14:52:31 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#windows\n#metasploit\n#pentesting\n#exploitation",
+        "date": "2026-07-27T16:04:40+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127490_0_60c9dbc7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127490_1_e679ac90.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127490",
+        "link": {
+          "title": "TryHackMe — Metasploit Meterpreter",
+          "url": "https://medium.com/@ufukyaman2004/tryhackme-metasploit-meterpreter-90880f37b6f4?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 127489,
+        "text": "⤷\nTitle:\nTryHackMe: Passive Reconnaissance\n════════════════════════\n𐀪\nAuthor:\nChimeremeze\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 14:27:57 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#penetration_testing\n#cybersecurity",
+        "date": "2026-07-27T16:04:37+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127489_0_60c9dbc7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127489_1_5adadad7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127489",
+        "link": {
+          "title": "TryHackMe: Passive Reconnaissance",
+          "url": "https://medium.com/@eze_tg/tryhackme-passive-reconnaissance-a1dea31a0921?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 127488,
+        "text": "⤷\nTitle:\nVolatility — Memory Forensics\n════════════════════════\n𐀪\nAuthor:\nSAFAL GAUTAM\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 14:32:12 GMT\n════════════════════════\n⌗\nTags:\n#memory_forensics\n#hacking\n#cybersecurity\n#tools",
+        "date": "2026-07-27T16:04:33+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127488_0_60c9dbc7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127488_1_573b33a1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127488",
+        "link": {
+          "title": "Volatility — Memory Forensics",
+          "url": "https://safalgautam.medium.com/volatility-memory-forensics-8520fbe9b78a?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 127487,
+        "text": "⤷\nTitle:\nTryHeartMe THM write-up\n════════════════════════\n𐀪\nAuthor:\nCreepus\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 15:31:01 GMT\n════════════════════════\n⌗\nTags:\n#labs\n#writeup\n#solved\n#hacking\n#tryhackme",
+        "date": "2026-07-27T16:04:30+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127487_0_60c9dbc7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127487_1_64895c4f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127487",
+        "link": {
+          "title": "TryHeartMe THM write-up",
+          "url": "https://medium.com/@creepus/tryheartme-thm-write-up-a4ffb5e4cc7d?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 127486,
+        "text": "⤷\nTitle:\nHow a Hidden GraphQL Endpoint Led Me to a Critical SQL Injection Worth €2,500\n════════════════════════\n𐀪\nAuthor:\n0xSADAT\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 14:58:18 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_writeup\n#infosec\n#bug_bounty\n#info_sec_writeups\n#cybersecurity",
+        "date": "2026-07-27T16:04:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127486_0_60c9dbc7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127486_1_99fef227.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127486",
+        "link": {
+          "title": "How a Hidden GraphQL Endpoint Led Me to a Critical SQL Injection Worth €2,500",
+          "url": "https://medium.com/@0x0sadat/how-a-hidden-graphql-endpoint-led-me-to-a-critical-sql-injection-worth-2-500-a2e39521944b?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 127485,
+        "text": "⤷\nTitle:\nKimsuky Hacked South Korean Groupware Vendors With New Gomir Variants\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 14:01:28 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#BirdTroy\n#DriveTroy\n#Gomir\n#HttpTroy\n#Kimsuky\n#Linux\nBackdoor\n#North\nKorea\n#supply\nchain attack",
+        "date": "2026-07-27T16:04:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127485_0_60c9dbc7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127485_1_89ff64dd.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127485",
+        "link": {
+          "title": "Kimsuky Hacked South Korean Groupware Vendors With New Gomir Variants",
+          "url": "https://securityonline.info/kimsuky-gomir-variant-groupware/"
+        }
+      },
+      {
+        "id": 127484,
+        "text": "⤷\nTitle:\nVMRay Exposes Operation STANDOFF, a Russian-Speaking Intrusion Campaign Hidden Behind GitHub\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 14:50:14 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#active\ndirectory\n#Operation\nSTANDOFF\n#proxy\nbotnet\n#Raccoon\nStealer\n#Russian_speaking\nthreat group\n#Telegram\naccount farm\n#VMRay",
+        "date": "2026-07-27T16:04:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127484_0_60c9dbc7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127484_1_da8333ad.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127484",
+        "link": {
+          "title": "VMRay Exposes Operation STANDOFF, a Russian-Speaking Intrusion Campaign Hidden Behind GitHub",
+          "url": "https://securityonline.info/operation-standoff-russian-threat-group/"
+        }
+      },
+      {
+        "id": 127483,
+        "text": "⤷\nTitle:\nCVE-2026-16812: VeloCloud Orchestrator OS Command Injection (CVSS 10) Exploited in the Wild\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 15:26:35 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Arista\n#CVE_2026_16812\n#CVE_2026_17191\n#CVE_2026_17192\n#exploited\nin the wild\n#os\ncommand injection\n#ssrf\n#VCO\n#VeloCloud\n#VeloCloud\nOrchestrator",
+        "date": "2026-07-27T16:04:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127483_0_60c9dbc7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127483_1_d660b514.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127483",
+        "link": {
+          "title": "CVE-2026-16812: VeloCloud Orchestrator OS Command Injection (CVSS 10) Exploited in the Wild",
+          "url": "https://securityonline.info/velocloud-command-injection-cve-2026-16812/"
+        }
+      },
+      {
+        "id": 127482,
+        "text": "⤷\nTitle:\nIranian Hackers Modify PLC Logic in US Infrastructure Attacks\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 14:09:38 +0000\n════════════════════════\n⌗\nTags:\n#Cyber\nSecurity\n#CISA\nAdvisory\n#Critical\nInfrastructure\n#ICS\nSecurity\n#Iranian\nhackers\n#PLC\nHacking",
+        "date": "2026-07-27T16:04:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127482_0_60c9dbc7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127482_1_fc55609b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127482",
+        "link": {
+          "title": "Iranian Hackers Modify PLC Logic in US Infrastructure Attacks",
+          "url": "https://meterpreter.org/iranian-hackers-modify-plc-logic/"
+        }
+      },
+      {
+        "id": 127481,
+        "text": "⤷\nTitle:\nCritical GitLab RCE Vulnerability Exposed in Oj JSON Parser\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 15:00:55 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\n#Gitlab\n#Jupyter\nNotebook\n#Oj\nParser\n#remote\ncode execution\n#vulnerability",
+        "date": "2026-07-27T16:04:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127481_0_60c9dbc7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127481_1_84ff6258.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127481",
+        "link": {
+          "title": "Critical GitLab RCE Vulnerability Exposed in Oj JSON Parser",
+          "url": "https://meterpreter.org/gitlab-rce-vulnerability-oj-json-parser/"
+        }
+      },
+      {
+        "id": 127480,
+        "text": "⤷\nTitle:\nHackers Compromise Hotel Wi-Fi Gateways to Hijack Microsoft 365 Accounts\n════════════════════════\n𐀪\nAuthor:\nWaqas\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 14:43:57 +0000\n════════════════════════\n⌗\nTags:\n#Security\n#Phishing\nScam\n#APT28\n#Cyber\nAttack\n#Cybersecurity\n#Fancy\nBear\n#Forest\nBlizzard\n#Hotels\n#Microsoft\n#Microsoft\n365\n#Phishing\n#ReliaQuest\n#Scam\n#WIFI",
+        "date": "2026-07-27T16:04:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127480_0_60c9dbc7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127480_1_a6f7689a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127480",
+        "link": {
+          "title": "Hackers Compromise Hotel Wi-Fi Gateways to Hijack Microsoft 365 Accounts",
+          "url": "https://hackread.com/hackers-hotel-wi-fi-gateways-hijack-microsoft-365-accounts/"
+        }
+      },
+      {
+        "id": 127479,
+        "text": "⤷\nTitle:\n⚡\nWeekly Recap: Rogue AI Agents, Check Point Exploit, Slopsquatting, ClickFix Lures and More\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 19:40:54 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-07-27T16:04:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127479_0_60c9dbc7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127479",
+        "link": {
+          "title": "⚡Weekly Recap: Rogue AI Agents, Check Point Exploit, Slopsquatting, ClickFix Lures and More",
+          "url": "https://thehackernews.com/2026/07/weekly-recap-rogue-ai-agents-check.html"
+        }
+      },
+      {
+        "id": 127478,
+        "text": "⤷\nTitle:\nPublic Exploit Released for Patched vBulletin Pre-Auth Code Execution Flaw\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 20:10:00 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-07-27T16:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127478_0_60c9dbc7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127478",
+        "link": {
+          "title": "Public Exploit Released for Patched vBulletin Pre-Auth Code Execution Flaw",
+          "url": "https://thehackernews.com/2026/07/public-exploit-released-for-patched.html"
+        }
+      },
+      {
         "id": 127477,
         "text": "⤷\nTitle:\nWhen Does an API Become a Security Vulnerability?\n════════════════════════\n𐀪\nAuthor:\n@dsfglobal\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 13:22:34 GMT\n════════════════════════\n⌗\nTags:\n#api\n#api_security\n#api_testing",
         "date": "2026-07-27T14:05:25+00:00",
@@ -1870,424 +2276,22 @@
           "title": "Blue — TryHackMe",
           "url": "https://medium.com/@moatef7308/blue-tryhackme-761d754100f2?source=rss------penetration_testing-5"
         }
-      },
-      {
-        "id": 127365,
-        "text": "⤷\nTitle:\nBuilding Bug Bounty Recon Pipeline: From Target Domain to Vulnerability Discovery\n════════════════════════\n𐀪\nAuthor:\nA. AntorCSE404\n════════════════════════\nⴵ\nTime:\nSun, 26 Jul 2026 18:17:05 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#pentesting\n#hacking\n#programming\n#cybersecurity",
-        "date": "2026-07-26T20:04:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127365_0_5a358906.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127365_1_9710871d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127365",
-        "link": {
-          "title": "Building Bug Bounty Recon Pipeline: From Target Domain to Vulnerability Discovery",
-          "url": "https://medium.com/@antor.csecu/building-bug-bounty-recon-pipeline-from-target-domain-to-vulnerability-discovery-cdc3e90e7a20?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 127364,
-        "text": "⤷\nTitle:\nJailbreak universal en modelos de IA\n════════════════════════\n𐀪\nAuthor:\nTU INSIGNIA\n════════════════════════\nⴵ\nTime:\nSun, 26 Jul 2026 18:37:33 GMT\n════════════════════════\n⌗\nTags:\n#ai\n#generative_ai_tools\n#cybersecurity\n#hacking\n#ai_agent",
-        "date": "2026-07-26T20:04:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127364_0_5a358906.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127364",
-        "link": {
-          "title": "Jailbreak universal en modelos de IA",
-          "url": "https://medium.com/@TUINSIGNIA/jailbreak-universal-en-modelos-de-ia-b74744edd715?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 127363,
-        "text": "⤷\nTitle:\nTwo Simple but Amazing Pre-Account Takeover (ATO) Ideas\n════════════════════════\n𐀪\nAuthor:\nMohamed Naser\n════════════════════════\nⴵ\nTime:\nSun, 26 Jul 2026 18:04:35 GMT\n════════════════════════\n⌗\nTags:\n#vulnerability\n#bug_bounty\n#cybersecurity\n#bug_bounty_tips\n#account_takeover",
-        "date": "2026-07-26T20:03:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127363_0_5a358906.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127363_1_188b7074.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127363",
-        "link": {
-          "title": "Two Simple but Amazing Pre-Account Takeover (ATO) Ideas",
-          "url": "https://medium.com/@mo_0xnaser/two-simple-but-amazing-pre-account-takeover-ato-ideas-b4a98311a5e9?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 127362,
-        "text": "⤷\nTitle:\nadmin:admin123 — How Default Keycloak Credentials on a Cargo Training Environment Exposed 766…\n════════════════════════\n𐀪\nAuthor:\nPriyansh\n════════════════════════\nⴵ\nTime:\nSun, 26 Jul 2026 17:54:51 GMT\n════════════════════════\n⌗\nTags:\n#bugs\n#bug_bounty_tips\n#hacking\n#bug_bounty_writeup",
-        "date": "2026-07-26T18:04:31+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127362_0_5a358906.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127362_1_d349652d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127362",
-        "link": {
-          "title": "admin:admin123 — How Default Keycloak Credentials on a Cargo Training Environment Exposed 766…",
-          "url": "https://medium.com/@priyanshbhadoria5/admin-admin123-how-default-keycloak-credentials-on-a-cargo-training-environment-exposed-766-f026dcf45023?source=rss------bug_bounty_writeup-5"
-        }
-      },
-      {
-        "id": 127361,
-        "text": "⤷\nTitle:\nDay 20: YARA Rules — The Language of Malware Detection\n════════════════════════\n𐀪\nAuthor:\nSIAM AHMED\n════════════════════════\nⴵ\nTime:\nSun, 26 Jul 2026 16:16:46 GMT\n════════════════════════\n⌗\nTags:\n#soc_analyst\n#deep_learning\n#cybersecurity\n#yara_rules\n#ethical_hacking",
-        "date": "2026-07-26T18:04:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127361_0_5a358906.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127361_1_fe42d2e1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127361",
-        "link": {
-          "title": "Day 20: YARA Rules — The Language of Malware Detection",
-          "url": "https://medium.com/@ahmedseam094/day-20-yara-rules-the-language-of-malware-detection-f0f92d28a494?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 127360,
-        "text": "⤷\nTitle:\nEviction — TryHackMe SOC Level 1 CTF Walkthrough 2/12\n════════════════════════\n𐀪\nAuthor:\nCallum Clark\n════════════════════════\nⴵ\nTime:\nSun, 26 Jul 2026 16:48:50 GMT\n════════════════════════\n⌗\nTags:\n#ctf_writeup\n#ctf\n#cybersecurity\n#tryhackme\n#technology",
-        "date": "2026-07-26T18:04:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127360_0_5a358906.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127360_1_57e534ed.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127360",
-        "link": {
-          "title": "Eviction — TryHackMe SOC Level 1 CTF Walkthrough 2/12",
-          "url": "https://medium.com/@cjc.cyber/eviction-tryhackme-soc-level-1-ctf-walkthrough-2-12-687a50039869?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 127359,
-        "text": "⤷\nTitle:\nOffensive Security Intro (versão em português)\n════════════════════════\n𐀪\nAuthor:\nChris Mineff\n════════════════════════\nⴵ\nTime:\nSun, 26 Jul 2026 17:02:58 GMT\n════════════════════════\n⌗\nTags:\n#pentesting\n#cibersecurity\n#tryhackme\n#pentest\n#tryhackme_walkthrough",
-        "date": "2026-07-26T18:04:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127359_0_5a358906.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127359",
-        "link": {
-          "title": "Offensive Security Intro (versão em português)",
-          "url": "https://medium.com/@c.mineff/offensive-security-intro-vers%C3%A3o-em-portugu%C3%AAs-4190693ebd6e?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 127358,
-        "text": "⤷\nTitle:\nRecruit — THM Writeup\n════════════════════════\n𐀪\nAuthor:\naryqmn\n════════════════════════\nⴵ\nTime:\nSun, 26 Jul 2026 17:59:41 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#tryhackme\n#local_file_inclusion\n#sql_injection",
-        "date": "2026-07-26T18:04:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127358_0_5a358906.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127358_1_d44f16c6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127358",
-        "link": {
-          "title": "Recruit — THM Writeup",
-          "url": "https://medium.com/@aryqmn/recruit-thm-writeup-0f71da8b6bfb?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 127357,
-        "text": "⤷\nTitle:\nWhat an Android App Really Sends: Intercepting Traffic with Burp\n════════════════════════\n𐀪\nAuthor:\nKarolisM\n════════════════════════\nⴵ\nTime:\nSun, 26 Jul 2026 17:40:47 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#mobile_security\n#burpsuite\n#penetration_testing\n#android",
-        "date": "2026-07-26T18:04:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127357_0_5a358906.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127357_1_3f1c33c1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127357",
-        "link": {
-          "title": "What an Android App Really Sends: Intercepting Traffic with Burp",
-          "url": "https://medium.com/@karollismarmokas/what-an-android-app-really-sends-intercepting-traffic-with-burp-503bd9bd7972?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 127356,
-        "text": "⤷\nTitle:\nMalicious AI Agents: How Autonomous Systems Are Reshaping the Cyber Threat Landscape\n════════════════════════\n𐀪\nAuthor:\nMeravytes\n════════════════════════\nⴵ\nTime:\nSun, 26 Jul 2026 17:31:16 GMT\n════════════════════════\n⌗\nTags:\n#artificial_intelligence\n#cybersecurity\n#infosec\n#meravytes",
-        "date": "2026-07-26T18:04:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127356_0_5a358906.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127356_1_86e737f2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127356",
-        "link": {
-          "title": "Malicious AI Agents: How Autonomous Systems Are Reshaping the Cyber Threat Landscape",
-          "url": "https://meravytes.medium.com/malicious-ai-agents-how-autonomous-systems-are-reshaping-the-cyber-threat-landscape-33e5b9c8efeb?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 127355,
-        "text": "⤷\nTitle:\nIntroduction to Data Directory (PE)-Nir(9)\n════════════════════════\n𐀪\nAuthor:\nNIRVANA\n════════════════════════\nⴵ\nTime:\nSun, 26 Jul 2026 16:06:21 GMT\n════════════════════════\n⌗\nTags:\n#windows\n#malware\n#cybersecurity\n#portable_executable\n#hacking",
-        "date": "2026-07-26T18:04:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127355_0_5a358906.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127355_1_2250a22b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127355",
-        "link": {
-          "title": "Introduction to Data Directory (PE)-Nir(9)",
-          "url": "https://0xnirsec.medium.com/introduction-to-data-directory-pe-nir-9-0d2d26cfbcbe?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 127354,
-        "text": "⤷\nTitle:\nHow to Protect Your Social Media Accounts from Unauthorized Access: A Complete 2026 Guide\n════════════════════════\n𐀪\nAuthor:\nGhostWriter\n════════════════════════\nⴵ\nTime:\nSun, 26 Jul 2026 17:02:04 GMT\n════════════════════════\n⌗\nTags:\n#medium\n#hacking\n#artificial_intelligence\n#social_media\n#cybersecurity",
-        "date": "2026-07-26T18:04:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127354_0_5a358906.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127354_1_fefbe43d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127354",
-        "link": {
-          "title": "How to Protect Your Social Media Accounts from Unauthorized Access: A Complete 2026 Guide",
-          "url": "https://medium.com/@cipherseekers3/how-to-protect-your-social-media-accounts-from-unauthorized-access-a-complete-2026-guide-2c14c17a18de?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 127353,
-        "text": "⤷\nTitle:\nReleasing Faction 2.0 at BlackHat Arsenal 2026\n════════════════════════\n𐀪\nAuthor:\nFaction Security\n════════════════════════\nⴵ\nTime:\nSun, 26 Jul 2026 17:30:03 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#red_team\n#pentesting\n#hacking\n#application_security",
-        "date": "2026-07-26T18:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127353_0_5a358906.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127353_1_5edf958e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127353",
-        "link": {
-          "title": "Releasing Faction 2.0 at BlackHat Arsenal 2026",
-          "url": "https://we-are-faction.medium.com/releasing-faction-2-0-at-blackhat-arsenal-2026-c7601986edc2?source=rss------application_security-5"
-        }
-      },
-      {
-        "id": 127352,
-        "text": "⤷\nTitle:\nMastering Passive Reconnaissance\n════════════════════════\n𐀪\nAuthor:\nMohamed Sameh\n════════════════════════\nⴵ\nTime:\nSun, 26 Jul 2026 16:06:36 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#osint\n#penetration_testing\n#ethical_hacking\n#cybersecurity",
-        "date": "2026-07-26T18:03:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127352_0_5a358906.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127352_1_1c55f79c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127352",
-        "link": {
-          "title": "Mastering Passive Reconnaissance",
-          "url": "https://medium.com/@mohamedsamehms15/mastering-passive-reconnaissance-27af81a777fd?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 127351,
-        "text": "⤷\nTitle:\nWhat I Learned Today\n════════════════════════\n𐀪\nAuthor:\nCyberSum\n════════════════════════\nⴵ\nTime:\nSun, 26 Jul 2026 14:26:05 GMT\n════════════════════════\n⌗\nTags:\n#self_improvement\n#information_security\n#cybersecurity\n#blue_team\n#ethical_hacking",
-        "date": "2026-07-26T16:04:22+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127351_0_5a358906.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127351_1_40242a7c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127351",
-        "link": {
-          "title": "What I Learned Today",
-          "url": "https://cybersum.medium.com/what-i-learned-today-4228e3367ba3?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 127350,
-        "text": "⤷\nTitle:\nWrite-up for “Billing” room in Tryhackme\n════════════════════════\n𐀪\nAuthor:\nLi67t\n════════════════════════\nⴵ\nTime:\nSun, 26 Jul 2026 15:07:58 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#boot2root\n#ethical_hacking\n#pentesting",
-        "date": "2026-07-26T16:04:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127350_0_5a358906.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127350_1_8d9ca6b7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127350",
-        "link": {
-          "title": "Write-up for “Billing” room in Tryhackme",
-          "url": "https://medium.com/@aitouflihanouar/write-up-for-billing-room-in-tryhackme-acff90aeb958?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 127349,
-        "text": "⤷\nTitle:\nRetro (THM) Tryhackme Hard Challenge\n════════════════════════\n𐀪\nAuthor:\nLawvye\n════════════════════════\nⴵ\nTime:\nSun, 26 Jul 2026 14:20:06 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#hacking\n#privilege_escalation\n#pwn\n#cybersecurity",
-        "date": "2026-07-26T16:04:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127349_0_5a358906.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127349_1_211edb4d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127349",
-        "link": {
-          "title": "Retro (THM) Tryhackme Hard Challenge",
-          "url": "https://medium.com/@lawvye/retro-thm-tryhackme-hard-challenge-eac1e93738b2?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 127348,
-        "text": "⤷\nTitle:\nWhy Scanners Lie\n════════════════════════\n𐀪\nAuthor:\nYassin Hamada\n════════════════════════\nⴵ\nTime:\nSun, 26 Jul 2026 15:23:34 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#cybersecurity\n#hacking\n#infosec",
-        "date": "2026-07-26T16:04:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127348_0_5a358906.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127348",
-        "link": {
-          "title": "Why Scanners Lie",
-          "url": "https://medium.com/@hdhffxfg/why-scanners-lie-21922cd7e8b8?source=rss------bug_bounty-5"
-        }
       }
     ]
   },
-  "last_update": "2026-07-27T14:06:34.487712+00:00",
+  "last_update": "2026-07-27T16:38:42.505017+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 193,
-    "total_files": 193,
+    "total_media": 194,
+    "total_files": 194,
     "total_links": 0,
     "files_by_type": {
-      "image": 193
+      "image": 194
     },
-    "referenced_files": 193,
-    "existing_media_files": 193,
-    "total_size_mb": 5.82,
-    "last_calculation": "2026-07-27T14:06:34.490051+00:00"
+    "referenced_files": 194,
+    "existing_media_files": 194,
+    "total_size_mb": 5.83,
+    "last_calculation": "2026-07-27T16:38:42.507360+00:00"
   }
 }
