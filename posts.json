@@ -2,6 +2,454 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 127611,
+        "text": "⤷\nTitle:\nSSRF in AI Agents: Why a Tool Call Is All It Takes (and How to Block It at Egress)\n════════════════════════\n𐀪\nAuthor:\nAgentG\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 08:02:43 GMT\n════════════════════════\n⌗\nTags:\n#ssrf\n#devsecops\n#cloud_security\n#ai_security\n#llm_agent",
+        "date": "2026-07-28T10:04:45+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127611_0_cad6c4f8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127611_1_d808d281.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127611",
+        "link": {
+          "title": "SSRF in AI Agents: Why a Tool Call Is All It Takes (and How to Block It at Egress)",
+          "url": "https://medium.com/@agentg.dev/ssrf-in-ai-agents-why-a-tool-call-is-all-it-takes-and-how-to-block-it-at-egress-07c24c3119cb?source=rss------ssrf-5"
+        }
+      },
+      {
+        "id": 127610,
+        "text": "⤷\nTitle:\nWhat Claude Shared Links Teach Us About Frontend Security\n════════════════════════\n𐀪\nAuthor:\nStefano Ricci\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 09:21:01 GMT\n════════════════════════\n⌗\nTags:\n#frontend_development\n#api_security\n#ai_coding\n#claude_ai\n#web_security",
+        "date": "2026-07-28T10:04:41+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127610_0_cad6c4f8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127610_1_e4b0f2ff.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127610",
+        "link": {
+          "title": "What Claude Shared Links Teach Us About Frontend Security",
+          "url": "https://stefanoricci-pizza.medium.com/what-claude-shared-links-teach-us-about-frontend-security-851075988ffd?source=rss------api_security-5"
+        }
+      },
+      {
+        "id": 127609,
+        "text": "⤷\nTitle:\nTHM: The Great Disappearing Act Walkthrough\n════════════════════════\n𐀪\nAuthor:\nOnix.09\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 07:52:29 GMT\n════════════════════════\n⌗\nTags:\n#thm_writeup\n#thm_walkthrough\n#tryhackme\n#thegreat_disappearing_act\n#thm",
+        "date": "2026-07-28T10:04:38+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127609_0_cad6c4f8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127609_1_ca46a400.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127609",
+        "link": {
+          "title": "THM: The Great Disappearing Act Walkthrough",
+          "url": "https://medium.com/@aryanmalto9/thm-the-great-disappearing-act-walkthrough-b634d7d3c6d4?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 127608,
+        "text": "⤷\nTitle:\nThe Concierge Knows Too Much || TryHackMe Complete Walkthrough\n════════════════════════\n𐀪\nAuthor:\nRakshika\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 07:52:51 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#walkthrough\n#cybersecurity\n#tryhackme_writeup\n#tryhackme_walkthrough",
+        "date": "2026-07-28T10:04:35+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127608_0_cad6c4f8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127608_1_ec474e0c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127608",
+        "link": {
+          "title": "The Concierge Knows Too Much || TryHackMe Complete Walkthrough",
+          "url": "https://medium.com/@mico01/the-concierge-knows-too-much-tryhackme-complete-walkthrough-448391c711d9?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 127607,
+        "text": "⤷\nTitle:\nMetasploit: Meterpreter TryHackMe Room Walkthrough (Part 3)\n════════════════════════\n𐀪\nAuthor:\nAmr Sebie\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 08:56:04 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_writeup\n#tryhackme_walkthrough\n#pentesting\n#metasploit\n#tryhackme",
+        "date": "2026-07-28T10:04:31+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127607_0_cad6c4f8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127607_1_25d73097.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127607",
+        "link": {
+          "title": "Metasploit: Meterpreter TryHackMe Room Walkthrough (Part 3)",
+          "url": "https://medium.com/@asoubea/metasploit-meterpreter-tryhackme-room-walkthrough-cae1aa75bfe6?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 127606,
+        "text": "⤷\nTitle:\nMetasploit: Exploitation TryHackMe Room Walkthrough (Part 2)\n════════════════════════\n𐀪\nAuthor:\nAmr Sebie\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 07:39:38 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_walkthrough\n#tryhackme\n#tryhackme_writeup\n#penetration_testing\n#metasploit",
+        "date": "2026-07-28T10:04:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127606_0_cad6c4f8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127606_1_53cf5a24.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127606",
+        "link": {
+          "title": "Metasploit: Exploitation TryHackMe Room Walkthrough (Part 2)",
+          "url": "https://medium.com/@asoubea/metasploit-exploitation-tryhackme-room-walkthrough-75b5e270e4fa?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 127605,
+        "text": "⤷\nTitle:\nThe Ultimate Nmap Cheat Sheet\n════════════════════════\n𐀪\nAuthor:\nMohamed Sameh\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 09:53:14 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#ethical_hacking\n#cybersecurity\n#nmap\n#reconnaissance",
+        "date": "2026-07-28T10:04:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127605_0_cad6c4f8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127605_1_aac90742.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127605",
+        "link": {
+          "title": "The Ultimate Nmap Cheat Sheet",
+          "url": "https://medium.com/@Mohamed_Sameh/the-ultimate-nmap-cheat-sheet-8c5967692ee5?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 127604,
+        "text": "⤷\nTitle:\nEthical Hacking\n════════════════════════\n𐀪\nAuthor:\nExcellence technology\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 08:21:39 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#ethical_hacker\n#certified_ethical_hacker\n#professional_development\n#hacking",
+        "date": "2026-07-28T10:04:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127604_0_cad6c4f8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127604_1_43858a11.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127604",
+        "link": {
+          "title": "Ethical Hacking",
+          "url": "https://medium.com/@excellencetechnology49/ethical-hacking-d71b35fd170c?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 127603,
+        "text": "⤷\nTitle:\nWhy I Chase What Other People Ignore\n════════════════════════\n𐀪\nAuthor:\nYassin Hamada\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 09:00:49 GMT\n════════════════════════\n⌗\nTags:\n#yassin_hamada\n#artificial_intelligence\n#hacking\n#cybersecurity\n#infosec",
+        "date": "2026-07-28T10:04:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127603_0_cad6c4f8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127603",
+        "link": {
+          "title": "Why I Chase What Other People Ignore",
+          "url": "https://medium.com/@hdhffxfg/why-i-chase-what-other-people-ignore-69c439745874?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 127602,
+        "text": "⤷\nTitle:\nAI Software Engineering: The End Of Vulnerability Management?\n════════════════════════\n𐀪\nAuthor:\nLeon Marks\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 09:21:13 GMT\n════════════════════════\n⌗\nTags:\n#application_security\n#software_engineering\n#cybersecurity\n#artificial_intelligence\n#devsecops",
+        "date": "2026-07-28T10:04:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127602_0_cad6c4f8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127602_1_513cecdd.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127602",
+        "link": {
+          "title": "AI Software Engineering: The End Of Vulnerability Management?",
+          "url": "https://medium.com/@00leonmarks00/ai-software-engineering-the-end-of-vulnerability-management-968d65e503ae?source=rss------application_security-5"
+        }
+      },
+      {
+        "id": 127601,
+        "text": "⤷\nTitle:\nRuby on Rails — ransack\n════════════════════════\n𐀪\nAuthor:\nBelhajrhoumanassim\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 08:05:30 GMT\n════════════════════════\n⌗\nTags:\n#ctf\n#ransack\n#cybersecurity\n#bug_bounty\n#root_me",
+        "date": "2026-07-28T10:04:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127601_0_cad6c4f8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127601_1_0bd20290.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127601",
+        "link": {
+          "title": "Ruby on Rails — ransack",
+          "url": "https://medium.com/@belhajrhoumanassim3/ruby-on-rails-ransack-63655c2037b6?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 127600,
+        "text": "⤷\nTitle:\nAccount Takeover via XSS + CSRF and Browser Autofill Password\n════════════════════════\n𐀪\nAuthor:\nMohamedmehina\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 08:06:30 GMT\n════════════════════════\n⌗\nTags:\n#csrf\n#xss_attack\n#account_takeover\n#browser_autofill\n#bug_bounty",
+        "date": "2026-07-28T10:04:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127600_0_cad6c4f8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127600_1_f8f89576.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127600",
+        "link": {
+          "title": "Account Takeover via XSS + CSRF and Browser Autofill Password",
+          "url": "https://medium.com/@mohamedmehina31/account-takeover-via-xss-csrf-and-browser-autofill-password-8f8a00fd9ae3?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 127599,
+        "text": "⤷\nTitle:\nHow I found an IDOR in Google Classroom on Day 3 of my Hunting?\n════════════════════════\n𐀪\nAuthor:\nMarrij Ali Khan\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 08:56:56 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_writeup\n#bug_bounty\n#google\n#idor\n#infosec_write_ups",
+        "date": "2026-07-28T10:04:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127599_0_cad6c4f8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127599_1_b24dd2c3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127599",
+        "link": {
+          "title": "How I found an IDOR in Google Classroom on Day 3 of my Hunting?",
+          "url": "https://infosecwriteups.com/how-i-found-an-idor-in-google-classroom-on-day-3-of-my-hunting-abffd039406c?source=rss----7b722bfd1b8d--bug_bounty"
+        }
+      },
+      {
+        "id": 127598,
+        "text": "⤷\nTitle:\nInsikt Group Finds Four New Golden Chickens Malware Families\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 08:01:07 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#ChonkyChicken\n#ChromEggscalator\n#ClickFix\n#Golden\nChickens\n#Insikt\nGroup\n#Malware_as_a_Service\n#TAG_195\n#TinyEgg\n#Venom\nSpider",
+        "date": "2026-07-28T10:04:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127598_0_cad6c4f8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127598_1_1befdc9f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127598",
+        "link": {
+          "title": "Insikt Group Finds Four New Golden Chickens Malware Families",
+          "url": "https://securityonline.info/golden-chickens-malware-tag-195/"
+        }
+      },
+      {
+        "id": 127597,
+        "text": "⤷\nTitle:\nMicrosoft Unveils Project Perception, an Agentic Security System\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 08:50:23 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#Agentic\nAI\n#AI\nsecurity\n#cybersecurity\n#Microsoft\n#Project\nPerception",
+        "date": "2026-07-28T10:03:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127597_0_cad6c4f8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127597_1_9606b759.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127597",
+        "link": {
+          "title": "Microsoft Unveils Project Perception, an Agentic Security System",
+          "url": "https://securityonline.info/microsoft-project-perception-agentic-security/"
+        }
+      },
+      {
+        "id": 127596,
+        "text": "⤷\nTitle:\nResearcher Says AI Helped Develop Linux Traffic-Control Race Into Root Exploit\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 13:34:44 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-07-28T10:03:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127596_0_cad6c4f8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127596",
+        "link": {
+          "title": "Researcher Says AI Helped Develop Linux Traffic-Control Race Into Root Exploit",
+          "url": "https://thehackernews.com/2026/07/researcher-says-ai-helped-develop-linux.html"
+        }
+      },
+      {
+        "id": 127595,
+        "text": "⤷\nTitle:\nCritical TeamCity Flaw Could Let Attackers Run OS Commands Without Logging In\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 13:41:22 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-07-28T10:03:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127595_0_cad6c4f8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127595",
+        "link": {
+          "title": "Critical TeamCity Flaw Could Let Attackers Run OS Commands Without Logging In",
+          "url": "https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html"
+        }
+      },
+      {
+        "id": 127594,
+        "text": "⤷\nTitle:\nFrom Zero to a $30K-Per-Video Agency: Breaking Down Mark Vasilevsky’s X Playbook\n════════════════════════\n𐀪\nAuthor:\nRaimbek Iskendirov\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 07:50:32 GMT\n════════════════════════\n⌗\nTags:\n#design\n#xs\n#business",
+        "date": "2026-07-28T08:05:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127594_0_cad6c4f8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127594_1_4f9b07a2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127594",
+        "link": {
+          "title": "From Zero to a $30K-Per-Video Agency: Breaking Down Mark Vasilevsky’s X Playbook",
+          "url": "https://medium.com/@ryambek/from-zero-to-a-30k-per-video-agency-breaking-down-mark-vasilevskys-x-playbook-325ad722f296?source=rss------xss-5"
+        }
+      },
+      {
+        "id": 127593,
+        "text": "⤷\nTitle:\nLearn Ethical Hacking at Home: Step-by-Step Roadmap for Beginners (2026)\n════════════════════════\n𐀪\nAuthor:\nQnaydshackersacadamy\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 06:52:07 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ethical_hacking\n#ai",
+        "date": "2026-07-28T08:05:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127593_0_cad6c4f8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127593_1_270d463f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127593",
+        "link": {
+          "title": "Learn Ethical Hacking at Home: Step-by-Step Roadmap for Beginners (2026)",
+          "url": "https://medium.com/@qnaydshackersacadamy/learn-ethical-hacking-at-home-step-by-step-roadmap-for-beginners-2026-25ccd507a777?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 127592,
+        "text": "⤷\nTitle:\nThe Login Page Looked Secure. One URL Parameter Proved Otherwise.\n════════════════════════\n𐀪\nAuthor:\nNeova Solutions\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 08:01:02 GMT\n════════════════════════\n⌗\nTags:\n#application_security\n#ethical_hacking\n#penetration_testing\n#sql_injection\n#cybersecurity",
+        "date": "2026-07-28T08:05:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127592_0_cad6c4f8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127592_1_0e00e505.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127592",
+        "link": {
+          "title": "The Login Page Looked Secure. One URL Parameter Proved Otherwise.",
+          "url": "https://neovasolutions.medium.com/the-login-page-looked-secure-one-url-parameter-proved-otherwise-9e058ce752f0?source=rss------ethical_hacking-5"
+        }
+      },
+      {
         "id": 127569,
         "text": "⤷\nTitle:\nMeow HTB machine | HackTheBox machine |\n════════════════════════\n𐀪\nAuthor:\nDipankar Paul\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 04:27:48 GMT\n════════════════════════\n⌗\nTags:\n#htb\n#hackthebox\n#hackthebox_writeup\n#hackthebox_meow",
         "date": "2026-07-28T06:04:24+00:00",
@@ -1832,458 +2280,10 @@
           "title": "Kimsuky Hacked South Korean Groupware Vendors With New Gomir Variants",
           "url": "https://securityonline.info/kimsuky-gomir-variant-groupware/"
         }
-      },
-      {
-        "id": 127484,
-        "text": "⤷\nTitle:\nVMRay Exposes Operation STANDOFF, a Russian-Speaking Intrusion Campaign Hidden Behind GitHub\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 14:50:14 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#active\ndirectory\n#Operation\nSTANDOFF\n#proxy\nbotnet\n#Raccoon\nStealer\n#Russian_speaking\nthreat group\n#Telegram\naccount farm\n#VMRay",
-        "date": "2026-07-27T16:04:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127484_0_60c9dbc7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127484_1_da8333ad.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127484",
-        "link": {
-          "title": "VMRay Exposes Operation STANDOFF, a Russian-Speaking Intrusion Campaign Hidden Behind GitHub",
-          "url": "https://securityonline.info/operation-standoff-russian-threat-group/"
-        }
-      },
-      {
-        "id": 127483,
-        "text": "⤷\nTitle:\nCVE-2026-16812: VeloCloud Orchestrator OS Command Injection (CVSS 10) Exploited in the Wild\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 15:26:35 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Arista\n#CVE_2026_16812\n#CVE_2026_17191\n#CVE_2026_17192\n#exploited\nin the wild\n#os\ncommand injection\n#ssrf\n#VCO\n#VeloCloud\n#VeloCloud\nOrchestrator",
-        "date": "2026-07-27T16:04:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127483_0_60c9dbc7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127483_1_d660b514.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127483",
-        "link": {
-          "title": "CVE-2026-16812: VeloCloud Orchestrator OS Command Injection (CVSS 10) Exploited in the Wild",
-          "url": "https://securityonline.info/velocloud-command-injection-cve-2026-16812/"
-        }
-      },
-      {
-        "id": 127482,
-        "text": "⤷\nTitle:\nIranian Hackers Modify PLC Logic in US Infrastructure Attacks\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 14:09:38 +0000\n════════════════════════\n⌗\nTags:\n#Cyber\nSecurity\n#CISA\nAdvisory\n#Critical\nInfrastructure\n#ICS\nSecurity\n#Iranian\nhackers\n#PLC\nHacking",
-        "date": "2026-07-27T16:04:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127482_0_60c9dbc7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127482_1_fc55609b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127482",
-        "link": {
-          "title": "Iranian Hackers Modify PLC Logic in US Infrastructure Attacks",
-          "url": "https://meterpreter.org/iranian-hackers-modify-plc-logic/"
-        }
-      },
-      {
-        "id": 127481,
-        "text": "⤷\nTitle:\nCritical GitLab RCE Vulnerability Exposed in Oj JSON Parser\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 15:00:55 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\n#Gitlab\n#Jupyter\nNotebook\n#Oj\nParser\n#remote\ncode execution\n#vulnerability",
-        "date": "2026-07-27T16:04:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127481_0_60c9dbc7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127481_1_84ff6258.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127481",
-        "link": {
-          "title": "Critical GitLab RCE Vulnerability Exposed in Oj JSON Parser",
-          "url": "https://meterpreter.org/gitlab-rce-vulnerability-oj-json-parser/"
-        }
-      },
-      {
-        "id": 127480,
-        "text": "⤷\nTitle:\nHackers Compromise Hotel Wi-Fi Gateways to Hijack Microsoft 365 Accounts\n════════════════════════\n𐀪\nAuthor:\nWaqas\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 14:43:57 +0000\n════════════════════════\n⌗\nTags:\n#Security\n#Phishing\nScam\n#APT28\n#Cyber\nAttack\n#Cybersecurity\n#Fancy\nBear\n#Forest\nBlizzard\n#Hotels\n#Microsoft\n#Microsoft\n365\n#Phishing\n#ReliaQuest\n#Scam\n#WIFI",
-        "date": "2026-07-27T16:04:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127480_0_60c9dbc7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127480_1_a6f7689a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127480",
-        "link": {
-          "title": "Hackers Compromise Hotel Wi-Fi Gateways to Hijack Microsoft 365 Accounts",
-          "url": "https://hackread.com/hackers-hotel-wi-fi-gateways-hijack-microsoft-365-accounts/"
-        }
-      },
-      {
-        "id": 127479,
-        "text": "⤷\nTitle:\n⚡\nWeekly Recap: Rogue AI Agents, Check Point Exploit, Slopsquatting, ClickFix Lures and More\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 19:40:54 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-07-27T16:04:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127479_0_60c9dbc7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127479",
-        "link": {
-          "title": "⚡Weekly Recap: Rogue AI Agents, Check Point Exploit, Slopsquatting, ClickFix Lures and More",
-          "url": "https://thehackernews.com/2026/07/weekly-recap-rogue-ai-agents-check.html"
-        }
-      },
-      {
-        "id": 127478,
-        "text": "⤷\nTitle:\nPublic Exploit Released for Patched vBulletin Pre-Auth Code Execution Flaw\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 20:10:00 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-07-27T16:03:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127478_0_60c9dbc7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127478",
-        "link": {
-          "title": "Public Exploit Released for Patched vBulletin Pre-Auth Code Execution Flaw",
-          "url": "https://thehackernews.com/2026/07/public-exploit-released-for-patched.html"
-        }
-      },
-      {
-        "id": 127477,
-        "text": "⤷\nTitle:\nWhen Does an API Become a Security Vulnerability?\n════════════════════════\n𐀪\nAuthor:\n@dsfglobal\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 13:22:34 GMT\n════════════════════════\n⌗\nTags:\n#api\n#api_security\n#api_testing",
-        "date": "2026-07-27T14:05:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127477_0_60c9dbc7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127477_1_47eb8ac7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127477",
-        "link": {
-          "title": "When Does an API Become a Security Vulnerability?",
-          "url": "https://medium.com/@digitalsecurityforum/when-does-an-api-become-a-security-vulnerability-962282e5a4ac?source=rss------api_security-5"
-        }
-      },
-      {
-        "id": 127476,
-        "text": "⤷\nTitle:\nChaining Public Endpoints Into Data Exposure: A Case Study in Unauthenticated PII Leakage\n════════════════════════\n𐀪\nAuthor:\nInside_m\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 13:58:58 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#software_engineering\n#web_security\n#api_security\n#data_privacy",
-        "date": "2026-07-27T14:05:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127476_0_60c9dbc7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127476",
-        "link": {
-          "title": "Chaining Public Endpoints Into Data Exposure: A Case Study in Unauthenticated PII Leakage",
-          "url": "https://medium.com/@winneryo8/chaining-public-endpoints-into-data-exposure-a-case-study-in-unauthenticated-pii-leakage-c814f2fb52ec?source=rss------api_security-5"
-        }
-      },
-      {
-        "id": 127475,
-        "text": "⤷\nTitle:\nHow to Change Windows Wallpaper of a Remote PC (Post-Exploitation Demo)\n════════════════════════\n𐀪\nAuthor:\nPriyankachandrakar\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 12:34:49 GMT\n════════════════════════\n⌗\nTags:\n#linux\n#metasploit\n#ethical_hacking\n#cybersecurity\n#oscp",
-        "date": "2026-07-27T14:05:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127475_0_60c9dbc7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127475_1_0da6cd71.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127475",
-        "link": {
-          "title": "How to Change Windows Wallpaper of a Remote PC (Post-Exploitation Demo)",
-          "url": "https://priyankachandrakar.medium.com/how-to-change-windows-wallpaper-of-a-remote-pc-post-exploitation-demo-5bfd37877353?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 127474,
-        "text": "⤷\nTitle:\nHack Remote Windows PC using DLL Files (SMB Delivery Exploit) — Metasploit Walkthrough\n════════════════════════\n𐀪\nAuthor:\nPriyankachandrakar\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 13:15:00 GMT\n════════════════════════\n⌗\nTags:\n#kali_linux\n#ethical_hacking\n#cybersecurity\n#oscp\n#metasploit",
-        "date": "2026-07-27T14:05:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127474_0_60c9dbc7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127474_1_b352749b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127474",
-        "link": {
-          "title": "Hack Remote Windows PC using DLL Files (SMB Delivery Exploit) — Metasploit Walkthrough",
-          "url": "https://priyankachandrakar.medium.com/hack-remote-windows-pc-using-dll-files-smb-delivery-exploit-metasploit-walkthrough-378000b803c3?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 127473,
-        "text": "⤷\nTitle:\nWinterMute: 1 Walkthrough\n════════════════════════\n𐀪\nAuthor:\nBoldhacker\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 13:40:16 GMT\n════════════════════════\n⌗\nTags:\n#vulnhub\n#walkthrough\n#wintermute1",
-        "date": "2026-07-27T14:05:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127473_0_60c9dbc7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127473_1_8011b3a2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127473",
-        "link": {
-          "title": "WinterMute: 1 Walkthrough",
-          "url": "https://medium.com/@bansalkrish007/wintermute-1-walkthrough-91cd4c66c60f?source=rss------vulnhub-5"
-        }
-      },
-      {
-        "id": 127472,
-        "text": "⤷\nTitle:\nSetup Oracle VirtualBox dan Instalasi Kali Linux sebagai Environment Network Penetration Testing\n════════════════════════\n𐀪\nAuthor:\nThoibi Afriadi\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 12:15:09 GMT\n════════════════════════\n⌗\nTags:\n#oracle_virtual_box\n#penetration_testing\n#cybersecurity\n#linux\n#kali_linux",
-        "date": "2026-07-27T14:05:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127472_0_60c9dbc7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127472_1_d8d9b883.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127472",
-        "link": {
-          "title": "Setup Oracle VirtualBox dan Instalasi Kali Linux sebagai Environment Network Penetration Testing",
-          "url": "https://medium.com/@akcerman21/setup-oracle-virtualbox-dan-instalasi-kali-linux-sebagai-environment-network-penetration-testing-8546767f8c98?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 127471,
-        "text": "⤷\nTitle:\nPublisher: TryHackMe CTF Walkthrough\n════════════════════════\n𐀪\nAuthor:\nHuzaifa Malik\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 13:46:02 GMT\n════════════════════════\n⌗\nTags:\n#ctf_writeup\n#penetration_testing\n#web_security\n#tryhackme\n#privilege_escalation",
-        "date": "2026-07-27T14:05:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127471_0_60c9dbc7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127471_1_89c64000.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127471",
-        "link": {
-          "title": "Publisher: TryHackMe CTF Walkthrough",
-          "url": "https://medium.com/@huzaifa_X_malik/publisher-tryhackme-ctf-walkthrough-cc97c9506153?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 127470,
-        "text": "⤷\nTitle:\nDeconstructing a Phishing Email: A Step by Step Header Analysis & Investigation\n════════════════════════\n𐀪\nAuthor:\nMihindi Gunawardana\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 12:10:54 GMT\n════════════════════════\n⌗\nTags:\n#phishing\n#cybersecurity\n#infosec\n#digital_forensics\n#threat_intelligence",
-        "date": "2026-07-27T14:05:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127470_0_60c9dbc7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127470_1_7989b7ac.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127470",
-        "link": {
-          "title": "Deconstructing a Phishing Email: A Step by Step Header Analysis & Investigation",
-          "url": "https://mgunawardana.medium.com/deconstructing-a-phishing-email-a-step-by-step-header-analysis-investigation-8ddec9ea3c31?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 127469,
-        "text": "⤷\nTitle:\nGitLab RCE Vulnerability Explained: The Notebook Diff Exploit Chain\n════════════════════════\n𐀪\nAuthor:\nXpert4Cyber\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 12:57:44 GMT\n════════════════════════\n⌗\nTags:\n#gitlab\n#infosec\n#devsecops\n#cybersecurity\n#vulnerability",
-        "date": "2026-07-27T14:04:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127469_0_60c9dbc7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127469_1_3b3b21a0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127469",
-        "link": {
-          "title": "GitLab RCE Vulnerability Explained: The Notebook Diff Exploit Chain",
-          "url": "https://medium.com/@xpert4cyber/gitlab-rce-vulnerability-explained-the-notebook-diff-exploit-chain-be97e526f9d9?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 127468,
-        "text": "⤷\nTitle:\nAnonymous Playground (THM) Tryhackme Hard Challenge\n════════════════════════\n𐀪\nAuthor:\nLawvye\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 12:07:34 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#privilege_escalation\n#linux\n#cybersecurity\n#hacking",
-        "date": "2026-07-27T14:04:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127468_0_60c9dbc7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127468_1_00f5479a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127468",
-        "link": {
-          "title": "Anonymous Playground (THM) Tryhackme Hard Challenge",
-          "url": "https://medium.com/@lawvye/anonymous-playground-thm-tryhackme-hard-challenge-fc26149cdc86?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 127467,
-        "text": "⤷\nTitle:\nHow to Know If There Is a Hidden Camera in Your Room (Without Buying Expensive Tools)\n════════════════════════\n𐀪\nAuthor:\nMuhammad Wasay Ur Rehman\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 12:16:01 GMT\n════════════════════════\n⌗\nTags:\n#cybercrime\n#hacking\n#hidden_camera\n#cybersecurity",
-        "date": "2026-07-27T14:04:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127467_0_60c9dbc7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127467_1_ff842b57.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127467",
-        "link": {
-          "title": "How to Know If There Is a Hidden Camera in Your Room (Without Buying Expensive Tools)",
-          "url": "https://medium.com/@wasaymuhammad2026/how-to-know-if-there-is-a-hidden-camera-in-your-room-without-buying-expensive-tools-8b11507c0fc4?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 127466,
-        "text": "⤷\nTitle:\nHow a Stolen ID and Password Without MFA Let Hackers Simply Log In\n════════════════════════\n𐀪\nAuthor:\nDavid SEHYEON Baek\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 13:24:22 GMT\n════════════════════════\n⌗\nTags:\n#ransomware\n#cyberattack\n#cybersecurity\n#hacking\n#cybercrime",
-        "date": "2026-07-27T14:04:46+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127466_0_60c9dbc7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127466_1_0502a238.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127466",
-        "link": {
-          "title": "How a Stolen ID and Password Without MFA Let Hackers Simply Log In",
-          "url": "https://medium.com/@davidsehyeonbaek/how-a-stolen-id-and-password-without-mfa-let-hackers-simply-log-in-1739978f54a3?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 127465,
-        "text": "⤷\nTitle:\nSynthetic Minds | A US AI Attacked a US Company. A Chinese AI Saved It.\n════════════════════════\n𐀪\nAuthor:\nDr Mark van Rijmenam, CSP\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 13:26:01 GMT\n════════════════════════\n⌗\nTags:\n#security\n#china\n#artificial_intelligence\n#hacking\n#newsletter",
-        "date": "2026-07-27T14:04:43+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127465_0_60c9dbc7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127465_1_4a7608d2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127465",
-        "link": {
-          "title": "Synthetic Minds | A US AI Attacked a US Company. A Chinese AI Saved It.",
-          "url": "https://markvanrijmenam.medium.com/synthetic-minds-a-us-ai-attacked-a-us-company-a-chinese-ai-saved-it-f0020a5a8310?source=rss------hacking-5"
-        }
       }
     ]
   },
-  "last_update": "2026-07-28T07:30:53.320988+00:00",
+  "last_update": "2026-07-28T10:07:23.145709+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2295,7 +2295,7 @@
     },
     "referenced_files": 195,
     "existing_media_files": 195,
-    "total_size_mb": 5.63,
-    "last_calculation": "2026-07-28T07:30:53.323401+00:00"
+    "total_size_mb": 5.13,
+    "last_calculation": "2026-07-28T10:07:23.148047+00:00"
   }
 }
