@@ -2,6 +2,374 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 127559,
+        "text": "⤷\nTitle:\nOutsmarting VERA: A Quick Walkthrough of TryHackMe’s “The Concierge Knows Too Much”\n════════════════════════\n𐀪\nAuthor:\nRishi Kumavat\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 02:44:22 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#tryhackme_walkthrough\n#ai\n#tryhackme\n#llm",
+        "date": "2026-07-28T04:04:31+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127559_0_60c9dbc7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127559_1_897693c3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127559",
+        "link": {
+          "title": "Outsmarting VERA: A Quick Walkthrough of TryHackMe’s “The Concierge Knows Too Much”",
+          "url": "https://medium.com/@rishikumavat12/outsmarting-vera-a-quick-walkthrough-of-tryhackmes-the-concierge-knows-too-much-6f0ce79d86e8?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 127558,
+        "text": "⤷\nTitle:\nThe Most Famous Hacker in History Lived on the Run for Years.\n════════════════════════\n𐀪\nAuthor:\nAj\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 01:53:58 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#fbi\n#technology\n#hacking\n#hacker",
+        "date": "2026-07-28T04:04:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127558_0_60c9dbc7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127558_1_24b0dc20.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127558",
+        "link": {
+          "title": "The Most Famous Hacker in History Lived on the Run for Years.",
+          "url": "https://levelup.gitconnected.com/the-most-famous-hacker-in-history-lived-on-the-run-for-years-4d37b53a55db?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 127557,
+        "text": "⤷\nTitle:\nYou Are Easier to Track Than You Think and Harder to Erase Than Advertised\n════════════════════════\n𐀪\nAuthor:\nAeon Flex, Elriel Assoc. 2133 [NEON MAXIMA]\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 03:22:39 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#privacy\n#big_data\n#tracking\n#infosec",
+        "date": "2026-07-28T04:04:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127557_0_60c9dbc7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127557_1_81a0b72f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127557",
+        "link": {
+          "title": "You Are Easier to Track Than You Think and Harder to Erase Than Advertised",
+          "url": "https://medium.com/@neonmaxima/you-are-easier-to-track-than-you-think-and-harder-to-erase-than-advertised-2b03659243d5?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 127556,
+        "text": "⤷\nTitle:\nBlackTrace Explained | Python-Powered OSINT Tool for Security Researchers\n════════════════════════\n𐀪\nAuthor:\nPentester Club\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 03:46:17 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#artificial_intelligence\n#bug_bounty\n#cybersecurity\n#osint",
+        "date": "2026-07-28T04:04:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127556_0_60c9dbc7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127556_1_f8057f07.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127556",
+        "link": {
+          "title": "BlackTrace Explained | Python-Powered OSINT Tool for Security Researchers",
+          "url": "https://medium.com/@pentesterclubpvtltd/blacktrace-explained-python-powered-osint-tool-for-security-researchers-e13389e33d69?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 127555,
+        "text": "⤷\nTitle:\nApache ActiveMQ Patches Authorization Bypass and DoS Flaws\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 02:05:15 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#ActiveMQ\nvulnerability\n#Apache\nActiveMQ\n#Authorization\nBypass\n#CVE_2026_59878\n#CVE_2026_61487\n#Denial\nof Service\n#Message\nBroker Security",
+        "date": "2026-07-28T04:04:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127555_0_60c9dbc7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127555_1_2dde0178.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127555",
+        "link": {
+          "title": "Apache ActiveMQ Patches Authorization Bypass and DoS Flaws",
+          "url": "https://securityonline.info/apache-activemq-auth-bypass-dos/"
+        }
+      },
+      {
+        "id": 127554,
+        "text": "⤷\nTitle:\nProgress Patches Five Kemp LoadMaster Vulnerabilities\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 02:12:30 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#ADC\nSecurity\n#CVE_2026_59686\n#CVE_2026_59687\n#CVE_2026_59688\n#CVE_2026_59689\n#CVE_2026_59690\n#Kemp\nLoadMaster\n#LoadMaster\nvulnerabilities\n#os\ncommand injection\n#privilege\nescalation\n#Progress\nKemp LoadMaster",
+        "date": "2026-07-28T04:04:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127554_0_60c9dbc7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127554_1_e263b5f9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127554",
+        "link": {
+          "title": "Progress Patches Five Kemp LoadMaster Vulnerabilities",
+          "url": "https://securityonline.info/kemp-loadmaster-vulnerabilities/"
+        }
+      },
+      {
+        "id": 127553,
+        "text": "⤷\nTitle:\nlibssh2 Flaws Let Malicious SSH Servers Corrupt Client Memory\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 02:19:09 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_66032\n#CVE_2026_66033\n#CVE_2026_66034\n#CVE_2026_66035\n#double_free\n#Heap\nBuffer Overflow\n#libssh2\n#libssh2\nvulnerabilities\n#malicious\nSSH server\n#SFTP\n#SSH\nClient\n#VulnCheck",
+        "date": "2026-07-28T04:04:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127553_0_60c9dbc7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127553_1_13eef49c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127553",
+        "link": {
+          "title": "libssh2 Flaws Let Malicious SSH Servers Corrupt Client Memory",
+          "url": "https://securityonline.info/libssh2-vulnerabilities/"
+        }
+      },
+      {
+        "id": 127552,
+        "text": "⤷\nTitle:\nNVIDIA and Microsoft Launch Open Secure AI Alliance After Hack\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 02:40:53 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#cybersecurity\n#Microsoft\n#nvidia\n#Open\nSecure AI Alliance\n#Open_Source\nAI",
+        "date": "2026-07-28T04:04:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127552_0_60c9dbc7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127552_1_e606207c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127552",
+        "link": {
+          "title": "NVIDIA and Microsoft Launch Open Secure AI Alliance After Hack",
+          "url": "https://securityonline.info/open-secure-ai-alliance-launch/"
+        }
+      },
+      {
+        "id": 127551,
+        "text": "⤷\nTitle:\nDebian Debates Whether to Allow AI-Assisted Code Contributions\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 02:54:50 +0000\n════════════════════════\n⌗\nTags:\n#Linux\n#AI\nCode\n#Debian\n#Generative\nAI\n#open_source",
+        "date": "2026-07-28T04:04:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127551_0_60c9dbc7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127551_1_6449f4f3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127551",
+        "link": {
+          "title": "Debian Debates Whether to Allow AI-Assisted Code Contributions",
+          "url": "https://securityonline.info/debian-ai-contribution-vote/"
+        }
+      },
+      {
+        "id": 127550,
+        "text": "⤷\nTitle:\nGoogle Quietly Ships Native Chrome for Linux Arm64 With DRM\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 03:08:56 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#chrome\n#google\nchrome\n#Linux\nARM64\n#Raspberry\nPi\n#Widevine",
+        "date": "2026-07-28T04:04:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127550_0_60c9dbc7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127550_1_2cae910c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127550",
+        "link": {
+          "title": "Google Quietly Ships Native Chrome for Linux Arm64 With DRM",
+          "url": "https://securityonline.info/chrome-linux-arm64-native/"
+        }
+      },
+      {
+        "id": 127549,
+        "text": "⤷\nTitle:\nWindows 11 Experimental Builds Face a Time Bomb on August 11\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 03:38:51 +0000\n════════════════════════\n⌗\nTags:\n#Windows\n#Build\n29634\n#Microsoft\n#Time\nBomb\n#Windows\n11\n#Windows\nInsider",
+        "date": "2026-07-28T04:03:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127549_0_60c9dbc7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127549_1_6f7d6f02.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127549",
+        "link": {
+          "title": "Windows 11 Experimental Builds Face a Time Bomb on August 11",
+          "url": "https://securityonline.info/windows-11-experimental-time-bomb/"
+        }
+      },
+      {
+        "id": 127548,
+        "text": "⤷\nTitle:\nKimi K3 Opens Weights as Agents Push Past Sandbox Boundaries\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 03:58:09 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#AgentENV\n#AI\nsafety\n#Kimi\nK3\n#Moonshot\nAI\n#Open\nWeights",
+        "date": "2026-07-28T04:03:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127548_0_60c9dbc7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127548_1_0f020617.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127548",
+        "link": {
+          "title": "Kimi K3 Opens Weights as Agents Push Past Sandbox Boundaries",
+          "url": "https://securityonline.info/kimi-k3-open-weights-agentenv/"
+        }
+      },
+      {
+        "id": 127547,
+        "text": "⤷\nTitle:\nThe Brochure | TryHackMe\n════════════════════════\n𐀪\nAuthor:\nEdson M\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 01:08:48 GMT\n════════════════════════\n⌗\nTags:\n#ciberseguridad\n#tryhackme_walkthrough\n#tryhackme_writeup\n#tryhackme",
+        "date": "2026-07-28T02:03:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127547_0_60c9dbc7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127547_1_2387e5c2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127547",
+        "link": {
+          "title": "The Brochure | TryHackMe",
+          "url": "https://exelont.medium.com/the-brochure-tryhackme-cff3a4c9694d?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 127546,
+        "text": "⤷\nTitle:\nWhoAmI\n════════════════════════\n𐀪\nAuthor:\nRaphael Lima\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 01:10:12 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#career_change\n#ethical_hacking\n#tryhackme\n#cybersecurity",
+        "date": "2026-07-28T02:03:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127546_0_60c9dbc7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127546_1_41be98d8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127546",
+        "link": {
+          "title": "WhoAmI",
+          "url": "https://medium.com/@it.lima.raphael/whoami-3211c7464db9?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 127545,
+        "text": "⤷\nTitle:\nInside a DevSecOps CI/CD Pipeline: How Automated Security Checks Protect Every Commit\n════════════════════════\n𐀪\nAuthor:\nLh1l0v3\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 00:11:56 GMT\n════════════════════════\n⌗\nTags:\n#application_security\n#cloud_security\n#software_development\n#security\n#software_engineering",
+        "date": "2026-07-28T02:03:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127545_0_60c9dbc7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127545_1_3f4fb452.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127545",
+        "link": {
+          "title": "Inside a DevSecOps CI/CD Pipeline: How Automated Security Checks Protect Every Commit",
+          "url": "https://medium.com/@Lh1l0v3/inside-a-devsecops-ci-cd-pipeline-how-automated-security-checks-protect-every-commit-a9fbcbcf598c?source=rss------application_security-5"
+        }
+      },
+      {
+        "id": 127544,
+        "text": "⤷\nTitle:\nHow I Turned an “Informative” HTML Injection into My First Paid Bounty\n════════════════════════\n𐀪\nAuthor:\nMuhammadmaftuhk\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 23:57:41 GMT\n════════════════════════\n⌗\nTags:\n#web_security\n#html_injection\n#bug_bounty\n#bug_bounty_writeup\n#cybersecurity",
+        "date": "2026-07-28T02:03:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127544_0_60c9dbc7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127544_1_307b1524.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127544",
+        "link": {
+          "title": "How I Turned an “Informative” HTML Injection into My First Paid Bounty",
+          "url": "https://medium.com/@muhammadmaftuhk261/how-i-turned-an-informative-html-injection-into-my-first-paid-bounty-86de1aa4c8fd?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 127543,
         "text": "⤷\nTitle:\nLinux Privilege Escalation: Enumeration | Tryhackme Walkthrough | Anon.M | THM\n════════════════════════\n𐀪\nAuthor:\nAnon.M\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 23:47:12 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_writeup\n#tryhackme\n#linux_tutorial\n#cybersecurity\n#tryhackme_walkthrough",
         "date": "2026-07-28T00:04:01+00:00",
@@ -1916,382 +2284,22 @@
           "title": "Best Ethical hacking course online with certificate in india",
           "url": "https://medium.com/@cybersecuritycourse/best-ethical-hacking-course-online-with-certificate-in-india-7ffd66d93e10?source=rss------hacking-5"
         }
-      },
-      {
-        "id": 127432,
-        "text": "⤷\nTitle:\nLog4Shell: The Log Message That Broke the Internet\n════════════════════════\n𐀪\nAuthor:\nThe Skillpods\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 08:21:10 GMT\n════════════════════════\n⌗\nTags:\n#theskillpod\n#cybersecurity\n#vulnerability\n#cve_2021_44228\n#hacking",
-        "date": "2026-07-27T10:04:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127432_0_60c9dbc7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127432_1_477297ab.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127432",
-        "link": {
-          "title": "Log4Shell: The Log Message That Broke the Internet",
-          "url": "https://theskillpod.medium.com/log4shell-the-log-message-that-broke-the-internet-38b2d0896b81?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 127431,
-        "text": "⤷\nTitle:\nThe End of the Entry-Level Ladder: How AI Is Killing L1 SOC and Threat Intel Jobs in 2026\n════════════════════════\n𐀪\nAuthor:\nYua Mikanana\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 09:04:41 GMT\n════════════════════════\n⌗\nTags:\n#technology\n#cybersecurity\n#careers\n#hacking\n#ethical_hacking",
-        "date": "2026-07-27T10:04:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127431_0_60c9dbc7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127431_1_ab7e808a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127431",
-        "link": {
-          "title": "The End of the Entry-Level Ladder: How AI Is Killing L1 SOC and Threat Intel Jobs in 2026",
-          "url": "https://medium.com/@yua.mikanana19/the-end-of-the-entry-level-ladder-how-ai-is-killing-l1-soc-and-threat-intel-jobs-in-2026-19b3e085e930?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 127430,
-        "text": "⤷\nTitle:\nHow a Simple Profile Update Led to Cross-Tenant Data Exposure\n════════════════════════\n𐀪\nAuthor:\nEhtesham Ul Haq\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 09:23:41 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#ethical_hacking\n#api\n#appsec\n#owasp",
-        "date": "2026-07-27T10:04:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127430_0_60c9dbc7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127430_1_cce29b55.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127430",
-        "link": {
-          "title": "How a Simple Profile Update Led to Cross-Tenant Data Exposure",
-          "url": "https://infosecwriteups.com/how-a-simple-profile-update-led-to-cross-tenant-data-exposure-b945842678e2?source=rss----7b722bfd1b8d--bug_bounty"
-        }
-      },
-      {
-        "id": 127429,
-        "text": "⤷\nTitle:\nHow I Found an Auth Flaw in a Government Site: From GraphQL Introspection to Unauthorized Access\n════════════════════════\n𐀪\nAuthor:\nAruvasaga chithan A\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 09:24:22 GMT\n════════════════════════\n⌗\nTags:\n#graphql\n#infosec\n#ethical_hacking\n#bug_bounty",
-        "date": "2026-07-27T10:04:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127429_0_60c9dbc7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127429_1_4b47f1da.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127429",
-        "link": {
-          "title": "How I Found an Auth Flaw in a Government Site: From GraphQL Introspection to Unauthorized Access",
-          "url": "https://infosecwriteups.com/how-i-found-an-auth-flaw-in-a-government-site-from-graphql-introspection-to-unauthorized-access-0c877cc3ee07?source=rss----7b722bfd1b8d--bug_bounty"
-        }
-      },
-      {
-        "id": 127428,
-        "text": "⤷\nTitle:\nHow I Found a Bug Worth $3,500 — In a Feature Nobody Was Watching.\n════════════════════════\n𐀪\nAuthor:\nVishw Bhatt\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 09:37:44 GMT\n════════════════════════\n⌗\nTags:\n#admin_panel\n#file_upload\n#bug_bounty",
-        "date": "2026-07-27T10:04:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127428_0_60c9dbc7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127428_1_c7e934c5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127428",
-        "link": {
-          "title": "How I Found a Bug Worth $3,500 — In a Feature Nobody Was Watching.",
-          "url": "https://infosecwriteups.com/how-i-found-a-bug-worth-3-500-in-a-feature-nobody-was-watching-6773df9fce72?source=rss----7b722bfd1b8d--bug_bounty"
-        }
-      },
-      {
-        "id": 127427,
-        "text": "⤷\nTitle:\nOne Header Away from 10+ GB of Customer Documents (PII) — $6K Bounty\n════════════════════════\n𐀪\nAuthor:\nAlvin Ferdiansyah\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 09:38:35 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_writeup\n#bucketlist\n#bug_bounty\n#bug_bounty_tips\n#authentication",
-        "date": "2026-07-27T10:04:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127427_0_60c9dbc7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127427_1_2c0b5d41.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127427",
-        "link": {
-          "title": "One Header Away from 10+ GB of Customer Documents (PII) — $6K Bounty",
-          "url": "https://infosecwriteups.com/one-header-away-from-10-gb-of-customer-documents-pii-6k-bounty-0c0ac8c335f2?source=rss----7b722bfd1b8d--bug_bounty"
-        }
-      },
-      {
-        "id": 127426,
-        "text": "⤷\nTitle:\nUnauthenticated Disclosure of A/B Test Data in Convert Pro — How Two Forgotten AJAX Endpoints…\n════════════════════════\n𐀪\nAuthor:\nShikhali Jamalzade\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 09:38:59 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#technology\n#bug_bounty_writeup\n#wordpress\n#bug_bounty",
-        "date": "2026-07-27T10:04:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127426_0_60c9dbc7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127426_1_f2894013.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127426",
-        "link": {
-          "title": "Unauthenticated Disclosure of A/B Test Data in Convert Pro — How Two Forgotten AJAX Endpoints…",
-          "url": "https://infosecwriteups.com/unauthenticated-disclosure-of-a-b-test-data-in-convert-pro-how-two-forgotten-ajax-endpoints-dbefc9c3e440?source=rss----7b722bfd1b8d--bug_bounty"
-        }
-      },
-      {
-        "id": 127425,
-        "text": "⤷\nTitle:\nTELESHIM Malware Targets Middle East Governments Through Telegram\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 08:01:55 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#BINDCLOAK\n#DLL\nSideloading\n#malware\n#Middle\nEast\n#MIXEDKEY\n#Telegram\nC2\n#TELESHIM\n#Zscaler\nThreatLabz",
-        "date": "2026-07-27T10:04:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127425_0_60c9dbc7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127425_1_7b1dd5a7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127425",
-        "link": {
-          "title": "TELESHIM Malware Targets Middle East Governments Through Telegram",
-          "url": "https://securityonline.info/teleshim-malware-telegram-c2/"
-        }
-      },
-      {
-        "id": 127424,
-        "text": "⤷\nTitle:\nCVE-2026-61511: vBulletin Preauth RCE with Public PoC Disclosed\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 08:20:43 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_61511\n#eval\ninjection\n#preauth\nRCE\n#proof_of_concept\n#Remote\nCode Execution\n#runMaths\n#SSD\nSecure Disclosure\n#vBulletin\n#vBulletin\nRCE",
-        "date": "2026-07-27T10:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127424_0_60c9dbc7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127424_1_f206ebf6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127424",
-        "link": {
-          "title": "CVE-2026-61511: vBulletin Preauth RCE with Public PoC Disclosed",
-          "url": "https://securityonline.info/vbulletin-preauth-rce-cve-2026-61511/"
-        }
-      },
-      {
-        "id": 127423,
-        "text": "⤷\nTitle:\nGitHub Adds 3-Day Dependabot Cooldown to Limit Poisoned Package Adoption\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 13:31:23 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-07-27T10:03:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127423_0_60c9dbc7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127423",
-        "link": {
-          "title": "GitHub Adds 3-Day Dependabot Cooldown to Limit Poisoned Package Adoption",
-          "url": "https://thehackernews.com/2026/07/github-adds-3-day-dependabot-cooldown.html"
-        }
-      },
-      {
-        "id": 127422,
-        "text": "⤷\nTitle:\nTELESHIM Abuses Telegram for C2 in Attacks Against Middle East Governments\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 14:18:47 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-07-27T10:03:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127422_0_60c9dbc7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127422",
-        "link": {
-          "title": "TELESHIM Abuses Telegram for C2 in Attacks Against Middle East Governments",
-          "url": "https://thehackernews.com/2026/07/teleshim-abuses-telegram-for-c2-in.html"
-        }
-      },
-      {
-        "id": 127421,
-        "text": "⤷\nTitle:\nCVE-2025–4760: Authenticated Stored XSS Vulnerability in WSO2 API Manager - What You Need to Know\n════════════════════════\n𐀪\nAuthor:\nLoginsoft\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 08:02:41 GMT\n════════════════════════\n⌗\nTags:\n#xss_vulnerability\n#wso2_api_manager\n#wso2\n#application_security",
-        "date": "2026-07-27T08:04:40+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127421_0_5a358906.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127421_1_5475caf4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127421",
-        "link": {
-          "title": "CVE-2025–4760: Authenticated Stored XSS Vulnerability in WSO2 API Manager - What You Need to Know",
-          "url": "https://medium.com/@Loginsoft/cve-2025-4760-authenticated-stored-xss-vulnerability-in-wso2-api-manager-what-you-need-to-know-1dcadb782993?source=rss------xss_vulnerability-5"
-        }
-      },
-      {
-        "id": 127420,
-        "text": "⤷\nTitle:\nSession Forensics — TryHackMe Walkthrough | By Girija Gnanam..\n════════════════════════\n𐀪\nAuthor:\nGirija\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 06:43:27 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#digital_forensics\n#web_security\n#tryhackme\n#jwt_token",
-        "date": "2026-07-27T08:04:36+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127420_0_5a358906.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127420_1_66fc46ce.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127420",
-        "link": {
-          "title": "Session Forensics — TryHackMe Walkthrough | By Girija Gnanam..",
-          "url": "https://medium.com/@ggirija2006/session-forensics-tryhackme-walkthrough-by-girija-gnanam-44795d47f314?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 127419,
-        "text": "⤷\nTitle:\nGrand Larceny Auto — Reversing a ConfuserEx-Protected Godot Game\n════════════════════════\n𐀪\nAuthor:\nGeevarghesekthomas\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 06:51:46 GMT\n════════════════════════\n⌗\nTags:\n#reverse_engineering\n#tryhackme\n#tryhackme_walkthrough\n#capture_the_flag\n#cybersecurity",
-        "date": "2026-07-27T08:04:33+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127419_0_5a358906.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127419_1_9d2a5235.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127419",
-        "link": {
-          "title": "Grand Larceny Auto — Reversing a ConfuserEx-Protected Godot Game",
-          "url": "https://medium.com/@gg0x/grand-larceny-auto-reversing-a-confuserex-protected-godot-game-ae10ed4c6c58?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 127418,
-        "text": "⤷\nTitle:\nMobile Malware is Not Just a Consumer Problem: Securing Corporate BYOD Against Modern Threats\n════════════════════════\n𐀪\nAuthor:\nGraySentinel- Cyber Defence Lab\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 06:07:46 GMT\n════════════════════════\n⌗\nTags:\n#threat_intelligence\n#infosec\n#cyber_defense\n#cybersecurity\n#social_media",
-        "date": "2026-07-27T08:04:30+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127418_0_5a358906.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127418_1_fb140b24.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127418",
-        "link": {
-          "title": "Mobile Malware is Not Just a Consumer Problem: Securing Corporate BYOD Against Modern Threats",
-          "url": "https://medium.com/@graysentinel.ai/mobile-malware-is-not-just-a-consumer-problem-securing-corporate-byod-against-modern-threats-8d22ec548ff5?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 127417,
-        "text": "⤷\nTitle:\nThe Top 10 Data Breaches of 2026 (So Far) — July Edition\n════════════════════════\n𐀪\nAuthor:\nAyush Bagde\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 06:25:04 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#data_breach\n#shinyhunters\n#infosec\n#ransomware",
-        "date": "2026-07-27T08:04:26+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127417_0_5a358906.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127417_1_ac9a8c40.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127417",
-        "link": {
-          "title": "The Top 10 Data Breaches of 2026 (So Far) — July Edition",
-          "url": "https://h3ckerboi.medium.com/the-top-10-data-breaches-of-2026-so-far-july-edition-1ee66a3c6e6d?source=rss------infosec-5"
-        }
       }
     ]
   },
-  "last_update": "2026-07-28T01:18:54.367106+00:00",
+  "last_update": "2026-07-28T04:34:43.354267+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 194,
-    "total_files": 194,
+    "total_media": 196,
+    "total_files": 196,
     "total_links": 0,
     "files_by_type": {
-      "image": 194
+      "image": 196
     },
-    "referenced_files": 194,
-    "existing_media_files": 194,
-    "total_size_mb": 5.62,
-    "last_calculation": "2026-07-28T01:18:54.369424+00:00"
+    "referenced_files": 196,
+    "existing_media_files": 196,
+    "total_size_mb": 5.79,
+    "last_calculation": "2026-07-28T04:34:43.356589+00:00"
   }
 }
