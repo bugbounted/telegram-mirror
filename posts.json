@@ -2,6 +2,435 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 127669,
+        "text": "⤷\nTitle:\nTwo Fields, Zero Checks: Exploiting Broken Object Property Level Authorization on VulnBank\n════════════════════════\n𐀪\nAuthor:\nMuhammad Usman Faridi\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 15:18:49 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#cybersecurity\n#api_security\n#bopla\n#apisec_university",
+        "date": "2026-07-28T16:05:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127669_0_cad6c4f8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127669_1_4c29f281.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127669",
+        "link": {
+          "title": "Two Fields, Zero Checks: Exploiting Broken Object Property Level Authorization on VulnBank",
+          "url": "https://medium.com/@usman786faridi/two-fields-zero-checks-exploiting-broken-object-property-level-authorization-on-vulnbank-a1e2d5d901c6?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 127668,
+        "text": "⤷\nTitle:\nWindows Event Logs & Finding Evil — THB\n════════════════════════\n𐀪\nAuthor:\nMohammed Allehyani\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 15:38:39 GMT\n════════════════════════\n⌗\nTags:\n#etw\n#windows_event_logs\n#finding_evil\n#hackthebox_writeup",
+        "date": "2026-07-28T16:04:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127668_0_cad6c4f8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127668_1_33078e20.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127668",
+        "link": {
+          "title": "Windows Event Logs & Finding Evil — THB",
+          "url": "https://medium.com/@moh9238mmoohh/windows-event-logs-finding-evil-thb-947248b0b537?source=rss------hackthebox_writeup-5"
+        }
+      },
+      {
+        "id": 127667,
+        "text": "⤷\nTitle:\nLog Analysis with SIEM\n════════════════════════\n𐀪\nAuthor:\nCollins Okike\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 14:05:19 GMT\n════════════════════════\n⌗\nTags:\n#splunk\n#tryhackme_walkthrough\n#soc\n#cybersecurity\n#tryhackme",
+        "date": "2026-07-28T16:04:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127667_0_cad6c4f8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127667_1_ee4e1ccc.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127667",
+        "link": {
+          "title": "Log Analysis with SIEM",
+          "url": "https://medium.com/@collinsokiks/log-analysis-with-siem-fa818378c067?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 127666,
+        "text": "⤷\nTitle:\nLinux Fundamentals Part 1 — My Learning\n════════════════════════\n𐀪\nAuthor:\nPriyadharshu\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 14:15:42 GMT\n════════════════════════\n⌗\nTags:\n#linux_fundamentals\n#linux\n#tryhackme",
+        "date": "2026-07-28T16:04:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127666_0_cad6c4f8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127666_1_b29c3c67.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127666",
+        "link": {
+          "title": "Linux Fundamentals Part 1 — My Learning",
+          "url": "https://medium.com/@priya2004dharshu21/linux-fundamentals-part-1-my-learning-fc17f11c8908?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 127665,
+        "text": "⤷\nTitle:\nTryHackMe — The Concierge Knows Too Much\n════════════════════════\n𐀪\nAuthor:\nUfuk Yaman\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 14:31:47 GMT\n════════════════════════\n⌗\nTags:\n#hacker\n#ai_agent\n#ai\n#tryhackme\n#security",
+        "date": "2026-07-28T16:04:46+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127665_0_cad6c4f8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127665_1_e9cef649.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127665",
+        "link": {
+          "title": "TryHackMe — The Concierge Knows Too Much",
+          "url": "https://medium.com/@ufukyaman2004/tryhackme-the-concierge-knows-too-much-495956539837?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 127664,
+        "text": "⤷\nTitle:\nTHM Hacker Holidays Day 1 — The Concierge Knows Too Much\n════════════════════════\n𐀪\nAuthor:\nAmrik Hore\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 15:31:30 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_walkthrough\n#tryhackme\n#tryhackme_writeup\n#thm_writeup\n#ctf_writeup",
+        "date": "2026-07-28T16:04:43+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127664_0_cad6c4f8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127664_1_71b36809.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127664",
+        "link": {
+          "title": "THM Hacker Holidays Day 1 — The Concierge Knows Too Much",
+          "url": "https://amrikhore.medium.com/thm-hacker-holidays-day-1-the-concierge-knows-too-much-aa7f27d805d7?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 127663,
+        "text": "⤷\nTitle:\nThe Concierge Knows Too Much | TryHackMe Write-up\n════════════════════════\n𐀪\nAuthor:\nAbdelrahman Ahmed Saad\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 15:43:47 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#security\n#cybersecurity\n#artificial_intelligence",
+        "date": "2026-07-28T16:04:39+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127663_0_cad6c4f8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127663_1_fae18ef2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127663",
+        "link": {
+          "title": "The Concierge Knows Too Much | TryHackMe Write-up",
+          "url": "https://medium.com/@1abdelrahman.saad1/the-concierge-knows-too-much-tryhackme-write-up-9085144af7d8?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 127662,
+        "text": "⤷\nTitle:\nThe Ultimate Ethical Hacking Roadmap\n════════════════════════\n𐀪\nAuthor:\nYashu\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 14:06:52 GMT\n════════════════════════\n⌗\nTags:\n#computers\n#ethical_hacking\n#hacking\n#cybersecurity",
+        "date": "2026-07-28T16:04:36+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127662_0_cad6c4f8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127662_1_7be7d4c5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127662",
+        "link": {
+          "title": "The Ultimate Ethical Hacking Roadmap",
+          "url": "https://medium.com/@yashuno/the-ultimate-ethical-hacking-roadmap-984678dc78b6?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 127661,
+        "text": "⤷\nTitle:\nOutbound Write-Up(Easy Difficulty)\n════════════════════════\n𐀪\nAuthor:\nJoseph \"n3m0” KANKO\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 14:08:41 GMT\n════════════════════════\n⌗\nTags:\n#ctf_writeup\n#writeup\n#hacking\n#war_machines_hack\n#linux",
+        "date": "2026-07-28T16:04:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127661_0_cad6c4f8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127661_1_337dd33a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127661",
+        "link": {
+          "title": "Outbound Write-Up(Easy Difficulty)",
+          "url": "https://medium.com/@kankojoseph/outbound-write-up-easy-difficulty-c69b90baddf3?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 127660,
+        "text": "⤷\nTitle:\nWhen an AI Hacked Another Company Without Being Asked\n════════════════════════\n𐀪\nAuthor:\nDr. Mohit singhal\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 15:08:46 GMT\n════════════════════════\n⌗\nTags:\n#artificial_intelligence\n#mobile_hacking\n#hacking\n#who_are_hackers\n#cybersecurity",
+        "date": "2026-07-28T16:04:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127660_0_cad6c4f8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127660_1_b9bf0a8d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127660",
+        "link": {
+          "title": "When an AI Hacked Another Company Without Being Asked",
+          "url": "https://medium.com/illumination/when-an-ai-hacked-another-company-without-being-asked-947354c10c6f?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 127659,
+        "text": "⤷\nTitle:\nAutomating Security Assessments with PentesterFlow\n════════════════════════\n𐀪\nAuthor:\nLalatendu Keshari Swain\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 09:19:31 GMT\n════════════════════════\n⌗\nTags:\n#pentesting\n#integration\n#cloud_security_automation\n#bug_bounty\n#security_audit",
+        "date": "2026-07-28T16:04:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127659_0_cad6c4f8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127659_1_5b215f20.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127659",
+        "link": {
+          "title": "Automating Security Assessments with PentesterFlow",
+          "url": "https://lalatenduswain.medium.com/automating-security-assessments-with-pentesterflow-e6328ad67a8b?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 127658,
+        "text": "⤷\nTitle:\nPython Web Penetration Testing — Day 7: Intercepting HTTP Requests — Building Your Own Proxy\n════════════════════════\n𐀪\nAuthor:\nAman Sharma\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 14:25:35 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#cybersecurity\n#bug_bounty\n#tecchnology\n#programming",
+        "date": "2026-07-28T16:04:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127658_0_cad6c4f8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127658_1_9c7b8261.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127658",
+        "link": {
+          "title": "Python Web Penetration Testing — Day 7: Intercepting HTTP Requests — Building Your Own Proxy",
+          "url": "https://osintteam.blog/python-web-penetration-testing-day-7-intercepting-http-requests-building-your-own-proxy-a594aa841edc?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 127657,
+        "text": "⤷\nTitle:\nLab Solved: File Path Traversal — Absolute Path Bypass\n════════════════════════\n𐀪\nAuthor:\nEthical Hacker\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 14:51:38 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#ethical_hacking\n#information_disclosure\n#cybersecurity\n#path_traversal",
+        "date": "2026-07-28T16:04:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127657_0_cad6c4f8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127657_1_9219469d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127657",
+        "link": {
+          "title": "Lab Solved: File Path Traversal — Absolute Path Bypass",
+          "url": "https://medium.com/@tonmoybarmon/lab-solved-file-path-traversal-absolute-path-bypass-85692c84c051?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 127656,
+        "text": "⤷\nTitle:\nGoogle Rolls Out Two-Word Naming System for Threat Actors\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 14:01:13 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#APT\ngroups\n#google\n#Mandiant\n#Threat\nActors\n#threat\nintelligence",
+        "date": "2026-07-28T16:04:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127656_0_cad6c4f8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127656_1_b85a2a2d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127656",
+        "link": {
+          "title": "Google Rolls Out Two-Word Naming System for Threat Actors",
+          "url": "https://meterpreter.org/google-threat-actor-naming-system/"
+        }
+      },
+      {
+        "id": 127655,
+        "text": "⤷\nTitle:\nVatican’s Click To Pray App Exposed 719,000 Users via IDOR Flaw\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 15:00:22 +0000\n════════════════════════\n⌗\nTags:\n#Data\nLeak\n#App\nSecurity\n#Click\nTo Pray\n#Data\nExposure\n#IDOR\n#Vatican",
+        "date": "2026-07-28T16:04:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127655_0_cad6c4f8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127655_1_8194be15.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127655",
+        "link": {
+          "title": "Vatican’s Click To Pray App Exposed 719,000 Users via IDOR Flaw",
+          "url": "https://meterpreter.org/click-to-pray-idor-exposure/"
+        }
+      },
+      {
+        "id": 127654,
+        "text": "⤷\nTitle:\nAembit Joins Snowflake to Tackle AI’s Next Security Frontier: Trusted Agent Interoperability\n════════════════════════\n𐀪\nAuthor:\nCyberNewswire\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 15:16:19 +0000\n════════════════════════\n⌗\nTags:\n#Press\nRelease\n#Product\nLaunch",
+        "date": "2026-07-28T16:04:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127654_0_cad6c4f8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127654_1_c169be3b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127654",
+        "link": {
+          "title": "Aembit Joins Snowflake to Tackle AI’s Next Security Frontier: Trusted Agent Interoperability",
+          "url": "https://hackread.com/aembit-joins-snowflake-to-tackle-ais-next-security-frontier-trusted-agent-interoperability/"
+        }
+      },
+      {
+        "id": 127653,
+        "text": "⤷\nTitle:\nCOFF Mixing - Hiding in Plain Sight\n════════════════════════\n𐀪\nAuthor:\nRasta Mouse\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 14:27:46 GMT\n════════════════════════\n⌗\nTags:\n#crystal_palace",
+        "date": "2026-07-28T16:04:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127653_0_cad6c4f8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127653_1_018f20e2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127653",
+        "link": {
+          "title": "COFF Mixing - Hiding in Plain Sight",
+          "url": "https://rastamouse.me/coff-mixing/"
+        }
+      },
+      {
+        "id": 127652,
+        "text": "⤷\nTitle:\n24,650 Internet-Exposed BMCs Disclose IPMI Password Hashes Before Login\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 20:11:36 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-07-28T16:04:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127652_0_cad6c4f8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127652",
+        "link": {
+          "title": "24,650 Internet-Exposed BMCs Disclose IPMI Password Hashes Before Login",
+          "url": "https://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html"
+        }
+      },
+      {
+        "id": 127651,
+        "text": "⤷\nTitle:\nTengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 20:31:33 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-07-28T16:03:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127651_0_cad6c4f8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127651",
+        "link": {
+          "title": "Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process",
+          "url": "https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html"
+        }
+      },
+      {
         "id": 127650,
         "text": "⤷\nTitle:\n(BAC)Uanprotected admin functionality\n════════════════════════\n𐀪\nAuthor:\nAbdallh Mohamed\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 13:32:11 GMT\n════════════════════════\n⌗\nTags:\n#portswigger_academy_labs\n#owasp_api_security_top_10\n#broken_access_control\n#bug_bounty_tips\n#web_security",
         "date": "2026-07-28T14:05:04+00:00",
@@ -1839,459 +2268,22 @@
           "title": "WhoAmI",
           "url": "https://medium.com/@it.lima.raphael/whoami-3211c7464db9?source=rss------infosec-5"
         }
-      },
-      {
-        "id": 127545,
-        "text": "⤷\nTitle:\nInside a DevSecOps CI/CD Pipeline: How Automated Security Checks Protect Every Commit\n════════════════════════\n𐀪\nAuthor:\nLh1l0v3\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 00:11:56 GMT\n════════════════════════\n⌗\nTags:\n#application_security\n#cloud_security\n#software_development\n#security\n#software_engineering",
-        "date": "2026-07-28T02:03:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127545_0_60c9dbc7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127545_1_3f4fb452.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127545",
-        "link": {
-          "title": "Inside a DevSecOps CI/CD Pipeline: How Automated Security Checks Protect Every Commit",
-          "url": "https://medium.com/@Lh1l0v3/inside-a-devsecops-ci-cd-pipeline-how-automated-security-checks-protect-every-commit-a9fbcbcf598c?source=rss------application_security-5"
-        }
-      },
-      {
-        "id": 127544,
-        "text": "⤷\nTitle:\nHow I Turned an “Informative” HTML Injection into My First Paid Bounty\n════════════════════════\n𐀪\nAuthor:\nMuhammadmaftuhk\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 23:57:41 GMT\n════════════════════════\n⌗\nTags:\n#web_security\n#html_injection\n#bug_bounty\n#bug_bounty_writeup\n#cybersecurity",
-        "date": "2026-07-28T02:03:48+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127544_0_60c9dbc7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127544_1_307b1524.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127544",
-        "link": {
-          "title": "How I Turned an “Informative” HTML Injection into My First Paid Bounty",
-          "url": "https://medium.com/@muhammadmaftuhk261/how-i-turned-an-informative-html-injection-into-my-first-paid-bounty-86de1aa4c8fd?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 127543,
-        "text": "⤷\nTitle:\nLinux Privilege Escalation: Enumeration | Tryhackme Walkthrough | Anon.M | THM\n════════════════════════\n𐀪\nAuthor:\nAnon.M\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 23:47:12 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_writeup\n#tryhackme\n#linux_tutorial\n#cybersecurity\n#tryhackme_walkthrough",
-        "date": "2026-07-28T00:04:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127543_0_60c9dbc7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127543_1_50967274.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127543",
-        "link": {
-          "title": "Linux Privilege Escalation: Enumeration | Tryhackme Walkthrough | Anon.M | THM",
-          "url": "https://medium.com/@anon.business.dd/linux-privilege-escalation-enumeration-tryhackme-walkthrough-anon-m-thm-4bcd5596098c?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 127542,
-        "text": "⤷\nTitle:\nThe captive portal problem: your free-WiFi timer was never really counting you\n════════════════════════\n𐀪\nAuthor:\nAlex Nebot Oller\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 23:44:41 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#network_security\n#technology\n#infosec",
-        "date": "2026-07-28T00:03:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127542_0_60c9dbc7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127542_1_860fbb2e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127542",
-        "link": {
-          "title": "The captive portal problem: your free-WiFi timer was never really counting you",
-          "url": "https://levelup.gitconnected.com/the-captive-portal-problem-your-free-wifi-timer-was-never-really-counting-you-d6e60f83c7c8?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 127541,
-        "text": "⤷\nTitle:\nJWT Security: 12 Mistakes Developers Still Make\n════════════════════════\n𐀪\nAuthor:\nIsmail Tasdelen\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 23:21:18 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#encryption\n#software_development\n#software_engineering\n#application_security",
-        "date": "2026-07-28T00:03:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127541_0_60c9dbc7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127541_1_982cd39d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127541",
-        "link": {
-          "title": "JWT Security: 12 Mistakes Developers Still Make",
-          "url": "https://ismailtasdelen.medium.com/jwt-security-12-mistakes-developers-still-make-fc7af888621b?source=rss------application_security-5"
-        }
-      },
-      {
-        "id": 127540,
-        "text": "⤷\nTitle:\nToo Many AI Tools? How to Create Story Videos In One Workflow With Wondershare Media.io\n════════════════════════\n𐀪\nAuthor:\nOwais Sultan\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 22:56:11 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#AI\n#Media\n.io\n#Video\n#Wondershare",
-        "date": "2026-07-28T00:03:51+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127540_0_60c9dbc7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127540_1_cb8b9680.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127540",
-        "link": {
-          "title": "Too Many AI Tools? How to Create Story Videos In One Workflow With Wondershare Media.io",
-          "url": "https://hackread.com/ai-tools-create-story-videos-workflow-wondershare-media-io/"
-        }
-      },
-      {
-        "id": 127539,
-        "text": "⤷\nTitle:\nTryHackMe XSS Introduction Walkthrough\n════════════════════════\n𐀪\nAuthor:\nRich\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 20:47:05 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#tryhackme_writeup\n#cross_site_scripting\n#tryhackme_walkthrough\n#web_application_security",
-        "date": "2026-07-27T22:04:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127539_0_60c9dbc7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127539_1_298e6dc9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127539",
-        "link": {
-          "title": "TryHackMe XSS Introduction Walkthrough",
-          "url": "https://happycamper84.medium.com/tryhackme-xss-introduction-walkthrough-e37e061f8a93?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 127538,
-        "text": "⤷\nTitle:\nTryHackMe | Attacktive Directory\n════════════════════════\n𐀪\nAuthor:\nTabrizabuzarov\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 21:44:02 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing",
-        "date": "2026-07-27T22:04:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127538_0_60c9dbc7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127538_1_6b77e6ee.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127538",
-        "link": {
-          "title": "TryHackMe | Attacktive Directory",
-          "url": "https://medium.com/@tabrizabuzarov/tryhackme-attacktive-directory-b35f3b737d0b?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 127537,
-        "text": "⤷\nTitle:\nIs Your Phone Near Your Keyboard? Because It Might Be Listening to Every Word You Type\n════════════════════════\n𐀪\nAuthor:\nBerend Watchus\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 21:32:39 GMT\n════════════════════════\n⌗\nTags:\n#privacy\n#spying\n#cybersecurity\n#infosec\n#ai",
-        "date": "2026-07-27T22:04:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127537_0_60c9dbc7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127537_1_c2c35250.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127537",
-        "link": {
-          "title": "Is Your Phone Near Your Keyboard? Because It Might Be Listening to Every Word You Type",
-          "url": "https://medium.com/@BerendWatchusIndependent/is-your-phone-near-your-keyboard-because-it-might-be-listening-to-every-word-you-type-d4ab4ca503fa?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 127536,
-        "text": "⤷\nTitle:\nDeath Note — Exploited Authentication & Privilege Escalation vulnerabilities to compromise a server\n════════════════════════\n𐀪\nAuthor:\nCyberLabyrinthX\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 21:05:06 GMT\n════════════════════════\n⌗\nTags:\n#vulnhub_walkthrough\n#hacking\n#tryhackme_walkthrough\n#cyber_security_awareness\n#web_hacking",
-        "date": "2026-07-27T22:03:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127536_0_60c9dbc7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127536_1_19c38094.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127536",
-        "link": {
-          "title": "Death Note — Exploited Authentication & Privilege Escalation vulnerabilities to compromise a server",
-          "url": "https://cyberlabyrinthx.medium.com/death-note-exploited-authentication-privilege-escalation-vulnerabilities-to-compromise-a-server-c120dbc2911c?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 127535,
-        "text": "⤷\nTitle:\nMobile Malware Analysis: 10 Tools to Reverse Android & iOS Apps Like a Pro\n════════════════════════\n𐀪\nAuthor:\nVery Lazy Tech\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 20:01:27 GMT\n════════════════════════\n⌗\nTags:\n#python\n#hacking\n#cybersecurity\n#bug_bounty\n#cyber",
-        "date": "2026-07-27T22:03:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127535_0_60c9dbc7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127535_1_c99d80b5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127535",
-        "link": {
-          "title": "Mobile Malware Analysis: 10 Tools to Reverse Android & iOS Apps Like a Pro",
-          "url": "https://medium.com/@verylazytech/mobile-malware-analysis-10-tools-to-reverse-android-ios-apps-like-a-pro-cadac2e6a974?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 127534,
-        "text": "⤷\nTitle:\nCISA KEV Additions: Arista VeloCloud and FortiOS Flaws Now Exploited\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 21:52:47 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Arista\n#CISA\nKEV\n#CVE_2025_68686\n#CVE_2026_16812\n#Fortinet\n#FortiOS\n#Known\nExploited Vulnerabilities\n#os\ncommand injection\n#SSL\nVPN\n#VeloCloud\nOrchestrator",
-        "date": "2026-07-27T22:03:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127534_0_60c9dbc7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127534_1_1c06b9e2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127534",
-        "link": {
-          "title": "CISA KEV Additions: Arista VeloCloud and FortiOS Flaws Now Exploited",
-          "url": "https://securityonline.info/cisa-kev-arista-velocloud-fortios/"
-        }
-      },
-      {
-        "id": 127533,
-        "text": "⤷\nTitle:\nMicrosoft Fixes Certighost Flaw That Allowed Domain Controller Impersonation\n════════════════════════\n𐀪\nAuthor:\nWaqas\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 20:49:40 +0000\n════════════════════════\n⌗\nTags:\n#Security\n#Microsoft\n#Aniq\nFakhrul\n#Certighost\n#Chase\n#Cyber\nAttack\n#Cybersecurity\n#Domain\nController\n#H0j3n\n#Vulnerability",
-        "date": "2026-07-27T22:03:48+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127533_0_60c9dbc7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127533_1_805e5093.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127533",
-        "link": {
-          "title": "Microsoft Fixes Certighost Flaw That Allowed Domain Controller Impersonation",
-          "url": "https://hackread.com/microsoft-certighost-flaw-domain-controller-impersonation/"
-        }
-      },
-      {
-        "id": 127532,
-        "text": "⤷\nTitle:\nDay 21: Kusto Query Language (KQL) — The Foundation of Microsoft Sentinel Threat Hunting\n════════════════════════\n𐀪\nAuthor:\nSIAM AHMED\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 18:13:37 GMT\n════════════════════════\n⌗\nTags:\n#kql\n#soc_analyst\n#cybersecurity\n#ethical_hacking\n#deep_learning",
-        "date": "2026-07-27T20:04:35+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127532_0_60c9dbc7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127532_1_483c0a05.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127532",
-        "link": {
-          "title": "Day 21: Kusto Query Language (KQL) — The Foundation of Microsoft Sentinel Threat Hunting",
-          "url": "https://medium.com/@ahmedseam094/day-21-kusto-query-language-kql-the-foundation-of-microsoft-sentinel-threat-hunting-3f230f980f77?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 127531,
-        "text": "⤷\nTitle:\nThe Concierge Knows Too Much — TryHackMe Write-up\n════════════════════════\n𐀪\nAuthor:\nMohitranjan\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 18:10:11 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#tryhackme_hacker\n#tryhackme_walkthrough\n#tryhackme_writeup\n#the_concierge",
-        "date": "2026-07-27T20:04:32+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127531_0_60c9dbc7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127531_1_4b01fabd.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127531",
-        "link": {
-          "title": "The Concierge Knows Too Much — TryHackMe Write-up",
-          "url": "https://medium.com/@mohitranjan480/the-concierge-knows-too-much-tryhackme-write-up-77bf101ed464?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 127530,
-        "text": "⤷\nTitle:\nThe Concierge Knows Too Much: A walkthrough of THM Hacker Holidays - Day 1\n════════════════════════\n𐀪\nAuthor:\nKareem Mohamed (0xY0K4_CL4W )\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 18:14:52 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#tryhackme\n#hacker_holidays\n#ai\n#ctf",
-        "date": "2026-07-27T20:04:29+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127530_0_60c9dbc7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127530_1_bc8ba934.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127530",
-        "link": {
-          "title": "The Concierge Knows Too Much: A walkthrough of THM Hacker Holidays - Day 1",
-          "url": "https://medium.com/@KMBkareem/the-concierge-knows-too-much-a-walkthrough-of-thm-hacker-holidays-day-1-61bebc7fd517?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 127529,
-        "text": "⤷\nTitle:\nHacker Holidays — Day 1: What I Learned from “The Concierge Knows Too Much”\n════════════════════════\n𐀪\nAuthor:\nJitu Sah\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 18:15:47 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ethical_hacking\n#tryhackme\n#artificial_intelligence\n#information_security",
-        "date": "2026-07-27T20:04:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127529_0_60c9dbc7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127529_1_a6f91f97.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127529",
-        "link": {
-          "title": "Hacker Holidays — Day 1: What I Learned from “The Concierge Knows Too Much”",
-          "url": "https://medium.com/@jitu141r/hacker-holidays-day-1-what-i-learned-from-the-concierge-knows-too-much-b888fdc42b94?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 127528,
-        "text": "⤷\nTitle:\nThe Concierge Knows Too Much — TryHackMe WalkThrough(Hacker Holidays)\n════════════════════════\n𐀪\nAuthor:\nSunjid Ahmed Siyem\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 18:35:03 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#the_concierge_knows_too\n#hacker_holidays",
-        "date": "2026-07-27T20:04:22+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127528_0_60c9dbc7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127528_1_df492f36.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127528",
-        "link": {
-          "title": "The Concierge Knows Too Much — TryHackMe WalkThrough(Hacker Holidays)",
-          "url": "https://medium.com/@sunjid-ahmed/the-concierge-knows-too-much-tryhackme-walkthrough-hacker-holidays-925e60cc3635?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 127527,
-        "text": "⤷\nTitle:\nHacker Holidays — Day 0 — The Brochure\n════════════════════════\n𐀪\nAuthor:\nmr-r3b00t500\n════════════════════════\nⴵ\nTime:\nMon, 27 Jul 2026 18:36:03 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_walkthrough\n#tryhackme_writeup\n#ctf\n#tryhackme\n#ctf_writeup",
-        "date": "2026-07-27T20:04:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127527_0_60c9dbc7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127527_1_65e4d24d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127527",
-        "link": {
-          "title": "Hacker Holidays — Day 0 — The Brochure",
-          "url": "https://medium.com/@r3b00t502/the-brochure-394f4876b173?source=rss------tryhackme-5"
-        }
       }
     ]
   },
-  "last_update": "2026-07-28T14:56:47.358958+00:00",
+  "last_update": "2026-07-28T16:28:35.216374+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 194,
-    "total_files": 194,
+    "total_media": 192,
+    "total_files": 192,
     "total_links": 0,
     "files_by_type": {
-      "image": 194
+      "image": 192
     },
-    "referenced_files": 194,
-    "existing_media_files": 194,
-    "total_size_mb": 5.44,
-    "last_calculation": "2026-07-28T14:56:47.360609+00:00"
+    "referenced_files": 192,
+    "existing_media_files": 192,
+    "total_size_mb": 5.25,
+    "last_calculation": "2026-07-28T16:28:35.218729+00:00"
   }
 }
