@@ -2,6 +2,404 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 127888,
+        "text": "⤷\nTitle:\nSSRF (Server Side Request Forgery) Nedir?\n════════════════════════\n𐀪\nAuthor:\nMert Budak\n════════════════════════\nⴵ\nTime:\nWed, 29 Jul 2026 14:12:15 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#siber_guvenlik\n#web_security\n#ssrf\n#portswigger",
+        "date": "2026-07-29T16:04:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127888_0_0110718a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127888_1_a284c301.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127888",
+        "link": {
+          "title": "SSRF (Server Side Request Forgery) Nedir?",
+          "url": "https://mertbudak.medium.com/ssrf-server-side-request-forgery-nedir-58810f2f5594?source=rss------ssrf-5"
+        }
+      },
+      {
+        "id": 127887,
+        "text": "⤷\nTitle:\n12 X Logo Colors\n════════════════════════\n𐀪\nAuthor:\nColoroblox ()\n════════════════════════\nⴵ\nTime:\nWed, 29 Jul 2026 14:41:36 GMT\n════════════════════════\n⌗\nTags:\n#colors\n#logo\n#xs",
+        "date": "2026-07-29T16:04:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127887_0_0110718a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127887_1_c40a310f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127887",
+        "link": {
+          "title": "12 X Logo Colors",
+          "url": "https://medium.com/@Coloroblox/12-x-logo-colors-544657ca56fa?source=rss------xss-5"
+        }
+      },
+      {
+        "id": 127886,
+        "text": "⤷\nTitle:\nRoom 404 Writeup | Hacker Holiday 2026 | Tryhackme\n════════════════════════\n𐀪\nAuthor:\nPiyush Manghnani\n════════════════════════\nⴵ\nTime:\nWed, 29 Jul 2026 13:59:33 GMT\n════════════════════════\n⌗\nTags:\n#hacker_holidays_2026\n#room_404\n#tryhackme_walkthrough\n#tryhackme_writeup\n#tryhackme",
+        "date": "2026-07-29T16:04:44+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127886_0_0110718a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127886_1_114356e5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127886",
+        "link": {
+          "title": "Room 404 Writeup | Hacker Holiday 2026 | Tryhackme",
+          "url": "https://medium.com/@piyushmanghnani29/room-404-writeup-hacker-holiday-2026-tryhackme-996e95532096?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 127885,
+        "text": "⤷\nTitle:\nBLUE THM write-up\n════════════════════════\n𐀪\nAuthor:\nCreepus\n════════════════════════\nⴵ\nTime:\nWed, 29 Jul 2026 15:31:01 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#solved\n#ctf_writeup\n#tryhackme_walkthrough\n#pwned",
+        "date": "2026-07-29T16:04:40+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127885_0_0110718a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127885_1_d1e40c82.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127885",
+        "link": {
+          "title": "BLUE THM write-up",
+          "url": "https://medium.com/@creepus/blue-thm-write-up-6312d1f8e45f?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 127884,
+        "text": "⤷\nTitle:\nFinding Vulnerabilities Is Easy. Reporting Them Well Is the Real Skill.\n════════════════════════\n𐀪\nAuthor:\nJevon Davis\n════════════════════════\nⴵ\nTime:\nWed, 29 Jul 2026 14:01:04 GMT\n════════════════════════\n⌗\nTags:\n#risk_management\n#leadership\n#information_security\n#cybersecurity\n#penetration_testing",
+        "date": "2026-07-29T16:04:37+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127884_0_0110718a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127884_1_053c0d1b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127884",
+        "link": {
+          "title": "Finding Vulnerabilities Is Easy. Reporting Them Well Is the Real Skill.",
+          "url": "https://javy26.medium.com/finding-vulnerabilities-is-easy-reporting-them-well-is-the-real-skill-6ffc3a9c5a58?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 127883,
+        "text": "⤷\nTitle:\nBeyond Automation: 7 Web Vulnerabilities Best Found Through Manual Testing\n════════════════════════\n𐀪\nAuthor:\nBlueorionn\n════════════════════════\nⴵ\nTime:\nWed, 29 Jul 2026 14:31:02 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#ethical_hacking\n#cybersecurity",
+        "date": "2026-07-29T16:04:33+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127883_0_0110718a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127883_1_62bdc68f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127883",
+        "link": {
+          "title": "Beyond Automation: 7 Web Vulnerabilities Best Found Through Manual Testing",
+          "url": "https://medium.com/@blueorionn/beyond-automation-7-web-vulnerabilities-best-found-through-manual-testing-42f74c14540f?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 127882,
+        "text": "⤷\nTitle:\nHacker Holidays Day 1: The Concierge Knows Too Much — TryHackMe Walkthrough & Prompt Injection\n════════════════════════\n𐀪\nAuthor:\nA. AntorCSE404\n════════════════════════\nⴵ\nTime:\nWed, 29 Jul 2026 14:47:52 GMT\n════════════════════════\n⌗\nTags:\n#ai_agent\n#hacking\n#tryhackme\n#cybersecurity\n#programming",
+        "date": "2026-07-29T16:04:30+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127882_0_0110718a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127882_1_3a24d1af.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127882",
+        "link": {
+          "title": "Hacker Holidays Day 1: The Concierge Knows Too Much — TryHackMe Walkthrough & Prompt Injection",
+          "url": "https://medium.com/@antor.csecu/hacker-holidays-day-1-the-concierge-knows-too-much-tryhackme-walkthrough-prompt-injection-7b7ea60a100e?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 127881,
+        "text": "⤷\nTitle:\nReverse Engineering: Cinderbound - HTB Cyber Apocalypse CTF 2026: The Salt Crown (WriteUp)\n════════════════════════\n𐀪\nAuthor:\nEVEX Security\n════════════════════════\nⴵ\nTime:\nWed, 29 Jul 2026 15:01:46 GMT\n════════════════════════\n⌗\nTags:\n#hackthebox\n#ctf_writeup\n#ethical_hacking\n#reverse_engineering\n#hacking",
+        "date": "2026-07-29T16:04:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127881_0_0110718a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127881_1_2064f29b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127881",
+        "link": {
+          "title": "Reverse Engineering: Cinderbound - HTB Cyber Apocalypse CTF 2026: The Salt Crown (WriteUp)",
+          "url": "https://evexsecurity.medium.com/reverse-engineering-cinderbound-htb-cyber-apocalypse-ctf-2026-the-salt-crown-writeup-ff63908743e0?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 127880,
+        "text": "⤷\nTitle:\nReverse Engineering: RINgtrue - HTB Cyber Apocalypse CTF 2026: The Salt Crown (WriteUp)\n════════════════════════\n𐀪\nAuthor:\nEVEX Security\n════════════════════════\nⴵ\nTime:\nWed, 29 Jul 2026 15:23:12 GMT\n════════════════════════\n⌗\nTags:\n#reverse_engineering\n#ctf_writeup\n#hacking\n#ethical_hacking\n#hackthebox",
+        "date": "2026-07-29T16:04:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127880_0_0110718a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127880_1_e4307096.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127880",
+        "link": {
+          "title": "Reverse Engineering: RINgtrue - HTB Cyber Apocalypse CTF 2026: The Salt Crown (WriteUp)",
+          "url": "https://evexsecurity.medium.com/reverse-engineering-ringtrue-htb-cyber-apocalypse-ctf-2026-the-salt-crown-writeup-345023dade76?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 127879,
+        "text": "⤷\nTitle:\nUnauthenticated IPFS Uploads Led to Stored XSS on a Web3 Platform\n════════════════════════\n𐀪\nAuthor:\ndefault_0x\n════════════════════════\nⴵ\nTime:\nWed, 29 Jul 2026 14:06:49 GMT\n════════════════════════\n⌗\nTags:\n#bug_hunting\n#aiera\n#vulnerability\n#bug_bounty",
+        "date": "2026-07-29T16:04:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127879_0_0110718a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127879_1_675e2ef5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127879",
+        "link": {
+          "title": "Unauthenticated IPFS Uploads Led to Stored XSS on a Web3 Platform",
+          "url": "https://medium.com/@default_Ox/unauthenticated-ipfs-uploads-led-to-stored-xss-on-a-web3-platform-d5b31f3869b1?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 127878,
+        "text": "⤷\nTitle:\nPakistan’s First Bug Bounty Platform: Meet BugChase.com\n════════════════════════\n𐀪\nAuthor:\nMuhammad Qasim\n════════════════════════\nⴵ\nTime:\nWed, 29 Jul 2026 15:13:42 GMT\n════════════════════════\n⌗\nTags:\n#saas\n#cybersecurity\n#bug_bounty",
+        "date": "2026-07-29T16:04:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127878_0_0110718a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127878_1_f34f7bb9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127878",
+        "link": {
+          "title": "Pakistan’s First Bug Bounty Platform: Meet BugChase.com",
+          "url": "https://medium.com/@m_kasim2/pakistans-first-bug-bounty-platform-meet-bugchase-com-45ba3a7e53db?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 127877,
+        "text": "⤷\nTitle:\nOceanLotus APT-C-00 Campaign Unleashes a Stealthy New Arsenal\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nWed, 29 Jul 2026 14:16:59 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#APT_C_00\n#APT32\n#cybersecurity\n#DLL\nSideloading\n#OceanLotus",
+        "date": "2026-07-29T16:04:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127877_0_0110718a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127877_1_cf58a5a5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127877",
+        "link": {
+          "title": "OceanLotus APT-C-00 Campaign Unleashes a Stealthy New Arsenal",
+          "url": "https://meterpreter.org/oceanlotus-apt-c-00-campaign/"
+        }
+      },
+      {
+        "id": 127876,
+        "text": "⤷\nTitle:\nvBulletin Pre-Auth RCE: The Peril of Unpatched Forums\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nWed, 29 Jul 2026 15:03:17 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\n#CVE_2026_61511\n#cybersecurity\n#exploit\n#RCE\n#vBulletin",
+        "date": "2026-07-29T16:04:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127876_0_0110718a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127876_1_9f2688e2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127876",
+        "link": {
+          "title": "vBulletin Pre-Auth RCE: The Peril of Unpatched Forums",
+          "url": "https://meterpreter.org/vbulletin-pre-auth-rce-cve-2026-61511/"
+        }
+      },
+      {
+        "id": 127875,
+        "text": "⤷\nTitle:\nCVSS 10.0 RufRoot Flaw Allowed Attackers to Hijack Ruflo Without Logging In\n════════════════════════\n𐀪\nAuthor:\nWaqas\n════════════════════════\nⴵ\nTime:\nWed, 29 Jul 2026 14:58:15 +0000\n════════════════════════\n⌗\nTags:\n#Security\n#Claude\nFlow\n#Cybersecurity\n#Noma\nSecurity\n#Ruflo\n#RufRoot\n#Vulnerability",
+        "date": "2026-07-29T16:04:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127875_0_0110718a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127875_1_b53226a4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127875",
+        "link": {
+          "title": "CVSS 10.0 RufRoot Flaw Allowed Attackers to Hijack Ruflo Without Logging In",
+          "url": "https://hackread.com/rufroot-vulnerability-attackers-hijack-ruflo-login/"
+        }
+      },
+      {
+        "id": 127874,
+        "text": "⤷\nTitle:\nNine-Year Fraud Campaign Clones Russian Company Sites to Steal Advance Payments\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nWed, 29 Jul 2026 19:12:57 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-07-29T16:04:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127874_0_0110718a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127874",
+        "link": {
+          "title": "Nine-Year Fraud Campaign Clones Russian Company Sites to Steal Advance Payments",
+          "url": "https://thehackernews.com/2026/07/nine-year-fraud-campaign.html"
+        }
+      },
+      {
+        "id": 127873,
+        "text": "⤷\nTitle:\nCoordinated Cyberattack Targets 30+ Minnesota Water Systems as One Plant Goes Offline\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nWed, 29 Jul 2026 19:18:36 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-07-29T16:03:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127873_0_0110718a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127873",
+        "link": {
+          "title": "Coordinated Cyberattack Targets 30+ Minnesota Water Systems as One Plant Goes Offline",
+          "url": "https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html"
+        }
+      },
+      {
+        "id": 127872,
+        "text": "⤷\nTitle:\nThree Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nWed, 29 Jul 2026 21:01:15 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-07-29T16:03:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127872_0_0110718a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127872",
+        "link": {
+          "title": "Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape",
+          "url": "https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html"
+        }
+      },
+      {
+        "id": 127871,
+        "text": "⤷\nTitle:\nRuflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nWed, 29 Jul 2026 21:09:30 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-07-29T16:03:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_127871_0_0110718a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/127871",
+        "link": {
+          "title": "Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory",
+          "url": "https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html"
+        }
+      },
+      {
         "id": 127870,
         "text": "⤷\nTitle:\nCTF Write-up The Compressed Truth\n════════════════════════\n𐀪\nAuthor:\nDemciok\n════════════════════════\nⴵ\nTime:\nWed, 29 Jul 2026 12:55:15 GMT\n════════════════════════\n⌗\nTags:\n#ctf_writeup\n#forensics\n#cybersecurity\n#ctf\n#hackthebox_writeup",
         "date": "2026-07-29T14:05:20+00:00",
@@ -1846,432 +2244,22 @@
           "title": "Muhsin Ali Shah — Cybersecurity Researcher, Cloud Security Engineering Student & AI Enthusiast",
           "url": "https://medium.com/@imuhsinalishah/muhsin-ali-shah-cybersecurity-researcher-cloud-security-engineering-student-ai-enthusiast-0a79abea3208?source=rss------hacking-5"
         }
-      },
-      {
-        "id": 127748,
-        "text": "⤷\nTitle:\nGuía Definitiva de Seguridad en APIs: OWASP Top 10, Bypasses y Mitigación\n════════════════════════\n𐀪\nAuthor:\nJPablo13\n════════════════════════\nⴵ\nTime:\nWed, 29 Jul 2026 00:01:02 GMT\n════════════════════════\n⌗\nTags:\n#technology\n#api\n#bug_bounty\n#hacking\n#cybersecurity",
-        "date": "2026-07-29T02:04:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127748_0_cad6c4f8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127748",
-        "link": {
-          "title": "Guía Definitiva de Seguridad en APIs: OWASP Top 10, Bypasses y Mitigación",
-          "url": "https://medium.com/@jpablo13/gu%C3%ADa-definitiva-de-seguridad-en-apis-owasp-top-10-bypasses-y-mitigaci%C3%B3n-403c06ffb534?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 127747,
-        "text": "⤷\nTitle:\nEverything Is Input: SQL Injection Through Parameter Names\n════════════════════════\n𐀪\nAuthor:\nClark Voss\n════════════════════════\nⴵ\nTime:\nWed, 29 Jul 2026 01:50:43 GMT\n════════════════════════\n⌗\nTags:\n#security\n#ethical_hacking\n#cybersecurity\n#bug_bounty\n#hacking",
-        "date": "2026-07-29T02:04:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127747_0_cad6c4f8.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127747_1_4ca8f7a3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127747",
-        "link": {
-          "title": "Everything Is Input: SQL Injection Through Parameter Names",
-          "url": "https://clarkvoss.medium.com/everything-is-input-sql-injection-through-parameter-names-83f517eee633?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 127746,
-        "text": "⤷\nTitle:\nCVE-2026-45293: Arbitrary Code Execution in WordPress Coding Standards, a Tool With 49M+ Installs\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 29 Jul 2026 01:02:18 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Arbitrary\nCode Execution\n#CI\n/CD security\n#CVE_2026_45293\n#PHP_CodeSniffer\n#PHPCS\n#Static\nAnalysis\n#Supply\nChain Security\n#WordPress\nCoding Standards\n#WordPressCS",
-        "date": "2026-07-29T02:04:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127746_0_cad6c4f8.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127746_1_55642c33.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127746",
-        "link": {
-          "title": "CVE-2026-45293: Arbitrary Code Execution in WordPress Coding Standards, a Tool With 49M+ Installs",
-          "url": "https://securityonline.info/wordpresscs-cve-2026-45293/"
-        }
-      },
-      {
-        "id": 127745,
-        "text": "⤷\nTitle:\nDay 1/10: The Attacker’s Recon Phase — Cyber Kill Chain\n════════════════════════\n𐀪\nAuthor:\nKay\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 22:29:29 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#tryhackme\n#information_security\n#reconnaissance\n#soc_analyst",
-        "date": "2026-07-29T00:04:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127745_0_cad6c4f8.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127745_1_095d2cc2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127745",
-        "link": {
-          "title": "Day 1/10: The Attacker’s Recon Phase — Cyber Kill Chain",
-          "url": "https://mrkay7.medium.com/day-1-10-the-attackers-recon-phase-cyber-kill-chain-e7c16f5eeb26?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 127744,
-        "text": "⤷\nTitle:\nTryHackMe Hacker Holidays 2026 | Day 1 | AI\n════════════════════════\n𐀪\nAuthor:\nMistressOfTheDarkweb\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 22:56:37 GMT\n════════════════════════\n⌗\nTags:\n#ai\n#cybersecurity\n#tryhackme",
-        "date": "2026-07-29T00:04:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127744_0_cad6c4f8.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127744_1_15099cc0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127744",
-        "link": {
-          "title": "TryHackMe Hacker Holidays 2026 | Day 1 | AI",
-          "url": "https://medium.com/@h4x4ncvlt/tryhackme-hacker-holidays-2026-day-1-ai-707c557f7690?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 127743,
-        "text": "⤷\nTitle:\nSQL Injection Lab | TryHackMe (THM)\n════════════════════════\n𐀪\nAuthor:\nNuray Xudadatova\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 23:02:43 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_writeup\n#sql_injection_attack\n#sql_injection\n#tryhackme\n#sql_database",
-        "date": "2026-07-29T00:04:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127743_0_cad6c4f8.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127743_1_f8c3e127.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127743",
-        "link": {
-          "title": "SQL Injection Lab | TryHackMe (THM)",
-          "url": "https://estoym1a.medium.com/sql-injection-lab-tryhackme-thm-2fe1bdf72974?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 127742,
-        "text": "⤷\nTitle:\nTryHackMe Hacker Holidays 2026 | Day 2 | Room 404\n════════════════════════\n𐀪\nAuthor:\nMistressOfTheDarkweb\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 23:08:39 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#web_hacking\n#cybersecurity",
-        "date": "2026-07-29T00:04:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127742_0_cad6c4f8.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127742_1_239ffbb2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127742",
-        "link": {
-          "title": "TryHackMe Hacker Holidays 2026 | Day 2 | Room 404",
-          "url": "https://medium.com/@h4x4ncvlt/tryhackme-hacker-holidays-2026-day-2-room-404-dc35c17030b2?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 127741,
-        "text": "⤷\nTitle:\nInternal: TryHackMe Writeup [PT-BR]\n════════════════════════\n𐀪\nAuthor:\nsbimoxa\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 23:21:31 GMT\n════════════════════════\n⌗\nTags:\n#ctf_writeup\n#tryhackme\n#cibersegurança\n#tryhackme_writeup\n#medium_brasil",
-        "date": "2026-07-29T00:04:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127741_0_cad6c4f8.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127741_1_e7a9a153.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127741",
-        "link": {
-          "title": "Internal: TryHackMe Writeup [PT-BR]",
-          "url": "https://medium.com/@sbimoxa/internal-tryhackme-writeup-pt-br-b9175ae97154?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 127740,
-        "text": "⤷\nTitle:\nTHM: Room 404 Walkthrough | Hacker Holidays: Day 2 | Github Repository\n════════════════════════\n𐀪\nAuthor:\nN3NU\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 23:35:34 GMT\n════════════════════════\n⌗\nTags:\n#artificial_intelligence\n#cybersecurity\n#technology\n#tryhackme\n#software_development",
-        "date": "2026-07-29T00:04:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127740_0_cad6c4f8.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127740_1_836146fb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127740",
-        "link": {
-          "title": "THM: Room 404 Walkthrough | Hacker Holidays: Day 2 | Github Repository",
-          "url": "https://n3nu.medium.com/thm-room-404-walkthrough-hacker-holidays-day-2-github-repository-60d599344233?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 127739,
-        "text": "⤷\nTitle:\nExploiting Remote Code Execution in D-Tale Through Unsafe Filter Evaluation\n════════════════════════\n𐀪\nAuthor:\nAyobami olaniyi\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 22:31:55 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#cybersecurity\n#ethical_hacking\n#python",
-        "date": "2026-07-29T00:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127739_0_cad6c4f8.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127739_1_dde1f225.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127739",
-        "link": {
-          "title": "Exploiting Remote Code Execution in D-Tale Through Unsafe Filter Evaluation",
-          "url": "https://medium.com/@danielolaniyi400/exploiting-remote-code-execution-in-d-tale-through-unsafe-filter-evaluation-1a72abe59691?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 127738,
-        "text": "⤷\nTitle:\nCuando la memoria de un agente de IA se convierte en una puerta trasera\n════════════════════════\n𐀪\nAuthor:\nTU INSIGNIA\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 23:52:39 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#ai_agent\n#ai\n#artificial_intelligence\n#growth_hacking",
-        "date": "2026-07-29T00:03:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127738_0_cad6c4f8.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127738_1_25d55a77.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127738",
-        "link": {
-          "title": "Cuando la memoria de un agente de IA se convierte en una puerta trasera",
-          "url": "https://medium.com/@TUINSIGNIA/cuando-la-memoria-de-un-agente-de-ia-se-convierte-en-una-puerta-trasera-2dc12ab9a4ce?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 127737,
-        "text": "⤷\nTitle:\nWhy Bug Hunters Skip Role-Based API Testing And How I Turned a Writer Token Into an SSRF\n════════════════════════\n𐀪\nAuthor:\nCypherNova1337\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 19:25:32 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#hacking\n#cybersecurity\n#api_security\n#penetration_testing",
-        "date": "2026-07-29T00:03:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127737_0_cad6c4f8.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127737_1_e7805292.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127737",
-        "link": {
-          "title": "Why Bug Hunters Skip Role-Based API Testing And How I Turned a Writer Token Into an SSRF",
-          "url": "https://cyphernova1337.medium.com/why-bug-hunters-skip-role-based-api-testing-and-how-i-turned-a-writer-token-into-an-ssrf-55397afe9848?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 127736,
-        "text": "⤷\nTitle:\nI Found a Major SaaS Platform’s Internal Credentials by Calling an Endpoint They Forgot to Lock…\n════════════════════════\n𐀪\nAuthor:\nCypherNova1337\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 23:12:01 GMT\n════════════════════════\n⌗\nTags:\n#information_security\n#hacking\n#information_disclosure\n#bug_bounty\n#cybersecurity",
-        "date": "2026-07-29T00:03:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127736_0_cad6c4f8.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127736_1_4b6f9b86.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127736",
-        "link": {
-          "title": "I Found a Major SaaS Platform’s Internal Credentials by Calling an Endpoint They Forgot to Lock…",
-          "url": "https://cyphernova1337.medium.com/i-found-a-major-saas-platforms-internal-credentials-by-calling-an-endpoint-they-forgot-to-lock-5ebcd2bd830a?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 127735,
-        "text": "⤷\nTitle:\nWhen I started this room, I honestly thought it would be another quick OSINT challenge.\n════════════════════════\n𐀪\nAuthor:\nYoussef Mohammed\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 20:40:12 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#cybersecurity\n#tryhackme_writeup\n#osint_investigation\n#capture_the_flag",
-        "date": "2026-07-28T22:05:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127735_0_cad6c4f8.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127735_1_7353a589.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127735",
-        "link": {
-          "title": "When I started this room, I honestly thought it would be another quick OSINT challenge.",
-          "url": "https://medium.com/@youssifamen45/when-i-started-this-room-i-honestly-thought-it-would-be-another-quick-osint-challenge-662ea0cca688?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 127734,
-        "text": "⤷\nTitle:\nValley(TryHackMe) — Pentesting walkthrough\n════════════════════════\n𐀪\nAuthor:\nRevanthjugunta\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 21:51:36 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#ethical_hacking\n#tryhackme_walkthrough\n#ctf_walkthrough\n#cybersecurity",
-        "date": "2026-07-28T22:04:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127734_0_cad6c4f8.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127734_1_4501ca1d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127734",
-        "link": {
-          "title": "Valley(TryHackMe) — Pentesting walkthrough",
-          "url": "https://medium.com/@revanthjugunta/valley-tryhackme-pentesting-walkthrough-9e3930ad7555?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 127733,
-        "text": "⤷\nTitle:\nTryHackMe Hackers Holiday Day 2 Room 404 Write-Up\n════════════════════════\n𐀪\nAuthor:\nKubera Krishna\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 20:03:19 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_writeup\n#ctf\n#cybersecurity\n#tryhackme\n#directory_enumeration",
-        "date": "2026-07-28T22:04:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127733_0_cad6c4f8.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127733_1_82cc2fcc.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127733",
-        "link": {
-          "title": "TryHackMe Hackers Holiday Day 2 Room 404 Write-Up",
-          "url": "https://medium.com/@KuberaKrishna/tryhackme-hackers-holiday-day-2-room-404-write-up-b9cd8b6050ff?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 127732,
-        "text": "⤷\nTitle:\nRoom 404- TryHackMe Walkthrough\n════════════════════════\n𐀪\nAuthor:\nIshant\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 20:15:06 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ctf_writeup\n#thm_writeup\n#ethical_hacking\n#tryhackme",
-        "date": "2026-07-28T22:04:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127732_0_cad6c4f8.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127732_1_2be0d9de.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127732",
-        "link": {
-          "title": "Room 404- TryHackMe Walkthrough",
-          "url": "https://rot-ig.medium.com/room-404-tryhackme-walkthrough-5f2850e30519?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 127731,
-        "text": "⤷\nTitle:\nTryHackMe Hacker Holidays : Room 404 Write up\n════════════════════════\n𐀪\nAuthor:\nAditya\n════════════════════════\nⴵ\nTime:\nTue, 28 Jul 2026 20:39:58 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#web_exploitation\n#ctf\n#cybersecurity\n#hacker_holidays_2026",
-        "date": "2026-07-28T22:04:47+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127731_0_cad6c4f8.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127731_1_2ac99ca5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127731",
-        "link": {
-          "title": "TryHackMe Hacker Holidays : Room 404 Write up",
-          "url": "https://medium.com/@aditya.gummadis/tryhackme-hacker-holidays-room-404-write-up-b21359f18c46?source=rss------tryhackme-5"
-        }
       }
     ]
   },
-  "last_update": "2026-07-29T14:39:21.878802+00:00",
+  "last_update": "2026-07-29T16:16:16.553459+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 189,
-    "total_files": 189,
+    "total_media": 186,
+    "total_files": 186,
     "total_links": 0,
     "files_by_type": {
-      "image": 189
+      "image": 186
     },
-    "referenced_files": 189,
-    "existing_media_files": 189,
-    "total_size_mb": 4.57,
-    "last_calculation": "2026-07-29T14:39:21.881050+00:00"
+    "referenced_files": 186,
+    "existing_media_files": 186,
+    "total_size_mb": 4.45,
+    "last_calculation": "2026-07-29T16:16:16.555683+00:00"
   }
 }
