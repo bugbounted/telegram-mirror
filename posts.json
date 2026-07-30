@@ -2,6 +2,389 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 128031,
+        "text": "⤷\nTitle:\nAnatomy of a Blocked SQL Injection Attack: A SOC Triage Walkthrough\n════════════════════════\n𐀪\nAuthor:\nKarim roshdy\n════════════════════════\nⴵ\nTime:\nThu, 30 Jul 2026 13:37:30 GMT\n════════════════════════\n⌗\nTags:\n#soc_analyst\n#incident_response\n#cybersecurity\n#siem\n#sql_injection",
+        "date": "2026-07-30T14:04:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128031_0_c673b052.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128031_1_7d3de701.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128031",
+        "link": {
+          "title": "Anatomy of a Blocked SQL Injection Attack: A SOC Triage Walkthrough",
+          "url": "https://medium.com/@karimroshdyyy22/anatomy-of-a-blocked-sql-injection-attack-a-soc-triage-walkthrough-ecbb76ebb655?source=rss------sql_injection-5"
+        }
+      },
+      {
+        "id": 128030,
+        "text": "⤷\nTitle:\nByte Lotus Wellness Cloud Challenge on TryHackMe - Day 3: Complimentary\n════════════════════════\n𐀪\nAuthor:\nAli Burhan\n════════════════════════\nⴵ\nTime:\nThu, 30 Jul 2026 12:24:40 GMT\n════════════════════════\n⌗\nTags:\n#cloud_security\n#aws\n#aws_cognito\n#iam_misconfiguration\n#tryhackme",
+        "date": "2026-07-30T14:04:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128030_0_c673b052.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128030_1_a1cf306a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128030",
+        "link": {
+          "title": "Byte Lotus Wellness Cloud Challenge on TryHackMe - Day 3: Complimentary",
+          "url": "https://medium.com/@ali-burhan/byte-lotus-wellness-cloud-challenge-on-tryhackme-day-3-complimentary-6f21ed2e4ccd?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 128029,
+        "text": "⤷\nTitle:\nComplimentary — TryHackMe Write-up\n════════════════════════\n𐀪\nAuthor:\nPRiTi.EX\n════════════════════════\nⴵ\nTime:\nThu, 30 Jul 2026 12:24:57 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#tryhackme_walkthrough",
+        "date": "2026-07-30T14:04:47+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128029_0_c673b052.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128029_1_c40ab47e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128029",
+        "link": {
+          "title": "Complimentary — TryHackMe Write-up",
+          "url": "https://medium.com/@pritiranjanmohanta6371/complimentary-tryhackme-write-up-d79a09f13c58?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 128028,
+        "text": "⤷\nTitle:\nTryHackMe — Complimentary Walkthrough | Understanding an AWS Cognito IAM Misconfiguration\n════════════════════════\n𐀪\nAuthor:\nDhana Aravindhan\n════════════════════════\nⴵ\nTime:\nThu, 30 Jul 2026 13:01:04 GMT\n════════════════════════\n⌗\nTags:\n#aws\n#ami\n#cloud_security\n#cybersecurity\n#tryhackme",
+        "date": "2026-07-30T14:04:44+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128028_0_c673b052.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128028_1_28ed2576.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128028",
+        "link": {
+          "title": "TryHackMe — Complimentary Walkthrough | Understanding an AWS Cognito IAM Misconfiguration",
+          "url": "https://medium.com/@dhanaaravindhan96/tryhackme-complimentary-walkthrough-understanding-an-aws-cognito-iam-misconfiguration-14c3a0242fd9?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 128027,
+        "text": "⤷\nTitle:\nTryHackMe — The Concierge Knows Too Much Write-up\n════════════════════════\n𐀪\nAuthor:\nElectroprotector\n════════════════════════\nⴵ\nTime:\nThu, 30 Jul 2026 13:39:57 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#llm\n#prompt_injection_attack\n#tryhackme_walkthrough\n#ai_security",
+        "date": "2026-07-30T14:04:40+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128027_0_c673b052.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128027_1_90ef7b61.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128027",
+        "link": {
+          "title": "TryHackMe — The Concierge Knows Too Much Write-up",
+          "url": "https://medium.com/@addy4757y/tryhackme-the-concierge-knows-too-much-write-up-2ba56ec767c9?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 128026,
+        "text": "⤷\nTitle:\nTryHackMe — Pickle Rick Write-up\n════════════════════════\n𐀪\nAuthor:\nMoatef\n════════════════════════\nⴵ\nTime:\nThu, 30 Jul 2026 12:36:46 GMT\n════════════════════════\n⌗\nTags:\n#red_team\n#tryhackme\n#penetration_testing\n#cybersecurity\n#cyberattack",
+        "date": "2026-07-30T14:04:37+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128026_0_c673b052.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128026_1_b070a613.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128026",
+        "link": {
+          "title": "TryHackMe — Pickle Rick Write-up",
+          "url": "https://medium.com/@moatef7308/tryhackme-pickle-rick-write-up-578c924db187?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 128025,
+        "text": "⤷\nTitle:\nBuild Self-Hosted SAST with pipeline DefectDojo\n════════════════════════\n𐀪\nAuthor:\nRizqi Ramadhan Andriono\n════════════════════════\nⴵ\nTime:\nThu, 30 Jul 2026 13:41:47 GMT\n════════════════════════\n⌗\nTags:\n#defectdojo\n#static_code_analysis\n#security\n#penetration_testing\n#sonarqube",
+        "date": "2026-07-30T14:04:33+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128025_0_c673b052.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128025_1_14af9f63.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128025",
+        "link": {
+          "title": "Build Self-Hosted SAST with pipeline DefectDojo",
+          "url": "https://medium.com/@rizqi.ramadhan/build-self-hosted-sast-with-pipeline-defectdojo-71f61ca94375?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 128024,
+        "text": "⤷\nTitle:\nHappening Today: “CVE and AI Vulnerability Discovery” Virtual Conference\n════════════════════════\n𐀪\nAuthor:\nCVE Program Blog\n════════════════════════\nⴵ\nTime:\nThu, 30 Jul 2026 11:56:34 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#ai\n#cybersecurity\n#software_development\n#artificial_intelligence",
+        "date": "2026-07-30T14:04:30+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128024_0_c673b052.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128024_1_be0bc061.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128024",
+        "link": {
+          "title": "Happening Today: “CVE and AI Vulnerability Discovery” Virtual Conference",
+          "url": "https://medium.com/@cve_program/happening-today-cve-and-ai-vulnerability-discovery-virtual-conference-8e362d88f952?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 128023,
+        "text": "⤷\nTitle:\nDo You Need Both ISO 27001 and ISO 42001? Here’s What Most Organizations Get Wrong\n════════════════════════\n𐀪\nAuthor:\nVISTAInfoSec\n════════════════════════\nⴵ\nTime:\nThu, 30 Jul 2026 11:57:30 GMT\n════════════════════════\n⌗\nTags:\n#iso_27001\n#infosec\n#iso_42001\n#cybersecurity",
+        "date": "2026-07-30T14:04:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128023_0_c673b052.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128023_1_3a1428e7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128023",
+        "link": {
+          "title": "Do You Need Both ISO 27001 and ISO 42001? Here’s What Most Organizations Get Wrong",
+          "url": "https://vistainfosec2020.medium.com/do-you-need-both-iso-27001-and-iso-42001-heres-what-most-organizations-get-wrong-9008474a8b36?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 128022,
+        "text": "⤷\nTitle:\nYour Next Hotel Stay Could Put Your Microsoft 365 Account at Risk\n════════════════════════\n𐀪\nAuthor:\nGianluca Galimberti\n════════════════════════\nⴵ\nTime:\nThu, 30 Jul 2026 13:10:18 GMT\n════════════════════════\n⌗\nTags:\n#hacker\n#hacking\n#cybersecurity\n#ethical_hacking\n#osint",
+        "date": "2026-07-30T14:04:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128022_0_c673b052.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128022_1_310cffee.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128022",
+        "link": {
+          "title": "Your Next Hotel Stay Could Put Your Microsoft 365 Account at Risk",
+          "url": "https://medium.com/@cybersecur95/your-next-hotel-stay-could-put-your-microsoft-365-account-at-risk-4722f7ff4b7e?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 128021,
+        "text": "⤷\nTitle:\nHow to appeal a bug bounty submission\n════════════════════════\n𐀪\nAuthor:\nAyoub\n════════════════════════\nⴵ\nTime:\nThu, 30 Jul 2026 00:00:00 GMT\n════════════════════════\n⌗\nTags:\n#Hacking\nTools",
+        "date": "2026-07-30T14:04:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128021_0_c673b052.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128021_1_79759ed5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128021",
+        "link": {
+          "title": "How to appeal a bug bounty submission",
+          "url": "https://www.intigriti.com/researchers/blog/hacking-tools/how-to-appeal-a-bug-bounty-submission"
+        }
+      },
+      {
+        "id": 128020,
+        "text": "⤷\nTitle:\nCVE-2026-42530: NGINX HTTP/3 RCE Proof-of-Concept Publicly Disclosed\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 30 Jul 2026 13:02:26 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_42530\n#HTTP\n/3\n#nginx\n#NGINX\nHTTP/3\n#ngx_http_v3_module\n#proof_of_concept\n#QPACK\n#QUIC\n#Remote\nCode Execution\n#use\nafter free",
+        "date": "2026-07-30T14:04:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128020_0_c673b052.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128020_1_ced11b6e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128020",
+        "link": {
+          "title": "CVE-2026-42530: NGINX HTTP/3 RCE Proof-of-Concept Publicly Disclosed",
+          "url": "https://securityonline.info/nginx-http3-rce-cve-2026-42530/"
+        }
+      },
+      {
+        "id": 128019,
+        "text": "⤷\nTitle:\nSenator Wyden Proposes Eradicating Legacy VPNs from Federal Networks\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nThu, 30 Jul 2026 12:17:13 +0000\n════════════════════════\n⌗\nTags:\n#Information\nSecurity\n#cybersecurity\n#Infosec\n#National\nSecurity\n#VPN\n#Zero\nTrust",
+        "date": "2026-07-30T14:04:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128019_0_c673b052.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128019_1_b0e83201.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128019",
+        "link": {
+          "title": "Senator Wyden Proposes Eradicating Legacy VPNs from Federal Networks",
+          "url": "https://meterpreter.org/senator-wyden-legacy-vpn-ban/"
+        }
+      },
+      {
+        "id": 128018,
+        "text": "⤷\nTitle:\nSplitVPN Data Leak Validates Severe Privacy Violations\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nThu, 30 Jul 2026 13:00:02 +0000\n════════════════════════\n⌗\nTags:\n#Data\nLeak\n#cybersecurity\n#data\nleak\n#privacy\n#SplitVPN\n#VPN",
+        "date": "2026-07-30T14:04:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128018_0_c673b052.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128018_1_8372c51c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128018",
+        "link": {
+          "title": "SplitVPN Data Leak Validates Severe Privacy Violations",
+          "url": "https://meterpreter.org/splitvpn-data-leak/"
+        }
+      },
+      {
+        "id": 128017,
+        "text": "⤷\nTitle:\nDysphoria Botnet Employs Blockchain to Obfuscate Infrastructure\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nThu, 30 Jul 2026 13:16:59 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#blockchain\n#cybersecurity\n#DDoS\n#Dysphoria\nBotnet\n#IoT",
+        "date": "2026-07-30T14:04:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128017_0_c673b052.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128017_1_453c0585.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128017",
+        "link": {
+          "title": "Dysphoria Botnet Employs Blockchain to Obfuscate Infrastructure",
+          "url": "https://meterpreter.org/dysphoria-botnet-blockchain-c2/"
+        }
+      },
+      {
+        "id": 128016,
+        "text": "⤷\nTitle:\nThe Network Has Become the Control Plane for AI Security\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nThu, 30 Jul 2026 17:02:46 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-07-30T14:04:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128016_0_c673b052.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128016",
+        "link": {
+          "title": "The Network Has Become the Control Plane for AI Security",
+          "url": "https://thehackernews.com/2026/07/the-network-has-become-control-plane.html"
+        }
+      },
+      {
+        "id": 128015,
+        "text": "⤷\nTitle:\nMicrosoft Copilot for Word Can Copy Hidden Prompts Into New Documents\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nThu, 30 Jul 2026 17:24:49 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-07-30T14:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128015_0_c673b052.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128015",
+        "link": {
+          "title": "Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents",
+          "url": "https://thehackernews.com/2026/07/microsoft-copilot-for-word-can-copy.html"
+        }
+      },
+      {
         "id": 128014,
         "text": "⤷\nTitle:\nBuilding High-Fidelity Captive Portals for Flipper Zero\n════════════════════════\n𐀪\nAuthor:\nGeevarghesekthomas\n════════════════════════\nⴵ\nTime:\nThu, 30 Jul 2026 10:08:26 GMT\n════════════════════════\n⌗\nTags:\n#web_development\n#cybersecurity\n#flipper_zero\n#ethical_hacking\n#web_security",
         "date": "2026-07-30T12:04:45+00:00",
@@ -1865,413 +2248,22 @@
           "title": "Complimentary — HH2026 — TryHackMe Walkthrough",
           "url": "https://medium.com/@sanskarjaiswal43/complimentary-hh2026-tryhackme-walkthough-4e3c32fd675f?source=rss------tryhackme-5"
         }
-      },
-      {
-        "id": 127928,
-        "text": "⤷\nTitle:\nTryHackMe Hackers Holiday Day 3 Complimentary Write-Up | Complete Walkthrough\n════════════════════════\n𐀪\nAuthor:\nKubera Krishna\n════════════════════════\nⴵ\nTime:\nWed, 29 Jul 2026 20:51:57 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_writeup\n#tryhackme\n#ctf\n#ami\n#cloud",
-        "date": "2026-07-29T22:03:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127928_0_0110718a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127928_1_e4907694.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127928",
-        "link": {
-          "title": "TryHackMe Hackers Holiday Day 3 Complimentary Write-Up | Complete Walkthrough",
-          "url": "https://medium.com/@KuberaKrishna/tryhackme-hackers-holiday-day-3-complimentary-write-up-complete-walkthrough-71c7a8683ad9?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 127927,
-        "text": "⤷\nTitle:\nComplimentary TryHackMe walkthrough\n════════════════════════\n𐀪\nAuthor:\nCrystalcascade14\n════════════════════════\nⴵ\nTime:\nWed, 29 Jul 2026 20:55:42 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#cloud_security\n#hacker_holidays_2026\n#tryhackme_walkthrough\n#aws",
-        "date": "2026-07-29T22:03:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127927_0_0110718a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127927_1_2ed00065.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127927",
-        "link": {
-          "title": "Complimentary TryHackMe walkthrough",
-          "url": "https://crystalcascade14.medium.com/complimentary-tryhackme-walkthrough-0282c00a700c?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 127926,
-        "text": "⤷\nTitle:\nTryhackme Writeup for Room “Complimentary”: Hacker Holidays The Byte Lotus Hotel\n════════════════════════\n𐀪\nAuthor:\nMahendra Patil\n════════════════════════\nⴵ\nTime:\nWed, 29 Jul 2026 21:25:36 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_hacker_holidays\n#tryhackme\n#hacker_holidays_2026\n#tryhackme_writeup\n#tryhackme_walkthrough",
-        "date": "2026-07-29T22:03:51+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127926_0_0110718a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127926_1_0eb01abc.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127926",
-        "link": {
-          "title": "Tryhackme Writeup for Room “Complimentary”: Hacker Holidays The Byte Lotus Hotel",
-          "url": "https://mrpatil.medium.com/tryhackme-writeup-for-room-complimentary-hacker-holidays-the-byte-lotus-hotel-3b2ceb9d3aae?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 127925,
-        "text": "⤷\nTitle:\nWhen Password Reset Becomes Login: A Real-World Session Puzzling Vulnerability\n════════════════════════\n𐀪\nAuthor:\nHossein Zarei\n════════════════════════\nⴵ\nTime:\nWed, 29 Jul 2026 20:55:16 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#application_security\n#pentesting\n#bug_bounty\n#ethical_hacking",
-        "date": "2026-07-29T22:03:48+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127925_0_0110718a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127925_1_f9fa7e9b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127925",
-        "link": {
-          "title": "When Password Reset Becomes Login: A Real-World Session Puzzling Vulnerability",
-          "url": "https://medium.com/@hossein.za68/when-password-reset-becomes-login-a-real-world-session-puzzling-vulnerability-4762e1e75b24?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 127924,
-        "text": "⤷\nTitle:\nSSRF (Server-Side Request Forgery)\n════════════════════════\n𐀪\nAuthor:\nAnubhav_bora\n════════════════════════\nⴵ\nTime:\nWed, 29 Jul 2026 18:31:01 GMT\n════════════════════════\n⌗\nTags:\n#vulnerability\n#ssrf\n#web_security\n#cybersecurity",
-        "date": "2026-07-29T20:05:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127924_0_0110718a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127924_1_c247bff3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127924",
-        "link": {
-          "title": "SSRF (Server-Side Request Forgery)",
-          "url": "https://medium.com/@anubhavbora40/ssrf-server-side-request-forgery-28c86790d2c2?source=rss------ssrf-5"
-        }
-      },
-      {
-        "id": 127923,
-        "text": "⤷\nTitle:\nComplimentary Room TryHackMe Writeup :\n════════════════════════\n𐀪\nAuthor:\nLZR_404\n════════════════════════\nⴵ\nTime:\nWed, 29 Jul 2026 18:29:42 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#ctf_writeup\n#cybersecurity",
-        "date": "2026-07-29T20:05:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127923_0_0110718a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127923_1_552b7cbb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127923",
-        "link": {
-          "title": "Complimentary Room TryHackMe Writeup :",
-          "url": "https://medium.com/@theonehand369/complimentary-room-tryhackme-writeup-5e7bc31a1466?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 127922,
-        "text": "⤷\nTitle:\nHTB Cyber Apocalypse 2026 — Gatery (Web)\n════════════════════════\n𐀪\nAuthor:\nMarys\n════════════════════════\nⴵ\nTime:\nWed, 29 Jul 2026 19:20:42 GMT\n════════════════════════\n⌗\nTags:\n#ctf_writeup\n#hackthebox\n#hackthebox_writeup\n#ctf\n#cyber_apocalypse",
-        "date": "2026-07-29T20:04:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127922_0_0110718a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127922_1_c48c4e55.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127922",
-        "link": {
-          "title": "HTB Cyber Apocalypse 2026 — Gatery (Web)",
-          "url": "https://medium.com/@maryhanne/htb-cyber-apocalypse-2026-gatery-web-e5886abbd30c?source=rss------hackthebox_writeup-5"
-        }
-      },
-      {
-        "id": 127921,
-        "text": "⤷\nTitle:\nHTB Cyber Apocalypse 2026 — Crownspire Deploy (Forensics)\n════════════════════════\n𐀪\nAuthor:\nMarys\n════════════════════════\nⴵ\nTime:\nWed, 29 Jul 2026 19:37:20 GMT\n════════════════════════\n⌗\nTags:\n#hackthebox_writeup\n#ctf_writeup\n#hackthebox\n#ctf\n#cyber_apocalypse",
-        "date": "2026-07-29T20:04:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127921_0_0110718a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127921_1_a2468b25.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127921",
-        "link": {
-          "title": "HTB Cyber Apocalypse 2026 — Crownspire Deploy (Forensics)",
-          "url": "https://medium.com/@maryhanne/htb-cyber-apocalypse-2026-crownspire-deploy-forensics-51b2c1e25cc3?source=rss------hackthebox_writeup-5"
-        }
-      },
-      {
-        "id": 127920,
-        "text": "⤷\nTitle:\nHacker Holiday — Day 3 — Complimentary\n════════════════════════\n𐀪\nAuthor:\nmr-r3b00t500\n════════════════════════\nⴵ\nTime:\nWed, 29 Jul 2026 18:20:23 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#ctf_walkthrough\n#tryhackme_walkthrough\n#ctf_writeup\n#capture_the_flag",
-        "date": "2026-07-29T20:04:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127920_0_0110718a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127920_1_df055019.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127920",
-        "link": {
-          "title": "Hacker Holiday — Day 3 — Complimentary",
-          "url": "https://mr-r3b00t500.medium.com/hacker-holiday-day-3-complimentary-16d99b712ad0?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 127919,
-        "text": "⤷\nTitle:\nTryHackMe | Hacker Holidays — The Byte Lotus Hotel: Day 3 | Complimentary Walkthrough\n════════════════════════\n𐀪\nAuthor:\nBlackCat53\n════════════════════════\nⴵ\nTime:\nWed, 29 Jul 2026 18:21:40 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_walkthrough\n#aws_cognito\n#hacker_holidays_2026\n#thebytelotusresort\n#tryhackme",
-        "date": "2026-07-29T20:04:48+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127919_0_0110718a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127919_1_2528259f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127919",
-        "link": {
-          "title": "TryHackMe | Hacker Holidays — The Byte Lotus Hotel: Day 3 | Complimentary Walkthrough",
-          "url": "https://medium.com/@blackcat53/tryhackme-hacker-holidays-the-byte-lotus-hotel-day-3-complimentary-walkthrough-059700a23bb4?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 127918,
-        "text": "⤷\nTitle:\nTHM Hacker Holidays Day 3 — Cloud\n════════════════════════\n𐀪\nAuthor:\nAmrik Hore\n════════════════════════\nⴵ\nTime:\nWed, 29 Jul 2026 18:26:35 GMT\n════════════════════════\n⌗\nTags:\n#ctf_writeup\n#cloud_security\n#tryhackme\n#tryhackme_walkthrough\n#aws",
-        "date": "2026-07-29T20:04:45+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127918_0_0110718a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127918_1_6e66a7e4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127918",
-        "link": {
-          "title": "THM Hacker Holidays Day 3 — Cloud",
-          "url": "https://amrikhore.medium.com/thm-hacker-holidays-day-3-cloud-596ffb122bcd?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 127917,
-        "text": "⤷\nTitle:\nComplimentary: A walkthrough of THM Hacker Holidays - Day 3\n════════════════════════\n𐀪\nAuthor:\nKareem Mohamed (0xY0K4_CL4W )\n════════════════════════\nⴵ\nTime:\nWed, 29 Jul 2026 18:44:06 GMT\n════════════════════════\n⌗\nTags:\n#ctf\n#tryhackme_walkthrough\n#hacker_holidays\n#cybersecurity\n#tryhackme",
-        "date": "2026-07-29T20:04:41+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127917_0_0110718a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127917_1_d31a1103.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127917",
-        "link": {
-          "title": "Complimentary: A walkthrough of THM Hacker Holidays - Day 3",
-          "url": "https://medium.com/@KMBkareem/complimentary-a-walkthrough-of-thm-hacker-holidays-day-3-884a4c25dc74?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 127916,
-        "text": "⤷\nTitle:\nByte Lotus — Complimentary (TryHackMe) Walkthrough\n════════════════════════\n𐀪\nAuthor:\nIbtehaj Ali Mirza\n════════════════════════\nⴵ\nTime:\nWed, 29 Jul 2026 18:49:52 GMT\n════════════════════════\n⌗\nTags:\n#amazon\n#aws\n#tryhackme\n#tryhackme_walkthrough\n#tryhackme_writeup",
-        "date": "2026-07-29T20:04:37+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127916_0_0110718a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127916_1_2e1181c3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127916",
-        "link": {
-          "title": "Byte Lotus — Complimentary (TryHackMe) Walkthrough",
-          "url": "https://medium.com/@ibtehajali/byte-lotus-complimentary-tryhackme-walkthrough-59424dbd1edd?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 127915,
-        "text": "⤷\nTitle:\nTryHackMe Hacker Holidays: Complimentary Walkthrough\n════════════════════════\n𐀪\nAuthor:\niamdonu\n════════════════════════\nⴵ\nTime:\nWed, 29 Jul 2026 19:15:53 GMT\n════════════════════════\n⌗\nTags:\n#hacker_holidays_2026\n#aws\n#hacker_holidays\n#tryhackme\n#ami",
-        "date": "2026-07-29T20:04:34+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127915_0_0110718a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127915_1_a3e69345.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127915",
-        "link": {
-          "title": "TryHackMe Hacker Holidays: Complimentary Walkthrough",
-          "url": "https://medium.com/@iamdonu1/tryhackme-hacker-holidays-complimentary-walkthrough-44f27c747484?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 127914,
-        "text": "⤷\nTitle:\nTryHackMe: “Complimentary” Room Walkthrough ( Hacker’s Holiday Challenge )\n════════════════════════\n𐀪\nAuthor:\nHibullahi AbdulAzeez\n════════════════════════\nⴵ\nTime:\nWed, 29 Jul 2026 19:31:13 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_walkthrough\n#tryhackme\n#hackers_holiday\n#aws\n#ctf_walkthrough",
-        "date": "2026-07-29T20:04:31+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127914_0_0110718a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127914_1_aae7e295.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127914",
-        "link": {
-          "title": "TryHackMe: “Complimentary” Room Walkthrough ( Hacker’s Holiday Challenge )",
-          "url": "https://medium.com/@cyb3rleo/tryhackme-complimentary-room-walkthrough-hackers-holiday-challenge-719f29710300?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 127913,
-        "text": "⤷\nTitle:\nComplimentary — TryHackMe (Hacker Holidays — Day 3)\n════════════════════════\n𐀪\nAuthor:\nMohitranjan\n════════════════════════\nⴵ\nTime:\nWed, 29 Jul 2026 19:40:00 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_walkthrough\n#hacker_holidays_2026\n#tryhackme\n#tryhackme_writeup\n#aws",
-        "date": "2026-07-29T20:04:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127913_0_0110718a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127913_1_e9b1d8f6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127913",
-        "link": {
-          "title": "Complimentary — TryHackMe (Hacker Holidays — Day 3)",
-          "url": "https://medium.com/@mohitranjan480/complimentary-tryhackme-hacker-holidays-day-3-cf7de8786242?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 127912,
-        "text": "⤷\nTitle:\nDay 2/10: Turning Intelligence into Weapons — Weaponization\n════════════════════════\n𐀪\nAuthor:\nKay\n════════════════════════\nⴵ\nTime:\nWed, 29 Jul 2026 19:42:32 GMT\n════════════════════════\n⌗\nTags:\n#information_security\n#weaponization\n#cyber_kill_chain\n#tryhackme\n#cybersecurity",
-        "date": "2026-07-29T20:04:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127912_0_0110718a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_127912_1_9e27ada3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/127912",
-        "link": {
-          "title": "Day 2/10: Turning Intelligence into Weapons — Weaponization",
-          "url": "https://mrkay7.medium.com/day-2-10-turning-intelligence-into-weapons-weaponization-dd035ea1268b?source=rss------tryhackme-5"
-        }
       }
     ]
   },
-  "last_update": "2026-07-30T13:02:22.968502+00:00",
+  "last_update": "2026-07-30T15:13:22.897821+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 189,
-    "total_files": 189,
+    "total_media": 187,
+    "total_files": 187,
     "total_links": 0,
     "files_by_type": {
-      "image": 189
+      "image": 187
     },
-    "referenced_files": 189,
-    "existing_media_files": 189,
-    "total_size_mb": 4.28,
-    "last_calculation": "2026-07-30T13:02:22.970800+00:00"
+    "referenced_files": 187,
+    "existing_media_files": 187,
+    "total_size_mb": 4.6,
+    "last_calculation": "2026-07-30T15:13:22.900060+00:00"
   }
 }
