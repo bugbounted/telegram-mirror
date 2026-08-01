@@ -2,6 +2,466 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 128358,
+        "text": "⤷\nTitle:\nHow to Set Up Kali Linux for Ethical Hacking\n════════════════════════\n𐀪\nAuthor:\nShadowDefend\n════════════════════════\nⴵ\nTime:\nSat, 01 Aug 2026 12:30:04 GMT\n════════════════════════\n⌗\nTags:\n#kali_linux\n#technology\n#ethical_hacking\n#cybersecurity\n#information_technology",
+        "date": "2026-08-01T14:05:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128358_0_cbccf049.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128358_1_0b85a0e5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128358",
+        "link": {
+          "title": "How to Set Up Kali Linux for Ethical Hacking",
+          "url": "https://medium.com/@ShadowDefend/how-to-set-up-kali-linux-for-ethical-hacking-676b7f059c88?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 128357,
+        "text": "⤷\nTitle:\nWindows Persistence with Metasploit — Part 1: Service Persistence\n════════════════════════\n𐀪\nAuthor:\nPriyankachandrakar\n════════════════════════\nⴵ\nTime:\nSat, 01 Aug 2026 12:34:17 GMT\n════════════════════════\n⌗\nTags:\n#oscp\n#cybersecurity\n#metasploit\n#kali_linux\n#ethical_hacking",
+        "date": "2026-08-01T14:05:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128357_0_cbccf049.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128357_1_28162c6f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128357",
+        "link": {
+          "title": "Windows Persistence with Metasploit — Part 1: Service Persistence",
+          "url": "https://priyankachandrakar.medium.com/windows-persistence-with-metasploit-part-1-service-persistence-bc968c801d95?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 128356,
+        "text": "⤷\nTitle:\nWindows Persistence with Metasploit — Part 2: Persistence_exe\n════════════════════════\n𐀪\nAuthor:\nPriyankachandrakar\n════════════════════════\nⴵ\nTime:\nSat, 01 Aug 2026 12:38:43 GMT\n════════════════════════\n⌗\nTags:\n#metasploit\n#oscp\n#cybersecurity\n#kali_linux\n#ethical_hacking",
+        "date": "2026-08-01T14:05:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128356_0_cbccf049.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128356_1_c4adf20f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128356",
+        "link": {
+          "title": "Windows Persistence with Metasploit — Part 2: Persistence_exe",
+          "url": "https://priyankachandrakar.medium.com/windows-persistence-with-metasploit-part-2-persistence-exe-cd41bf437417?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 128355,
+        "text": "⤷\nTitle:\nCVE-2026–46331: pedit COW | Tryhackme Walkthrough | Anon.M | THM\n════════════════════════\n𐀪\nAuthor:\nAnon.M\n════════════════════════\nⴵ\nTime:\nSat, 01 Aug 2026 12:03:57 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_walkthrough\n#tryhackme\n#cve\n#thm_writeup\n#cybersecurity",
+        "date": "2026-08-01T14:05:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128355_0_cbccf049.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128355_1_7b4a0fbf.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128355",
+        "link": {
+          "title": "CVE-2026–46331: pedit COW | Tryhackme Walkthrough | Anon.M | THM",
+          "url": "https://medium.com/@anon.business.dd/cve-2026-46331-pedit-cow-tryhackme-walkthrough-anon-m-thm-07966c7de44f?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 128354,
+        "text": "⤷\nTitle:\nAgent Sudo (TryHackMe) Walkthrough: Steganography, OSINT, and CVE-2019–14287 Privilege Escalation\n════════════════════════\n𐀪\nAuthor:\nValida Abdullayeva\n════════════════════════\nⴵ\nTime:\nSat, 01 Aug 2026 12:11:48 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#tryhackme\n#privilege_escalation\n#ctf\n#ethical_hacking",
+        "date": "2026-08-01T14:05:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128354_0_cbccf049.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128354_1_1a1676cd.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128354",
+        "link": {
+          "title": "Agent Sudo (TryHackMe) Walkthrough: Steganography, OSINT, and CVE-2019–14287 Privilege Escalation",
+          "url": "https://medium.com/@vaniliaa/agent-sudo-tryhackme-walkthrough-steganography-osint-and-cve-2019-14287-privilege-escalation-26d54d34a027?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 128353,
+        "text": "⤷\nTitle:\nHacker Holidays Day 4 — How to Solve TryHackMe’s “Packed Light”\n════════════════════════\n𐀪\nAuthor:\nAli Burhan\n════════════════════════\nⴵ\nTime:\nSat, 01 Aug 2026 12:35:07 GMT\n════════════════════════\n⌗\nTags:\n#network_forensics\n#pcap_analysis\n#wireshark\n#tryhackme\n#cryptography",
+        "date": "2026-08-01T14:04:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128353_0_cbccf049.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128353_1_ea062a7b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128353",
+        "link": {
+          "title": "Hacker Holidays Day 4 — How to Solve TryHackMe’s “Packed Light”",
+          "url": "https://medium.com/@ali-burhan/hacker-holidays-day-4-how-to-solve-tryhackmes-packed-light-19d5458d6555?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 128352,
+        "text": "⤷\nTitle:\nTryHackMe Beach Bar | Hacker Holidays | Unsafe YAML deserialization | 2026\n════════════════════════\n𐀪\nAuthor:\nSushma\n════════════════════════\nⴵ\nTime:\nSat, 01 Aug 2026 13:18:06 GMT\n════════════════════════\n⌗\nTags:\n#ctf_writeup\n#tryhackme\n#cybersecurity\n#privilege_escalation\n#hacker_holidays_2026",
+        "date": "2026-08-01T14:04:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128352_0_cbccf049.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128352_1_33365138.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128352",
+        "link": {
+          "title": "TryHackMe Beach Bar | Hacker Holidays | Unsafe YAML deserialization | 2026",
+          "url": "https://medium.com/@sushmaaragidda/tryhackme-beach-bar-hacker-holidays-unsafe-yaml-deserialization-2026-b0fa07926109?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 128351,
+        "text": "⤷\nTitle:\nThe Building Blocks of AI (THM) Walkthrough\n════════════════════════\n𐀪\nAuthor:\nh3xiee\n════════════════════════\nⴵ\nTime:\nSat, 01 Aug 2026 13:54:39 GMT\n════════════════════════\n⌗\nTags:\n#backpropagation\n#large_language_models\n#tryhackme\n#machine_learning\n#artificial_intelligence",
+        "date": "2026-08-01T14:04:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128351_0_cbccf049.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128351_1_d98d2d7c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128351",
+        "link": {
+          "title": "The Building Blocks of AI (THM) Walkthrough",
+          "url": "https://medium.com/@krishikachellappandian/the-building-blocks-of-ai-thm-walkthrough-cb88f17a6773?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 128350,
+        "text": "⤷\nTitle:\nAuthenticated API & SSO Penetration Testing at Machine Speed\n════════════════════════\n𐀪\nAuthor:\nIvan Vereshchaha\n════════════════════════\nⴵ\nTime:\nSat, 01 Aug 2026 12:17:29 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#web_penetration_testing\n#cybersecurity\n#pentesting\n#cyber_security_awareness",
+        "date": "2026-08-01T14:04:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128350_0_cbccf049.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128350_1_bcde80e6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128350",
+        "link": {
+          "title": "Authenticated API & SSO Penetration Testing at Machine Speed",
+          "url": "https://medium.com/@ivan.vereshchaha/authenticated-api-sso-penetration-testing-at-machine-speed-9ae73cc12b63?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 128349,
+        "text": "⤷\nTitle:\nWhy Do We Trust OSINT Tracking Results So Easily? The Psychology Behind the Illusion of Accuracy\n════════════════════════\n𐀪\nAuthor:\nAzzah\n════════════════════════\nⴵ\nTime:\nSat, 01 Aug 2026 12:36:09 GMT\n════════════════════════\n⌗\nTags:\n#privacy\n#psychology\n#cybersecurity\n#infosec\n#osint",
+        "date": "2026-08-01T14:04:45+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128349_0_cbccf049.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128349_1_6eec318d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128349",
+        "link": {
+          "title": "Why Do We Trust OSINT Tracking Results So Easily? The Psychology Behind the Illusion of Accuracy",
+          "url": "https://azzahsundus.medium.com/why-do-we-trust-osint-tracking-results-so-easily-the-psychology-behind-the-illusion-of-accuracy-4053e28f4b6f?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 128348,
+        "text": "⤷\nTitle:\nCyber Threat Intel\n════════════════════════\n𐀪\nAuthor:\nExploitHunter\n════════════════════════\nⴵ\nTime:\nSat, 01 Aug 2026 13:06:26 GMT\n════════════════════════\n⌗\nTags:\n#cyber_security_awareness\n#cybersecurity\n#cybercrime\n#infosec\n#web_development",
+        "date": "2026-08-01T14:04:42+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128348_0_cbccf049.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128348_1_51ed6a91.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128348",
+        "link": {
+          "title": "Cyber Threat Intel",
+          "url": "https://medium.com/@vorasmit22/cyber-threat-intel-290365ee4650?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 128347,
+        "text": "⤷\nTitle:\nExploiting a Vulnerable Windows 7 Machine Using EternalBlue (MS17–010)\n════════════════════════\n𐀪\nAuthor:\nABDUL AHAD\n════════════════════════\nⴵ\nTime:\nSat, 01 Aug 2026 12:29:07 GMT\n════════════════════════\n⌗\nTags:\n#vulnerability\n#cybersecurity\n#hacking\n#exploit\n#eternalblue",
+        "date": "2026-08-01T14:04:38+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128347_0_cbccf049.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128347_1_3af97519.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128347",
+        "link": {
+          "title": "Exploiting a Vulnerable Windows 7 Machine Using EternalBlue (MS17–010)",
+          "url": "https://medium.com/@ahad66949/exploiting-a-vulnerable-windows-7-machine-using-eternalblue-ms17-010-658dcf54b4ae?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 128346,
+        "text": "⤷\nTitle:\nWhen Anthropic’s Claude “Hacked” 3 Real Companies: What Actually Happened (And Why the Panic…\n════════════════════════\n𐀪\nAuthor:\nSugam Arora\n════════════════════════\nⴵ\nTime:\nSat, 01 Aug 2026 12:31:02 GMT\n════════════════════════\n⌗\nTags:\n#artificial_intelligence\n#claude_mythos\n#anthropic_claude\n#hacking\n#sugam",
+        "date": "2026-08-01T14:04:35+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128346_0_cbccf049.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128346_1_3874d8f6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128346",
+        "link": {
+          "title": "When Anthropic’s Claude “Hacked” 3 Real Companies: What Actually Happened (And Why the Panic…",
+          "url": "https://medium.com/@sugamsays/when-anthropics-claude-hacked-3-real-companies-what-actually-happened-and-why-the-panic-5ca85675a400?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 128345,
+        "text": "⤷\nTitle:\nSQL Injection Attacks: Understanding the Threat, Impacts, and Essential Defenses\n════════════════════════\n𐀪\nAuthor:\nBlackHat\n════════════════════════\nⴵ\nTime:\nSat, 01 Aug 2026 13:30:50 GMT\n════════════════════════\n⌗\nTags:\n#business\n#database\n#cybersecurity\n#hacking\n#artificial_intelligence",
+        "date": "2026-08-01T14:04:31+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128345_0_cbccf049.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128345_1_3f6b0a91.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128345",
+        "link": {
+          "title": "SQL Injection Attacks: Understanding the Threat, Impacts, and Essential Defenses",
+          "url": "https://medium.com/@hackersclique857/sql-injection-attacks-understanding-the-threat-impacts-and-essential-defenses-ae61c86dea0e?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 128344,
+        "text": "⤷\nTitle:\nThe Complete Dark Side of Hyperlink Injection: Email Abuse, Website Attacks, Open Redirects, and…\n════════════════════════\n𐀪\nAuthor:\nLAWCY official\n════════════════════════\nⴵ\nTime:\nSat, 01 Aug 2026 13:54:49 GMT\n════════════════════════\n⌗\nTags:\n#technology\n#cybersecurity\n#hacking\n#bug_bounty\n#marketing",
+        "date": "2026-08-01T14:04:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128344_0_cbccf049.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128344_1_daa634f4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128344",
+        "link": {
+          "title": "The Complete Dark Side of Hyperlink Injection: Email Abuse, Website Attacks, Open Redirects, and…",
+          "url": "https://medium.com/@test.my.hack.v1/the-complete-dark-side-of-hyperlink-injection-email-abuse-website-attacks-open-redirects-and-8a07df5bec2d?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 128343,
+        "text": "⤷\nTitle:\nHow Modern Applications Protect User Data\n════════════════════════\n𐀪\nAuthor:\nCodeX Lancers\n════════════════════════\nⴵ\nTime:\nSat, 01 Aug 2026 12:31:01 GMT\n════════════════════════\n⌗\nTags:\n#application_security\n#api_security\n#software_development\n#data_security\n#cybersecurity",
+        "date": "2026-08-01T14:04:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128343_0_cbccf049.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128343_1_6f26a38b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128343",
+        "link": {
+          "title": "How Modern Applications Protect User Data",
+          "url": "https://medium.com/@CodeX_Lancers/how-modern-applications-protect-user-data-b430008599d6?source=rss------application_security-5"
+        }
+      },
+      {
+        "id": 128342,
+        "text": "⤷\nTitle:\nOWASP Top 10 for .NET Developers -Part 10: Preventing Server-Side Request Forgery (SSRF)\n════════════════════════\n𐀪\nAuthor:\nSurya Raj Ghimire\n════════════════════════\nⴵ\nTime:\nSat, 01 Aug 2026 13:01:21 GMT\n════════════════════════\n⌗\nTags:\n#fintech\n#owasp\n#cybersecurity\n#application_security\n#aspnetcore",
+        "date": "2026-08-01T14:04:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128342_0_cbccf049.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128342_1_68683560.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128342",
+        "link": {
+          "title": "OWASP Top 10 for .NET Developers -Part 10: Preventing Server-Side Request Forgery (SSRF)",
+          "url": "https://medium.com/@srghimire061/owasp-top-10-for-net-developers-part-10-preventing-server-side-request-forgery-ssrf-70fb8a7b1a15?source=rss------application_security-5"
+        }
+      },
+      {
+        "id": 128341,
+        "text": "⤷\nTitle:\nAI Is Moving From Finding Bugs to Fixing Them\n════════════════════════\n𐀪\nAuthor:\nAeon Flex, Elriel Assoc. 2133 [NEON MAXIMA]\n════════════════════════\nⴵ\nTime:\nSat, 01 Aug 2026 13:26:26 GMT\n════════════════════════\n⌗\nTags:\n#programming\n#ai\n#artificial_intelligence\n#bug_bounty\n#cybersecurity",
+        "date": "2026-08-01T14:04:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128341_0_cbccf049.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128341_1_606eb0ab.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128341",
+        "link": {
+          "title": "AI Is Moving From Finding Bugs to Fixing Them",
+          "url": "https://medium.com/@neonmaxima/ai-is-moving-from-finding-bugs-to-fixing-them-a10a35b928b1?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 128340,
+        "text": "⤷\nTitle:\nFuzzingLocalBot v2.2 — A Web Fuzzer with Automated Analysis & Reporting\n════════════════════════\n𐀪\nAuthor:\nE-xX\n════════════════════════\nⴵ\nTime:\nSat, 01 Aug 2026 13:35:08 GMT\n════════════════════════\n⌗\nTags:\n#github\n#bug_bounty\n#fuzzing\n#cybersecurity\n#red_team_tools",
+        "date": "2026-08-01T14:04:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128340_0_cbccf049.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128340_1_5058434a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128340",
+        "link": {
+          "title": "FuzzingLocalBot v2.2 — A Web Fuzzer with Automated Analysis & Reporting",
+          "url": "https://medium.com/@e-xx_/fuzzinglocalbot-v2-2-a-web-fuzzer-with-automated-analysis-reporting-6f85a2c71377?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 128339,
+        "text": "⤷\nTitle:\nGoogle Pulls AI Image Tool From Earth After Fake Satellite Photos\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nSat, 01 Aug 2026 09:02:56 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#artificial\nintelligence\n#Deepfakes\n#Disinformation\n#Google\nEarth\n#Nano\nBanana",
+        "date": "2026-08-01T14:04:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128339_0_cbccf049.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128339_1_4c664c09.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128339",
+        "link": {
+          "title": "Google Pulls AI Image Tool From Earth After Fake Satellite Photos",
+          "url": "https://securityonline.info/google-earth-ai-withdrawal/"
+        }
+      },
+      {
         "id": 128332,
         "text": "⤷\nTitle:\nRELIABLE RECOVERY FIRM\n════════════════════════\n𐀪\nAuthor:\nBenjamin May\n════════════════════════\nⴵ\nTime:\nSat, 01 Aug 2026 10:12:23 GMT\n════════════════════════\n⌗\nTags:\n#money_management\n#ethical_hacking\n#technology\n#bitcoin\n#money",
         "date": "2026-08-01T12:04:21+00:00",
@@ -1820,474 +2280,22 @@
           "title": "TryHackMe Hacker's Holiday 2026: Day 0 — The Brochure",
           "url": "https://medium.com/@jo0e.sec/tryhackme-hackers-holiday-2026-day-0-the-brochure-55ee00894c31?source=rss------infosec-5"
         }
-      },
-      {
-        "id": 128252,
-        "text": "⤷\nTitle:\nCuando el entorno de pruebas deja de ser seguro: las lecciones de los incidentes de Claude\n════════════════════════\n𐀪\nAuthor:\nTU INSIGNIA\n════════════════════════\nⴵ\nTime:\nFri, 31 Jul 2026 18:52:13 GMT\n════════════════════════\n⌗\nTags:\n#anthropic_claude\n#hacking\n#claude\n#claude_ai\n#generative_ai_tools",
-        "date": "2026-07-31T20:04:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128252_0_df15f5c5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128252_1_5a505700.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128252",
-        "link": {
-          "title": "Cuando el entorno de pruebas deja de ser seguro: las lecciones de los incidentes de Claude",
-          "url": "https://medium.com/@TUINSIGNIA/cuando-el-entorno-de-pruebas-deja-de-ser-seguro-las-lecciones-de-los-incidentes-de-claude-1de5e5bc5f4f?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 128251,
-        "text": "⤷\nTitle:\nTryHackMe Packed Light Walkthrough | Hacker Holidays 2026 Day 4 Complete Write-Up\n════════════════════════\n𐀪\nAuthor:\nA. AntorCSE404\n════════════════════════\nⴵ\nTime:\nFri, 31 Jul 2026 19:26:23 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#tryhackme\n#forensics\n#hacking\n#programming",
-        "date": "2026-07-31T20:04:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128251_0_df15f5c5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128251_1_fc9daf1f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128251",
-        "link": {
-          "title": "TryHackMe Packed Light Walkthrough | Hacker Holidays 2026 Day 4 Complete Write-Up",
-          "url": "https://medium.com/@antor.csecu/tryhackme-packed-light-walkthrough-hacker-holidays-2026-day-4-complete-write-up-eec41e9ced25?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 128250,
-        "text": "⤷\nTitle:\nZero-click Admin Takeover via Unguarded login_email\n════════════════════════\n𐀪\nAuthor:\n͏ ͏Dukrov\n════════════════════════\nⴵ\nTime:\nFri, 31 Jul 2026 19:12:34 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#bugbounty_writeup",
-        "date": "2026-07-31T20:04:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128250_0_df15f5c5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128250_1_45db265c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128250",
-        "link": {
-          "title": "Zero-click Admin Takeover via Unguarded login_email",
-          "url": "https://dukrov.medium.com/zero-click-admin-takeover-via-unguarded-login-email-ab9bcc411641?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 128249,
-        "text": "⤷\nTitle:\nBypassing Account Sign-up Restrictions with a Unicode Character\n════════════════════════\n𐀪\nAuthor:\n͏ ͏Dukrov\n════════════════════════\nⴵ\nTime:\nFri, 31 Jul 2026 19:14:40 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#bugbounty_writeup\n#bugbounty_tips",
-        "date": "2026-07-31T20:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128249_0_df15f5c5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128249_1_1be54183.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128249",
-        "link": {
-          "title": "Bypassing Account Sign-up Restrictions with a Unicode Character",
-          "url": "https://dukrov.medium.com/bypassing-account-sign-up-restrictions-with-a-unicode-character-760d9fb6a313?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 128248,
-        "text": "⤷\nTitle:\nThe Harness Is the Hack: What Agentic AI Means for Offensive Security in 2026\n════════════════════════\n𐀪\nAuthor:\neXpl0it_32\n════════════════════════\nⴵ\nTime:\nFri, 31 Jul 2026 19:24:26 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ai_hacking\n#agent_harness\n#offensive_security\n#bug_bounty",
-        "date": "2026-07-31T20:03:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128248_0_df15f5c5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128248_1_97562ab8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128248",
-        "link": {
-          "title": "The Harness Is the Hack: What Agentic AI Means for Offensive Security in 2026",
-          "url": "https://expl0it32.medium.com/the-harness-is-the-hack-what-agentic-ai-means-for-offensive-security-in-2026-28fcf4af2dce?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 128247,
-        "text": "⤷\nTitle:\nSuspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nSat, 01 Aug 2026 00:22:04 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-07-31T20:03:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128247_0_df15f5c5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128247",
-        "link": {
-          "title": "Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk",
-          "url": "https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html"
-        }
-      },
-      {
-        "id": 128246,
-        "text": "⤷\nTitle:\nTask 8 -> Access Control Vulnerabilities (Broken Access Control)\n════════════════════════\n𐀪\nAuthor:\nGunay Safarzadeh\n════════════════════════\nⴵ\nTime:\nFri, 31 Jul 2026 16:18:11 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#tryhackme\n#broken_access_control\n#burpsuite",
-        "date": "2026-07-31T18:04:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128246_0_df15f5c5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128246_1_00450008.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128246",
-        "link": {
-          "title": "Task 8 -> Access Control Vulnerabilities (Broken Access Control)",
-          "url": "https://medium.com/@gunaysafarzadeh/task-8-access-control-vulnerabilities-broken-access-control-4e76bbf74986?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 128245,
-        "text": "⤷\nTitle:\nHacker Holidays — The Byte Lotus Hotel: Packed Light (Forensics)\n════════════════════════\n𐀪\nAuthor:\nxula\n════════════════════════\nⴵ\nTime:\nFri, 31 Jul 2026 16:32:46 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#tryhackme_writeup\n#cybersecurity\n#forensics\n#ctf",
-        "date": "2026-07-31T18:04:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128245_0_df15f5c5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128245_1_01746e2c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128245",
-        "link": {
-          "title": "Hacker Holidays — The Byte Lotus Hotel: Packed Light (Forensics)",
-          "url": "https://medium.com/@xula_z/hacker-holidays-the-byte-lotus-hotel-packed-light-forensics-54964e025563?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 128244,
-        "text": "⤷\nTitle:\nBoogeyman 2 — TryHackMe Write-Up\n════════════════════════\n𐀪\nAuthor:\nDarshan\n════════════════════════\nⴵ\nTime:\nFri, 31 Jul 2026 16:57:20 GMT\n════════════════════════\n⌗\nTags:\n#soc\n#tryhackme\n#cybersecurity",
-        "date": "2026-07-31T18:04:45+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128244_0_df15f5c5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128244_1_09db6755.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128244",
-        "link": {
-          "title": "Boogeyman 2 — TryHackMe Write-Up",
-          "url": "https://medium.com/@darshan331740_89257/boogeyman-2-tryhackme-write-up-45317d9542f0?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 128243,
-        "text": "⤷\nTitle:\nBoogeyman 3 — TryHackMe Write-Up\n════════════════════════\n𐀪\nAuthor:\nDarshan\n════════════════════════\nⴵ\nTime:\nFri, 31 Jul 2026 16:58:08 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#soc\n#tryhackme",
-        "date": "2026-07-31T18:04:41+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128243_0_df15f5c5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128243_1_8fb9b5d6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128243",
-        "link": {
-          "title": "Boogeyman 3 — TryHackMe Write-Up",
-          "url": "https://medium.com/@darshan331740_89257/boogeyman-3-tryhackme-write-up-fbc6104ba1fc?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 128242,
-        "text": "⤷\nTitle:\nPacked Light — THM Hacker Holidays Day 4\n════════════════════════\n𐀪\nAuthor:\naryqmn\n════════════════════════\nⴵ\nTime:\nFri, 31 Jul 2026 17:09:43 GMT\n════════════════════════\n⌗\nTags:\n#wireshark\n#network_forensics\n#tryhackme\n#writeup",
-        "date": "2026-07-31T18:04:38+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128242_0_df15f5c5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128242_1_6b86349f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128242",
-        "link": {
-          "title": "Packed Light — THM Hacker Holidays Day 4",
-          "url": "https://medium.com/@aryqmn/packed-light-thm-hacker-holidays-day-4-c14861bc9eb1?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 128241,
-        "text": "⤷\nTitle:\nPacked Light | Hacker Holidays Day 4 | TryHackMe Writeup\n════════════════════════\n𐀪\nAuthor:\nDebmalya Mondal\n════════════════════════\nⴵ\nTime:\nFri, 31 Jul 2026 17:20:12 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_walkthrough\n#tryhackme_writeup\n#network_forensics\n#tryhackme\n#wireshark",
-        "date": "2026-07-31T18:04:35+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128241_0_df15f5c5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128241_1_ea2997e5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128241",
-        "link": {
-          "title": "Packed Light | Hacker Holidays Day 4 | TryHackMe Writeup",
-          "url": "https://medium.com/@devdebug/packed-light-hacker-holidays-day-4-tryhackme-writeup-5f663171ea5a?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 128240,
-        "text": "⤷\nTitle:\nMobile Application Security\n════════════════════════\n𐀪\nAuthor:\nVinayakpawar\n════════════════════════\nⴵ\nTime:\nFri, 31 Jul 2026 17:27:24 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_walkthrough\n#tryhackme\n#red_team\n#mobile_security\n#cybersecurity",
-        "date": "2026-07-31T18:04:31+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128240_0_df15f5c5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128240_1_ae82ac82.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128240",
-        "link": {
-          "title": "Mobile Application Security",
-          "url": "https://medium.com/@vinayakpawar2518/mobile-application-security-e3e8398de77a?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 128239,
-        "text": "⤷\nTitle:\nTryHackMe Hacker Holidays Day 5 | Beach Bar Walkthrough | Exploiting Unsafe YAML Deserialization to…\n════════════════════════\n𐀪\nAuthor:\nShamita\n════════════════════════\nⴵ\nTime:\nFri, 31 Jul 2026 17:28:21 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_writeup\n#tryhackme\n#ethical_hacking\n#cybersecurity\n#web_security",
-        "date": "2026-07-31T18:04:28+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128239_0_df15f5c5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128239_1_d535a2ca.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128239",
-        "link": {
-          "title": "TryHackMe Hacker Holidays Day 5 | Beach Bar Walkthrough | Exploiting Unsafe YAML Deserialization to…",
-          "url": "https://medium.com/@shamitajan/tryhackme-hacker-holidays-day-5-beach-bar-walkthrough-exploiting-unsafe-yaml-deserialization-to-a4e5d29a96d6?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 128238,
-        "text": "⤷\nTitle:\nPacked Light | TryHackMe | Walkthrough\n════════════════════════\n𐀪\nAuthor:\nSornphut\n════════════════════════\nⴵ\nTime:\nFri, 31 Jul 2026 17:51:18 GMT\n════════════════════════\n⌗\nTags:\n#wireshark\n#tryhackme\n#pcap\n#tryhackme_writeup\n#tryhackme_walkthrough",
-        "date": "2026-07-31T18:04:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128238_0_df15f5c5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128238_1_eeab41e4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128238",
-        "link": {
-          "title": "Packed Light | TryHackMe | Walkthrough",
-          "url": "https://medium.com/@sornphut/packed-light-tryhackme-walkthrough-e9ed0b751c3f?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 128237,
-        "text": "⤷\nTitle:\nA Sneak Peek into Penetration Testing\n════════════════════════\n𐀪\nAuthor:\nEmz Codez\n════════════════════════\nⴵ\nTime:\nFri, 31 Jul 2026 16:11:07 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#cybersecurity\n#vulnerability\n#ethical_hacking\n#software_testing",
-        "date": "2026-07-31T18:04:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128237_0_df15f5c5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128237_1_68af657b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128237",
-        "link": {
-          "title": "A Sneak Peek into Penetration Testing",
-          "url": "https://medium.com/@premakotur266/a-sneak-peek-into-penetration-testing-4e13cd7da8bd?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 128236,
-        "text": "⤷\nTitle:\nTryHackMe: Room 404 Walkthrough (Hacker’s Holiday Challenge)\n════════════════════════\n𐀪\nAuthor:\nMarshall007\n════════════════════════\nⴵ\nTime:\nFri, 31 Jul 2026 17:18:21 GMT\n════════════════════════\n⌗\nTags:\n#ctf\n#tryhackme_walkthrough\n#infosec\n#tryhackme\n#cybersecurity",
-        "date": "2026-07-31T18:04:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128236_0_df15f5c5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128236_1_e656a7ca.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128236",
-        "link": {
-          "title": "TryHackMe: Room 404 Walkthrough (Hacker’s Holiday Challenge)",
-          "url": "https://marshall007.medium.com/tryhackme-room-404-walkthrough-hackers-holiday-challenge-8f7e3d5a76a9?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 128235,
-        "text": "⤷\nTitle:\nStop Calling IOC Enrichment “Threat Intelligence”: How to Properly Use CTI for Alert Triage\n════════════════════════\n𐀪\nAuthor:\nseif\n════════════════════════\nⴵ\nTime:\nFri, 31 Jul 2026 16:30:42 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#information_security\n#cybersecurity\n#tech\n#information_technology",
-        "date": "2026-07-31T18:04:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128235_0_df15f5c5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128235_1_fb8b5454.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128235",
-        "link": {
-          "title": "Stop Calling IOC Enrichment “Threat Intelligence”: How to Properly Use CTI for Alert Triage",
-          "url": "https://medium.com/@seiferboado101/stop-calling-ioc-enrichment-threat-intelligence-how-to-properly-use-cti-for-alert-triage-02965b58422c?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 128234,
-        "text": "⤷\nTitle:\nОбзор чита Cluster для CS2: Технологии легита, безопасность и ответ на обновления Neverlose\n════════════════════════\n𐀪\nAuthor:\nAurelivoines\n════════════════════════\nⴵ\nTime:\nFri, 31 Jul 2026 17:28:00 GMT\n════════════════════════\n⌗\nTags:\n#gamehacking\n#hacking\n#cheating\n#cluster\n#cs2",
-        "date": "2026-07-31T18:04:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128234_0_df15f5c5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128234",
-        "link": {
-          "title": "Обзор чита Cluster для CS2: Технологии легита, безопасность и ответ на обновления Neverlose",
-          "url": "https://medium.com/@aurelivoines/%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-%D1%87%D0%B8%D1%82%D0%B0-cluster-%D0%B4%D0%BB%D1%8F-cs2-%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8-%D0%BB%D0%B5%D0%B3%D0%B8%D1%82%D0%B0-%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%B8-%D0%BE%D1%82%D0%B2%D0%B5%D1%82-%D0%BD%D0%B0-%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-neverlose-aeaa0323418d?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 128233,
-        "text": "⤷\nTitle:\nDetailed Review of the Cluster Cheat for CS2: Legit Technologies, Security, and the Response to…\n════════════════════════\n𐀪\nAuthor:\nAurelivoines\n════════════════════════\nⴵ\nTime:\nFri, 31 Jul 2026 17:35:37 GMT\n════════════════════════\n⌗\nTags:\n#gamehacking\n#cs2\n#cluster\n#hacking\n#cheats",
-        "date": "2026-07-31T18:04:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128233_0_df15f5c5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128233_1_24d25155.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128233",
-        "link": {
-          "title": "Detailed Review of the Cluster Cheat for CS2: Legit Technologies, Security, and the Response to…",
-          "url": "https://medium.com/@aurelivoines/detailed-review-of-the-cluster-cheat-for-cs2-legit-technologies-security-and-the-response-to-9c600636df63?source=rss------hacking-5"
-        }
       }
     ]
   },
-  "last_update": "2026-08-01T13:00:15.564399+00:00",
+  "last_update": "2026-08-01T14:26:33.621345+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 193,
-    "total_files": 193,
+    "total_media": 195,
+    "total_files": 195,
     "total_links": 0,
     "files_by_type": {
-      "image": 193
+      "image": 195
     },
-    "referenced_files": 193,
-    "existing_media_files": 193,
-    "total_size_mb": 5.11,
-    "last_calculation": "2026-08-01T13:00:15.566780+00:00"
+    "referenced_files": 195,
+    "existing_media_files": 195,
+    "total_size_mb": 5.65,
+    "last_calculation": "2026-08-01T14:26:33.623764+00:00"
   }
 }
