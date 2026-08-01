@@ -2,6 +2,255 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 128322,
+        "text": "⤷\nTitle:\nSubdomain Enumeration Master Guide\n════════════════════════\n𐀪\nAuthor:\nMohamed Algabry\n════════════════════════\nⴵ\nTime:\nSat, 01 Aug 2026 08:54:17 GMT\n════════════════════════\n⌗\nTags:\n#subdomains_enumeration\n#pentesting\n#scanning_enumeration\n#bug_bounty_tips\n#cheatsheet",
+        "date": "2026-08-01T10:04:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128322_0_cbccf049.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128322_1_2949bf93.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128322",
+        "link": {
+          "title": "Subdomain Enumeration Master Guide",
+          "url": "https://mohamedalgabry.medium.com/subdomain-enumeration-master-guide-1dc3f82f591f?source=rss------bug_bounty_tips-5"
+        }
+      },
+      {
+        "id": 128321,
+        "text": "⤷\nTitle:\nSkills Assessment — SQL Injection Fundamentals Writeup\n════════════════════════\n𐀪\nAuthor:\nToxkay\n════════════════════════\nⴵ\nTime:\nSat, 01 Aug 2026 09:50:16 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#sql_injection\n#penteration_testing\n#hackthebox\n#web_security",
+        "date": "2026-08-01T10:04:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128321_0_cbccf049.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128321_1_376bf5e8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128321",
+        "link": {
+          "title": "Skills Assessment — SQL Injection Fundamentals Writeup",
+          "url": "https://medium.com/@karenfady5576/skills-assessment-sql-injection-fundamentals-writeup-782e856ecbc4?source=rss------sql_injection-5"
+        }
+      },
+      {
+        "id": 128320,
+        "text": "⤷\nTitle:\nHow I Found an SSRF in Mozilla Firefox That Could Compromise the Content Pipeline Behind 300M+ New…\n════════════════════════\n𐀪\nAuthor:\nsn0xsharma\n════════════════════════\nⴵ\nTime:\nSat, 01 Aug 2026 08:25:35 GMT\n════════════════════════\n⌗\nTags:\n#browser_exploitation\n#0day\n#ssrf",
+        "date": "2026-08-01T10:04:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128320_0_cbccf049.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128320_1_098da8be.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128320",
+        "link": {
+          "title": "How I Found an SSRF in Mozilla Firefox That Could Compromise the Content Pipeline Behind 300M+ New…",
+          "url": "https://sn0xsharma.medium.com/how-i-found-an-ssrf-in-mozilla-firefox-that-could-compromise-the-content-pipeline-behind-300m-new-90907dcd43d1?source=rss------ssrf-5"
+        }
+      },
+      {
+        "id": 128319,
+        "text": "⤷\nTitle:\nMinUv2 Walkthrough\n════════════════════════\n𐀪\nAuthor:\nBoldhacker\n════════════════════════\nⴵ\nTime:\nSat, 01 Aug 2026 09:34:42 GMT\n════════════════════════\n⌗\nTags:\n#ctf_walkthrough\n#xxe_injection\n#minuv2_walkthrough\n#vulnhub",
+        "date": "2026-08-01T10:04:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128319_0_cbccf049.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128319_1_c7fc871a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128319",
+        "link": {
+          "title": "MinUv2 Walkthrough",
+          "url": "https://medium.com/@bansalkrish007/minuv2-walkthrough-c9040d101438?source=rss------vulnhub-5"
+        }
+      },
+      {
+        "id": 128318,
+        "text": "⤷\nTitle:\nBeach Bar (THM) Walkthrough\n════════════════════════\n𐀪\nAuthor:\nL4ZZ3RJ0D\n════════════════════════\nⴵ\nTime:\nSat, 01 Aug 2026 08:40:52 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_walkthrough\n#tryhackme\n#info_sec_writeups\n#boot2root\n#ctf",
+        "date": "2026-08-01T10:04:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128318_0_cbccf049.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128318_1_aa1f1fbc.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128318",
+        "link": {
+          "title": "Beach Bar (THM) Walkthrough",
+          "url": "https://medium.com/@l4zz3rj0d/beach-bar-thm-walkthrough-330170d80ec5?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 128317,
+        "text": "⤷\nTitle:\nLLMborghini(THM) Writeup\n════════════════════════\n𐀪\nAuthor:\nPriyabrat Swain\n════════════════════════\nⴵ\nTime:\nSat, 01 Aug 2026 08:54:40 GMT\n════════════════════════\n⌗\nTags:\n#ai_security\n#tryhackme\n#ai\n#prompt_injection_attack\n#llm",
+        "date": "2026-08-01T10:04:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128317_0_cbccf049.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128317_1_60182f5a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128317",
+        "link": {
+          "title": "LLMborghini(THM) Writeup",
+          "url": "https://medium.com/@priyabratswain/llmborghini-thm-writeup-322a165e4c0d?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 128316,
+        "text": "⤷\nTitle:\nTryHackMe: Beach Bar | Hacker Holidays Day 5 Walkthrough\n════════════════════════\n𐀪\nAuthor:\nRishi Kumavat\n════════════════════════\nⴵ\nTime:\nSat, 01 Aug 2026 09:24:28 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#rishikumavat\n#tryhackme_writeup\n#privilege\n#tryhackme_walkthrough",
+        "date": "2026-08-01T10:04:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128316_0_cbccf049.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128316_1_8374b0ec.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128316",
+        "link": {
+          "title": "TryHackMe: Beach Bar | Hacker Holidays Day 5 Walkthrough",
+          "url": "https://medium.com/@rishikumavat12/tryhackme-beach-bar-hacker-holidays-day-5-walkthrough-2ecf26ade266?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 128315,
+        "text": "⤷\nTitle:\nIntroducing Pathfinder: An Open-Source CLI for Organizing Reconnaissance URLs\n════════════════════════\n𐀪\nAuthor:\nAkshatshirsat\n════════════════════════\nⴵ\nTime:\nSat, 01 Aug 2026 09:03:56 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#reconnaissance\n#pentesting\n#security\n#osint",
+        "date": "2026-08-01T10:04:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128315_0_cbccf049.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128315_1_3d742e90.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128315",
+        "link": {
+          "title": "Introducing Pathfinder: An Open-Source CLI for Organizing Reconnaissance URLs",
+          "url": "https://medium.com/@akshatshirsat77/introducing-pathfinder-an-open-source-cli-for-organizing-reconnaissance-urls-71bbdae86f85?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 128314,
+        "text": "⤷\nTitle:\nHow I found a blind stored XSS bug and got paid twice\n════════════════════════\n𐀪\nAuthor:\nMuhammed Jalwan\n════════════════════════\nⴵ\nTime:\nSat, 01 Aug 2026 09:34:48 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#bug_bounty\n#penetration_testing\n#bug_bounty_writeup\n#bug_bounty_tips",
+        "date": "2026-08-01T10:03:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128314_0_cbccf049.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128314_1_463d29a7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128314",
+        "link": {
+          "title": "How I found a blind stored XSS bug and got paid twice",
+          "url": "https://jalwan.medium.com/how-i-found-a-blind-stored-xss-bug-and-got-paid-twice-3b4db4c84c23?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 128313,
+        "text": "⤷\nTitle:\nWhen the Lock Comes With the Key: Bypassing Client-Side Encryption to Find an IDOR\n════════════════════════\n𐀪\nAuthor:\nJobson\n════════════════════════\nⴵ\nTime:\nSat, 01 Aug 2026 09:54:18 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#cybersecurity\n#penetration_testing\n#hacking\n#pentesting",
+        "date": "2026-08-01T10:03:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128313_0_cbccf049.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128313_1_1923e81f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128313",
+        "link": {
+          "title": "When the Lock Comes With the Key: Bypassing Client-Side Encryption to Find an IDOR",
+          "url": "https://medium.com/@thelazypentester/when-the-lock-comes-with-the-key-6e1c8e0162cb?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 128312,
+        "text": "⤷\nTitle:\nHackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nSat, 01 Aug 2026 14:33:07 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-08-01T10:03:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128312_0_cbccf049.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128312",
+        "link": {
+          "title": "Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites",
+          "url": "https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html"
+        }
+      },
+      {
         "id": 128311,
         "text": "⤷\nTitle:\nBad USBs are SCARY! (Build One with a Raspberry Pi Pico for $8)\n════════════════════════\n𐀪\nAuthor:\nShahzaib\n════════════════════════\nⴵ\nTime:\nSat, 01 Aug 2026 06:02:53 GMT\n════════════════════════\n⌗\nTags:\n#technology\n#hacking_tools\n#tech\n#cybersecurity\n#ethical_hacking",
         "date": "2026-08-01T08:04:34+00:00",
@@ -2015,263 +2264,22 @@
           "title": "From VirusTotal to Bug Bounty: What I Learned from My Cybersecurity Quiz",
           "url": "https://medium.com/@habkaz124/from-virustotal-to-bug-bounty-what-i-learned-from-my-cybersecurity-quiz-1a707b9171f9?source=rss------bug_bounty-5"
         }
-      },
-      {
-        "id": 128222,
-        "text": "⤷\nTitle:\nHow HTTP Request Smuggling Still Exist and How to exploit\n════════════════════════\n𐀪\nAuthor:\nFreefirepakistanyqsh\n════════════════════════\nⴵ\nTime:\nFri, 31 Jul 2026 14:59:38 GMT\n════════════════════════\n⌗\nTags:\n#exploit\n#vulnerability\n#security\n#bug_bounty",
-        "date": "2026-07-31T16:04:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128222_0_df15f5c5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128222_1_9977a54d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128222",
-        "link": {
-          "title": "How HTTP Request Smuggling Still Exist and How to exploit",
-          "url": "https://medium.com/@freefirepakistanyqsh/how-http-request-smuggling-still-exist-and-how-to-exploit-93f4e26dbd15?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 128221,
-        "text": "⤷\nTitle:\nblind XSS vulnerability that performs actions on behalf of the administrator.\n════════════════════════\n𐀪\nAuthor:\nmo7med elta7an\n════════════════════════\nⴵ\nTime:\nFri, 31 Jul 2026 15:09:57 GMT\n════════════════════════\n⌗\nTags:\n#xss_vulnerability\n#bug_bounty\n#cybersecurity",
-        "date": "2026-07-31T16:04:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128221_0_df15f5c5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128221_1_d6b65a19.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128221",
-        "link": {
-          "title": "blind XSS vulnerability that performs actions on behalf of the administrator.",
-          "url": "https://medium.com/@mo7medelta7an/blind-xss-vulnerability-that-performs-actions-on-behalf-of-the-administrator-67b2ae39800c?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 128220,
-        "text": "⤷\nTitle:\nBroken Access Control: A Non-Admin User Can Change Site Configuration\n════════════════════════\n𐀪\nAuthor:\nHassan saad\n════════════════════════\nⴵ\nTime:\nFri, 31 Jul 2026 15:29:43 GMT\n════════════════════════\n⌗\nTags:\n#broken_access_control\n#bug_bounty_writeup\n#bug_bounty",
-        "date": "2026-07-31T16:04:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128220_0_df15f5c5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128220_1_23c003b8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128220",
-        "link": {
-          "title": "Broken Access Control: A Non-Admin User Can Change Site Configuration",
-          "url": "https://medium.com/@hs942422/broken-access-control-a-non-admin-user-can-change-site-configuration-ce2cb9349e38?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 128219,
-        "text": "⤷\nTitle:\nArris BGW210-700 Authentication Bypass Leaks AT&T Gateway WiFi Passwords (CVE-2026-16771)\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 31 Jul 2026 14:03:39 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Arris\nBGW210_700\n#AT\n&T\n#Authentication\nBypass\n#CERT\n/CC\n#CVE_2026_16771\n#Residential\nGateway",
-        "date": "2026-07-31T16:04:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128219_0_df15f5c5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128219_1_e7d1a3f8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128219",
-        "link": {
-          "title": "Arris BGW210-700 Authentication Bypass Leaks AT&T Gateway WiFi Passwords (CVE-2026-16771)",
-          "url": "https://securityonline.info/arris-bgw210-700-cve-2026-16771/"
-        }
-      },
-      {
-        "id": 128218,
-        "text": "⤷\nTitle:\nAnMed Malware Cyberattack Shuts Down Clinic Operations\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nFri, 31 Jul 2026 14:09:23 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#AnMed\n#cyberattack\n#Healthcare\nSecurity\n#malware",
-        "date": "2026-07-31T16:04:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128218_0_df15f5c5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128218_1_163bd538.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128218",
-        "link": {
-          "title": "AnMed Malware Cyberattack Shuts Down Clinic Operations",
-          "url": "https://meterpreter.org/anmed-malware-cyberattack/"
-        }
-      },
-      {
-        "id": 128217,
-        "text": "⤷\nTitle:\nHow AI Guardrails Impede Security Research\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nFri, 31 Jul 2026 15:09:10 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\n#AI\nGuardrails\n#GPT_5\n.6 Sol\n#Linux\nKernel\n#Open\nWeight AI\n#ripgrep\n#security\nresearch",
-        "date": "2026-07-31T16:04:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128217_0_df15f5c5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128217_1_ef4d513c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128217",
-        "link": {
-          "title": "How AI Guardrails Impede Security Research",
-          "url": "https://meterpreter.org/ai-guardrails-security-research/"
-        }
-      },
-      {
-        "id": 128216,
-        "text": "⤷\nTitle:\nResearchers Report 84 Flaws in 4G and 5G Cores, Including a Session Hijacking Flaw\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nFri, 31 Jul 2026 17:25:00 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-07-31T16:04:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128216_0_df15f5c5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128216",
-        "link": {
-          "title": "Researchers Report 84 Flaws in 4G and 5G Cores, Including a Session Hijacking Flaw",
-          "url": "https://thehackernews.com/2026/07/researchers-report-84-flaws-in-4g-and.html"
-        }
-      },
-      {
-        "id": 128215,
-        "text": "⤷\nTitle:\nThree Recent Chrome Releases Fix 1,442 Flaws, More Than Prior 23 Updates Combined\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nFri, 31 Jul 2026 18:21:52 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-07-31T16:04:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128215_0_df15f5c5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128215",
-        "link": {
-          "title": "Three Recent Chrome Releases Fix 1,442 Flaws, More Than Prior 23 Updates Combined",
-          "url": "https://thehackernews.com/2026/07/three-recent-chrome-releases-fix-1442.html"
-        }
-      },
-      {
-        "id": 128214,
-        "text": "⤷\nTitle:\nCheap Android TV Boxes Pose as Phones and Turn Owners’ Broadband Into Proxies\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nFri, 31 Jul 2026 20:15:01 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-07-31T16:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128214_0_df15f5c5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128214",
-        "link": {
-          "title": "Cheap Android TV Boxes Pose as Phones and Turn Owners’ Broadband Into Proxies",
-          "url": "https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html"
-        }
-      },
-      {
-        "id": 128213,
-        "text": "⤷\nTitle:\nRe-visiting the Backbone of the Internet (Networking Concepts)\n════════════════════════\n𐀪\nAuthor:\nSyed Abdul R\n════════════════════════\nⴵ\nTime:\nFri, 31 Jul 2026 13:14:18 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity_students\n#cybersecurity\n#tryhackme\n#tryhackme_writeup\n#networking",
-        "date": "2026-07-31T14:04:41+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128213_0_df15f5c5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128213_1_c87e054e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128213",
-        "link": {
-          "title": "Re-visiting the Backbone of the Internet (Networking Concepts)",
-          "url": "https://medium.com/@syed.abdul.r.2002/re-visiting-the-backbone-of-the-internet-networking-concepts-9f0928063b4f?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 128212,
-        "text": "⤷\nTitle:\nCorridor: Twelve Doors, One IDOR\n════════════════════════\n𐀪\nAuthor:\nEnryuuu\n════════════════════════\nⴵ\nTime:\nFri, 31 Jul 2026 13:11:32 GMT\n════════════════════════\n⌗\nTags:\n#ctf\n#infosec\n#ctf_writeup\n#tryhackme\n#cybersecurity",
-        "date": "2026-07-31T14:04:38+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128212_0_df15f5c5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128212_1_34789d87.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128212",
-        "link": {
-          "title": "Corridor: Twelve Doors, One IDOR",
-          "url": "https://medium.com/@cristopher.gilbert27/corridor-twelve-doors-one-idor-551650d3d9e7?source=rss------infosec-5"
-        }
       }
     ]
   },
-  "last_update": "2026-08-01T09:31:21.191808+00:00",
+  "last_update": "2026-08-01T10:59:24.173375+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 189,
-    "total_files": 189,
+    "total_media": 191,
+    "total_files": 191,
     "total_links": 0,
     "files_by_type": {
-      "image": 189
+      "image": 191
     },
-    "referenced_files": 189,
-    "existing_media_files": 189,
-    "total_size_mb": 4.74,
-    "last_calculation": "2026-08-01T09:31:21.194130+00:00"
+    "referenced_files": 191,
+    "existing_media_files": 191,
+    "total_size_mb": 4.83,
+    "last_calculation": "2026-08-01T10:59:24.175685+00:00"
   }
 }
