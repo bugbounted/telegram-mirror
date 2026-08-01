@@ -2,6 +2,98 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 128417,
+        "text": "⤷\nTitle:\nTryHackMe: The Silent Transfer — Threat Hunting Write-Up\n════════════════════════\n𐀪\nAuthor:\nGhostbhoot\n════════════════════════\nⴵ\nTime:\nSat, 01 Aug 2026 21:19:10 GMT\n════════════════════════\n⌗\nTags:\n#threat_hunting\n#cybersecurity\n#ctf_writeup\n#tryhackme\n#network_security",
+        "date": "2026-08-01T22:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128417_0_cbccf049.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128417_1_a5c1c72c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128417",
+        "link": {
+          "title": "TryHackMe: The Silent Transfer — Threat Hunting Write-Up",
+          "url": "https://medium.com/@ghostbhoot610/tryhackme-the-silent-transfer-threat-hunting-write-up-baefd441d141?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 128416,
+        "text": "⤷\nTitle:\nReverse Engineering a Go Ransomware: ShinySpider\n════════════════════════\n𐀪\nAuthor:\nCHANDRA KANT BAURI\n════════════════════════\nⴵ\nTime:\nSat, 01 Aug 2026 21:09:01 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#infosec\n#malware_analysis\n#reverse_engineering",
+        "date": "2026-08-01T22:03:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128416_0_cbccf049.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128416_1_b587f9bc.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128416",
+        "link": {
+          "title": "Reverse Engineering a Go Ransomware: ShinySpider",
+          "url": "https://medium.com/@ckant/reverse-engineering-a-go-ransomware-shinyspider-07d23fad91e0?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 128415,
+        "text": "⤷\nTitle:\nICS: Crownspire Transfer - HTB Cyber Apocalypse CTF 2026: The Salt Crown (WriteUp)\n════════════════════════\n𐀪\nAuthor:\nEVEX Security\n════════════════════════\nⴵ\nTime:\nSat, 01 Aug 2026 21:07:20 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#ctf\n#ctf_writeup\n#hacking\n#hackthebox",
+        "date": "2026-08-01T22:03:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128415_0_cbccf049.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128415_1_d3b50907.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128415",
+        "link": {
+          "title": "ICS: Crownspire Transfer - HTB Cyber Apocalypse CTF 2026: The Salt Crown (WriteUp)",
+          "url": "https://evexsecurity.medium.com/ics-crownspire-transfer-htb-cyber-apocalypse-ctf-2026-the-salt-crown-writeup-efdfe49be6f0?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 128414,
+        "text": "⤷\nTitle:\nThe Bug Bounty Playbook: Authentication Bypass\n════════════════════════\n𐀪\nAuthor:\nAbhishek meena\n════════════════════════\nⴵ\nTime:\nSat, 01 Aug 2026 20:28:05 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#bug_bounty_tips\n#authentication\n#bug_bounty\n#bug_bounty_writeup",
+        "date": "2026-08-01T22:03:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128414_0_cbccf049.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128414_1_3df31d66.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128414",
+        "link": {
+          "title": "The Bug Bounty Playbook: Authentication Bypass",
+          "url": "https://medium.com/@Aacle/the-bug-bounty-playbook-authentication-bypass-e70cc2824564?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 128413,
         "text": "⤷\nTitle:\nNoSQL Injection (tryhackme room)\n════════════════════════\n𐀪\nAuthor:\nMuhammad Jubair Hossain\n════════════════════════\nⴵ\nTime:\nSat, 01 Aug 2026 19:02:41 GMT\n════════════════════════\n⌗\nTags:\n#sql_injection\n#nosql\n#tryhackme_walkthrough",
         "date": "2026-08-01T20:04:54+00:00",
@@ -2188,102 +2280,10 @@
           "title": "Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites",
           "url": "https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html"
         }
-      },
-      {
-        "id": 128311,
-        "text": "⤷\nTitle:\nBad USBs are SCARY! (Build One with a Raspberry Pi Pico for $8)\n════════════════════════\n𐀪\nAuthor:\nShahzaib\n════════════════════════\nⴵ\nTime:\nSat, 01 Aug 2026 06:02:53 GMT\n════════════════════════\n⌗\nTags:\n#technology\n#hacking_tools\n#tech\n#cybersecurity\n#ethical_hacking",
-        "date": "2026-08-01T08:04:34+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128311_0_cbccf049.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128311_1_2773ced4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128311",
-        "link": {
-          "title": "Bad USBs are SCARY! (Build One with a Raspberry Pi Pico for $8)",
-          "url": "https://medium.com/data-and-beyond/bad-usbs-are-scary-build-one-with-a-raspberry-pi-pico-for-8-50fba7511a03?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 128310,
-        "text": "⤷\nTitle:\nHow IDOR/BOLA Becomes a High-Impact API Vulnerability\n════════════════════════\n𐀪\nAuthor:\nCYBER MIND SPACE\n════════════════════════\nⴵ\nTime:\nSat, 01 Aug 2026 07:22:16 GMT\n════════════════════════\n⌗\nTags:\n#idor\n#ethical_hacking\n#api\n#bola_vulnerability\n#cybersecurity",
-        "date": "2026-08-01T08:04:30+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128310_0_cbccf049.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128310_1_27a157ff.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128310",
-        "link": {
-          "title": "How IDOR/BOLA Becomes a High-Impact API Vulnerability",
-          "url": "https://medium.com/@cybermindspace/how-idor-bola-becomes-a-high-impact-api-vulnerability-202d22826e5e?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 128309,
-        "text": "⤷\nTitle:\nHow I Received a Hall of Fame Recognition from the World Health Organization\n════════════════════════\n𐀪\nAuthor:\nAnij Gurung\n════════════════════════\nⴵ\nTime:\nSat, 01 Aug 2026 07:53:26 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#information_technology\n#bug_bounty_writeup",
-        "date": "2026-08-01T08:04:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128309_0_cbccf049.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128309_1_642e63ab.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128309",
-        "link": {
-          "title": "How I Received a Hall of Fame Recognition from the World Health Organization",
-          "url": "https://medium.com/@anijgurung48/how-i-received-a-hall-of-fame-recognition-from-the-world-health-organization-c102574e2e8c?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 128308,
-        "text": "⤷\nTitle:\nInside Web Auth: Unpacking Enumeration, Logic Flaws, and Rate Limits\n════════════════════════\n𐀪\nAuthor:\nBharat Kumar Grover\n════════════════════════\nⴵ\nTime:\nSat, 01 Aug 2026 07:57:54 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#web_security\n#penetration_testing\n#ethical_hacking\n#appsec",
-        "date": "2026-08-01T08:04:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128308_0_cbccf049.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128308_1_6c75140d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128308",
-        "link": {
-          "title": "Inside Web Auth: Unpacking Enumeration, Logic Flaws, and Rate Limits",
-          "url": "https://medium.com/@bharatgrover49/inside-web-auth-unpacking-enumeration-logic-flaws-and-rate-limits-04cebc708031?source=rss------ethical_hacking-5"
-        }
       }
     ]
   },
-  "last_update": "2026-08-01T21:15:23.454344+00:00",
+  "last_update": "2026-08-01T22:19:27.198564+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2295,7 +2295,7 @@
     },
     "referenced_files": 195,
     "existing_media_files": 195,
-    "total_size_mb": 5.76,
-    "last_calculation": "2026-08-01T21:15:23.456193+00:00"
+    "total_size_mb": 5.73,
+    "last_calculation": "2026-08-01T22:19:27.200925+00:00"
   }
 }
