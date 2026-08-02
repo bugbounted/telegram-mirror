@@ -2,6 +2,121 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 128532,
+        "text": "⤷\nTitle:\nExploiting Mass Assignment Vulnerability\n════════════════════════\n𐀪\nAuthor:\nCyberLabyrinthX\n════════════════════════\nⴵ\nTime:\nSun, 02 Aug 2026 21:02:34 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_walkthrough\n#ethical_hacking\n#cyber_security_awareness\n#hackthebox_writeup\n#portswigger",
+        "date": "2026-08-02T22:04:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128532_0_3a906a74.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128532_1_2855b0f7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128532",
+        "link": {
+          "title": "Exploiting Mass Assignment Vulnerability",
+          "url": "https://cyberlabyrinthx.medium.com/exploiting-mass-assignment-vulnerability-38934c5589ea?source=rss------hackthebox_writeup-5"
+        }
+      },
+      {
+        "id": 128531,
+        "text": "⤷\nTitle:\nRooted, Hooked, and Still Undetected: Cracking a Messaging App’s Anti-Tamper Stack\n════════════════════════\n𐀪\nAuthor:\nAdmiralhr\n════════════════════════\nⴵ\nTime:\nSun, 02 Aug 2026 20:28:04 GMT\n════════════════════════\n⌗\nTags:\n#android\n#penetration_testing\n#cybersecurity\n#mobile_security\n#reverse_engineering",
+        "date": "2026-08-02T22:04:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128531_0_3a906a74.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128531_1_6bc7d04a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128531",
+        "link": {
+          "title": "Rooted, Hooked, and Still Undetected: Cracking a Messaging App’s Anti-Tamper Stack",
+          "url": "https://medium.com/@admiralhr99/rooted-hooked-and-still-undetected-cracking-a-messaging-apps-anti-tamper-stack-c521b4012123?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 128530,
+        "text": "⤷\nTitle:\nAMSI Write Raid\n════════════════════════\n𐀪\nAuthor:\nS12 - 0x12Dark Development\n════════════════════════\nⴵ\nTime:\nSun, 02 Aug 2026 20:28:26 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#infosec\n#pentesting\n#cybersecurity\n#malware",
+        "date": "2026-08-02T22:03:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128530_0_3a906a74.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128530_1_87813135.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128530",
+        "link": {
+          "title": "AMSI Write Raid",
+          "url": "https://medium.com/@s12deff/amsi-write-raid-dd576d5ced78?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 128529,
+        "text": "⤷\nTitle:\nHow Hackers Find Weak Spots: A Simple Guide for Beginners\n════════════════════════\n𐀪\nAuthor:\nLaura Dignified\n════════════════════════\nⴵ\nTime:\nSun, 02 Aug 2026 21:31:07 GMT\n════════════════════════\n⌗\nTags:\n#technology\n#awareness\n#hacking",
+        "date": "2026-08-02T22:03:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128529_0_3a906a74.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128529_1_f840fac0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128529",
+        "link": {
+          "title": "How Hackers Find Weak Spots: A Simple Guide for Beginners",
+          "url": "https://medium.com/@lauraosuigwe277/how-hackers-find-weak-spots-a-simple-guide-for-beginners-61fc1cb2688e?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 128528,
+        "text": "⤷\nTitle:\nColdcard wasn’t “hacked” — it was never secure\n════════════════════════\n𐀪\nAuthor:\nuNetworking AB\n════════════════════════\nⴵ\nTime:\nSun, 02 Aug 2026 21:48:41 GMT\n════════════════════════\n⌗\nTags:\n#coldcard\n#hacking\n#self_custody",
+        "date": "2026-08-02T22:03:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128528_0_3a906a74.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128528_1_62299f73.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128528",
+        "link": {
+          "title": "Coldcard wasn’t “hacked” — it was never secure",
+          "url": "https://unetworkingab.medium.com/coldcard-wasnt-hacked-it-was-never-secure-a65d94fc597c?source=rss------hacking-5"
+        }
+      },
+      {
         "id": 128527,
         "text": "⤷\nTitle:\nTask 5 -> Sql Injection\n════════════════════════\n𐀪\nAuthor:\nGunay Safarzadeh\n════════════════════════\nⴵ\nTime:\nSun, 02 Aug 2026 18:03:58 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#cybersecurity",
         "date": "2026-08-02T20:04:31+00:00",
@@ -2169,125 +2284,10 @@
           "title": "Bug Bounty Hacking Recon Automation Bug Bounty Methodology",
           "url": "https://medium.com/@cyber-ninjaaa/bug-bounty-hacking-recon-automation-bug-bounty-methodology-09a741212ae7?source=rss------bug_bounty-5"
         }
-      },
-      {
-        "id": 128432,
-        "text": "⤷\nTitle:\nBeach Bar — HH2026 — THM Walkthrough\n════════════════════════\n𐀪\nAuthor:\nMESSHIN\n════════════════════════\nⴵ\nTime:\nSun, 02 Aug 2026 02:07:55 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme",
-        "date": "2026-08-02T04:04:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128432_0_cbccf049.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128432_1_f14b0899.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128432",
-        "link": {
-          "title": "Beach Bar — HH2026 — THM Walkthrough",
-          "url": "https://medium.com/@sanskarjaiswal43/beach-bar-hh2026-thm-walkthrough-642c90baaa67?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 128431,
-        "text": "⤷\nTitle:\nTryhackme — Overheard at Breakfast — day 6\n════════════════════════\n𐀪\nAuthor:\nNanashi Bx2\n════════════════════════\nⴵ\nTime:\nSun, 02 Aug 2026 02:53:28 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#tryhackme_writeup\n#tryhackme\n#hacker_holidays_2026\n#osint",
-        "date": "2026-08-02T04:04:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128431_0_cbccf049.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128431_1_bb65f300.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128431",
-        "link": {
-          "title": "Tryhackme — Overheard at Breakfast — day 6",
-          "url": "https://medium.com/@nanashibx2/tryhackme-overheard-at-breakfast-day-6-8da998f2e54e?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 128430,
-        "text": "⤷\nTitle:\nHost & Network Penetration Testing: Exploitation CTF 3\n════════════════════════\n𐀪\nAuthor:\nGaonkarpranay\n════════════════════════\nⴵ\nTime:\nSun, 02 Aug 2026 03:43:13 GMT\n════════════════════════\n⌗\nTags:\n#ejpt\n#exploitation\n#metasploit\n#ejpt_exam_guide\n#hacking",
-        "date": "2026-08-02T04:04:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128430_0_cbccf049.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128430_1_7baa2a1c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128430",
-        "link": {
-          "title": "Host & Network Penetration Testing: Exploitation CTF 3",
-          "url": "https://medium.com/@gaonkarpranay1947/host-network-penetration-testing-exploitation-ctf-3-27c08ed5f7b4?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 128429,
-        "text": "⤷\nTitle:\nDocker Group Privilege Escalation: When “Just Add Them to the Group” Means “Just Make Them Root”\n════════════════════════\n𐀪\nAuthor:\nKalash Kundaliya\n════════════════════════\nⴵ\nTime:\nSun, 02 Aug 2026 01:36:01 GMT\n════════════════════════\n⌗\nTags:\n#walkthrough\n#ethical_hacking\n#docker\n#cybersecurity\n#privilege_escalation",
-        "date": "2026-08-02T02:04:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128429_0_cbccf049.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128429_1_6f106919.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128429",
-        "link": {
-          "title": "Docker Group Privilege Escalation: When “Just Add Them to the Group” Means “Just Make Them Root”",
-          "url": "https://medium.com/@kalashkundaliya/docker-group-privilege-escalation-when-just-add-them-to-the-group-means-just-make-them-root-33c2510f2535?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 128428,
-        "text": "⤷\nTitle:\nTryHackMe Hacker’s Holiday 2026: Day 1 — The Concierge Knows Too Much\n════════════════════════\n𐀪\nAuthor:\nJo0e\n════════════════════════\nⴵ\nTime:\nSun, 02 Aug 2026 01:33:54 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#ai_security\n#cybersecurity\n#ctf_writeup\n#prompt_injection",
-        "date": "2026-08-02T02:04:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128428_0_cbccf049.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128428_1_16e3c7dd.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128428",
-        "link": {
-          "title": "TryHackMe Hacker’s Holiday 2026: Day 1 — The Concierge Knows Too Much",
-          "url": "https://medium.com/@jo0e.sec/tryhackme-hackers-holiday-2026-day-1-the-concierge-knows-too-much-c6471592d87d?source=rss------tryhackme-5"
-        }
       }
     ]
   },
-  "last_update": "2026-08-02T21:16:16.626693+00:00",
+  "last_update": "2026-08-02T22:17:33.563987+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2299,7 +2299,7 @@
     },
     "referenced_files": 196,
     "existing_media_files": 196,
-    "total_size_mb": 5.09,
-    "last_calculation": "2026-08-02T21:16:16.628987+00:00"
+    "total_size_mb": 5.2,
+    "last_calculation": "2026-08-02T22:17:33.566348+00:00"
   }
 }
