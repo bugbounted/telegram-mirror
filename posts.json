@@ -2,6 +2,389 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 128477,
+        "text": "⤷\nTitle:\nFinding the Database Type and Version:\n════════════════════════\n𐀪\nAuthor:\nShamaym Asim\n════════════════════════\nⴵ\nTime:\nSun, 02 Aug 2026 10:24:43 GMT\n════════════════════════\n⌗\nTags:\n#sql_injection_lab\n#sql_injection",
+        "date": "2026-08-02T12:04:42+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128477_0_3a906a74.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128477_1_c2015d40.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128477",
+        "link": {
+          "title": "Finding the Database Type and Version:",
+          "url": "https://medium.com/@shamaym.asim/finding-the-database-type-and-version-7d00de0bcf51?source=rss------sql_injection-5"
+        }
+      },
+      {
+        "id": 128476,
+        "text": "⤷\nTitle:\nBeach Bar: The Jukebox Takes Requests — Any Kind\n════════════════════════\n𐀪\nAuthor:\nDragon Shot\n════════════════════════\nⴵ\nTime:\nSun, 02 Aug 2026 09:59:04 GMT\n════════════════════════\n⌗\nTags:\n#web\n#tryhackme_walkthrough\n#tryhackme\n#boot2root\n#hacker_holidays_2026",
+        "date": "2026-08-02T12:04:39+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128476_0_3a906a74.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128476_1_507cc1dd.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128476",
+        "link": {
+          "title": "Beach Bar: The Jukebox Takes Requests — Any Kind",
+          "url": "https://medium.com/@dragon.shotgx/beach-bar-the-jukebox-takes-requests-any-kind-d20cb9c21f8f?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 128475,
+        "text": "⤷\nTitle:\nFile and Hash Threat Intel — TryHackMe WriteUp with Flags\n════════════════════════\n𐀪\nAuthor:\nRayenhafsawy\n════════════════════════\nⴵ\nTime:\nSun, 02 Aug 2026 10:03:59 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#cybersecurity\n#tryhackme_walkthrough\n#ctf\n#ctf_writeup",
+        "date": "2026-08-02T12:04:36+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128475_0_3a906a74.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128475",
+        "link": {
+          "title": "File and Hash Threat Intel — TryHackMe WriteUp with Flags",
+          "url": "https://medium.com/@rayenhafsawy/file-and-hash-threat-intel-tryhackme-writeup-with-flags-6730338cf10d?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 128474,
+        "text": "⤷\nTitle:\nOverheard at Breakfast: Email Hashes Never Forget\n════════════════════════\n𐀪\nAuthor:\nDragon Shot\n════════════════════════\nⴵ\nTime:\nSun, 02 Aug 2026 10:11:50 GMT\n════════════════════════\n⌗\nTags:\n#hacker_holidays_2026\n#tryhackme_walkthrough\n#tryhackme\n#osint",
+        "date": "2026-08-02T12:04:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128474_0_3a906a74.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128474_1_4f7c38ad.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128474",
+        "link": {
+          "title": "Overheard at Breakfast: Email Hashes Never Forget",
+          "url": "https://medium.com/@dragon.shotgx/overheard-at-breakfast-email-hashes-never-forget-6a95391de72b?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 128473,
+        "text": "⤷\nTitle:\nOverheard at Breakfast — [tryhackme] writeup\n════════════════════════\n𐀪\nAuthor:\nmatinali\n════════════════════════\nⴵ\nTime:\nSun, 02 Aug 2026 10:26:54 GMT\n════════════════════════\n⌗\nTags:\n#osint\n#tryhackme\n#ctf\n#ctf_writeup",
+        "date": "2026-08-02T12:04:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128473_0_3a906a74.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128473_1_7d9ead81.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128473",
+        "link": {
+          "title": "Overheard at Breakfast — [tryhackme] writeup",
+          "url": "https://matinali0.medium.com/overheard-at-breakfast-tryhackme-writeup-c0f1de4b2ef2?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 128472,
+        "text": "⤷\nTitle:\nTryHackMe | Hacker Holidays — The Byte Lotus Hotel: Day 6 | Overheard at Breakfast Walkthrough\n════════════════════════\n𐀪\nAuthor:\nBlackCat53\n════════════════════════\nⴵ\nTime:\nSun, 02 Aug 2026 10:27:49 GMT\n════════════════════════\n⌗\nTags:\n#thebytelotusresort\n#tryhackme\n#osint\n#hacker_holidays_2026\n#tryhackme_walkthrough",
+        "date": "2026-08-02T12:04:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128472_0_3a906a74.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128472_1_f3d6e9c3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128472",
+        "link": {
+          "title": "TryHackMe | Hacker Holidays — The Byte Lotus Hotel: Day 6 | Overheard at Breakfast Walkthrough",
+          "url": "https://medium.com/@blackcat53/tryhackme-hacker-holidays-the-byte-lotus-hotel-day-6-overheard-at-breakfast-walkthrough-6fd2ab24dbbb?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 128471,
+        "text": "⤷\nTitle:\nOverheard at Breakfast — TryHackMe Writeup (Hacker Holidays 2026)\n════════════════════════\n𐀪\nAuthor:\nghosteye\n════════════════════════\nⴵ\nTime:\nSun, 02 Aug 2026 10:57:58 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ctf\n#tryhackme\n#ethical_hacking\n#osint",
+        "date": "2026-08-02T12:04:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128471_0_3a906a74.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128471_1_bd944f54.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128471",
+        "link": {
+          "title": "Overheard at Breakfast — TryHackMe Writeup (Hacker Holidays 2026)",
+          "url": "https://medium.com/@proxyy/overheard-at-breakfast-tryhackme-writeup-hacker-holidays-2026-c4e2d626e68c?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 128470,
+        "text": "⤷\nTitle:\nBeach Bar — TryHackMe WalkThrough (Hacker Holidays)\n════════════════════════\n𐀪\nAuthor:\nSunjid Ahmed Siyem\n════════════════════════\nⴵ\nTime:\nSun, 02 Aug 2026 11:28:15 GMT\n════════════════════════\n⌗\nTags:\n#hacker_holidays\n#beach_bars\n#tryhackme_hacker_holidays\n#tryhackme",
+        "date": "2026-08-02T12:04:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128470_0_3a906a74.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128470_1_5bb9c211.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128470",
+        "link": {
+          "title": "Beach Bar — TryHackMe WalkThrough (Hacker Holidays)",
+          "url": "https://medium.com/@sunjid-ahmed/beach-bar-tryhackme-walkthrough-hacker-holidays-6fcf3b2372e5?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 128469,
+        "text": "⤷\nTitle:\nTryHackMe Beach Bar Walkthrough (Simple Step-by-Step Guide)\n════════════════════════\n𐀪\nAuthor:\nMohammed Ahraskhan kp\n════════════════════════\nⴵ\nTime:\nSun, 02 Aug 2026 11:48:57 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#kali_linux\n#beach_bars\n#cybersecurity\n#tryhackme",
+        "date": "2026-08-02T12:04:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128469_0_3a906a74.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128469_1_6c32f7e4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128469",
+        "link": {
+          "title": "TryHackMe Beach Bar Walkthrough (Simple Step-by-Step Guide)",
+          "url": "https://medium.com/@ahraskhankp/tryhackme-beach-bar-walkthrough-simple-step-by-step-guide-0d32855917b4?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 128468,
+        "text": "⤷\nTitle:\nReverse Shell vs Bind Shell: Concepts, Network Flow, and Real-Life Analogies\n════════════════════════\n𐀪\nAuthor:\nAzijul Haque\n════════════════════════\nⴵ\nTime:\nSun, 02 Aug 2026 10:35:15 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#penetration_testing\n#ethical_hacking\n#networking\n#linux",
+        "date": "2026-08-02T12:04:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128468_0_3a906a74.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128468_1_380a8769.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128468",
+        "link": {
+          "title": "Reverse Shell vs Bind Shell: Concepts, Network Flow, and Real-Life Analogies",
+          "url": "https://medium.com/@azijulhaquecse/reverse-shell-vs-bind-shell-concepts-network-flow-and-real-life-analogies-d94cf43f2121?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 128467,
+        "text": "⤷\nTitle:\nPwning FACTS on HackTheBox — By BitR1FT\n════════════════════════\n𐀪\nAuthor:\nBitR1ft\n════════════════════════\nⴵ\nTime:\nSun, 02 Aug 2026 11:38:34 GMT\n════════════════════════\n⌗\nTags:\n#ctf_writeup\n#infosec\n#penetration_testing\n#bitrift\n#hackthebox",
+        "date": "2026-08-02T12:04:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128467_0_3a906a74.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128467_1_f91dea3b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128467",
+        "link": {
+          "title": "Pwning FACTS on HackTheBox — By BitR1FT",
+          "url": "https://medium.com/@bitr1ft/pwning-facts-on-hackthebox-by-bitr1ft-4a968939dcdf?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 128466,
+        "text": "⤷\nTitle:\nCompromising Interpreter on HackTheBox — By BitR1FT\n════════════════════════\n𐀪\nAuthor:\nBitR1ft\n════════════════════════\nⴵ\nTime:\nSun, 02 Aug 2026 11:44:36 GMT\n════════════════════════\n⌗\nTags:\n#bitr1ft\n#infosec\n#hackthebox\n#ctf_writeup\n#cybersecurity",
+        "date": "2026-08-02T12:04:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128466_0_3a906a74.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128466_1_ab549a04.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128466",
+        "link": {
+          "title": "Compromising Interpreter on HackTheBox — By BitR1FT",
+          "url": "https://medium.com/@bitr1ft/compromising-interpreter-on-hackthebox-by-bitr1ft-e06d569120f7?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 128465,
+        "text": "⤷\nTitle:\nMaking time for the inconsequential\n════════════════════════\n𐀪\nAuthor:\nJRIngram\n════════════════════════\nⴵ\nTime:\nSun, 02 Aug 2026 11:03:00 GMT\n════════════════════════\n⌗\nTags:\n#mindfulness\n#scripting\n#reading\n#burnout\n#hacking",
+        "date": "2026-08-02T12:04:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128465_0_3a906a74.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128465_1_d940af19.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128465",
+        "link": {
+          "title": "Making time for the inconsequential",
+          "url": "https://medium.com/@J.R.Ingram/making-time-for-the-inconsequential-4f37e842d7d6?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 128464,
+        "text": "⤷\nTitle:\nnpm update and Pray: When the Security Fix Becomes the Security Incident\n☠️\n════════════════════════\n𐀪\nAuthor:\nSudarshan Patel\n════════════════════════\nⴵ\nTime:\nSun, 02 Aug 2026 11:20:30 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#application_security\n#cyber_security_awareness\n#security\n#hacking",
+        "date": "2026-08-02T12:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128464_0_3a906a74.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128464",
+        "link": {
+          "title": "npm update and Pray: When the Security Fix Becomes the Security Incident☠️",
+          "url": "https://medium.com/@sudarshan.defcon/npm-update-and-pray-when-the-security-fix-becomes-the-security-incident-%EF%B8%8F-bac0ba95edcf?source=rss------application_security-5"
+        }
+      },
+      {
+        "id": 128463,
+        "text": "⤷\nTitle:\nWriting Custom Exploits: From Vulnerability Discovery to Working PoC\n════════════════════════\n𐀪\nAuthor:\nATNO For Cybersecurity | Hacking\n════════════════════════\nⴵ\nTime:\nSun, 02 Aug 2026 11:25:48 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#bug_bounty\n#custom_exploit\n#exploit\n#ethical_hacking",
+        "date": "2026-08-02T12:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128463_0_3a906a74.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128463_1_a51dbed6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128463",
+        "link": {
+          "title": "Writing Custom Exploits: From Vulnerability Discovery to Working PoC",
+          "url": "https://medium.com/@atnoforcybersecurity/writing-custom-exploits-from-vulnerability-discovery-to-working-poc-f1e760231990?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 128462,
+        "text": "⤷\nTitle:\nThe API That Returned Every Customer’s Private AI Assistant\n════════════════════════\n𐀪\nAuthor:\nEhtesham Ul Haq\n════════════════════════\nⴵ\nTime:\nSun, 02 Aug 2026 11:26:02 GMT\n════════════════════════\n⌗\nTags:\n#broken_access_control\n#bug_bounty_writeup\n#owasp_top_10\n#api\n#bug_bounty",
+        "date": "2026-08-02T12:03:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128462_0_3a906a74.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128462_1_903c9d5f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128462",
+        "link": {
+          "title": "The API That Returned Every Customer’s Private AI Assistant",
+          "url": "https://infosecwriteups.com/the-api-that-returned-every-customers-private-ai-assistant-6bf8fafad17e?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 128461,
+        "text": "⤷\nTitle:\nHacking Misconfigured S3 Buckets\n════════════════════════\n𐀪\nAuthor:\nNitin yadav\n════════════════════════\nⴵ\nTime:\nSun, 02 Aug 2026 11:31:01 GMT\n════════════════════════\n⌗\nTags:\n#aws_s3\n#ethcial_hacking\n#cybersecurity\n#bug_bounty\n#aws",
+        "date": "2026-08-02T12:03:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128461_0_3a906a74.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128461_1_bedc68ad.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128461",
+        "link": {
+          "title": "Hacking Misconfigured S3 Buckets",
+          "url": "https://kd-200.medium.com/hacking-misconfigured-s3-buckets-07ca5e1bb2a4?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 128460,
         "text": "⤷\nTitle:\nTryHackMe | Beach Bar | Walkthrough\n════════════════════════\n𐀪\nAuthor:\nSornphut\n════════════════════════\nⴵ\nTime:\nSun, 02 Aug 2026 08:37:02 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#tryhackme_walkthrough\n#yaml\n#tryhackme_writeup\n#python",
         "date": "2026-08-02T10:04:25+00:00",
@@ -1893,409 +2276,22 @@
           "title": "Beach Bar TryHackMe Walkthrough | Hacker Holidays 2026 Day 5 Complete Write-Up",
           "url": "https://medium.com/@antor.csecu/beach-bar-tryhackme-walkthrough-hacker-holidays-2026-day-5-complete-write-up-66ea8d5d951a?source=rss------hacking-5"
         }
-      },
-      {
-        "id": 128377,
-        "text": "⤷\nTitle:\nHow I Would Start Bug Bounties From Zero in 2026\n════════════════════════\n𐀪\nAuthor:\nAeon Flex, Elriel Assoc. 2133 [NEON MAXIMA]\n════════════════════════\nⴵ\nTime:\nSat, 01 Aug 2026 16:30:00 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#hacking_tools\n#cybersecurity\n#hacking\n#bug_bounty_tips",
-        "date": "2026-08-01T18:03:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128377_0_cbccf049.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128377_1_258a8f8c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128377",
-        "link": {
-          "title": "How I Would Start Bug Bounties From Zero in 2026",
-          "url": "https://medium.com/@neonmaxima/how-i-would-start-bug-bounties-from-zero-in-2026-c751a6b0a0fc?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 128376,
-        "text": "⤷\nTitle:\nPSA To New Bug Bounty Hunters: Please stop raging about duplicates!!\n════════════════════════\n𐀪\nAuthor:\nPablo Vergara\n════════════════════════\nⴵ\nTime:\nSat, 01 Aug 2026 17:36:48 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#bug_bounty_tips\n#bug_bounty\n#ethical_hacking\n#security",
-        "date": "2026-08-01T18:03:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128376_0_cbccf049.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128376_1_62aa3cad.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128376",
-        "link": {
-          "title": "PSA To New Bug Bounty Hunters: Please stop raging about duplicates!!",
-          "url": "https://medium.com/@severeQA/psa-to-new-bug-bounty-hunters-please-stop-raging-about-duplicates-aeaaaf6d15d0?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 128375,
-        "text": "⤷\nTitle:\nColdcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nSat, 01 Aug 2026 22:47:22 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-08-01T18:03:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128375_0_cbccf049.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128375",
-        "link": {
-          "title": "Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes",
-          "url": "https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html"
-        }
-      },
-      {
-        "id": 128374,
-        "text": "⤷\nTitle:\nServer-Side Request Forgery (SSRF)\n════════════════════════\n𐀪\nAuthor:\nYusufbarut\n════════════════════════\nⴵ\nTime:\nSat, 01 Aug 2026 15:04:25 GMT\n════════════════════════\n⌗\nTags:\n#owasp\n#ssrf\n#cybersecurity\n#appsec\n#web_security",
-        "date": "2026-08-01T16:04:45+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128374_0_cbccf049.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128374_1_571b1f2d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128374",
-        "link": {
-          "title": "Server-Side Request Forgery (SSRF)",
-          "url": "https://medium.com/@yusufbarut210/server-side-request-forgery-ssrf-0489d1d8760a?source=rss------ssrf-5"
-        }
-      },
-      {
-        "id": 128373,
-        "text": "⤷\nTitle:\nHow To Map a sample attack using MITRE ATT&CK framework.\n════════════════════════\n𐀪\nAuthor:\nMainEkHacker\n════════════════════════\nⴵ\nTime:\nSat, 01 Aug 2026 14:31:01 GMT\n════════════════════════\n⌗\nTags:\n#mitre_attack\n#cyberattack\n#ethical_hacking\n#soc\n#cybersecurity",
-        "date": "2026-08-01T16:04:42+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128373_0_cbccf049.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128373_1_2ccf2fd1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128373",
-        "link": {
-          "title": "How To Map a sample attack using MITRE ATT&CK framework.",
-          "url": "https://mainekhacker.medium.com/how-to-map-a-sample-attack-using-mitre-att-ck-framework-6ec14d757e4a?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 128372,
-        "text": "⤷\nTitle:\nPacked Light | Hacker Holidays 2026 Day 4 | TryHackMe Walkthrough\n════════════════════════\n𐀪\nAuthor:\nPiyush Manghnani\n════════════════════════\nⴵ\nTime:\nSat, 01 Aug 2026 13:57:51 GMT\n════════════════════════\n⌗\nTags:\n#thebytelotusresort\n#tryhackme\n#tryhackme_walkthrough\n#hacker_holidays_2026\n#ctf_walkthrough",
-        "date": "2026-08-01T16:04:38+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128372_0_cbccf049.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128372_1_057ce693.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128372",
-        "link": {
-          "title": "Packed Light | Hacker Holidays 2026 Day 4 | TryHackMe Walkthrough",
-          "url": "https://medium.com/@piyushmanghnani29/packed-light-hacker-holidays-2026-day-4-tryhackme-walkthrough-1d3874817e0c?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 128371,
-        "text": "⤷\nTitle:\nTryHackMe: White Rabbit Walkthrough\n════════════════════════\n𐀪\nAuthor:\nTde\n════════════════════════\nⴵ\nTime:\nSat, 01 Aug 2026 14:21:53 GMT\n════════════════════════\n⌗\nTags:\n#ai_security\n#prompt_injection\n#cybersecurity\n#tryhackme",
-        "date": "2026-08-01T16:04:35+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128371_0_cbccf049.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128371_1_a347dbc4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128371",
-        "link": {
-          "title": "TryHackMe: White Rabbit Walkthrough",
-          "url": "https://medium.com/@tde961/tryhackme-white-rabbit-walkthrough-c95d5d57417b?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 128370,
-        "text": "⤷\nTitle:\nTcpdump: The Basics — Packet Capture, Filtering Expressions, and Hex Diagnostics\n════════════════════════\n𐀪\nAuthor:\nJonathan Sanfer\n════════════════════════\nⴵ\nTime:\nSat, 01 Aug 2026 15:33:26 GMT\n════════════════════════\n⌗\nTags:\n#tcpdump\n#cybersecurity\n#network_security\n#tryhackme\n#packet_analysis",
-        "date": "2026-08-01T16:04:31+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128370_0_cbccf049.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128370_1_57c8f9c6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128370",
-        "link": {
-          "title": "Tcpdump: The Basics — Packet Capture, Filtering Expressions, and Hex Diagnostics",
-          "url": "https://medium.com/@jonathan.sanfer/tcpdump-the-basics-packet-capture-filtering-expressions-and-hex-diagnostics-76ad02efdd5e?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 128369,
-        "text": "⤷\nTitle:\nBack to Basics: How Room 4 of Hacker Holidays Made Me Relearn Wireshark\n════════════════════════\n𐀪\nAuthor:\nDivya\n════════════════════════\nⴵ\nTime:\nSat, 01 Aug 2026 15:49:53 GMT\n════════════════════════\n⌗\nTags:\n#ctf\n#tryhackme_hacker_holidays\n#tryhackme\n#cybersecurity\n#digital_forensics",
-        "date": "2026-08-01T16:04:28+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128369_0_cbccf049.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128369_1_fe51a491.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128369",
-        "link": {
-          "title": "Back to Basics: How Room 4 of Hacker Holidays Made Me Relearn Wireshark",
-          "url": "https://medium.com/@divyaggupta25/back-to-basics-how-room-4-of-hacker-holidays-made-me-relearn-wireshark-3669a6faa7fa?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 128368,
-        "text": "⤷\nTitle:\nDawn Writeup/walkthrough proving ground | oscp lab/prep\n════════════════════════\n𐀪\nAuthor:\nNaruto writeup's\n════════════════════════\nⴵ\nTime:\nSat, 01 Aug 2026 14:01:04 GMT\n════════════════════════\n⌗\nTags:\n#oscp\n#ctf\n#penetration_testing\n#linux\n#cybersecurity",
-        "date": "2026-08-01T16:04:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128368_0_cbccf049.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128368_1_efe0618c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128368",
-        "link": {
-          "title": "Dawn Writeup/walkthrough proving ground | oscp lab/prep",
-          "url": "https://medium.com/@ethicsnaruto2000/dawn-writeup-walkthrough-proving-ground-oscp-lab-prep-68a957f49b6f?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 128367,
-        "text": "⤷\nTitle:\nDC-2:Vuln Hub Walkthrough\n════════════════════════\n𐀪\nAuthor:\nMeenu\n════════════════════════\nⴵ\nTime:\nSat, 01 Aug 2026 14:01:17 GMT\n════════════════════════\n⌗\nTags:\n#vulnhub_walkthrough\n#cybersecurity\n#ethical_hacking\n#penetration_testing\n#ctf",
-        "date": "2026-08-01T16:04:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128367_0_cbccf049.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128367_1_3f83aafb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128367",
-        "link": {
-          "title": "DC-2:Vuln Hub Walkthrough",
-          "url": "https://medium.com/@meenu142006/vuln-hub-dc-2-walkthrough-cb4149b1c581?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 128366,
-        "text": "⤷\nTitle:\nPortSwigger Lab: Blind SQL Injection with Conditional Responses\n════════════════════════\n𐀪\nAuthor:\nYabsira\n════════════════════════\nⴵ\nTime:\nSat, 01 Aug 2026 14:40:27 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#cybersecurity\n#burpsuite\n#sql_injection",
-        "date": "2026-08-01T16:04:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128366_0_cbccf049.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128366_1_25941ad3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128366",
-        "link": {
-          "title": "PortSwigger Lab: Blind SQL Injection with Conditional Responses",
-          "url": "https://medium.com/@yabsr23/portswigger-lab-blind-sql-injection-with-conditional-responses-5d37b5f042f9?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 128365,
-        "text": "⤷\nTitle:\nBypassing Defenses: A Complete Walkthrough of the Sentinel v3.0 Web Security Challenge\n════════════════════════\n𐀪\nAuthor:\nm4ry.log\n════════════════════════\nⴵ\nTime:\nSat, 01 Aug 2026 15:39:15 GMT\n════════════════════════\n⌗\nTags:\n#ctf_walkthrough\n#ctf_writeup\n#penetration_testing\n#cybersecurity\n#web_security",
-        "date": "2026-08-01T16:04:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128365_0_cbccf049.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128365_1_b59c2f89.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128365",
-        "link": {
-          "title": "Bypassing Defenses: A Complete Walkthrough of the Sentinel v3.0 Web Security Challenge",
-          "url": "https://medium.com/@marysalahli0819/bypassing-defenses-a-complete-walkthrough-of-the-sentinel-v3-0-web-security-challenge-f94d1fc62d81?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 128364,
-        "text": "⤷\nTitle:\nHow Hackers Actually Steal Passwords\n════════════════════════\n𐀪\nAuthor:\nZakria Khan\n════════════════════════\nⴵ\nTime:\nSat, 01 Aug 2026 15:01:03 GMT\n════════════════════════\n⌗\nTags:\n#personal_development\n#programming\n#passwords\n#cybersecurity\n#hacking",
-        "date": "2026-08-01T16:04:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128364_0_cbccf049.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128364_1_0a07d1b9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128364",
-        "link": {
-          "title": "How Hackers Actually Steal Passwords",
-          "url": "https://medium.com/@zakaria.devhouse1/how-hackers-actually-steal-passwords-516a97bb5d43?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 128363,
-        "text": "⤷\nTitle:\nThe AI Escaped Through the Office Wi-Fi\n════════════════════════\n𐀪\nAuthor:\nPink Slip Protocol\n════════════════════════\nⴵ\nTime:\nSat, 01 Aug 2026 15:03:27 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#satire\n#cybersecurity\n#ai\n#trending",
-        "date": "2026-08-01T16:04:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128363_0_cbccf049.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128363_1_fad9c111.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128363",
-        "link": {
-          "title": "The AI Escaped Through the Office Wi-Fi",
-          "url": "https://medium.com/@info_68079/the-ai-escaped-through-the-office-wi-fi-476514b61770?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 128362,
-        "text": "⤷\nTitle:\nFile Upload Vulnerabilities: From HTML Injection to Remote Code Execution\n════════════════════════\n𐀪\nAuthor:\nViodex\n════════════════════════\nⴵ\nTime:\nSat, 01 Aug 2026 15:16:55 GMT\n════════════════════════\n⌗\nTags:\n#file_upload_vulnerability\n#hacking\n#penetration_testing\n#deep_dives\n#cybersecurity",
-        "date": "2026-08-01T16:04:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128362_0_cbccf049.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128362_1_39ce3b2d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128362",
-        "link": {
-          "title": "File Upload Vulnerabilities: From HTML Injection to Remote Code Execution",
-          "url": "https://medium.com/@viodex02/real-world-file-upload-vulnerabilities-from-file-upload-to-rce-9d6452e61a84?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 128361,
-        "text": "⤷\nTitle:\nHacker Holidays Day 5: Beach Bar — CTF Walkthrough\n════════════════════════\n𐀪\nAuthor:\nAli Burhan\n════════════════════════\nⴵ\nTime:\nSat, 01 Aug 2026 15:51:35 GMT\n════════════════════════\n⌗\nTags:\n#hackerholiday2026\n#tryhackme\n#web_vulnerabilities\n#hacking\n#web_security",
-        "date": "2026-08-01T16:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128361_0_cbccf049.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128361_1_95b676ed.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128361",
-        "link": {
-          "title": "Hacker Holidays Day 5: Beach Bar — CTF Walkthrough",
-          "url": "https://medium.com/@ali-burhan/hacker-holidays-day-5-beach-bar-ctf-walkthrough-98da14ec5449?source=rss------hacking-5"
-        }
       }
     ]
   },
-  "last_update": "2026-08-02T11:57:43.706632+00:00",
+  "last_update": "2026-08-02T12:54:57.564650+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 195,
-    "total_files": 195,
+    "total_media": 194,
+    "total_files": 194,
     "total_links": 0,
     "files_by_type": {
-      "image": 195
+      "image": 194
     },
-    "referenced_files": 195,
-    "existing_media_files": 195,
-    "total_size_mb": 5.23,
-    "last_calculation": "2026-08-02T11:57:43.708905+00:00"
+    "referenced_files": 194,
+    "existing_media_files": 194,
+    "total_size_mb": 4.97,
+    "last_calculation": "2026-08-02T12:54:57.566965+00:00"
   }
 }
