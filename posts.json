@@ -2,6 +2,462 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 128780,
+        "text": "⤷\nTitle:\n7 JWT Authentication Mistakes I Keep Seeing in Production\n════════════════════════\n𐀪\nAuthor:\nCodeX Lancers\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 08:31:01 GMT\n════════════════════════\n⌗\nTags:\n#software_development\n#cybersecurity\n#api_security\n#jwt\n#authentication",
+        "date": "2026-08-04T10:04:33+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128780_0_6667c096.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128780_1_09d9dcb1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128780",
+        "link": {
+          "title": "7 JWT Authentication Mistakes I Keep Seeing in Production",
+          "url": "https://medium.com/@CodeX_Lancers/7-jwt-authentication-mistakes-i-keep-seeing-in-production-2cc5e3aaad6d?source=rss------api_security-5"
+        }
+      },
+      {
+        "id": 128779,
+        "text": "⤷\nTitle:\nSkills Assessment — Password Attacks HackTheBox\n════════════════════════\n𐀪\nAuthor:\nCajebo\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 08:28:15 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#hackthebox_writeup\n#password_security\n#pentesting",
+        "date": "2026-08-04T10:04:30+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128779_0_6667c096.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128779_1_6ba55ec9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128779",
+        "link": {
+          "title": "Skills Assessment — Password Attacks HackTheBox",
+          "url": "https://medium.com/@publique.blaise/skills-assessment-password-attacks-hackthebox-d735b100ca7a?source=rss------hackthebox_writeup-5"
+        }
+      },
+      {
+        "id": 128778,
+        "text": "⤷\nTitle:\nBreakout The Cage — TryHackMe WriteUp with Flags\n════════════════════════\n𐀪\nAuthor:\nRayenhafsawy\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 08:56:30 GMT\n════════════════════════\n⌗\nTags:\n#ctf\n#tryhackme_walkthrough\n#tryhackme_writeup\n#cybersecurity\n#tryhackme",
+        "date": "2026-08-04T10:04:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128778_0_6667c096.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128778",
+        "link": {
+          "title": "Breakout The Cage — TryHackMe WriteUp with Flags",
+          "url": "https://medium.com/@rayenhafsawy/breakout-the-cage-tryhackme-writeup-with-flags-c6b0bd88dd20?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 128777,
+        "text": "⤷\nTitle:\nNmap Post Port Scans | JR PT Room\n════════════════════════\n𐀪\nAuthor:\nAnas Rah\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 09:27:10 GMT\n════════════════════════\n⌗\nTags:\n#active_reconnaissance\n#tryhackme\n#nmap\n#tryhackme_walkthrough\n#cybersecurity",
+        "date": "2026-08-04T10:04:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128777_0_6667c096.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128777_1_51b8b505.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128777",
+        "link": {
+          "title": "Nmap Post Port Scans | JR PT Room",
+          "url": "https://medium.com/@muhammad.anas.rah/nmap-post-port-scans-jr-pt-room-2f6bb94cd640?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 128776,
+        "text": "⤷\nTitle:\nTryHackMe | Overheard at Breakfast | Walkthrough\n════════════════════════\n𐀪\nAuthor:\nSornphut\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 09:46:00 GMT\n════════════════════════\n⌗\nTags:\n#osint\n#osint_investigation\n#tryhackme_walkthrough\n#tryhackme\n#tryhackme_writeup",
+        "date": "2026-08-04T10:04:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128776_0_6667c096.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128776_1_3b7c8113.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128776",
+        "link": {
+          "title": "TryHackMe | Overheard at Breakfast | Walkthrough",
+          "url": "https://medium.com/@sornphut/tryhackme-overheard-at-breakfast-walkthrough-7f9505fadcef?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 128775,
+        "text": "⤷\nTitle:\nHacker Holidays 2026: Day 7 Walkthrough (Do Not Disturb)\n════════════════════════\n𐀪\nAuthor:\nDhanush N\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 08:37:47 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#penetration_testing\n#tryhackme\n#hacker_holidays_2026\n#tryhackme_walkthrough",
+        "date": "2026-08-04T10:04:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128775_0_6667c096.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128775_1_e0e37e15.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128775",
+        "link": {
+          "title": "Hacker Holidays 2026: Day 7 Walkthrough (Do Not Disturb)",
+          "url": "https://dhanushnehru.medium.com/hacker-holidays-2026-day-7-walkthrough-do-not-disturb-062dfc269d69?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 128774,
+        "text": "⤷\nTitle:\nHTB Active — Walkthrough by InferiorAK\n════════════════════════\n𐀪\nAuthor:\nInferiorAK\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 08:42:07 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#active_directory\n#hackthebox\n#ad_pentest\n#cybersecurity",
+        "date": "2026-08-04T10:04:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128774_0_6667c096.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128774_1_6e166ef2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128774",
+        "link": {
+          "title": "HTB Active — Walkthrough by InferiorAK",
+          "url": "https://osintteam.blog/htb-active-ad-pentest-walkthrough-by-inferiorak-b9d5401ca936?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 128773,
+        "text": "⤷\nTitle:\nHTB Forest — Walkthrough by InferiorAK\n════════════════════════\n𐀪\nAuthor:\nInferiorAK\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 09:10:48 GMT\n════════════════════════\n⌗\nTags:\n#ad_pentest\n#active_directory\n#hackthebox\n#penetration_testing\n#cybersecurity",
+        "date": "2026-08-04T10:04:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128773_0_6667c096.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128773_1_ba000066.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128773",
+        "link": {
+          "title": "HTB Forest — Walkthrough by InferiorAK",
+          "url": "https://osintteam.blog/htb-forest-walkthrough-by-inferiorak-e943f1614856?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 128772,
+        "text": "⤷\nTitle:\nI Found a Client’s Admin Panel on Shodan in 30 Seconds — Here’s What Every Engineer Needs to Know\n════════════════════════\n𐀪\nAuthor:\nMohan Sai Krishna G M\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 09:21:16 GMT\n════════════════════════\n⌗\nTags:\n#reconnaissance\n#cybersecurity\n#penetration_testing\n#technology",
+        "date": "2026-08-04T10:04:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128772_0_6667c096.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128772_1_ad363703.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128772",
+        "link": {
+          "title": "I Found a Client’s Admin Panel on Shodan in 30 Seconds — Here’s What Every Engineer Needs to Know",
+          "url": "https://meetcyber.net/i-found-a-clients-admin-panel-on-shodan-in-30-seconds-here-s-what-every-engineer-needs-to-know-170c303b636d?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 128771,
+        "text": "⤷\nTitle:\nHow I Built an App to Beat Blinkit To Limited Edition HotWheels\n════════════════════════\n𐀪\nAuthor:\nMishraprashant\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 09:31:42 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#artificial_intelligence\n#cybersecurity\n#programming\n#reverse_engineering",
+        "date": "2026-08-04T10:04:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128771_0_6667c096.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128771_1_e5a4b33e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128771",
+        "link": {
+          "title": "How I Built an App to Beat Blinkit To Limited Edition HotWheels",
+          "url": "https://ichbinprashant.medium.com/how-i-built-an-app-to-beat-blinkit-to-limited-edition-hotwheels-beae7f1033ae?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 128770,
+        "text": "⤷\nTitle:\nThe 0.5 Second Delay That Almost Broke the Internet\n════════════════════════\n𐀪\nAuthor:\nMuhammad Shehroz\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 09:34:14 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#cybersecurity",
+        "date": "2026-08-04T10:04:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128770_0_6667c096.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128770_1_da0d775e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128770",
+        "link": {
+          "title": "The 0.5 Second Delay That Almost Broke the Internet",
+          "url": "https://imuhammadshehroz.medium.com/the-0-5-second-delay-that-almost-broke-the-internet-39a5d9db7880?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 128769,
+        "text": "⤷\nTitle:\nSecurity Thinking from Day One — Why AI-generated applications increase risk surfaces\n════════════════════════\n𐀪\nAuthor:\nMark W.\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 08:58:25 GMT\n════════════════════════\n⌗\nTags:\n#secure_coding\n#backend_development\n#cybersecurity\n#artificial_intelligence\n#application_security",
+        "date": "2026-08-04T10:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128769_0_6667c096.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128769_1_bd00be2d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128769",
+        "link": {
+          "title": "Security Thinking from Day One — Why AI-generated applications increase risk surfaces",
+          "url": "https://medium.com/@mark.w.1987/security-thinking-from-day-one-why-ai-generated-applications-increase-risk-surfaces-cdfbd5b45493?source=rss------application_security-5"
+        }
+      },
+      {
+        "id": 128768,
+        "text": "⤷\nTitle:\nTryHackMe — Towel on the Sunbed —Hacker Holidays Day 8\n════════════════════════\n𐀪\nAuthor:\nUfuk Yaman\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 09:48:48 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#application_security\n#burpsuite\n#hacker\n#security",
+        "date": "2026-08-04T10:03:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128768_0_6667c096.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128768_1_11a2b5c5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128768",
+        "link": {
+          "title": "TryHackMe — Towel on the Sunbed —Hacker Holidays Day 8",
+          "url": "https://medium.com/@ufukyaman2004/tryhackme-towel-on-the-sunbed-hacker-holidays-day-8-7b85fc3d20d7?source=rss------application_security-5"
+        }
+      },
+      {
+        "id": 128767,
+        "text": "⤷\nTitle:\nCanonically Yours — Intigriti July 2026 Challenge (0726)\n════════════════════════\n𐀪\nAuthor:\nMir Shan Talpur\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 08:14:11 GMT\n════════════════════════\n⌗\nTags:\n#web_security\n#bug_bounty\n#ctf_writeup\n#infosec\n#cybersecurity",
+        "date": "2026-08-04T10:03:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128767_0_6667c096.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128767_1_87760d56.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128767",
+        "link": {
+          "title": "Canonically Yours — Intigriti July 2026 Challenge (0726)",
+          "url": "https://medium.com/@shaniidev/canonically-yours-intigriti-july-2026-challenge-0726-52efa6ccb98b?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 128766,
+        "text": "⤷\nTitle:\nTowel on the Sunbed — TryHackMe Hacker Holidays Day 8 Walkthrough\n════════════════════════\n𐀪\nAuthor:\nAbishek kumar\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 06:25:05 GMT\n════════════════════════\n⌗\nTags:\n#day_8_hacker_holidays\n#towel_on_the_sunbed\n#tryhackme\n#tryhackme_walkthrough\n#hacker_holidays_2026",
+        "date": "2026-08-04T08:05:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128766_0_6667c096.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128766_1_2300e0c5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128766",
+        "link": {
+          "title": "Towel on the Sunbed — TryHackMe Hacker Holidays Day 8 Walkthrough",
+          "url": "https://medium.com/@abishektechy/towel-on-the-sunbed-tryhackme-hacker-holidays-day-8-walkthrough-59492fc87518?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 128765,
+        "text": "⤷\nTitle:\nThe Concierge Knows Too Much CTF Walkthrough (TryHackMe)\n════════════════════════\n𐀪\nAuthor:\nVanessa3\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 06:31:41 GMT\n════════════════════════\n⌗\nTags:\n#aisec\n#ctf\n#ethical_hacking\n#tryhackme\n#prompt_injection_attack",
+        "date": "2026-08-04T08:05:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128765_0_6667c096.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128765_1_dfb2feed.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128765",
+        "link": {
+          "title": "The Concierge Knows Too Much CTF Walkthrough (TryHackMe)",
+          "url": "https://medium.com/@Vanessa056/the-concierge-knows-too-much-ctf-walkthrough-tryhackme-2e7fe79b9c5b?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 128764,
+        "text": "⤷\nTitle:\nComplimentary\n════════════════════════\n𐀪\nAuthor:\nHarshikachauhan\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 06:41:23 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme",
+        "date": "2026-08-04T08:05:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128764_0_6667c096.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128764_1_f60c4b1e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128764",
+        "link": {
+          "title": "Complimentary",
+          "url": "https://medium.com/@harshikachauhan78/complimentary-a1bd914e289c?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 128763,
+        "text": "⤷\nTitle:\nPacked Light\n════════════════════════\n𐀪\nAuthor:\nHarshikachauhan\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 06:44:02 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme",
+        "date": "2026-08-04T08:05:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128763_0_6667c096.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128763_1_b22d1158.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128763",
+        "link": {
+          "title": "Packed Light",
+          "url": "https://medium.com/@harshikachauhan78/packed-light-cb16dda478e2?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 128762,
+        "text": "⤷\nTitle:\nOverheard at Breakfast | TryHackMe\n════════════════════════\n𐀪\nAuthor:\nRyca\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 07:11:12 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#tryhackme\n#hashing\n#osint\n#social_media",
+        "date": "2026-08-04T08:05:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128762_0_6667c096.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128762_1_678c4a24.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128762",
+        "link": {
+          "title": "Overheard at Breakfast | TryHackMe",
+          "url": "https://medium.com/@elaris/overheard-at-breakfast-tryhackme-bf17829a9c5a?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 128761,
+        "text": "⤷\nTitle:\nBeach Bar | TryHackMe\n════════════════════════\n𐀪\nAuthor:\nRyca\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 07:11:16 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#cybersecurity\n#web\n#boot2root",
+        "date": "2026-08-04T08:05:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128761_0_6667c096.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128761_1_7ca233f1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128761",
+        "link": {
+          "title": "Beach Bar | TryHackMe",
+          "url": "https://medium.com/@elaris/beach-bar-tryhackme-3a7ce8b7fead?source=rss------tryhackme-5"
+        }
+      },
+      {
         "id": 128742,
         "text": "⤷\nTitle:\nIntigriti July 2026 CTF Write-Up: Exploiting JSON Parser Differential (Duplicate-Key Confusion) to…\n════════════════════════\n𐀪\nAuthor:\nZabed Ullah Poyel\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 04:23:17 GMT\n════════════════════════\n⌗\nTags:\n#ctf_walkthrough\n#bug_bounty_writeup\n#web_security\n#intigriti\n#ctf_writeup",
         "date": "2026-08-04T06:04:30+00:00",
@@ -1828,474 +2284,22 @@
           "title": "INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws",
           "url": "https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html"
         }
-      },
-      {
-        "id": 128662,
-        "text": "⤷\nTitle:\nGoogle Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nMon, 03 Aug 2026 21:54:47 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-08-03T18:03:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128662_0_3f16f4a9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128662",
-        "link": {
-          "title": "Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts",
-          "url": "https://thehackernews.com/2026/08/google-password-manager-attacks-could.html"
-        }
-      },
-      {
-        "id": 128661,
-        "text": "⤷\nTitle:\nDo Not Disturb: A Walkthrough of TryHackMe Hacker Holidays 2026 — Day 7\n════════════════════════\n𐀪\nAuthor:\nHoney Pot\n════════════════════════\nⴵ\nTime:\nMon, 03 Aug 2026 15:28:33 GMT\n════════════════════════\n⌗\nTags:\n#web_security\n#tryhackme_walkthrough\n#cybersecurity\n#ethical_hacking",
-        "date": "2026-08-03T16:04:44+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128661_0_3f16f4a9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128661_1_944919ba.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128661",
-        "link": {
-          "title": "Do Not Disturb: A Walkthrough of TryHackMe Hacker Holidays 2026 — Day 7",
-          "url": "https://medium.com/@ahmadmughalm128/do-not-disturb-a-walkthrough-of-tryhackme-hacker-holidays-2026-day-7-6efd185053a1?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 128660,
-        "text": "⤷\nTitle:\nSplunk: Dashboards and Reports, A TryHackMe Walkthrough\n════════════════════════\n𐀪\nAuthor:\nDeadHack\n════════════════════════\nⴵ\nTime:\nMon, 03 Aug 2026 14:32:39 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#security_operation_center\n#siem\n#cybersecurity\n#splunk",
-        "date": "2026-08-03T16:04:41+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128660_0_3f16f4a9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128660_1_c3da3f81.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128660",
-        "link": {
-          "title": "Splunk: Dashboards and Reports, A TryHackMe Walkthrough",
-          "url": "https://medium.com/@rohitaswal2108/splunk-dashboards-and-reports-a-tryhackme-walkthrough-ec0c9f68f9ae?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 128659,
-        "text": "⤷\nTitle:\nTryHackMe Overheard at Breakfast\n════════════════════════\n𐀪\nAuthor:\nFutureSi\n════════════════════════\nⴵ\nTime:\nMon, 03 Aug 2026 14:34:10 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#tryhackme",
-        "date": "2026-08-03T16:04:38+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128659_0_3f16f4a9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128659_1_376ecc18.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128659",
-        "link": {
-          "title": "TryHackMe Overheard at Breakfast",
-          "url": "https://medium.com/@FutureSi/tryhackme-overheard-at-breakfast-5d49f361646f?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 128658,
-        "text": "⤷\nTitle:\nRoom 404 — TryHackMe Walthrough\n════════════════════════\n𐀪\nAuthor:\npr4bh@cYb3r\n════════════════════════\nⴵ\nTime:\nMon, 03 Aug 2026 15:13:03 GMT\n════════════════════════\n⌗\nTags:\n#enumeration\n#tryhackme\n#hacker_holidays_2026\n#cybersecurity\n#web",
-        "date": "2026-08-03T16:04:34+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128658_0_3f16f4a9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128658_1_8c3f1779.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128658",
-        "link": {
-          "title": "Room 404 — TryHackMe Walthrough",
-          "url": "https://medium.com/@pr4bhcYb3r/room-404-tryhackme-walthrough-c7b69269e810?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 128657,
-        "text": "⤷\nTitle:\nTryHackMe  Writeup: Exploiting Do Not Disturb | SSTI | Node.js\n════════════════════════\n𐀪\nAuthor:\nSushma\n════════════════════════\nⴵ\nTime:\nMon, 03 Aug 2026 15:29:22 GMT\n════════════════════════\n⌗\nTags:\n#writeup\n#tryhackme\n#cybersecurity\n#ctf_writeup\n#tryhackme_walkthrough",
-        "date": "2026-08-03T16:04:31+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128657_0_3f16f4a9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128657_1_465f8a4a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128657",
-        "link": {
-          "title": "TryHackMe  Writeup: Exploiting Do Not Disturb | SSTI | Node.js",
-          "url": "https://medium.com/@sushmaaragidda/tryhackme-writeup-exploiting-do-not-disturb-ssti-node-js-d5bbd06a482a?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 128656,
-        "text": "⤷\nTitle:\nGrand Larceny Auto | TryHackMe | Walkthrough\n════════════════════════\n𐀪\nAuthor:\nSornphut\n════════════════════════\nⴵ\nTime:\nMon, 03 Aug 2026 15:38:15 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_writeup\n#tryhackme_walkthrough\n#dotnet\n#tryhackme\n#dotnet_core",
-        "date": "2026-08-03T16:04:28+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128656_0_3f16f4a9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128656_1_5779bcaf.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128656",
-        "link": {
-          "title": "Grand Larceny Auto | TryHackMe | Walkthrough",
-          "url": "https://medium.com/@sornphut/grand-larceny-auto-tryhackme-walkthrough-acd3e0b46e8b?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 128655,
-        "text": "⤷\nTitle:\nCap: Easy Level HackTheBox Linux Machine\n════════════════════════\n𐀪\nAuthor:\nHuzaifa Malik\n════════════════════════\nⴵ\nTime:\nMon, 03 Aug 2026 14:41:28 GMT\n════════════════════════\n⌗\nTags:\n#ctf_writeup\n#hackthebox\n#privilege_escalation\n#penetration_testing\n#idor",
-        "date": "2026-08-03T16:04:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128655_0_3f16f4a9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128655_1_cff3ef38.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128655",
-        "link": {
-          "title": "Cap: Easy Level HackTheBox Linux Machine",
-          "url": "https://infosecwriteups.com/cap-easy-level-hackthebox-linux-machine-feea61e860a5?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 128654,
-        "text": "⤷\nTitle:\nDC-1: A Complete Walkthrough (Drupalgeddon2 to Root)\n════════════════════════\n𐀪\nAuthor:\nAbhi Dshine\n════════════════════════\nⴵ\nTime:\nMon, 03 Aug 2026 15:11:39 GMT\n════════════════════════\n⌗\nTags:\n#offensive_pentesting\n#passive_reconnaissance\n#penetration_testing\n#cybersecurity",
-        "date": "2026-08-03T16:04:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128654_0_3f16f4a9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128654_1_b423a9fe.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128654",
-        "link": {
-          "title": "DC-1: A Complete Walkthrough (Drupalgeddon2 to Root)",
-          "url": "https://medium.com/@abhi.dshine/dc-1-a-complete-walkthrough-drupalgeddon2-to-root-7bc5a5020ca3?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 128653,
-        "text": "⤷\nTitle:\nTryHackMe Hacker’s Holiday 2026: Day 4 — Packed Light\n════════════════════════\n𐀪\nAuthor:\nJo0e\n════════════════════════\nⴵ\nTime:\nMon, 03 Aug 2026 15:22:24 GMT\n════════════════════════\n⌗\nTags:\n#ctf_writeup\n#infosec\n#network_forensics\n#cybersecurity\n#tryhackme",
-        "date": "2026-08-03T16:04:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128653_0_3f16f4a9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128653_1_b5739921.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128653",
-        "link": {
-          "title": "TryHackMe Hacker’s Holiday 2026: Day 4 — Packed Light",
-          "url": "https://medium.com/@jo0e.sec/tryhackme-hackers-holiday-2026-day-4-packed-light-f87997d93b42?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 128652,
-        "text": "⤷\nTitle:\nHeimdall Gives Composer Updates a Waiting Room\n════════════════════════\n𐀪\nAuthor:\nHafiq Iqmal\n════════════════════════\nⴵ\nTime:\nMon, 03 Aug 2026 15:29:58 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#software_development\n#composer\n#laravel\n#devops",
-        "date": "2026-08-03T16:04:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128652_0_3f16f4a9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128652_1_fd2c0734.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128652",
-        "link": {
-          "title": "Heimdall Gives Composer Updates a Waiting Room",
-          "url": "https://levelup.gitconnected.com/heimdall-gives-composer-updates-a-waiting-room-2743dbf21f6c?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 128651,
-        "text": "⤷\nTitle:\nBuilding Multi-Tenant Isolation in Supabase — and Learning to Break It\n════════════════════════\n𐀪\nAuthor:\nJoefrancis\n════════════════════════\nⴵ\nTime:\nMon, 03 Aug 2026 13:56:46 GMT\n════════════════════════\n⌗\nTags:\n#postgresql\n#semgrep\n#full_stack_developer\n#application_security\n#multitenancy",
-        "date": "2026-08-03T16:04:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128651_0_3f16f4a9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128651_1_4bb8c888.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128651",
-        "link": {
-          "title": "Building Multi-Tenant Isolation in Supabase — and Learning to Break It",
-          "url": "https://medium.com/@joefrancis6/building-multi-tenant-isolation-in-supabase-and-learning-to-break-it-655e73477671?source=rss------application_security-5"
-        }
-      },
-      {
-        "id": 128650,
-        "text": "⤷\nTitle:\nPart II: Analytic Tools\n════════════════════════\n𐀪\nAuthor:\nEW\n════════════════════════\nⴵ\nTime:\nMon, 03 Aug 2026 14:07:23 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#devsecops\n#software_development\n#static_analysis\n#application_security",
-        "date": "2026-08-03T16:04:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128650_0_3f16f4a9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128650_1_9d472261.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128650",
-        "link": {
-          "title": "Part II: Analytic Tools",
-          "url": "https://medium.com/@wirer191/part-ii-analytic-tools-b4edbb75e6bb?source=rss------application_security-5"
-        }
-      },
-      {
-        "id": 128649,
-        "text": "⤷\nTitle:\n36,872 Exposed BMCs Leak Password Hashes and Face In-the-Wild Attacks via CVE-2013-4786\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 03 Aug 2026 15:00:22 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#BMC\n#CVE_2013_4786\n#Data\nCenter Security\n#HPE\niLO\n#IPMI\n#password_cracking\n#Supermicro",
-        "date": "2026-08-03T16:04:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128649_0_3f16f4a9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128649_1_b15e365d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128649",
-        "link": {
-          "title": "36,872 Exposed BMCs Leak Password Hashes and Face In-the-Wild Attacks via CVE-2013-4786",
-          "url": "https://securityonline.info/exposed-bmcs-cve-2013-4786/"
-        }
-      },
-      {
-        "id": 128648,
-        "text": "⤷\nTitle:\nStudent Hacks IIT Websites After Cyber Security Rejection\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nMon, 03 Aug 2026 14:37:56 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#cybersecurity\n#hacker\n#IIT\nKanpur\n#IIT\nMadras\n#India",
-        "date": "2026-08-03T16:04:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128648_0_3f16f4a9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128648_1_cc97f82b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128648",
-        "link": {
-          "title": "Student Hacks IIT Websites After Cyber Security Rejection",
-          "url": "https://meterpreter.org/student-hacks-iit-websites/"
-        }
-      },
-      {
-        "id": 128647,
-        "text": "⤷\nTitle:\nH96 Android TV Boxes Used for Ad Fraud and Residential Proxies\n════════════════════════\n𐀪\nAuthor:\nWaqas\n════════════════════════\nⴵ\nTime:\nMon, 03 Aug 2026 14:15:10 +0000\n════════════════════════\n⌗\nTags:\n#Security\n#Android\n#Android\nTV\n#Backdoors\n#BitSight\n#Cybersecurity\n#Fuyao\n#H96\n#Malware\n#Proxy\n#Residential\nProxy",
-        "date": "2026-08-03T16:03:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128647_0_3f16f4a9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128647_1_70e44d0f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128647",
-        "link": {
-          "title": "H96 Android TV Boxes Used for Ad Fraud and Residential Proxies",
-          "url": "https://hackread.com/h96-android-tv-boxes-ad-fraud-residential-proxies/"
-        }
-      },
-      {
-        "id": 128646,
-        "text": "⤷\nTitle:\nWhy Bitcoin Businesses Are Moving to Dedicated VPS Infrastructure\n════════════════════════\n𐀪\nAuthor:\nOwais Sultan\n════════════════════════\nⴵ\nTime:\nMon, 03 Aug 2026 15:12:19 +0000\n════════════════════════\n⌗\nTags:\n#Crypto\n#Blockchain\n#Business\n#Fintech\n#Bitcoin\n#Cryptocurrency\n#Technology",
-        "date": "2026-08-03T16:03:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128646_0_3f16f4a9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128646_1_476e57c2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128646",
-        "link": {
-          "title": "Why Bitcoin Businesses Are Moving to Dedicated VPS Infrastructure",
-          "url": "https://hackread.com/bitcoin-businesses-dedicated-vps-infrastructure/"
-        }
-      },
-      {
-        "id": 128645,
-        "text": "⤷\nTitle:\n⚡\nWeekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nMon, 03 Aug 2026 19:33:11 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-08-03T16:03:51+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128645_0_3f16f4a9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128645",
-        "link": {
-          "title": "⚡Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks",
-          "url": "https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html"
-        }
-      },
-      {
-        "id": 128644,
-        "text": "⤷\nTitle:\nOpen Banking API Security: What Every B2B Financial Leader Needs to Get Right in 2026\n════════════════════════\n𐀪\nAuthor:\nnishu facile\n════════════════════════\nⴵ\nTime:\nMon, 03 Aug 2026 12:32:19 GMT\n════════════════════════\n⌗\nTags:\n#b2b_integration\n#b2b_api_security\n#open_banking_api\n#api_lead_integration\n#api_security",
-        "date": "2026-08-03T14:04:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128644_0_3f16f4a9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128644_1_9a782361.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128644",
-        "link": {
-          "title": "Open Banking API Security: What Every B2B Financial Leader Needs to Get Right in 2026",
-          "url": "https://medium.com/@nishufacile/open-banking-api-security-what-every-b2b-financial-leader-needs-to-get-right-in-2026-7cbc1a4b7a14?source=rss------api_security-5"
-        }
-      },
-      {
-        "id": 128643,
-        "text": "⤷\nTitle:\nCookie Theft and Hijacked Web Pages: What I Learned from a TryHackMe XSS Lab\n════════════════════════\n𐀪\nAuthor:\nAnjali Thakur\n════════════════════════\nⴵ\nTime:\nMon, 03 Aug 2026 13:05:37 GMT\n════════════════════════\n⌗\nTags:\n#web_security\n#owasp\n#cybersecurity\n#xs\n#ethical_hacking",
-        "date": "2026-08-03T14:04:51+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128643_0_3f16f4a9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128643_1_d99a9055.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128643",
-        "link": {
-          "title": "Cookie Theft and Hijacked Web Pages: What I Learned from a TryHackMe XSS Lab",
-          "url": "https://medium.com/@anjalit03/cookie-theft-and-hijacked-web-pages-what-i-learned-from-a-tryhackme-xss-lab-a5d8bc12971f?source=rss------ethical_hacking-5"
-        }
       }
     ]
   },
-  "last_update": "2026-08-04T07:30:49.019863+00:00",
+  "last_update": "2026-08-04T10:10:06.875616+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 195,
-    "total_files": 195,
+    "total_media": 196,
+    "total_files": 196,
     "total_links": 0,
     "files_by_type": {
-      "image": 195
+      "image": 196
     },
-    "referenced_files": 195,
-    "existing_media_files": 195,
-    "total_size_mb": 4.56,
-    "last_calculation": "2026-08-04T07:30:49.022157+00:00"
+    "referenced_files": 196,
+    "existing_media_files": 196,
+    "total_size_mb": 4.38,
+    "last_calculation": "2026-08-04T10:10:06.877321+00:00"
   }
 }
