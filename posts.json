@@ -2,6 +2,75 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 128710,
+        "text": "⤷\nTitle:\nTryHackMe Takeover Walkthrough : Learning Subdomain Enumeration Through SSL Certificates\n════════════════════════\n𐀪\nAuthor:\nAbdur Rahman\n════════════════════════\nⴵ\nTime:\nMon, 03 Aug 2026 22:33:12 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#ethical_hacking\n#cybersecurity\n#penetration_testing\n#web_security",
+        "date": "2026-08-04T00:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128710_0_3f16f4a9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128710_1_08d70cd4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128710",
+        "link": {
+          "title": "TryHackMe Takeover Walkthrough : Learning Subdomain Enumeration Through SSL Certificates",
+          "url": "https://medium.com/@abdurrahmanbinshaik/tryhackme-takeover-walkthrough-learning-subdomain-enumeration-through-ssl-certificates-e0395f812b3b?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 128709,
+        "text": "⤷\nTitle:\nIf At First You Don’t Succeed: How to Find Bad In the Software Supply Chain\n════════════════════════\n𐀪\nAuthor:\ngrepStrength\n════════════════════════\nⴵ\nTime:\nMon, 03 Aug 2026 22:08:27 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#terraform\n#supply_chain\n#hacking\n#npm",
+        "date": "2026-08-04T00:03:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128709_0_3f16f4a9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128709_1_f72102c2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128709",
+        "link": {
+          "title": "If At First You Don’t Succeed: How to Find Bad In the Software Supply Chain",
+          "url": "https://infosecwriteups.com/if-at-first-you-dont-succeed-how-to-find-bad-in-the-software-supply-chain-692a2a1d2ab6?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 128708,
+        "text": "⤷\nTitle:\nBroken Link Hijacking: How I “Became” a Government Agency on LinkedIn (Legally, Sort Of)\n════════════════════════\n𐀪\nAuthor:\nCazuri\n════════════════════════\nⴵ\nTime:\nMon, 03 Aug 2026 23:39:17 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty",
+        "date": "2026-08-04T00:03:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128708_0_3f16f4a9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128708_1_daf6c203.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128708",
+        "link": {
+          "title": "Broken Link Hijacking: How I “Became” a Government Agency on LinkedIn (Legally, Sort Of)",
+          "url": "https://medium.com/@deathsure445/broken-link-hijacking-how-i-became-a-government-agency-on-linkedin-legally-sort-of-f94f8136220a?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 128707,
         "text": "⤷\nTitle:\nSublist3r\n════════════════════════\n𐀪\nAuthor:\nOm Barot\n════════════════════════\nⴵ\nTime:\nMon, 03 Aug 2026 20:29:20 GMT\n════════════════════════\n⌗\nTags:\n#subdomain_enumeration\n#kali_linux\n#cybersecurity\n#ethical_hacking\n#osint",
         "date": "2026-08-03T22:04:31+00:00",
@@ -2211,87 +2280,22 @@
           "title": "Server-2: Vulnerable OnlyPhone— VulnerabilityWeb Walkthrough (4 Flags)",
           "url": "https://enric-xx.medium.com/server-2-vulnerable-onlyphone-vulnerabilityweb-walkthrough-4-flags-1d8f37389507?source=rss------bug_bounty-5"
         }
-      },
-      {
-        "id": 128591,
-        "text": "⤷\nTitle:\nnpm Supply Chain Attack Delivers a Cross-Platform RAT to Alibaba Developers\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 03 Aug 2026 08:03:44 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#Alibaba\n#Cross_Platform\nRAT\n#DingTalk\n#malicious\nnpm packages\n#npm\nSupply Chain Attack\n#Socket\n#Supply\nChain Security",
-        "date": "2026-08-03T10:03:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128591_0_3f16f4a9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128591_1_5b477428.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128591",
-        "link": {
-          "title": "npm Supply Chain Attack Delivers a Cross-Platform RAT to Alibaba Developers",
-          "url": "https://securityonline.info/npm-supply-chain-attack-alibaba-rat/"
-        }
-      },
-      {
-        "id": 128590,
-        "text": "⤷\nTitle:\nAlphabet Q2 2026 Revenue Hits $119.8B as Pichai Confirms Gemini 4\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 03 Aug 2026 08:22:55 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#Alphabet\n#Gemini\n4\n#Google\nCloud\n#Google\nEarnings\n#Sundar\nPichai",
-        "date": "2026-08-03T10:03:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128590_0_3f16f4a9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128590_1_c374178e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128590",
-        "link": {
-          "title": "Alphabet Q2 2026 Revenue Hits $119.8B as Pichai Confirms Gemini 4",
-          "url": "https://securityonline.info/alphabet-q2-2026-gemini-4/"
-        }
-      },
-      {
-        "id": 128589,
-        "text": "⤷\nTitle:\nThermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nMon, 03 Aug 2026 13:35:30 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-08-03T10:03:51+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128589_0_3f16f4a9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128589",
-        "link": {
-          "title": "Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable",
-          "url": "https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html"
-        }
       }
     ]
   },
-  "last_update": "2026-08-03T23:58:42.596544+00:00",
+  "last_update": "2026-08-04T01:31:53.437023+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 194,
-    "total_files": 194,
+    "total_media": 195,
+    "total_files": 195,
     "total_links": 0,
     "files_by_type": {
-      "image": 194
+      "image": 195
     },
-    "referenced_files": 194,
-    "existing_media_files": 194,
-    "total_size_mb": 4.55,
-    "last_calculation": "2026-08-03T23:58:42.598404+00:00"
+    "referenced_files": 195,
+    "existing_media_files": 195,
+    "total_size_mb": 4.6,
+    "last_calculation": "2026-08-04T01:31:53.439430+00:00"
   }
 }
