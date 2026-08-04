@@ -2,6 +2,305 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 128742,
+        "text": "⤷\nTitle:\nIntigriti July 2026 CTF Write-Up: Exploiting JSON Parser Differential (Duplicate-Key Confusion) to…\n════════════════════════\n𐀪\nAuthor:\nZabed Ullah Poyel\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 04:23:17 GMT\n════════════════════════\n⌗\nTags:\n#ctf_walkthrough\n#bug_bounty_writeup\n#web_security\n#intigriti\n#ctf_writeup",
+        "date": "2026-08-04T06:04:30+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128742_0_3f16f4a9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128742_1_31084829.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128742",
+        "link": {
+          "title": "Intigriti July 2026 CTF Write-Up: Exploiting JSON Parser Differential (Duplicate-Key Confusion) to…",
+          "url": "https://medium.com/@zabedullahpoyel/intigriti-july-2026-ctf-write-up-exploiting-json-parser-differential-duplicate-key-confusion-to-29b94d6001e4?source=rss------bug_bounty_writeup-5"
+        }
+      },
+      {
+        "id": 128741,
+        "text": "⤷\nTitle:\nThe Rise of DarkSword: Unpacking the Next-Generation iOS Exploit Kit\n════════════════════════\n𐀪\nAuthor:\nRishav anand\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 05:20:41 GMT\n════════════════════════\n⌗\nTags:\n#red_team\n#cybersecurity\n#ios\n#ethical_hacking\n#exploitation",
+        "date": "2026-08-04T06:04:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128741_0_3f16f4a9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128741_1_ba30b1e7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128741",
+        "link": {
+          "title": "The Rise of DarkSword: Unpacking the Next-Generation iOS Exploit Kit",
+          "url": "https://medium.com/@anandrishav2228/the-rise-of-darksword-unpacking-the-next-generation-ios-exploit-kit-053dc7910b1a?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 128740,
+        "text": "⤷\nTitle:\ntryhackme — towel on the sunbed\n════════════════════════\n𐀪\nAuthor:\nNanashi Bx2\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 03:57:15 GMT\n════════════════════════\n⌗\nTags:\n#web_security\n#race_condition\n#cybersecurity\n#hacker_holidays_2026\n#tryhackme",
+        "date": "2026-08-04T06:04:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128740_0_3f16f4a9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128740_1_2dbe39ac.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128740",
+        "link": {
+          "title": "tryhackme — towel on the sunbed",
+          "url": "https://medium.com/@nanashibx2/tryhackme-towel-on-the-sunbed-5021b420a865?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 128739,
+        "text": "⤷\nTitle:\nOverheard at Breakfast — TryHackMe WalkTrrough (Hacker Holidays)\n════════════════════════\n𐀪\nAuthor:\nSunjid Ahmed Siyem\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 04:08:01 GMT\n════════════════════════\n⌗\nTags:\n#overheard_at_breakfast\n#hacker_holidays\n#tryhackme\n#tryhackme_hacker_holidays",
+        "date": "2026-08-04T06:04:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128739_0_3f16f4a9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128739_1_54fea4f7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128739",
+        "link": {
+          "title": "Overheard at Breakfast — TryHackMe WalkTrrough (Hacker Holidays)",
+          "url": "https://medium.com/@sunjid-ahmed/overheard-at-breakfast-tryhackme-walktrrough-hacker-holidays-989f7392272d?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 128738,
+        "text": "⤷\nTitle:\nTowel on the Sunbed — Tryhackme write-up\n════════════════════════\n𐀪\nAuthor:\nPRiTi.EX\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 05:28:58 GMT\n════════════════════════\n⌗\nTags:\n#business_logic\n#burpsuite\n#tryhackme\n#web_hacking\n#api",
+        "date": "2026-08-04T06:04:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128738_0_3f16f4a9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128738_1_2c6457e4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128738",
+        "link": {
+          "title": "Towel on the Sunbed — Tryhackme write-up",
+          "url": "https://medium.com/@pritiranjanmohanta6371/towel-on-the-sunbed-tryhackme-write-up-1a61da7f963f?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 128737,
+        "text": "⤷\nTitle:\nTryHackMe Hacker Holidaty 2026 Day 8 Walkthrough (Towel On The Sunbed)\n════════════════════════\n𐀪\nAuthor:\nAnoobkrishna\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 05:41:22 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_walkthrough\n#hackerholiday2026\n#tryhackme",
+        "date": "2026-08-04T06:04:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128737_0_3f16f4a9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128737_1_184cf8a8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128737",
+        "link": {
+          "title": "TryHackMe Hacker Holidaty 2026 Day 8 Walkthrough (Towel On The Sunbed)",
+          "url": "https://medium.com/@anoobkrishna2006/tryhackme-hacker-holidaty-2026-day-8-walkthrough-towel-on-the-sunbed-ad5ce2dc9b6a?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 128736,
+        "text": "⤷\nTitle:\nActive Directory Explained from Zero: How It Actually Works\n════════════════════════\n𐀪\nAuthor:\nHimanshu Parmar\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 05:56:53 GMT\n════════════════════════\n⌗\nTags:\n#windows\n#active_directory\n#cybersecurity\n#ethical_hacking\n#penetration_testing",
+        "date": "2026-08-04T06:04:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128736_0_3f16f4a9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128736_1_940b46a8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128736",
+        "link": {
+          "title": "Active Directory Explained from Zero: How It Actually Works",
+          "url": "https://himanshuh4cker.medium.com/active-directory-explained-from-zero-how-it-actually-works-9bd8066d98e3?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 128735,
+        "text": "⤷\nTitle:\nGlitch: From a Hidden Token to Root\n════════════════════════\n𐀪\nAuthor:\nEnryuuu\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 04:02:40 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#ctf_writeup\n#tryhackme\n#ctf\n#cybersecurity",
+        "date": "2026-08-04T06:04:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128735_0_3f16f4a9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128735_1_d4881ff6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128735",
+        "link": {
+          "title": "Glitch: From a Hidden Token to Root",
+          "url": "https://medium.com/@cristopher.gilbert27/glitch-from-a-hidden-token-to-root-5e4539cd6b3d?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 128734,
+        "text": "⤷\nTitle:\nNo Human Typed a Single Command. An AI Agent Breached Hugging Face Anyway.\n════════════════════════\n𐀪\nAuthor:\nRaj Namdev\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 04:40:00 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#cybersecurity\n#artificial_intelligence\n#technology\n#machine_learning",
+        "date": "2026-08-04T06:04:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128734_0_3f16f4a9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128734_1_1baa6cfa.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128734",
+        "link": {
+          "title": "No Human Typed a Single Command. An AI Agent Breached Hugging Face Anyway.",
+          "url": "https://infosecwriteups.com/no-human-typed-a-single-command-an-ai-agent-breached-hugging-face-anyway-e478114214f7?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 128733,
+        "text": "⤷\nTitle:\nThe Five Summits of Software Supply-Chain Security\n════════════════════════\n𐀪\nAuthor:\nAnkit Gupta\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 05:29:00 GMT\n════════════════════════\n⌗\nTags:\n#application_security\n#devsecops\n#software_supply_chain\n#open_source\n#cybersecurity",
+        "date": "2026-08-04T06:04:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128733_0_3f16f4a9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128733_1_d56708d1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128733",
+        "link": {
+          "title": "The Five Summits of Software Supply-Chain Security",
+          "url": "https://medium.com/@techie.kitsy/the-five-summits-of-software-supply-chain-security-a454aeb876d2?source=rss------application_security-5"
+        }
+      },
+      {
+        "id": 128732,
+        "text": "⤷\nTitle:\nBloodHound Series — Part 4: Privilege Escalation & Attack Execution\n════════════════════════\n𐀪\nAuthor:\nghostyjoe\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 05:35:18 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#cybersecurity\n#security\n#bug_bounty\n#linux",
+        "date": "2026-08-04T06:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128732_0_3f16f4a9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128732_1_a8dc4a28.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128732",
+        "link": {
+          "title": "BloodHound Series — Part 4: Privilege Escalation & Attack Execution",
+          "url": "https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/bloodhound-series-part-4-privilege-escalation-attack-execution-d79c0b6bdbe2?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 128731,
+        "text": "⤷\nTitle:\nTwo package Keys, One Valid Signature, and One Protected Report\n════════════════════════\n𐀪\nAuthor:\nnyxhunter\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 05:46:46 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty",
+        "date": "2026-08-04T06:03:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128731_0_3f16f4a9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128731_1_f82f3cc1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128731",
+        "link": {
+          "title": "Two package Keys, One Valid Signature, and One Protected Report",
+          "url": "https://medium.com/@broostibo/intigriti-challenge-0726-write-up-two-package-keys-one-protected-report-65e42d596576?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 128730,
+        "text": "⤷\nTitle:\nGemini Spark Auto Browse: Google’s AI Agent Now Acts Inside Chrome for You\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 04:03:01 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#Agentic\nAI\n#Auto\nBrowse\n#cybersecurity\n#Gemini\nSpark\n#google\nchrome",
+        "date": "2026-08-04T06:03:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128730_0_3f16f4a9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128730_1_d99a75cd.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128730",
+        "link": {
+          "title": "Gemini Spark Auto Browse: Google’s AI Agent Now Acts Inside Chrome for You",
+          "url": "https://securityonline.info/gemini-spark-auto-browse/"
+        }
+      },
+      {
         "id": 128729,
         "text": "⤷\nTitle:\nHacker Holidays 2026 | Day 7: Do Not Disturb (TryHackMe Walkthrough)\n════════════════════════\n𐀪\nAuthor:\nShamita\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 03:06:10 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_walkthrough\n#tryhackme_writeup\n#cybersecurity\n#tryhackme\n#ethical_hacking",
         "date": "2026-08-04T04:04:31+00:00",
@@ -1981,309 +2280,10 @@
           "title": "Cookie Theft and Hijacked Web Pages: What I Learned from a TryHackMe XSS Lab",
           "url": "https://medium.com/@anjalit03/cookie-theft-and-hijacked-web-pages-what-i-learned-from-a-tryhackme-xss-lab-a5d8bc12971f?source=rss------ethical_hacking-5"
         }
-      },
-      {
-        "id": 128642,
-        "text": "⤷\nTitle:\nTHM Byte Lotus — Do Not Disturb Writeup\n════════════════════════\n𐀪\nAuthor:\nGhostbhoot\n════════════════════════\nⴵ\nTime:\nMon, 03 Aug 2026 12:39:56 GMT\n════════════════════════\n⌗\nTags:\n#network_security\n#cybersecurity\n#ctf_writeup\n#tryhackme_writeup\n#tryhackme",
-        "date": "2026-08-03T14:04:48+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128642_0_3f16f4a9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128642_1_182570ca.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128642",
-        "link": {
-          "title": "THM Byte Lotus — Do Not Disturb Writeup",
-          "url": "https://medium.com/@ghostbhoot610/thm-byte-lotus-boot2root-writeup-602905c6e631?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 128641,
-        "text": "⤷\nTitle:\nStrengthen Your Digital Security with Smarter Cybersecurity Testing\n════════════════════════\n𐀪\nAuthor:\nEyeqdotnet\n════════════════════════\nⴵ\nTime:\nMon, 03 Aug 2026 12:49:27 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing",
-        "date": "2026-08-03T14:04:45+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128641_0_3f16f4a9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128641_1_3c5a587d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128641",
-        "link": {
-          "title": "Strengthen Your Digital Security with Smarter Cybersecurity Testing",
-          "url": "https://medium.com/@eyeqdotnet704/strengthen-your-digital-security-with-smarter-cybersecurity-testing-a0340ade9996?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 128640,
-        "text": "⤷\nTitle:\nFDA Section 524B Penetration Testing and Documentation Services for Medical Device\n════════════════════════\n𐀪\nAuthor:\nQualysecEurope\n════════════════════════\nⴵ\nTime:\nMon, 03 Aug 2026 13:05:48 GMT\n════════════════════════\n⌗\nTags:\n#compliance\n#penetration_testing\n#fda\n#cybersecurity",
-        "date": "2026-08-03T14:04:41+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128640_0_3f16f4a9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128640_1_e891c5e5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128640",
-        "link": {
-          "title": "FDA Section 524B Penetration Testing and Documentation Services for Medical Device",
-          "url": "https://medium.com/@Qualysec.Europe/fda-section-524b-penetration-testing-and-documentation-services-for-medical-device-4ecac45b0873?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 128639,
-        "text": "⤷\nTitle:\nUnlocking Cybersecurity: What Really Is a Vulnerability? (Part 0)\n════════════════════════\n𐀪\nAuthor:\nZahra Alizada\n════════════════════════\nⴵ\nTime:\nMon, 03 Aug 2026 12:27:56 GMT\n════════════════════════\n⌗\nTags:\n#software_engineering\n#infosec\n#appsec\n#cybersecurity",
-        "date": "2026-08-03T14:04:38+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128639_0_3f16f4a9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128639_1_e99b0b80.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128639",
-        "link": {
-          "title": "Unlocking Cybersecurity: What Really Is a Vulnerability? (Part 0)",
-          "url": "https://medium.com/@13635/unlocking-cybersecurity-what-really-is-a-vulnerability-part-0-c863f45434b3?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 128638,
-        "text": "⤷\nTitle:\nReverse Engineering an Unlinked ELF Object File— Solving objective-c from VuwCTF 2026\n════════════════════════\n𐀪\nAuthor:\nSilentzer0\n════════════════════════\nⴵ\nTime:\nMon, 03 Aug 2026 13:46:17 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#cybersecurity\n#linux\n#ctf_writeup\n#reverse_engineering",
-        "date": "2026-08-03T14:04:35+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128638_0_3f16f4a9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128638_1_22309435.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128638",
-        "link": {
-          "title": "Reverse Engineering an Unlinked ELF Object File— Solving objective-c from VuwCTF 2026",
-          "url": "https://medium.com/@silentzer0/reverse-engineering-an-unlinked-elf-object-file-solving-objective-c-from-vuwctf-2026-8163f4f495ca?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 128637,
-        "text": "⤷\nTitle:\nThe Companies That Protect You From Hackers Just Got Hacked. The Key Was 4 Years Old.\n════════════════════════\n𐀪\nAuthor:\nJazz Cyber Shield\n════════════════════════\nⴵ\nTime:\nMon, 03 Aug 2026 12:40:54 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#infosec\n#software_development\n#cybersecurity\n#technology",
-        "date": "2026-08-03T14:04:31+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128637_0_3f16f4a9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128637_1_91796468.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128637",
-        "link": {
-          "title": "The Companies That Protect You From Hackers Just Got Hacked. The Key Was 4 Years Old.",
-          "url": "https://blog.stackademic.com/the-companies-that-protect-you-from-hackers-just-got-hacked-the-key-was-4-years-old-e8749db5fe4a?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 128636,
-        "text": "⤷\nTitle:\nThe Silent AI War Nobody Saw Coming.\n════════════════════════\n𐀪\nAuthor:\nBhavaniKumarKalavakunta\n════════════════════════\nⴵ\nTime:\nMon, 03 Aug 2026 12:43:30 GMT\n════════════════════════\n⌗\nTags:\n#open_source\n#hacking\n#artificial_intelligence\n#technology\n#cybersecurity",
-        "date": "2026-08-03T14:04:28+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128636_0_3f16f4a9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128636_1_314f7a0d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128636",
-        "link": {
-          "title": "The Silent AI War Nobody Saw Coming.",
-          "url": "https://generativeai.pub/the-silent-ai-war-nobody-saw-coming-8a48463f93ca?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 128635,
-        "text": "⤷\nTitle:\nPacked Light (THM) Tryhackme Walkthrough Hacker Holiday Day 4\n════════════════════════\n𐀪\nAuthor:\nLawvye\n════════════════════════\nⴵ\nTime:\nMon, 03 Aug 2026 12:44:54 GMT\n════════════════════════\n⌗\nTags:\n#cryptography\n#network_security\n#cybersecurity\n#hacking\n#tryhackme",
-        "date": "2026-08-03T14:04:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128635_0_3f16f4a9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128635_1_e18f8d21.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128635",
-        "link": {
-          "title": "Packed Light (THM) Tryhackme Walkthrough Hacker Holiday Day 4",
-          "url": "https://medium.com/@lawvye/packed-light-thm-tryhackme-walkthrough-hacker-holiday-day-4-8958d76ca784?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 128634,
-        "text": "⤷\nTitle:\nKobold — HackTheBox Writeup\n════════════════════════\n𐀪\nAuthor:\nM3H47D1\n════════════════════════\nⴵ\nTime:\nMon, 03 Aug 2026 13:38:36 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ctf_writeup\n#penetration_testing\n#hacking\n#hackthebox",
-        "date": "2026-08-03T14:04:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128634_0_3f16f4a9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128634_1_ac1b6109.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128634",
-        "link": {
-          "title": "Kobold — HackTheBox Writeup",
-          "url": "https://medium.com/@M3h4ydii/kobold-hackthebox-writeup-634eef9eff30?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 128633,
-        "text": "⤷\nTitle:\nHow I Found a Bug That Could Let Anyone Hijack Your Account — Without Touching Your Email\n════════════════════════\n𐀪\nAuthor:\nRahul Masal\n════════════════════════\nⴵ\nTime:\nMon, 03 Aug 2026 13:46:14 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#web_security\n#idor\n#hacking\n#bug_bounty",
-        "date": "2026-08-03T14:04:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128633_0_3f16f4a9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128633_1_16003e63.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128633",
-        "link": {
-          "title": "How I Found a Bug That Could Let Anyone Hijack Your Account — Without Touching Your Email",
-          "url": "https://medium.com/@Rahul.Masal/how-i-found-a-bug-that-could-let-anyone-hijack-your-account-without-touching-your-email-2acc76e33bfa?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 128632,
-        "text": "⤷\nTitle:\nCVE-2026-39875: Public PoC Lets a Malicious macOS App Gain Root Privileges\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 03 Aug 2026 12:55:53 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Apple\nSecurity\n#CUPS\n#cupsd\n#CVE_2026_39875\n#Local\nPrivilege Escalation\n#macOS\n#macOS\nprivilege escalation\n#privilege\nescalation\n#proof_of_concept",
-        "date": "2026-08-03T14:04:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128632_0_3f16f4a9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128632_1_233d3389.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128632",
-        "link": {
-          "title": "CVE-2026-39875: Public PoC Lets a Malicious macOS App Gain Root Privileges",
-          "url": "https://securityonline.info/cve-2026-39875-macos-root/"
-        }
-      },
-      {
-        "id": 128631,
-        "text": "⤷\nTitle:\nSICK InspectorP6xx Flaw CVE-2026-11841 Could Lead to Full Device Compromise\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 03 Aug 2026 13:44:20 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_11841\n#CWE_552\n#Industrial\nSecurity\n#InspectorP6xx\n#OT\nSecurity\n#SICK\n#SOPAS",
-        "date": "2026-08-03T14:04:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128631_0_3f16f4a9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128631_1_50d2f479.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128631",
-        "link": {
-          "title": "SICK InspectorP6xx Flaw CVE-2026-11841 Could Lead to Full Device Compromise",
-          "url": "https://securityonline.info/sick-inspectorp6xx-cve-2026-11841/"
-        }
-      },
-      {
-        "id": 128630,
-        "text": "⤷\nTitle:\nH96 Android TV Boxes Secretly Drive Massive Ad Fraud\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nMon, 03 Aug 2026 12:44:59 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#Ad\nFraud\n#Android\nTV\n#cybersecurity\n#H96\nBox\n#malware",
-        "date": "2026-08-03T14:04:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128630_0_3f16f4a9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128630_1_e44a0121.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128630",
-        "link": {
-          "title": "H96 Android TV Boxes Secretly Drive Massive Ad Fraud",
-          "url": "https://meterpreter.org/h96-android-tv-boxes-ad-fraud/"
-        }
       }
     ]
   },
-  "last_update": "2026-08-04T04:44:37.668582+00:00",
+  "last_update": "2026-08-04T07:30:49.019863+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2295,7 +2295,7 @@
     },
     "referenced_files": 195,
     "existing_media_files": 195,
-    "total_size_mb": 4.69,
-    "last_calculation": "2026-08-04T04:44:37.670972+00:00"
+    "total_size_mb": 4.56,
+    "last_calculation": "2026-08-04T07:30:49.022157+00:00"
   }
 }
