@@ -2,6 +2,366 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 128841,
+        "text": "⤷\nTitle:\nServer-Side Request Forgery (SSRF) to Local File Read: A Deep Dive into a CTF Challenge\n════════════════════════\n𐀪\nAuthor:\nGyaneshchand\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 14:43:58 GMT\n════════════════════════\n⌗\nTags:\n#com_olho\n#ssrf_walkthrough\n#ssrf\n#ctf_walkthrough",
+        "date": "2026-08-04T16:04:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128841_0_6667c096.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128841_1_fec5388f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128841",
+        "link": {
+          "title": "Server-Side Request Forgery (SSRF) to Local File Read: A Deep Dive into a CTF Challenge",
+          "url": "https://medium.com/@gyaneshchand57/server-side-request-forgery-ssrf-to-local-file-read-a-deep-dive-into-a-ctf-challenge-3ce1114aa90a?source=rss------ssrf-5"
+        }
+      },
+      {
+        "id": 128840,
+        "text": "⤷\nTitle:\nYour Auth Middleware Is Too Late. Here’s What Should Run Before It.\n════════════════════════\n𐀪\nAuthor:\nYoosuf Husain\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 13:51:35 GMT\n════════════════════════\n⌗\nTags:\n#backend_development\n#api_security\n#engineering\n#nodejs\n#software_architecture",
+        "date": "2026-08-04T16:04:44+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128840_0_6667c096.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128840_1_36fafe9b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128840",
+        "link": {
+          "title": "Your Auth Middleware Is Too Late. Here’s What Should Run Before It.",
+          "url": "https://medium.com/@muhamedyoosuf01/your-auth-middleware-is-too-late-heres-what-should-run-before-it-390a0bebe2a3?source=rss------api_security-5"
+        }
+      },
+      {
+        "id": 128839,
+        "text": "⤷\nTitle:\nTryHackMe | Hacker Holidays — The Byte Lotus Hotel: Day 8 | Towel on the Sunbed Walkthrough\n════════════════════════\n𐀪\nAuthor:\nBlackCat53\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 15:25:41 GMT\n════════════════════════\n⌗\nTags:\n#race_condition\n#tryhackme_walkthrough\n#tryhackme\n#tryhackme_writeup\n#hacker_holidays_2026",
+        "date": "2026-08-04T16:04:41+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128839_0_6667c096.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128839_1_6402b4db.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128839",
+        "link": {
+          "title": "TryHackMe | Hacker Holidays — The Byte Lotus Hotel: Day 8 | Towel on the Sunbed Walkthrough",
+          "url": "https://medium.com/@blackcat53/tryhackme-hacker-holidays-the-byte-lotus-hotel-day-8-towel-on-the-sunbed-walkthrough-cd7759ccff02?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 128838,
+        "text": "⤷\nTitle:\n5 Real Web Vulnerabilities Every Hacker Should Know\n════════════════════════\n𐀪\nAuthor:\nMainEkHacker\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 14:31:01 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ethical_hacking\n#hacking\n#security\n#vulnerability",
+        "date": "2026-08-04T16:04:38+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128838_0_6667c096.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128838_1_47452dc3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128838",
+        "link": {
+          "title": "5 Real Web Vulnerabilities Every Hacker Should Know",
+          "url": "https://mainekhacker.medium.com/5-real-web-vulnerabilities-every-hacker-should-know-a50da2a0ab85?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 128837,
+        "text": "⤷\nTitle:\nBeach Bar (THM) Tryhackme Walkthrough Hacker Holidays Day 5\n════════════════════════\n𐀪\nAuthor:\nLawvye\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 14:46:44 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#tryhackme\n#privilege_escalation\n#hacking\n#linux",
+        "date": "2026-08-04T16:04:34+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128837_0_6667c096.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128837_1_71c723c6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128837",
+        "link": {
+          "title": "Beach Bar (THM) Tryhackme Walkthrough Hacker Holidays Day 5",
+          "url": "https://medium.com/@lawvye/beach-bar-thm-tryhackme-walkthrough-hacker-holidays-day-5-76daf1174ab1?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 128836,
+        "text": "⤷\nTitle:\nHow a Simple USB Drive Can Destroy an Entire Company (And Why You Should Never Trust a Random USB)\n════════════════════════\n𐀪\nAuthor:\nTejaswini Patil\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 15:25:39 GMT\n════════════════════════\n⌗\nTags:\n#technology\n#cybersecurity\n#ethical_hacking\n#artificial_intelligence\n#hacking",
+        "date": "2026-08-04T16:04:31+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128836_0_6667c096.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128836_1_557bc8c1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128836",
+        "link": {
+          "title": "How a Simple USB Drive Can Destroy an Entire Company (And Why You Should Never Trust a Random USB)",
+          "url": "https://medium.com/@tejaswinipatil619/how-a-simple-usb-drive-can-destroy-an-entire-company-and-why-you-should-never-trust-a-random-usb-c5a525238b33?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 128835,
+        "text": "⤷\nTitle:\nSnort 3: A Practical Look at Modern Intrusion Detection (and Why Attackers Still Slip Through)\n════════════════════════\n𐀪\nAuthor:\nUmair Majeed\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 15:37:42 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#hacking\n#cybersecurity\n#social_media\n#networking",
+        "date": "2026-08-04T16:04:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128835_0_6667c096.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128835_1_dee96ae8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128835",
+        "link": {
+          "title": "Snort 3: A Practical Look at Modern Intrusion Detection (and Why Attackers Still Slip Through)",
+          "url": "https://medium.com/@hassankhan229361/snort-3-a-practical-look-at-modern-intrusion-detection-and-why-attackers-still-slip-through-617c5f12296b?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 128834,
+        "text": "⤷\nTitle:\nThe Frontend Lied: How a Free Account Could Delete Production API Specs on an Airline’s Developer…\n════════════════════════\n𐀪\nAuthor:\nPriyansh\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 14:16:35 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#bug_bounty_tips\n#bug_bounty\n#bug_bounty_writeup",
+        "date": "2026-08-04T16:04:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128834_0_6667c096.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128834_1_a59066fa.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128834",
+        "link": {
+          "title": "The Frontend Lied: How a Free Account Could Delete Production API Specs on an Airline’s Developer…",
+          "url": "https://medium.com/@priyanshbhadoria5/the-frontend-lied-how-a-free-account-could-delete-production-api-specs-on-an-airlines-developer-4085f4093aeb?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 128833,
+        "text": "⤷\nTitle:\nThe Invitation Was Gone… But I Could Still Join\n════════════════════════\n𐀪\nAuthor:\n0xMo7areb\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 14:26:01 GMT\n════════════════════════\n⌗\nTags:\n#writing\n#bug_bounty\n#penetration_testing\n#technology\n#cybersecurity",
+        "date": "2026-08-04T16:04:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128833_0_6667c096.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128833_1_660636bb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128833",
+        "link": {
+          "title": "The Invitation Was Gone… But I Could Still Join",
+          "url": "https://medium.com/@0xMo7areb/the-invitation-was-gone-but-i-could-still-join-fcb99e1d3958?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 128832,
+        "text": "⤷\nTitle:\nIntigriti named new provider for Adobe's Bug Bounty Program\n════════════════════════\n𐀪\nAuthor:\nEleanor Barlow\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 00:00:00 GMT\n════════════════════════\n⌗\nTags:\n#News",
+        "date": "2026-08-04T16:04:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128832_0_6667c096.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128832_1_6d45764b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128832",
+        "link": {
+          "title": "Intigriti named new provider for Adobe's Bug Bounty Program",
+          "url": "https://www.intigriti.com/blog/news/intigriti-named-new-provider-for-adobes-bug-bounty-program"
+        }
+      },
+      {
+        "id": 128831,
+        "text": "⤷\nTitle:\nColdcard Entropy Bug: Firmware Flaw Drains $70M in Bitcoin from 1,196 Wallets\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 14:01:03 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\n#Bitcoin\nHack\n#Bitcoin\nTheft\n#Coldcard\n#Coldcard\nMk3\n#Crypto\nSecurity\n#Entropy\nBug\n#Hardware\nWallet\n#Seed\nPhrase",
+        "date": "2026-08-04T16:04:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128831_0_6667c096.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128831_1_b45463fc.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128831",
+        "link": {
+          "title": "Coldcard Entropy Bug: Firmware Flaw Drains $70M in Bitcoin from 1,196 Wallets",
+          "url": "https://meterpreter.org/coldcard-entropy-bug-bitcoin-theft/"
+        }
+      },
+      {
+        "id": 128830,
+        "text": "⤷\nTitle:\nAnalog Devices Data Breach: Stolen Files Disclosed\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 14:32:05 +0000\n════════════════════════\n⌗\nTags:\n#Data\nLeak\n#Analog\nDevices\n#cybersecurity\n#data\nbreach\n#ExfilSquad\n#semiconductor",
+        "date": "2026-08-04T16:04:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128830_0_6667c096.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128830_1_b3da38ca.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128830",
+        "link": {
+          "title": "Analog Devices Data Breach: Stolen Files Disclosed",
+          "url": "https://meterpreter.org/analog-devices-data-breach/"
+        }
+      },
+      {
+        "id": 128829,
+        "text": "⤷\nTitle:\nAI Doxxing Tools: Extremist Forums Automate Harassment\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 14:32:09 +0000\n════════════════════════\n⌗\nTags:\n#Data\nLeak\n#AI\nDoxxing Tools\n#cybersecurity\n#data\nprivacy\n#Open\nMeasures\n#Soyjak\nParty",
+        "date": "2026-08-04T16:04:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128829_0_6667c096.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128829_1_3a9db967.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128829",
+        "link": {
+          "title": "AI Doxxing Tools: Extremist Forums Automate Harassment",
+          "url": "https://meterpreter.org/ai-doxxing-tools/"
+        }
+      },
+      {
+        "id": 128828,
+        "text": "⤷\nTitle:\nMallory Unifies Threat Intelligence, Exposure Context, and Response Into One Architecture for Security Teams\n════════════════════════\n𐀪\nAuthor:\nCyberNewswire\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 15:16:04 +0000\n════════════════════════\n⌗\nTags:\n#Press\nRelease\n#Product\nLaunch",
+        "date": "2026-08-04T16:04:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128828_0_6667c096.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128828_1_7903744e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128828",
+        "link": {
+          "title": "Mallory Unifies Threat Intelligence, Exposure Context, and Response Into One Architecture for Security Teams",
+          "url": "https://hackread.com/mallory-unifies-threat-intelligence-exposure-context-and-response-into-one-architecture-for-security-teams/"
+        }
+      },
+      {
+        "id": 128827,
+        "text": "⤷\nTitle:\nFake Adobe and Zoom Updates Install ScreenConnect for Persistent Remote Access\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 18:41:22 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-08-04T16:04:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128827_0_6667c096.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128827",
+        "link": {
+          "title": "Fake Adobe and Zoom Updates Install ScreenConnect for Persistent Remote Access",
+          "url": "https://thehackernews.com/2026/08/fake-adobe-and-zoom-updates-install.html"
+        }
+      },
+      {
+        "id": 128826,
+        "text": "⤷\nTitle:\nKeyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 19:00:23 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-08-04T16:03:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128826_0_6667c096.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128826",
+        "link": {
+          "title": "Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks",
+          "url": "https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html"
+        }
+      },
+      {
         "id": 128825,
         "text": "⤷\nTitle:\nHow I Got Full RCE (And Accidentally Skipped Two Flags Doing It) — Hacker101 CTF…\n════════════════════════\n𐀪\nAuthor:\nKagan Coskun\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 12:16:21 GMT\n════════════════════════\n⌗\nTags:\n#hacker101\n#ctf\n#ctf_writeup\n#bug_bounty_writeup\n#cybersecurity",
         "date": "2026-08-04T14:05:16+00:00",
@@ -1916,386 +2276,22 @@
           "title": "SakDriver Rootkit: Windows Kernel Malware That Blinds EDR and Hides in the Registry",
           "url": "https://meterpreter.org/sakdriver-windows-kernel-rootkit/"
         }
-      },
-      {
-        "id": 128716,
-        "text": "⤷\nTitle:\nOctLurk and SilkLurk Backdoors Target Central Asia\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 03:55:57 +0000\n════════════════════════\n⌗\nTags:\n#Cyber\nSecurity\n#cybersecurity\n#Espionage\n#malware\nanalysis\n#OctLurk\n#SilkLurk",
-        "date": "2026-08-04T04:03:48+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128716_0_3f16f4a9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128716_1_9ffa38ed.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128716",
-        "link": {
-          "title": "OctLurk and SilkLurk Backdoors Target Central Asia",
-          "url": "https://meterpreter.org/octlurk-and-silklurk-backdoors/"
-        }
-      },
-      {
-        "id": 128715,
-        "text": "⤷\nTitle:\nRethinking CTFs for the Age of AI-Assisted Hacking\n════════════════════════\n𐀪\nAuthor:\neXpl0it_32\n════════════════════════\nⴵ\nTime:\nMon, 03 Aug 2026 19:58:58 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#cybersecurity\n#ctf\n#harness_engineering\n#ai_slop",
-        "date": "2026-08-04T02:04:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128715_0_3f16f4a9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128715_1_a8266ce4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128715",
-        "link": {
-          "title": "Rethinking CTFs for the Age of AI-Assisted Hacking",
-          "url": "https://expl0it32.medium.com/why-ctfs-are-dying-and-what-should-replace-them-642aceebbd94?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 128714,
-        "text": "⤷\nTitle:\nKena Session Cookie Stealer: Reset PC Saja Ternyata Gak Cukup! Ini Langkah Pengamanan yang Benar\n════════════════════════\n𐀪\nAuthor:\nrizko\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 00:01:02 GMT\n════════════════════════\n⌗\nTags:\n#session_hijacking\n#cookies_stealer\n#cookies\n#hacking",
-        "date": "2026-08-04T02:04:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128714_0_3f16f4a9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128714_1_4d244b93.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128714",
-        "link": {
-          "title": "Kena Session Cookie Stealer: Reset PC Saja Ternyata Gak Cukup! Ini Langkah Pengamanan yang Benar",
-          "url": "https://medium.com/@rizkofebry/kena-session-cookie-stealer-reset-pc-saja-ternyata-gak-cukup-ini-langkah-pengamanan-yang-benar-47628b551617?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 128713,
-        "text": "⤷\nTitle:\nBug Bounty #1 — Que tester sur une application web avant même de créer un compte ?\n════════════════════════\n𐀪\nAuthor:\ngngoma\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 01:05:15 GMT\n════════════════════════\n⌗\nTags:\n#pentesting\n#bug_bounty\n#offensive_security",
-        "date": "2026-08-04T02:04:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128713_0_3f16f4a9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128713",
-        "link": {
-          "title": "Bug Bounty #1 — Que tester sur une application web avant même de créer un compte ?",
-          "url": "https://medium.com/@omaymagnoug16/bug-bounty-1-que-tester-sur-une-application-web-avant-m%C3%AAme-de-cr%C3%A9er-un-compte-6b11631fb58b?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 128712,
-        "text": "⤷\nTitle:\nCVE-2026-58048: cPanel Root SQL Execution Flaw Patched\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 01:01:20 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CPanel\n#CVE_2026_58047\n#CVE_2026_58048\n#database\nsecurity\n#http_request_smuggling\n#privilege\nescalation\n#Web\nHosting Security\n#WHM",
-        "date": "2026-08-04T02:03:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128712_0_3f16f4a9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128712_1_28ac64da.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128712",
-        "link": {
-          "title": "CVE-2026-58048: cPanel Root SQL Execution Flaw Patched",
-          "url": "https://securityonline.info/cve-2026-58048-cpanel-root-sql-execution/"
-        }
-      },
-      {
-        "id": 128711,
-        "text": "⤷\nTitle:\nMultiple Apache NiFi Vulnerabilities Fixed in Version 2.11.0\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 01:51:26 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Apache\nNiFi\n#CVE\n#security\npatch",
-        "date": "2026-08-04T02:03:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128711_0_3f16f4a9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128711_1_92f3ab0b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128711",
-        "link": {
-          "title": "Multiple Apache NiFi Vulnerabilities Fixed in Version 2.11.0",
-          "url": "https://securityonline.info/apache-nifi-vulnerabilities/"
-        }
-      },
-      {
-        "id": 128710,
-        "text": "⤷\nTitle:\nTryHackMe Takeover Walkthrough : Learning Subdomain Enumeration Through SSL Certificates\n════════════════════════\n𐀪\nAuthor:\nAbdur Rahman\n════════════════════════\nⴵ\nTime:\nMon, 03 Aug 2026 22:33:12 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#ethical_hacking\n#cybersecurity\n#penetration_testing\n#web_security",
-        "date": "2026-08-04T00:03:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128710_0_3f16f4a9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128710_1_08d70cd4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128710",
-        "link": {
-          "title": "TryHackMe Takeover Walkthrough : Learning Subdomain Enumeration Through SSL Certificates",
-          "url": "https://medium.com/@abdurrahmanbinshaik/tryhackme-takeover-walkthrough-learning-subdomain-enumeration-through-ssl-certificates-e0395f812b3b?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 128709,
-        "text": "⤷\nTitle:\nIf At First You Don’t Succeed: How to Find Bad In the Software Supply Chain\n════════════════════════\n𐀪\nAuthor:\ngrepStrength\n════════════════════════\nⴵ\nTime:\nMon, 03 Aug 2026 22:08:27 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#terraform\n#supply_chain\n#hacking\n#npm",
-        "date": "2026-08-04T00:03:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128709_0_3f16f4a9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128709_1_f72102c2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128709",
-        "link": {
-          "title": "If At First You Don’t Succeed: How to Find Bad In the Software Supply Chain",
-          "url": "https://infosecwriteups.com/if-at-first-you-dont-succeed-how-to-find-bad-in-the-software-supply-chain-692a2a1d2ab6?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 128708,
-        "text": "⤷\nTitle:\nBroken Link Hijacking: How I “Became” a Government Agency on LinkedIn (Legally, Sort Of)\n════════════════════════\n𐀪\nAuthor:\nCazuri\n════════════════════════\nⴵ\nTime:\nMon, 03 Aug 2026 23:39:17 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty",
-        "date": "2026-08-04T00:03:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128708_0_3f16f4a9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128708_1_daf6c203.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128708",
-        "link": {
-          "title": "Broken Link Hijacking: How I “Became” a Government Agency on LinkedIn (Legally, Sort Of)",
-          "url": "https://medium.com/@deathsure445/broken-link-hijacking-how-i-became-a-government-agency-on-linkedin-legally-sort-of-f94f8136220a?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 128707,
-        "text": "⤷\nTitle:\nSublist3r\n════════════════════════\n𐀪\nAuthor:\nOm Barot\n════════════════════════\nⴵ\nTime:\nMon, 03 Aug 2026 20:29:20 GMT\n════════════════════════\n⌗\nTags:\n#subdomain_enumeration\n#kali_linux\n#cybersecurity\n#ethical_hacking\n#osint",
-        "date": "2026-08-03T22:04:31+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128707_0_3f16f4a9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128707_1_3b3b28e7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128707",
-        "link": {
-          "title": "Sublist3r",
-          "url": "https://medium.com/@llombarotll/sublist3r-d9c1c5654df7?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 128706,
-        "text": "⤷\nTitle:\nAD-RTS Exam Walkthrough: From Zero to Domain Admin\n════════════════════════\n𐀪\nAuthor:\nFarid Narimanov\n════════════════════════\nⴵ\nTime:\nMon, 03 Aug 2026 20:31:55 GMT\n════════════════════════\n⌗\nTags:\n#information_security\n#ethical_hacking\n#red_team\n#active_directory\n#cybersecurity",
-        "date": "2026-08-03T22:04:28+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128706_0_3f16f4a9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128706_1_6e979c2f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128706",
-        "link": {
-          "title": "AD-RTS Exam Walkthrough: From Zero to Domain Admin",
-          "url": "https://faridnarimanov.medium.com/ad-rts-exam-walkthrough-from-zero-to-domain-admin-26c7bedc8aec?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 128705,
-        "text": "⤷\nTitle:\nYouTube Channel Growth Guide: 11 New Things YouTube Algorithm Hates and How to Avoid Them\n════════════════════════\n𐀪\nAuthor:\nBigman\n════════════════════════\nⴵ\nTime:\nMon, 03 Aug 2026 21:18:51 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#future_of_work\n#change_your_life\n#usa\n#youtube",
-        "date": "2026-08-03T22:04:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128705_0_3f16f4a9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128705_1_840a66f2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128705",
-        "link": {
-          "title": "YouTube Channel Growth Guide: 11 New Things YouTube Algorithm Hates and How to Avoid Them",
-          "url": "https://medium.com/@bigmanmanman80/youtube-channel-growth-guide-11-new-things-youtube-algorithm-hates-and-how-to-avoid-them-de70e0b869d7?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 128704,
-        "text": "⤷\nTitle:\nTryHackMe Hacker Holidays: Towel on the Sunbed Walkthrough\n════════════════════════\n𐀪\nAuthor:\niamdonu\n════════════════════════\nⴵ\nTime:\nMon, 03 Aug 2026 20:12:00 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#hacker_holidays\n#web_exploitation\n#hacker_holidays_2026\n#burpsuite",
-        "date": "2026-08-03T22:04:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128704_0_3f16f4a9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128704_1_5675575f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128704",
-        "link": {
-          "title": "TryHackMe Hacker Holidays: Towel on the Sunbed Walkthrough",
-          "url": "https://medium.com/@iamdonu1/tryhackme-hacker-holidays-towel-on-the-sunbed-walkthrough-07a203e70f90?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 128703,
-        "text": "⤷\nTitle:\nTryHackMe Hackers Holiday Day 8 Towel on the Sunbed Write-Up | Complete Walkthrough\n════════════════════════\n𐀪\nAuthor:\nKubera Krishna\n════════════════════════\nⴵ\nTime:\nMon, 03 Aug 2026 20:20:06 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#tryhackme_writeup\n#api\n#tryhackme_walkthrough\n#burpsuite",
-        "date": "2026-08-03T22:04:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128703_0_3f16f4a9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128703_1_d6c854dd.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128703",
-        "link": {
-          "title": "TryHackMe Hackers Holiday Day 8 Towel on the Sunbed Write-Up | Complete Walkthrough",
-          "url": "https://medium.com/@KuberaKrishna/tryhackme-hackers-holiday-day-8-towel-on-the-sunbed-write-up-complete-walkthrough-1094270c8373?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 128702,
-        "text": "⤷\nTitle:\nTowel on the Sunbed: A walkthrough of THM Hacker Holidays - Day 8\n════════════════════════\n𐀪\nAuthor:\nKareem Mohamed (0xY0K4_CL4W )\n════════════════════════\nⴵ\nTime:\nMon, 03 Aug 2026 20:29:45 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_walkthrough\n#hacker_holidays_2026\n#ctf\n#tryhackme\n#cybersecurity",
-        "date": "2026-08-03T22:04:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128702_0_3f16f4a9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128702_1_183f2d04.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128702",
-        "link": {
-          "title": "Towel on the Sunbed: A walkthrough of THM Hacker Holidays - Day 8",
-          "url": "https://medium.com/@KMBkareem/towel-on-the-sunbed-a-walkthrough-of-thm-hacker-holidays-day-8-87e9a45342c0?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 128701,
-        "text": "⤷\nTitle:\nTowel on the Sunbed TryHackMe Walkthrough\n════════════════════════\n𐀪\nAuthor:\nCrystalcascade14\n════════════════════════\nⴵ\nTime:\nMon, 03 Aug 2026 20:45:34 GMT\n════════════════════════\n⌗\nTags:\n#hacker_holidays_2026\n#tryhackme_walkthrough\n#race_condition\n#tryhackme_writeup\n#tryhackme",
-        "date": "2026-08-03T22:04:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128701_0_3f16f4a9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128701_1_08198827.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128701",
-        "link": {
-          "title": "Towel on the Sunbed TryHackMe Walkthrough",
-          "url": "https://crystalcascade14.medium.com/towel-on-sunbed-tryhackme-walkthrough-23444dd3e24e?source=rss------tryhackme-5"
-        }
       }
     ]
   },
-  "last_update": "2026-08-04T14:58:05.162579+00:00",
+  "last_update": "2026-08-04T16:55:30.599913+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 195,
-    "total_files": 195,
+    "total_media": 194,
+    "total_files": 194,
     "total_links": 0,
     "files_by_type": {
-      "image": 195
+      "image": 194
     },
-    "referenced_files": 195,
-    "existing_media_files": 195,
-    "total_size_mb": 5.18,
-    "last_calculation": "2026-08-04T14:58:05.164985+00:00"
+    "referenced_files": 194,
+    "existing_media_files": 194,
+    "total_size_mb": 5.2,
+    "last_calculation": "2026-08-04T16:55:30.602403+00:00"
   }
 }
