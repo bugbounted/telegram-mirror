@@ -2,6 +2,213 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 128894,
+        "text": "⤷\nTitle:\n(New) Active Directory Basics Tryhackme Walkthrough\n════════════════════════\n𐀪\nAuthor:\nUros Ivankovic\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 22:06:47 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#tryhackme_walkthrough",
+        "date": "2026-08-05T00:04:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128894_0_6667c096.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128894_1_4ec06913.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128894",
+        "link": {
+          "title": "(New) Active Directory Basics Tryhackme Walkthrough",
+          "url": "https://medium.com/@uros.ivankovic.05/new-active-directory-basics-tryhackme-walkthrough-2810245a0849?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 128893,
+        "text": "⤷\nTitle:\nHow I Went from a 12-Year-Old Hacker to Securing India’s Critical Infrastructure\n════════════════════════\n𐀪\nAuthor:\nKrishna Sharma\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 22:29:55 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#penetration_testing\n#self_improvement\n#technology\n#inspiration",
+        "date": "2026-08-05T00:04:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128893_0_6667c096.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128893_1_baf17bb2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128893",
+        "link": {
+          "title": "How I Went from a 12-Year-Old Hacker to Securing India’s Critical Infrastructure",
+          "url": "https://medium.com/@krishnasharma14/how-i-went-from-a-12-year-old-hacker-to-securing-indias-critical-infrastructure-a532f7aea8d9?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 128892,
+        "text": "⤷\nTitle:\nVeeam Service Provider Console Flaws Enable Credential Theft and Remote Code Execution\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 02:44:04 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Credential\nTheft\n#CVE_2026_58072\n#CVE_2026_58073\n#MSP\nSecurity\n#Remote\nCode Execution\n#Veeam\n#Veeam\nService Provider Console\n#VSPC\n#Vulnerability",
+        "date": "2026-08-05T00:04:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128892_0_6667c096.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128892_1_cfadd10a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128892",
+        "link": {
+          "title": "Veeam Service Provider Console Flaws Enable Credential Theft and Remote Code Execution",
+          "url": "https://securityonline.info/veeam-vspc-cve-2026-58073/"
+        }
+      },
+      {
+        "id": 128891,
+        "text": "⤷\nTitle:\nTerraform MCP Server Flaw CVE-2026-16498 Scores CVSS 10.0\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 14:11:25 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_14869\n#CVE_2026_16496\n#CVE_2026_16498\n#HashiCorp\n#MCP\nSecurity\n#Terraform\nMCP Server",
+        "date": "2026-08-05T00:04:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128891_0_6667c096.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128891_1_b765aa50.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128891",
+        "link": {
+          "title": "Terraform MCP Server Flaw CVE-2026-16498 Scores CVSS 10.0",
+          "url": "https://securityonline.info/terraform-mcp-cve-2026-16498/"
+        }
+      },
+      {
+        "id": 128890,
+        "text": "⤷\nTitle:\nnpm Supply Chain Attack Hijacks Keyv and Spreads Shai-Hulud Malware\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 14:12:20 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#cacheable\n#CI\n/CD security\n#credential\nstealer\n#keyv\n#npm\n#Shai_Hulud\n#Software\nSupply Chain\n#supply\nchain attack",
+        "date": "2026-08-05T00:04:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128890_0_6667c096.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128890_1_b304328e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128890",
+        "link": {
+          "title": "npm Supply Chain Attack Hijacks Keyv and Spreads Shai-Hulud Malware",
+          "url": "https://securityonline.info/npm-supply-chain-attack-keyv-shai-hulud/"
+        }
+      },
+      {
+        "id": 128889,
+        "text": "⤷\nTitle:\nPre-Auth Stack Buffer Overflow Hits Xlight FTP Server (CVE-2026-67192)\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 15:00:23 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#buffer\noverflow\n#CVE_2026_67191\n#CVE_2026_67192\n#CVE_2026_67193\n#pre_authentication\n#Xlight\nFTP Server",
+        "date": "2026-08-05T00:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128889_0_6667c096.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128889_1_7cdd89fc.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128889",
+        "link": {
+          "title": "Pre-Auth Stack Buffer Overflow Hits Xlight FTP Server (CVE-2026-67192)",
+          "url": "https://securityonline.info/xlight-ftp-cve-2026-67192/"
+        }
+      },
+      {
+        "id": 128888,
+        "text": "⤷\nTitle:\nMallory Unifies Threat Intelligence, Exposure Context, and Response Into One Architecture for Security Teams\n════════════════════════\n𐀪\nAuthor:\ncybernewswire\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 15:15:29 +0000\n════════════════════════\n⌗\nTags:\n#Press\nRelease",
+        "date": "2026-08-05T00:03:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128888_0_6667c096.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128888_1_93fd2aa6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128888",
+        "link": {
+          "title": "Mallory Unifies Threat Intelligence, Exposure Context, and Response Into One Architecture for Security Teams",
+          "url": "https://securityonline.info/mallory-unifies-threat-intelligence-exposure-context-and-response-into-one-architecture-for-security-teams/"
+        }
+      },
+      {
+        "id": 128887,
+        "text": "⤷\nTitle:\nVeeam ONE CVE-2026-64633 Enables Unauthenticated Remote Code Execution at CVSS 10.0\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 15:35:40 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_64633\n#CVSS\n10\n#patch\n#rce\n#Remote\nCode Execution\n#Veeam\n#Veeam\nONE\n#Vulnerability",
+        "date": "2026-08-05T00:03:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128887_0_6667c096.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128887_1_e5916582.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128887",
+        "link": {
+          "title": "Veeam ONE CVE-2026-64633 Enables Unauthenticated Remote Code Execution at CVSS 10.0",
+          "url": "https://securityonline.info/veeam-one-cve-2026-64633-rce/"
+        }
+      },
+      {
+        "id": 128886,
+        "text": "⤷\nTitle:\nAirlock Digital Unveils Agentic AI Control & Governance to Extend Preventative Endpoint Security\n════════════════════════\n𐀪\nAuthor:\ncybernewswire\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 16:30:33 +0000\n════════════════════════\n⌗\nTags:\n#Press\nRelease",
+        "date": "2026-08-05T00:03:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128886_0_6667c096.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_128886_1_57848aa2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/128886",
+        "link": {
+          "title": "Airlock Digital Unveils Agentic AI Control & Governance to Extend Preventative Endpoint Security",
+          "url": "https://securityonline.info/airlock-digital-unveils-agentic-ai-control-governance-to-extend-preventative-endpoint-security/"
+        }
+      },
+      {
         "id": 128885,
         "text": "⤷\nTitle:\nHighest Paying Cybersecurity Jobs in the World (2026 Guide)\n════════════════════════\n𐀪\nAuthor:\nmiaztechacademy\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 20:48:53 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ethical_hacking",
         "date": "2026-08-04T22:04:20+00:00",
@@ -2061,217 +2268,10 @@
           "title": "HTB Forest — Walkthrough by InferiorAK",
           "url": "https://osintteam.blog/htb-forest-walkthrough-by-inferiorak-e943f1614856?source=rss------penetration_testing-5"
         }
-      },
-      {
-        "id": 128772,
-        "text": "⤷\nTitle:\nI Found a Client’s Admin Panel on Shodan in 30 Seconds — Here’s What Every Engineer Needs to Know\n════════════════════════\n𐀪\nAuthor:\nMohan Sai Krishna G M\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 09:21:16 GMT\n════════════════════════\n⌗\nTags:\n#reconnaissance\n#cybersecurity\n#penetration_testing\n#technology",
-        "date": "2026-08-04T10:04:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128772_0_6667c096.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128772_1_ad363703.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128772",
-        "link": {
-          "title": "I Found a Client’s Admin Panel on Shodan in 30 Seconds — Here’s What Every Engineer Needs to Know",
-          "url": "https://meetcyber.net/i-found-a-clients-admin-panel-on-shodan-in-30-seconds-here-s-what-every-engineer-needs-to-know-170c303b636d?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 128771,
-        "text": "⤷\nTitle:\nHow I Built an App to Beat Blinkit To Limited Edition HotWheels\n════════════════════════\n𐀪\nAuthor:\nMishraprashant\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 09:31:42 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#artificial_intelligence\n#cybersecurity\n#programming\n#reverse_engineering",
-        "date": "2026-08-04T10:04:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128771_0_6667c096.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128771_1_e5a4b33e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128771",
-        "link": {
-          "title": "How I Built an App to Beat Blinkit To Limited Edition HotWheels",
-          "url": "https://ichbinprashant.medium.com/how-i-built-an-app-to-beat-blinkit-to-limited-edition-hotwheels-beae7f1033ae?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 128770,
-        "text": "⤷\nTitle:\nThe 0.5 Second Delay That Almost Broke the Internet\n════════════════════════\n𐀪\nAuthor:\nMuhammad Shehroz\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 09:34:14 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#cybersecurity",
-        "date": "2026-08-04T10:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128770_0_6667c096.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128770_1_da0d775e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128770",
-        "link": {
-          "title": "The 0.5 Second Delay That Almost Broke the Internet",
-          "url": "https://imuhammadshehroz.medium.com/the-0-5-second-delay-that-almost-broke-the-internet-39a5d9db7880?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 128769,
-        "text": "⤷\nTitle:\nSecurity Thinking from Day One — Why AI-generated applications increase risk surfaces\n════════════════════════\n𐀪\nAuthor:\nMark W.\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 08:58:25 GMT\n════════════════════════\n⌗\nTags:\n#secure_coding\n#backend_development\n#cybersecurity\n#artificial_intelligence\n#application_security",
-        "date": "2026-08-04T10:03:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128769_0_6667c096.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128769_1_bd00be2d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128769",
-        "link": {
-          "title": "Security Thinking from Day One — Why AI-generated applications increase risk surfaces",
-          "url": "https://medium.com/@mark.w.1987/security-thinking-from-day-one-why-ai-generated-applications-increase-risk-surfaces-cdfbd5b45493?source=rss------application_security-5"
-        }
-      },
-      {
-        "id": 128768,
-        "text": "⤷\nTitle:\nTryHackMe — Towel on the Sunbed —Hacker Holidays Day 8\n════════════════════════\n𐀪\nAuthor:\nUfuk Yaman\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 09:48:48 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#application_security\n#burpsuite\n#hacker\n#security",
-        "date": "2026-08-04T10:03:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128768_0_6667c096.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128768_1_11a2b5c5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128768",
-        "link": {
-          "title": "TryHackMe — Towel on the Sunbed —Hacker Holidays Day 8",
-          "url": "https://medium.com/@ufukyaman2004/tryhackme-towel-on-the-sunbed-hacker-holidays-day-8-7b85fc3d20d7?source=rss------application_security-5"
-        }
-      },
-      {
-        "id": 128767,
-        "text": "⤷\nTitle:\nCanonically Yours — Intigriti July 2026 Challenge (0726)\n════════════════════════\n𐀪\nAuthor:\nMir Shan Talpur\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 08:14:11 GMT\n════════════════════════\n⌗\nTags:\n#web_security\n#bug_bounty\n#ctf_writeup\n#infosec\n#cybersecurity",
-        "date": "2026-08-04T10:03:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128767_0_6667c096.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128767_1_87760d56.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128767",
-        "link": {
-          "title": "Canonically Yours — Intigriti July 2026 Challenge (0726)",
-          "url": "https://medium.com/@shaniidev/canonically-yours-intigriti-july-2026-challenge-0726-52efa6ccb98b?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 128766,
-        "text": "⤷\nTitle:\nTowel on the Sunbed — TryHackMe Hacker Holidays Day 8 Walkthrough\n════════════════════════\n𐀪\nAuthor:\nAbishek kumar\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 06:25:05 GMT\n════════════════════════\n⌗\nTags:\n#day_8_hacker_holidays\n#towel_on_the_sunbed\n#tryhackme\n#tryhackme_walkthrough\n#hacker_holidays_2026",
-        "date": "2026-08-04T08:05:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128766_0_6667c096.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128766_1_2300e0c5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128766",
-        "link": {
-          "title": "Towel on the Sunbed — TryHackMe Hacker Holidays Day 8 Walkthrough",
-          "url": "https://medium.com/@abishektechy/towel-on-the-sunbed-tryhackme-hacker-holidays-day-8-walkthrough-59492fc87518?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 128765,
-        "text": "⤷\nTitle:\nThe Concierge Knows Too Much CTF Walkthrough (TryHackMe)\n════════════════════════\n𐀪\nAuthor:\nVanessa3\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 06:31:41 GMT\n════════════════════════\n⌗\nTags:\n#aisec\n#ctf\n#ethical_hacking\n#tryhackme\n#prompt_injection_attack",
-        "date": "2026-08-04T08:05:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128765_0_6667c096.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128765_1_dfb2feed.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128765",
-        "link": {
-          "title": "The Concierge Knows Too Much CTF Walkthrough (TryHackMe)",
-          "url": "https://medium.com/@Vanessa056/the-concierge-knows-too-much-ctf-walkthrough-tryhackme-2e7fe79b9c5b?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 128764,
-        "text": "⤷\nTitle:\nComplimentary\n════════════════════════\n𐀪\nAuthor:\nHarshikachauhan\n════════════════════════\nⴵ\nTime:\nTue, 04 Aug 2026 06:41:23 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme",
-        "date": "2026-08-04T08:05:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128764_0_6667c096.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128764_1_f60c4b1e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128764",
-        "link": {
-          "title": "Complimentary",
-          "url": "https://medium.com/@harshikachauhan78/complimentary-a1bd914e289c?source=rss------tryhackme-5"
-        }
       }
     ]
   },
-  "last_update": "2026-08-04T23:53:27.345221+00:00",
+  "last_update": "2026-08-05T01:18:37.362034+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2283,7 +2283,7 @@
     },
     "referenced_files": 192,
     "existing_media_files": 192,
-    "total_size_mb": 5.26,
-    "last_calculation": "2026-08-04T23:53:27.347775+00:00"
+    "total_size_mb": 5.21,
+    "last_calculation": "2026-08-05T01:18:37.363185+00:00"
   }
 }
