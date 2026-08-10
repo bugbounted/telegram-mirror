@@ -2,6 +2,301 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 129350,
+        "text": "⤷\nTitle:\nFinding the Administrator’s Password: My Walkthrough of Two SQL Injection UNION Attack Labs\n════════════════════════\n𐀪\nAuthor:\nShamaym Asim\n════════════════════════\nⴵ\nTime:\nMon, 10 Aug 2026 18:09:09 GMT\n════════════════════════\n⌗\nTags:\n#postswigger_lab_6\n#sql_injection\n#postswigger_lab_5\n#postswigger_labs",
+        "date": "2026-08-10T20:04:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129350_0_038e88b3.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129350_1_2a1f381d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129350",
+        "link": {
+          "title": "Finding the Administrator’s Password: My Walkthrough of Two SQL Injection UNION Attack Labs",
+          "url": "https://medium.com/@shamaym.asim/finding-the-administrators-password-my-walkthrough-of-two-sql-injection-union-attack-labs-a9e4df4fdd49?source=rss------sql_injection-5"
+        }
+      },
+      {
+        "id": 129349,
+        "text": "⤷\nTitle:\nAn Evolution in HTTP: The QUERY Method\n════════════════════════\n𐀪\nAuthor:\nPriOFF\n════════════════════════\nⴵ\nTime:\nMon, 10 Aug 2026 19:49:42 GMT\n════════════════════════\n⌗\nTags:\n#information_security\n#web_security\n#api_security\n#https\n#cybersecurity",
+        "date": "2026-08-10T20:04:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129349_0_038e88b3.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129349_1_3d25acb1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129349",
+        "link": {
+          "title": "An Evolution in HTTP: The QUERY Method",
+          "url": "https://prioff.medium.com/an-evolution-in-http-the-query-method-eb4442643120?source=rss------api_security-5"
+        }
+      },
+      {
+        "id": 129348,
+        "text": "⤷\nTitle:\nM365 Monitoring Basics\n════════════════════════\n𐀪\nAuthor:\nAbass Kargbo\n════════════════════════\nⴵ\nTime:\nMon, 10 Aug 2026 18:28:06 GMT\n════════════════════════\n⌗\nTags:\n#m365_monitoring_basics\n#tryhackme\n#microsoft_365_for_soc",
+        "date": "2026-08-10T20:04:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129348_0_038e88b3.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129348_1_bcf3d9ad.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129348",
+        "link": {
+          "title": "M365 Monitoring Basics",
+          "url": "https://medium.com/@akargbo4265/m365-monitoring-basics-1b26d3e643de?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 129347,
+        "text": "⤷\nTitle:\nTryHackMe — Hacker Holidays: Management Wants a Word (Day 14)\n════════════════════════\n𐀪\nAuthor:\nSuraj\n════════════════════════\nⴵ\nTime:\nMon, 10 Aug 2026 18:31:04 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ctf\n#windows\n#tryhackme\n#digital_forensics",
+        "date": "2026-08-10T20:04:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129347_0_038e88b3.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129347_1_72f2237a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129347",
+        "link": {
+          "title": "TryHackMe — Hacker Holidays: Management Wants a Word (Day 14)",
+          "url": "https://medium.com/@surajprasadrout/tryhackme-hacker-holidays-management-wants-a-word-day-14-f3848407687b?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 129346,
+        "text": "⤷\nTitle:\nTryHackMe — After Hours: Finding a Backdoor Hidden in Plain Sight\n════════════════════════\n𐀪\nAuthor:\nPriyanshu Manash\n════════════════════════\nⴵ\nTime:\nMon, 10 Aug 2026 19:57:51 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#after_hours",
+        "date": "2026-08-10T20:04:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129346_0_038e88b3.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129346_1_869dc044.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129346",
+        "link": {
+          "title": "TryHackMe — After Hours: Finding a Backdoor Hidden in Plain Sight",
+          "url": "https://medium.com/@priyanshumanash1/tryhackme-after-hours-finding-a-backdoor-hidden-in-plain-sight-926f359f20dc?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 129345,
+        "text": "⤷\nTitle:\nLinux Privilege Escalation — Exploiting Misconfigured Cron Jobs | By Dharavath Nagaraju\n════════════════════════\n𐀪\nAuthor:\nDharavathnagaraju\n════════════════════════\nⴵ\nTime:\nMon, 10 Aug 2026 19:10:43 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#privilege_escalation\n#penetration_testing\n#thm_writeup\n#cronjob",
+        "date": "2026-08-10T20:04:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129345_0_038e88b3.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129345_1_311a994f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129345",
+        "link": {
+          "title": "Linux Privilege Escalation — Exploiting Misconfigured Cron Jobs | By Dharavath Nagaraju",
+          "url": "https://medium.com/@dharavathnagaraju2973/linux-privilege-escalation-exploiting-misconfigured-cron-jobs-by-dharavath-nagaraju-3a8907e631f3?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 129344,
+        "text": "⤷\nTitle:\nBeyond the VPN: How Windows’ Hidden Device Identifier Is Challenging the Meaning of Online Privacy.\n════════════════════════\n𐀪\nAuthor:\neL Njas!\n™\n════════════════════════\nⴵ\nTime:\nMon, 10 Aug 2026 18:29:30 GMT\n════════════════════════\n⌗\nTags:\n#vpn\n#privacy\n#infosec",
+        "date": "2026-08-10T20:04:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129344_0_038e88b3.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129344_1_687fa467.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129344",
+        "link": {
+          "title": "Beyond the VPN: How Windows’ Hidden Device Identifier Is Challenging the Meaning of Online Privacy.",
+          "url": "https://medium.com/@elnjasi/beyond-the-vpn-how-windows-hidden-device-identifier-is-challenging-the-meaning-of-online-privacy-353f3ec1a97c?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 129343,
+        "text": "⤷\nTitle:\nHP ThinPro TPM Encryption Flaw: How Physical Access Can Unlock \"Secure\" Thin Clients\n════════════════════════\n𐀪\nAuthor:\nXpert4Cyber\n════════════════════════\nⴵ\nTime:\nMon, 10 Aug 2026 18:35:07 GMT\n════════════════════════\n⌗\nTags:\n#linux\n#encryption\n#infosec\n#vulnerability\n#cybersecurity",
+        "date": "2026-08-10T20:04:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129343_0_038e88b3.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129343_1_eab94742.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129343",
+        "link": {
+          "title": "HP ThinPro TPM Encryption Flaw: How Physical Access Can Unlock \"Secure\" Thin Clients",
+          "url": "https://medium.com/@xpert4cyber/hp-thinpro-tpm-encryption-flaw-how-physical-access-can-unlock-secure-thin-clients-7ee60ec62c6c?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 129342,
+        "text": "⤷\nTitle:\nPracticing Classic Web Shell Exploitation (HTB Writeup)\n════════════════════════\n𐀪\nAuthor:\nEmircan Altuntaş\n════════════════════════\nⴵ\nTime:\nMon, 10 Aug 2026 19:15:39 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#hacking\n#webshell\n#hackthebox",
+        "date": "2026-08-10T20:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129342_0_038e88b3.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129342_1_b1b4f835.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129342",
+        "link": {
+          "title": "Practicing Classic Web Shell Exploitation (HTB Writeup)",
+          "url": "https://medium.com/@emircannaltuntas/practicing-classic-web-shell-exploitation-htb-writeup-7e8dcfbe7887?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 129341,
+        "text": "⤷\nTitle:\nThe Sphere, DEF CON, and a 72-Year-Old Who Wanted to See The Wizard of Oz\n════════════════════════\n𐀪\nAuthor:\nLen Noe\n════════════════════════\nⴵ\nTime:\nMon, 10 Aug 2026 19:29:49 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#accessibility\n#hacking\n#technology\n#defcon",
+        "date": "2026-08-10T20:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129341_0_038e88b3.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129341_1_f0f741c9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129341",
+        "link": {
+          "title": "The Sphere, DEF CON, and a 72-Year-Old Who Wanted to See The Wizard of Oz",
+          "url": "https://medium.com/@len213noe/the-sphere-def-con-and-a-72-year-old-who-wanted-to-see-the-wizard-of-oz-ea0d83da4788?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 129340,
+        "text": "⤷\nTitle:\nThe Proud Parents of Rogue AI’s\n════════════════════════\n𐀪\nAuthor:\nGary Angel\n════════════════════════\nⴵ\nTime:\nMon, 10 Aug 2026 19:59:34 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#openai\n#ai\n#hacking\n#artificial_intelligence",
+        "date": "2026-08-10T20:03:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129340_0_038e88b3.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129340_1_ed5a83f3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129340",
+        "link": {
+          "title": "The Proud Parents of Rogue AI’s",
+          "url": "https://medium.com/ai-ai-oh/the-proud-parents-of-rogue-ais-d97c9d795fb2?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 129339,
+        "text": "⤷\nTitle:\nDarkSword iOS Exploit Kit: Kaynak Kodlarıyla Adım Adım Teknik Analiz\n════════════════════════\n𐀪\nAuthor:\nAkıner Kısa\n════════════════════════\nⴵ\nTime:\nMon, 10 Aug 2026 18:24:32 GMT\n════════════════════════\n⌗\nTags:\n#software_development\n#application_security\n#cybersecurity\n#siber_guvenlik\n#exploitation",
+        "date": "2026-08-10T20:03:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129339_0_038e88b3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129339",
+        "link": {
+          "title": "DarkSword iOS Exploit Kit: Kaynak Kodlarıyla Adım Adım Teknik Analiz",
+          "url": "https://akiner.medium.com/darksword-ios-exploit-kit-kaynak-kodlar%C4%B1yla-ad%C4%B1m-ad%C4%B1m-teknik-analiz-695e3822d33a?source=rss------application_security-5"
+        }
+      },
+      {
+        "id": 129338,
+        "text": "⤷\nTitle:\nDEF CON 34: Where AppSec, AI, and Bug Bounty Are Colliding\n════════════════════════\n𐀪\nAuthor:\nGeo De Leon\n════════════════════════\nⴵ\nTime:\nMon, 10 Aug 2026 18:04:35 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#defcon\n#bug_bounty\n#artificial_intelligence\n#application_security",
+        "date": "2026-08-10T20:03:46+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129338_0_038e88b3.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129338_1_513e2546.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129338",
+        "link": {
+          "title": "DEF CON 34: Where AppSec, AI, and Bug Bounty Are Colliding",
+          "url": "https://medium.com/@gilberto.deleon18/def-con-34-where-appsec-ai-and-bug-bounty-are-colliding-5f930c15fc72?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 129337,
         "text": "⤷\nTitle:\nDay 26: Microsoft Sentinel Watchlists — Adding Context to Security Detections\n════════════════════════\n𐀪\nAuthor:\nSIAM AHMED\n════════════════════════\nⴵ\nTime:\nMon, 10 Aug 2026 16:30:14 GMT\n════════════════════════\n⌗\nTags:\n#microsoft_azure\n#cybersecurity\n#soc_analyst\n#ethical_hacking\n#deep_learning",
         "date": "2026-08-10T18:04:55+00:00",
@@ -1961,321 +2256,22 @@
           "title": "Prompt Injection to Account Takeover: A Full Walkthrough Against a Vulnerable AI Support Agent",
           "url": "https://infosecwriteups.com/prompt-injection-to-account-takeover-a-full-walkthrough-against-a-vulnerable-ai-support-agent-4f0d43265587?source=rss------hacking-5"
         }
-      },
-      {
-        "id": 129250,
-        "text": "⤷\nTitle:\nThe USB Drive That Can Kill Your Computer\n════════════════════════\n𐀪\nAuthor:\nJerin Kunjumon\n════════════════════════\nⴵ\nTime:\nMon, 10 Aug 2026 05:39:05 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#security\n#technology",
-        "date": "2026-08-10T06:04:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129250_0_038e88b3.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129250_1_3bae2016.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129250",
-        "link": {
-          "title": "The USB Drive That Can Kill Your Computer",
-          "url": "https://medium.com/@jkjerry/the-usb-drive-that-can-kill-your-computer-111fac71de06?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 129249,
-        "text": "⤷\nTitle:\nCom Olho and the Future of Bug Bounty in India: Why We Need to Stop Eating Our Own\n════════════════════════\n𐀪\nAuthor:\nRaunak Gupta Aka B1scuit\n════════════════════════\nⴵ\nTime:\nMon, 10 Aug 2026 04:24:55 GMT\n════════════════════════\n⌗\nTags:\n#coding\n#programming\n#bug_bounty\n#ai\n#hacking",
-        "date": "2026-08-10T06:03:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129249_0_038e88b3.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129249_1_dd87c89a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129249",
-        "link": {
-          "title": "Com Olho and the Future of Bug Bounty in India: Why We Need to Stop Eating Our Own",
-          "url": "https://medium.com/@RaunakGupta1922/com-olho-and-the-future-of-bug-bounty-in-india-why-we-need-to-stop-eating-our-own-2db1e50ef930?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 129248,
-        "text": "⤷\nTitle:\nWeekly CVE Report: 6 Actively Exploited Flaws and 1,877 New CVEs\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 10 Aug 2026 05:06:29 +0000\n════════════════════════\n⌗\nTags:\n#Weekly\nRecap\n#Actively\nExploited\n#CISA\nKEV\n#N_able\nN_central\n#patch\nmanagement\n#Weekly\nCVE Report",
-        "date": "2026-08-10T06:03:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129248_0_038e88b3.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129248_1_2ab8e3fe.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129248",
-        "link": {
-          "title": "Weekly CVE Report: 6 Actively Exploited Flaws and 1,877 New CVEs",
-          "url": "https://securityonline.info/weekly-cve-report-august-2026/"
-        }
-      },
-      {
-        "id": 129247,
-        "text": "⤷\nTitle:\nHow Scammers Know Your Name, Job and Location Before Calling You\n════════════════════════\n𐀪\nAuthor:\nmrwhite18\n════════════════════════\nⴵ\nTime:\nMon, 10 Aug 2026 02:38:11 GMT\n════════════════════════\n⌗\nTags:\n#digital_footprint\n#hacking\n#ethical_hacking\n#scammer\n#hacking_techniques",
-        "date": "2026-08-10T04:03:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129247_0_b1d24e01.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129247_1_aa2b976e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129247",
-        "link": {
-          "title": "How Scammers Know Your Name, Job and Location Before Calling You",
-          "url": "https://medium.com/@thams-thamaraiselvam/how-scammers-know-your-name-job-and-location-before-calling-you-606a106cd06c?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 129246,
-        "text": "⤷\nTitle:\nSplunk Search Processing Language (SPL) Cheatsheet\n════════════════════════\n𐀪\nAuthor:\nZein Al-Ali\n════════════════════════\nⴵ\nTime:\nMon, 10 Aug 2026 01:34:02 GMT\n════════════════════════\n⌗\nTags:\n#blue_team\n#lets_defend\n#splunk\n#tryhackme\n#soc_analyst",
-        "date": "2026-08-10T02:05:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129246_0_b1d24e01.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129246_1_fabe1524.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129246",
-        "link": {
-          "title": "Splunk Search Processing Language (SPL) Cheatsheet",
-          "url": "https://medium.com/@zeinalali/splunk-search-processing-language-spl-cheatsheet-840f5beebcb4?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 129245,
-        "text": "⤷\nTitle:\nRemote Command Trojans/Remote Access Trojans (RATs) - At Smatchoicehackers.com\n════════════════════════\n𐀪\nAuthor:\nCampbell Joe\n════════════════════════\nⴵ\nTime:\nMon, 10 Aug 2026 00:26:26 GMT\n════════════════════════\n⌗\nTags:\n#trojan\n#cyber_threat_intelligence\n#network_security\n#infosec\n#cybersecurity",
-        "date": "2026-08-10T02:05:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129245_0_b1d24e01.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129245_1_41dbf26a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129245",
-        "link": {
-          "title": "Remote Command Trojans/Remote Access Trojans (RATs) - At Smatchoicehackers.com",
-          "url": "https://medium.com/@campbelljoee22/remote-command-trojans-remote-access-trojans-rats-at-smatchoicehackers-com-c308ba509248?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 129244,
-        "text": "⤷\nTitle:\nI Followed Those Weird YouTube Spam Bots. Here’s Where They Actually Go\n════════════════════════\n𐀪\nAuthor:\nMysterious Immature\n════════════════════════\nⴵ\nTime:\nMon, 10 Aug 2026 01:09:35 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#cybercrime\n#security\n#infosec",
-        "date": "2026-08-10T02:05:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129244_0_b1d24e01.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129244_1_b4be7dd0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129244",
-        "link": {
-          "title": "I Followed Those Weird YouTube Spam Bots. Here’s Where They Actually Go",
-          "url": "https://medium.com/@MysteriousImmature/i-followed-those-weird-youtube-spam-bots-heres-where-they-actually-go-7023ff100c13?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 129243,
-        "text": "⤷\nTitle:\nNetworking Part-2\n════════════════════════\n𐀪\nAuthor:\nHrikved Paul\n════════════════════════\nⴵ\nTime:\nMon, 10 Aug 2026 00:06:01 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#soc\n#cybersecurity\n#soc_analyst\n#infosec",
-        "date": "2026-08-10T02:05:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129243_0_b1d24e01.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129243_1_6e3631cf.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129243",
-        "link": {
-          "title": "Networking Part-2",
-          "url": "https://medium.com/@hrikved03/networking-part-2-d0f7560a031b?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 129242,
-        "text": "⤷\nTitle:\nCVE-2026-64561: Zapscape KVM Escape Runs Commands With Kernel Root Privilege, PoC Exploit Code Publicly Disclosed\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 07 Aug 2026 02:04:24 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_64561\n#guest_to_host\nescape\n#KVM\n#Linux\nKernel\n#use\nafter free\n#virtualization\n#Zapscape",
-        "date": "2026-08-10T02:04:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129242_0_b1d24e01.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129242_1_5d1e4d85.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129242",
-        "link": {
-          "title": "CVE-2026-64561: Zapscape KVM Escape Runs Commands With Kernel Root Privilege, PoC Exploit Code Publicly Disclosed",
-          "url": "https://securityonline.info/kvm-escape-vulnerability-zapscape/"
-        }
-      },
-      {
-        "id": 129241,
-        "text": "⤷\nTitle:\nCVE-2026-66747: Zbtlink Router Backdoor ENDLESSDOORS Enables Unauthenticated Remote Code Execution as Root\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 07 Aug 2026 02:30:07 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_66747\n#ENDLESSDOORS\n#IOT\n#OpenWrt\n#router\nbackdoor\n#ZBT\n#Zbtlink",
-        "date": "2026-08-10T02:04:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129241_0_b1d24e01.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129241_1_45ef5c02.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129241",
-        "link": {
-          "title": "CVE-2026-66747: Zbtlink Router Backdoor ENDLESSDOORS Enables Unauthenticated Remote Code Execution as Root",
-          "url": "https://securityonline.info/zbtlink-router-backdoor/"
-        }
-      },
-      {
-        "id": 129240,
-        "text": "⤷\nTitle:\nKimi K3 Sandbox Escape: Open AI Model Breaks Out of Isolated Test Environment\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 07 Aug 2026 03:25:36 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#AI\nAgent Security\n#AI\nRisk\n#Cybersecurity\nAI\n#Frontier\nSecurity\n#Kimi\nK3\n#Open\nModel Security\n#Red\nTeam AI\n#Sandbox\nEscape",
-        "date": "2026-08-10T02:04:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129240_0_b1d24e01.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129240_1_f8d282b8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129240",
-        "link": {
-          "title": "Kimi K3 Sandbox Escape: Open AI Model Breaks Out of Isolated Test Environment",
-          "url": "https://securityonline.info/kimi-k3-sandbox-escape-open-ai-model/"
-        }
-      },
-      {
-        "id": 129239,
-        "text": "⤷\nTitle:\nAstaroth WhatsApp Spambot Turns Brazil Victims Into Unwitting Malware Distributors\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 07 Aug 2026 06:30:05 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#Astaroth\n#Brazil\nBanking Trojan\n#CrowdStrike\n#Guildma\n#LATAM\neCrime\n#Spambot\n#Vareg\n#WhatsApp\nMalware",
-        "date": "2026-08-10T02:04:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129239_0_b1d24e01.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129239_1_d102f44c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129239",
-        "link": {
-          "title": "Astaroth WhatsApp Spambot Turns Brazil Victims Into Unwitting Malware Distributors",
-          "url": "https://securityonline.info/astaroth-whatsapp-spambot/"
-        }
-      },
-      {
-        "id": 129238,
-        "text": "⤷\nTitle:\nRogue AI Models Hack Systems to Cheat Evaluations\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 07 Aug 2026 06:58:06 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#AI\nAgents\n#Anthropic\n#artificial\nintelligence\n#cybersecurity\n#Meta\nAI\n#OpenAI",
-        "date": "2026-08-10T02:04:46+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129238_0_b1d24e01.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129238_1_aaef4b70.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129238",
-        "link": {
-          "title": "Rogue AI Models Hack Systems to Cheat Evaluations",
-          "url": "https://securityonline.info/rogue-ai-models-hack-systems/"
-        }
       }
     ]
   },
-  "last_update": "2026-08-10T19:28:50.824690+00:00",
+  "last_update": "2026-08-10T20:08:09.755292+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 190,
-    "total_files": 190,
+    "total_media": 189,
+    "total_files": 189,
     "total_links": 0,
     "files_by_type": {
-      "image": 190
+      "image": 189
     },
-    "referenced_files": 190,
-    "existing_media_files": 190,
-    "total_size_mb": 5.49,
-    "last_calculation": "2026-08-10T19:28:50.827004+00:00"
+    "referenced_files": 189,
+    "existing_media_files": 189,
+    "total_size_mb": 5.73,
+    "last_calculation": "2026-08-10T20:08:09.757652+00:00"
   }
 }
