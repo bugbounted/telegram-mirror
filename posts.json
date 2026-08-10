@@ -2,6 +2,466 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 129246,
+        "text": "⤷\nTitle:\nSplunk Search Processing Language (SPL) Cheatsheet\n════════════════════════\n𐀪\nAuthor:\nZein Al-Ali\n════════════════════════\nⴵ\nTime:\nMon, 10 Aug 2026 01:34:02 GMT\n════════════════════════\n⌗\nTags:\n#blue_team\n#lets_defend\n#splunk\n#tryhackme\n#soc_analyst",
+        "date": "2026-08-10T02:05:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129246_0_b1d24e01.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129246_1_fabe1524.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129246",
+        "link": {
+          "title": "Splunk Search Processing Language (SPL) Cheatsheet",
+          "url": "https://medium.com/@zeinalali/splunk-search-processing-language-spl-cheatsheet-840f5beebcb4?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 129245,
+        "text": "⤷\nTitle:\nRemote Command Trojans/Remote Access Trojans (RATs) - At Smatchoicehackers.com\n════════════════════════\n𐀪\nAuthor:\nCampbell Joe\n════════════════════════\nⴵ\nTime:\nMon, 10 Aug 2026 00:26:26 GMT\n════════════════════════\n⌗\nTags:\n#trojan\n#cyber_threat_intelligence\n#network_security\n#infosec\n#cybersecurity",
+        "date": "2026-08-10T02:05:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129245_0_b1d24e01.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129245_1_41dbf26a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129245",
+        "link": {
+          "title": "Remote Command Trojans/Remote Access Trojans (RATs) - At Smatchoicehackers.com",
+          "url": "https://medium.com/@campbelljoee22/remote-command-trojans-remote-access-trojans-rats-at-smatchoicehackers-com-c308ba509248?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 129244,
+        "text": "⤷\nTitle:\nI Followed Those Weird YouTube Spam Bots. Here’s Where They Actually Go\n════════════════════════\n𐀪\nAuthor:\nMysterious Immature\n════════════════════════\nⴵ\nTime:\nMon, 10 Aug 2026 01:09:35 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#cybercrime\n#security\n#infosec",
+        "date": "2026-08-10T02:05:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129244_0_b1d24e01.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129244_1_b4be7dd0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129244",
+        "link": {
+          "title": "I Followed Those Weird YouTube Spam Bots. Here’s Where They Actually Go",
+          "url": "https://medium.com/@MysteriousImmature/i-followed-those-weird-youtube-spam-bots-heres-where-they-actually-go-7023ff100c13?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 129243,
+        "text": "⤷\nTitle:\nNetworking Part-2\n════════════════════════\n𐀪\nAuthor:\nHrikved Paul\n════════════════════════\nⴵ\nTime:\nMon, 10 Aug 2026 00:06:01 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#soc\n#cybersecurity\n#soc_analyst\n#infosec",
+        "date": "2026-08-10T02:05:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129243_0_b1d24e01.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129243_1_6e3631cf.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129243",
+        "link": {
+          "title": "Networking Part-2",
+          "url": "https://medium.com/@hrikved03/networking-part-2-d0f7560a031b?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 129242,
+        "text": "⤷\nTitle:\nCVE-2026-64561: Zapscape KVM Escape Runs Commands With Kernel Root Privilege, PoC Exploit Code Publicly Disclosed\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 07 Aug 2026 02:04:24 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_64561\n#guest_to_host\nescape\n#KVM\n#Linux\nKernel\n#use\nafter free\n#virtualization\n#Zapscape",
+        "date": "2026-08-10T02:04:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129242_0_b1d24e01.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129242_1_5d1e4d85.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129242",
+        "link": {
+          "title": "CVE-2026-64561: Zapscape KVM Escape Runs Commands With Kernel Root Privilege, PoC Exploit Code Publicly Disclosed",
+          "url": "https://securityonline.info/kvm-escape-vulnerability-zapscape/"
+        }
+      },
+      {
+        "id": 129241,
+        "text": "⤷\nTitle:\nCVE-2026-66747: Zbtlink Router Backdoor ENDLESSDOORS Enables Unauthenticated Remote Code Execution as Root\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 07 Aug 2026 02:30:07 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_66747\n#ENDLESSDOORS\n#IOT\n#OpenWrt\n#router\nbackdoor\n#ZBT\n#Zbtlink",
+        "date": "2026-08-10T02:04:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129241_0_b1d24e01.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129241_1_45ef5c02.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129241",
+        "link": {
+          "title": "CVE-2026-66747: Zbtlink Router Backdoor ENDLESSDOORS Enables Unauthenticated Remote Code Execution as Root",
+          "url": "https://securityonline.info/zbtlink-router-backdoor/"
+        }
+      },
+      {
+        "id": 129240,
+        "text": "⤷\nTitle:\nKimi K3 Sandbox Escape: Open AI Model Breaks Out of Isolated Test Environment\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 07 Aug 2026 03:25:36 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#AI\nAgent Security\n#AI\nRisk\n#Cybersecurity\nAI\n#Frontier\nSecurity\n#Kimi\nK3\n#Open\nModel Security\n#Red\nTeam AI\n#Sandbox\nEscape",
+        "date": "2026-08-10T02:04:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129240_0_b1d24e01.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129240_1_f8d282b8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129240",
+        "link": {
+          "title": "Kimi K3 Sandbox Escape: Open AI Model Breaks Out of Isolated Test Environment",
+          "url": "https://securityonline.info/kimi-k3-sandbox-escape-open-ai-model/"
+        }
+      },
+      {
+        "id": 129239,
+        "text": "⤷\nTitle:\nAstaroth WhatsApp Spambot Turns Brazil Victims Into Unwitting Malware Distributors\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 07 Aug 2026 06:30:05 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#Astaroth\n#Brazil\nBanking Trojan\n#CrowdStrike\n#Guildma\n#LATAM\neCrime\n#Spambot\n#Vareg\n#WhatsApp\nMalware",
+        "date": "2026-08-10T02:04:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129239_0_b1d24e01.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129239_1_d102f44c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129239",
+        "link": {
+          "title": "Astaroth WhatsApp Spambot Turns Brazil Victims Into Unwitting Malware Distributors",
+          "url": "https://securityonline.info/astaroth-whatsapp-spambot/"
+        }
+      },
+      {
+        "id": 129238,
+        "text": "⤷\nTitle:\nRogue AI Models Hack Systems to Cheat Evaluations\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 07 Aug 2026 06:58:06 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#AI\nAgents\n#Anthropic\n#artificial\nintelligence\n#cybersecurity\n#Meta\nAI\n#OpenAI",
+        "date": "2026-08-10T02:04:46+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129238_0_b1d24e01.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129238_1_aaef4b70.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129238",
+        "link": {
+          "title": "Rogue AI Models Hack Systems to Cheat Evaluations",
+          "url": "https://securityonline.info/rogue-ai-models-hack-systems/"
+        }
+      },
+      {
+        "id": 129237,
+        "text": "⤷\nTitle:\nQuickFox Supply Chain Attack Delivers FDMTP Implant to Windows Users\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 07 Aug 2026 07:02:09 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#DLL\nSideloading\n#FDMTP\nimplant\n#FortiGuard\nLabs\n#QuickFox\n#supply\nchain attack\n#Twill\nTyphoon",
+        "date": "2026-08-10T02:04:42+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129237_0_b1d24e01.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129237_1_280ec394.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129237",
+        "link": {
+          "title": "QuickFox Supply Chain Attack Delivers FDMTP Implant to Windows Users",
+          "url": "https://securityonline.info/quickfox-supply-chain-attack-fdmtp/"
+        }
+      },
+      {
+        "id": 129236,
+        "text": "⤷\nTitle:\nImpending End of Support for Windows 10 LTSC 2021\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 07 Aug 2026 07:10:00 +0000\n════════════════════════\n⌗\nTags:\n#Windows\n#ESU\n#IT\nAdmin\n#Microsoft\n#Windows\n10\n#Windows\n11",
+        "date": "2026-08-10T02:04:39+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129236_0_b1d24e01.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129236_1_e856ab94.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129236",
+        "link": {
+          "title": "Impending End of Support for Windows 10 LTSC 2021",
+          "url": "https://securityonline.info/windows-10-ltsc-esu/"
+        }
+      },
+      {
+        "id": 129235,
+        "text": "⤷\nTitle:\nOpenAI Files Motion to Dismiss Apple Lawsuit\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 07 Aug 2026 07:25:32 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#Apple\n#artificial\nintelligence\n#Lawsuit\n#OpenAI\n#trade\nsecret",
+        "date": "2026-08-10T02:04:36+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129235_0_b1d24e01.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129235_1_e63d1673.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129235",
+        "link": {
+          "title": "OpenAI Files Motion to Dismiss Apple Lawsuit",
+          "url": "https://securityonline.info/openai-apple-motion-to-dismiss/"
+        }
+      },
+      {
+        "id": 129234,
+        "text": "⤷\nTitle:\nSMOKE#SCREEN Campaign Abuses ScreenConnect RMM for Stealthy Remote Access\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 07 Aug 2026 08:02:07 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#Cloudflare\nTunnel\n#phishing\n#RMM\nAbuse\n#ScreenConnect\n#Securonix\n#SMOKE#SCREEN",
+        "date": "2026-08-10T02:04:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129234_0_b1d24e01.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129234_1_d4a37f11.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129234",
+        "link": {
+          "title": "SMOKE#SCREEN Campaign Abuses ScreenConnect RMM for Stealthy Remote Access",
+          "url": "https://securityonline.info/smoke-screen-screenconnect-rmm/"
+        }
+      },
+      {
+        "id": 129233,
+        "text": "⤷\nTitle:\nGoogle Chrome Demands Massive Storage for On-Device AI\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 07 Aug 2026 08:08:37 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#Gemini\nNano\n#google\nchrome\n#on_device\nAI\n#Storage\nRequirements",
+        "date": "2026-08-10T02:04:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129233_0_b1d24e01.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129233_1_5510cbeb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129233",
+        "link": {
+          "title": "Google Chrome Demands Massive Storage for On-Device AI",
+          "url": "https://securityonline.info/chrome-on-device-ai-storage/"
+        }
+      },
+      {
+        "id": 129232,
+        "text": "⤷\nTitle:\nGoogle Ask Maps Update: AI Navigation Evolves\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 07 Aug 2026 08:20:46 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#AI\nAssistant\n#Ask\nMaps\n#Conversational\nAI\n#google\nmaps",
+        "date": "2026-08-10T02:04:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129232_0_b1d24e01.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129232_1_2c71b19c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129232",
+        "link": {
+          "title": "Google Ask Maps Update: AI Navigation Evolves",
+          "url": "https://securityonline.info/google-ask-maps-update/"
+        }
+      },
+      {
+        "id": 129231,
+        "text": "⤷\nTitle:\nTails 7.10.1 Fixes Critical Linux Kernel Vulnerability\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 07 Aug 2026 10:21:37 +0000\n════════════════════════\n⌗\nTags:\n#Linux\n#CVE_2026_64560\n#expat\n#Linux\nKernel\n#privacy\nOS\n#tails\n#Tails\n7.10.1",
+        "date": "2026-08-10T02:04:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129231_0_b1d24e01.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129231_1_18b3baea.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129231",
+        "link": {
+          "title": "Tails 7.10.1 Fixes Critical Linux Kernel Vulnerability",
+          "url": "https://securityonline.info/tails-7-10-1-linux-kernel-vulnerability/"
+        }
+      },
+      {
+        "id": 129230,
+        "text": "⤷\nTitle:\nCVE-2026-5430: WSO2 Account Takeover Flaws Rated Up to CVSS 10\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 07 Aug 2026 13:04:08 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Account\nTakeover\n#API\nManager\n#Authentication\nBypass\n#CVE_2026_1728\n#CVE_2026_5430\n#privilege\nescalation\n#WSO2",
+        "date": "2026-08-10T02:04:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129230_0_b1d24e01.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129230_1_71eb28d1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129230",
+        "link": {
+          "title": "CVE-2026-5430: WSO2 Account Takeover Flaws Rated Up to CVSS 10",
+          "url": "https://securityonline.info/wso2-account-takeover-flaws/"
+        }
+      },
+      {
+        "id": 129229,
+        "text": "⤷\nTitle:\nCryptoJS Randomness Vulnerability Drains Crypto Wallets\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 07 Aug 2026 13:44:16 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#crypto\ndrainer\n#CryptoJS\n#Ill\nBloom\n#PRNG\nvulnerability\n#Seed\nPhrase\n#Wallet\nSecurity",
+        "date": "2026-08-10T02:04:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129229_0_b1d24e01.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129229_1_f1b7abf6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129229",
+        "link": {
+          "title": "CryptoJS Randomness Vulnerability Drains Crypto Wallets",
+          "url": "https://securityonline.info/cryptojs-randomness-vulnerability-ill-bloom/"
+        }
+      },
+      {
+        "id": 129228,
+        "text": "⤷\nTitle:\nBugtraq Is Back: The Original Full Disclosure Mailing List Is Live Again\n════════════════════════\n𐀪\nAuthor:\ncybernewswire\n════════════════════════\nⴵ\nTime:\nFri, 07 Aug 2026 20:44:29 +0000\n════════════════════════\n⌗\nTags:\n#Press\nRelease",
+        "date": "2026-08-10T02:04:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129228_0_b1d24e01.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129228_1_9e9dbe19.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129228",
+        "link": {
+          "title": "Bugtraq Is Back: The Original Full Disclosure Mailing List Is Live Again",
+          "url": "https://securityonline.info/bugtraq-is-back-the-original-full-disclosure-mailing-list-is-live-again/"
+        }
+      },
+      {
+        "id": 129227,
+        "text": "⤷\nTitle:\nMultiple ClamAV Flaws Let Remote Attackers Cause DoS\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nSat, 08 Aug 2026 07:36:00 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#antivirus\n#cisco\n#ClamAV\n#CVE_2026_20337\n#Denial\nof Service\n#Secure\nEndpoint",
+        "date": "2026-08-10T02:04:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129227_0_b1d24e01.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129227_1_d5c2f1ea.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129227",
+        "link": {
+          "title": "Multiple ClamAV Flaws Let Remote Attackers Cause DoS",
+          "url": "https://securityonline.info/clamav-vulnerabilities-cisco-dos-advisory/"
+        }
+      },
+      {
         "id": 129220,
         "text": "⤷\nTitle:\nApostrophe Has Abolished the Password\n════════════════════════\n𐀪\nAuthor:\nLeonardo R Cavalcante\n════════════════════════\nⴵ\nTime:\nThu, 06 Aug 2026 03:56:15 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#web_app_pentesting\n#bug_bounty_tips\n#bug_bounty\n#pentesting",
         "date": "2026-08-10T00:12:13+00:00",
@@ -1796,470 +2256,10 @@
           "title": "AI Hackers vs AI Security: Who Is Winning?",
           "url": "https://medium.com/@jashan.tripleminds/ai-hackers-vs-ai-security-who-is-winning-045b7d48875e?source=rss------ethical_hacking-5"
         }
-      },
-      {
-        "id": 129008,
-        "text": "⤷\nTitle:\nPreparing for the CompTIA PenTest+ (PT0–003) Exam? Start with Practice Tests 2026\n════════════════════════\n𐀪\nAuthor:\nAdilbaignyc\n════════════════════════\nⴵ\nTime:\nWed, 05 Aug 2026 13:52:18 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#cybersecurity\n#information_security\n#comptia\n#exam_preparation",
-        "date": "2026-08-05T14:05:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129008_0_17c69a25.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129008_1_b80804b5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129008",
-        "link": {
-          "title": "Preparing for the CompTIA PenTest+ (PT0–003) Exam? Start with Practice Tests 2026",
-          "url": "https://medium.com/@adilbaignyc3000/preparing-for-the-comptia-pentest-pt0-003-exam-start-with-practice-tests-2026-317fce7a2775?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 129007,
-        "text": "⤷\nTitle:\nMaster CompTIA Network+ (N10–009) with Practice Exams 2026\n════════════════════════\n𐀪\nAuthor:\nAdilbaignyc\n════════════════════════\nⴵ\nTime:\nWed, 05 Aug 2026 13:55:53 GMT\n════════════════════════\n⌗\nTags:\n#networking\n#comptia_network_plus\n#cybersecurity\n#udemy\n#ethical_hacking",
-        "date": "2026-08-05T14:05:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129007_0_17c69a25.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129007_1_6ccd11cc.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129007",
-        "link": {
-          "title": "Master CompTIA Network+ (N10–009) with Practice Exams 2026",
-          "url": "https://medium.com/@adilbaignyc3000/master-comptia-network-n10-009-with-practice-exams-2026-f43a4ab627eb?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 129006,
-        "text": "⤷\nTitle:\nHacker Holidays — Day 9 — CryptoCabana\n════════════════════════\n𐀪\nAuthor:\nmr-r3b00t500\n════════════════════════\nⴵ\nTime:\nWed, 05 Aug 2026 12:07:35 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_walkthrough\n#ctf\n#tryhackme_writeup\n#tryhackme\n#cybersecurity",
-        "date": "2026-08-05T14:04:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129006_0_17c69a25.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129006_1_e7a7d291.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129006",
-        "link": {
-          "title": "Hacker Holidays — Day 9 — CryptoCabana",
-          "url": "https://mr-r3b00t500.medium.com/hacker-holidays-day-9-cryptocabana-87dfc5bdf0ca?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 129005,
-        "text": "⤷\nTitle:\nHacker Holiday — Day 6 — Do Not Disturb\n════════════════════════\n𐀪\nAuthor:\nmr-r3b00t500\n════════════════════════\nⴵ\nTime:\nWed, 05 Aug 2026 12:07:45 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_writeup\n#tryhackme_walkthrough\n#ctf_writeup\n#tryhackme\n#ctf",
-        "date": "2026-08-05T14:04:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129005_0_17c69a25.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129005_1_2a1af18a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129005",
-        "link": {
-          "title": "Hacker Holiday — Day 6 — Do Not Disturb",
-          "url": "https://mr-r3b00t500.medium.com/hacker-holiday-day-6-do-not-disturb-ccca2dfe8960?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 129004,
-        "text": "⤷\nTitle:\nFree Cybersecurity Resources That Actually Helped Me Start My Career\n════════════════════════\n𐀪\nAuthor:\nMunaza Cyber\n════════════════════════\nⴵ\nTime:\nWed, 05 Aug 2026 13:16:17 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#penetration_testing\n#ctf\n#resources\n#information_security",
-        "date": "2026-08-05T14:04:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129004_0_17c69a25.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129004_1_06087f47.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129004",
-        "link": {
-          "title": "Free Cybersecurity Resources That Actually Helped Me Start My Career",
-          "url": "https://medium.com/@munnaza.cyber/free-cybersecurity-resources-that-actually-helped-me-start-my-career-715b21c5d411?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 129003,
-        "text": "⤷\nTitle:\nMR ROBOT CTF | TRYHACKME\n════════════════════════\n𐀪\nAuthor:\nTabrizabuzarov\n════════════════════════\nⴵ\nTime:\nWed, 05 Aug 2026 13:38:22 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing",
-        "date": "2026-08-05T14:04:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129003_0_17c69a25.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129003_1_fe3e037f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129003",
-        "link": {
-          "title": "MR ROBOT CTF | TRYHACKME",
-          "url": "https://medium.com/@tabrizabuzarov/mr-robot-ctf-tryhackme-36c29edbae54?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 129002,
-        "text": "⤷\nTitle:\nThe OAuth token that outlived three employees\n════════════════════════\n𐀪\nAuthor:\nh@shtalk\n════════════════════════\nⴵ\nTime:\nWed, 05 Aug 2026 13:31:01 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#cybersecurity\n#oauth\n#security",
-        "date": "2026-08-05T14:04:46+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129002_0_17c69a25.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129002_1_ea245b99.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129002",
-        "link": {
-          "title": "The OAuth token that outlived three employees",
-          "url": "https://eva-georgieva.medium.com/the-oauth-token-that-outlived-three-employees-123fcf58b7c0?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 129001,
-        "text": "⤷\nTitle:\nUncovering CVE-2026–30708: Bypassing Trusted Hosts in Flask\n════════════════════════\n𐀪\nAuthor:\nYago Martins\n════════════════════════\nⴵ\nTime:\nWed, 05 Aug 2026 12:11:39 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#research\n#hacking\n#python\n#cve",
-        "date": "2026-08-05T14:04:43+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129001_0_17c69a25.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129001_1_db0b6d57.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129001",
-        "link": {
-          "title": "Uncovering CVE-2026–30708: Bypassing Trusted Hosts in Flask",
-          "url": "https://medium.com/@yagomartins30/uncovering-cve-2026-30708-bypassing-trusted-hosts-in-flask-799f17dd0055?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 129000,
-        "text": "⤷\nTitle:\nExploiting a Race Condition (TOCTOU) in TryHackMe’s “Towel on the Sunbed”\n════════════════════════\n𐀪\nAuthor:\nAngeline Marietta Charley\n════════════════════════\nⴵ\nTime:\nWed, 05 Aug 2026 12:53:37 GMT\n════════════════════════\n⌗\nTags:\n#web_security\n#race_condition\n#cybersecurity\n#hacking\n#tryhackme",
-        "date": "2026-08-05T14:04:39+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129000_0_17c69a25.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129000_1_0db0f2b3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129000",
-        "link": {
-          "title": "Exploiting a Race Condition (TOCTOU) in TryHackMe’s “Towel on the Sunbed”",
-          "url": "https://medium.com/@angiemarie4628/exploiting-a-race-condition-toctou-in-tryhackmes-towel-on-the-sunbed-b940a674d93a?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 128999,
-        "text": "⤷\nTitle:\nTryHackMe : Blue\n════════════════════════\n𐀪\nAuthor:\nMarwan Ahmed Amin Ahmed Mohamed\n════════════════════════\nⴵ\nTime:\nWed, 05 Aug 2026 13:32:21 GMT\n════════════════════════\n⌗\nTags:\n#enternal_blue\n#cybersecurity\n#tryhackme\n#hacking\n#linux",
-        "date": "2026-08-05T14:04:36+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128999_0_17c69a25.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128999_1_869c19cb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128999",
-        "link": {
-          "title": "TryHackMe : Blue",
-          "url": "https://medium.com/@marwanamin/tryhackme-blue-f89f4a2d955e?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 128998,
-        "text": "⤷\nTitle:\nThe Cyberattack Begins Long Before the Perimeter Is Breached\n════════════════════════\n𐀪\nAuthor:\nDavid SEHYEON Baek\n════════════════════════\nⴵ\nTime:\nWed, 05 Aug 2026 13:35:46 GMT\n════════════════════════\n⌗\nTags:\n#threat_intelligence\n#data_breach\n#cybersecurity\n#cyberattack\n#hacking",
-        "date": "2026-08-05T14:04:33+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128998_0_17c69a25.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128998_1_ba9302bd.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128998",
-        "link": {
-          "title": "The Cyberattack Begins Long Before the Perimeter Is Breached",
-          "url": "https://medium.com/@davidsehyeonbaek/the-cyberattack-begins-long-before-the-perimeter-is-breached-dd457e6ce032?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 128997,
-        "text": "⤷\nTitle:\nI Found Basic XSS + Open Redirect in a Hidden Endpoint (And Got $100 For It)\n════════════════════════\n𐀪\nAuthor:\nRoshdy Zain\n════════════════════════\nⴵ\nTime:\nWed, 05 Aug 2026 13:26:43 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#bug_bounty",
-        "date": "2026-08-05T14:04:29+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128997_0_17c69a25.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128997_1_1edf13e2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128997",
-        "link": {
-          "title": "I Found Basic XSS + Open Redirect in a Hidden Endpoint (And Got $100 For It)",
-          "url": "https://0x3rab.medium.com/i-found-basic-xss-open-redirect-in-a-hidden-endpoint-and-got-100-for-it-3bf5a968d58f?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 128996,
-        "text": "⤷\nTitle:\nUppsala Security Becomes First Blockchain Intelligence Company to Join Cyber Threat Alliance\n════════════════════════\n𐀪\nAuthor:\ncybernewswire\n════════════════════════\nⴵ\nTime:\nWed, 05 Aug 2026 12:00:07 +0000\n════════════════════════\n⌗\nTags:\n#Press\nRelease",
-        "date": "2026-08-05T14:04:26+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128996_0_17c69a25.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128996_1_a31dba46.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128996",
-        "link": {
-          "title": "Uppsala Security Becomes First Blockchain Intelligence Company to Join Cyber Threat Alliance",
-          "url": "https://securityonline.info/uppsala-security-becomes-first-blockchain-intelligence-company-to-join-cyber-threat-alliance/"
-        }
-      },
-      {
-        "id": 128995,
-        "text": "⤷\nTitle:\nLinux suTrap Local Privilege Escalation Flaw PoC Exploit Disclosed\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 05 Aug 2026 13:02:25 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Linux\nSecurity\n#privilege\nescalation\n#suTrap\n#Vulnerability",
-        "date": "2026-08-05T14:04:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128995_0_17c69a25.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128995_1_90072799.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128995",
-        "link": {
-          "title": "Linux suTrap Local Privilege Escalation Flaw PoC Exploit Disclosed",
-          "url": "https://securityonline.info/linux-sutrap-lpe-flaw-poc-disclosed/"
-        }
-      },
-      {
-        "id": 128994,
-        "text": "⤷\nTitle:\nNew Research: The Confidence Gap Between CISOs and Their Boards Is Real, and It’s Measurable\n════════════════════════\n𐀪\nAuthor:\ncybernewswire\n════════════════════════\nⴵ\nTime:\nWed, 05 Aug 2026 13:15:45 +0000\n════════════════════════\n⌗\nTags:\n#Press\nRelease",
-        "date": "2026-08-05T14:04:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128994_0_17c69a25.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128994_1_daf0bec1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128994",
-        "link": {
-          "title": "New Research: The Confidence Gap Between CISOs and Their Boards Is Real, and It’s Measurable",
-          "url": "https://securityonline.info/new-research-the-confidence-gap-between-cisos-and-their-boards-is-real-and-its-measurable/"
-        }
-      },
-      {
-        "id": 128993,
-        "text": "⤷\nTitle:\nIBM Patches Three CVSS 9.8 Flaws, Including CVE-2026-12943 Command Execution\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 05 Aug 2026 13:45:18 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Arbitrary\nCommand Execution\n#CVE_2026_12118\n#CVE_2026_12943\n#CVE_2026_15435\n#IBM\n#IBM\nApp Connect Enterprise\n#Power\nHMC\n#rce\n#webMethods\nIntegration",
-        "date": "2026-08-05T14:04:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128993_0_17c69a25.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128993_1_e948386c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128993",
-        "link": {
-          "title": "IBM Patches Three CVSS 9.8 Flaws, Including CVE-2026-12943 Command Execution",
-          "url": "https://securityonline.info/ibm-critical-vulnerabilities/"
-        }
-      },
-      {
-        "id": 128992,
-        "text": "⤷\nTitle:\nNorth Korean Hackers Hide C2 Servers in Ethereum\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nWed, 05 Aug 2026 12:41:44 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#cybersecurity\n#DPRK\n#Ethereum\n#malware\n#NullReceiver",
-        "date": "2026-08-05T14:04:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128992_0_17c69a25.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128992_1_2ab00f7c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128992",
-        "link": {
-          "title": "North Korean Hackers Hide C2 Servers in Ethereum",
-          "url": "https://meterpreter.org/nullreceiver-npm-malware/"
-        }
-      },
-      {
-        "id": 128991,
-        "text": "⤷\nTitle:\nDarkSword Exploit Exposes iOS Vulnerabilities\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nWed, 05 Aug 2026 13:01:40 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\n#Censys\n#cybersecurity\n#DarkSword\n#exploit\n#ios",
-        "date": "2026-08-05T14:04:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128991_0_17c69a25.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128991_1_b4eb900d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128991",
-        "link": {
-          "title": "DarkSword Exploit Exposes iOS Vulnerabilities",
-          "url": "https://meterpreter.org/darksword-ios-exploit/"
-        }
-      },
-      {
-        "id": 128985,
-        "text": "⤷\nTitle:\nFrom Source Code to Exploit: Understanding CVE-2026–67206\n════════════════════════\n𐀪\nAuthor:\nBalachandar Gowrisankar\n════════════════════════\nⴵ\nTime:\nWed, 05 Aug 2026 12:03:13 GMT\n════════════════════════\n⌗\nTags:\n#vulnerability_research\n#cybersecurity\n#penetration_testing\n#rce_vulnerability",
-        "date": "2026-08-05T12:04:47+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128985_0_17c69a25.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128985_1_8c1becc3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128985",
-        "link": {
-          "title": "From Source Code to Exploit: Understanding CVE-2026–67206",
-          "url": "https://anirbala98.medium.com/from-source-code-to-exploit-understanding-cve-2026-67206-0ad3ae08bc78?source=rss------rce_vulnerability-5"
-        }
-      },
-      {
-        "id": 128984,
-        "text": "⤷\nTitle:\nHow to Scrape X Followers: 5 Proven Methods for 2026\n════════════════════════\n𐀪\nAuthor:\nBrasser Aikt\n════════════════════════\nⴵ\nTime:\nWed, 05 Aug 2026 10:44:23 GMT\n════════════════════════\n⌗\nTags:\n#twitter\n#web_scraping\n#data_science\n#xs",
-        "date": "2026-08-05T12:04:43+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128984_0_17c69a25.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_128984_1_44a84846.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/128984",
-        "link": {
-          "title": "How to Scrape X Followers: 5 Proven Methods for 2026",
-          "url": "https://medium.com/@jjoe81372/how-to-scrape-x-followers-5-proven-methods-for-2026-96021f71bb9e?source=rss------xss-5"
-        }
       }
     ]
   },
-  "last_update": "2026-08-10T00:46:04.049462+00:00",
+  "last_update": "2026-08-10T03:05:12.695704+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2271,7 +2271,7 @@
     },
     "referenced_files": 189,
     "existing_media_files": 189,
-    "total_size_mb": 5.37,
-    "last_calculation": "2026-08-10T00:46:04.051721+00:00"
+    "total_size_mb": 5.13,
+    "last_calculation": "2026-08-10T03:05:12.698011+00:00"
   }
 }
