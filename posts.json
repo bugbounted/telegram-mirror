@@ -2,6 +2,121 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 129374,
+        "text": "⤷\nTitle:\nStop leaving API keys in .env files\n════════════════════════\n𐀪\nAuthor:\nnickelnox\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 02:23:09 GMT\n════════════════════════\n⌗\nTags:\n#ai\n#secretmanagement\n#api_security\n#keychain",
+        "date": "2026-08-11T04:04:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129374_0_038e88b3.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129374_1_29946743.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129374",
+        "link": {
+          "title": "Stop leaving API keys in .env files",
+          "url": "https://nickelnox.medium.com/stop-leaving-api-keys-in-env-files-4443c61fda23?source=rss------api_security-5"
+        }
+      },
+      {
+        "id": 129373,
+        "text": "⤷\nTitle:\nWhen the Attacker Never Sleeps: How AI Agents Started Breaching Real Companies\n════════════════════════\n𐀪\nAuthor:\nVinamra Jain\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 02:31:01 GMT\n════════════════════════\n⌗\nTags:\n#artificial_intelligence\n#machine_learning\n#cybersecurity\n#technology\n#infosec",
+        "date": "2026-08-11T04:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129373_0_038e88b3.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129373_1_a50e502b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129373",
+        "link": {
+          "title": "When the Attacker Never Sleeps: How AI Agents Started Breaching Real Companies",
+          "url": "https://venombyte.medium.com/when-the-attacker-never-sleeps-how-ai-agents-started-breaching-real-companies-ce8e5c35a496?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 129372,
+        "text": "⤷\nTitle:\nThinking Like a Detective: Completing the KC7 Security Analyst I Path\n════════════════════════\n𐀪\nAuthor:\nTyler Reynolds\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 03:04:17 GMT\n════════════════════════\n⌗\nTags:\n#technology\n#cybersecurity\n#hacking\n#programming\n#threat_detection",
+        "date": "2026-08-11T04:03:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129372_0_038e88b3.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129372_1_c2a5df8a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129372",
+        "link": {
+          "title": "Thinking Like a Detective: Completing the KC7 Security Analyst I Path",
+          "url": "https://medium.com/@treynolds172/thinking-like-a-detective-completing-the-kc7-security-analyst-i-path-6facd24aa161?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 129371,
+        "text": "⤷\nTitle:\nCVE-2026-44945: Rancher Cross-Cluster Impersonation Flaw Enables Full Privilege Escalation, Rated CVSS 9.1\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 01:01:36 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#container\nsecurity\n#CVE_2026_44945\n#Impersonation\n#Kubernetes\n#privilege\nescalation\n#Rancher\n#SUSE",
+        "date": "2026-08-11T04:03:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129371_0_038e88b3.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129371_1_450de12a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129371",
+        "link": {
+          "title": "CVE-2026-44945: Rancher Cross-Cluster Impersonation Flaw Enables Full Privilege Escalation, Rated CVSS 9.1",
+          "url": "https://securityonline.info/rancher-privilege-escalation/"
+        }
+      },
+      {
+        "id": 129370,
+        "text": "⤷\nTitle:\nThree Critical Wazuh Manager Flaws Disclosed With Public PoC Exploit Code\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 01:30:07 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#cluster\nprotocol\n#CVE_2026_48024\n#CVE_2026_48162\n#CVE_2026_49441\n#Root\nRCE\n#Wazuh\nvulnerability",
+        "date": "2026-08-11T04:03:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129370_0_038e88b3.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129370_1_59ebded5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129370",
+        "link": {
+          "title": "Three Critical Wazuh Manager Flaws Disclosed With Public PoC Exploit Code",
+          "url": "https://securityonline.info/wazuh-manager-cluster-vulnerabilities/"
+        }
+      },
+      {
         "id": 129369,
         "text": "⤷\nTitle:\nWhat is Network Engineering? A Beginner’s Guide to Building a Career in Network Engineering\n════════════════════════\n𐀪\nAuthor:\nAjayi\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 00:12:54 GMT\n════════════════════════\n⌗\nTags:\n#linux\n#ethical_hacking\n#networking",
         "date": "2026-08-11T02:04:13+00:00",
@@ -2149,125 +2264,10 @@
           "title": "Why Most Bug Bounty Hunters Find Nothing — And How to Fix It",
           "url": "https://medium.com/@Rakeshjoshi7/why-most-bug-bounty-hunters-find-nothing-and-how-to-fix-it-136401c8bde8?source=rss------bug_bounty-5"
         }
-      },
-      {
-        "id": 129274,
-        "text": "⤷\nTitle:\nCrowdRecon is coming: turning hacker reconnaissance into security intelligence\n════════════════════════\n𐀪\nAuthor:\nGreg Jenkins\n════════════════════════\nⴵ\nTime:\nMon, 10 Aug 2026 00:00:00 GMT\n════════════════════════\n⌗\nTags:\n#News",
-        "date": "2026-08-10T10:04:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129274_0_038e88b3.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129274_1_ffe6dd87.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129274",
-        "link": {
-          "title": "CrowdRecon is coming: turning hacker reconnaissance into security intelligence",
-          "url": "https://www.intigriti.com/blog/news/introducing-crowdrecon"
-        }
-      },
-      {
-        "id": 129273,
-        "text": "⤷\nTitle:\nWhy Bug Hunters Skip Role-Based API Testing And How I Turned a Writer Token Into an SSRF\n════════════════════════\n𐀪\nAuthor:\nCypherNova1337\n════════════════════════\nⴵ\nTime:\nMon, 10 Aug 2026 09:04:39 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#hacking\n#cybersecurity\n#api_security\n#penetration_testing",
-        "date": "2026-08-10T10:04:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129273_0_038e88b3.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129273_1_c35dfcf3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129273",
-        "link": {
-          "title": "Why Bug Hunters Skip Role-Based API Testing And How I Turned a Writer Token Into an SSRF",
-          "url": "https://infosecwriteups.com/why-bug-hunters-skip-role-based-api-testing-and-how-i-turned-a-writer-token-into-an-ssrf-55397afe9848?source=rss----7b722bfd1b8d--bug_bounty"
-        }
-      },
-      {
-        "id": 129272,
-        "text": "⤷\nTitle:\nThey Gave Me $1,000 After I Found Their Entire Student Database Exposed!\n════════════════════════\n𐀪\nAuthor:\nAnukar\n════════════════════════\nⴵ\nTime:\nMon, 10 Aug 2026 09:35:57 GMT\n════════════════════════\n⌗\nTags:\n#web_development\n#vulnerability\n#cybersecurity\n#bug_bounty",
-        "date": "2026-08-10T10:04:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129272_0_038e88b3.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129272_1_8c2b1da0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129272",
-        "link": {
-          "title": "They Gave Me $1,000 After I Found Their Entire Student Database Exposed!",
-          "url": "https://infosecwriteups.com/they-gave-me-1-000-after-i-found-their-entire-student-database-exposed-f127e4bc91f3?source=rss----7b722bfd1b8d--bug_bounty"
-        }
-      },
-      {
-        "id": 129271,
-        "text": "⤷\nTitle:\nBypassing Enterprise SSO via a Forgotten Source Map: A Bug Bounty Story\n════════════════════════\n𐀪\nAuthor:\nPriyansh\n════════════════════════\nⴵ\nTime:\nMon, 10 Aug 2026 09:40:18 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#hacking\n#hacker\n#bug_bounty_writeup\n#bugs",
-        "date": "2026-08-10T10:03:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129271_0_038e88b3.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129271_1_96e08932.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129271",
-        "link": {
-          "title": "Bypassing Enterprise SSO via a Forgotten Source Map: A Bug Bounty Story",
-          "url": "https://infosecwriteups.com/bypassing-enterprise-sso-via-a-forgotten-source-map-a-bug-bounty-story-a43ab0973146?source=rss----7b722bfd1b8d--bug_bounty"
-        }
-      },
-      {
-        "id": 129270,
-        "text": "⤷\nTitle:\nThe Bug That Almost Wasn’t: How a “Dead End” Led to 500+ Leaked Customer Records\n════════════════════════\n𐀪\nAuthor:\nPriyansh\n════════════════════════\nⴵ\nTime:\nMon, 10 Aug 2026 09:42:50 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_writeup\n#wordpress\n#bug_bounty_tips\n#hacking\n#bug_bounty",
-        "date": "2026-08-10T10:03:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129270_0_038e88b3.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129270_1_a90cbb16.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129270",
-        "link": {
-          "title": "The Bug That Almost Wasn’t: How a “Dead End” Led to 500+ Leaked Customer Records",
-          "url": "https://infosecwriteups.com/the-bug-that-almost-wasnt-how-a-dead-end-led-to-500-leaked-customer-records-18db26e53705?source=rss----7b722bfd1b8d--bug_bounty"
-        }
       }
     ]
   },
-  "last_update": "2026-08-11T02:59:34.335516+00:00",
+  "last_update": "2026-08-11T04:14:29.464616+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2279,7 +2279,7 @@
     },
     "referenced_files": 191,
     "existing_media_files": 191,
-    "total_size_mb": 5.78,
-    "last_calculation": "2026-08-11T02:59:34.337820+00:00"
+    "total_size_mb": 5.71,
+    "last_calculation": "2026-08-11T04:14:29.466936+00:00"
   }
 }
