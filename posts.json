@@ -2,6 +2,320 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 129480,
+        "text": "⤷\nTitle:\nI Was Just Checking an API Endpoint… Then I Found Its Internal Metrics  Telekom Hall Of Fame\n════════════════════════\n𐀪\nAuthor:\nGokuleswaran B\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 16:14:29 GMT\n════════════════════════\n⌗\nTags:\n#bugbounty_poc\n#bugbounty_writeup\n#bugbounty_tips\n#ethical_hacking\n#reconnaissance",
+        "date": "2026-08-11T18:04:35+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129480_0_1ab77d6e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129480_1_16109b5a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129480",
+        "link": {
+          "title": "I Was Just Checking an API Endpoint… Then I Found Its Internal Metrics  Telekom Hall Of Fame",
+          "url": "https://osintteam.blog/i-was-just-checking-an-api-endpoint-then-i-found-its-internal-metrics-telekom-hall-of-fame-98b81e920d88?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 129479,
+        "text": "⤷\nTitle:\nServer-Side Template Injection (SSTI) Vulnerability — Payloads & Testing\n════════════════════════\n𐀪\nAuthor:\nMohd Kaif\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 16:46:04 GMT\n════════════════════════\n⌗\nTags:\n#vulnerability\n#cybersecurity\n#ethical_hacking\n#web_testing",
+        "date": "2026-08-11T18:04:31+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129479_0_1ab77d6e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129479_1_34e63591.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129479",
+        "link": {
+          "title": "Server-Side Template Injection (SSTI) Vulnerability — Payloads & Testing",
+          "url": "https://medium.com/@PentestWithKaif/server-side-template-injection-ssti-vulnerability-payloads-testing-5a697910b087?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 129478,
+        "text": "⤷\nTitle:\nDay 27: Microsoft Sentinel Workbooks — Turning Security Data Into Actionable Visibility\n════════════════════════\n𐀪\nAuthor:\nSIAM AHMED\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 16:47:49 GMT\n════════════════════════\n⌗\nTags:\n#deep_learning\n#cybersecurity\n#soc_analyst\n#azure\n#ethical_hacking",
+        "date": "2026-08-11T18:04:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129478_0_1ab77d6e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129478_1_4fa9f722.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129478",
+        "link": {
+          "title": "Day 27: Microsoft Sentinel Workbooks — Turning Security Data Into Actionable Visibility",
+          "url": "https://medium.com/@ahmedseam094/day-27-microsoft-sentinel-workbooks-turning-security-data-into-actionable-visibility-8f15aa762c9b?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 129477,
+        "text": "⤷\nTitle:\nHacker Holidays 2026 — Day 9: CryptoCabana | TryHackMe\n════════════════════════\n𐀪\nAuthor:\nPiyush Manghnani\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 16:40:07 GMT\n════════════════════════\n⌗\nTags:\n#crypto\n#cyrptocabana\n#hacker_holidays_2026\n#tryhackme",
+        "date": "2026-08-11T18:04:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129477_0_1ab77d6e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129477_1_b9ee76fb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129477",
+        "link": {
+          "title": "Hacker Holidays 2026 — Day 9: CryptoCabana | TryHackMe",
+          "url": "https://medium.com/@piyushmanghnani29/hacker-holidays-2026-day-9-cryptocabana-tryhackme-2846d8b80ced?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 129476,
+        "text": "⤷\nTitle:\nHacker Holidays 2026 — Day 10: The Hollow Shell\n════════════════════════\n𐀪\nAuthor:\nPiyush Manghnani\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 16:40:53 GMT\n════════════════════════\n⌗\nTags:\n#hacker_holidays_2026\n#zip_slip\n#tryhackme\n#the_hollow_shell",
+        "date": "2026-08-11T18:04:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129476_0_1ab77d6e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129476_1_fc3d72aa.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129476",
+        "link": {
+          "title": "Hacker Holidays 2026 — Day 10: The Hollow Shell",
+          "url": "https://medium.com/@piyushmanghnani29/hacker-holidays-2026-day-10-the-hollow-shell-503554ad820a?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 129475,
+        "text": "⤷\nTitle:\nSolving TryHackMe’s Hacker Holidays 2026, Day 1: ‘The Concierge Knows Too Much\n════════════════════════\n𐀪\nAuthor:\nSouhardya\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 17:31:14 GMT\n════════════════════════\n⌗\nTags:\n#osint\n#prompt_injection_attack\n#artificial_intelligence\n#tryhackme\n#cybersecurity",
+        "date": "2026-08-11T18:04:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129475_0_1ab77d6e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129475_1_25ec514c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129475",
+        "link": {
+          "title": "Solving TryHackMe’s Hacker Holidays 2026, Day 1: ‘The Concierge Knows Too Much",
+          "url": "https://medium.com/@souhardya1230/solving-tryhackmes-hacker-holidays-2026-day-1-the-concierge-knows-too-much-1bc5e561bda2?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 129474,
+        "text": "⤷\nTitle:\nTryHackMe — After Hours: WMI Forensics & .NET Payload Analysis\n════════════════════════\n𐀪\nAuthor:\nSYN\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 17:32:45 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#cybersecurity\n#tryhackme_walkthrough\n#ctf\n#digital_forensics",
+        "date": "2026-08-11T18:04:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129474_0_1ab77d6e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129474_1_91dc637e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129474",
+        "link": {
+          "title": "TryHackMe — After Hours: WMI Forensics & .NET Payload Analysis",
+          "url": "https://medium.com/@syedgousebasha29/tryhackme-after-hours-wmi-forensics-net-payload-analysis-daec852e01c4?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 129473,
+        "text": "⤷\nTitle:\nThe Fire Was Inevitable. The Catastrophe Wasn’t.\n════════════════════════\n𐀪\nAuthor:\nRyan Bentz\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 16:09:59 GMT\n════════════════════════\n⌗\nTags:\n#information_security\n#cybersecurity\n#offensive_security\n#penetration_testing\n#blue_team",
+        "date": "2026-08-11T18:04:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129473_0_1ab77d6e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129473_1_323343d4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129473",
+        "link": {
+          "title": "The Fire Was Inevitable. The Catastrophe Wasn’t.",
+          "url": "https://medium.com/@rtyp3/the-fire-was-inevitable-the-catastrophe-wasnt-0150c6746d63?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 129472,
+        "text": "⤷\nTitle:\nSender Recognition Is Not Authentication\n════════════════════════\n𐀪\nAuthor:\nRelayshieldadmin\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 15:58:54 GMT\n════════════════════════\n⌗\nTags:\n#cryptocurrency\n#infosec\n#cybersecurity\n#social_engineering\n#threat_intelligence",
+        "date": "2026-08-11T18:04:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129472_0_1ab77d6e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129472_1_a58385a4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129472",
+        "link": {
+          "title": "Sender Recognition Is Not Authentication",
+          "url": "https://medium.com/@relayshieldadmin/sender-recognition-is-not-authentication-cdc7b81ce9a5?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 129471,
+        "text": "⤷\nTitle:\nHackers Were Inside America’s World Cup Security Network for Weeks.\n════════════════════════\n𐀪\nAuthor:\nJazz Cyber Shield\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 17:06:45 GMT\n════════════════════════\n⌗\nTags:\n#technology\n#cybersecurity\n#fifa_world_cup\n#infosec\n#government",
+        "date": "2026-08-11T18:04:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129471_0_1ab77d6e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129471_1_d5b20224.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129471",
+        "link": {
+          "title": "Hackers Were Inside America’s World Cup Security Network for Weeks.",
+          "url": "https://medium.com/@jazzcybershield/hackers-were-inside-americas-world-cup-security-network-for-weeks-c38477511087?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 129470,
+        "text": "⤷\nTitle:\nI Made Claude Believe I Was an Anthropic-Verified\nResearcher.\n════════════════════════\n𐀪\nAuthor:\nX1NON\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 16:05:15 GMT\n════════════════════════\n⌗\nTags:\n#ai_red_team\n#claude\n#bug_bounty\n#cybersecurity\n#ai",
+        "date": "2026-08-11T18:04:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129470_0_1ab77d6e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129470_1_113cf004.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129470",
+        "link": {
+          "title": "I Made Claude Believe I Was an Anthropic-VerifiedResearcher.",
+          "url": "https://medium.com/@areziarya/i-made-claude-believe-i-was-an-anthropic-verified-researcher-e38e4fa4716f?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 129469,
+        "text": "⤷\nTitle:\nMarkLogic Server Security Bulletin Patches 10 Vulnerabilities, With CVSS Scores Up to 9.9\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 14:02:12 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Authentication\nBypass\n#CVE_2026_7329\n#CVE_2026_9192\n#MarkLogic\n#privilege\nescalation\n#Progress\n#ssrf",
+        "date": "2026-08-11T18:03:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129469_0_1ab77d6e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129469_1_9297d861.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129469",
+        "link": {
+          "title": "MarkLogic Server Security Bulletin Patches 10 Vulnerabilities, With CVSS Scores Up to 9.9",
+          "url": "https://securityonline.info/marklogic-server-vulnerabilities/"
+        }
+      },
+      {
+        "id": 129468,
+        "text": "⤷\nTitle:\nDeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 22:05:27 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-08-11T18:03:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129468_0_1ab77d6e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129468",
+        "link": {
+          "title": "DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt",
+          "url": "https://thehackernews.com/2026/08/deadlock-ransomware-uses-polygon-smart.html"
+        }
+      },
+      {
+        "id": 129467,
+        "text": "⤷\nTitle:\nResearchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 22:17:44 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-08-11T18:03:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129467_0_1ab77d6e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129467",
+        "link": {
+          "title": "Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE",
+          "url": "https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html"
+        }
+      },
+      {
         "id": 129466,
         "text": "⤷\nTitle:\nHow to Run VulnHub Machines on Apple Silicon\n════════════════════════\n𐀪\nAuthor:\nAl Arisyi\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 14:05:38 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#tutorial\n#ethical_hacking\n#macbook\n#virtualization",
         "date": "2026-08-11T16:04:27+00:00",
@@ -1930,344 +2244,22 @@
           "title": "Deep Dive: The Evasive Adversary — Insights & Defensive Playbook from CrowdStrike’s 2026 Threat…",
           "url": "https://medium.com/@wam0x0x0/deep-dive-the-evasive-adversary-insights-defensive-playbook-from-crowdstrikes-2026-threat-f53e0c71747d?source=rss------infosec-5"
         }
-      },
-      {
-        "id": 129380,
-        "text": "⤷\nTitle:\nHow Artificial Intelligence Is Reshaping Cybersecurity\n════════════════════════\n𐀪\nAuthor:\nRAMARSON TECHNOLOGY DEVELOPERS\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 04:39:34 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#information_security\n#data_breach\n#artificial_intelligence\n#hacking",
-        "date": "2026-08-11T06:04:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129380_0_1ab77d6e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129380_1_ec74ddba.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129380",
-        "link": {
-          "title": "How Artificial Intelligence Is Reshaping Cybersecurity",
-          "url": "https://medium.com/@admin_15827/how-artificial-intelligence-is-reshaping-cybersecurity-55f99c1bfab6?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 129379,
-        "text": "⤷\nTitle:\nClaude Hacked Three Real Companies During Testing. Anthropic Only Found Out Because of OpenAI.\n════════════════════════\n𐀪\nAuthor:\nTomas Bucek\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 05:12:24 GMT\n════════════════════════\n⌗\nTags:\n#claude\n#tech\n#hacking\n#generative_ai_tools",
-        "date": "2026-08-11T06:04:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129379_0_1ab77d6e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129379_1_979cdcc2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129379",
-        "link": {
-          "title": "Claude Hacked Three Real Companies During Testing. Anthropic Only Found Out Because of OpenAI.",
-          "url": "https://medium.com/@bucek.tomas/claude-hacked-three-real-companies-during-testing-anthropic-only-found-out-because-of-openai-e0b5f069aeab?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 129378,
-        "text": "⤷\nTitle:\nEntra ID Security: Dynamic Group Attribute Manipulation Leading to Privilege Escalation\n════════════════════════\n𐀪\nAuthor:\nBorz Fabian-Denis\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 05:43:53 GMT\n════════════════════════\n⌗\nTags:\n#entra_id\n#privilege_escalation\n#hacking\n#microsoft_security\n#group_dynamics",
-        "date": "2026-08-11T06:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129378_0_1ab77d6e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129378_1_5efa053c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129378",
-        "link": {
-          "title": "Entra ID Security: Dynamic Group Attribute Manipulation Leading to Privilege Escalation",
-          "url": "https://medium.com/@borzfabian_7015/entra-id-security-dynamic-group-attribute-manipulation-leading-to-privilege-escalation-6a341d5b0e3a?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 129377,
-        "text": "⤷\nTitle:\nFlutter WebView and Deep Link Security: The Doors You Left Open\n════════════════════════\n𐀪\nAuthor:\nAbdulrahman Mohamed\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 04:42:00 GMT\n════════════════════════\n⌗\nTags:\n#webview\n#application_security\n#flutter\n#android\n#security",
-        "date": "2026-08-11T06:03:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129377_0_1ab77d6e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129377_1_002fcd1d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129377",
-        "link": {
-          "title": "Flutter WebView and Deep Link Security: The Doors You Left Open",
-          "url": "https://medium.com/@abied.abiad/flutter-webview-and-deep-link-security-the-doors-you-left-open-0523884b5eb0?source=rss------application_security-5"
-        }
-      },
-      {
-        "id": 129376,
-        "text": "⤷\nTitle:\nHow I Found a Critical Vulnerability That Put $64 Million at Risk in a Layer 2 Blockchain\n════════════════════════\n𐀪\nAuthor:\nDivakarvasani\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 05:23:51 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#hacking\n#web3\n#cybersecurity",
-        "date": "2026-08-11T06:03:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129376_0_1ab77d6e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129376_1_74d86123.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129376",
-        "link": {
-          "title": "How I Found a Critical Vulnerability That Put $64 Million at Risk in a Layer 2 Blockchain",
-          "url": "https://medium.com/@divakarvasani3938/how-i-found-a-critical-vulnerability-that-put-64-million-at-risk-in-a-layer-2-blockchain-b2677b7c5a5b?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 129375,
-        "text": "⤷\nTitle:\nWhy AI Safety Reporting Needs Its Own Bug Bounty Model\n════════════════════════\n𐀪\nAuthor:\nGenbounty - The AI Bug Bounty Platform\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 05:46:01 GMT\n════════════════════════\n⌗\nTags:\n#ai_testing\n#ai_safety\n#ai_research\n#bug_bounty\n#agentic_ai_safety",
-        "date": "2026-08-11T06:03:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129375_0_1ab77d6e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129375_1_e95a8e61.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129375",
-        "link": {
-          "title": "Why AI Safety Reporting Needs Its Own Bug Bounty Model",
-          "url": "https://genbounty.medium.com/why-ai-safety-reporting-needs-its-own-bug-bounty-model-8ff01967e069?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 129374,
-        "text": "⤷\nTitle:\nStop leaving API keys in .env files\n════════════════════════\n𐀪\nAuthor:\nnickelnox\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 02:23:09 GMT\n════════════════════════\n⌗\nTags:\n#ai\n#secretmanagement\n#api_security\n#keychain",
-        "date": "2026-08-11T04:04:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129374_0_038e88b3.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129374_1_29946743.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129374",
-        "link": {
-          "title": "Stop leaving API keys in .env files",
-          "url": "https://nickelnox.medium.com/stop-leaving-api-keys-in-env-files-4443c61fda23?source=rss------api_security-5"
-        }
-      },
-      {
-        "id": 129373,
-        "text": "⤷\nTitle:\nWhen the Attacker Never Sleeps: How AI Agents Started Breaching Real Companies\n════════════════════════\n𐀪\nAuthor:\nVinamra Jain\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 02:31:01 GMT\n════════════════════════\n⌗\nTags:\n#artificial_intelligence\n#machine_learning\n#cybersecurity\n#technology\n#infosec",
-        "date": "2026-08-11T04:03:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129373_0_038e88b3.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129373_1_a50e502b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129373",
-        "link": {
-          "title": "When the Attacker Never Sleeps: How AI Agents Started Breaching Real Companies",
-          "url": "https://venombyte.medium.com/when-the-attacker-never-sleeps-how-ai-agents-started-breaching-real-companies-ce8e5c35a496?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 129372,
-        "text": "⤷\nTitle:\nThinking Like a Detective: Completing the KC7 Security Analyst I Path\n════════════════════════\n𐀪\nAuthor:\nTyler Reynolds\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 03:04:17 GMT\n════════════════════════\n⌗\nTags:\n#technology\n#cybersecurity\n#hacking\n#programming\n#threat_detection",
-        "date": "2026-08-11T04:03:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129372_0_038e88b3.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129372_1_c2a5df8a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129372",
-        "link": {
-          "title": "Thinking Like a Detective: Completing the KC7 Security Analyst I Path",
-          "url": "https://medium.com/@treynolds172/thinking-like-a-detective-completing-the-kc7-security-analyst-i-path-6facd24aa161?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 129371,
-        "text": "⤷\nTitle:\nCVE-2026-44945: Rancher Cross-Cluster Impersonation Flaw Enables Full Privilege Escalation, Rated CVSS 9.1\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 01:01:36 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#container\nsecurity\n#CVE_2026_44945\n#Impersonation\n#Kubernetes\n#privilege\nescalation\n#Rancher\n#SUSE",
-        "date": "2026-08-11T04:03:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129371_0_038e88b3.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129371_1_450de12a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129371",
-        "link": {
-          "title": "CVE-2026-44945: Rancher Cross-Cluster Impersonation Flaw Enables Full Privilege Escalation, Rated CVSS 9.1",
-          "url": "https://securityonline.info/rancher-privilege-escalation/"
-        }
-      },
-      {
-        "id": 129370,
-        "text": "⤷\nTitle:\nThree Critical Wazuh Manager Flaws Disclosed With Public PoC Exploit Code\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 01:30:07 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#cluster\nprotocol\n#CVE_2026_48024\n#CVE_2026_48162\n#CVE_2026_49441\n#Root\nRCE\n#Wazuh\nvulnerability",
-        "date": "2026-08-11T04:03:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129370_0_038e88b3.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129370_1_59ebded5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129370",
-        "link": {
-          "title": "Three Critical Wazuh Manager Flaws Disclosed With Public PoC Exploit Code",
-          "url": "https://securityonline.info/wazuh-manager-cluster-vulnerabilities/"
-        }
-      },
-      {
-        "id": 129369,
-        "text": "⤷\nTitle:\nWhat is Network Engineering? A Beginner’s Guide to Building a Career in Network Engineering\n════════════════════════\n𐀪\nAuthor:\nAjayi\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 00:12:54 GMT\n════════════════════════\n⌗\nTags:\n#linux\n#ethical_hacking\n#networking",
-        "date": "2026-08-11T02:04:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129369_0_038e88b3.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129369_1_e3f17ef9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129369",
-        "link": {
-          "title": "What is Network Engineering? A Beginner’s Guide to Building a Career in Network Engineering",
-          "url": "https://medium.com/@ajayiomowunmi63/what-is-network-engineering-a-beginners-guide-1ee1788928a1?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 129368,
-        "text": "⤷\nTitle:\nscriptCTF Writeups 2026 | Cybersecurity\n════════════════════════\n𐀪\nAuthor:\ntruffles\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 00:47:37 GMT\n════════════════════════\n⌗\nTags:\n#osint\n#ethical_hacking\n#cybersecurity\n#coding\n#digital_forensics",
-        "date": "2026-08-11T02:04:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129368_0_038e88b3.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129368_1_45af15ac.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129368",
-        "link": {
-          "title": "scriptCTF Writeups 2026 | Cybersecurity",
-          "url": "https://infosecwriteups.com/scriptctf-writeups-2026-cybersecurity-7916c6097e3c?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 129367,
-        "text": "⤷\nTitle:\nMetasploit: Introduction — Navigating the World’s Most Widely Used Exploitation Framework\n════════════════════════\n𐀪\nAuthor:\nJonathan Sanfer\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 00:12:36 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#infosec\n#metasploit\n#cybersecurity\n#tryhackme",
-        "date": "2026-08-11T02:04:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129367_0_038e88b3.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129367_1_7df69557.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129367",
-        "link": {
-          "title": "Metasploit: Introduction — Navigating the World’s Most Widely Used Exploitation Framework",
-          "url": "https://medium.com/@jonathan.sanfer/metasploit-introduction-navigating-the-worlds-most-widely-used-exploitation-framework-24cb9f899d1e?source=rss------infosec-5"
-        }
       }
     ]
   },
-  "last_update": "2026-08-11T17:26:45.890066+00:00",
+  "last_update": "2026-08-11T18:14:17.310994+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 188,
-    "total_files": 188,
+    "total_media": 186,
+    "total_files": 186,
     "total_links": 0,
     "files_by_type": {
-      "image": 188
+      "image": 186
     },
-    "referenced_files": 188,
-    "existing_media_files": 188,
-    "total_size_mb": 5.23,
-    "last_calculation": "2026-08-11T17:26:45.892310+00:00"
+    "referenced_files": 186,
+    "existing_media_files": 186,
+    "total_size_mb": 5.08,
+    "last_calculation": "2026-08-11T18:14:17.313257+00:00"
   }
 }
