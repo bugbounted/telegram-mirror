@@ -2,6 +2,167 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 129518,
+        "text": "⤷\nTitle:\nHow to Block SQL Injection Attacks with a Free WAF\n════════════════════════\n𐀪\nAuthor:\nC\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 07:01:21 GMT\n════════════════════════\n⌗\nTags:\n#xss_attack\n#sql_injection\n#free_waf",
+        "date": "2026-08-12T04:04:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129518_0_1ab77d6e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129518_1_156a4ba6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129518",
+        "link": {
+          "title": "How to Block SQL Injection Attacks with a Free WAF",
+          "url": "https://medium.com/@c0849672/how-to-block-sql-injection-attacks-with-a-free-waf-0aaaf28dcfbc?source=rss------sql_injection-5"
+        }
+      },
+      {
+        "id": 129517,
+        "text": "⤷\nTitle:\nAI, ML & DL: The Technology Behind Machines That Learn — Learning AI Part I\n════════════════════════\n𐀪\nAuthor:\nGokul G\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 02:16:08 GMT\n════════════════════════\n⌗\nTags:\n#pentesting\n#ai\n#ai_agent\n#penetration_testing",
+        "date": "2026-08-12T04:04:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129517_0_1ab77d6e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129517_1_08137a0b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129517",
+        "link": {
+          "title": "AI, ML & DL: The Technology Behind Machines That Learn — Learning AI Part I",
+          "url": "https://medium.com/@gokulg.me/ai-ml-dl-the-technology-behind-machines-that-learn-learning-ai-part-i-92272cc606ca?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 129516,
+        "text": "⤷\nTitle:\nThree CVEs in Activepieces: The Sandbox Was Real. The Code Just Didn't Run Inside It.\n════════════════════════\n𐀪\nAuthor:\nAviral Srivastava\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 03:16:00 GMT\n════════════════════════\n⌗\nTags:\n#vulnerability_disclosure\n#cybersecurity\n#application_security\n#ai_security\n#open_source",
+        "date": "2026-08-12T04:04:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129516_0_1ab77d6e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129516_1_5deaf12d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129516",
+        "link": {
+          "title": "Three CVEs in Activepieces: The Sandbox Was Real. The Code Just Didn't Run Inside It.",
+          "url": "https://medium.com/@aviral23/three-cves-in-activepieces-the-sandbox-was-real-the-code-just-didnt-run-inside-it-13cc2b4cda85?source=rss------application_security-5"
+        }
+      },
+      {
+        "id": 129515,
+        "text": "⤷\nTitle:\nZoom Patches Four Security Flaws, Including Two Remote Code Execution Bugs\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 02:03:58 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_53413\n#CVE_2026_53415\n#Remote\nCode Execution\n#Zoom\nSecurity\n#Zoom\nWorkplace",
+        "date": "2026-08-12T04:03:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129515_0_1ab77d6e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129515_1_b2861b89.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129515",
+        "link": {
+          "title": "Zoom Patches Four Security Flaws, Including Two Remote Code Execution Bugs",
+          "url": "https://securityonline.info/zoom-security-vulnerabilities/"
+        }
+      },
+      {
+        "id": 129514,
+        "text": "⤷\nTitle:\nMicrosoft August 2026 Patch Tuesday Fixes WinSock Zero-Day Exploited in the Wild\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 02:21:05 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_68820\n#Lazarus\nGroup\n#Microsoft\nzero_day\n#Patch\nTuesday\n#WinSock\nafd.sys",
+        "date": "2026-08-12T04:03:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129514_0_1ab77d6e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129514_1_db5278c5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129514",
+        "link": {
+          "title": "Microsoft August 2026 Patch Tuesday Fixes WinSock Zero-Day Exploited in the Wild",
+          "url": "https://securityonline.info/microsoft-august-2026-patch-tuesday/"
+        }
+      },
+      {
+        "id": 129513,
+        "text": "⤷\nTitle:\nLazarus Exploits Windows Zero-Day in Operation Dream Job Attacks\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 02:44:19 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#CVE_2026_68820\n#DPRK\n#FudModule\n#Lazarus\n#Operation\nDream Job\n#zero_day",
+        "date": "2026-08-12T04:03:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129513_0_1ab77d6e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129513_1_fd015427.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129513",
+        "link": {
+          "title": "Lazarus Exploits Windows Zero-Day in Operation Dream Job Attacks",
+          "url": "https://securityonline.info/lazarus-zero-day-dream-job/"
+        }
+      },
+      {
+        "id": 129512,
+        "text": "⤷\nTitle:\nChrome Update Fixes 5 Use-After-Free Security Bugs\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 03:44:47 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#browser\nsecurity\n#chrome\n#CVE_2026_19556\n#CVE_2026_19559\n#CVE_2026_19560\n#google\nchrome\n#use\nafter free",
+        "date": "2026-08-12T04:03:47+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129512_0_1ab77d6e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129512_1_911b2248.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129512",
+        "link": {
+          "title": "Chrome Update Fixes 5 Use-After-Free Security Bugs",
+          "url": "https://securityonline.info/chrome-use-after-free-update/"
+        }
+      },
+      {
         "id": 129511,
         "text": "⤷\nTitle:\nZoox Bypass\n════════════════════════\n𐀪\nAuthor:\nLucas Ribolli\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 01:28:54 GMT\n════════════════════════\n⌗\nTags:\n#defcon\n#ethical_hacking\n#cybersecurity\n#zoox\n#android",
         "date": "2026-08-12T02:04:18+00:00",
@@ -2079,179 +2240,22 @@
           "title": "API Security Best Practices for Modern SaaS Apps",
           "url": "https://medium.com/@ujjwal.tripathi_30844/api-security-best-practices-for-modern-saas-apps-08f387a58d7b?source=rss------api_security-5"
         }
-      },
-      {
-        "id": 129418,
-        "text": "⤷\nTitle:\nZero Trust Security for Mobile Banking: Complete Enterprise Guide\n════════════════════════\n𐀪\nAuthor:\nProtectt.ai\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 09:57:55 GMT\n════════════════════════\n⌗\nTags:\n#zero_trust_security\n#api_security\n#mobile_security_android\n#mobile_security_services\n#mobile_banking_app",
-        "date": "2026-08-11T10:04:45+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129418_0_1ab77d6e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129418_1_89f8023e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129418",
-        "link": {
-          "title": "Zero Trust Security for Mobile Banking: Complete Enterprise Guide",
-          "url": "https://medium.com/@protectt.ai26/zero-trust-security-for-mobile-banking-complete-enterprise-guide-1138d97a464f?source=rss------api_security-5"
-        }
-      },
-      {
-        "id": 129417,
-        "text": "⤷\nTitle:\nHacker Holidays 2026: Day 14 Walkthrough (Management Wants a Word)\n════════════════════════\n𐀪\nAuthor:\nDhanush N\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 08:09:42 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ethical_hacking\n#ctf\n#hacker_holidays_2026\n#digital_forensics",
-        "date": "2026-08-11T10:04:41+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129417_0_1ab77d6e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129417_1_69035199.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129417",
-        "link": {
-          "title": "Hacker Holidays 2026: Day 14 Walkthrough (Management Wants a Word)",
-          "url": "https://infosecwriteups.com/hacker-holidays-2026-day-14-walkthrough-management-wants-a-word-fa655886d56d?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 129416,
-        "text": "⤷\nTitle:\nInside the Attack #2 — The Door Is Open: What Nmap Really Reveals About Your Attack Surface\n════════════════════════\n𐀪\nAuthor:\nUfuk Yaman\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 08:37:16 GMT\n════════════════════════\n⌗\nTags:\n#nmap\n#cybersecurity\n#data\n#cyberattack\n#ethical_hacking",
-        "date": "2026-08-11T10:04:38+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129416_0_1ab77d6e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129416_1_11b1a409.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129416",
-        "link": {
-          "title": "Inside the Attack #2 — The Door Is Open: What Nmap Really Reveals About Your Attack Surface",
-          "url": "https://medium.com/@ufukyaman2004/inside-the-attack-2-the-door-is-open-what-nmap-really-reveals-about-your-attack-surface-be43f0010a15?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 129415,
-        "text": "⤷\nTitle:\nIPv6 penetration testing.\n════════════════════════\n𐀪\nAuthor:\nArtur Cannarozzo\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 08:48:54 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#pentesting\n#white_hat_hacker\n#ethical_hacking\n#networking",
-        "date": "2026-08-11T10:04:35+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129415_0_1ab77d6e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129415_1_53b66737.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129415",
-        "link": {
-          "title": "IPv6 penetration testing.",
-          "url": "https://medium.com/@artur.cannarozzo/ipv6-penetration-testing-964dd6c75eab?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 129414,
-        "text": "⤷\nTitle:\nHack The Box : Cohort Full Walkthrough ( Linux ; Very Easy )\n════════════════════════\n𐀪\nAuthor:\nHibullahi AbdulAzeez\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 08:52:47 GMT\n════════════════════════\n⌗\nTags:\n#ssrf_walkthrough\n#hackthebox_writeup\n#cohorts\n#hackthebox\n#ctf_writeup",
-        "date": "2026-08-11T10:04:31+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129414_0_1ab77d6e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129414_1_ec7481f2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129414",
-        "link": {
-          "title": "Hack The Box : Cohort Full Walkthrough ( Linux ; Very Easy )",
-          "url": "https://infosecwriteups.com/hack-the-box-cohort-full-walkthrough-linux-very-easy-a68197c9dbce?source=rss------hackthebox_writeup-5"
-        }
-      },
-      {
-        "id": 129413,
-        "text": "⤷\nTitle:\nDEV DIARIES — TRY HACK ME WALKTHROUGH:\n════════════════════════\n𐀪\nAuthor:\nGirija\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 08:57:49 GMT\n════════════════════════\n⌗\nTags:\n#github\n#dnsdumpster\n#subdomain_enumeration\n#dev_diary\n#tryhackme",
-        "date": "2026-08-11T10:04:28+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129413_0_1ab77d6e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129413_1_cc52bd26.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129413",
-        "link": {
-          "title": "DEV DIARIES — TRY HACK ME WALKTHROUGH:",
-          "url": "https://medium.com/@ggirija2006/dev-diaries-try-hack-me-walkthrough-7aafdd62c1f2?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 129412,
-        "text": "⤷\nTitle:\nColddBox: Easy — TryHackMe WriteUp with Flags\n════════════════════════\n𐀪\nAuthor:\nRayenhafsawy\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 09:26:05 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#cybersecurity\n#ctf\n#tryhackme_writeup\n#tryhackme_walkthrough",
-        "date": "2026-08-11T10:04:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129412_0_1ab77d6e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129412",
-        "link": {
-          "title": "ColddBox: Easy — TryHackMe WriteUp with Flags",
-          "url": "https://medium.com/@rayenhafsawy/colddbox-easy-tryhackme-writeup-with-flags-56aff6fa050f?source=rss------tryhackme-5"
-        }
       }
     ]
   },
-  "last_update": "2026-08-12T03:03:45.775392+00:00",
+  "last_update": "2026-08-12T05:12:55.318068+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 184,
-    "total_files": 184,
+    "total_media": 185,
+    "total_files": 185,
     "total_links": 0,
     "files_by_type": {
-      "image": 184
+      "image": 185
     },
-    "referenced_files": 184,
-    "existing_media_files": 184,
-    "total_size_mb": 4.99,
-    "last_calculation": "2026-08-12T03:03:45.777643+00:00"
+    "referenced_files": 185,
+    "existing_media_files": 185,
+    "total_size_mb": 5.14,
+    "last_calculation": "2026-08-12T05:12:55.320341+00:00"
   }
 }
