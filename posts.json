@@ -2,6 +2,320 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 129573,
+        "text": "⤷\nTitle:\nHow “just forward the request” turns into a surprisingly complicated job\n════════════════════════\n𐀪\nAuthor:\nGaurirai\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 09:57:24 GMT\n════════════════════════\n⌗\nTags:\n#jwt_authentication\n#reverse_proxy\n#api_security\n#ruby_on_rails\n#api_gateway",
+        "date": "2026-08-12T12:04:37+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129573_0_046af1f7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129573_1_cad83564.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129573",
+        "link": {
+          "title": "How “just forward the request” turns into a surprisingly complicated job",
+          "url": "https://medium.com/@gaurirai64/how-just-forward-the-request-turns-into-a-surprisingly-complicated-job-f137a61b927e?source=rss------api_security-5"
+        }
+      },
+      {
+        "id": 129572,
+        "text": "⤷\nTitle:\nCybersecurity Fundamentals: CIA Triad, AAA, Security Teams & Cryptography\n════════════════════════\n𐀪\nAuthor:\nGOBI VENKATESH\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 10:42:21 GMT\n════════════════════════\n⌗\nTags:\n#information_security\n#cybersecurity_awareness\n#cryptography\n#ethical_hacking\n#cybersecurity",
+        "date": "2026-08-12T12:04:33+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129572_0_046af1f7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129572_1_03f3b484.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129572",
+        "link": {
+          "title": "Cybersecurity Fundamentals: CIA Triad, AAA, Security Teams & Cryptography",
+          "url": "https://medium.com/@gobivenkatesh23/cybersecurity-fundamentals-cia-triad-aaa-security-teams-cryptography-9e5103eb9d33?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 129571,
+        "text": "⤷\nTitle:\nŞirket Ağınızı Siber Tehditlerden Koruyun: OPNsense ile Web Filtreleme\n════════════════════════\n𐀪\nAuthor:\nMehmet Ali\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 11:27:24 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#cybersecurity\n#firewall\n#blue_team",
+        "date": "2026-08-12T12:04:30+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129571_0_046af1f7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129571",
+        "link": {
+          "title": "Şirket Ağınızı Siber Tehditlerden Koruyun: OPNsense ile Web Filtreleme",
+          "url": "https://medium.com/@Metthehackk/%C5%9Firket-a%C4%9F%C4%B1n%C4%B1z%C4%B1-siber-tehditlerden-koruyun-opnsense-ile-web-filtreleme-4a53fd35b542?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 129570,
+        "text": "⤷\nTitle:\nTesting the Authentication Boundary: A Case Study in Session and Identity Security\n════════════════════════\n𐀪\nAuthor:\nMdporschaa\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 10:14:30 GMT\n════════════════════════\n⌗\nTags:\n#authentication\n#jwt_authentication\n#identity_management\n#api_security\n#penetration_testing",
+        "date": "2026-08-12T12:04:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129570_0_046af1f7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129570_1_4b7002d2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129570",
+        "link": {
+          "title": "Testing the Authentication Boundary: A Case Study in Session and Identity Security",
+          "url": "https://medium.com/@mdporschaa/testing-the-authentication-boundary-a-case-study-in-session-and-identity-security-7ecd80010cc8?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 129569,
+        "text": "⤷\nTitle:\nGray-Box Infrastructure Pentest: Compromising Metasploitable 2 via 4 Independent Root Vectors\n════════════════════════\n𐀪\nAuthor:\nMohamed Sabry\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 10:19:15 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#technology\n#penetration_testing\n#ethical_hacking\n#metasploit",
+        "date": "2026-08-12T12:04:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129569_0_046af1f7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129569_1_3b912fe4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129569",
+        "link": {
+          "title": "Gray-Box Infrastructure Pentest: Compromising Metasploitable 2 via 4 Independent Root Vectors",
+          "url": "https://medium.com/@0xSABRY/gray-box-infrastructure-pentest-compromising-metasploitable-2-via-4-independent-root-vectors-926f27ad53f4?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 129568,
+        "text": "⤷\nTitle:\nBeyond the Blockchain: How Web Application Penetration Testing, Cloud Security Assessment, and…\n════════════════════════\n𐀪\nAuthor:\nCharelton\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 10:47:40 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#web_applications\n#digital_forensics\n#incident_response\n#cloud_security_assessment",
+        "date": "2026-08-12T12:04:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129568_0_046af1f7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129568_1_1a782e57.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129568",
+        "link": {
+          "title": "Beyond the Blockchain: How Web Application Penetration Testing, Cloud Security Assessment, and…",
+          "url": "https://medium.com/@charelton7/beyond-the-blockchain-how-web-application-penetration-testing-cloud-security-assessment-and-35be21e41a7b?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 129567,
+        "text": "⤷\nTitle:\nA SaaS Pentest Isn’t Buyer-Ready Until Authorization Is Proven\n════════════════════════\n𐀪\nAuthor:\nPentest_Testing_Corp\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 10:59:42 GMT\n════════════════════════\n⌗\nTags:\n#api_security\n#access_control\n#b2b_saas\n#penetration_testing\n#saas_security",
+        "date": "2026-08-12T12:04:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129567_0_046af1f7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129567_1_8b4733b9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129567",
+        "link": {
+          "title": "A SaaS Pentest Isn’t Buyer-Ready Until Authorization Is Proven",
+          "url": "https://meetcyber.net/a-saas-pentest-isnt-buyer-ready-until-authorization-is-proven-fa9fd6eef359?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 129566,
+        "text": "⤷\nTitle:\nEXPLOITING COMMAND INJECTION(From Easy to Bypassing Filters)\n════════════════════════\n𐀪\nAuthor:\nEbube uzomba\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 11:29:40 GMT\n════════════════════════\n⌗\nTags:\n#offensive_security\n#penetration_testing\n#cybersecurity\n#command_injection",
+        "date": "2026-08-12T12:04:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129566_0_046af1f7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129566_1_cad38195.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129566",
+        "link": {
+          "title": "EXPLOITING COMMAND INJECTION(From Easy to Bypassing Filters)",
+          "url": "https://medium.com/@sigmaohio082/exploiting-command-injection-from-easy-to-bypassing-filters-488c51040e69?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 129565,
+        "text": "⤷\nTitle:\nTHE SECRET JOURNAL OF NOOB.0\n════════════════════════\n𐀪\nAuthor:\nSecret Person\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 10:22:56 GMT\n════════════════════════\n⌗\nTags:\n#hackathon_story\n#hacking\n#ctf\n#for_begginers\n#do",
+        "date": "2026-08-12T12:04:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129565_0_046af1f7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129565_1_b22ce52a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129565",
+        "link": {
+          "title": "THE SECRET JOURNAL OF NOOB.0",
+          "url": "https://medium.com/@tiwarisoumya111/the-secret-journal-of-noob-0-66f60eef9a77?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 129564,
+        "text": "⤷\nTitle:\nThe $4.67 Million Secret Network Drain: When Privacy Hid the Heist for Seven Days\n════════════════════════\n𐀪\nAuthor:\nYua Mikanana\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 10:50:06 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#cryptocurrency\n#hacking\n#technology\n#blockchain",
+        "date": "2026-08-12T12:04:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129564_0_046af1f7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129564_1_d35007c4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129564",
+        "link": {
+          "title": "The $4.67 Million Secret Network Drain: When Privacy Hid the Heist for Seven Days",
+          "url": "https://medium.com/@yua.mikanana19/the-4-67-million-secret-network-drain-when-privacy-hid-the-heist-for-seven-days-c51625d65c79?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 129563,
+        "text": "⤷\nTitle:\nSnapchat monitoring services without any suspicious notice about It: Activity monitoring, Snapchat…\n════════════════════════\n𐀪\nAuthor:\nPaul Weller\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 11:18:33 GMT\n════════════════════════\n⌗\nTags:\n#private_investigator\n#cheating_spouse\n#snapchat\n#catch_a_cheating_spouse\n#hacking",
+        "date": "2026-08-12T12:04:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129563_0_046af1f7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129563_1_6929c4f9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129563",
+        "link": {
+          "title": "Snapchat monitoring services without any suspicious notice about It: Activity monitoring, Snapchat…",
+          "url": "https://medium.com/@paulweller_3232/snapchat-monitoring-services-without-any-suspicious-notice-about-it-activity-monitoring-snapchat-8cdabb6c0722?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 129562,
+        "text": "⤷\nTitle:\nCyber Security Is Not Just Hacking. Here Are the Real Paths and How to Choose Between Them.\n════════════════════════\n𐀪\nAuthor:\nAnjali Shah\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 11:26:46 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#computer_science\n#parul_university_vadodara\n#cybersecurity\n#btech",
+        "date": "2026-08-12T12:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129562_0_046af1f7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129562_1_43768ff3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129562",
+        "link": {
+          "title": "Cyber Security Is Not Just Hacking. Here Are the Real Paths and How to Choose Between Them.",
+          "url": "https://medium.com/@anjali.shah44350/cyber-security-is-not-just-hacking-here-are-the-real-paths-and-how-to-choose-between-them-a598869fcb9d?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 129561,
+        "text": "⤷\nTitle:\nDOM XSS: The Bug Your WAF Will Never Catch\n════════════════════════\n𐀪\nAuthor:\nNitin yadav\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 11:31:01 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#xss_attack\n#cybersecurity\n#ethical_hacking\n#bug_bounty",
+        "date": "2026-08-12T12:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129561_0_046af1f7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129561_1_fb54284e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129561",
+        "link": {
+          "title": "DOM XSS: The Bug Your WAF Will Never Catch",
+          "url": "https://kd-200.medium.com/dom-xss-the-bug-your-waf-will-never-catch-84bf9dda96bb?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 129560,
+        "text": "⤷\nTitle:\nAdobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 16:43:03 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-08-12T12:03:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129560_0_046af1f7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129560",
+        "link": {
+          "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
+          "url": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html"
+        }
+      },
+      {
         "id": 129559,
         "text": "⤷\nTitle:\nWhat Are the Best Practices for API Security? A Complete Guide to Securing Modern APIs\n════════════════════════\n𐀪\nAuthor:\nJohn Walter Munene Njeru\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 08:47:48 GMT\n════════════════════════\n⌗\nTags:\n#api_security\n#software_development\n#web_development\n#cybersecurity\n#nodejs",
         "date": "2026-08-12T10:04:40+00:00",
@@ -1938,324 +2252,10 @@
           "title": "TryHackMe — After Hours: WMI Forensics & .NET Payload Analysis",
           "url": "https://medium.com/@syedgousebasha29/tryhackme-after-hours-wmi-forensics-net-payload-analysis-daec852e01c4?source=rss------tryhackme-5"
         }
-      },
-      {
-        "id": 129473,
-        "text": "⤷\nTitle:\nThe Fire Was Inevitable. The Catastrophe Wasn’t.\n════════════════════════\n𐀪\nAuthor:\nRyan Bentz\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 16:09:59 GMT\n════════════════════════\n⌗\nTags:\n#information_security\n#cybersecurity\n#offensive_security\n#penetration_testing\n#blue_team",
-        "date": "2026-08-11T18:04:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129473_0_1ab77d6e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129473_1_323343d4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129473",
-        "link": {
-          "title": "The Fire Was Inevitable. The Catastrophe Wasn’t.",
-          "url": "https://medium.com/@rtyp3/the-fire-was-inevitable-the-catastrophe-wasnt-0150c6746d63?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 129472,
-        "text": "⤷\nTitle:\nSender Recognition Is Not Authentication\n════════════════════════\n𐀪\nAuthor:\nRelayshieldadmin\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 15:58:54 GMT\n════════════════════════\n⌗\nTags:\n#cryptocurrency\n#infosec\n#cybersecurity\n#social_engineering\n#threat_intelligence",
-        "date": "2026-08-11T18:04:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129472_0_1ab77d6e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129472_1_a58385a4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129472",
-        "link": {
-          "title": "Sender Recognition Is Not Authentication",
-          "url": "https://medium.com/@relayshieldadmin/sender-recognition-is-not-authentication-cdc7b81ce9a5?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 129471,
-        "text": "⤷\nTitle:\nHackers Were Inside America’s World Cup Security Network for Weeks.\n════════════════════════\n𐀪\nAuthor:\nJazz Cyber Shield\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 17:06:45 GMT\n════════════════════════\n⌗\nTags:\n#technology\n#cybersecurity\n#fifa_world_cup\n#infosec\n#government",
-        "date": "2026-08-11T18:04:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129471_0_1ab77d6e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129471_1_d5b20224.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129471",
-        "link": {
-          "title": "Hackers Were Inside America’s World Cup Security Network for Weeks.",
-          "url": "https://medium.com/@jazzcybershield/hackers-were-inside-americas-world-cup-security-network-for-weeks-c38477511087?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 129470,
-        "text": "⤷\nTitle:\nI Made Claude Believe I Was an Anthropic-Verified\nResearcher.\n════════════════════════\n𐀪\nAuthor:\nX1NON\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 16:05:15 GMT\n════════════════════════\n⌗\nTags:\n#ai_red_team\n#claude\n#bug_bounty\n#cybersecurity\n#ai",
-        "date": "2026-08-11T18:04:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129470_0_1ab77d6e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129470_1_113cf004.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129470",
-        "link": {
-          "title": "I Made Claude Believe I Was an Anthropic-VerifiedResearcher.",
-          "url": "https://medium.com/@areziarya/i-made-claude-believe-i-was-an-anthropic-verified-researcher-e38e4fa4716f?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 129469,
-        "text": "⤷\nTitle:\nMarkLogic Server Security Bulletin Patches 10 Vulnerabilities, With CVSS Scores Up to 9.9\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 14:02:12 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Authentication\nBypass\n#CVE_2026_7329\n#CVE_2026_9192\n#MarkLogic\n#privilege\nescalation\n#Progress\n#ssrf",
-        "date": "2026-08-11T18:03:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129469_0_1ab77d6e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129469_1_9297d861.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129469",
-        "link": {
-          "title": "MarkLogic Server Security Bulletin Patches 10 Vulnerabilities, With CVSS Scores Up to 9.9",
-          "url": "https://securityonline.info/marklogic-server-vulnerabilities/"
-        }
-      },
-      {
-        "id": 129468,
-        "text": "⤷\nTitle:\nDeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 22:05:27 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-08-11T18:03:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129468_0_1ab77d6e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129468",
-        "link": {
-          "title": "DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt",
-          "url": "https://thehackernews.com/2026/08/deadlock-ransomware-uses-polygon-smart.html"
-        }
-      },
-      {
-        "id": 129467,
-        "text": "⤷\nTitle:\nResearchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 22:17:44 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-08-11T18:03:51+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129467_0_1ab77d6e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129467",
-        "link": {
-          "title": "Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE",
-          "url": "https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html"
-        }
-      },
-      {
-        "id": 129466,
-        "text": "⤷\nTitle:\nHow to Run VulnHub Machines on Apple Silicon\n════════════════════════\n𐀪\nAuthor:\nAl Arisyi\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 14:05:38 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#tutorial\n#ethical_hacking\n#macbook\n#virtualization",
-        "date": "2026-08-11T16:04:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129466_0_1ab77d6e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129466_1_d4e733db.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129466",
-        "link": {
-          "title": "How to Run VulnHub Machines on Apple Silicon",
-          "url": "https://medium.com/@arisarisyi/how-to-run-vulnhub-machines-on-apple-silicon-573223e9e5cc?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 129465,
-        "text": "⤷\nTitle:\nAssertion101 Proving Grounds Walkthrough/writeup (Intermediate)\n════════════════════════\n𐀪\nAuthor:\nCybersecurity writeup's\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 14:46:01 GMT\n════════════════════════\n⌗\nTags:\n#oscp\n#ethical_hacking\n#cybersecurity\n#pentesting\n#information_security",
-        "date": "2026-08-11T16:04:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129465_0_1ab77d6e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129465_1_5311f165.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129465",
-        "link": {
-          "title": "Assertion101 Proving Grounds Walkthrough/writeup (Intermediate)",
-          "url": "https://ethicsnaruto.medium.com/assertion101-proving-grounds-walkthrough-writeup-intermediate-e945125ebc57?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 129464,
-        "text": "⤷\nTitle:\nTHM Hacker Holidays 2026 (Room 5): Beach Bar\n════════════════════════\n𐀪\nAuthor:\nDave Aillerr Rivas\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 15:16:05 GMT\n════════════════════════\n⌗\nTags:\n#hacker_holidays_2026\n#boot2root\n#tryhackme\n#thm_writeup",
-        "date": "2026-08-11T16:04:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129464_0_1ab77d6e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129464_1_4c353d4c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129464",
-        "link": {
-          "title": "THM Hacker Holidays 2026 (Room 5): Beach Bar",
-          "url": "https://medium.com/@drivas.aillerr/thm-hacker-holidays-2026-room-5-beach-bar-e69dc01065b8?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 129463,
-        "text": "⤷\nTitle:\nTHM Hacker Holidays 2026 (Room 6): Overheard at Breakfast\n════════════════════════\n𐀪\nAuthor:\nDave Aillerr Rivas\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 15:19:04 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#hacker_holidays_2026\n#osint\n#thm_writeup",
-        "date": "2026-08-11T16:04:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129463_0_1ab77d6e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129463_1_37f20bcf.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129463",
-        "link": {
-          "title": "THM Hacker Holidays 2026 (Room 6): Overheard at Breakfast",
-          "url": "https://medium.com/@drivas.aillerr/difficulty-easy-type-osint-041f98b7010c?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 129462,
-        "text": "⤷\nTitle:\nTryHackMe: Infinity Pool — Hacker Holidays Day 11\n════════════════════════\n𐀪\nAuthor:\nSYN\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 15:36:14 GMT\n════════════════════════\n⌗\nTags:\n#ctf_writeup\n#command_injection\n#ctf\n#tryhackme_walkthrough\n#tryhackme",
-        "date": "2026-08-11T16:04:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129462_0_1ab77d6e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129462_1_cef9555c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129462",
-        "link": {
-          "title": "TryHackMe: Infinity Pool — Hacker Holidays Day 11",
-          "url": "https://medium.com/@syedgousebasha29/tryhackme-infinity-pool-hacker-holidays-day-11-58e7a7b33778?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 129461,
-        "text": "⤷\nTitle:\nAutonomous Attack Is Already Here. Pentesting Economics Just Changed.\n════════════════════════\n𐀪\nAuthor:\nHerman Zubenko\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 14:43:59 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#openai\n#hugging_face\n#offensive_security\n#cybersecurity",
-        "date": "2026-08-11T16:04:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129461_0_1ab77d6e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129461_1_75796778.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129461",
-        "link": {
-          "title": "Autonomous Attack Is Already Here. Pentesting Economics Just Changed.",
-          "url": "https://medium.com/@herman.zubenko/autonomous-attack-is-already-here-pentesting-economics-just-changed-6afdfc61e6a9?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 129460,
-        "text": "⤷\nTitle:\nTry Hack Me-Beach Bar\n════════════════════════\n𐀪\nAuthor:\nKarthik Warrier\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 14:51:10 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_writeup\n#ethical_hacking\n#penetration_testing\n#cybersecurity\n#tryhackme_walkthrough",
-        "date": "2026-08-11T16:04:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129460_0_1ab77d6e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129460_1_9976b620.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129460",
-        "link": {
-          "title": "Try Hack Me-Beach Bar",
-          "url": "https://medium.com/@karthikwarrier103/try-hack-me-beach-bar-0b48bf3c670d?source=rss------penetration_testing-5"
-        }
       }
     ]
   },
-  "last_update": "2026-08-12T11:39:33.706770+00:00",
+  "last_update": "2026-08-12T12:39:59.285826+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2267,7 +2267,7 @@
     },
     "referenced_files": 188,
     "existing_media_files": 188,
-    "total_size_mb": 5.2,
-    "last_calculation": "2026-08-12T11:39:33.709025+00:00"
+    "total_size_mb": 5.02,
+    "last_calculation": "2026-08-12T12:39:59.288222+00:00"
   }
 }
