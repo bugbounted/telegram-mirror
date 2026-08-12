@@ -2,6 +2,324 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 129613,
+        "text": "⤷\nTitle:\nEthical Hacking\n════════════════════════\n𐀪\nAuthor:\nSumitrathour\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 15:57:30 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking",
+        "date": "2026-08-12T18:04:31+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129613_0_046af1f7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129613_1_3dd2f6fe.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129613",
+        "link": {
+          "title": "Ethical Hacking",
+          "url": "https://medium.com/@sumitrathour123465/ethical-hacking-17b226284e8e?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 129612,
+        "text": "⤷\nTitle:\nHow I Built a SOC Lab and Defended Against Live Linux Malware: My Internship Journey\n════════════════════════\n𐀪\nAuthor:\nMunaza Cyber\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 17:49:38 GMT\n════════════════════════\n⌗\nTags:\n#firewall\n#ethical_hacking\n#careers\n#personal_growth\n#cybersecurity",
+        "date": "2026-08-12T18:04:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129612_0_046af1f7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129612_1_020e2468.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129612",
+        "link": {
+          "title": "How I Built a SOC Lab and Defended Against Live Linux Malware: My Internship Journey",
+          "url": "https://medium.com/@munnaza.cyber/how-i-built-a-soc-lab-and-defended-against-live-linux-malware-my-internship-journey-337a0a5c01cf?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 129611,
+        "text": "⤷\nTitle:\nSOC L1 Operation— SOC Level 1 TryHackMe Writeup\n════════════════════════\n𐀪\nAuthor:\nAalishaf\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 16:01:31 GMT\n════════════════════════\n⌗\nTags:\n#siem\n#tryhackme\n#cybersecurity\n#tryhackme_writeup",
+        "date": "2026-08-12T18:04:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129611_0_046af1f7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129611_1_9e0fbbcf.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129611",
+        "link": {
+          "title": "SOC L1 Operation— SOC Level 1 TryHackMe Writeup",
+          "url": "https://medium.com/@aalishaf88/soc-l1-operation-soc-level-1-tryhackme-writeup-e956674918e8?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 129610,
+        "text": "⤷\nTitle:\nFile Upload leads to Command Injection Vulnerability\n════════════════════════\n𐀪\nAuthor:\nSecmonk\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 16:56:47 GMT\n════════════════════════\n⌗\nTags:\n#vulnerability\n#penetration_testing\n#offsec\n#oscp\n#web_application_security",
+        "date": "2026-08-12T18:04:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129610_0_046af1f7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129610_1_c1e9c9db.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129610",
+        "link": {
+          "title": "File Upload leads to Command Injection Vulnerability",
+          "url": "https://medium.com/@1secmonk/file-upload-leads-to-command-injection-vulnerability-c74fd6908b1f?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 129609,
+        "text": "⤷\nTitle:\nServerless doesn’t mean fewer places to get it wrong\n════════════════════════\n𐀪\nAuthor:\nh@shtalk\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 16:01:04 GMT\n════════════════════════\n⌗\nTags:\n#security_vulnerabilities\n#cybersecurity\n#serverless\n#infosec",
+        "date": "2026-08-12T18:04:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129609_0_046af1f7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129609_1_252e478f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129609",
+        "link": {
+          "title": "Serverless doesn’t mean fewer places to get it wrong",
+          "url": "https://eva-georgieva.medium.com/serverless-doesnt-mean-fewer-places-to-get-it-wrong-b0aaa1a562b2?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 129608,
+        "text": "⤷\nTitle:\nHacker Holidays Day 5: From a Leftover Login to Full Root, in Three Mistakes\n════════════════════════\n𐀪\nAuthor:\nDevyaniitware\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 17:03:51 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ctf\n#linux\n#penetration_testing\n#infosec",
+        "date": "2026-08-12T18:04:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129608_0_046af1f7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129608_1_18f5aa1f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129608",
+        "link": {
+          "title": "Hacker Holidays Day 5: From a Leftover Login to Full Root, in Three Mistakes",
+          "url": "https://medium.com/@devyani89itware/hacker-holidays-day-5-from-a-leftover-login-to-full-root-in-three-mistakes-41e830ce7347?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 129607,
+        "text": "⤷\nTitle:\nHacker Holidays Day 6: Unmasking a “Deleted” Account With Just an Email\n════════════════════════\n𐀪\nAuthor:\nDevyaniitware\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 17:06:58 GMT\n════════════════════════\n⌗\nTags:\n#ctf\n#cybersecurity\n#osint\n#infosec\n#privacy",
+        "date": "2026-08-12T18:04:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129607_0_046af1f7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129607_1_42cbf9be.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129607",
+        "link": {
+          "title": "Hacker Holidays Day 6: Unmasking a “Deleted” Account With Just an Email",
+          "url": "https://medium.com/@devyani89itware/hacker-holidays-day-6-unmasking-a-deleted-account-with-just-an-email-e77ef9aa87f6?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 129606,
+        "text": "⤷\nTitle:\nAgentes de IA orquestan ataques en modo enjambre, nuevo desafio para los defensores corporativos.\n════════════════════════\n𐀪\nAuthor:\nTU INSIGNIA\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 16:23:07 GMT\n════════════════════════\n⌗\nTags:\n#generative_ai_tools\n#ethical_hacking\n#ai\n#hacking\n#ai_agent",
+        "date": "2026-08-12T18:04:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129606_0_046af1f7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129606_1_5481a2b7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129606",
+        "link": {
+          "title": "Agentes de IA orquestan ataques en modo enjambre, nuevo desafio para los defensores corporativos.",
+          "url": "https://medium.com/@TUINSIGNIA/agentes-de-ia-orquestan-ataques-en-modo-enjambre-nuevo-desafio-para-los-defensores-corporativos-80634001c876?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 129605,
+        "text": "⤷\nTitle:\nNetwork Ports in Cybersecurity: A Practical Guide to Services, Risks & Attack Surfaces\n════════════════════════\n𐀪\nAuthor:\nSanskruti Bhor\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 16:38:19 GMT\n════════════════════════\n⌗\nTags:\n#technology\n#cybersecurity\n#security\n#infosec\n#hacking",
+        "date": "2026-08-12T18:04:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129605_0_046af1f7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129605_1_72d925f1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129605",
+        "link": {
+          "title": "Network Ports in Cybersecurity: A Practical Guide to Services, Risks & Attack Surfaces",
+          "url": "https://medium.com/@bhorsanskruti/network-ports-in-cybersecurity-a-practical-guide-to-services-risks-attack-surfaces-86d0b8a85f1d?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 129604,
+        "text": "⤷\nTitle:\nCambian los nombres, no los adversarios: la nueva taxonomía de amenazas de Google\n════════════════════════\n𐀪\nAuthor:\nTU INSIGNIA\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 16:41:12 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#hacking\n#ai\n#ai_agent\n#generative_ai_tools",
+        "date": "2026-08-12T18:04:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129604_0_046af1f7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129604",
+        "link": {
+          "title": "Cambian los nombres, no los adversarios: la nueva taxonomía de amenazas de Google",
+          "url": "https://medium.com/@TUINSIGNIA/cambian-los-nombres-no-los-adversarios-la-nueva-taxonom%C3%ADa-de-amenazas-de-google-37c1102df37a?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 129603,
+        "text": "⤷\nTitle:\nZoomsday: The Zero-Click Zoom Exploit That Hijacks Your Device Mid-Meeting\n════════════════════════\n𐀪\nAuthor:\nXpert4Cyber\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 17:04:38 GMT\n════════════════════════\n⌗\nTags:\n#technology\n#cybersecurity\n#zoom\n#hacking\n#privacy",
+        "date": "2026-08-12T18:03:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129603_0_046af1f7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129603_1_6e8e4d4b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129603",
+        "link": {
+          "title": "Zoomsday: The Zero-Click Zoom Exploit That Hijacks Your Device Mid-Meeting",
+          "url": "https://medium.com/@xpert4cyber/zoomsday-the-zero-click-zoom-exploit-that-hijacks-your-device-mid-meeting-097e8f26ae21?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 129602,
+        "text": "⤷\nTitle:\nUnderstanding Command & Control (C2): An Educational Demonstration of Remote Endpoint Control\n════════════════════════\n𐀪\nAuthor:\nShayaan Khan\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 17:04:55 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#coding\n#ai\n#hacking\n#python",
+        "date": "2026-08-12T18:03:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129602_0_046af1f7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129602_1_c14a8f99.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129602",
+        "link": {
+          "title": "Understanding Command & Control (C2): An Educational Demonstration of Remote Endpoint Control",
+          "url": "https://medium.com/@shayaan0920/understanding-command-control-c2-an-educational-demonstration-of-remote-endpoint-control-e857aeab082b?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 129601,
+        "text": "⤷\nTitle:\nA CVSS Score Is Not a To-Do List: Prioritizing Vulnerabilities by Real Risk\n════════════════════════\n𐀪\nAuthor:\nChingunjav Gankhuu\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 16:40:53 GMT\n════════════════════════\n⌗\nTags:\n#devsecops\n#infosec\n#application_security\n#vulnerability_management\n#cybersecurity",
+        "date": "2026-08-12T18:03:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129601_0_046af1f7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129601_1_347306d9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129601",
+        "link": {
+          "title": "A CVSS Score Is Not a To-Do List: Prioritizing Vulnerabilities by Real Risk",
+          "url": "https://medium.com/@chingunjav.gankhuu/a-cvss-score-is-not-a-to-do-list-prioritizing-vulnerabilities-by-real-risk-7b5bb23a956e?source=rss------application_security-5"
+        }
+      },
+      {
+        "id": 129600,
+        "text": "⤷\nTitle:\nBug Bounty for Beginners 2026 — Earn Your First $100 with Ethical Hacking\n════════════════════════\n𐀪\nAuthor:\nR.H Rizvi\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 17:49:22 GMT\n════════════════════════\n⌗\nTags:\n#hacker\n#cybersecurity\n#bug_bounty_tips\n#ethical_hacking\n#bug_bounty",
+        "date": "2026-08-12T18:03:47+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129600_0_046af1f7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129600_1_a01be3c6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129600",
+        "link": {
+          "title": "Bug Bounty for Beginners 2026 — Earn Your First $100 with Ethical Hacking",
+          "url": "https://medium.com/@R.H_Rizvi/bug-bounty-for-beginners-2026-earn-your-first-100-with-ethical-hacking-6bbabd376013?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 129599,
         "text": "⤷\nTitle:\nLinux System Hardening —Network & System Security — Security Engineer TryHackMe Writeup\n════════════════════════\n𐀪\nAuthor:\nAalishaf\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 14:24:09 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#tryhackme\n#linux\n#tryhackme_writeup\n#security_engineering",
         "date": "2026-08-12T16:04:36+00:00",
@@ -1934,344 +2252,22 @@
           "title": "Microsoft August 2026 Patch Tuesday Fixes WinSock Zero-Day Exploited in the Wild",
           "url": "https://securityonline.info/microsoft-august-2026-patch-tuesday/"
         }
-      },
-      {
-        "id": 129513,
-        "text": "⤷\nTitle:\nLazarus Exploits Windows Zero-Day in Operation Dream Job Attacks\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 02:44:19 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#CVE_2026_68820\n#DPRK\n#FudModule\n#Lazarus\n#Operation\nDream Job\n#zero_day",
-        "date": "2026-08-12T04:03:51+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129513_0_1ab77d6e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129513_1_fd015427.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129513",
-        "link": {
-          "title": "Lazarus Exploits Windows Zero-Day in Operation Dream Job Attacks",
-          "url": "https://securityonline.info/lazarus-zero-day-dream-job/"
-        }
-      },
-      {
-        "id": 129512,
-        "text": "⤷\nTitle:\nChrome Update Fixes 5 Use-After-Free Security Bugs\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 03:44:47 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#browser\nsecurity\n#chrome\n#CVE_2026_19556\n#CVE_2026_19559\n#CVE_2026_19560\n#google\nchrome\n#use\nafter free",
-        "date": "2026-08-12T04:03:47+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129512_0_1ab77d6e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129512_1_911b2248.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129512",
-        "link": {
-          "title": "Chrome Update Fixes 5 Use-After-Free Security Bugs",
-          "url": "https://securityonline.info/chrome-use-after-free-update/"
-        }
-      },
-      {
-        "id": 129511,
-        "text": "⤷\nTitle:\nZoox Bypass\n════════════════════════\n𐀪\nAuthor:\nLucas Ribolli\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 01:28:54 GMT\n════════════════════════\n⌗\nTags:\n#defcon\n#ethical_hacking\n#cybersecurity\n#zoox\n#android",
-        "date": "2026-08-12T02:04:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129511_0_1ab77d6e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129511_1_07c9b997.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129511",
-        "link": {
-          "title": "Zoox Bypass",
-          "url": "https://medium.com/@lucasribolli/zoox-bypass-27d31ba3360c?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 129510,
-        "text": "⤷\nTitle:\nBeyond the Password [Part 3]: The Second Wall — MFA, TOTP, and Adaptive Defense\n════════════════════════\n𐀪\nAuthor:\nMalaya Khuntia\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 01:31:01 GMT\n════════════════════════\n⌗\nTags:\n#programming\n#app_security\n#cybersecurity\n#infosec\n#mfa",
-        "date": "2026-08-12T02:04:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129510_0_1ab77d6e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129510_1_dc85d118.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129510",
-        "link": {
-          "title": "Beyond the Password [Part 3]: The Second Wall — MFA, TOTP, and Adaptive Defense",
-          "url": "https://malaya-khuntia.medium.com/beyond-the-password-part-3-the-second-wall-mfa-totp-and-adaptive-defense-7f906d4bfc44?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 129509,
-        "text": "⤷\nTitle:\nThe OWASP Top 10 for Developers Who Don’t Have Time to Read the OWASP Top 10\n════════════════════════\n𐀪\nAuthor:\nMarcelo Domingues\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 00:01:02 GMT\n════════════════════════\n⌗\nTags:\n#web_development\n#application_security\n#owasp\n#security\n#programming",
-        "date": "2026-08-12T02:04:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129509_0_1ab77d6e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129509_1_3cc52437.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129509",
-        "link": {
-          "title": "The OWASP Top 10 for Developers Who Don’t Have Time to Read the OWASP Top 10",
-          "url": "https://medium.com/@marcelogdomingues/the-owasp-top-10-for-developers-who-dont-have-time-to-read-the-owasp-top-10-e39b5bbe4ff9?source=rss------application_security-5"
-        }
-      },
-      {
-        "id": 129508,
-        "text": "⤷\nTitle:\nVULNBANK API SECURITY ASSESSMENT\n════════════════════════\n𐀪\nAuthor:\nLh1l0v3\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 01:17:33 GMT\n════════════════════════\n⌗\nTags:\n#software_development\n#cybersecurity\n#application_security\n#software_engineering\n#web_development",
-        "date": "2026-08-12T02:04:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129508_0_1ab77d6e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129508_1_51edfbc8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129508",
-        "link": {
-          "title": "VULNBANK API SECURITY ASSESSMENT",
-          "url": "https://medium.com/@Lh1l0v3/vulnbank-api-security-assessment-4aae05820c96?source=rss------application_security-5"
-        }
-      },
-      {
-        "id": 129507,
-        "text": "⤷\nTitle:\nHow a 30-Year-Old Path Traversal Earned $150K From Apple’s AI Cloud\n════════════════════════\n𐀪\nAuthor:\nAbhishek meena\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 00:46:36 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_tips\n#infosec\n#bug_bounty\n#apple\n#bug_bounty_writeup",
-        "date": "2026-08-12T02:04:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129507_0_1ab77d6e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129507_1_4c4f4b2f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129507",
-        "link": {
-          "title": "How a 30-Year-Old Path Traversal Earned $150K From Apple’s AI Cloud",
-          "url": "https://infosecwriteups.com/how-a-30-year-old-path-traversal-earned-150k-from-apples-ai-cloud-f7d6b8df1f25?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 129506,
-        "text": "⤷\nTitle:\nWhen Finding Bugs Got Cheap and Proving Them Stayed Expensive\n════════════════════════\n𐀪\nAuthor:\nSimardeep Singh\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 01:17:38 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#cybersecurity\n#devsecops\n#artificial_intelligence\n#vulnerability_management",
-        "date": "2026-08-12T02:04:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129506_0_1ab77d6e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129506_1_8a94306d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129506",
-        "link": {
-          "title": "When Finding Bugs Got Cheap and Proving Them Stayed Expensive",
-          "url": "https://medium.com/@simardeep.oberoi/when-finding-bugs-got-cheap-and-proving-them-stayed-expensive-d9a9fde4efdc?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 129505,
-        "text": "⤷\nTitle:\nCisco ASA and FTD VPN Flaw CVE-2026-20349 Exploited in the Wild\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 00:36:16 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Cisco\nASA\n#Cisco\nFTD\n#CVE_2026_20349\n#Denial\nof Service\n#exploited\nin the wild",
-        "date": "2026-08-12T02:03:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129505_0_1ab77d6e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129505_1_19b6480c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129505",
-        "link": {
-          "title": "Cisco ASA and FTD VPN Flaw CVE-2026-20349 Exploited in the Wild",
-          "url": "https://securityonline.info/cisco-asa-ftd-vpn-vulnerability/"
-        }
-      },
-      {
-        "id": 129504,
-        "text": "⤷\nTitle:\nCVE-2026-66147: Unauthenticated Remote Code Execution Flaws Hit SonicWall GMS\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 00:45:11 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_66145\n#CVE_2026_66147\n#Remote\nCode Execution\n#SonicWall\nEmail Security\n#SonicWall\nGMS",
-        "date": "2026-08-12T02:03:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129504_0_1ab77d6e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129504_1_44a268e6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129504",
-        "link": {
-          "title": "CVE-2026-66147: Unauthenticated Remote Code Execution Flaws Hit SonicWall GMS",
-          "url": "https://securityonline.info/sonicwall-gms-rce-vulnerability/"
-        }
-      },
-      {
-        "id": 129503,
-        "text": "⤷\nTitle:\nCVE-2026-64560: Linux Kernel CPU Timer Use-After-Free Gives a Root Shell, PoC Exploit Code Publicly Disclosed\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 01:01:27 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#android\n#CPU\ntimer\n#CVE_2026_64560\n#Linux\nKernel\n#Pixel\n#privilege\nescalation\n#use\nafter free",
-        "date": "2026-08-12T02:03:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129503_0_1ab77d6e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129503_1_21255b23.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129503",
-        "link": {
-          "title": "CVE-2026-64560: Linux Kernel CPU Timer Use-After-Free Gives a Root Shell, PoC Exploit Code Publicly Disclosed",
-          "url": "https://securityonline.info/linux-kernel-cpu-timer-flaw/"
-        }
-      },
-      {
-        "id": 129502,
-        "text": "⤷\nTitle:\n30 Crits in One Week? How Our Team Found 55 Vulnerabilities While Pentesting the U.S. Government\n════════════════════════\n𐀪\nAuthor:\nBroken Access Pentests\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 23:29:04 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#web_application_security\n#vulnerability_research\n#penetration_testing\n#offensive_security",
-        "date": "2026-08-12T00:04:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129502_0_1ab77d6e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129502_1_b626a746.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129502",
-        "link": {
-          "title": "30 Crits in One Week? How Our Team Found 55 Vulnerabilities While Pentesting the U.S. Government",
-          "url": "https://brokenaccesspentests.medium.com/30-crits-in-one-week-how-our-team-found-55-vulnerabilities-while-pentesting-the-u-s-government-e8e69ee1e621?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 129501,
-        "text": "⤷\nTitle:\n[HS] Dark Writeup\n════════════════════════\n𐀪\nAuthor:\naw0ken\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 23:39:05 GMT\n════════════════════════\n⌗\nTags:\n#ctf\n#cybersecurity\n#ctf_walkthrough\n#infosec\n#ctf_writeup",
-        "date": "2026-08-12T00:04:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129501_0_1ab77d6e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129501_1_605381bc.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129501",
-        "link": {
-          "title": "[HS] Dark Writeup",
-          "url": "https://medium.com/@iaw0ken/hs-dark-writeup-022749c6f241?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 129500,
-        "text": "⤷\nTitle:\nSODIK OS: I Built a Hacker-Movie Operating System That Actually Boots\n════════════════════════\n𐀪\nAuthor:\nSodik Tursunboev\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 22:15:55 GMT\n════════════════════════\n⌗\nTags:\n#arch_linux\n#linux\n#red_teaming\n#cybersecurity\n#hacking",
-        "date": "2026-08-12T00:03:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129500_0_1ab77d6e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129500_1_e1492237.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129500",
-        "link": {
-          "title": "SODIK OS: I Built a Hacker-Movie Operating System That Actually Boots",
-          "url": "https://medium.com/@sodik-tursunboev/sodik-os-851a4bd14adb?source=rss------hacking-5"
-        }
       }
     ]
   },
-  "last_update": "2026-08-12T17:26:50.754712+00:00",
+  "last_update": "2026-08-12T18:14:49.460766+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 189,
-    "total_files": 189,
+    "total_media": 188,
+    "total_files": 188,
     "total_links": 0,
     "files_by_type": {
-      "image": 189
+      "image": 188
     },
-    "referenced_files": 189,
-    "existing_media_files": 189,
-    "total_size_mb": 4.91,
-    "last_calculation": "2026-08-12T17:26:50.756970+00:00"
+    "referenced_files": 188,
+    "existing_media_files": 188,
+    "total_size_mb": 5.07,
+    "last_calculation": "2026-08-12T18:14:49.463115+00:00"
   }
 }
