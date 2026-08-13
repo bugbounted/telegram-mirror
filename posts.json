@@ -2,6 +2,144 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 129640,
+        "text": "⤷\nTitle:\n[HS] Casino Writeup\n════════════════════════\n𐀪\nAuthor:\naw0ken\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 00:00:11 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#web_security\n#ctf\n#infosec\n#ctf_writeup",
+        "date": "2026-08-13T02:04:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129640_0_046af1f7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129640_1_d1c4c4ee.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129640",
+        "link": {
+          "title": "[HS] Casino Writeup",
+          "url": "https://infosecwriteups.com/hs-casino-writeup-a82d5df7ad37?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 129639,
+        "text": "⤷\nTitle:\nAgent Discovery (THM) Tryhackme Walkthrough\n════════════════════════\n𐀪\nAuthor:\nLawvye\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 00:15:38 GMT\n════════════════════════\n⌗\nTags:\n#blue_team\n#cybersecurity\n#tryhackme\n#hacking\n#ai_agent",
+        "date": "2026-08-13T02:04:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129639_0_046af1f7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129639_1_9b0b425d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129639",
+        "link": {
+          "title": "Agent Discovery (THM) Tryhackme Walkthrough",
+          "url": "https://medium.com/@lawvye/agent-discovery-thm-tryhackme-walkthrough-f4e7856b3677?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 129638,
+        "text": "⤷\nTitle:\nWhat an Airport Ad, Phone Scams, and a College Elective Have in Common\n════════════════════════\n𐀪\nAuthor:\nJordan\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 00:22:18 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#women_in_tech\n#software_engineering\n#career_change\n#application_security",
+        "date": "2026-08-13T02:04:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129638_0_046af1f7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129638_1_d5d6fd5d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129638",
+        "link": {
+          "title": "What an Airport Ad, Phone Scams, and a College Elective Have in Common",
+          "url": "https://jordanintech.medium.com/what-an-airport-ad-phone-scams-and-a-college-elective-have-in-common-0498f8d653e4?source=rss------application_security-5"
+        }
+      },
+      {
+        "id": 129637,
+        "text": "⤷\nTitle:\nHow to Restore Windows 11 WinRE When the Recovery Partition Exists but Winre.wim Is Missing\n════════════════════════\n𐀪\nAuthor:\nMr Horbio\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 00:17:17 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#bug_bounty\n#window_recovery\n#operating_systems\n#windows",
+        "date": "2026-08-13T02:03:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129637_0_046af1f7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129637_1_dccca555.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129637",
+        "link": {
+          "title": "How to Restore Windows 11 WinRE When the Recovery Partition Exists but Winre.wim Is Missing",
+          "url": "https://medium.com/@hrofficial62/how-to-restore-windows-11-winre-when-the-recovery-partition-exists-but-winre-wim-is-missing-a160f760d7ef?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 129636,
+        "text": "⤷\nTitle:\nGitLab Patch Release Fixes 13 Flaws, Including High-Severity XSS Bugs\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 23:57:16 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_15217\n#CVE_2026_15423\n#DevSecOps\n#gitlab\n#GitLab\npatch release\n#XSS",
+        "date": "2026-08-13T02:03:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129636_0_046af1f7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129636_1_db65188e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129636",
+        "link": {
+          "title": "GitLab Patch Release Fixes 13 Flaws, Including High-Severity XSS Bugs",
+          "url": "https://securityonline.info/gitlab-patch-release-19-2-2/"
+        }
+      },
+      {
+        "id": 129635,
+        "text": "⤷\nTitle:\nMariaDB Low-Privilege Remote Code Execution Chain: Full Details and PoC Exploit Code Publicly Disclosed\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 01:01:09 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#database\nsecurity\n#MariaDB\n#MDEV_40328\n#PoC\n#rce\n#Remote\nCode Execution\n#use\nafter free",
+        "date": "2026-08-13T02:03:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129635_0_046af1f7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129635_1_0680adef.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129635",
+        "link": {
+          "title": "MariaDB Low-Privilege Remote Code Execution Chain: Full Details and PoC Exploit Code Publicly Disclosed",
+          "url": "https://securityonline.info/mariadb-remote-code-execution/"
+        }
+      },
+      {
         "id": 129634,
         "text": "⤷\nTitle:\nThe Cloud Pentesting Methodology: From Open Buckets to Account Takeover\n════════════════════════\n𐀪\nAuthor:\nSanthosh Adiga U\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 22:35:44 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#cloud_penetration_testing\n#ethical_hacking\n#aws",
         "date": "2026-08-13T00:04:03+00:00",
@@ -2118,148 +2256,10 @@
           "title": "Home Lab Active Directory Setup(2026)",
           "url": "https://medium.com/@neeleshpandey0121/home-lab-active-directory-setup-2026-c7623926dec9?source=rss------penetration_testing-5"
         }
-      },
-      {
-        "id": 129540,
-        "text": "⤷\nTitle:\nPenetration Testing for Web and Mobile Apps: A Smarter Security Approach\n════════════════════════\n𐀪\nAuthor:\nAvinash K\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 06:57:42 GMT\n════════════════════════\n⌗\nTags:\n#digital_marketing_agency\n#penetration_testing\n#clients\n#web_development\n#mobile_app_development",
-        "date": "2026-08-12T08:04:29+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129540_0_046af1f7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129540_1_159708cf.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129540",
-        "link": {
-          "title": "Penetration Testing for Web and Mobile Apps: A Smarter Security Approach",
-          "url": "https://medium.com/@avinash_70818/penetration-testing-for-web-and-mobile-apps-a-smarter-security-approach-2d45f696ebf6?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 129539,
-        "text": "⤷\nTitle:\nAndroid NetHunter: Kali Linux su qualsiasi Android\n════════════════════════\n𐀪\nAuthor:\nArtur Cannarozzo\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 07:32:45 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#kali_nethunter\n#ethical_hacking\n#kali_linux\n#cybersecurity",
-        "date": "2026-08-12T08:04:26+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129539_0_046af1f7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129539_1_8221dbce.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129539",
-        "link": {
-          "title": "Android NetHunter: Kali Linux su qualsiasi Android",
-          "url": "https://medium.com/@artur.cannarozzo/android-nethunter-kali-linux-su-qualsiasi-android-1473031d1e52?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 129538,
-        "text": "⤷\nTitle:\nGraphQL API Vulnerabilities in Web App Penetration Testing\n════════════════════════\n𐀪\nAuthor:\nKarthikeyan Nagaraj\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 06:01:02 GMT\n════════════════════════\n⌗\nTags:\n#careers\n#hacking\n#penetration_testing\n#cybersecurity\n#bug_bounty",
-        "date": "2026-08-12T08:04:22+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129538_0_046af1f7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129538_1_b2a19eb2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129538",
-        "link": {
-          "title": "GraphQL API Vulnerabilities in Web App Penetration Testing",
-          "url": "https://cyberw1ng.medium.com/graphql-api-vulnerabilities-in-web-app-penetration-testing-e443a6dbc7d0?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 129537,
-        "text": "⤷\nTitle:\nStop Building Chatbots: Why Burp AT is the Future of Cybersecurity AI\n════════════════════════\n𐀪\nAuthor:\nDhanush N\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 06:26:20 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#cybersecurity\n#burpsuite\n#penetration_testing\n#software_development",
-        "date": "2026-08-12T08:04:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129537_0_046af1f7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129537_1_86be8986.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129537",
-        "link": {
-          "title": "Stop Building Chatbots: Why Burp AT is the Future of Cybersecurity AI",
-          "url": "https://dhanushnehru.medium.com/stop-building-chatbots-why-burp-at-is-the-future-of-cybersecurity-ai-5a21e3bc0bfc?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 129536,
-        "text": "⤷\nTitle:\nWhen EDR Fails: 12 Essential Tools That Exposed a Vendor Breach (Step-by-Step Guide)\n════════════════════════\n𐀪\nAuthor:\nVery Lazy Tech\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 07:09:43 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#edr\n#bug_bounty\n#cybersecurity\n#hacking",
-        "date": "2026-08-12T08:04:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129536_0_046af1f7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129536_1_12377391.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129536",
-        "link": {
-          "title": "When EDR Fails: 12 Essential Tools That Exposed a Vendor Breach (Step-by-Step Guide)",
-          "url": "https://medium.com/@verylazytech/when-edr-fails-12-essential-tools-that-exposed-a-vendor-breach-step-by-step-guide-e6f3a0bc8b21?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 129535,
-        "text": "⤷\nTitle:\nCVE-2026-55040 PoC Released for SharePoint Authentication Bypass\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 06:14:17 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Authentication\nBypass\n#CVE_2026_55040\n#JWT\n#proof_of_concept\n#Rapid7\n#Sharepoint",
-        "date": "2026-08-12T08:04:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129535_0_046af1f7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129535_1_062f9880.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129535",
-        "link": {
-          "title": "CVE-2026-55040 PoC Released for SharePoint Authentication Bypass",
-          "url": "https://securityonline.info/sharepoint-auth-bypass-cve-2026-55040/"
-        }
       }
     ]
   },
-  "last_update": "2026-08-13T00:06:45.385332+00:00",
+  "last_update": "2026-08-13T03:06:29.248395+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2271,7 +2271,7 @@
     },
     "referenced_files": 189,
     "existing_media_files": 189,
-    "total_size_mb": 4.9,
-    "last_calculation": "2026-08-13T00:06:45.387614+00:00"
+    "total_size_mb": 4.84,
+    "last_calculation": "2026-08-13T03:06:29.250662+00:00"
   }
 }
