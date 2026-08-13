@@ -2,6 +2,75 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 129757,
+        "text": "⤷\nTitle:\nYour API Portal’s Biggest Threat Isn’t Hackers — It’s Visibility Without Control\n════════════════════════\n𐀪\nAuthor:\nRhuber\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 16:45:33 GMT\n════════════════════════\n⌗\nTags:\n#api\n#api_security\n#devportal\n#api_portal",
+        "date": "2026-08-13T22:04:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129757_0_a669478d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129757_1_2ca71718.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129757",
+        "link": {
+          "title": "Your API Portal’s Biggest Threat Isn’t Hackers — It’s Visibility Without Control",
+          "url": "https://medium.com/@rhuber_18538/5-min-read-01cb4f5b1e2e?source=rss------api_security-5"
+        }
+      },
+      {
+        "id": 129756,
+        "text": "⤷\nTitle:\nThe Real Path to Cybersecurity\n════════════════════════\n𐀪\nAuthor:\nH. Ali\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 20:35:03 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#hacking\n#information_security\n#cybersecurity\n#security",
+        "date": "2026-08-13T22:03:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129756_0_a669478d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129756_1_f8cd7d95.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129756",
+        "link": {
+          "title": "The Real Path to Cybersecurity",
+          "url": "https://meetcyber.net/the-real-path-to-cybersecurity-bdb9a37214e5?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 129755,
+        "text": "⤷\nTitle:\nVULNBANK API SECURITY ASSESSMENT\n════════════════════════\n𐀪\nAuthor:\nLh1l0v3\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 21:24:23 GMT\n════════════════════════\n⌗\nTags:\n#software_development\n#cybersecurity\n#web_development\n#application_security\n#software_engineering",
+        "date": "2026-08-13T22:03:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129755_0_a669478d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129755_1_8460a1d1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129755",
+        "link": {
+          "title": "VULNBANK API SECURITY ASSESSMENT",
+          "url": "https://medium.com/@Lh1l0v3/vulnbank-api-security-assessment-2be3d40453ed?source=rss------application_security-5"
+        }
+      },
+      {
         "id": 129754,
         "text": "⤷\nTitle:\nI built an app with six security bugs on purpose. The hard part wasn’t fixing them.\n════════════════════════\n𐀪\nAuthor:\nPrateekpulastya\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 18:46:44 GMT\n════════════════════════\n⌗\nTags:\n#cloud_security\n#bug_bounty_tips\n#secure_coding\n#cybersecurity",
         "date": "2026-08-13T20:04:09+00:00",
@@ -2215,79 +2284,10 @@
           "title": "How Unauthenticated Queries Exposed User PII and Privileged Accounts",
           "url": "https://medium.com/@mr-sudheer/how-unauthenticated-queries-exposed-user-pii-and-privileged-accounts-cb89efff14d8?source=rss------bug_bounty-5"
         }
-      },
-      {
-        "id": 129656,
-        "text": "⤷\nTitle:\nFake Zoom Installer Drops Overlord RAT on macOS\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 06:29:05 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#.NET malware\n#fake\nZoom installer\n#Jamf\nThreat Labs\n#macOS\nMalware\n#Overlord\nRAT",
-        "date": "2026-08-13T08:03:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129656_0_a669478d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129656_1_86aefb20.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129656",
-        "link": {
-          "title": "Fake Zoom Installer Drops Overlord RAT on macOS",
-          "url": "https://securityonline.info/fake-zoom-installer-overlord-rat-macos/"
-        }
-      },
-      {
-        "id": 129655,
-        "text": "⤷\nTitle:\nChainDrop npm Worm Hits 400+ Packages via Blockchain C2\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 07:29:07 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#Blockchain\nC2\n#ChainDrop\n#CI\n/CD security\n#npm\nWorm\n#supply\nchain attack\n#Unit\n42",
-        "date": "2026-08-13T08:03:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129655_0_a669478d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129655_1_3d92a250.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129655",
-        "link": {
-          "title": "ChainDrop npm Worm Hits 400+ Packages via Blockchain C2",
-          "url": "https://securityonline.info/chaindrop-npm-worm-supply-chain/"
-        }
-      },
-      {
-        "id": 129652,
-        "text": "⤷\nTitle:\nHunting Exchange Server 0day like a detective\n════════════════════════\n𐀪\nAuthor:\nJang\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 04:45:43 GMT\n════════════════════════\n⌗\nTags:\n#exchange\n#cve_2026_62911\n#servers\n#rce",
-        "date": "2026-08-13T06:04:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129652_0_a669478d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129652_1_435af06c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129652",
-        "link": {
-          "title": "Hunting Exchange Server 0day like a detective",
-          "url": "https://testbnull.medium.com/hunting-exchange-server-0day-like-a-detective-3fd5e0dc9779?source=rss------rce-5"
-        }
       }
     ]
   },
-  "last_update": "2026-08-13T21:13:00.241661+00:00",
+  "last_update": "2026-08-13T22:09:48.128478+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2299,7 +2299,7 @@
     },
     "referenced_files": 196,
     "existing_media_files": 196,
-    "total_size_mb": 5.27,
-    "last_calculation": "2026-08-13T21:13:00.244008+00:00"
+    "total_size_mb": 5.15,
+    "last_calculation": "2026-08-13T22:09:48.130850+00:00"
   }
 }
