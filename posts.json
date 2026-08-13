@@ -2,6 +2,347 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 129726,
+        "text": "⤷\nTitle:\nBrief Intro to Real-world SQLi breaches\n════════════════════════\n𐀪\nAuthor:\nNene\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 14:54:23 GMT\n════════════════════════\n⌗\nTags:\n#sql_injection\n#sql\n#case_study\n#cybersecurity\n#cyber_security_awareness",
+        "date": "2026-08-13T16:04:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129726_0_a669478d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129726_1_9eeb263f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129726",
+        "link": {
+          "title": "Brief Intro to Real-world SQLi breaches",
+          "url": "https://medium.com/@nene.infosec/brief-intro-to-real-world-sqli-breaches-7945167712fc?source=rss------sql_injection-5"
+        }
+      },
+      {
+        "id": 129725,
+        "text": "⤷\nTitle:\nLab: SQL injection attack, listing the database contents on non-Oracle databases\n════════════════════════\n𐀪\nAuthor:\nYoussef AlaaEldin\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 15:01:04 GMT\n════════════════════════\n⌗\nTags:\n#administration\n#portswigger_lab\n#sqli\n#portswigger\n#data_extraction",
+        "date": "2026-08-13T16:04:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129725_0_a669478d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129725_1_353f59ef.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129725",
+        "link": {
+          "title": "Lab: SQL injection attack, listing the database contents on non-Oracle databases",
+          "url": "https://medium.com/@yossefalaaeldin/lab-sql-injection-attack-listing-the-database-contents-on-non-oracle-databases-534b37df20f1?source=rss------sqli-5"
+        }
+      },
+      {
+        "id": 129724,
+        "text": "⤷\nTitle:\nReport Writing for SOC L2\n════════════════════════\n𐀪\nAuthor:\nFireWolf\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 14:10:14 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_walkthrough\n#tryhackme\n#ctf_walkthrough",
+        "date": "2026-08-13T16:04:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129724_0_a669478d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129724_1_399605ca.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129724",
+        "link": {
+          "title": "Report Writing for SOC L2",
+          "url": "https://medium.com/@lehoangphucnguyen0917023/report-writing-for-soc-l2-4b58abd3fb61?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 129723,
+        "text": "⤷\nTitle:\nTHM: Phishing Emails in Action — by MONISH KUMAR S S\n════════════════════════\n𐀪\nAuthor:\nMonishkumar SS\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 14:32:33 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#soc\n#blue_team\n#phishing_awareness\n#tryhackme",
+        "date": "2026-08-13T16:04:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129723_0_a669478d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129723_1_95e78d09.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129723",
+        "link": {
+          "title": "THM: Phishing Emails in Action — by MONISH KUMAR S S",
+          "url": "https://medium.com/@monishkumar.sk/thm-phishing-emails-in-action-by-monish-kumar-s-s-85dfd279e926?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 129722,
+        "text": "⤷\nTitle:\nInclude (THM) — From “Guest” to Root Flag: A Chain of Small Mistakes\n════════════════════════\n𐀪\nAuthor:\nDr.Vixar\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 15:02:37 GMT\n════════════════════════\n⌗\nTags:\n#include\n#ctf\n#idor\n#tryhackme\n#web_security",
+        "date": "2026-08-13T16:04:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129722_0_a669478d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129722_1_32046675.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129722",
+        "link": {
+          "title": "Include (THM) — From “Guest” to Root Flag: A Chain of Small Mistakes",
+          "url": "https://medium.com/@Dr.Vixar/include-thm-from-guest-to-root-flag-a-chain-of-small-mistakes-fb49c7e43e75?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 129721,
+        "text": "⤷\nTitle:\nTryHackMe | Snort Challenge-The Basics\n════════════════════════\n𐀪\nAuthor:\nMazen El-Mekawy\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 15:05:08 GMT\n════════════════════════\n⌗\nTags:\n#id\n#tryhackme_walkthrough\n#challenge\n#tryhackme\n#snort",
+        "date": "2026-08-13T16:04:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129721_0_a669478d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129721_1_6d65f4f4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129721",
+        "link": {
+          "title": "TryHackMe | Snort Challenge-The Basics",
+          "url": "https://medium.com/@mazenelmekawy999/tryhackme-snort-challenge-the-basics-bb79b94ef10d?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 129720,
+        "text": "⤷\nTitle:\nTeam | TryHackMe Walkthrough\n════════════════════════\n𐀪\nAuthor:\nANWAR1\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 15:11:49 GMT\n════════════════════════\n⌗\nTags:\n#team\n#team_ctf\n#tryhackme_writeup\n#team_walkthrough\n#tryhackme",
+        "date": "2026-08-13T16:04:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129720_0_a669478d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129720_1_ba8f9040.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129720",
+        "link": {
+          "title": "Team | TryHackMe Walkthrough",
+          "url": "https://medium.com/@0anwar0/team-tryhackme-walkthrough-e7bee6f73579?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 129719,
+        "text": "⤷\nTitle:\nBebopC2 — A First Look at the New Open Source C2 Framework\n════════════════════════\n𐀪\nAuthor:\naw0ken\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 15:13:44 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#cybersecurity\n#red_team\n#hacking\n#penetration_testing",
+        "date": "2026-08-13T16:04:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129719_0_a669478d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129719_1_90f58cfa.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129719",
+        "link": {
+          "title": "BebopC2 — A First Look at the New Open Source C2 Framework",
+          "url": "https://medium.com/@iaw0ken/bebopc2-a-first-look-at-the-new-open-source-c2-framework-424868eb7dff?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 129718,
+        "text": "⤷\nTitle:\nAğ Dünyasının Görünmez Mimarisini Anlamak: Kritik Protokoller, Hangi Katmanda Ne Çalışır?\n════════════════════════\n𐀪\nAuthor:\nAslıhan Zeynep Koç\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 15:01:03 GMT\n════════════════════════\n⌗\nTags:\n#application_security\n#cybersecurity\n#web_security\n#network_security\n#networking",
+        "date": "2026-08-13T16:04:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129718_0_a669478d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129718",
+        "link": {
+          "title": "Ağ Dünyasının Görünmez Mimarisini Anlamak: Kritik Protokoller, Hangi Katmanda Ne Çalışır?",
+          "url": "https://medium.com/@aslihankoc/a%C4%9F-d%C3%BCnyas%C4%B1n%C4%B1n-g%C3%B6r%C3%BCnmez-mimarisini-anlamak-kritik-protokoller-hangi-katmanda-ne-%C3%A7al%C4%B1%C5%9F%C4%B1r-77c4a498fd26?source=rss------application_security-5"
+        }
+      },
+      {
+        "id": 129717,
+        "text": "⤷\nTitle:\nWe Found Authorization Vulnerabilities in Two of GitHub’s Most-Starred Java Repositories — Semgrep…\n════════════════════════\n𐀪\nAuthor:\nSuman Lamichhane\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 15:01:43 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#spring_boot\n#application_security\n#java\n#static_analysis",
+        "date": "2026-08-13T16:04:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129717_0_a669478d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129717_1_3a9a771c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129717",
+        "link": {
+          "title": "We Found Authorization Vulnerabilities in Two of GitHub’s Most-Starred Java Repositories — Semgrep…",
+          "url": "https://medium.com/@sumanlamichhane45/we-found-authorization-vulnerabilities-in-two-of-githubs-most-starred-java-repositories-semgrep-5d74133c19e5?source=rss------application_security-5"
+        }
+      },
+      {
+        "id": 129716,
+        "text": "⤷\nTitle:\nHow AI Is Transforming Bug Bounty Hunting: My AI-Powered Vulnerability Research Workflow\n════════════════════════\n𐀪\nAuthor:\ncyber security\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 14:40:40 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ai\n#bug_bounty\n#artificial_intelligence",
+        "date": "2026-08-13T16:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129716_0_a669478d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129716_1_ebaed056.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129716",
+        "link": {
+          "title": "How AI Is Transforming Bug Bounty Hunting: My AI-Powered Vulnerability Research Workflow",
+          "url": "https://medium.com/@tanvir.infosec/how-ai-is-transforming-bug-bounty-hunting-my-ai-powered-vulnerability-research-workflow-821d8b646880?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 129715,
+        "text": "⤷\nTitle:\nFrom Bug Bounties to “Pay-to-Report”: The Absurd Rise of Bureaucracy and Cash-Grabbing in Web3…\n════════════════════════\n𐀪\nAuthor:\nJwadmohamd\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 14:59:17 GMT\n════════════════════════\n⌗\nTags:\n#cryptocurrency\n#web3_security\n#bug_bounty",
+        "date": "2026-08-13T16:03:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129715_0_a669478d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129715_1_f269fdde.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129715",
+        "link": {
+          "title": "From Bug Bounties to “Pay-to-Report”: The Absurd Rise of Bureaucracy and Cash-Grabbing in Web3…",
+          "url": "https://medium.com/@jwadmohamd571/from-bug-bounties-to-pay-to-report-the-absurd-rise-of-bureaucracy-and-cash-grabbing-in-web3-4bcf33cff00c?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 129714,
+        "text": "⤷\nTitle:\nBypassing Keyword and Character Filters to Achieve Reflected XSS\n════════════════════════\n𐀪\nAuthor:\nBahmed Boumriga\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 15:26:56 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#penetration_testing\n#xss_attack\n#web_security\n#cybersecurity",
+        "date": "2026-08-13T16:03:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129714_0_a669478d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129714_1_ba32cf97.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129714",
+        "link": {
+          "title": "Bypassing Keyword and Character Filters to Achieve Reflected XSS",
+          "url": "https://medium.com/@boumriga.bahmed/bypassing-keyword-and-character-filters-to-achieve-reflected-xss-c9be7fcac748?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 129713,
+        "text": "⤷\nTitle:\nHow a Broken “Preview” Button Exposed 800,000 Private Documents for a $8,500 Bounty\n════════════════════════\n𐀪\nAuthor:\nT4nv1\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 15:36:01 GMT\n════════════════════════\n⌗\nTags:\n#ai\n#security\n#bug_bounty\n#pentesting\n#cybersecurity",
+        "date": "2026-08-13T16:03:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129713_0_a669478d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129713_1_a5ccc56d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129713",
+        "link": {
+          "title": "How a Broken “Preview” Button Exposed 800,000 Private Documents for a $8,500 Bounty",
+          "url": "https://medium.com/@t3nv1/how-a-broken-preview-button-exposed-800-000-private-documents-for-a-8-500-bounty-d556b3887167?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 129712,
+        "text": "⤷\nTitle:\nCommand Injection in an E-Commerce Website | Penetration Testing CTF\n════════════════════════\n𐀪\nAuthor:\nPentester Club\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 15:47:56 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#bug_bounty\n#artificial_intelligence\n#hacking\n#web_development",
+        "date": "2026-08-13T16:03:45+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129712_0_a669478d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129712_1_d0678d48.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129712",
+        "link": {
+          "title": "Command Injection in an E-Commerce Website | Penetration Testing CTF",
+          "url": "https://medium.com/@pentesterclubpvtltd/command-injection-in-an-e-commerce-website-penetration-testing-ctf-487e868dbac4?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 129711,
         "text": "⤷\nTitle:\nOWASP BWA -DVWA: Brute Force Login\n════════════════════════\n𐀪\nAuthor:\nRat-Bully\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 12:37:12 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#owasp\n#web_penetration_testing\n#ethical_hacking\n#pentesting",
         "date": "2026-08-13T14:04:35+00:00",
@@ -1951,359 +2292,22 @@
           "title": "AD Security Series — Phase 0: The Normal User Is the Door",
           "url": "https://systemweakness.com/ad-security-series-phase-0-the-normal-user-is-the-door-80e095fabeb7?source=rss------hacking-5"
         }
-      },
-      {
-        "id": 129624,
-        "text": "⤷\nTitle:\nDOM Invader on a Real Bug Bounty Target\n════════════════════════\n𐀪\nAuthor:\nMarduk I Am\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 21:51:22 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#dom_xss\n#web_security\n#cross_site_scripting\n#bug_bounty",
-        "date": "2026-08-12T22:03:51+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129624_0_046af1f7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129624_1_2936d350.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129624",
-        "link": {
-          "title": "DOM Invader on a Real Bug Bounty Target",
-          "url": "https://medium.com/@marduk.i.am/dom-invader-on-a-real-bug-bounty-target-99b12a45ade7?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 129623,
-        "text": "⤷\nTitle:\nWeb Application Security Assessment: Mastering SQL Injection (DVWA Lab) low level\n════════════════════════\n𐀪\nAuthor:\nKhalid Abdullahi\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 18:15:09 GMT\n════════════════════════\n⌗\nTags:\n#sql_injection\n#technology\n#ethical_hacking\n#dvwa\n#cybersecurity",
-        "date": "2026-08-12T20:04:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129623_0_046af1f7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129623_1_05b631b0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129623",
-        "link": {
-          "title": "Web Application Security Assessment: Mastering SQL Injection (DVWA Lab) low level",
-          "url": "https://medium.com/@khalid_abdullahi/web-application-security-assessment-mastering-sql-injection-dvwa-lab-low-level-f33ee8c3b544?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 129622,
-        "text": "⤷\nTitle:\nOne Click on a Fake PayPal Page, and the Admin Updates Your Order\n════════════════════════\n𐀪\nAuthor:\nOopsSec Store\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 19:01:01 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#csrf\n#web_security\n#web_development\n#ethical_hacking",
-        "date": "2026-08-12T20:04:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129622_0_046af1f7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129622_1_8a291fb5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129622",
-        "link": {
-          "title": "One Click on a Fake PayPal Page, and the Admin Updates Your Order",
-          "url": "https://medium.com/@oopssec-store/one-click-on-a-fake-paypal-page-and-the-admin-updates-your-order-2a81b9006836?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 129621,
-        "text": "⤷\nTitle:\nOWASP BWA - DVWA: Brute Force Login\n════════════════════════\n𐀪\nAuthor:\nRat-Bully\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 19:16:00 GMT\n════════════════════════\n⌗\nTags:\n#dvwa\n#cybersecurity\n#web_app_pentesting\n#owasp\n#ethical_hacking",
-        "date": "2026-08-12T20:04:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129621_0_046af1f7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129621_1_123aab3a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129621",
-        "link": {
-          "title": "OWASP BWA - DVWA: Brute Force Login",
-          "url": "https://medium.com/@costycrabbe/owasp-bwa-dvwa-brute-force-login-bedab0b890a5?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 129620,
-        "text": "⤷\nTitle:\nOWASP ZAP: A Complete Beginner’s Guide to Web Application Security Testing\n════════════════════════\n𐀪\nAuthor:\nMainEkHacker\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 19:31:01 GMT\n════════════════════════\n⌗\nTags:\n#owasp_top_10\n#xss_attack\n#zap\n#ethical_hacking\n#cybersecurity",
-        "date": "2026-08-12T20:04:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129620_0_046af1f7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129620_1_8bc2acb4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129620",
-        "link": {
-          "title": "OWASP ZAP: A Complete Beginner’s Guide to Web Application Security Testing",
-          "url": "https://mainekhacker.medium.com/owasp-zap-a-complete-beginners-guide-to-web-application-security-testing-cb1a8bb5a4e1?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 129619,
-        "text": "⤷\nTitle:\nBeach Bar-TryHackMe Hacker Holidays Walkthrough-Part3\n════════════════════════\n𐀪\nAuthor:\nRabbiyatabassum\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 18:14:54 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#privilege_escalation\n#ctf_writeup\n#ctf\n#tryhackme",
-        "date": "2026-08-12T20:04:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129619_0_046af1f7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129619_1_2a063d86.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129619",
-        "link": {
-          "title": "Beach Bar-TryHackMe Hacker Holidays Walkthrough-Part3",
-          "url": "https://medium.com/@rabbiyatabassum/beach-bar-tryhackme-hacker-holidays-walkthrough-part3-8229773809b8?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 129618,
-        "text": "⤷\nTitle:\nThe AI Agent That Hacked a Gym Just to Book Pilates\n════════════════════════\n𐀪\nAuthor:\nVTheDev\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 19:22:31 GMT\n════════════════════════\n⌗\nTags:\n#ai\n#hacking\n#ai_agent\n#technology\n#artificial_intelligence",
-        "date": "2026-08-12T20:03:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129618_0_046af1f7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129618_1_a5618716.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129618",
-        "link": {
-          "title": "The AI Agent That Hacked a Gym Just to Book Pilates",
-          "url": "https://medium.com/@SmokeAndStrive/the-ai-agent-that-hacked-a-gym-just-to-book-pilates-8b5da202f167?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 129617,
-        "text": "⤷\nTitle:\nComputing on Data You Cannot Read\n════════════════════════\n𐀪\nAuthor:\nbalpars\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 19:30:43 GMT\n════════════════════════\n⌗\nTags:\n#information_security\n#cryptography\n#hacking\n#cybersecurity\n#data_security",
-        "date": "2026-08-12T20:03:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129617_0_046af1f7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129617_1_da517b57.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129617",
-        "link": {
-          "title": "Computing on Data You Cannot Read",
-          "url": "https://medium.com/@balpars/computing-on-data-you-cannot-read-841402aa0a21?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 129616,
-        "text": "⤷\nTitle:\nVikunja CVE-2026–55064: The Vulnerability Hidden in the Previous Security Fix\n════════════════════════\n𐀪\nAuthor:\nAntariksha Akhilesh Sharma\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 18:22:24 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#cybersecurity\n#golang\n#application_security\n#vulnerability",
-        "date": "2026-08-12T20:03:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129616_0_046af1f7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129616_1_0670dc44.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129616",
-        "link": {
-          "title": "Vikunja CVE-2026–55064: The Vulnerability Hidden in the Previous Security Fix",
-          "url": "https://medium.com/@Infosec-Arsenal-Diaries/vikunja-cve-2026-55064-the-vulnerability-hidden-in-the-previous-security-fix-3f84f84c35bc?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 129615,
-        "text": "⤷\nTitle:\nAsh Reaches the Pokémon League: QuantumVeil Finally Becomes Real\n════════════════════════\n𐀪\nAuthor:\nSaurabh Pandey\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 19:30:34 GMT\n════════════════════════\n⌗\nTags:\n#pokemon\n#quantumveil\n#devops\n#bug_bounty",
-        "date": "2026-08-12T20:03:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129615_0_046af1f7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129615",
-        "link": {
-          "title": "Ash Reaches the Pokémon League: QuantumVeil Finally Becomes Real",
-          "url": "https://medium.com/@saurabh.hack.pandey/ash-reaches-the-pok%C3%A9mon-league-quantumveil-finally-becomes-real-2a26c41f76dd?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 129614,
-        "text": "⤷\nTitle:\nLazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 23:09:27 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-08-12T20:03:45+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129614_0_046af1f7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129614",
-        "link": {
-          "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
-          "url": "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html"
-        }
-      },
-      {
-        "id": 129613,
-        "text": "⤷\nTitle:\nEthical Hacking\n════════════════════════\n𐀪\nAuthor:\nSumitrathour\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 15:57:30 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking",
-        "date": "2026-08-12T18:04:31+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129613_0_046af1f7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129613_1_3dd2f6fe.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129613",
-        "link": {
-          "title": "Ethical Hacking",
-          "url": "https://medium.com/@sumitrathour123465/ethical-hacking-17b226284e8e?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 129612,
-        "text": "⤷\nTitle:\nHow I Built a SOC Lab and Defended Against Live Linux Malware: My Internship Journey\n════════════════════════\n𐀪\nAuthor:\nMunaza Cyber\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 17:49:38 GMT\n════════════════════════\n⌗\nTags:\n#firewall\n#ethical_hacking\n#careers\n#personal_growth\n#cybersecurity",
-        "date": "2026-08-12T18:04:28+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129612_0_046af1f7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129612_1_020e2468.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129612",
-        "link": {
-          "title": "How I Built a SOC Lab and Defended Against Live Linux Malware: My Internship Journey",
-          "url": "https://medium.com/@munnaza.cyber/how-i-built-a-soc-lab-and-defended-against-live-linux-malware-my-internship-journey-337a0a5c01cf?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 129611,
-        "text": "⤷\nTitle:\nSOC L1 Operation— SOC Level 1 TryHackMe Writeup\n════════════════════════\n𐀪\nAuthor:\nAalishaf\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 16:01:31 GMT\n════════════════════════\n⌗\nTags:\n#siem\n#tryhackme\n#cybersecurity\n#tryhackme_writeup",
-        "date": "2026-08-12T18:04:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129611_0_046af1f7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129611_1_9e0fbbcf.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129611",
-        "link": {
-          "title": "SOC L1 Operation— SOC Level 1 TryHackMe Writeup",
-          "url": "https://medium.com/@aalishaf88/soc-l1-operation-soc-level-1-tryhackme-writeup-e956674918e8?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 129610,
-        "text": "⤷\nTitle:\nFile Upload leads to Command Injection Vulnerability\n════════════════════════\n𐀪\nAuthor:\nSecmonk\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 16:56:47 GMT\n════════════════════════\n⌗\nTags:\n#vulnerability\n#penetration_testing\n#offsec\n#oscp\n#web_application_security",
-        "date": "2026-08-12T18:04:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129610_0_046af1f7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129610_1_c1e9c9db.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129610",
-        "link": {
-          "title": "File Upload leads to Command Injection Vulnerability",
-          "url": "https://medium.com/@1secmonk/file-upload-leads-to-command-injection-vulnerability-c74fd6908b1f?source=rss------penetration_testing-5"
-        }
       }
     ]
   },
-  "last_update": "2026-08-13T15:29:25.005960+00:00",
+  "last_update": "2026-08-13T16:17:24.228409+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 197,
-    "total_files": 197,
+    "total_media": 198,
+    "total_files": 198,
     "total_links": 0,
     "files_by_type": {
-      "image": 197
+      "image": 198
     },
-    "referenced_files": 197,
-    "existing_media_files": 197,
-    "total_size_mb": 4.89,
-    "last_calculation": "2026-08-13T15:29:25.007432+00:00"
+    "referenced_files": 198,
+    "existing_media_files": 198,
+    "total_size_mb": 4.92,
+    "last_calculation": "2026-08-13T16:17:24.230831+00:00"
   }
 }
