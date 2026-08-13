@@ -2,6 +2,466 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 129674,
+        "text": "⤷\nTitle:\nPortswigger lab : SQL injection attack, querying the database type and version on Oracle\n════════════════════════\n𐀪\nAuthor:\nDipankar Paul\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 06:14:12 GMT\n════════════════════════\n⌗\nTags:\n#portswigger\n#sql\n#sql_injection\n#cybersecurity",
+        "date": "2026-08-13T08:04:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129674_0_a669478d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129674_1_4e084391.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129674",
+        "link": {
+          "title": "Portswigger lab : SQL injection attack, querying the database type and version on Oracle",
+          "url": "https://medium.com/@pauldip06ece/portswigger-lab-sql-injection-attack-querying-the-database-type-and-version-on-oracle-349f13650e72?source=rss------sql_injection-5"
+        }
+      },
+      {
+        "id": 129673,
+        "text": "⤷\nTitle:\nPortswigger lab : SQL injection attack, listing the database contents on non-Oracle databases\n════════════════════════\n𐀪\nAuthor:\nDipankar Paul\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 07:27:56 GMT\n════════════════════════\n⌗\nTags:\n#sql_injection\n#portswigger\n#sql\n#cybersecurity",
+        "date": "2026-08-13T08:04:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129673_0_a669478d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129673_1_bab62d7c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129673",
+        "link": {
+          "title": "Portswigger lab : SQL injection attack, listing the database contents on non-Oracle databases",
+          "url": "https://medium.com/@pauldip06ece/portswigger-lab-sql-injection-attack-listing-the-database-contents-on-non-oracle-databases-087015809023?source=rss------sql_injection-5"
+        }
+      },
+      {
+        "id": 129672,
+        "text": "⤷\nTitle:\nTryHackMe  Write-Up: Solving the B1t Recovery CTF (Known-Plaintext Attack)\n════════════════════════\n𐀪\nAuthor:\nSushma\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 06:13:51 GMT\n════════════════════════\n⌗\nTags:\n#ctf\n#ctf_walkthrough\n#ctf_writeup\n#tryhackme\n#tryhackme_walkthrough",
+        "date": "2026-08-13T08:04:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129672_0_a669478d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129672_1_09f70b11.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129672",
+        "link": {
+          "title": "TryHackMe  Write-Up: Solving the B1t Recovery CTF (Known-Plaintext Attack)",
+          "url": "https://medium.com/@sushmaaragidda/tryhackme-write-up-solving-the-b1t-recovery-ctf-known-plaintext-attack-397eca53c065?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 129671,
+        "text": "⤷\nTitle:\nOverflow The Jackpot CTF — Lost Fortune Included — Short Write-up\n════════════════════════\n𐀪\nAuthor:\nPRiTi.EX\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 06:37:34 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#ctf",
+        "date": "2026-08-13T08:04:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129671_0_a669478d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129671_1_190814ca.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129671",
+        "link": {
+          "title": "Overflow The Jackpot CTF — Lost Fortune Included — Short Write-up",
+          "url": "https://medium.com/@pritiranjanmohanta6371/overflow-the-jackpot-ctf-lost-fortune-included-short-write-up-6c6e8ee825f8?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 129670,
+        "text": "⤷\nTitle:\nTryHackMe — VERA Guestbook: Exploiting an AI Authorization Flaw to Capture the Flag\n════════════════════════\n𐀪\nAuthor:\nSYN\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 07:21:14 GMT\n════════════════════════\n⌗\nTags:\n#ctf\n#tryhackme\n#ai\n#cybersecurity\n#tryhackme_walkthrough",
+        "date": "2026-08-13T08:04:46+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129670_0_a669478d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129670_1_27734157.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129670",
+        "link": {
+          "title": "TryHackMe — VERA Guestbook: Exploiting an AI Authorization Flaw to Capture the Flag",
+          "url": "https://medium.com/@syedgousebasha29/tryhackme-vera-guestbook-exploiting-an-ai-authorization-flaw-to-capture-the-flag-a96308886264?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 129669,
+        "text": "⤷\nTitle:\n[RootMe] — PHP Upload Bypass to Root Access via SUID PrivEsc\n════════════════════════\n𐀪\nAuthor:\nBash Overflow\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 07:43:04 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_rootme\n#file_upload_bypass\n#tryhackme\n#privilege_escalation\n#ctf",
+        "date": "2026-08-13T08:04:42+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129669_0_a669478d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129669_1_0f2d8868.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129669",
+        "link": {
+          "title": "[RootMe] — PHP Upload Bypass to Root Access via SUID PrivEsc",
+          "url": "https://osintteam.blog/rootme-php-upload-bypass-to-root-access-via-suid-privesc-26827515112d?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 129668,
+        "text": "⤷\nTitle:\nAutomating AI Safety Assessments: Multi-Turn Attacks and Logging for Modern Applications\n════════════════════════\n𐀪\nAuthor:\nAmit Kulkarni\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 05:50:56 GMT\n════════════════════════\n⌗\nTags:\n#llm\n#automated_testing\n#python\n#penetration_testing\n#artificial_intelligence",
+        "date": "2026-08-13T08:04:39+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129668_0_a669478d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129668_1_6482f56c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129668",
+        "link": {
+          "title": "Automating AI Safety Assessments: Multi-Turn Attacks and Logging for Modern Applications",
+          "url": "https://medium.com/the-generalist-specialist/automating-ai-safety-assessments-multi-turn-attacks-and-logging-for-modern-applications-a92536279abe?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 129667,
+        "text": "⤷\nTitle:\nAtlassian AI Rovo Tricked Into Sending Jira and Confluence Data to Attackers\n════════════════════════\n𐀪\nAuthor:\nStanislav Klevtsov\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 07:02:45 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#ai\n#ai_agent\n#vulnerability\n#cybersecurity",
+        "date": "2026-08-13T08:04:36+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129667_0_a669478d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129667_1_00f88489.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129667",
+        "link": {
+          "title": "Atlassian AI Rovo Tricked Into Sending Jira and Confluence Data to Attackers",
+          "url": "https://stansecure.medium.com/atlassian-ai-rovo-tricked-into-sending-jira-and-confluence-data-to-attackers-b850e0c04e3c?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 129666,
+        "text": "⤷\nTitle:\nWhat Is MEV? Sandwich Attacks on DEX Swaps Explained\n════════════════════════\n𐀪\nAuthor:\nKryllex\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 06:11:18 GMT\n════════════════════════\n⌗\nTags:\n#ethereum\n#decentralized_finance\n#crypto\n#cryptocurrency\n#hacking",
+        "date": "2026-08-13T08:04:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129666_0_a669478d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129666_1_2553991b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129666",
+        "link": {
+          "title": "What Is MEV? Sandwich Attacks on DEX Swaps Explained",
+          "url": "https://blog.blockmagnates.com/what-is-mev-sandwich-attacks-on-dex-swaps-explained-170adb5cb1c7?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 129665,
+        "text": "⤷\nTitle:\nCybersecurity Training Institute\n════════════════════════\n𐀪\nAuthor:\nCozonix\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 06:49:21 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#cybersecurity\n#technology\n#hacking\n#education",
+        "date": "2026-08-13T08:04:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129665_0_a669478d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129665_1_431b768f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129665",
+        "link": {
+          "title": "Cybersecurity Training Institute",
+          "url": "https://medium.com/@cozonix.official/cybersecurity-training-institute-989abb74f5d2?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 129664,
+        "text": "⤷\nTitle:\nEthical Hacking Institute\n════════════════════════\n𐀪\nAuthor:\nCozonix\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 07:15:44 GMT\n════════════════════════\n⌗\nTags:\n#technology\n#hacking\n#ethical_hacking\n#educational\n#cybersecurity",
+        "date": "2026-08-13T08:04:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129664_0_a669478d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129664_1_f91217ce.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129664",
+        "link": {
+          "title": "Ethical Hacking Institute",
+          "url": "https://medium.com/@cozonix.official/ethical-hacking-institute-625ae31aad8f?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 129663,
+        "text": "⤷\nTitle:\nThe Tech-Savvy Parent’s Guide to Digital Safety in 2026: Balancing Security and Trust\n════════════════════════\n𐀪\nAuthor:\nPromotionneverlove\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 07:39:55 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#cybersecurity",
+        "date": "2026-08-13T08:04:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129663_0_a669478d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129663_1_ad06d7b4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129663",
+        "link": {
+          "title": "The Tech-Savvy Parent’s Guide to Digital Safety in 2026: Balancing Security and Trust",
+          "url": "https://medium.com/@promotionneverlove/the-tech-savvy-parents-guide-to-digital-safety-in-2026-balancing-security-and-trust-bd5869fa3ef6?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 129662,
+        "text": "⤷\nTitle:\nAI Systems Can Be Attacked Too. Here Is How It Happens and What Professionals Are Doing About It.\n════════════════════════\n𐀪\nAuthor:\nParag Jadhav\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 05:52:37 GMT\n════════════════════════\n⌗\nTags:\n#ai_systems\n#hacking\n#cybersecurity\n#gujarat\n#bug_bounty",
+        "date": "2026-08-13T08:04:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129662_0_a669478d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129662_1_c6009be2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129662",
+        "link": {
+          "title": "AI Systems Can Be Attacked Too. Here Is How It Happens and What Professionals Are Doing About It.",
+          "url": "https://medium.com/@parag.jadhav21891/ai-systems-can-be-attacked-too-here-is-how-it-happens-and-what-professionals-are-doing-about-it-4ff344faedbd?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 129661,
+        "text": "⤷\nTitle:\nHow a Tampered role_id Gave Me Permanent, Invisible Control Over Other Users’ Organizations\n════════════════════════\n𐀪\nAuthor:\nHASG\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 06:12:05 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#bug_bounty\n#information_security\n#cybersecuirty\n#web_security",
+        "date": "2026-08-13T08:04:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129661_0_a669478d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129661_1_aa52ed30.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129661",
+        "link": {
+          "title": "How a Tampered role_id Gave Me Permanent, Invisible Control Over Other Users’ Organizations",
+          "url": "https://hamzaelgarhy.medium.com/how-a-tampered-role-id-gave-me-permanent-invisible-control-over-other-users-organizations-c968e0e633ec?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 129660,
+        "text": "⤷\nTitle:\nThe Bug Worth Lakhs Was Not in the Code. Here It Was and How to Report It Properly.\n════════════════════════\n𐀪\nAuthor:\nParag Jadhav\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 06:14:22 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#generative_ai_tools\n#cybersecurity\n#business\n#ai_security",
+        "date": "2026-08-13T08:04:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129660_0_a669478d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129660_1_f8cbc3a8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129660",
+        "link": {
+          "title": "The Bug Worth Lakhs Was Not in the Code. Here It Was and How to Report It Properly.",
+          "url": "https://medium.com/@parag.jadhav21891/the-bug-worth-lakhs-was-not-in-the-code-here-it-was-and-how-to-report-it-properly-22312bca3c5d?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 129659,
+        "text": "⤷\nTitle:\nEDR Bypass Without Malware: 15 LOLBAS Techniques Security Pros Need to Master\n════════════════════════\n𐀪\nAuthor:\nVery Lazy Tech\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 06:19:20 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#hacking\n#bug_bounty\n#cybersecurity\n#penetration_testing",
+        "date": "2026-08-13T08:04:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129659_0_a669478d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129659_1_1453af25.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129659",
+        "link": {
+          "title": "EDR Bypass Without Malware: 15 LOLBAS Techniques Security Pros Need to Master",
+          "url": "https://medium.com/@verylazytech/edr-bypass-without-malware-15-lolbas-techniques-security-pros-need-to-master-1d6d8abe2b38?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 129658,
+        "text": "⤷\nTitle:\nUnique Username Validation Bypass to a Stored Open Redirect: How I Escalated a Bug Bounty Finding\n════════════════════════\n𐀪\nAuthor:\nAnkit Rathva aka Gujarati Hacker\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 07:17:32 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_writeup\n#hackerone\n#bug_bounty_tips\n#bug_bounty\n#business_logic",
+        "date": "2026-08-13T08:04:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129658_0_a669478d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129658_1_da300d7a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129658",
+        "link": {
+          "title": "Unique Username Validation Bypass to a Stored Open Redirect: How I Escalated a Bug Bounty Finding",
+          "url": "https://medium.com/@ankitrathva/unique-username-validation-bypass-to-a-stored-open-redirect-how-i-escalated-a-bug-bounty-finding-eb059db498c2?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 129657,
+        "text": "⤷\nTitle:\nHow Unauthenticated Queries Exposed User PII and Privileged Accounts\n════════════════════════\n𐀪\nAuthor:\nSudheer\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 07:26:04 GMT\n════════════════════════\n⌗\nTags:\n#authorization\n#api_security\n#bug_bounty\n#authentication\n#web_security_testing",
+        "date": "2026-08-13T08:04:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129657_0_a669478d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129657_1_76c18570.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129657",
+        "link": {
+          "title": "How Unauthenticated Queries Exposed User PII and Privileged Accounts",
+          "url": "https://medium.com/@mr-sudheer/how-unauthenticated-queries-exposed-user-pii-and-privileged-accounts-cb89efff14d8?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 129656,
+        "text": "⤷\nTitle:\nFake Zoom Installer Drops Overlord RAT on macOS\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 06:29:05 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#.NET malware\n#fake\nZoom installer\n#Jamf\nThreat Labs\n#macOS\nMalware\n#Overlord\nRAT",
+        "date": "2026-08-13T08:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129656_0_a669478d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129656_1_86aefb20.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129656",
+        "link": {
+          "title": "Fake Zoom Installer Drops Overlord RAT on macOS",
+          "url": "https://securityonline.info/fake-zoom-installer-overlord-rat-macos/"
+        }
+      },
+      {
+        "id": 129655,
+        "text": "⤷\nTitle:\nChainDrop npm Worm Hits 400+ Packages via Blockchain C2\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 07:29:07 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#Blockchain\nC2\n#ChainDrop\n#CI\n/CD security\n#npm\nWorm\n#supply\nchain attack\n#Unit\n42",
+        "date": "2026-08-13T08:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129655_0_a669478d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129655_1_3d92a250.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129655",
+        "link": {
+          "title": "ChainDrop npm Worm Hits 400+ Packages via Blockchain C2",
+          "url": "https://securityonline.info/chaindrop-npm-worm-supply-chain/"
+        }
+      },
+      {
         "id": 129652,
         "text": "⤷\nTitle:\nHunting Exchange Server 0day like a detective\n════════════════════════\n𐀪\nAuthor:\nJang\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 04:45:43 GMT\n════════════════════════\n⌗\nTags:\n#exchange\n#cve_2026_62911\n#servers\n#rce",
         "date": "2026-08-13T06:04:07+00:00",
@@ -1816,474 +2276,22 @@
           "title": "How “just forward the request” turns into a surprisingly complicated job",
           "url": "https://medium.com/@gaurirai64/how-just-forward-the-request-turns-into-a-surprisingly-complicated-job-f137a61b927e?source=rss------api_security-5"
         }
-      },
-      {
-        "id": 129572,
-        "text": "⤷\nTitle:\nCybersecurity Fundamentals: CIA Triad, AAA, Security Teams & Cryptography\n════════════════════════\n𐀪\nAuthor:\nGOBI VENKATESH\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 10:42:21 GMT\n════════════════════════\n⌗\nTags:\n#information_security\n#cybersecurity_awareness\n#cryptography\n#ethical_hacking\n#cybersecurity",
-        "date": "2026-08-12T12:04:33+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129572_0_046af1f7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129572_1_03f3b484.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129572",
-        "link": {
-          "title": "Cybersecurity Fundamentals: CIA Triad, AAA, Security Teams & Cryptography",
-          "url": "https://medium.com/@gobivenkatesh23/cybersecurity-fundamentals-cia-triad-aaa-security-teams-cryptography-9e5103eb9d33?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 129571,
-        "text": "⤷\nTitle:\nŞirket Ağınızı Siber Tehditlerden Koruyun: OPNsense ile Web Filtreleme\n════════════════════════\n𐀪\nAuthor:\nMehmet Ali\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 11:27:24 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#cybersecurity\n#firewall\n#blue_team",
-        "date": "2026-08-12T12:04:30+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129571_0_046af1f7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129571",
-        "link": {
-          "title": "Şirket Ağınızı Siber Tehditlerden Koruyun: OPNsense ile Web Filtreleme",
-          "url": "https://medium.com/@Metthehackk/%C5%9Firket-a%C4%9F%C4%B1n%C4%B1z%C4%B1-siber-tehditlerden-koruyun-opnsense-ile-web-filtreleme-4a53fd35b542?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 129570,
-        "text": "⤷\nTitle:\nTesting the Authentication Boundary: A Case Study in Session and Identity Security\n════════════════════════\n𐀪\nAuthor:\nMdporschaa\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 10:14:30 GMT\n════════════════════════\n⌗\nTags:\n#authentication\n#jwt_authentication\n#identity_management\n#api_security\n#penetration_testing",
-        "date": "2026-08-12T12:04:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129570_0_046af1f7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129570_1_4b7002d2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129570",
-        "link": {
-          "title": "Testing the Authentication Boundary: A Case Study in Session and Identity Security",
-          "url": "https://medium.com/@mdporschaa/testing-the-authentication-boundary-a-case-study-in-session-and-identity-security-7ecd80010cc8?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 129569,
-        "text": "⤷\nTitle:\nGray-Box Infrastructure Pentest: Compromising Metasploitable 2 via 4 Independent Root Vectors\n════════════════════════\n𐀪\nAuthor:\nMohamed Sabry\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 10:19:15 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#technology\n#penetration_testing\n#ethical_hacking\n#metasploit",
-        "date": "2026-08-12T12:04:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129569_0_046af1f7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129569_1_3b912fe4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129569",
-        "link": {
-          "title": "Gray-Box Infrastructure Pentest: Compromising Metasploitable 2 via 4 Independent Root Vectors",
-          "url": "https://medium.com/@0xSABRY/gray-box-infrastructure-pentest-compromising-metasploitable-2-via-4-independent-root-vectors-926f27ad53f4?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 129568,
-        "text": "⤷\nTitle:\nBeyond the Blockchain: How Web Application Penetration Testing, Cloud Security Assessment, and…\n════════════════════════\n𐀪\nAuthor:\nCharelton\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 10:47:40 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#web_applications\n#digital_forensics\n#incident_response\n#cloud_security_assessment",
-        "date": "2026-08-12T12:04:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129568_0_046af1f7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129568_1_1a782e57.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129568",
-        "link": {
-          "title": "Beyond the Blockchain: How Web Application Penetration Testing, Cloud Security Assessment, and…",
-          "url": "https://medium.com/@charelton7/beyond-the-blockchain-how-web-application-penetration-testing-cloud-security-assessment-and-35be21e41a7b?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 129567,
-        "text": "⤷\nTitle:\nA SaaS Pentest Isn’t Buyer-Ready Until Authorization Is Proven\n════════════════════════\n𐀪\nAuthor:\nPentest_Testing_Corp\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 10:59:42 GMT\n════════════════════════\n⌗\nTags:\n#api_security\n#access_control\n#b2b_saas\n#penetration_testing\n#saas_security",
-        "date": "2026-08-12T12:04:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129567_0_046af1f7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129567_1_8b4733b9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129567",
-        "link": {
-          "title": "A SaaS Pentest Isn’t Buyer-Ready Until Authorization Is Proven",
-          "url": "https://meetcyber.net/a-saas-pentest-isnt-buyer-ready-until-authorization-is-proven-fa9fd6eef359?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 129566,
-        "text": "⤷\nTitle:\nEXPLOITING COMMAND INJECTION(From Easy to Bypassing Filters)\n════════════════════════\n𐀪\nAuthor:\nEbube uzomba\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 11:29:40 GMT\n════════════════════════\n⌗\nTags:\n#offensive_security\n#penetration_testing\n#cybersecurity\n#command_injection",
-        "date": "2026-08-12T12:04:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129566_0_046af1f7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129566_1_cad38195.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129566",
-        "link": {
-          "title": "EXPLOITING COMMAND INJECTION(From Easy to Bypassing Filters)",
-          "url": "https://medium.com/@sigmaohio082/exploiting-command-injection-from-easy-to-bypassing-filters-488c51040e69?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 129565,
-        "text": "⤷\nTitle:\nTHE SECRET JOURNAL OF NOOB.0\n════════════════════════\n𐀪\nAuthor:\nSecret Person\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 10:22:56 GMT\n════════════════════════\n⌗\nTags:\n#hackathon_story\n#hacking\n#ctf\n#for_begginers\n#do",
-        "date": "2026-08-12T12:04:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129565_0_046af1f7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129565_1_b22ce52a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129565",
-        "link": {
-          "title": "THE SECRET JOURNAL OF NOOB.0",
-          "url": "https://medium.com/@tiwarisoumya111/the-secret-journal-of-noob-0-66f60eef9a77?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 129564,
-        "text": "⤷\nTitle:\nThe $4.67 Million Secret Network Drain: When Privacy Hid the Heist for Seven Days\n════════════════════════\n𐀪\nAuthor:\nYua Mikanana\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 10:50:06 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#cryptocurrency\n#hacking\n#technology\n#blockchain",
-        "date": "2026-08-12T12:04:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129564_0_046af1f7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129564_1_d35007c4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129564",
-        "link": {
-          "title": "The $4.67 Million Secret Network Drain: When Privacy Hid the Heist for Seven Days",
-          "url": "https://medium.com/@yua.mikanana19/the-4-67-million-secret-network-drain-when-privacy-hid-the-heist-for-seven-days-c51625d65c79?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 129563,
-        "text": "⤷\nTitle:\nSnapchat monitoring services without any suspicious notice about It: Activity monitoring, Snapchat…\n════════════════════════\n𐀪\nAuthor:\nPaul Weller\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 11:18:33 GMT\n════════════════════════\n⌗\nTags:\n#private_investigator\n#cheating_spouse\n#snapchat\n#catch_a_cheating_spouse\n#hacking",
-        "date": "2026-08-12T12:04:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129563_0_046af1f7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129563_1_6929c4f9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129563",
-        "link": {
-          "title": "Snapchat monitoring services without any suspicious notice about It: Activity monitoring, Snapchat…",
-          "url": "https://medium.com/@paulweller_3232/snapchat-monitoring-services-without-any-suspicious-notice-about-it-activity-monitoring-snapchat-8cdabb6c0722?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 129562,
-        "text": "⤷\nTitle:\nCyber Security Is Not Just Hacking. Here Are the Real Paths and How to Choose Between Them.\n════════════════════════\n𐀪\nAuthor:\nAnjali Shah\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 11:26:46 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#computer_science\n#parul_university_vadodara\n#cybersecurity\n#btech",
-        "date": "2026-08-12T12:03:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129562_0_046af1f7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129562_1_43768ff3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129562",
-        "link": {
-          "title": "Cyber Security Is Not Just Hacking. Here Are the Real Paths and How to Choose Between Them.",
-          "url": "https://medium.com/@anjali.shah44350/cyber-security-is-not-just-hacking-here-are-the-real-paths-and-how-to-choose-between-them-a598869fcb9d?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 129561,
-        "text": "⤷\nTitle:\nDOM XSS: The Bug Your WAF Will Never Catch\n════════════════════════\n𐀪\nAuthor:\nNitin yadav\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 11:31:01 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#xss_attack\n#cybersecurity\n#ethical_hacking\n#bug_bounty",
-        "date": "2026-08-12T12:03:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129561_0_046af1f7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129561_1_fb54284e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129561",
-        "link": {
-          "title": "DOM XSS: The Bug Your WAF Will Never Catch",
-          "url": "https://kd-200.medium.com/dom-xss-the-bug-your-waf-will-never-catch-84bf9dda96bb?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 129560,
-        "text": "⤷\nTitle:\nAdobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 16:43:03 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-08-12T12:03:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129560_0_046af1f7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129560",
-        "link": {
-          "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
-          "url": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html"
-        }
-      },
-      {
-        "id": 129559,
-        "text": "⤷\nTitle:\nWhat Are the Best Practices for API Security? A Complete Guide to Securing Modern APIs\n════════════════════════\n𐀪\nAuthor:\nJohn Walter Munene Njeru\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 08:47:48 GMT\n════════════════════════\n⌗\nTags:\n#api_security\n#software_development\n#web_development\n#cybersecurity\n#nodejs",
-        "date": "2026-08-12T10:04:40+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129559_0_046af1f7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129559_1_112bff7c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129559",
-        "link": {
-          "title": "What Are the Best Practices for API Security? A Complete Guide to Securing Modern APIs",
-          "url": "https://javascript.plainenglish.io/what-are-the-best-practices-for-api-security-a-complete-guide-to-securing-modern-apis-0ed7a3f04b6a?source=rss------api_security-5"
-        }
-      },
-      {
-        "id": 129558,
-        "text": "⤷\nTitle:\nTryHackMe | CyberChef: The Basics\n════════════════════════\n𐀪\nAuthor:\nMazen El-Mekawy\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 08:58:12 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#cyberchef\n#cybersecurity\n#tryhackme_writeup\n#tryhackme_walkthrough",
-        "date": "2026-08-12T10:04:36+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129558_0_046af1f7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129558_1_b3d7b9fb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129558",
-        "link": {
-          "title": "TryHackMe | CyberChef: The Basics",
-          "url": "https://medium.com/@mazenelmekawy999/tryhackme-cyberchef-the-basics-df1540682420?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 129557,
-        "text": "⤷\nTitle:\nAgent Design- Tryhackme\n════════════════════════\n𐀪\nAuthor:\nFaridsm Bcf\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 09:05:52 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme",
-        "date": "2026-08-12T10:04:33+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129557_0_046af1f7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129557_1_0a10b2d2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129557",
-        "link": {
-          "title": "Agent Design- Tryhackme",
-          "url": "https://medium.com/@faridsm-bcf204/agent-design-tryhackme-a27307d864a1?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 129556,
-        "text": "⤷\nTitle:\nThe Hidden Security Gaps Inside Growing Businesses: Why VAPT Deserves a Place in Your Cybersecurity…\n════════════════════════\n𐀪\nAuthor:\nANSI Technologies\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 08:16:50 GMT\n════════════════════════\n⌗\nTags:\n#vulnerability_assessment\n#vapt\n#cyber_threat\n#penetration_testing\n#cybersecurity",
-        "date": "2026-08-12T10:04:30+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129556_0_046af1f7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129556_1_56fbcf01.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129556",
-        "link": {
-          "title": "The Hidden Security Gaps Inside Growing Businesses: Why VAPT Deserves a Place in Your Cybersecurity…",
-          "url": "https://ansiconsult.medium.com/the-hidden-security-gaps-inside-growing-businesses-why-vapt-deserves-a-place-in-your-cybersecurity-627e829fc318?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 129555,
-        "text": "⤷\nTitle:\nCVE-2021–35042 : Django QuerySet.order_by() SQL Injection\n════════════════════════\n𐀪\nAuthor:\nArya Utomo\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 08:21:07 GMT\n════════════════════════\n⌗\nTags:\n#programming\n#penetration_testing\n#cve\n#cybersecurity",
-        "date": "2026-08-12T10:04:26+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129555_0_046af1f7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129555_1_6b967f88.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129555",
-        "link": {
-          "title": "CVE-2021–35042 : Django QuerySet.order_by() SQL Injection",
-          "url": "https://medium.com/@utomoa448/cve-2021-35042-django-queryset-order-by-sql-injection-e201381ecc27?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 129554,
-        "text": "⤷\nTitle:\nAnother Morning, Another RAT Kiddie | SillyGoXLR\n════════════════════════\n𐀪\nAuthor:\n0xRushy\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 08:35:26 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#penetration_testing\n#malware_analysis\n#discord",
-        "date": "2026-08-12T10:04:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129554_0_046af1f7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129554_1_41b6925b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129554",
-        "link": {
-          "title": "Another Morning, Another RAT Kiddie | SillyGoXLR",
-          "url": "https://medium.com/@RandomFlawsFinder/another-morning-another-rat-kiddie-sillygoxlr-5fcb7466b3bd?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 129553,
-        "text": "⤷\nTitle:\nPenetration Testing Course in Bangalore: Fees, Syllabus, Eligibility & Career Scope\n════════════════════════\n𐀪\nAuthor:\nhackerbook cs\n════════════════════════\nⴵ\nTime:\nWed, 12 Aug 2026 09:40:11 GMT\n════════════════════════\n⌗\nTags:\n#pentesting_course\n#pentest_course_bangalore\n#penetration_testing_tools\n#ethical_hacking_course\n#penetration_testing",
-        "date": "2026-08-12T10:04:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129553_0_046af1f7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129553_1_645a7bd5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129553",
-        "link": {
-          "title": "Penetration Testing Course in Bangalore: Fees, Syllabus, Eligibility & Career Scope",
-          "url": "https://medium.com/@hackerbookcs/penetration-testing-course-in-bangalore-fees-syllabus-eligibility-career-scope-bb80800aa62a?source=rss------penetration_testing-5"
-        }
       }
     ]
   },
-  "last_update": "2026-08-13T06:54:29.704009+00:00",
+  "last_update": "2026-08-13T08:11:05.436860+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 192,
-    "total_files": 192,
+    "total_media": 194,
+    "total_files": 194,
     "total_links": 0,
     "files_by_type": {
-      "image": 192
+      "image": 194
     },
-    "referenced_files": 192,
-    "existing_media_files": 192,
-    "total_size_mb": 4.92,
-    "last_calculation": "2026-08-13T06:54:29.706320+00:00"
+    "referenced_files": 194,
+    "existing_media_files": 194,
+    "total_size_mb": 5.0,
+    "last_calculation": "2026-08-13T08:11:05.439286+00:00"
   }
 }
