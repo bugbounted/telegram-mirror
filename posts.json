@@ -2,6 +2,213 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 129781,
+        "text": "⤷\nTitle:\nMariaDB 13.0.1-rc RCE: Priv-Esc + Heap UAF + JOP Chain to system()\n════════════════════════\n𐀪\nAuthor:\nGuidancewhite\n════════════════════════\nⴵ\nTime:\nFri, 14 Aug 2026 04:48:26 GMT\n════════════════════════\n⌗\nTags:\n#database\n#rce\n#exploit\n#mariadb",
+        "date": "2026-08-14T06:04:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129781_0_56bc1a3c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129781_1_22ed03aa.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129781",
+        "link": {
+          "title": "MariaDB 13.0.1-rc RCE: Priv-Esc + Heap UAF + JOP Chain to system()",
+          "url": "https://medium.com/@guidancewhite/mariadb-13-0-1-rc-rce-priv-esc-heap-uaf-jop-chain-to-system-798a9f099828?source=rss------rce-5"
+        }
+      },
+      {
+        "id": 129780,
+        "text": "⤷\nTitle:\nSecuring Pakistan’s Digital Future: A Cyber Defense Strategy for the Year Ahead\n════════════════════════\n𐀪\nAuthor:\nMuhsin Ali Shah\n════════════════════════\nⴵ\nTime:\nFri, 14 Aug 2026 03:58:59 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#pakistan\n#life\n#independence_day\n#ethical_hacking",
+        "date": "2026-08-14T06:04:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129780_0_56bc1a3c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129780_1_cbc93abd.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129780",
+        "link": {
+          "title": "Securing Pakistan’s Digital Future: A Cyber Defense Strategy for the Year Ahead",
+          "url": "https://medium.com/@imuhsinalishah/securing-pakistans-digital-future-a-cyber-defense-strategy-for-the-year-ahead-221eec04e892?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 129779,
+        "text": "⤷\nTitle:\nTop Cybersecurity Trends in 2026: What Businesses and Individuals Must Know\n════════════════════════\n𐀪\nAuthor:\nShone Verveox\n════════════════════════\nⴵ\nTime:\nFri, 14 Aug 2026 04:48:39 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#cybersecurity_trends_2026\n#artificial_intelligence\n#ethical_hacking\n#cloud_security",
+        "date": "2026-08-14T06:04:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129779_0_56bc1a3c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129779_1_0e558408.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129779",
+        "link": {
+          "title": "Top Cybersecurity Trends in 2026: What Businesses and Individuals Must Know",
+          "url": "https://medium.com/@shone.verveox/top-cybersecurity-trends-in-2026-what-businesses-and-individuals-must-know-d6bf71164308?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 129778,
+        "text": "⤷\nTitle:\nServer-Side Template Injection (SSTI) to Remote Code Execution (RCE): A Visual Guide for Pentesters…\n════════════════════════\n𐀪\nAuthor:\nKondibajogdand\n════════════════════════\nⴵ\nTime:\nFri, 14 Aug 2026 05:41:00 GMT\n════════════════════════\n⌗\nTags:\n#web_penetration_testing\n#web_security\n#ethical_hacking\n#web_application_security\n#security",
+        "date": "2026-08-14T06:04:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129778_0_56bc1a3c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129778_1_ce2805ce.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129778",
+        "link": {
+          "title": "Server-Side Template Injection (SSTI) to Remote Code Execution (RCE): A Visual Guide for Pentesters…",
+          "url": "https://medium.com/@kondibajogdand123/server-side-template-injection-ssti-to-remote-code-execution-rce-a-visual-guide-for-pentesters-0542524f46fd?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 129777,
+        "text": "⤷\nTitle:\nBuilding Wazuh Rules — mini challenge\n════════════════════════\n𐀪\nAuthor:\nJose Praveen\n════════════════════════\nⴵ\nTime:\nFri, 14 Aug 2026 05:10:48 GMT\n════════════════════════\n⌗\nTags:\n#wazuh_rules\n#tryhackme\n#wazuh\n#security_operation_center\n#tryhackme_writeup",
+        "date": "2026-08-14T06:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129777_0_56bc1a3c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129777_1_43d022aa.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129777",
+        "link": {
+          "title": "Building Wazuh Rules — mini challenge",
+          "url": "https://josepraveen.medium.com/building-wazuh-rules-mini-challenge-9c55b05ebca3?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 129776,
+        "text": "⤷\nTitle:\nDay 13 — The Guestbook Writeup | Hacker Holidays 2026\n════════════════════════\n𐀪\nAuthor:\nPiyush Manghnani\n════════════════════════\nⴵ\nTime:\nFri, 14 Aug 2026 05:42:00 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#hacker_holidays_2026\n#tryhackme_writeup\n#the_guestbook\n#prompt_engineering",
+        "date": "2026-08-14T06:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129776_0_56bc1a3c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129776_1_981ab9b9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129776",
+        "link": {
+          "title": "Day 13 — The Guestbook Writeup | Hacker Holidays 2026",
+          "url": "https://medium.com/@piyushmanghnani29/day-13-the-guestbook-writeup-hacker-holidays-2026-38b85f132ce3?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 129775,
+        "text": "⤷\nTitle:\nSafe Installation and Setup Guide for CS2 Software: A Hands-On Trial Experience\n════════════════════════\n𐀪\nAuthor:\nEthan Carter\n════════════════════════\nⴵ\nTime:\nFri, 14 Aug 2026 05:34:16 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#software\n#cheating\n#counter_strike",
+        "date": "2026-08-14T06:03:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129775_0_56bc1a3c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129775_1_0c82a923.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129775",
+        "link": {
+          "title": "Safe Installation and Setup Guide for CS2 Software: A Hands-On Trial Experience",
+          "url": "https://medium.com/@ethancartertech/safe-installation-and-setup-guide-for-cs2-software-a-hands-on-trial-experience-97518d440ffd?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 129774,
+        "text": "⤷\nTitle:\nTop 5 PHP Frameworks for Web Development in 2025\n════════════════════════\n𐀪\nAuthor:\nSahil Khurana\n════════════════════════\nⴵ\nTime:\nFri, 14 Aug 2026 05:18:03 GMT\n════════════════════════\n⌗\nTags:\n#web_development\n#backend_development\n#scalable_solutions\n#application_security\n#php_frameworks",
+        "date": "2026-08-14T06:03:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129774_0_56bc1a3c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129774_1_8c90c4b7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129774",
+        "link": {
+          "title": "Top 5 PHP Frameworks for Web Development in 2025",
+          "url": "https://medium.com/@sahil.khurana775/https-innostax-com-blog-top-5-php-frameworks-for-web-development-in-2025-cccd0d213092?source=rss------application_security-5"
+        }
+      },
+      {
+        "id": 129773,
+        "text": "⤷\nTitle:\nWhy Enterprise Application Security Testing Must Move Beyond Vulnerability Scanning\n════════════════════════\n𐀪\nAuthor:\nTaylor Brooks\n════════════════════════\nⴵ\nTime:\nFri, 14 Aug 2026 05:42:55 GMT\n════════════════════════\n⌗\nTags:\n#security_testing\n#application_security",
+        "date": "2026-08-14T06:03:46+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129773_0_56bc1a3c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129773_1_9cf9f2d3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129773",
+        "link": {
+          "title": "Why Enterprise Application Security Testing Must Move Beyond Vulnerability Scanning",
+          "url": "https://medium.com/@taylorbrooks.marketing/why-enterprise-application-security-testing-must-move-beyond-vulnerability-scanning-ad8cd90487fb?source=rss------application_security-5"
+        }
+      },
+      {
         "id": 129772,
         "text": "⤷\nTitle:\nBonjour (Hackmyvm) Complete Walkthrough\n════════════════════════\n𐀪\nAuthor:\nTheNotorious\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 11:22:23 GMT\n════════════════════════\n⌗\nTags:\n#hackmyvm\n#ethical_hacking\n#tryhackme_walkthrough\n#hacking\n#bug_bounty_writeup",
         "date": "2026-08-14T04:04:16+00:00",
@@ -2081,225 +2288,22 @@
           "title": "TryHackMe (Pre Security) — (Software Basics) Answers",
           "url": "https://medium.com/@Alex708/tryhackme-pre-security-software-basics-answers-3695639a9819?source=rss------tryhackme-5"
         }
-      },
-      {
-        "id": 129680,
-        "text": "⤷\nTitle:\nCrypto Failures — TryHackMe WriteUp with Flags\n════════════════════════\n𐀪\nAuthor:\nRayenhafsawy\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 09:18:19 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#ctf\n#tryhackme_writeup\n#cybersecurity\n#tryhackme_walkthrough",
-        "date": "2026-08-13T10:04:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129680_0_a669478d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129680_1_c9304d7e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129680",
-        "link": {
-          "title": "Crypto Failures — TryHackMe WriteUp with Flags",
-          "url": "https://medium.com/@rayenhafsawy/crypto-failures-tryhackme-writeup-with-flags-88549685a99a?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 129679,
-        "text": "⤷\nTitle:\nPenetration Testing as a Service (PTaaS): The Future of Continuous Cybersecurity Testing\n════════════════════════\n𐀪\nAuthor:\nSheetalbhusari\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 08:42:26 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#penetration_testing_tools",
-        "date": "2026-08-13T10:04:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129679_0_a669478d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129679_1_000abef7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129679",
-        "link": {
-          "title": "Penetration Testing as a Service (PTaaS): The Future of Continuous Cybersecurity Testing",
-          "url": "https://medium.com/@sheetalbhusari8/penetration-testing-as-a-service-ptaas-the-future-of-continuous-cybersecurity-testing-02117a698176?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 129678,
-        "text": "⤷\nTitle:\nWhy Application Context Is Becoming the Missing Layer in Modern AI Penetration Testing\n════════════════════════\n𐀪\nAuthor:\nJames Miller\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 08:52:21 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#penetration_testing",
-        "date": "2026-08-13T10:04:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129678_0_a669478d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129678_1_b72db735.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129678",
-        "link": {
-          "title": "Why Application Context Is Becoming the Missing Layer in Modern AI Penetration Testing",
-          "url": "https://medium.com/@james.miller45900/why-application-context-is-becoming-the-missing-layer-in-modern-ai-penetration-testing-16badc3901fe?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 129677,
-        "text": "⤷\nTitle:\n3 HACKING Gadgets you have to TRY!\n════════════════════════\n𐀪\nAuthor:\nShahzaib\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 08:14:35 GMT\n════════════════════════\n⌗\nTags:\n#tech\n#cybersecurity\n#gadgets\n#technology\n#hacking",
-        "date": "2026-08-13T10:03:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129677_0_a669478d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129677_1_2efb4b04.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129677",
-        "link": {
-          "title": "3 HACKING Gadgets you have to TRY!",
-          "url": "https://medium.com/data-and-beyond/3-hacking-gadgets-you-have-to-try-504855fb3bee?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 129676,
-        "text": "⤷\nTitle:\nFind Who is trying to attack your LAN  = true story happy ending\n════════════════════════\n𐀪\nAuthor:\nArtur Cannarozzo\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 08:37:30 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ethical_hacker\n#hacking\n#blue_team",
-        "date": "2026-08-13T10:03:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129676_0_a669478d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129676_1_a96e0368.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129676",
-        "link": {
-          "title": "Find Who is trying to attack your LAN  = true story happy ending",
-          "url": "https://medium.com/@artur.cannarozzo/photo-by-sebastiaan-stam-on-unsplash-d17b058830dd?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 129675,
-        "text": "⤷\nTitle:\nOtoyolda 110 ile Giderken Arabanız Kapanırsa\n════════════════════════\n𐀪\nAuthor:\nOzkanesad\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 09:36:16 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#automotive\n#cybersecurity\n#siber_guvenlik",
-        "date": "2026-08-13T10:03:51+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129675_0_a669478d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129675",
-        "link": {
-          "title": "Otoyolda 110 ile Giderken Arabanız Kapanırsa",
-          "url": "https://medium.com/@ozkanesad18/otoyolda-110-ile-giderken-araban%C4%B1z-kapan%C4%B1rsa-56184cbd7737?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 129674,
-        "text": "⤷\nTitle:\nPortswigger lab : SQL injection attack, querying the database type and version on Oracle\n════════════════════════\n𐀪\nAuthor:\nDipankar Paul\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 06:14:12 GMT\n════════════════════════\n⌗\nTags:\n#portswigger\n#sql\n#sql_injection\n#cybersecurity",
-        "date": "2026-08-13T08:04:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129674_0_a669478d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129674_1_4e084391.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129674",
-        "link": {
-          "title": "Portswigger lab : SQL injection attack, querying the database type and version on Oracle",
-          "url": "https://medium.com/@pauldip06ece/portswigger-lab-sql-injection-attack-querying-the-database-type-and-version-on-oracle-349f13650e72?source=rss------sql_injection-5"
-        }
-      },
-      {
-        "id": 129673,
-        "text": "⤷\nTitle:\nPortswigger lab : SQL injection attack, listing the database contents on non-Oracle databases\n════════════════════════\n𐀪\nAuthor:\nDipankar Paul\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 07:27:56 GMT\n════════════════════════\n⌗\nTags:\n#sql_injection\n#portswigger\n#sql\n#cybersecurity",
-        "date": "2026-08-13T08:04:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129673_0_a669478d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129673_1_bab62d7c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129673",
-        "link": {
-          "title": "Portswigger lab : SQL injection attack, listing the database contents on non-Oracle databases",
-          "url": "https://medium.com/@pauldip06ece/portswigger-lab-sql-injection-attack-listing-the-database-contents-on-non-oracle-databases-087015809023?source=rss------sql_injection-5"
-        }
-      },
-      {
-        "id": 129672,
-        "text": "⤷\nTitle:\nTryHackMe  Write-Up: Solving the B1t Recovery CTF (Known-Plaintext Attack)\n════════════════════════\n𐀪\nAuthor:\nSushma\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 06:13:51 GMT\n════════════════════════\n⌗\nTags:\n#ctf\n#ctf_walkthrough\n#ctf_writeup\n#tryhackme\n#tryhackme_walkthrough",
-        "date": "2026-08-13T08:04:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129672_0_a669478d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129672_1_09f70b11.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129672",
-        "link": {
-          "title": "TryHackMe  Write-Up: Solving the B1t Recovery CTF (Known-Plaintext Attack)",
-          "url": "https://medium.com/@sushmaaragidda/tryhackme-write-up-solving-the-b1t-recovery-ctf-known-plaintext-attack-397eca53c065?source=rss------tryhackme-5"
-        }
       }
     ]
   },
-  "last_update": "2026-08-14T05:12:51.827837+00:00",
+  "last_update": "2026-08-14T06:51:50.384314+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 196,
-    "total_files": 196,
+    "total_media": 197,
+    "total_files": 197,
     "total_links": 0,
     "files_by_type": {
-      "image": 196
+      "image": 197
     },
-    "referenced_files": 196,
-    "existing_media_files": 196,
-    "total_size_mb": 5.56,
-    "last_calculation": "2026-08-14T05:12:51.829488+00:00"
+    "referenced_files": 197,
+    "existing_media_files": 197,
+    "total_size_mb": 5.61,
+    "last_calculation": "2026-08-14T06:51:50.386722+00:00"
   }
 }
