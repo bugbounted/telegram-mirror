@@ -2,6 +2,75 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 129760,
+        "text": "⤷\nTitle:\nProcess Parameter Poisoning\n════════════════════════\n𐀪\nAuthor:\nS12 - 0x12Dark Development\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 21:51:17 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#malware\n#hacking\n#pentesting\n#cybersecurity",
+        "date": "2026-08-14T00:03:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129760_0_a669478d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129760_1_fd0dc8d5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129760",
+        "link": {
+          "title": "Process Parameter Poisoning",
+          "url": "https://medium.com/@s12deff/process-parameter-poisoning-bc516d472ad5?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 129759,
+        "text": "⤷\nTitle:\nDEF CON 34 Through a Junior Pentester’s Eyes\n════════════════════════\n𐀪\nAuthor:\ngabe t\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 23:09:24 GMT\n════════════════════════\n⌗\nTags:\n#blogging\n#defcon34\n#pentesting\n#hacking\n#cybersecurity",
+        "date": "2026-08-14T00:03:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129759_0_a669478d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129759_1_5fa29e23.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129759",
+        "link": {
+          "title": "DEF CON 34 Through a Junior Pentester’s Eyes",
+          "url": "https://medium.com/@gabrterrazas/def-con-34-through-a-junior-pentesters-eyes-bd4bc897c113?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 129758,
+        "text": "⤷\nTitle:\nCasino | HackSmarter | OSCP Preparation\n════════════════════════\n𐀪\nAuthor:\nSilentExploit\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 23:09:16 GMT\n════════════════════════\n⌗\nTags:\n#ctf_writeup\n#hacking\n#bug_bounty\n#ctf\n#infosec",
+        "date": "2026-08-14T00:03:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129758_0_a669478d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129758_1_9731fdc2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129758",
+        "link": {
+          "title": "Casino | HackSmarter | OSCP Preparation",
+          "url": "https://medium.com/@SilentExploit/casino-hacksmarter-oscp-preparation-141911b3a731?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 129757,
         "text": "⤷\nTitle:\nYour API Portal’s Biggest Threat Isn’t Hackers — It’s Visibility Without Control\n════════════════════════\n𐀪\nAuthor:\nRhuber\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 16:45:33 GMT\n════════════════════════\n⌗\nTags:\n#api\n#api_security\n#devportal\n#api_portal",
         "date": "2026-08-13T22:04:01+00:00",
@@ -2215,79 +2284,10 @@
           "title": "The Bug Worth Lakhs Was Not in the Code. Here It Was and How to Report It Properly.",
           "url": "https://medium.com/@parag.jadhav21891/the-bug-worth-lakhs-was-not-in-the-code-here-it-was-and-how-to-report-it-properly-22312bca3c5d?source=rss------bug_bounty-5"
         }
-      },
-      {
-        "id": 129659,
-        "text": "⤷\nTitle:\nEDR Bypass Without Malware: 15 LOLBAS Techniques Security Pros Need to Master\n════════════════════════\n𐀪\nAuthor:\nVery Lazy Tech\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 06:19:20 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#hacking\n#bug_bounty\n#cybersecurity\n#penetration_testing",
-        "date": "2026-08-13T08:04:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129659_0_a669478d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129659_1_1453af25.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129659",
-        "link": {
-          "title": "EDR Bypass Without Malware: 15 LOLBAS Techniques Security Pros Need to Master",
-          "url": "https://medium.com/@verylazytech/edr-bypass-without-malware-15-lolbas-techniques-security-pros-need-to-master-1d6d8abe2b38?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 129658,
-        "text": "⤷\nTitle:\nUnique Username Validation Bypass to a Stored Open Redirect: How I Escalated a Bug Bounty Finding\n════════════════════════\n𐀪\nAuthor:\nAnkit Rathva aka Gujarati Hacker\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 07:17:32 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_writeup\n#hackerone\n#bug_bounty_tips\n#bug_bounty\n#business_logic",
-        "date": "2026-08-13T08:04:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129658_0_a669478d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129658_1_da300d7a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129658",
-        "link": {
-          "title": "Unique Username Validation Bypass to a Stored Open Redirect: How I Escalated a Bug Bounty Finding",
-          "url": "https://medium.com/@ankitrathva/unique-username-validation-bypass-to-a-stored-open-redirect-how-i-escalated-a-bug-bounty-finding-eb059db498c2?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 129657,
-        "text": "⤷\nTitle:\nHow Unauthenticated Queries Exposed User PII and Privileged Accounts\n════════════════════════\n𐀪\nAuthor:\nSudheer\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 07:26:04 GMT\n════════════════════════\n⌗\nTags:\n#authorization\n#api_security\n#bug_bounty\n#authentication\n#web_security_testing",
-        "date": "2026-08-13T08:04:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129657_0_a669478d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129657_1_76c18570.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129657",
-        "link": {
-          "title": "How Unauthenticated Queries Exposed User PII and Privileged Accounts",
-          "url": "https://medium.com/@mr-sudheer/how-unauthenticated-queries-exposed-user-pii-and-privileged-accounts-cb89efff14d8?source=rss------bug_bounty-5"
-        }
       }
     ]
   },
-  "last_update": "2026-08-13T23:10:34.472725+00:00",
+  "last_update": "2026-08-14T00:04:52.042643+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2299,7 +2299,7 @@
     },
     "referenced_files": 196,
     "existing_media_files": 196,
-    "total_size_mb": 5.15,
-    "last_calculation": "2026-08-13T23:10:34.475083+00:00"
+    "total_size_mb": 5.35,
+    "last_calculation": "2026-08-14T00:04:52.043826+00:00"
   }
 }
