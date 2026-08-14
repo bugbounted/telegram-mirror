@@ -2,6 +2,75 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 129763,
+        "text": "⤷\nTitle:\nThe Agents Built Their Own Network. The Labs Found Out Months Later.\n════════════════════════\n𐀪\nAuthor:\nChris Meredith\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 20:44:07 GMT\n════════════════════════\n⌗\nTags:\n#agents\n#hacking\n#ai\n#technology\n#security",
+        "date": "2026-08-14T02:03:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129763_0_a669478d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129763_1_3761aa80.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129763",
+        "link": {
+          "title": "The Agents Built Their Own Network. The Labs Found Out Months Later.",
+          "url": "https://medium.com/@ChristopherMeredith/the-agents-built-their-own-network-the-labs-found-out-months-later-0e093bc48d28?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 129762,
+        "text": "⤷\nTitle:\nCVE-2026-64582: PoC Exploit Published for Kernel LPE\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 14 Aug 2026 01:01:54 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_64582\n#Linux\nKernel\n#privilege\nescalation\n#proof_of_concept\n#RDMA\nrxe\n#use\nafter free",
+        "date": "2026-08-14T02:03:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129762_0_a669478d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129762_1_90e03083.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129762",
+        "link": {
+          "title": "CVE-2026-64582: PoC Exploit Published for Kernel LPE",
+          "url": "https://securityonline.info/cve-2026-64582-rdma-rxe-kernel-lpe-poc/"
+        }
+      },
+      {
+        "id": 129761,
+        "text": "⤷\nTitle:\nTP-Link Patches 5 Flaws in ISP-Managed Routers and Mesh Devices\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 14 Aug 2026 01:27:30 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Authentication\nBypass\n#Command\nInjection\n#CVE_2025_30237\n#IoT\nsecurity\n#router\nsecurity\n#TP_Link",
+        "date": "2026-08-14T02:03:47+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129761_0_a669478d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129761_1_a9282074.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129761",
+        "link": {
+          "title": "TP-Link Patches 5 Flaws in ISP-Managed Routers and Mesh Devices",
+          "url": "https://securityonline.info/tp-link-isp-router-vulnerabilities/"
+        }
+      },
+      {
         "id": 129760,
         "text": "⤷\nTitle:\nProcess Parameter Poisoning\n════════════════════════\n𐀪\nAuthor:\nS12 - 0x12Dark Development\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 21:51:17 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#malware\n#hacking\n#pentesting\n#cybersecurity",
         "date": "2026-08-14T00:03:55+00:00",
@@ -2215,79 +2284,10 @@
           "title": "The Tech-Savvy Parent’s Guide to Digital Safety in 2026: Balancing Security and Trust",
           "url": "https://medium.com/@promotionneverlove/the-tech-savvy-parents-guide-to-digital-safety-in-2026-balancing-security-and-trust-bd5869fa3ef6?source=rss------hacking-5"
         }
-      },
-      {
-        "id": 129662,
-        "text": "⤷\nTitle:\nAI Systems Can Be Attacked Too. Here Is How It Happens and What Professionals Are Doing About It.\n════════════════════════\n𐀪\nAuthor:\nParag Jadhav\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 05:52:37 GMT\n════════════════════════\n⌗\nTags:\n#ai_systems\n#hacking\n#cybersecurity\n#gujarat\n#bug_bounty",
-        "date": "2026-08-13T08:04:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129662_0_a669478d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129662_1_c6009be2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129662",
-        "link": {
-          "title": "AI Systems Can Be Attacked Too. Here Is How It Happens and What Professionals Are Doing About It.",
-          "url": "https://medium.com/@parag.jadhav21891/ai-systems-can-be-attacked-too-here-is-how-it-happens-and-what-professionals-are-doing-about-it-4ff344faedbd?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 129661,
-        "text": "⤷\nTitle:\nHow a Tampered role_id Gave Me Permanent, Invisible Control Over Other Users’ Organizations\n════════════════════════\n𐀪\nAuthor:\nHASG\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 06:12:05 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#bug_bounty\n#information_security\n#cybersecuirty\n#web_security",
-        "date": "2026-08-13T08:04:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129661_0_a669478d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129661_1_aa52ed30.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129661",
-        "link": {
-          "title": "How a Tampered role_id Gave Me Permanent, Invisible Control Over Other Users’ Organizations",
-          "url": "https://hamzaelgarhy.medium.com/how-a-tampered-role-id-gave-me-permanent-invisible-control-over-other-users-organizations-c968e0e633ec?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 129660,
-        "text": "⤷\nTitle:\nThe Bug Worth Lakhs Was Not in the Code. Here It Was and How to Report It Properly.\n════════════════════════\n𐀪\nAuthor:\nParag Jadhav\n════════════════════════\nⴵ\nTime:\nThu, 13 Aug 2026 06:14:22 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#generative_ai_tools\n#cybersecurity\n#business\n#ai_security",
-        "date": "2026-08-13T08:04:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129660_0_a669478d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129660_1_f8cbc3a8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129660",
-        "link": {
-          "title": "The Bug Worth Lakhs Was Not in the Code. Here It Was and How to Report It Properly.",
-          "url": "https://medium.com/@parag.jadhav21891/the-bug-worth-lakhs-was-not-in-the-code-here-it-was-and-how-to-report-it-properly-22312bca3c5d?source=rss------bug_bounty-5"
-        }
       }
     ]
   },
-  "last_update": "2026-08-14T00:04:52.042643+00:00",
+  "last_update": "2026-08-14T03:05:33.659812+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2299,7 +2299,7 @@
     },
     "referenced_files": 196,
     "existing_media_files": 196,
-    "total_size_mb": 5.35,
-    "last_calculation": "2026-08-14T00:04:52.043826+00:00"
+    "total_size_mb": 5.39,
+    "last_calculation": "2026-08-14T03:05:33.662182+00:00"
   }
 }
