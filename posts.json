@@ -2,6 +2,98 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 129872,
+        "text": "⤷\nTitle:\nExpresso CTF HTB\n════════════════════════\n𐀪\nAuthor:\nSmiley Face\n════════════════════════\nⴵ\nTime:\nFri, 14 Aug 2026 22:07:09 GMT\n════════════════════════\n⌗\nTags:\n#hackthebox\n#hackthebox_writeup\n#ctf_writeup\n#hackthebox_challenge\n#hackthebox_walkthrough",
+        "date": "2026-08-15T00:04:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129872_0_56bc1a3c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129872_1_ff23c4f2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129872",
+        "link": {
+          "title": "Expresso CTF HTB",
+          "url": "https://medium.com/@kmsedition/expresso-ctf-htb-d47a7eadd02a?source=rss------hackthebox_writeup-5"
+        }
+      },
+      {
+        "id": 129871,
+        "text": "⤷\nTitle:\nMengupas Tuntas Proses Pentest: Dari Reconnaissance Sampai Nemu Celah IDOR\n════════════════════════\n𐀪\nAuthor:\nStevanzaky\n════════════════════════\nⴵ\nTime:\nFri, 14 Aug 2026 22:30:12 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#api_security_testing\n#cybersecurity",
+        "date": "2026-08-15T00:04:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129871_0_56bc1a3c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129871_1_b1e1fa64.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129871",
+        "link": {
+          "title": "Mengupas Tuntas Proses Pentest: Dari Reconnaissance Sampai Nemu Celah IDOR",
+          "url": "https://medium.com/@stevanzaky87/mengupas-tuntas-proses-pentest-dari-reconnaissance-sampai-nemu-celah-idor-ecc6696bc913?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 129870,
+        "text": "⤷\nTitle:\nRansomware vs. Industry: Why the OT Perimeter Is Still Holding\n════════════════════════\n𐀪\nAuthor:\nRealSec.io\n════════════════════════\nⴵ\nTime:\nFri, 14 Aug 2026 22:12:04 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#infosec\n#ransomware",
+        "date": "2026-08-15T00:03:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129870_0_56bc1a3c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129870_1_2bc27836.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129870",
+        "link": {
+          "title": "Ransomware vs. Industry: Why the OT Perimeter Is Still Holding",
+          "url": "https://medium.com/@realsec.io/ransomware-vs-industry-why-the-ot-perimeter-is-still-holding-67dd93933164?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 129869,
+        "text": "⤷\nTitle:\nAplikasi Sudah Bisa Login, Berarti Aman? Ini yang Baru Saya Pahami dari Penetration Testing\n════════════════════════\n𐀪\nAuthor:\nAdinda mirza devani\n════════════════════════\nⴵ\nTime:\nFri, 14 Aug 2026 22:49:08 GMT\n════════════════════════\n⌗\nTags:\n#web_security\n#cybersecurity\n#penetration_testing\n#application_security\n#api_security",
+        "date": "2026-08-15T00:03:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129869_0_56bc1a3c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129869_1_f8b5fd5c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129869",
+        "link": {
+          "title": "Aplikasi Sudah Bisa Login, Berarti Aman? Ini yang Baru Saya Pahami dari Penetration Testing",
+          "url": "https://medium.com/@adindamirzadevani/aplikasi-sudah-bisa-login-berarti-aman-ini-yang-baru-saya-pahami-dari-penetration-testing-9a8c017bd619?source=rss------application_security-5"
+        }
+      },
+      {
         "id": 129868,
         "text": "⤷\nTitle:\nAttacker Punya Playbook, Auditor Punya Checklist: Begini Kebocoran Data Sebenarnya Terjadi\n════════════════════════\n𐀪\nAuthor:\nAdinda mirza devani\n════════════════════════\nⴵ\nTime:\nFri, 14 Aug 2026 21:32:42 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ethical_hacking\n#data_breach\n#risk_management\n#compliance",
         "date": "2026-08-14T22:04:05+00:00",
@@ -2196,102 +2288,10 @@
           "title": "Why Enterprise Application Security Testing Must Move Beyond Vulnerability Scanning",
           "url": "https://medium.com/@taylorbrooks.marketing/why-enterprise-application-security-testing-must-move-beyond-vulnerability-scanning-ad8cd90487fb?source=rss------application_security-5"
         }
-      },
-      {
-        "id": 129772,
-        "text": "⤷\nTitle:\nBonjour (Hackmyvm) Complete Walkthrough\n════════════════════════\n𐀪\nAuthor:\nTheNotorious\n════════════════════════\nⴵ\nTime:\nTue, 11 Aug 2026 11:22:23 GMT\n════════════════════════\n⌗\nTags:\n#hackmyvm\n#ethical_hacking\n#tryhackme_walkthrough\n#hacking\n#bug_bounty_writeup",
-        "date": "2026-08-14T04:04:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129772_0_a669478d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129772_1_a644d100.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129772",
-        "link": {
-          "title": "Bonjour (Hackmyvm) Complete Walkthrough",
-          "url": "https://medium.com/@TheNotorious13/bonjour-hackthebox-complete-walkthrough-94f2a0495967?source=rss------bug_bounty_writeup-5"
-        }
-      },
-      {
-        "id": 129771,
-        "text": "⤷\nTitle:\nHow Would You Prevent Unauthorized Users From Accessing Other Users’ Data?\n════════════════════════\n𐀪\nAuthor:\nGokulapriyan\n════════════════════════\nⴵ\nTime:\nFri, 14 Aug 2026 02:19:19 GMT\n════════════════════════\n⌗\nTags:\n#security\n#api_security\n#prevention\n#unauthorized_access\n#rest_api_security",
-        "date": "2026-08-14T04:04:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129771_0_a669478d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129771_1_546f1922.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129771",
-        "link": {
-          "title": "How Would You Prevent Unauthorized Users From Accessing Other Users’ Data?",
-          "url": "https://gokulapriyan.medium.com/how-would-you-prevent-unauthorized-users-from-accessing-other-users-data-953bce54b5d5?source=rss------api_security-5"
-        }
-      },
-      {
-        "id": 129770,
-        "text": "⤷\nTitle:\nCONVICTIONS\n════════════════════════\n𐀪\nAuthor:\nK-Resendiz\n════════════════════════\nⴵ\nTime:\nFri, 14 Aug 2026 02:58:01 GMT\n════════════════════════\n⌗\nTags:\n#system_design_concepts\n#human_rights\n#ethical_hacking\n#systems_thinking\n#human_behavior",
-        "date": "2026-08-14T04:04:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129770_0_a669478d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129770_1_87e9b52e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129770",
-        "link": {
-          "title": "CONVICTIONS",
-          "url": "https://medium.com/@resendizkarlakaren/convictions-37f9f38c0553?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 129769,
-        "text": "⤷\nTitle:\nLo-Fi | TryHackMe Walkthrough\n════════════════════════\n𐀪\nAuthor:\nANWAR1\n════════════════════════\nⴵ\nTime:\nFri, 14 Aug 2026 03:27:23 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#lo_fi_walkthrough\n#ctf\n#lo_fi\n#lo_fi_tryhackme",
-        "date": "2026-08-14T04:04:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129769_0_a669478d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129769_1_44373cb5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129769",
-        "link": {
-          "title": "Lo-Fi | TryHackMe Walkthrough",
-          "url": "https://medium.com/@0anwar0/lo-fi-tryhackme-walkthrough-b52c15279746?source=rss------tryhackme-5"
-        }
       }
     ]
   },
-  "last_update": "2026-08-14T23:45:57.127094+00:00",
+  "last_update": "2026-08-15T00:30:50.332588+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2303,7 +2303,7 @@
     },
     "referenced_files": 197,
     "existing_media_files": 197,
-    "total_size_mb": 5.83,
-    "last_calculation": "2026-08-14T23:45:57.129554+00:00"
+    "total_size_mb": 5.65,
+    "last_calculation": "2026-08-15T00:30:50.334464+00:00"
   }
 }
