@@ -2,6 +2,144 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 129922,
+        "text": "⤷\nTitle:\nA Fast Recon Workflow for Spotting XSS Candidates\n════════════════════════\n𐀪\nAuthor:\nMD Fahad Hosen\n════════════════════════\nⴵ\nTime:\nSat, 15 Aug 2026 11:35:16 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_tips\n#cross_site_scripting",
+        "date": "2026-08-15T12:04:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129922_0_2bad81ed.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129922_1_32d10cab.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129922",
+        "link": {
+          "title": "A Fast Recon Workflow for Spotting XSS Candidates",
+          "url": "https://mdfahadhosen20.medium.com/a-fast-recon-workflow-for-spotting-xss-candidates-703ccaf2121c?source=rss------bug_bounty_tips-5"
+        }
+      },
+      {
+        "id": 129921,
+        "text": "⤷\nTitle:\nSQL injection — Filter bypass\n════════════════════════\n𐀪\nAuthor:\nAli Amed\n════════════════════════\nⴵ\nTime:\nSat, 15 Aug 2026 11:10:46 GMT\n════════════════════════\n⌗\nTags:\n#filters\n#ctf\n#root_me\n#sql_injection",
+        "date": "2026-08-15T12:04:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129921_0_2bad81ed.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129921_1_70a67d90.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129921",
+        "link": {
+          "title": "SQL injection — Filter bypass",
+          "url": "https://medium.com/@ali_st0rm/sql-injection-filter-bypass-f4b766b9c735?source=rss------sql_injection-5"
+        }
+      },
+      {
+        "id": 129920,
+        "text": "⤷\nTitle:\nHydra — When It Looks Easy But It’s Not\n════════════════════════\n𐀪\nAuthor:\nMichele Grimaldi\n════════════════════════\nⴵ\nTime:\nSat, 15 Aug 2026 11:45:53 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ctf\n#ethical_hacking\n#penetration_tester",
+        "date": "2026-08-15T12:04:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129920_0_2bad81ed.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129920_1_4f50bfe1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129920",
+        "link": {
+          "title": "Hydra — When It Looks Easy But It’s Not",
+          "url": "https://medium.com/@mikgrimaldi7/hydra-when-it-looks-easy-but-its-not-dfa1bdc06620?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 129919,
+        "text": "⤷\nTitle:\nYour Company Deployed an AI Chatbot.\n════════════════════════\n𐀪\nAuthor:\nOkan Yıldız\n════════════════════════\nⴵ\nTime:\nSat, 15 Aug 2026 10:29:23 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ai_security\n#ai\n#security\n#application_security",
+        "date": "2026-08-15T12:04:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129919_0_2bad81ed.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129919_1_138a7783.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129919",
+        "link": {
+          "title": "Your Company Deployed an AI Chatbot.",
+          "url": "https://medium.com/@okanyildiz1994/your-company-deployed-an-ai-chatbot-171f9f629b11?source=rss------application_security-5"
+        }
+      },
+      {
+        "id": 129918,
+        "text": "⤷\nTitle:\nFrom Zero to 100+ Reports: My Bug Bounty Journey So Far\n════════════════════════\n𐀪\nAuthor:\ns0ham\n════════════════════════\nⴵ\nTime:\nSat, 15 Aug 2026 10:24:35 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#carrer\n#hacking\n#bug_bounty\n#cybersecurity",
+        "date": "2026-08-15T12:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129918_0_2bad81ed.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129918_1_603d623d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129918",
+        "link": {
+          "title": "From Zero to 100+ Reports: My Bug Bounty Journey So Far",
+          "url": "https://medium.com/@sohamkul2005/from-zero-to-100-reports-my-bug-bounty-journey-so-far-d6c94a745628?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 129917,
+        "text": "⤷\nTitle:\nCheck-Then-Act: The Timing Bug Hiding in Every Money Endpoint\n════════════════════════\n𐀪\nAuthor:\nNitin yadav\n════════════════════════\nⴵ\nTime:\nSat, 15 Aug 2026 11:31:01 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#cybersecurity\n#hacking\n#bug_bounty\n#infosec",
+        "date": "2026-08-15T12:03:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129917_0_2bad81ed.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129917_1_6a47b58f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129917",
+        "link": {
+          "title": "Check-Then-Act: The Timing Bug Hiding in Every Money Endpoint",
+          "url": "https://kd-200.medium.com/check-then-act-the-timing-bug-hiding-in-every-money-endpoint-e39ecc4f61cd?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 129916,
         "text": "⤷\nTitle:\nTryHackMe Walkthrough: Inside a Computer System\n════════════════════════\n𐀪\nAuthor:\nAshutosh Yadav\n════════════════════════\nⴵ\nTime:\nSat, 15 Aug 2026 09:31:01 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#security_operation_center\n#tryhackme_walkthrough\n#tryhackme",
         "date": "2026-08-15T10:04:08+00:00",
@@ -2158,156 +2296,22 @@
           "title": "“Build a Pro-Level DHCP & DNS Server with dnsmasq + iptables on Linux”",
           "url": "https://medium.com/@b2soro/build-a-pro-level-dhcp-dns-server-with-dnsmasq-iptables-on-linux-4a1d284f0c8c?source=rss------hacking-5"
         }
-      },
-      {
-        "id": 129822,
-        "text": "⤷\nTitle:\nSomeone Almost Hacked the Internet… and Nobody Saw It Coming\n════════════════════════\n𐀪\nAuthor:\nMosongo Ombaba Marcarius\n════════════════════════\nⴵ\nTime:\nFri, 14 Aug 2026 13:11:31 GMT\n════════════════════════\n⌗\nTags:\n#computer_networking\n#hacking\n#computer_security\n#cybersecurity",
-        "date": "2026-08-14T14:04:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129822_0_56bc1a3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129822_1_40d9573a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129822",
-        "link": {
-          "title": "Someone Almost Hacked the Internet… and Nobody Saw It Coming",
-          "url": "https://medium.com/@ombabam/someone-almost-hacked-the-internet-and-nobody-saw-it-coming-0093ac527a7b?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 129821,
-        "text": "⤷\nTitle:\nCréer un Point d’Accès Wi-Fi WPA2 Professionnel avec dnsmasq, hostapd, iptables, PMF et PMFC\n════════════════════════\n𐀪\nAuthor:\nATTE-THM\n════════════════════════\nⴵ\nTime:\nFri, 14 Aug 2026 13:39:29 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#dhcp\n#linux\n#networking\n#web_development",
-        "date": "2026-08-14T14:03:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129821_0_56bc1a3c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129821",
-        "link": {
-          "title": "Créer un Point d’Accès Wi-Fi WPA2 Professionnel avec dnsmasq, hostapd, iptables, PMF et PMFC",
-          "url": "https://medium.com/@b2soro/cr%C3%A9er-un-point-dacc%C3%A8s-wi-fi-wpa2-professionnel-avec-dnsmasq-hostapd-iptables-pmf-et-pmfc-aff890b30817?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 129820,
-        "text": "⤷\nTitle:\nMy First Valid Bug: A Broken Object Level Authorization (BOLA) in Customer API\n════════════════════════\n𐀪\nAuthor:\nAbobakrmohamed\n════════════════════════\nⴵ\nTime:\nFri, 14 Aug 2026 12:20:17 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#bug_hunter\n#web_app_pentesting\n#hacking\n#find_your_first_bug",
-        "date": "2026-08-14T14:03:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129820_0_56bc1a3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129820_1_067a832b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129820",
-        "link": {
-          "title": "My First Valid Bug: A Broken Object Level Authorization (BOLA) in Customer API",
-          "url": "https://medium.com/@abobakrmohamed0101/my-first-valid-bug-a-broken-object-level-authorization-bola-in-customer-api-e9d3d18e7aef?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 129819,
-        "text": "⤷\nTitle:\nFrom a Single WAF Bypass to 58,000+ Exposed Media Objects\n════════════════════════\n𐀪\nAuthor:\nTarek ElDemerdash\n════════════════════════\nⴵ\nTime:\nFri, 14 Aug 2026 12:51:56 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#bug_bounty\n#web_application_security\n#penetration_testing\n#information_security",
-        "date": "2026-08-14T14:03:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129819_0_56bc1a3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129819_1_c5df86ab.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129819",
-        "link": {
-          "title": "From a Single WAF Bypass to 58,000+ Exposed Media Objects",
-          "url": "https://medium.com/@tarekeldemerdash/from-a-single-waf-bypass-to-58-000-exposed-media-objects-ad5efc34640b?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 129818,
-        "text": "⤷\nTitle:\nX Is Changing Creator Payments\n════════════════════════\n𐀪\nAuthor:\nSushila Devi\n════════════════════════\nⴵ\nTime:\nFri, 14 Aug 2026 10:16:03 GMT\n════════════════════════\n⌗\nTags:\n#payments\n#xs\n#content_creators",
-        "date": "2026-08-14T12:04:31+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129818_0_56bc1a3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129818_1_ef1891b6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129818",
-        "link": {
-          "title": "X Is Changing Creator Payments",
-          "url": "https://medium.com/illumination/x-is-changing-creator-payments-790dab22ec1c?source=rss------xss-5"
-        }
-      },
-      {
-        "id": 129817,
-        "text": "⤷\nTitle:\nEthical hacking\nDifesa e attacco con Intelligenza Artificiale\n════════════════════════\n𐀪\nAuthor:\nArtur Cannarozzo\n════════════════════════\nⴵ\nTime:\nFri, 14 Aug 2026 11:33:21 GMT\n════════════════════════\n⌗\nTags:\n#ceh_certification\n#ceh_practical\n#phylosophy\n#cybersecurity\n#ethical_hacking",
-        "date": "2026-08-14T12:04:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129817_0_56bc1a3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129817_1_8a4fdf26.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129817",
-        "link": {
-          "title": "Ethical hackingDifesa e attacco con Intelligenza Artificiale",
-          "url": "https://medium.com/@artur.cannarozzo/ethical-hacking-difesa-e-attacco-con-intelligenza-artificiale-acbc33f6f228?source=rss------ethical_hacking-5"
-        }
       }
     ]
   },
-  "last_update": "2026-08-15T11:42:38.924100+00:00",
+  "last_update": "2026-08-15T12:14:24.503495+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 198,
-    "total_files": 198,
+    "total_media": 199,
+    "total_files": 199,
     "total_links": 0,
     "files_by_type": {
-      "image": 198
+      "image": 199
     },
-    "referenced_files": 198,
-    "existing_media_files": 198,
-    "total_size_mb": 5.66,
-    "last_calculation": "2026-08-15T11:42:38.925813+00:00"
+    "referenced_files": 199,
+    "existing_media_files": 199,
+    "total_size_mb": 5.68,
+    "last_calculation": "2026-08-15T12:14:24.505978+00:00"
   }
 }
