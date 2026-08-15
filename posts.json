@@ -2,6 +2,351 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 129891,
+        "text": "⤷\nTitle:\nMicrosoft Needs To Proactively Prevent Typosquatting (how I almost got owned)\n════════════════════════\n𐀪\nAuthor:\nEthan Word\n════════════════════════\nⴵ\nTime:\nSat, 15 Aug 2026 02:39:53 GMT\n════════════════════════\n⌗\nTags:\n#microsoft\n#powershell\n#infosec\n#cybersecurity",
+        "date": "2026-08-15T04:04:43+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129891_0_56bc1a3c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129891_1_96ac67e2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129891",
+        "link": {
+          "title": "Microsoft Needs To Proactively Prevent Typosquatting (how I almost got owned)",
+          "url": "https://medium.com/@planedrop/microsoft-needs-to-proactively-prevent-typosquatting-how-i-almost-got-owned-94f04da9b5ea?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 129890,
+        "text": "⤷\nTitle:\nHow a Simple API Misconfiguration Leaked PII of 100,000+ Users\n════════════════════════\n𐀪\nAuthor:\nSagar Kirola\n════════════════════════\nⴵ\nTime:\nSat, 15 Aug 2026 03:38:56 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#bug_bounty_tips\n#information_security\n#bug_bounty\n#hacking",
+        "date": "2026-08-15T04:04:40+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129890_0_56bc1a3c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129890_1_ae1f745a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129890",
+        "link": {
+          "title": "How a Simple API Misconfiguration Leaked PII of 100,000+ Users",
+          "url": "https://medium.com/@sagar_kirola-G35638/how-a-simple-api-misconfiguration-leaked-pii-of-100-000-users-326a1a29bf44?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 129889,
+        "text": "⤷\nTitle:\nHow I Found an SSRF Vulnerability in Istio and Got Credited in the Official Release Notes\n════════════════════════\n𐀪\nAuthor:\nAser Ahmed\n════════════════════════\nⴵ\nTime:\nSat, 15 Aug 2026 03:40:53 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_writeup\n#cybersecurity\n#bug_bounty\n#penetration_testing\n#coding",
+        "date": "2026-08-15T04:04:36+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129889_0_56bc1a3c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129889_1_94529c03.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129889",
+        "link": {
+          "title": "How I Found an SSRF Vulnerability in Istio and Got Credited in the Official Release Notes",
+          "url": "https://medium.com/@0xanubiis/how-i-found-an-ssrf-vulnerability-in-istio-and-got-credited-in-the-official-release-notes-e4d6f21c9707?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 129888,
+        "text": "⤷\nTitle:\nOne Invitation, Three Vulnerabilities: Breaking RBAC Across Two Applications\n════════════════════════\n𐀪\nAuthor:\nOWL\n════════════════════════\nⴵ\nTime:\nSat, 15 Aug 2026 03:52:02 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#web_security\n#bug_bounty\n#pentesting\n#broken_access_control",
+        "date": "2026-08-15T04:04:33+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129888_0_56bc1a3c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129888_1_339405f7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129888",
+        "link": {
+          "title": "One Invitation, Three Vulnerabilities: Breaking RBAC Across Two Applications",
+          "url": "https://medium.com/@omaralgbry1/one-invitation-three-vulnerabilities-breaking-rbac-across-two-applications-f66508af3e83?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 129887,
+        "text": "⤷\nTitle:\nGoogle Search Tests Exclusive AI Mode for Select Users\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nSat, 15 Aug 2026 02:17:59 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#AI\nMode\n#Generative\nAI\n#google\nsearch\n#Search\nEngine",
+        "date": "2026-08-15T04:04:30+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129887_0_56bc1a3c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129887_1_f737ba12.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129887",
+        "link": {
+          "title": "Google Search Tests Exclusive AI Mode for Select Users",
+          "url": "https://securityonline.info/google-search-ai-mode/"
+        }
+      },
+      {
+        "id": 129886,
+        "text": "⤷\nTitle:\nFirefox uBlock Origin Support: The MV3 Solution\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nSat, 15 Aug 2026 02:24:26 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#Ad\nBlocker\n#firefox\n#MV3\n#uBlock\nOrigin",
+        "date": "2026-08-15T04:04:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129886_0_56bc1a3c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129886_1_4ad4827a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129886",
+        "link": {
+          "title": "Firefox uBlock Origin Support: The MV3 Solution",
+          "url": "https://securityonline.info/firefox-ublock-origin-support/"
+        }
+      },
+      {
+        "id": 129885,
+        "text": "⤷\nTitle:\nChatGPT for Linux Desktop Preview Launches for Ubuntu, Debian, and Fedora\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nSat, 15 Aug 2026 02:32:24 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#ChatGPT\n#Codex\n#Fedora\n#Linux\n#Linux\nDesktop\n#OpenAI\n#Ubuntu",
+        "date": "2026-08-15T04:04:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129885_0_56bc1a3c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129885_1_7219187f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129885",
+        "link": {
+          "title": "ChatGPT for Linux Desktop Preview Launches for Ubuntu, Debian, and Fedora",
+          "url": "https://securityonline.info/chatgpt-linux-desktop-preview/"
+        }
+      },
+      {
+        "id": 129884,
+        "text": "⤷\nTitle:\nDEF CON Attendee Suspected in Fake WiFi Attack Targeting Delta Flight 591 Passengers\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nSat, 15 Aug 2026 02:37:01 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#cybersecurity\n#Deauthentication\nAttack\n#DEF\nCON\n#Delta\nAirlines\n#Evil\nTwin\n#Fake\nWiFi\n#phishing",
+        "date": "2026-08-15T04:04:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129884_0_56bc1a3c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129884_1_2e2e399e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129884",
+        "link": {
+          "title": "DEF CON Attendee Suspected in Fake WiFi Attack Targeting Delta Flight 591 Passengers",
+          "url": "https://securityonline.info/defcon-delta-flight-fake-wifi-attack/"
+        }
+      },
+      {
+        "id": 129883,
+        "text": "⤷\nTitle:\nMicrosoft Defender Causes VLC Playback Issues\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nSat, 15 Aug 2026 02:37:40 +0000\n════════════════════════\n⌗\nTags:\n#Windows\n#Antivirus\nBug\n#Microsoft\nDefender\n#VLC\n#Windows\n11",
+        "date": "2026-08-15T04:04:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129883_0_56bc1a3c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129883_1_c8fd7464.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129883",
+        "link": {
+          "title": "Microsoft Defender Causes VLC Playback Issues",
+          "url": "https://securityonline.info/microsoft-defender-vlc-bug/"
+        }
+      },
+      {
+        "id": 129882,
+        "text": "⤷\nTitle:\nGoogle Gemini Hits 1 Billion Users – Now the Fastest-Growing App in Google History\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nSat, 15 Aug 2026 02:48:35 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#AI\nAssistant\n#artificial\nintelligence\n#ChatGPT\n#Gemini\nAI\n#Google\nAI\n#Google\nGemini\n#Sundar\nPichai",
+        "date": "2026-08-15T04:04:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129882_0_56bc1a3c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129882_1_de42266e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129882",
+        "link": {
+          "title": "Google Gemini Hits 1 Billion Users – Now the Fastest-Growing App in Google History",
+          "url": "https://securityonline.info/google-gemini-1-billion-users/"
+        }
+      },
+      {
+        "id": 129881,
+        "text": "⤷\nTitle:\nMozilla Rotates Firefox and Thunderbird Linux GPG Signing Key After Private Repo Exposure\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nSat, 15 Aug 2026 03:00:39 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#firefox\n#GitHub\nSecurity\n#GPG\nKey\n#Key\nRotation\n#Linux\nSecurity\n#mozilla\n#Thunderbird",
+        "date": "2026-08-15T04:04:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129881_0_56bc1a3c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129881_1_4ea9f082.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129881",
+        "link": {
+          "title": "Mozilla Rotates Firefox and Thunderbird Linux GPG Signing Key After Private Repo Exposure",
+          "url": "https://securityonline.info/firefox-thunderbird-linux-gpg-key-rotation/"
+        }
+      },
+      {
+        "id": 129880,
+        "text": "⤷\nTitle:\nApple Sends Mercenary Spyware Alerts to Users in 110+ Countries\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nSat, 15 Aug 2026 03:15:44 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#Apple\n#iPhone\nsecurity\n#Lockdown\nMode\n#Mercenary\nSpyware\n#NSO\nGroup\n#Pegasus\n#spyware",
+        "date": "2026-08-15T04:04:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129880_0_56bc1a3c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129880_1_36d10327.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129880",
+        "link": {
+          "title": "Apple Sends Mercenary Spyware Alerts to Users in 110+ Countries",
+          "url": "https://securityonline.info/apple-mercenary-spyware-warning-110-countries/"
+        }
+      },
+      {
+        "id": 129879,
+        "text": "⤷\nTitle:\nMicrosoft Copilot Super App: A Unified Platform Vision\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nSat, 15 Aug 2026 03:33:49 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#artificial\nintelligence\n#Microsoft\nCopilot\n#Super\nApp",
+        "date": "2026-08-15T04:04:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129879_0_56bc1a3c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129879_1_38912ede.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129879",
+        "link": {
+          "title": "Microsoft Copilot Super App: A Unified Platform Vision",
+          "url": "https://securityonline.info/microsoft-copilot-super-app/"
+        }
+      },
+      {
+        "id": 129878,
+        "text": "⤷\nTitle:\nTrezor Data Breach: 13,689 Customers Exposed via Critical Metabase Zero-Day CVE-2026-72898\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nSat, 15 Aug 2026 03:21:18 +0000\n════════════════════════\n⌗\nTags:\n#Data\nLeak\n#CVE_2026_72898\n#data\nbreach\n#Metabase\n#ShinyHunters\n#ShipMonk\n#Trezor\n#zero_day",
+        "date": "2026-08-15T04:04:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129878_0_56bc1a3c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129878_1_1d677d16.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129878",
+        "link": {
+          "title": "Trezor Data Breach: 13,689 Customers Exposed via Critical Metabase Zero-Day CVE-2026-72898",
+          "url": "https://meterpreter.org/trezor-shipmonk-metabase-breach-cve-2026-72898/"
+        }
+      },
+      {
+        "id": 129877,
+        "text": "⤷\nTitle:\nShieldBreak PoC Claims Bypass of CVE-2026-50656 Patch, Achieving SYSTEM on Windows 11\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nSat, 15 Aug 2026 03:39:04 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\n#CVE_2026_50656\n#Microsoft\nDefender\n#Patch\nBypass\n#privilege\nescalation\n#Proof\nof Concept\n#ShieldBreak\n#Windows\n11",
+        "date": "2026-08-15T04:03:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129877_0_56bc1a3c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129877_1_c4b34195.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129877",
+        "link": {
+          "title": "ShieldBreak PoC Claims Bypass of CVE-2026-50656 Patch, Achieving SYSTEM on Windows 11",
+          "url": "https://meterpreter.org/shieldbreak-cve-2026-50656-defender-bypass/"
+        }
+      },
+      {
         "id": 129876,
         "text": "⤷\nTitle:\nThe 2026 Jeep Recon: A Jeep that lets you relive the Top Gear Botswana Special\n════════════════════════\n𐀪\nAuthor:\nEthan Wickramaratne\n════════════════════════\nⴵ\nTime:\nSat, 15 Aug 2026 01:26:32 GMT\n════════════════════════\n⌗\nTags:\n#jeep\n#recon\n#jeep_recon",
         "date": "2026-08-15T02:04:07+00:00",
@@ -1947,363 +2292,22 @@
           "title": "Beyond OAuth Scopes: Fine-Grained Authorization with RAR in WSO2 Identity Server",
           "url": "https://sanjulaonline.medium.com/beyond-oauth-scopes-fine-grained-authorization-with-rar-in-wso2-identity-server-06648d9390e7?source=rss------api_security-5"
         }
-      },
-      {
-        "id": 129791,
-        "text": "⤷\nTitle:\nReactor — My First Hack The Box Machine: From Next.js RCE to Root\n════════════════════════\n𐀪\nAuthor:\n0xpandey\n════════════════════════\nⴵ\nTime:\nFri, 14 Aug 2026 05:57:25 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#hackthebox\n#ethical_hacking\n#ctf\n#penetration_testin",
-        "date": "2026-08-14T08:04:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129791_0_56bc1a3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129791_1_869aaaea.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129791",
-        "link": {
-          "title": "Reactor — My First Hack The Box Machine: From Next.js RCE to Root",
-          "url": "https://medium.com/@ompandeyy622/reactor-my-first-hack-the-box-machine-from-next-js-rce-to-root-ae7d2d92c596?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 129790,
-        "text": "⤷\nTitle:\nMetasploit: Exploitation — Mastering Target Scanning, Payloads, and Post-Exploitation\n════════════════════════\n𐀪\nAuthor:\nJonathan Sanfer\n════════════════════════\nⴵ\nTime:\nFri, 14 Aug 2026 06:19:53 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#exploitation\n#msfvenom\n#metasploit\n#tryhackme",
-        "date": "2026-08-14T08:04:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129790_0_56bc1a3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129790_1_9413586b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129790",
-        "link": {
-          "title": "Metasploit: Exploitation — Mastering Target Scanning, Payloads, and Post-Exploitation",
-          "url": "https://medium.com/@jonathan.sanfer/metasploit-exploitation-mastering-target-scanning-payloads-and-post-exploitation-e06ea46a5627?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 129789,
-        "text": "⤷\nTitle:\n️TryHackMe Management Wants a Word Writeup| Forensic Investigation | 2026\n════════════════════════\n𐀪\nAuthor:\nSushma\n════════════════════════\nⴵ\nTime:\nFri, 14 Aug 2026 07:32:41 GMT\n════════════════════════\n⌗\nTags:\n#cyber_security_awareness\n#ctf\n#ctf_writeup\n#cybersecurity\n#tryhackme",
-        "date": "2026-08-14T08:04:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129789_0_56bc1a3c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129789",
-        "link": {
-          "title": "️TryHackMe Management Wants a Word Writeup| Forensic Investigation | 2026",
-          "url": "https://medium.com/@sushmaaragidda/%EF%B8%8Ftryhackme-management-wants-a-word-writeup-forensic-investigation-2026-56a69b5cb5ea?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 129788,
-        "text": "⤷\nTitle:\nA Beginner’s Struggle With Reversing CVE-2026–6854\n════════════════════════\n𐀪\nAuthor:\nPaul Lam\n════════════════════════\nⴵ\nTime:\nFri, 14 Aug 2026 07:37:02 GMT\n════════════════════════\n⌗\nTags:\n#reverse_engineering\n#cybersecurity\n#patch_diffing\n#penetration_testing\n#cve",
-        "date": "2026-08-14T08:04:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129788_0_56bc1a3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129788_1_37d7b522.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129788",
-        "link": {
-          "title": "A Beginner’s Struggle With Reversing CVE-2026–6854",
-          "url": "https://medium.com/@plaws.sj12/a-beginners-struggle-with-reversing-cve-2026-6854-028a6df16c59?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 129787,
-        "text": "⤷\nTitle:\nThe postmortem culture question nobody asks out loud\n════════════════════════\n𐀪\nAuthor:\nh@shtalk\n════════════════════════\nⴵ\nTime:\nFri, 14 Aug 2026 07:41:01 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#postmortem\n#cybersecurity\n#incident_reporting",
-        "date": "2026-08-14T08:04:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129787_0_56bc1a3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129787_1_e2298cca.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129787",
-        "link": {
-          "title": "The postmortem culture question nobody asks out loud",
-          "url": "https://eva-georgieva.medium.com/the-postmortem-culture-question-nobody-asks-out-loud-12af74019081?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 129786,
-        "text": "⤷\nTitle:\nMy CRTE Exam Journey — the good, the bad, and the ugly\n════════════════════════\n𐀪\nAuthor:\nShivam Bathla\n════════════════════════\nⴵ\nTime:\nFri, 14 Aug 2026 06:22:28 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#red_team\n#penetration_testing\n#ethical_hacking\n#cybersecurity",
-        "date": "2026-08-14T08:04:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129786_0_56bc1a3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129786_1_7e5f8115.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129786",
-        "link": {
-          "title": "My CRTE Exam Journey — the good, the bad, and the ugly",
-          "url": "https://medium.com/@shivam_bathla/my-crte-exam-journey-the-good-the-bad-and-the-ugly-19f808e83c5d?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 129785,
-        "text": "⤷\nTitle:\nCould a Stranger Hack You in a Coffee Shop?\n════════════════════════\n𐀪\nAuthor:\nKRS ~\n════════════════════════\nⴵ\nTime:\nFri, 14 Aug 2026 07:29:08 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#security\n#wifi\n#cybersecurity_tips\n#online_safety",
-        "date": "2026-08-14T08:03:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129785_0_56bc1a3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129785_1_b5ce8175.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129785",
-        "link": {
-          "title": "Could a Stranger Hack You in a Coffee Shop?",
-          "url": "https://medium.com/@krs.786/could-a-stranger-hack-you-in-a-coffee-shop-43d10c7b1876?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 129784,
-        "text": "⤷\nTitle:\nHow Hackers Get Your Passwords Without You Ever Clicking a Link\n════════════════════════\n𐀪\nAuthor:\nTanveer\n════════════════════════\nⴵ\nTime:\nFri, 14 Aug 2026 07:34:29 GMT\n════════════════════════\n⌗\nTags:\n#ai\n#digital_marketing\n#data_science\n#automation\n#hacking",
-        "date": "2026-08-14T08:03:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129784_0_56bc1a3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129784_1_b96d5351.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129784",
-        "link": {
-          "title": "How Hackers Get Your Passwords Without You Ever Clicking a Link",
-          "url": "https://medium.com/@opexta/how-hackers-get-your-passwords-without-you-ever-clicking-a-link-d04de6e896ff?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 129783,
-        "text": "⤷\nTitle:\nBrowser Exploitation: 12 Techniques From Recent CTFs You Can Actually Use\n════════════════════════\n𐀪\nAuthor:\nVery Lazy Tech\n════════════════════════\nⴵ\nTime:\nFri, 14 Aug 2026 07:12:38 GMT\n════════════════════════\n⌗\nTags:\n#ctf\n#hacking\n#penetration_testing\n#bug_bounty\n#cybersecurity",
-        "date": "2026-08-14T08:03:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129783_0_56bc1a3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129783_1_1f75362e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129783",
-        "link": {
-          "title": "Browser Exploitation: 12 Techniques From Recent CTFs You Can Actually Use",
-          "url": "https://medium.com/@verylazytech/browser-exploitation-12-techniques-from-recent-ctfs-you-can-actually-use-1779ff4c94dd?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 129782,
-        "text": "⤷\nTitle:\nYou’re Back In The Room (Citrix NetScaler Pre-Auth RCE CVE-2026-8452(?))\n════════════════════════\n𐀪\nAuthor:\nSina Kheirkhah (\n@SinSinology\n)\n════════════════════════\nⴵ\nTime:\nFri, 14 Aug 2026 07:08:20 GMT\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-08-14T08:03:48+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129782_0_56bc1a3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129782_1_7dede4bd.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129782",
-        "link": {
-          "title": "You’re Back In The Room (Citrix NetScaler Pre-Auth RCE CVE-2026-8452(?))",
-          "url": "https://labs.watchtowr.com/youre-back-in-the-room-citrix-netscaler-pre-auth-rce-cve-2026-8452/"
-        }
-      },
-      {
-        "id": 129781,
-        "text": "⤷\nTitle:\nMariaDB 13.0.1-rc RCE: Priv-Esc + Heap UAF + JOP Chain to system()\n════════════════════════\n𐀪\nAuthor:\nGuidancewhite\n════════════════════════\nⴵ\nTime:\nFri, 14 Aug 2026 04:48:26 GMT\n════════════════════════\n⌗\nTags:\n#database\n#rce\n#exploit\n#mariadb",
-        "date": "2026-08-14T06:04:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129781_0_56bc1a3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129781_1_22ed03aa.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129781",
-        "link": {
-          "title": "MariaDB 13.0.1-rc RCE: Priv-Esc + Heap UAF + JOP Chain to system()",
-          "url": "https://medium.com/@guidancewhite/mariadb-13-0-1-rc-rce-priv-esc-heap-uaf-jop-chain-to-system-798a9f099828?source=rss------rce-5"
-        }
-      },
-      {
-        "id": 129780,
-        "text": "⤷\nTitle:\nSecuring Pakistan’s Digital Future: A Cyber Defense Strategy for the Year Ahead\n════════════════════════\n𐀪\nAuthor:\nMuhsin Ali Shah\n════════════════════════\nⴵ\nTime:\nFri, 14 Aug 2026 03:58:59 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#pakistan\n#life\n#independence_day\n#ethical_hacking",
-        "date": "2026-08-14T06:04:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129780_0_56bc1a3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129780_1_cbc93abd.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129780",
-        "link": {
-          "title": "Securing Pakistan’s Digital Future: A Cyber Defense Strategy for the Year Ahead",
-          "url": "https://medium.com/@imuhsinalishah/securing-pakistans-digital-future-a-cyber-defense-strategy-for-the-year-ahead-221eec04e892?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 129779,
-        "text": "⤷\nTitle:\nTop Cybersecurity Trends in 2026: What Businesses and Individuals Must Know\n════════════════════════\n𐀪\nAuthor:\nShone Verveox\n════════════════════════\nⴵ\nTime:\nFri, 14 Aug 2026 04:48:39 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#cybersecurity_trends_2026\n#artificial_intelligence\n#ethical_hacking\n#cloud_security",
-        "date": "2026-08-14T06:04:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129779_0_56bc1a3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129779_1_0e558408.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129779",
-        "link": {
-          "title": "Top Cybersecurity Trends in 2026: What Businesses and Individuals Must Know",
-          "url": "https://medium.com/@shone.verveox/top-cybersecurity-trends-in-2026-what-businesses-and-individuals-must-know-d6bf71164308?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 129778,
-        "text": "⤷\nTitle:\nServer-Side Template Injection (SSTI) to Remote Code Execution (RCE): A Visual Guide for Pentesters…\n════════════════════════\n𐀪\nAuthor:\nKondibajogdand\n════════════════════════\nⴵ\nTime:\nFri, 14 Aug 2026 05:41:00 GMT\n════════════════════════\n⌗\nTags:\n#web_penetration_testing\n#web_security\n#ethical_hacking\n#web_application_security\n#security",
-        "date": "2026-08-14T06:04:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129778_0_56bc1a3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129778_1_ce2805ce.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129778",
-        "link": {
-          "title": "Server-Side Template Injection (SSTI) to Remote Code Execution (RCE): A Visual Guide for Pentesters…",
-          "url": "https://medium.com/@kondibajogdand123/server-side-template-injection-ssti-to-remote-code-execution-rce-a-visual-guide-for-pentesters-0542524f46fd?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 129777,
-        "text": "⤷\nTitle:\nBuilding Wazuh Rules — mini challenge\n════════════════════════\n𐀪\nAuthor:\nJose Praveen\n════════════════════════\nⴵ\nTime:\nFri, 14 Aug 2026 05:10:48 GMT\n════════════════════════\n⌗\nTags:\n#wazuh_rules\n#tryhackme\n#wazuh\n#security_operation_center\n#tryhackme_writeup",
-        "date": "2026-08-14T06:03:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129777_0_56bc1a3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129777_1_43d022aa.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129777",
-        "link": {
-          "title": "Building Wazuh Rules — mini challenge",
-          "url": "https://josepraveen.medium.com/building-wazuh-rules-mini-challenge-9c55b05ebca3?source=rss------tryhackme-5"
-        }
       }
     ]
   },
-  "last_update": "2026-08-15T04:03:49.352871+00:00",
+  "last_update": "2026-08-15T04:55:05.883327+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 197,
-    "total_files": 197,
+    "total_media": 198,
+    "total_files": 198,
     "total_links": 0,
     "files_by_type": {
-      "image": 197
+      "image": 198
     },
-    "referenced_files": 197,
-    "existing_media_files": 197,
-    "total_size_mb": 5.63,
-    "last_calculation": "2026-08-15T04:03:49.355336+00:00"
+    "referenced_files": 198,
+    "existing_media_files": 198,
+    "total_size_mb": 5.65,
+    "last_calculation": "2026-08-15T04:55:05.884889+00:00"
   }
 }
