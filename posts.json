@@ -2,6 +2,236 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 129901,
+        "text": "⤷\nTitle:\nTryHackMe: Defensive Security Intro — Step-by-Step Walkthrough\n════════════════════════\n𐀪\nAuthor:\nAshutosh Yadav\n════════════════════════\nⴵ\nTime:\nSat, 15 Aug 2026 05:15:01 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#soc\n#blue_team\n#tryhackme_walkthrough\n#tryhackme",
+        "date": "2026-08-15T06:04:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129901_0_2bad81ed.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129901_1_8e6a66d3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129901",
+        "link": {
+          "title": "TryHackMe: Defensive Security Intro — Step-by-Step Walkthrough",
+          "url": "https://ashutoshyadav-256.medium.com/tryhackme-defensive-security-intro-step-by-step-walkthrough-b47b3debf724?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 129900,
+        "text": "⤷\nTitle:\nBypassing XSS Filters via URI Scheme & Chaining to Open Redirect\n════════════════════════\n𐀪\nAuthor:\nCoolorangee\n════════════════════════\nⴵ\nTime:\nSat, 15 Aug 2026 04:28:09 GMT\n════════════════════════\n⌗\nTags:\n#bugbounty_writeup\n#cybersecurity\n#xss_attack\n#penetration_testing\n#infosec",
+        "date": "2026-08-15T06:04:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129900_0_2bad81ed.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129900_1_02220445.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129900",
+        "link": {
+          "title": "Bypassing XSS Filters via URI Scheme & Chaining to Open Redirect",
+          "url": "https://medium.com/@coolorangee3/bypassing-xss-filters-via-uri-scheme-chaining-to-open-redirect-a3a6ba8d7c54?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 129899,
+        "text": "⤷\nTitle:\nMAJINAHANASHI RANSOMWARE: Yet Another Japanese Locker\n════════════════════════\n𐀪\nAuthor:\nRakesh Krishnan\n════════════════════════\nⴵ\nTime:\nSat, 15 Aug 2026 05:41:27 GMT\n════════════════════════\n⌗\nTags:\n#osint\n#ransomware\n#cybersecurity\n#hacking\n#infosec",
+        "date": "2026-08-15T06:04:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129899_0_2bad81ed.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129899_1_6240ac8e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129899",
+        "link": {
+          "title": "MAJINAHANASHI RANSOMWARE: Yet Another Japanese Locker",
+          "url": "https://rakeshkrish.medium.com/majinahanashi-ransomware-yet-another-japanese-locker-8f10d225b15f?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 129898,
+        "text": "⤷\nTitle:\nWhen the Marketing Page Became the Threat Model: Forging “Verified Reviews” on PriceRunner\n════════════════════════\n𐀪\nAuthor:\nredhunter01\n════════════════════════\nⴵ\nTime:\nSat, 15 Aug 2026 04:22:20 GMT\n════════════════════════\n⌗\nTags:\n#api_security\n#web_application_security\n#business_logic\n#web_security\n#bug_bounty",
+        "date": "2026-08-15T06:04:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129898_0_2bad81ed.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129898_1_561d5624.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129898",
+        "link": {
+          "title": "When the Marketing Page Became the Threat Model: Forging “Verified Reviews” on PriceRunner",
+          "url": "https://medium.com/@arshiahunterrr1/when-the-marketing-page-became-the-threat-model-forging-verified-reviews-on-pricerunner-766ba28c173f?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 129897,
+        "text": "⤷\nTitle:\nSmali By bithowl: Chapter 6 Smali Naming System\n════════════════════════\n𐀪\nAuthor:\nbithowl\n════════════════════════\nⴵ\nTime:\nSat, 15 Aug 2026 05:31:01 GMT\n════════════════════════\n⌗\nTags:\n#bithowl\n#bug_bounty_writeup\n#bug_bounty",
+        "date": "2026-08-15T06:04:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129897_0_2bad81ed.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129897_1_2ca94bc9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129897",
+        "link": {
+          "title": "Smali By bithowl: Chapter 6 Smali Naming System",
+          "url": "https://medium.com/@bithowl/smali-by-bithowl-chapter-6-smali-naming-system-93cc0c8bb14a?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 129896,
+        "text": "⤷\nTitle:\nCVE-2026-15826: User Profile Builder Bug Under Active Attack, Grants Full Admin Takeover (CVSS 9.8)\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nSat, 15 Aug 2026 04:03:55 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Admin\nTakeover\n#Authentication\nBypass\n#CVE_2026_15826\n#User\nProfile Builder\n#WordPress\nPlugin Vulnerability\n#wordpress\nsecurity",
+        "date": "2026-08-15T06:04:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129896_0_2bad81ed.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129896_1_c8935620.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129896",
+        "link": {
+          "title": "CVE-2026-15826: User Profile Builder Bug Under Active Attack, Grants Full Admin Takeover (CVSS 9.8)",
+          "url": "https://securityonline.info/user-profile-builder-cve-2026-15826/"
+        }
+      },
+      {
+        "id": 129895,
+        "text": "⤷\nTitle:\nMicrosoft 365 on Windows 10 Enters Feature Freeze as Microsoft Pushes Windows 11 Upgrades\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nSat, 15 Aug 2026 04:29:33 +0000\n════════════════════════\n⌗\nTags:\n#Windows\n#end\nof support\n#Feature\nFreeze\n#Microsoft\n#Microsoft\n365\n#OneDrive\n#Windows\n10\n#Windows\n11",
+        "date": "2026-08-15T06:04:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129895_0_2bad81ed.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129895_1_746da196.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129895",
+        "link": {
+          "title": "Microsoft 365 on Windows 10 Enters Feature Freeze as Microsoft Pushes Windows 11 Upgrades",
+          "url": "https://securityonline.info/microsoft365-windows10-feature-freeze/"
+        }
+      },
+      {
+        "id": 129894,
+        "text": "⤷\nTitle:\nApple Proposes New App Store Link-Out Fees of 5% to 15% in Epic Legal Battle\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nSat, 15 Aug 2026 05:29:39 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#Antitrust\n#App\nStore\n#App\nStore Fees\n#Apple\n#Epic\nGames\n#Link_Out\n#Supreme\nCourt",
+        "date": "2026-08-15T06:04:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129894_0_2bad81ed.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129894_1_4bf2101c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129894",
+        "link": {
+          "title": "Apple Proposes New App Store Link-Out Fees of 5% to 15% in Epic Legal Battle",
+          "url": "https://securityonline.info/apple-app-store-link-out-fees-epic/"
+        }
+      },
+      {
+        "id": 129893,
+        "text": "⤷\nTitle:\nWeaponizing Windows USB Auto-Install with Plug and Pwn\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nSat, 15 Aug 2026 04:19:02 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\n#DEF\nCON 34\n#Plug\nand Pwn\n#vulnerability\n#Windows\nSecurity",
+        "date": "2026-08-15T06:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129893_0_2bad81ed.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129893_1_c93a1de3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129893",
+        "link": {
+          "title": "Weaponizing Windows USB Auto-Install with Plug and Pwn",
+          "url": "https://meterpreter.org/plug-and-pwn-windows-vulnerability/"
+        }
+      },
+      {
+        "id": 129892,
+        "text": "⤷\nTitle:\nIntel Orchestrates Massive Security Patch Release\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nSat, 15 Aug 2026 05:18:59 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\n#cybersecurity\n#Intel\n#Security\nPatch\n#vulnerability",
+        "date": "2026-08-15T06:03:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129892_0_2bad81ed.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129892_1_4e882113.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129892",
+        "link": {
+          "title": "Intel Orchestrates Massive Security Patch Release",
+          "url": "https://meterpreter.org/intel-security-patch-tuesday-fixes/"
+        }
+      },
+      {
         "id": 129891,
         "text": "⤷\nTitle:\nMicrosoft Needs To Proactively Prevent Typosquatting (how I almost got owned)\n════════════════════════\n𐀪\nAuthor:\nEthan Word\n════════════════════════\nⴵ\nTime:\nSat, 15 Aug 2026 02:39:53 GMT\n════════════════════════\n⌗\nTags:\n#microsoft\n#powershell\n#infosec\n#cybersecurity",
         "date": "2026-08-15T04:04:43+00:00",
@@ -2062,240 +2292,10 @@
           "title": "When the Database Isn’t Enough: Popping ScadaBR and Reading a PLC via Modbus TCP",
           "url": "https://medium.com/@mikgrimaldi7/when-the-database-isnt-enough-popping-scadabr-and-reading-a-plc-via-modbus-tcp-83aa84135e2a?source=rss------penetration_testing-5"
         }
-      },
-      {
-        "id": 129801,
-        "text": "⤷\nTitle:\nTrace Labs — Challenge 45 — Writeup\n════════════════════════\n𐀪\nAuthor:\nMichele Grimaldi\n════════════════════════\nⴵ\nTime:\nFri, 14 Aug 2026 08:54:36 GMT\n════════════════════════\n⌗\nTags:\n#ctf_writeup\n#infosec\n#osint\n#digital_forensics\n#cybersecurity",
-        "date": "2026-08-14T10:04:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129801_0_56bc1a3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129801_1_f585924a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129801",
-        "link": {
-          "title": "Trace Labs — Challenge 45 — Writeup",
-          "url": "https://medium.com/@mikgrimaldi7/trace-labs-challenge-45-writeup-14014ac8eedf?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 129800,
-        "text": "⤷\nTitle:\nReported in February. Fixed in June. I Found Out in August.\n════════════════════════\n𐀪\nAuthor:\nAnirudh Thakur\n════════════════════════\nⴵ\nTime:\nFri, 14 Aug 2026 08:37:12 GMT\n════════════════════════\n⌗\nTags:\n#ai_agent\n#application_security\n#software_architecture\n#mcp_server\n#cybersecurity",
-        "date": "2026-08-14T10:04:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129800_0_56bc1a3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129800_1_03023b96.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129800",
-        "link": {
-          "title": "Reported in February. Fixed in June. I Found Out in August.",
-          "url": "https://medium.com/@anirudh.thakur0056/reported-in-february-fixed-in-june-i-found-out-in-august-21ceee051c9e?source=rss------application_security-5"
-        }
-      },
-      {
-        "id": 129799,
-        "text": "⤷\nTitle:\n10 Application Security Testing Companies in India to Consider in 2026\n════════════════════════\n𐀪\nAuthor:\nsarthak\n════════════════════════\nⴵ\nTime:\nFri, 14 Aug 2026 09:35:15 GMT\n════════════════════════\n⌗\nTags:\n#application\n#application_security\n#security",
-        "date": "2026-08-14T10:04:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129799_0_56bc1a3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129799_1_b644410c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129799",
-        "link": {
-          "title": "10 Application Security Testing Companies in India to Consider in 2026",
-          "url": "https://medium.com/@fringe963/10-application-security-testing-companies-in-india-to-consider-in-2026-77527a7e2f56?source=rss------application_security-5"
-        }
-      },
-      {
-        "id": 129798,
-        "text": "⤷\nTitle:\nTHE DOOR Penetration Testing | SQLi → Authentication Bypass → Command Injection\n════════════════════════\n𐀪\nAuthor:\nPentester Club\n════════════════════════\nⴵ\nTime:\nFri, 14 Aug 2026 09:33:21 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#web_development\n#cybersecurity\n#artificial_intelligence\n#bug_bounty",
-        "date": "2026-08-14T10:04:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129798_0_56bc1a3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129798_1_a7d360cc.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129798",
-        "link": {
-          "title": "THE DOOR Penetration Testing | SQLi → Authentication Bypass → Command Injection",
-          "url": "https://medium.com/@pentesterclubpvtltd/the-door-penetration-testing-sqli-authentication-bypass-command-injection-d3049e81a15d?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 129797,
-        "text": "⤷\nTitle:\nGunra Ransomware Hits Critical Infrastructure, CISA Warns\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 14 Aug 2026 07:07:04 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#CISA\n#Conti\n#Double\nExtortion\n#Gunra\nRansomware\n#ransomware\n#StopRansomware",
-        "date": "2026-08-14T10:04:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129797_0_56bc1a3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129797_1_b1dd5c2f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129797",
-        "link": {
-          "title": "Gunra Ransomware Hits Critical Infrastructure, CISA Warns",
-          "url": "https://securityonline.info/gunra-ransomware-cisa-advisory/"
-        }
-      },
-      {
-        "id": 129796,
-        "text": "⤷\nTitle:\nCVE-2025-41771: SQL Injection Flaw Hits Phoenix Contact PLCnext\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 14 Aug 2026 07:38:09 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2025_41769\n#CVE_2025_41771\n#ICS\nsecurity\n#Phoenix\nContact\n#PLCnext\n#sql\ninjection",
-        "date": "2026-08-14T10:04:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129796_0_56bc1a3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129796_1_7a5832c3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129796",
-        "link": {
-          "title": "CVE-2025-41771: SQL Injection Flaw Hits Phoenix Contact PLCnext",
-          "url": "https://securityonline.info/phoenix-contact-plcnext-sql-injection/"
-        }
-      },
-      {
-        "id": 129795,
-        "text": "⤷\nTitle:\nCVE-2026–39987: Marimo Pre-Authentication Remote Code Execution\n════════════════════════\n𐀪\nAuthor:\nRaj Kumar M\n════════════════════════\nⴵ\nTime:\nFri, 14 Aug 2026 07:06:54 GMT\n════════════════════════\n⌗\nTags:\n#rce\n#exploit_development\n#pentesting\n#cve_2026\n#security_research",
-        "date": "2026-08-14T08:04:32+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129795_0_56bc1a3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129795_1_2f6d6097.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129795",
-        "link": {
-          "title": "CVE-2026–39987: Marimo Pre-Authentication Remote Code Execution",
-          "url": "https://medium.com/@iamkumarraj/cve-2026-39987-marimo-pre-authentication-remote-code-execution-cdbf668df0ad?source=rss------rce-5"
-        }
-      },
-      {
-        "id": 129794,
-        "text": "⤷\nTitle:\nThe Third Time Isn’t a Coincidence: Inside the UAE’s 2026 Cyber Siege\n════════════════════════\n𐀪\nAuthor:\nProphaze\n════════════════════════\nⴵ\nTime:\nFri, 14 Aug 2026 06:06:15 GMT\n════════════════════════\n⌗\nTags:\n#cyberattack\n#phishing\n#uae\n#critical_infrastructure\n#api_security",
-        "date": "2026-08-14T08:04:28+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129794_0_56bc1a3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129794_1_4d8e7155.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129794",
-        "link": {
-          "title": "The Third Time Isn’t a Coincidence: Inside the UAE’s 2026 Cyber Siege",
-          "url": "https://medium.com/@prophaze/the-third-time-isnt-a-coincidence-inside-the-uae-s-2026-cyber-siege-e0d76f324af6?source=rss------api_security-5"
-        }
-      },
-      {
-        "id": 129793,
-        "text": "⤷\nTitle:\nDefending from the Inside Out: A Complete Guide to Enterprise Security Architecture\n════════════════════════\n𐀪\nAuthor:\nBishaldhimal\n════════════════════════\nⴵ\nTime:\nFri, 14 Aug 2026 06:16:44 GMT\n════════════════════════\n⌗\nTags:\n#on_premise_security\n#security_organization\n#network_security\n#cloud_security\n#api_security",
-        "date": "2026-08-14T08:04:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129793_0_56bc1a3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129793_1_38a279c4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129793",
-        "link": {
-          "title": "Defending from the Inside Out: A Complete Guide to Enterprise Security Architecture",
-          "url": "https://medium.com/@bishaldhimal321/defending-from-the-inside-out-a-complete-guide-to-enterprise-security-architecture-67aee37000fa?source=rss------api_security-5"
-        }
-      },
-      {
-        "id": 129792,
-        "text": "⤷\nTitle:\nBeyond OAuth Scopes: Fine-Grained Authorization with RAR in WSO2 Identity Server\n════════════════════════\n𐀪\nAuthor:\nSanjula Herath\n════════════════════════\nⴵ\nTime:\nFri, 14 Aug 2026 07:36:38 GMT\n════════════════════════\n⌗\nTags:\n#oauth2\n#wso2\n#api_security\n#identity_and_access\n#open_banking",
-        "date": "2026-08-14T08:04:22+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129792_0_56bc1a3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129792_1_73c88131.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129792",
-        "link": {
-          "title": "Beyond OAuth Scopes: Fine-Grained Authorization with RAR in WSO2 Identity Server",
-          "url": "https://sanjulaonline.medium.com/beyond-oauth-scopes-fine-grained-authorization-with-rar-in-wso2-identity-server-06648d9390e7?source=rss------api_security-5"
-        }
       }
     ]
   },
-  "last_update": "2026-08-15T05:48:51.409594+00:00",
+  "last_update": "2026-08-15T06:18:18.672283+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2307,7 +2307,7 @@
     },
     "referenced_files": 198,
     "existing_media_files": 198,
-    "total_size_mb": 5.65,
-    "last_calculation": "2026-08-15T05:48:51.411985+00:00"
+    "total_size_mb": 5.7,
+    "last_calculation": "2026-08-15T06:18:18.674616+00:00"
   }
 }
