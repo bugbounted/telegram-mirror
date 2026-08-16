@@ -2,6 +2,94 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 129971,
+        "text": "⤷\nTitle:\nTHM Hacker Holidays 2026 Room 0: The Brochure\n════════════════════════\n𐀪\nAuthor:\nJinxedCyber\n════════════════════════\nⴵ\nTime:\nSat, 15 Aug 2026 22:48:03 GMT\n════════════════════════\n⌗\nTags:\n#hacker_holidays_2026\n#cryptography\n#tryhackme\n#ctf_writeup\n#osint",
+        "date": "2026-08-16T00:04:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129971_0_2bad81ed.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129971_1_64862748.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129971",
+        "link": {
+          "title": "THM Hacker Holidays 2026 Room 0: The Brochure",
+          "url": "https://medium.com/@JinxedCyber/thm-hacker-holidays-2026-room-0-the-brochure-7e681f10975b?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 129970,
+        "text": "⤷\nTitle:\nExtreme OpSec: Separation Over Software\n════════════════════════\n𐀪\nAuthor:\nOfficer's Notes\n════════════════════════\nⴵ\nTime:\nSat, 15 Aug 2026 23:40:14 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#privacy\n#opsec\n#information_security\n#security",
+        "date": "2026-08-16T00:04:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129970_0_2bad81ed.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129970_1_9e4bc668.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129970",
+        "link": {
+          "title": "Extreme OpSec: Separation Over Software",
+          "url": "https://osintteam.blog/extreme-opsec-separation-over-software-b9acafb42169?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 129969,
+        "text": "⤷\nTitle:\nCambian los nombres, no los adversarios: la nueva taxonomía de amenazas de Google\n════════════════════════\n𐀪\nAuthor:\nTU INSIGNIA\n════════════════════════\nⴵ\nTime:\nSat, 15 Aug 2026 22:36:00 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#ai_agent\n#generative_ai_tools\n#ai\n#ethical_hacking",
+        "date": "2026-08-16T00:04:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129969_0_2bad81ed.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129969",
+        "link": {
+          "title": "Cambian los nombres, no los adversarios: la nueva taxonomía de amenazas de Google",
+          "url": "https://medium.com/@TUINSIGNIA/cambian-los-nombres-no-los-adversarios-la-nueva-taxonom%C3%ADa-de-amenazas-de-google-656cc656582c?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 129968,
+        "text": "⤷\nTitle:\nPassive Income from Recon: Real Methods Hackers Use\n════════════════════════\n𐀪\nAuthor:\nVipul Sonule\n════════════════════════\nⴵ\nTime:\nSat, 15 Aug 2026 23:40:10 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#hacking\n#ai\n#bug_bounty\n#programming",
+        "date": "2026-08-16T00:03:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129968_0_2bad81ed.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129968_1_d8dc9351.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129968",
+        "link": {
+          "title": "Passive Income from Recon: Real Methods Hackers Use",
+          "url": "https://osintteam.blog/passive-income-from-recon-real-methods-hackers-use-5c14cef6674f?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 129967,
         "text": "⤷\nTitle:\nMy CPTS Journey: The First 3 Modules\n════════════════════════\n𐀪\nAuthor:\nSantiago Reyes\n════════════════════════\nⴵ\nTime:\nSat, 15 Aug 2026 20:18:01 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#cybersecurity_training\n#hackthebox\n#cybersecurity",
         "date": "2026-08-15T22:03:59+00:00",
@@ -2200,114 +2288,22 @@
           "title": "Expresso CTF HTB",
           "url": "https://medium.com/@kmsedition/expresso-ctf-htb-d47a7eadd02a?source=rss------hackthebox_writeup-5"
         }
-      },
-      {
-        "id": 129871,
-        "text": "⤷\nTitle:\nMengupas Tuntas Proses Pentest: Dari Reconnaissance Sampai Nemu Celah IDOR\n════════════════════════\n𐀪\nAuthor:\nStevanzaky\n════════════════════════\nⴵ\nTime:\nFri, 14 Aug 2026 22:30:12 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#api_security_testing\n#cybersecurity",
-        "date": "2026-08-15T00:04:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129871_0_56bc1a3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129871_1_b1e1fa64.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129871",
-        "link": {
-          "title": "Mengupas Tuntas Proses Pentest: Dari Reconnaissance Sampai Nemu Celah IDOR",
-          "url": "https://medium.com/@stevanzaky87/mengupas-tuntas-proses-pentest-dari-reconnaissance-sampai-nemu-celah-idor-ecc6696bc913?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 129870,
-        "text": "⤷\nTitle:\nRansomware vs. Industry: Why the OT Perimeter Is Still Holding\n════════════════════════\n𐀪\nAuthor:\nRealSec.io\n════════════════════════\nⴵ\nTime:\nFri, 14 Aug 2026 22:12:04 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#infosec\n#ransomware",
-        "date": "2026-08-15T00:03:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129870_0_56bc1a3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129870_1_2bc27836.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129870",
-        "link": {
-          "title": "Ransomware vs. Industry: Why the OT Perimeter Is Still Holding",
-          "url": "https://medium.com/@realsec.io/ransomware-vs-industry-why-the-ot-perimeter-is-still-holding-67dd93933164?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 129869,
-        "text": "⤷\nTitle:\nAplikasi Sudah Bisa Login, Berarti Aman? Ini yang Baru Saya Pahami dari Penetration Testing\n════════════════════════\n𐀪\nAuthor:\nAdinda mirza devani\n════════════════════════\nⴵ\nTime:\nFri, 14 Aug 2026 22:49:08 GMT\n════════════════════════\n⌗\nTags:\n#web_security\n#cybersecurity\n#penetration_testing\n#application_security\n#api_security",
-        "date": "2026-08-15T00:03:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129869_0_56bc1a3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129869_1_f8b5fd5c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129869",
-        "link": {
-          "title": "Aplikasi Sudah Bisa Login, Berarti Aman? Ini yang Baru Saya Pahami dari Penetration Testing",
-          "url": "https://medium.com/@adindamirzadevani/aplikasi-sudah-bisa-login-berarti-aman-ini-yang-baru-saya-pahami-dari-penetration-testing-9a8c017bd619?source=rss------application_security-5"
-        }
-      },
-      {
-        "id": 129868,
-        "text": "⤷\nTitle:\nAttacker Punya Playbook, Auditor Punya Checklist: Begini Kebocoran Data Sebenarnya Terjadi\n════════════════════════\n𐀪\nAuthor:\nAdinda mirza devani\n════════════════════════\nⴵ\nTime:\nFri, 14 Aug 2026 21:32:42 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ethical_hacking\n#data_breach\n#risk_management\n#compliance",
-        "date": "2026-08-14T22:04:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129868_0_56bc1a3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129868_1_b816465c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129868",
-        "link": {
-          "title": "Attacker Punya Playbook, Auditor Punya Checklist: Begini Kebocoran Data Sebenarnya Terjadi",
-          "url": "https://medium.com/@adindamirzadevani/attacker-punya-playbook-auditor-punya-checklist-begini-kebocoran-data-sebenarnya-terjadi-3ceada51b033?source=rss------ethical_hacking-5"
-        }
       }
     ]
   },
-  "last_update": "2026-08-15T23:42:34.822108+00:00",
+  "last_update": "2026-08-16T00:31:54.998124+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 198,
-    "total_files": 198,
+    "total_media": 197,
+    "total_files": 197,
     "total_links": 0,
     "files_by_type": {
-      "image": 198
+      "image": 197
     },
-    "referenced_files": 198,
-    "existing_media_files": 198,
-    "total_size_mb": 5.26,
-    "last_calculation": "2026-08-15T23:42:34.824516+00:00"
+    "referenced_files": 197,
+    "existing_media_files": 197,
+    "total_size_mb": 5.42,
+    "last_calculation": "2026-08-16T00:31:55.000510+00:00"
   }
 }
