@@ -2,6 +2,29 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 129972,
+        "text": "⤷\nTitle:\nWe Fired Our Entire Red Team and Replaced Them With AI — Here’s What Happened Next\n════════════════════════\n𐀪\nAuthor:\nYua Mikanana\n════════════════════════\nⴵ\nTime:\nSun, 16 Aug 2026 01:17:17 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#ai_agent\n#technology\n#cybersecurity\n#llm",
+        "date": "2026-08-16T02:03:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129972_0_2bad81ed.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129972_1_5be3db87.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129972",
+        "link": {
+          "title": "We Fired Our Entire Red Team and Replaced Them With AI — Here’s What Happened Next",
+          "url": "https://medium.com/@yua.mikanana19/we-fired-our-entire-red-team-and-replaced-them-with-ai-heres-what-happened-next-4f7625318f55?source=rss------hacking-5"
+        }
+      },
+      {
         "id": 129971,
         "text": "⤷\nTitle:\nTHM Hacker Holidays 2026 Room 0: The Brochure\n════════════════════════\n𐀪\nAuthor:\nJinxedCyber\n════════════════════════\nⴵ\nTime:\nSat, 15 Aug 2026 22:48:03 GMT\n════════════════════════\n⌗\nTags:\n#hacker_holidays_2026\n#cryptography\n#tryhackme\n#ctf_writeup\n#osint",
         "date": "2026-08-16T00:04:07+00:00",
@@ -2265,33 +2288,10 @@
           "title": "VINclarity Publishes Investigation Into Alleged Scam and Fraud Reputation Attack Across Search and AI",
           "url": "https://securityonline.info/vinclarity-publishes-investigation-into-alleged-scam-and-fraud-reputation-attack-across-search-and-ai/"
         }
-      },
-      {
-        "id": 129872,
-        "text": "⤷\nTitle:\nExpresso CTF HTB\n════════════════════════\n𐀪\nAuthor:\nSmiley Face\n════════════════════════\nⴵ\nTime:\nFri, 14 Aug 2026 22:07:09 GMT\n════════════════════════\n⌗\nTags:\n#hackthebox\n#hackthebox_writeup\n#ctf_writeup\n#hackthebox_challenge\n#hackthebox_walkthrough",
-        "date": "2026-08-15T00:04:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129872_0_56bc1a3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129872_1_ff23c4f2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129872",
-        "link": {
-          "title": "Expresso CTF HTB",
-          "url": "https://medium.com/@kmsedition/expresso-ctf-htb-d47a7eadd02a?source=rss------hackthebox_writeup-5"
-        }
       }
     ]
   },
-  "last_update": "2026-08-16T00:31:54.998124+00:00",
+  "last_update": "2026-08-16T02:07:16.777158+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2303,7 +2303,7 @@
     },
     "referenced_files": 197,
     "existing_media_files": 197,
-    "total_size_mb": 5.42,
-    "last_calculation": "2026-08-16T00:31:55.000510+00:00"
+    "total_size_mb": 5.53,
+    "last_calculation": "2026-08-16T02:07:16.778323+00:00"
   }
 }
