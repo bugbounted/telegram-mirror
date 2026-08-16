@@ -2,6 +2,75 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 129978,
+        "text": "⤷\nTitle:\nFreePBX CVE-2025–57819: From Unauthenticated SQL Injection to Remote Code Execution\n════════════════════════\n𐀪\nAuthor:\nRaj Kumar M\n════════════════════════\nⴵ\nTime:\nSun, 16 Aug 2026 04:55:39 GMT\n════════════════════════\n⌗\nTags:\n#rce\n#freepbx\n#cve2026\n#pentesting\n#sql_injection",
+        "date": "2026-08-16T06:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129978_0_84d45309.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129978_1_f6cead53.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129978",
+        "link": {
+          "title": "FreePBX CVE-2025–57819: From Unauthenticated SQL Injection to Remote Code Execution",
+          "url": "https://medium.com/@iamkumarraj/freepbx-cve-2025-57819-from-unauthenticated-sql-injection-to-remote-code-execution-21e87b8aec53?source=rss------rce-5"
+        }
+      },
+      {
+        "id": 129977,
+        "text": "⤷\nTitle:\n25 Ways to Escalate Privileges via Misconfigured Sudo Rights (Lab Walkthrough)\n════════════════════════\n𐀪\nAuthor:\nKalash Kundaliya\n════════════════════════\nⴵ\nTime:\nSun, 16 Aug 2026 04:31:03 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#penetration_testing\n#linux\n#ethical_hacking\n#privilege_escalation",
+        "date": "2026-08-16T06:03:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129977_0_84d45309.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129977_1_f78b9e76.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129977",
+        "link": {
+          "title": "25 Ways to Escalate Privileges via Misconfigured Sudo Rights (Lab Walkthrough)",
+          "url": "https://medium.com/@kalashkundaliya/25-ways-to-escalate-privileges-via-misconfigured-sudo-rights-lab-walkthrough-fdd85c347702?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 129976,
+        "text": "⤷\nTitle:\npicoCTF Web Exploitation — SSTI1\n════════════════════════\n𐀪\nAuthor:\nSuman sutradhar\n════════════════════════\nⴵ\nTime:\nSun, 16 Aug 2026 04:35:05 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ssti1\n#picoctf\n#bug_bounty",
+        "date": "2026-08-16T06:03:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129976_0_84d45309.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_129976_1_77827df8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/129976",
+        "link": {
+          "title": "picoCTF Web Exploitation — SSTI1",
+          "url": "https://medium.com/@sumansutradhar5744/picoctf-web-exploitation-ssti1-b74afe4f0830?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 129975,
         "text": "⤷\nTitle:\nFrom Breaking Things to Watching Them Break: Pentester Steps Into SOC\n════════════════════════\n𐀪\nAuthor:\nMedoX71T\n════════════════════════\nⴵ\nTime:\nSun, 16 Aug 2026 01:54:45 GMT\n════════════════════════\n⌗\nTags:\n#soc\n#cybersecurity\n#tryhackme\n#blue_team\n#pentesting",
         "date": "2026-08-16T04:04:03+00:00",
@@ -2219,79 +2288,10 @@
           "title": "Microsoft Copilot Super App: A Unified Platform Vision",
           "url": "https://securityonline.info/microsoft-copilot-super-app/"
         }
-      },
-      {
-        "id": 129878,
-        "text": "⤷\nTitle:\nTrezor Data Breach: 13,689 Customers Exposed via Critical Metabase Zero-Day CVE-2026-72898\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nSat, 15 Aug 2026 03:21:18 +0000\n════════════════════════\n⌗\nTags:\n#Data\nLeak\n#CVE_2026_72898\n#data\nbreach\n#Metabase\n#ShinyHunters\n#ShipMonk\n#Trezor\n#zero_day",
-        "date": "2026-08-15T04:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129878_0_56bc1a3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129878_1_1d677d16.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129878",
-        "link": {
-          "title": "Trezor Data Breach: 13,689 Customers Exposed via Critical Metabase Zero-Day CVE-2026-72898",
-          "url": "https://meterpreter.org/trezor-shipmonk-metabase-breach-cve-2026-72898/"
-        }
-      },
-      {
-        "id": 129877,
-        "text": "⤷\nTitle:\nShieldBreak PoC Claims Bypass of CVE-2026-50656 Patch, Achieving SYSTEM on Windows 11\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nSat, 15 Aug 2026 03:39:04 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\n#CVE_2026_50656\n#Microsoft\nDefender\n#Patch\nBypass\n#privilege\nescalation\n#Proof\nof Concept\n#ShieldBreak\n#Windows\n11",
-        "date": "2026-08-15T04:03:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129877_0_56bc1a3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129877_1_c4b34195.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129877",
-        "link": {
-          "title": "ShieldBreak PoC Claims Bypass of CVE-2026-50656 Patch, Achieving SYSTEM on Windows 11",
-          "url": "https://meterpreter.org/shieldbreak-cve-2026-50656-defender-bypass/"
-        }
-      },
-      {
-        "id": 129876,
-        "text": "⤷\nTitle:\nThe 2026 Jeep Recon: A Jeep that lets you relive the Top Gear Botswana Special\n════════════════════════\n𐀪\nAuthor:\nEthan Wickramaratne\n════════════════════════\nⴵ\nTime:\nSat, 15 Aug 2026 01:26:32 GMT\n════════════════════════\n⌗\nTags:\n#jeep\n#recon\n#jeep_recon",
-        "date": "2026-08-15T02:04:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129876_0_56bc1a3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_129876_1_84c0186d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/129876",
-        "link": {
-          "title": "The 2026 Jeep Recon: A Jeep that lets you relive the Top Gear Botswana Special",
-          "url": "https://medium.com/@thecuriouspanamera/the-2026-jeep-recon-a-jeep-that-lets-you-relive-the-top-gear-botswana-special-1cd1ef5b5e2b?source=rss------recon-5"
-        }
       }
     ]
   },
-  "last_update": "2026-08-16T05:51:42.068553+00:00",
+  "last_update": "2026-08-16T06:20:27.695835+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2303,7 +2303,7 @@
     },
     "referenced_files": 197,
     "existing_media_files": 197,
-    "total_size_mb": 5.72,
-    "last_calculation": "2026-08-16T05:51:42.070976+00:00"
+    "total_size_mb": 5.52,
+    "last_calculation": "2026-08-16T06:20:27.698191+00:00"
   }
 }
