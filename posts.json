@@ -2,6 +2,52 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 130116,
+        "text": "⤷\nTitle:\nSSRF in Cloud Environments: Metadata Services, Trust Boundaries, and Mitigations\n════════════════════════\n𐀪\nAuthor:\nCYBER MIND SPACE\n════════════════════════\nⴵ\nTime:\nMon, 17 Aug 2026 09:55:54 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ethical_hacker\n#ssrf\n#cybermindspace\n#full_attack_chain",
+        "date": "2026-08-17T10:04:30+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130116_0_17445eea.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130116_1_5d4f7ee7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130116",
+        "link": {
+          "title": "SSRF in Cloud Environments: Metadata Services, Trust Boundaries, and Mitigations",
+          "url": "https://medium.com/@cybermindspace/ssrf-in-cloud-environments-metadata-services-trust-boundaries-and-mitigations-21a54bc2d8ea?source=rss------ssrf-5"
+        }
+      },
+      {
+        "id": 130115,
+        "text": "⤷\nTitle:\nBest online cybersecurity course with certification\n════════════════════════\n𐀪\nAuthor:\ncybersecuritycourse\n════════════════════════\nⴵ\nTime:\nMon, 17 Aug 2026 08:08:13 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#ai\n#cybersecurity\n#education\n#cybersecurity_course",
+        "date": "2026-08-17T10:04:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130115_0_17445eea.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130115_1_f1a1c2d6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130115",
+        "link": {
+          "title": "Best online cybersecurity course with certification",
+          "url": "https://medium.com/@cybersecuritycourse/best-online-cybersecurity-course-with-certification-5307fb8398a3?source=rss------ethical_hacking-5"
+        }
+      },
+      {
         "id": 130114,
         "text": "⤷\nTitle:\nApplying Security Engineering Principles to Core Banking (Part 2)\n════════════════════════\n𐀪\nAuthor:\nAdejare Marvel\n════════════════════════\nⴵ\nTime:\nMon, 17 Aug 2026 09:30:18 GMT\n════════════════════════\n⌗\nTags:\n#security_engineering\n#defense_in_depth\n#cybersecurity\n#tryhackme\n#enterprise_security",
         "date": "2026-08-17T10:04:23+00:00",
@@ -2218,56 +2264,10 @@
           "title": "Your SOC Job Isn’t Disappearing. The Version of It You Trained For Is.",
           "url": "https://medium.com/@t3nv1/your-soc-job-isnt-disappearing-the-version-of-it-you-trained-for-is-d262777435e7?source=rss------bug_bounty-5"
         }
-      },
-      {
-        "id": 130016,
-        "text": "⤷\nTitle:\nRacing an Email Verification to Hijack an Admin Invite\n════════════════════════\n𐀪\nAuthor:\nlolidkmyname\n════════════════════════\nⴵ\nTime:\nSun, 16 Aug 2026 15:58:59 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty",
-        "date": "2026-08-16T16:03:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130016_0_84d45309.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130016_1_f4b46f39.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130016",
-        "link": {
-          "title": "Racing an Email Verification to Hijack an Admin Invite",
-          "url": "https://lolidkmyname.medium.com/racing-an-email-verification-to-hijack-an-admin-invite-b14264749356?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 130015,
-        "text": "⤷\nTitle:\nMeWe vs. Facebook vs. X: Which Platform Actually Respects Your Privacy?\n════════════════════════\n𐀪\nAuthor:\nAmir Mohseni\n════════════════════════\nⴵ\nTime:\nSun, 16 Aug 2026 12:59:01 GMT\n════════════════════════\n⌗\nTags:\n#facebook\n#mewe\n#xs\n#twitter",
-        "date": "2026-08-16T14:04:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130015_0_84d45309.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130015_1_6bafcf78.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130015",
-        "link": {
-          "title": "MeWe vs. Facebook vs. X: Which Platform Actually Respects Your Privacy?",
-          "url": "https://medium.com/@amir.gm/mewe-vs-facebook-vs-x-which-platform-actually-respects-your-privacy-68a39083b8c2?source=rss------xss-5"
-        }
       }
     ]
   },
-  "last_update": "2026-08-17T10:04:27.197162+00:00",
+  "last_update": "2026-08-17T10:54:48.550405+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2279,7 +2279,7 @@
     },
     "referenced_files": 191,
     "existing_media_files": 191,
-    "total_size_mb": 5.37,
-    "last_calculation": "2026-08-17T10:04:27.199481+00:00"
+    "total_size_mb": 5.49,
+    "last_calculation": "2026-08-17T10:54:48.552733+00:00"
   }
 }
