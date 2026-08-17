@@ -2,6 +2,186 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 130228,
+        "text": "⤷\nTitle:\nPractical OWASP API Security Testing: Finding Broken Object Level Authorization (BOLA)\n════════════════════════\n𐀪\nAuthor:\nChimezirim Oti\n════════════════════════\nⴵ\nTime:\nMon, 17 Aug 2026 20:03:02 GMT\n════════════════════════\n⌗\nTags:\n#web_security\n#information_security\n#software_security\n#cybersecurity\n#api_security",
+        "date": "2026-08-17T22:04:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130228_0_17445eea.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130228_1_64706b3b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130228",
+        "link": {
+          "title": "Practical OWASP API Security Testing: Finding Broken Object Level Authorization (BOLA)",
+          "url": "https://medium.com/@otichimee/practical-owasp-api-security-testing-finding-broken-object-level-authorization-bola-95c87c3cc48b?source=rss------api_security-5"
+        }
+      },
+      {
+        "id": 130227,
+        "text": "⤷\nTitle:\nDNS Zone Transfer to Root — Lab Walkthrough\n════════════════════════\n𐀪\nAuthor:\n0xnay33m\n════════════════════════\nⴵ\nTime:\nMon, 17 Aug 2026 19:33:06 GMT\n════════════════════════\n⌗\nTags:\n#ctf_writeup\n#ctf\n#privilege_escalation\n#penetration_testing\n#cybersecurity",
+        "date": "2026-08-17T22:04:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130227_0_17445eea.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130227_1_847fe322.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130227",
+        "link": {
+          "title": "DNS Zone Transfer to Root — Lab Walkthrough",
+          "url": "https://medium.com/@mdnayeemahmed666/dns-zone-transfer-to-root-ratctf-write-up-d4a235b31c53?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 130226,
+        "text": "⤷\nTitle:\nProving Grounds — Practice — Authby\n════════════════════════\n𐀪\nAuthor:\nMakoyi\n════════════════════════\nⴵ\nTime:\nMon, 17 Aug 2026 20:38:16 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#oscp\n#ctf\n#oscp_preparation\n#ethical_hacking",
+        "date": "2026-08-17T22:04:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130226_0_17445eea.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130226_1_33fc005c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130226",
+        "link": {
+          "title": "Proving Grounds — Practice — Authby",
+          "url": "https://infosecwriteups.com/proving-grounds-practice-authby-3da2d1396a23?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 130225,
+        "text": "⤷\nTitle:\nAI Governance Is Becoming a Business Continuity Issue\n════════════════════════\n𐀪\nAuthor:\nTaher Amine ELHOUARI\n════════════════════════\nⴵ\nTime:\nMon, 17 Aug 2026 20:05:16 GMT\n════════════════════════\n⌗\nTags:\n#ai_security\n#ai\n#information_security_risk\n#cybersecurity\n#infosec",
+        "date": "2026-08-17T22:04:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130225_0_17445eea.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130225_1_e9ae2fd9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130225",
+        "link": {
+          "title": "AI Governance Is Becoming a Business Continuity Issue",
+          "url": "https://mrtaheramine.medium.com/ai-governance-is-becoming-a-business-continuity-issue-110f29701bc2?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 130224,
+        "text": "⤷\nTitle:\nHow an Unauthenticated API Endpoint Exposed 19,990 User Records\n════════════════════════\n𐀪\nAuthor:\nHangga Aji Sayekti\n════════════════════════\nⴵ\nTime:\nMon, 17 Aug 2026 20:38:12 GMT\n════════════════════════\n⌗\nTags:\n#pii\n#security\n#sensitive_data_exposure\n#hacking\n#bugbounty_writeup",
+        "date": "2026-08-17T22:04:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130224_0_17445eea.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130224_1_73b812cb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130224",
+        "link": {
+          "title": "How an Unauthenticated API Endpoint Exposed 19,990 User Records",
+          "url": "https://infosecwriteups.com/how-an-unauthenticated-api-endpoint-exposed-19-990-user-records-ecfe395cf94a?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 130223,
+        "text": "⤷\nTitle:\nEverything a Domain Will Tell a Stranger: DNS Enumeration With dig\n════════════════════════\n𐀪\nAuthor:\nMuneebahmedkhan\n════════════════════════\nⴵ\nTime:\nMon, 17 Aug 2026 21:43:04 GMT\n════════════════════════\n⌗\nTags:\n#networking\n#dns\n#cybersecurity\n#bug_bounty\n#tutorial",
+        "date": "2026-08-17T22:03:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130223_0_17445eea.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130223_1_2e82af69.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130223",
+        "link": {
+          "title": "Everything a Domain Will Tell a Stranger: DNS Enumeration With dig",
+          "url": "https://medium.com/@muneebahmedkhan0903/everything-a-domain-will-tell-a-stranger-dns-enumeration-with-dig-fdf34620380f?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 130222,
+        "text": "⤷\nTitle:\nHacker Holidays 2026: Day 8 Walkthrough (Towel on the Sunbed)\n════════════════════════\n𐀪\nAuthor:\nDhanush N\n════════════════════════\nⴵ\nTime:\nMon, 17 Aug 2026 20:42:23 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#bug_bounty\n#cybersecurity\n#race_condition\n#hacker_holidays_2026",
+        "date": "2026-08-17T22:03:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130222_0_17445eea.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130222_1_c37aa385.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130222",
+        "link": {
+          "title": "Hacker Holidays 2026: Day 8 Walkthrough (Towel on the Sunbed)",
+          "url": "https://infosecwriteups.com/hacker-holidays-2026-day-8-walkthrough-towel-on-the-sunbed-4cd1f708eb3c?source=rss----7b722bfd1b8d--bug_bounty"
+        }
+      },
+      {
+        "id": 130221,
+        "text": "⤷\nTitle:\nCritical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nTue, 18 Aug 2026 02:33:04 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-08-17T22:03:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130221_0_17445eea.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130221",
+        "link": {
+          "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
+          "url": "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html"
+        }
+      },
+      {
         "id": 130220,
         "text": "⤷\nTitle:\nNatas Web Security Challenges (OverTheWire)-Levels 0 to 10 Walkthrough\n════════════════════════\n𐀪\nAuthor:\nLinara\n════════════════════════\nⴵ\nTime:\nMon, 17 Aug 2026 18:38:47 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#natas\n#ethical_hacking\n#overthewire\n#web_security",
         "date": "2026-08-17T20:04:37+00:00",
@@ -2068,190 +2248,10 @@
           "title": "Best Cybersecurity Course",
           "url": "https://medium.com/@cozonix.official/best-cybersecurity-course-4cad30546f6a?source=rss------hacking-5"
         }
-      },
-      {
-        "id": 130109,
-        "text": "⤷\nTitle:\nCyber Security Course\n════════════════════════\n𐀪\nAuthor:\nCozonix\n════════════════════════\nⴵ\nTime:\nMon, 17 Aug 2026 08:40:12 GMT\n════════════════════════\n⌗\nTags:\n#technology\n#cybesecurity\n#hacking\n#cybersecurity_awareness\n#information_technology",
-        "date": "2026-08-17T10:04:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130109_0_17445eea.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130109_1_4497aad7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130109",
-        "link": {
-          "title": "Cyber Security Course",
-          "url": "https://medium.com/@cozonix.official/cyber-security-course-0aacec42aa67?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 130108,
-        "text": "⤷\nTitle:\npwned an iot fleet management admin panel\n════════════════════════\n𐀪\nAuthor:\nn3dir\n════════════════════════\nⴵ\nTime:\nMon, 17 Aug 2026 08:40:45 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#api\n#iot\n#pwned",
-        "date": "2026-08-17T10:04:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130108_0_17445eea.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130108_1_09ebef55.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130108",
-        "link": {
-          "title": "pwned an iot fleet management admin panel",
-          "url": "https://medium.com/@n3dir/pwned-an-iot-fleet-management-admin-panel-e92cd45473e5?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 130107,
-        "text": "⤷\nTitle:\nHead Mare APT Exploits TrueConf Server Flaws to Deploy PhantomCore Backdoor\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 17 Aug 2026 08:00:21 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#APT\n#backdoor\n#Head\nMare\n#PhantomCore\n#PhantomGraph\n#TrueConf\n#Web\nShell",
-        "date": "2026-08-17T10:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130107_0_17445eea.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130107_1_161095e0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130107",
-        "link": {
-          "title": "Head Mare APT Exploits TrueConf Server Flaws to Deploy PhantomCore Backdoor",
-          "url": "https://securityonline.info/head-mare-trueconf-attack-phantomcore/"
-        }
-      },
-      {
-        "id": 130106,
-        "text": "⤷\nTitle:\nStripe Finalizes $7 Billion Acquisition of OpenRouter\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 17 Aug 2026 08:11:14 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#API\nHub\n#artificial\nintelligence\n#OpenRouter\n#Stripe",
-        "date": "2026-08-17T10:03:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130106_0_17445eea.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130106_1_f6c9507e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130106",
-        "link": {
-          "title": "Stripe Finalizes $7 Billion Acquisition of OpenRouter",
-          "url": "https://securityonline.info/stripe-acquires-openrouter-ai/"
-        }
-      },
-      {
-        "id": 130105,
-        "text": "⤷\nTitle:\nLinux AF_PACKET Race (03390aa): PoC Exploit Enables Local Privilege Escalation\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 17 Aug 2026 08:57:07 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#af_packet\n#Linux\nKernel\n#out_of_bounds\nwrite\n#privilege\nescalation\n#proof_of_concept\n#race\ncondition",
-        "date": "2026-08-17T10:03:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130105_0_17445eea.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130105_1_9d1fa83f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130105",
-        "link": {
-          "title": "Linux AF_PACKET Race (03390aa): PoC Exploit Enables Local Privilege Escalation",
-          "url": "https://securityonline.info/linux-af-packet-race-privilege-escalation/"
-        }
-      },
-      {
-        "id": 130104,
-        "text": "⤷\nTitle:\nSQL Categories Explained: What They Are and How SQL Queries Actually Work\n════════════════════════\n𐀪\nAuthor:\nyshn4v\n════════════════════════\nⴵ\nTime:\nMon, 17 Aug 2026 06:14:56 GMT\n════════════════════════\n⌗\nTags:\n#sql_server\n#sql\n#database\n#sql_injection\n#postgresql",
-        "date": "2026-08-17T08:04:36+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130104_0_17445eea.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130104_1_f9db383d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130104",
-        "link": {
-          "title": "SQL Categories Explained: What They Are and How SQL Queries Actually Work",
-          "url": "https://medium.com/@vyshnavpcnaravoor/sql-categories-explained-what-they-are-and-how-sql-queries-actually-work-817d3c8d4b67?source=rss------sql_injection-5"
-        }
-      },
-      {
-        "id": 130103,
-        "text": "⤷\nTitle:\nZero-Day Güvenlik Açıkları: Keşif Süreci, Siber Saldırılardaki Rolü ve Savunma Yöntemleri\n════════════════════════\n𐀪\nAuthor:\nMehmet Emin Yeter\n════════════════════════\nⴵ\nTime:\nMon, 17 Aug 2026 06:16:15 GMT\n════════════════════════\n⌗\nTags:\n#zero_day\n#ethical_hacking\n#information_security\n#cybersecurity\n#penteration_testing",
-        "date": "2026-08-17T08:04:33+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130103_0_17445eea.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130103",
-        "link": {
-          "title": "Zero-Day Güvenlik Açıkları: Keşif Süreci, Siber Saldırılardaki Rolü ve Savunma Yöntemleri",
-          "url": "https://medium.com/@me.yeter24/zero-day-g%C3%BCvenlik-a%C3%A7%C4%B1klar%C4%B1-ke%C5%9Fif-s%C3%BCreci-siber-sald%C4%B1r%C4%B1lardaki-rol%C3%BC-ve-savunma-y%C3%B6ntemleri-e629d272cfc6?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 130102,
-        "text": "⤷\nTitle:\nThe Data Lineage Trap: Can Your Organization Prove Where Every Critical Data Point Came From?\n════════════════════════\n𐀪\nAuthor:\nCynox Security LLP.\n════════════════════════\nⴵ\nTime:\nMon, 17 Aug 2026 06:51:30 GMT\n════════════════════════\n⌗\nTags:\n#cyber_security_awareness\n#information_security\n#ai\n#cybersecurity\n#ethical_hacking",
-        "date": "2026-08-17T08:04:29+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130102_0_17445eea.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130102_1_6fdb652e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130102",
-        "link": {
-          "title": "The Data Lineage Trap: Can Your Organization Prove Where Every Critical Data Point Came From?",
-          "url": "https://medium.com/@cybersec_cynoxsecurity/the-data-lineage-trap-can-your-organization-prove-where-every-critical-data-point-came-from-1fae18397065?source=rss------ethical_hacking-5"
-        }
       }
     ]
   },
-  "last_update": "2026-08-17T21:47:55.631197+00:00",
+  "last_update": "2026-08-17T22:12:55.397541+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2263,7 +2263,7 @@
     },
     "referenced_files": 187,
     "existing_media_files": 187,
-    "total_size_mb": 5.29,
-    "last_calculation": "2026-08-17T21:47:55.633423+00:00"
+    "total_size_mb": 5.21,
+    "last_calculation": "2026-08-17T22:12:55.399835+00:00"
   }
 }
