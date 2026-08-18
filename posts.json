@@ -2,6 +2,190 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 130248,
+        "text": "⤷\nTitle:\nChaining IDOR to Privilege Escalation: A $$$$ Microsoft Bug Bounty\n════════════════════════\n𐀪\nAuthor:\ncryptoshant\n════════════════════════\nⴵ\nTime:\nTue, 18 Aug 2026 03:12:02 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#infosec\n#microsoft\n#cybersecurity\n#hacking",
+        "date": "2026-08-18T04:04:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130248_0_17445eea.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130248_1_662553aa.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130248",
+        "link": {
+          "title": "Chaining IDOR to Privilege Escalation: A $$$$ Microsoft Bug Bounty",
+          "url": "https://medium.com/@dsmodi484/chaining-idor-to-privilege-escalation-a-microsoft-bug-bounty-936656cf47a2?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 130247,
+        "text": "⤷\nTitle:\nCVE-2026-71479: New API Integer Overflow Exploited in the Wild\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 18 Aug 2026 02:24:46 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#AI\nGateway\n#CVE_2026_71479\n#exploited\nin the wild\n#integer\noverflow\n#New\nAPI\n#QuantumNous",
+        "date": "2026-08-18T04:04:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130247_0_17445eea.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130247_1_972394b0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130247",
+        "link": {
+          "title": "CVE-2026-71479: New API Integer Overflow Exploited in the Wild",
+          "url": "https://securityonline.info/cve-2026-71479-new-api-integer-overflow/"
+        }
+      },
+      {
+        "id": 130246,
+        "text": "⤷\nTitle:\nCVE-2026-66804: PoC Exploit Gains SYSTEM via Cross Device Service\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 18 Aug 2026 02:40:30 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Cross\nDevice Service\n#CVE_2026_66804\n#Elevation\nof Privilege\n#proof_of_concept\n#SYSTEM\nprivileges\n#Windows\n11",
+        "date": "2026-08-18T04:04:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130246_0_17445eea.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130246_1_789e818a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130246",
+        "link": {
+          "title": "CVE-2026-66804: PoC Exploit Gains SYSTEM via Cross Device Service",
+          "url": "https://securityonline.info/cve-2026-66804-system-privileges/"
+        }
+      },
+      {
+        "id": 130245,
+        "text": "⤷\nTitle:\nFirefox for iOS Tests Native Ad Blocker Using EasyList Filtering\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 18 Aug 2026 02:54:22 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#Ad\nBlocker\n#Browser\nPrivacy\n#EasyList\n#firefox\n#ios\n#Mobile\nBrowsing\n#mozilla",
+        "date": "2026-08-18T04:04:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130245_0_17445eea.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130245_1_89d56b26.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130245",
+        "link": {
+          "title": "Firefox for iOS Tests Native Ad Blocker Using EasyList Filtering",
+          "url": "https://securityonline.info/firefox-ios-native-ad-blocker-test/"
+        }
+      },
+      {
+        "id": 130244,
+        "text": "⤷\nTitle:\nLinux Kernel 7.2 Arrives with Extensive Updates\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 18 Aug 2026 03:09:06 +0000\n════════════════════════\n⌗\nTags:\n#Linux\n#Hardware\nDrivers\n#Kernel\nSecurity\n#Linux\nKernel\n#open_source",
+        "date": "2026-08-18T04:04:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130244_0_17445eea.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130244_1_2879f5f5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130244",
+        "link": {
+          "title": "Linux Kernel 7.2 Arrives with Extensive Updates",
+          "url": "https://securityonline.info/linux-kernel-7-2-release/"
+        }
+      },
+      {
+        "id": 130243,
+        "text": "⤷\nTitle:\nWindows Server 2022 Mainstream Support Ends October 2026\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 18 Aug 2026 03:20:21 +0000\n════════════════════════\n⌗\nTags:\n#Windows\n#end\nof support\n#Extended\nSupport\n#IT\nAdministration\n#LTSC\n#Microsoft\n#Windows\nServer 2022\n#Windows\nServer 2025",
+        "date": "2026-08-18T04:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130243_0_17445eea.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130243_1_a358d748.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130243",
+        "link": {
+          "title": "Windows Server 2022 Mainstream Support Ends October 2026",
+          "url": "https://securityonline.info/windows-server-2022-mainstream-support-ends/"
+        }
+      },
+      {
+        "id": 130242,
+        "text": "⤷\nTitle:\nAmazon Bans Class Action Lawsuits in Terms Update\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 18 Aug 2026 03:52:24 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#Amazon\n#Arbitration\n#Class\nAction Lawsuit\n#consumer\nrights",
+        "date": "2026-08-18T04:03:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130242_0_17445eea.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130242_1_e9b42b6e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130242",
+        "link": {
+          "title": "Amazon Bans Class Action Lawsuits in Terms Update",
+          "url": "https://securityonline.info/amazon-bans-class-action-lawsuits/"
+        }
+      },
+      {
+        "id": 130241,
+        "text": "⤷\nTitle:\nKB Backdoor Exploids Windows desktop.ini Whitespace\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nTue, 18 Aug 2026 03:53:54 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#cybersecurity\n#KB\nBackdoor\n#malware\n#Steganography\n#Windows\n7",
+        "date": "2026-08-18T04:03:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130241_0_17445eea.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130241_1_08700442.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130241",
+        "link": {
+          "title": "KB Backdoor Exploids Windows desktop.ini Whitespace",
+          "url": "https://meterpreter.org/kb-backdoor-desktop-ini-spaces/"
+        }
+      },
+      {
         "id": 130240,
         "text": "⤷\nTitle:\nDance | HTB Lab\n════════════════════════\n𐀪\nAuthor:\nKerollos Atnass | Professor Owl\n════════════════════════\nⴵ\nTime:\nTue, 18 Aug 2026 00:49:16 GMT\n════════════════════════\n⌗\nTags:\n#hackthebox_writeup\n#kerollosatnass\n#windows\n#professorowl\n#digital_forensics",
         "date": "2026-08-18T02:04:11+00:00",
@@ -2084,194 +2268,10 @@
           "title": "Cyber Kill Chain Explained: How Hackers Move From Reconnaissance to Data Theft",
           "url": "https://medium.com/@bakiouisohail/cyber-kill-chain-explained-how-hackers-move-from-reconnaissance-to-data-theft-518aae1d7b07?source=rss------hacking-5"
         }
-      },
-      {
-        "id": 130142,
-        "text": "⤷\nTitle:\nWriteup for CyLab/picoCTF challenge “what’s a net cat”\n════════════════════════\n𐀪\nAuthor:\nWalter Moar\n════════════════════════\nⴵ\nTime:\nMon, 17 Aug 2026 11:01:01 GMT\n════════════════════════\n⌗\nTags:\n#ctf_writeup\n#ctf\n#cybersecurity\n#cylab\n#hacking",
-        "date": "2026-08-17T12:05:22+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130142_0_17445eea.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130142_1_adfece64.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130142",
-        "link": {
-          "title": "Writeup for CyLab/picoCTF challenge “what’s a net cat”",
-          "url": "https://medium.com/@waltermoar/writeup-for-cylab-picoctf-challenge-whats-a-net-cat-84990879b5b6?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 130141,
-        "text": "⤷\nTitle:\nWhat a Wedding Venue Site Taught Me About Where Authorization Belongs\n════════════════════════\n𐀪\nAuthor:\nMohammad Nawal Ali\n════════════════════════\nⴵ\nTime:\nMon, 17 Aug 2026 10:16:04 GMT\n════════════════════════\n⌗\nTags:\n#software_engineering\n#startup\n#programming\n#web_development\n#application_security",
-        "date": "2026-08-17T12:05:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130141_0_17445eea.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130141_1_410e5422.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130141",
-        "link": {
-          "title": "What a Wedding Venue Site Taught Me About Where Authorization Belongs",
-          "url": "https://medium.com/@mnawalali4/what-a-wedding-venue-site-taught-me-about-where-authorization-belongs-ded597b44f9f?source=rss------application_security-5"
-        }
-      },
-      {
-        "id": 130140,
-        "text": "⤷\nTitle:\nSafePal Data Breach Impacts Nearly 40,000 Customers: A Warning About Customer Data and Third Party…\n════════════════════════\n𐀪\nAuthor:\nJas\n════════════════════════\nⴵ\nTime:\nMon, 17 Aug 2026 11:57:55 GMT\n════════════════════════\n⌗\nTags:\n#application_security\n#cybersecurity\n#data_breach\n#cloud_security\n#information_technology",
-        "date": "2026-08-17T12:05:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130140_0_17445eea.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130140_1_d3dd03d1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130140",
-        "link": {
-          "title": "SafePal Data Breach Impacts Nearly 40,000 Customers: A Warning About Customer Data and Third Party…",
-          "url": "https://medium.com/@jasmitharouthu_58441/safepal-data-breach-impacts-nearly-40-000-customers-a-warning-about-customer-data-and-third-party-885f15943742?source=rss------application_security-5"
-        }
-      },
-      {
-        "id": 130139,
-        "text": "⤷\nTitle:\nHow I Bypassed a KYC Verification Flow by Manipulating Client-Side State\n════════════════════════\n𐀪\nAuthor:\nUday Dixit\n════════════════════════\nⴵ\nTime:\nMon, 17 Aug 2026 10:01:40 GMT\n════════════════════════\n⌗\nTags:\n#bypass_kyc\n#bug_bounty_tips\n#web_penetration_testing\n#bug_bounty",
-        "date": "2026-08-17T12:05:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130139_0_17445eea.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130139_1_04ded25c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130139",
-        "link": {
-          "title": "How I Bypassed a KYC Verification Flow by Manipulating Client-Side State",
-          "url": "https://medium.com/@udaydixit987/how-i-bypassed-a-kyc-verification-flow-by-manipulating-client-side-state-db46b8dd6a47?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 130138,
-        "text": "⤷\nTitle:\nTwo-Factor Authentication Bypass on *** — Access Token Issued Before Second Factor Is Ever Checked\n════════════════════════\n𐀪\nAuthor:\nJoko Purwanto\n════════════════════════\nⴵ\nTime:\nMon, 17 Aug 2026 10:11:18 GMT\n════════════════════════\n⌗\nTags:\n#authentication_bypass\n#bug_hunting\n#bug_bounty",
-        "date": "2026-08-17T12:05:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130138_0_17445eea.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130138_1_a1e21b9d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130138",
-        "link": {
-          "title": "Two-Factor Authentication Bypass on *** — Access Token Issued Before Second Factor Is Ever Checked",
-          "url": "https://medium.com/@jokodfir/two-factor-authentication-bypass-on-access-token-issued-before-second-factor-is-ever-checked-096b2304df2f?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 130137,
-        "text": "⤷\nTitle:\nWeb Application Pentesting Roadmap (2026 Edition)\n════════════════════════\n𐀪\nAuthor:\nPedram Khazaei\n════════════════════════\nⴵ\nTime:\nMon, 17 Aug 2026 11:18:59 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#penetration_testing\n#web_security\n#bug_bounty\n#cybersecurity",
-        "date": "2026-08-17T12:05:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130137_0_17445eea.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130137_1_4a0f803e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130137",
-        "link": {
-          "title": "Web Application Pentesting Roadmap (2026 Edition)",
-          "url": "https://medium.com/@cykingx/web-application-pentesting-roadmap-2026-edition-ef8feb0106a4?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 130136,
-        "text": "⤷\nTitle:\nWhy Open Redirects Become Critical Inside OAuth\n════════════════════════\n𐀪\nAuthor:\nNitin yadav\n════════════════════════\nⴵ\nTime:\nMon, 17 Aug 2026 11:31:01 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#bug_bounty\n#ethical_hacking\n#infosec\n#hacking",
-        "date": "2026-08-17T12:05:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130136_0_17445eea.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130136_1_36e76017.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130136",
-        "link": {
-          "title": "Why Open Redirects Become Critical Inside OAuth",
-          "url": "https://kd-200.medium.com/why-open-redirects-become-critical-inside-oauth-35261b5d8b85?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 130135,
-        "text": "⤷\nTitle:\nAnthropic Revenue Surges 14x to $11.5B in Q2 2026 Ahead of IPO\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 17 Aug 2026 10:24:53 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#AI\nrevenue\n#Anthropic\n#Anthropic\nIPO\n#Claude\n#enterprise\nAI\n#OpenAI\n#Wall\nStreet",
-        "date": "2026-08-17T12:04:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130135_0_17445eea.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130135_1_e819e1d7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130135",
-        "link": {
-          "title": "Anthropic Revenue Surges 14x to $11.5B in Q2 2026 Ahead of IPO",
-          "url": "https://securityonline.info/anthropic-revenue-surge-ipo-q2-2026/"
-        }
       }
     ]
   },
-  "last_update": "2026-08-18T03:35:53.621150+00:00",
+  "last_update": "2026-08-18T04:25:08.058065+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2283,7 +2283,7 @@
     },
     "referenced_files": 192,
     "existing_media_files": 192,
-    "total_size_mb": 5.5,
-    "last_calculation": "2026-08-18T03:35:53.623441+00:00"
+    "total_size_mb": 5.31,
+    "last_calculation": "2026-08-18T04:25:08.060354+00:00"
   }
 }
