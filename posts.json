@@ -2,6 +2,420 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 130499,
+        "text": "⤷\nTitle:\nMistakes Students Make While Using Kali Linux\n════════════════════════\n𐀪\nAuthor:\nDPD Technologies\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 15:15:57 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#cybersecurity",
+        "date": "2026-08-19T16:04:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130499_0_b167baf5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130499_1_2d9152b1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130499",
+        "link": {
+          "title": "Mistakes Students Make While Using Kali Linux",
+          "url": "https://dpdtechnologies.medium.com/mistakes-students-make-while-using-kali-linux-fc398d49f635?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 130498,
+        "text": "⤷\nTitle:\nHelix machine HTB\n════════════════════════\n𐀪\nAuthor:\nVeen0o21\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 15:31:19 GMT\n════════════════════════\n⌗\nTags:\n#htb_walkthrough\n#hackthebox_writeup\n#hackthebox\n#htb_machine\n#htb",
+        "date": "2026-08-19T16:04:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130498_0_b167baf5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130498_1_b254f204.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130498",
+        "link": {
+          "title": "Helix machine HTB",
+          "url": "https://medium.com/@Veen0o21/helix-machine-htb-f16116ca14d0?source=rss------hackthebox_writeup-5"
+        }
+      },
+      {
+        "id": 130497,
+        "text": "⤷\nTitle:\nCompiled-tryhackme 5min CTF room\n════════════════════════\n𐀪\nAuthor:\nSp4wn\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 14:18:56 GMT\n════════════════════════\n⌗\nTags:\n#ctf\n#ctf_walkthrough\n#ctf_writeup\n#thm_writeup\n#tryhackme",
+        "date": "2026-08-19T16:04:46+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130497_0_b167baf5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130497_1_74cf4546.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130497",
+        "link": {
+          "title": "Compiled-tryhackme 5min CTF room",
+          "url": "https://medium.com/@Sp4wn/compiled-tryhackme-5min-ctf-room-8d89b5468d0e?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 130496,
+        "text": "⤷\nTitle:\nUnderstanding APIs, API Testing, and Postman: A Beginner-Friendly Guide\n════════════════════════\n𐀪\nAuthor:\nMuhammad Kashif\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 13:57:24 GMT\n════════════════════════\n⌗\nTags:\n#api_testing\n#cybersecurity\n#api\n#penetration_testing\n#postman",
+        "date": "2026-08-19T16:04:43+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130496_0_b167baf5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130496_1_68f21744.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130496",
+        "link": {
+          "title": "Understanding APIs, API Testing, and Postman: A Beginner-Friendly Guide",
+          "url": "https://muhammadkashifsecurityengineer.medium.com/understanding-apis-api-testing-and-postman-a-beginner-friendly-guide-6cf45fd7c8a3?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 130495,
+        "text": "⤷\nTitle:\nHow a “Test” Endpoint Became a Critical RCE: Discovering CVE-2026–42271 in LiteLLM\n════════════════════════\n𐀪\nAuthor:\nItachix0f\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 15:17:23 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#aisecurityresearch\n#cve\n#responsible_disclosure\n#cybersecurity",
+        "date": "2026-08-19T16:04:40+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130495_0_b167baf5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130495_1_4b5405f6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130495",
+        "link": {
+          "title": "How a “Test” Endpoint Became a Critical RCE: Discovering CVE-2026–42271 in LiteLLM",
+          "url": "https://medium.com/@Itachi0xf/how-a-test-endpoint-became-a-critical-rce-discovering-cve-2026-42271-in-litellm-f19146c8e9e5?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 130494,
+        "text": "⤷\nTitle:\nI Scanned My Home Network Again. This Time, I Went Much Deeper.\n════════════════════════\n𐀪\nAuthor:\nSatyam Pathania\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 14:35:57 GMT\n════════════════════════\n⌗\nTags:\n#networking\n#wifi_security\n#cybersecurity\n#hacking\n#technology",
+        "date": "2026-08-19T16:04:36+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130494_0_b167baf5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130494_1_78e79c2f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130494",
+        "link": {
+          "title": "I Scanned My Home Network Again. This Time, I Went Much Deeper.",
+          "url": "https://meetcyber.net/i-scanned-my-home-network-again-this-time-i-went-much-deeper-17c7a75238ff?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 130493,
+        "text": "⤷\nTitle:\nForgotten Implant (THM) Tryhackme Walkthrough\n════════════════════════\n𐀪\nAuthor:\nLawvye\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 14:40:33 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#hacking\n#cybersecurity\n#https\n#c2",
+        "date": "2026-08-19T16:04:33+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130493_0_b167baf5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130493_1_ad99eb31.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130493",
+        "link": {
+          "title": "Forgotten Implant (THM) Tryhackme Walkthrough",
+          "url": "https://medium.com/@lawvye/forgotten-implant-thm-tryhackme-walkthrough-18579da03e96?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 130492,
+        "text": "⤷\nTitle:\nReactOOPS HTB lab\n════════════════════════\n𐀪\nAuthor:\nAlvaGad\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 15:05:11 GMT\n════════════════════════\n⌗\nTags:\n#hack_the_box_writeup\n#labhacker\n#hackthebox\n#hacking\n#hackthebox_writeup",
+        "date": "2026-08-19T16:04:30+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130492_0_b167baf5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130492_1_2bdfd839.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130492",
+        "link": {
+          "title": "ReactOOPS HTB lab",
+          "url": "https://medium.com/@0maro2042006/reactoops-htb-lab-f669cb399979?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 130491,
+        "text": "⤷\nTitle:\nAnalyzing the Application\n════════════════════════\n𐀪\nAuthor:\nPh\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 15:18:58 GMT\n════════════════════════\n⌗\nTags:\n#bug_hunter\n#bug_bounty\n#web_development\n#ethical_hacking\n#cybersecurity",
+        "date": "2026-08-19T16:04:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130491_0_b167baf5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130491_1_2f769bd2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130491",
+        "link": {
+          "title": "Analyzing the Application",
+          "url": "https://medium.com/@ph620095/analyzing-the-application-1d864c2a866e?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 130490,
+        "text": "⤷\nTitle:\nWhat $12,000 of GitLab Bugs Taught Me About Business Logic\n════════════════════════\n𐀪\nAuthor:\nRaj Namdev\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 15:31:01 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#application_security\n#business_logic\n#ethical_hacking\n#web_security",
+        "date": "2026-08-19T16:04:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130490_0_b167baf5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130490_1_9dbdc1fa.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130490",
+        "link": {
+          "title": "What $12,000 of GitLab Bugs Taught Me About Business Logic",
+          "url": "https://medium.com/@rajnamdev/what-12-000-of-gitlab-bugs-taught-me-about-business-logic-ac9fcbebd529?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 130489,
+        "text": "⤷\nTitle:\nCVE-2026-13737: Commvault Command Execution Flaws Expose Networks\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 12:55:53 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Commvault\n#CVE_2026_13737\n#CVE_2026_13738\n#CVE_2026_13739",
+        "date": "2026-08-19T16:04:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130489_0_b167baf5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130489_1_f4c47265.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130489",
+        "link": {
+          "title": "CVE-2026-13737: Commvault Command Execution Flaws Expose Networks",
+          "url": "https://securityonline.info/commvault-command-execution-flaws/"
+        }
+      },
+      {
+        "id": 130488,
+        "text": "⤷\nTitle:\nFormer Ping Identity and CyberArk Executives Join AppViewX to Scale Machine and Agent Identity Security\n════════════════════════\n𐀪\nAuthor:\ncybernewswire\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 12:59:51 +0000\n════════════════════════\n⌗\nTags:\n#Press\nRelease",
+        "date": "2026-08-19T16:04:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130488_0_b167baf5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130488_1_a0bb2eed.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130488",
+        "link": {
+          "title": "Former Ping Identity and CyberArk Executives Join AppViewX to Scale Machine and Agent Identity Security",
+          "url": "https://securityonline.info/former-ping-identity-and-cyberark-executives-join-appviewx-to-scale-machine-and-agent-identity-security/"
+        }
+      },
+      {
+        "id": 130487,
+        "text": "⤷\nTitle:\nIBM Db2 Mirror for i Hit by CVE-2026-17186 RCE Flaw (CVSS 9.9)\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 13:15:45 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Authentication\nBypass\n#Command\nInjection\n#CVE_2026_17182\n#CVE_2026_17184\n#CVE_2026_17186\n#Db2\nMirror for i\n#IBM\n#IBM\ni\n#Path\nTraversal\n#Remote\nCode Execution",
+        "date": "2026-08-19T16:04:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130487_0_b167baf5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130487_1_99544f84.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130487",
+        "link": {
+          "title": "IBM Db2 Mirror for i Hit by CVE-2026-17186 RCE Flaw (CVSS 9.9)",
+          "url": "https://securityonline.info/ibm-db2-mirror-rce-cve-2026-17186/"
+        }
+      },
+      {
+        "id": 130486,
+        "text": "⤷\nTitle:\nCVE-2026-0075: PoC Discloses Android EoP With No User Interaction\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 13:26:29 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#android\n#ContactsProvider2\n#CVE_2026_0075\n#Elevation\nof Privilege\n#proof_of_concept\n#sql\ninjection",
+        "date": "2026-08-19T16:04:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130486_0_b167baf5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130486_1_5debd0df.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130486",
+        "link": {
+          "title": "CVE-2026-0075: PoC Discloses Android EoP With No User Interaction",
+          "url": "https://securityonline.info/cve-2026-0075-android-eop/"
+        }
+      },
+      {
+        "id": 130485,
+        "text": "⤷\nTitle:\nCVE-2026-66792 (CVSS 9.9): Red Hat ACM Flaw Allows Full Compromise of the Managed Cluster\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 13:44:58 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_66792\n#CVE_2026_66795\n#CVE_2026_71472\n#Kubernetes\n#privilege\nescalation\n#Red\nHat ACM",
+        "date": "2026-08-19T16:04:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130485_0_b167baf5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130485_1_258993b6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130485",
+        "link": {
+          "title": "CVE-2026-66792 (CVSS 9.9): Red Hat ACM Flaw Allows Full Compromise of the Managed Cluster",
+          "url": "https://securityonline.info/red-hat-acm-cluster-privilege-escalation/"
+        }
+      },
+      {
+        "id": 130484,
+        "text": "⤷\nTitle:\nVault Secrets Operator Flaw CVE-2026-8715 Enables Privilege Escalation\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 14:03:42 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#AppRole\n#Arbitrary\nFile Read\n#CVE_2026_8715\n#HashiCorp\n#Kubernetes\n#privilege\nescalation\n#RBAC\n#Vault\nSecrets Operator",
+        "date": "2026-08-19T16:04:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130484_0_b167baf5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130484_1_307c24be.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130484",
+        "link": {
+          "title": "Vault Secrets Operator Flaw CVE-2026-8715 Enables Privilege Escalation",
+          "url": "https://securityonline.info/vault-secrets-operator-cve-2026-8715/"
+        }
+      },
+      {
+        "id": 130483,
+        "text": "⤷\nTitle:\nUS Agencies Warn of AI-Generated Exploits Targeting Siemens S7 PLCs\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 14:47:57 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#AI_generated\nexploits\n#CISA\n#Critical\nInfrastructure\n#ICS\nsecurity\n#OT\nSecurity\n#Siemens\nPLC\n#Siemens\nS7\n#snap7",
+        "date": "2026-08-19T16:04:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130483_0_b167baf5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130483_1_f226110a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130483",
+        "link": {
+          "title": "US Agencies Warn of AI-Generated Exploits Targeting Siemens S7 PLCs",
+          "url": "https://securityonline.info/siemens-s7-plc-ai-exploit-cisa/"
+        }
+      },
+      {
+        "id": 130482,
+        "text": "⤷\nTitle:\nCVE-2026-19490 (CVSS 9.3): NetScaler Authentication Bypass Flaw Patched\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 15:21:47 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Authentication\nBypass\n#Citrix\n#CVE_2026_19489\n#CVE_2026_19490\n#NetScaler\n#NetScaler\nADC\n#NetScaler\nGateway",
+        "date": "2026-08-19T16:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130482_0_b167baf5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130482_1_66171b53.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130482",
+        "link": {
+          "title": "CVE-2026-19490 (CVSS 9.3): NetScaler Authentication Bypass Flaw Patched",
+          "url": "https://securityonline.info/netscaler-authentication-bypass-cve-2026-19490/"
+        }
+      },
+      {
         "id": 130481,
         "text": "⤷\nTitle:\nThe Tata Electronics Cyberattack: What the Breach Reveals About Supply Chain Security in 2026\n════════════════════════\n𐀪\nAuthor:\nAr1el\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 13:14:03 GMT\n════════════════════════\n⌗\nTags:\n#cyber_security_awareness\n#cyber_security_articles\n#cyberattack\n#ethical_hacking\n#cybersecurity",
         "date": "2026-08-19T14:04:37+00:00",
@@ -1846,432 +2260,22 @@
           "title": "BeyondTrust EPM Flaws Allow Windows Privilege Escalation",
           "url": "https://securityonline.info/beyondtrust-vulnerability-cve-2026-40144/"
         }
-      },
-      {
-        "id": 130399,
-        "text": "⤷\nTitle:\nCVE-2026-65400: macOS Screen Sharing Flaw Exploited to Deploy Monero Miners\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 03:25:16 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\n#Apple\nSecurity\n#authentication\nbypass\n#Cryptojacking\n#CVE_2026_65400\n#macos\n#Monero\nMiner\n#Screen\nSharing",
-        "date": "2026-08-19T04:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130399_0_eb102dbb.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130399_1_6e2efc91.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130399",
-        "link": {
-          "title": "CVE-2026-65400: macOS Screen Sharing Flaw Exploited to Deploy Monero Miners",
-          "url": "https://meterpreter.org/macos-screen-sharing-cve-2026-65400-monero-miner/"
-        }
-      },
-      {
-        "id": 130398,
-        "text": "⤷\nTitle:\nGitLab Fixed a Remote Code Execution Bug in June and Skipped the CVE.\n════════════════════════\n𐀪\nAuthor:\nAmit Spitzer\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 00:41:22 GMT\n════════════════════════\n⌗\nTags:\n#devsecops\n#cybersecurity\n#vulnerability_management\n#venture_capital\n#api_security",
-        "date": "2026-08-19T02:04:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130398_0_eb102dbb.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130398_1_8940807c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130398",
-        "link": {
-          "title": "GitLab Fixed a Remote Code Execution Bug in June and Skipped the CVE.",
-          "url": "https://amitspitzer.medium.com/gitlab-fixed-a-remote-code-execution-bug-in-june-and-skipped-the-cve-349442152d91?source=rss------api_security-5"
-        }
-      },
-      {
-        "id": 130397,
-        "text": "⤷\nTitle:\nBalance — Product Release Notes: July 2026\n════════════════════════\n𐀪\nAuthor:\nJosh\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 00:58:20 GMT\n════════════════════════\n⌗\nTags:\n#balance_now\n#product_release_notes\n#trading_as_a_service\n#penetration_testing\n#alessandro_tocco",
-        "date": "2026-08-19T02:04:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130397_0_eb102dbb.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130397_1_bd46f082.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130397",
-        "link": {
-          "title": "Balance — Product Release Notes: July 2026",
-          "url": "https://blog.balance.ca/balance-product-release-notes-july-2026-9a06b47b1922?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 130396,
-        "text": "⤷\nTitle:\nWhy Domain Reputation Matters in Red Teaming Part - 1\n════════════════════════\n𐀪\nAuthor:\nMd. Imran Chowdhury\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 01:06:32 GMT\n════════════════════════\n⌗\nTags:\n#red_team\n#hacking\n#walkthrough\n#ctf\n#penetration_testing",
-        "date": "2026-08-19T02:04:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130396_0_eb102dbb.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130396_1_5160b658.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130396",
-        "link": {
-          "title": "Why Domain Reputation Matters in Red Teaming Part - 1",
-          "url": "https://imrantheexploithunter.medium.com/why-domain-reputation-matters-in-red-teaming-part-1-f490524ce45a?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 130395,
-        "text": "⤷\nTitle:\nBuilding Stealthy C2 Infrastructure with Sliver and Re-director Red Teaming Part — 2\n════════════════════════\n𐀪\nAuthor:\nMd. Imran Chowdhury\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 01:38:24 GMT\n════════════════════════\n⌗\nTags:\n#walkthrough\n#red_team\n#hacking\n#penetration_testing\n#ctf_writeup",
-        "date": "2026-08-19T02:04:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130395_0_eb102dbb.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130395_1_34ccd910.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130395",
-        "link": {
-          "title": "Building Stealthy C2 Infrastructure with Sliver and Re-director Red Teaming Part — 2",
-          "url": "https://imrantheexploithunter.medium.com/building-stealthy-c2-infrastructure-with-sliver-and-re-director-red-teaming-part-2-98061679b922?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 130394,
-        "text": "⤷\nTitle:\nArmored Likho Still Toolkit Deploys Covert Spying Implants\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 01:15:24 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#ArmoredLikho\n#Cyberespionage\n#infosec\n#kaspersky\n#StillToolkit",
-        "date": "2026-08-19T02:04:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130394_0_eb102dbb.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130394_1_91a22206.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130394",
-        "link": {
-          "title": "Armored Likho Still Toolkit Deploys Covert Spying Implants",
-          "url": "https://securityonline.info/armored-likho-still-toolkit-analysis/"
-        }
-      },
-      {
-        "id": 130393,
-        "text": "⤷\nTitle:\nChrome Update Fixes 15 Flaws, Two Critical in WebGL, Dawn\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 01:29:39 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#browser\nsecurity\n#Chrome\nSecurity Update\n#CVE_2026_76034\n#CVE_2026_76036\n#google\nchrome\n#V8\n#WebGL",
-        "date": "2026-08-19T02:04:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130393_0_eb102dbb.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130393_1_83a201a4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130393",
-        "link": {
-          "title": "Chrome Update Fixes 15 Flaws, Two Critical in WebGL, Dawn",
-          "url": "https://securityonline.info/chrome-security-update-15-flaws/"
-        }
-      },
-      {
-        "id": 130392,
-        "text": "⤷\nTitle:\nCVE-2026-17482: IBM Remote Code Execution Flaw (CVSS 9.8)\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 01:33:22 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_17482\n#IBM\n#rce\n#Remote\nCode Execution",
-        "date": "2026-08-19T02:04:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130392_0_eb102dbb.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130392_1_58ec97d7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130392",
-        "link": {
-          "title": "CVE-2026-17482: IBM Remote Code Execution Flaw (CVSS 9.8)",
-          "url": "https://securityonline.info/ibm-remote-code-execution-cve-2026-17482/"
-        }
-      },
-      {
-        "id": 130391,
-        "text": "⤷\nTitle:\nCISA KEV Adds Four Exploited Flaws in SharePoint, vCenter\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 01:41:59 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CISA\nKEV Catalog\n#CVE_2026_33824\n#CVE_2026_55040\n#CVE_2026_59310\n#Known\nExploited Vulnerabilities\n#Sharepoint\n#VMware\nvCenter",
-        "date": "2026-08-19T02:03:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130391_0_eb102dbb.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130391_1_e929fba8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130391",
-        "link": {
-          "title": "CISA KEV Adds Four Exploited Flaws in SharePoint, vCenter",
-          "url": "https://securityonline.info/cisa-kev-four-exploited-vulnerabilities-2/"
-        }
-      },
-      {
-        "id": 130390,
-        "text": "⤷\nTitle:\nDOJ Charges 17 Iranians in Mabna Institute Cyber Theft\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 01:48:13 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#DOJ\nindictment\n#Iran\ncyber theft\n#IRGC\n#Mabna\nInstitute\n#Spearphishing\n#State_Sponsored\nHacking\n#university\nhacking",
-        "date": "2026-08-19T02:03:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130390_0_eb102dbb.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130390_1_a5722b5a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130390",
-        "link": {
-          "title": "DOJ Charges 17 Iranians in Mabna Institute Cyber Theft",
-          "url": "https://securityonline.info/mabna-institute-cyber-theft-indictment/"
-        }
-      },
-      {
-        "id": 130389,
-        "text": "⤷\nTitle:\nHow I Discovered an API Authorization Flaw Exposing 100+ User Phone Numbers and Sensitive Campaign…\n════════════════════════\n𐀪\nAuthor:\n4osp3l\n════════════════════════\nⴵ\nTime:\nTue, 18 Aug 2026 23:19:11 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty",
-        "date": "2026-08-19T00:03:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130389_0_eb102dbb.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130389_1_91f2bc60.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130389",
-        "link": {
-          "title": "How I Discovered an API Authorization Flaw Exposing 100+ User Phone Numbers and Sensitive Campaign…",
-          "url": "https://medium.com/@4osp3l/how-i-discovered-an-api-authorization-flaw-exposing-100-user-phone-numbers-and-sensitive-campaign-8632760ebc2a?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 130388,
-        "text": "⤷\nTitle:\nCase Study: Navigating the Responsible Disclosure Dilemma\n════════════════════════\n𐀪\nAuthor:\nJafarlimahir\n════════════════════════\nⴵ\nTime:\nTue, 18 Aug 2026 20:41:37 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#information_security\n#disclosure\n#ethical_hacking",
-        "date": "2026-08-18T22:04:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130388_0_eb102dbb.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130388_1_bb0da55d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130388",
-        "link": {
-          "title": "Case Study: Navigating the Responsible Disclosure Dilemma",
-          "url": "https://medium.com/@jafarlimahir/case-study-navigating-the-responsible-disclosure-dilemma-e7c246feb80b?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 130387,
-        "text": "⤷\nTitle:\nWeaponizing AutoGPT’s Email Block for Error-Based Internal SSRF and Banner Grabbing\n════════════════════════\n𐀪\nAuthor:\nPavan Nallamothu\n════════════════════════\nⴵ\nTime:\nTue, 18 Aug 2026 21:30:17 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#cybersecurity\n#auto_gpt\n#ssrf\n#cve",
-        "date": "2026-08-18T22:04:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130387_0_eb102dbb.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130387_1_ab66c70f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130387",
-        "link": {
-          "title": "Weaponizing AutoGPT’s Email Block for Error-Based Internal SSRF and Banner Grabbing",
-          "url": "https://pavanchow.medium.com/weaponizing-autogpts-email-block-for-error-based-internal-ssrf-and-banner-grabbing-ec1fca73c64b?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 130386,
-        "text": "⤷\nTitle:\nGetting a Shell Out of the Cloud: Reverse Shells, Tunnels & Exfil\n════════════════════════\n𐀪\nAuthor:\nzeyneppcelikk\n════════════════════════\nⴵ\nTime:\nTue, 18 Aug 2026 21:21:56 GMT\n════════════════════════\n⌗\nTags:\n#reverse_shell\n#penetration_testing\n#cloud_security\n#gcp\n#red_team",
-        "date": "2026-08-18T22:04:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130386_0_eb102dbb.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130386_1_9741911b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130386",
-        "link": {
-          "title": "Getting a Shell Out of the Cloud: Reverse Shells, Tunnels & Exfil",
-          "url": "https://medium.com/@zeyneppcelikk/getting-a-shell-out-of-the-cloud-reverse-shells-tunnels-exfil-4f99d91dd2fa?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 130385,
-        "text": "⤷\nTitle:\nBlinding EDRs to Thread Creation via BYOVD\n════════════════════════\n𐀪\nAuthor:\nS12 - 0x12Dark Development\n════════════════════════\nⴵ\nTime:\nTue, 18 Aug 2026 20:54:16 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#hacking\n#pentesting\n#malware\n#cybersecurity",
-        "date": "2026-08-18T22:04:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130385_0_eb102dbb.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130385_1_1bb85bc4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130385",
-        "link": {
-          "title": "Blinding EDRs to Thread Creation via BYOVD",
-          "url": "https://medium.com/@s12deff/blinding-edrs-to-thread-creation-via-byovd-e08da072c6bc?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 130384,
-        "text": "⤷\nTitle:\nHow I Ran a Company’s Own Internal Workflows With a Free Account\n════════════════════════\n𐀪\nAuthor:\n0x-elfateh\n════════════════════════\nⴵ\nTime:\nTue, 18 Aug 2026 21:14:59 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#bug_hunting\n#cybersecurity\n#infosec",
-        "date": "2026-08-18T22:04:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130384_0_eb102dbb.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130384_1_0e428f52.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130384",
-        "link": {
-          "title": "How I Ran a Company’s Own Internal Workflows With a Free Account",
-          "url": "https://infosecwriteups.com/how-i-ran-a-companys-own-internal-workflows-with-a-free-account-eefdf559a8af?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 130383,
-        "text": "⤷\nTitle:\nPortSwigger Lab: Password reset broken logic\n════════════════════════\n𐀪\nAuthor:\nsa0k0\n════════════════════════\nⴵ\nTime:\nTue, 18 Aug 2026 21:38:43 GMT\n════════════════════════\n⌗\nTags:\n#authentication\n#bug_bounty\n#web_security\n#portswigger",
-        "date": "2026-08-18T22:04:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130383_0_eb102dbb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130383",
-        "link": {
-          "title": "PortSwigger Lab: Password reset broken logic",
-          "url": "https://medium.com/@sa0k0/portswigger-lab-password-reset-broken-logic-7730003d461b?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 130382,
-        "text": "⤷\nTitle:\nTryHackMe Easy Peasy — From Enumeration to Root\n════════════════════════\n𐀪\nAuthor:\nRishijoshi\n════════════════════════\nⴵ\nTime:\nTue, 18 Aug 2026 17:13:44 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#cybersecurity",
-        "date": "2026-08-18T20:05:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130382_0_eb102dbb.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130382_1_c48bfe54.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130382",
-        "link": {
-          "title": "TryHackMe Easy Peasy — From Enumeration to Root",
-          "url": "https://medium.com/@rishijoshi2099/tryhackme-easy-peasy-from-enumeration-to-root-9b47aa0b4b99?source=rss------tryhackme-5"
-        }
       }
     ]
   },
-  "last_update": "2026-08-19T15:55:05.286626+00:00",
+  "last_update": "2026-08-19T16:19:49.540418+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 189,
-    "total_files": 189,
+    "total_media": 190,
+    "total_files": 190,
     "total_links": 0,
     "files_by_type": {
-      "image": 189
+      "image": 190
     },
-    "referenced_files": 189,
-    "existing_media_files": 189,
-    "total_size_mb": 4.71,
-    "last_calculation": "2026-08-19T15:55:05.288405+00:00"
+    "referenced_files": 190,
+    "existing_media_files": 190,
+    "total_size_mb": 4.84,
+    "last_calculation": "2026-08-19T16:19:49.541983+00:00"
   }
 }
