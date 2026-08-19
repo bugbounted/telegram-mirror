@@ -2,6 +2,385 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 130537,
+        "text": "⤷\nTitle:\nI Built DPoP in .NET 10 by Hand. Then I Found the Package That Makes It Unnecessary.\n════════════════════════\n𐀪\nAuthor:\nAli Süleyman TOPUZ\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 19:24:30 GMT\n════════════════════════\n⌗\nTags:\n#dpop\n#api_security\n#oauth2\n#dotnet",
+        "date": "2026-08-19T20:04:45+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130537_0_b167baf5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130537_1_9d28a3d8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130537",
+        "link": {
+          "title": "I Built DPoP in .NET 10 by Hand. Then I Found the Package That Makes It Unnecessary.",
+          "url": "https://topuzas.medium.com/i-built-dpop-in-net-10-by-hand-then-i-found-the-package-that-makes-it-unnecessary-41ab7bff09b7?source=rss------api_security-5"
+        }
+      },
+      {
+        "id": 130536,
+        "text": "⤷\nTitle:\nFrom Monolith to Modular: Building a Production-Grade HTTP Security Auditor in Python\n════════════════════════\n𐀪\nAuthor:\nHammad Khan | SOC & Pentesting\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 19:36:58 GMT\n════════════════════════\n⌗\nTags:\n#reconnaissance\n#web_pentesting\n#python\n#ethical_hacking\n#cybersecurity",
+        "date": "2026-08-19T20:04:41+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130536_0_b167baf5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130536_1_346766ae.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130536",
+        "link": {
+          "title": "From Monolith to Modular: Building a Production-Grade HTTP Security Auditor in Python",
+          "url": "https://medium.com/@hammad.k.sec/from-monolith-to-modular-building-a-production-grade-http-security-auditor-in-python-6080a3582547?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 130535,
+        "text": "⤷\nTitle:\nCTF Try Out ( An unusual sighting Writeup )\n════════════════════════\n𐀪\nAuthor:\nSohaib Qunaibi\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 18:56:06 GMT\n════════════════════════\n⌗\nTags:\n#ctf\n#ctf_writeup\n#hackthebox\n#hackthebox_writeup\n#cybersecurity",
+        "date": "2026-08-19T20:04:38+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130535_0_b167baf5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130535_1_8c892493.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130535",
+        "link": {
+          "title": "CTF Try Out ( An unusual sighting Writeup )",
+          "url": "https://medium.com/@s_28.I7/ctf-try-out-an-unusual-sighting-writeup-8e17b715aa04?source=rss------hackthebox_writeup-5"
+        }
+      },
+      {
+        "id": 130534,
+        "text": "⤷\nTitle:\nUnified Kill Chain\n════════════════════════\n𐀪\nAuthor:\nVishnu Vardhan\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 18:26:23 GMT\n════════════════════════\n⌗\nTags:\n#soc_analyst\n#tryhackme_walkthrough\n#tryhackme",
+        "date": "2026-08-19T20:04:34+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130534_0_b167baf5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130534_1_5ef61607.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130534",
+        "link": {
+          "title": "Unified Kill Chain",
+          "url": "https://medium.com/@vishnuvardhan3530/unified-kill-chain-e6d65023a439?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 130533,
+        "text": "⤷\nTitle:\nCyber Kill Chain\n════════════════════════\n𐀪\nAuthor:\nVishnu Vardhan\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 18:28:59 GMT\n════════════════════════\n⌗\nTags:\n#soc_analyst\n#tryhackme_walkthrough\n#tryhackme",
+        "date": "2026-08-19T20:04:31+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130533_0_b167baf5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130533_1_e99d9586.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130533",
+        "link": {
+          "title": "Cyber Kill Chain",
+          "url": "https://medium.com/@vishnuvardhan3530/cyber-kill-chain-c5fb78bbbccc?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 130532,
+        "text": "⤷\nTitle:\nTryHackMe Easy Peasy — How I Went from Nmap to Root\n════════════════════════\n𐀪\nAuthor:\nVaishnavij\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 19:30:48 GMT\n════════════════════════\n⌗\nTags:\n#linux\n#tryhackme\n#cybersecurity",
+        "date": "2026-08-19T20:04:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130532_0_b167baf5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130532_1_aa6ccd69.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130532",
+        "link": {
+          "title": "TryHackMe Easy Peasy — How I Went from Nmap to Root",
+          "url": "https://medium.com/@vaishnavij190506/tryhackme-easy-peasy-how-i-went-from-nmap-to-root-5fe39d1f5568?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 130531,
+        "text": "⤷\nTitle:\nAgent Foundations — Compare plain Python, LangChain, and LangGraph workflows\n════════════════════════\n𐀪\nAuthor:\nJose Praveen\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 19:41:01 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_writeup\n#langgraph\n#langchain\n#ai_agent\n#tryhackme",
+        "date": "2026-08-19T20:04:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130531_0_b167baf5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130531_1_7e88eed4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130531",
+        "link": {
+          "title": "Agent Foundations — Compare plain Python, LangChain, and LangGraph workflows",
+          "url": "https://josepraveen.medium.com/agent-foundations-compare-plain-python-langchain-and-langgraph-workflows-3b49b966c374?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 130530,
+        "text": "⤷\nTitle:\nOutdated FTP: A Security Nightmare (And How Metasploit Exposes It)\n════════════════════════\n𐀪\nAuthor:\nAmrit Kashyap\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 19:14:29 GMT\n════════════════════════\n⌗\nTags:\n#information_security\n#cybersecurity\n#penetration_testing\n#technology\n#pentesting",
+        "date": "2026-08-19T20:04:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130530_0_b167baf5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130530_1_0438af04.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130530",
+        "link": {
+          "title": "Outdated FTP: A Security Nightmare (And How Metasploit Exposes It)",
+          "url": "https://medium.com/@amritkashyapajay/outdated-ftp-a-security-nightmare-and-how-metasploit-exposes-it-1f54aaeb7549?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 130529,
+        "text": "⤷\nTitle:\nLinux Fundamentals for Pentesting: The Commands You’ll Use Every Single Day\n════════════════════════\n𐀪\nAuthor:\nVipin_M\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 19:22:24 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#linux\n#ethical_hacking\n#cybersecurity\n#linux_tutorial",
+        "date": "2026-08-19T20:04:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130529_0_b167baf5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130529_1_2d90f204.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130529",
+        "link": {
+          "title": "Linux Fundamentals for Pentesting: The Commands You’ll Use Every Single Day",
+          "url": "https://medium.com/@vipin007mohan/linux-fundamentals-for-pentesting-the-commands-youll-use-every-single-day-2b0d4f39d976?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 130528,
+        "text": "⤷\nTitle:\nCuando el entorno de prueba abre la puerta: las lecciones de los incidentes de Claude\n════════════════════════\n𐀪\nAuthor:\nTU INSIGNIA\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 17:56:06 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#ethical_hacking\n#ai\n#agentic_ai\n#ai_agent",
+        "date": "2026-08-19T20:04:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130528_0_b167baf5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130528_1_f70854b5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130528",
+        "link": {
+          "title": "Cuando el entorno de prueba abre la puerta: las lecciones de los incidentes de Claude",
+          "url": "https://medium.com/@TUINSIGNIA/cuando-el-entorno-de-prueba-abre-la-puerta-las-lecciones-de-los-incidentes-de-claude-7d00fc619e2b?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 130527,
+        "text": "⤷\nTitle:\nCuando el contenido deja rastro: la nueva apuesta de Anthropic por la trazabilidad de la IA\n════════════════════════\n𐀪\nAuthor:\nTU INSIGNIA\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 18:03:20 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#ai_agent\n#ethical_hacking\n#agentic_ai\n#ai",
+        "date": "2026-08-19T20:04:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130527_0_b167baf5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130527_1_9b14dc2c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130527",
+        "link": {
+          "title": "Cuando el contenido deja rastro: la nueva apuesta de Anthropic por la trazabilidad de la IA",
+          "url": "https://medium.com/@TUINSIGNIA/cuando-el-contenido-deja-rastro-la-nueva-apuesta-de-anthropic-por-la-trazabilidad-de-la-ia-ec2ed3b9f505?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 130526,
+        "text": "⤷\nTitle:\nSoupedecode 01 write-up\n════════════════════════\n𐀪\nAuthor:\nAlfredo Neves\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 18:42:39 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#hacking\n#active_directory",
+        "date": "2026-08-19T20:04:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130526_0_b167baf5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130526_1_9942681a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130526",
+        "link": {
+          "title": "Soupedecode 01 write-up",
+          "url": "https://medium.com/@alfredoncdossantos/soupedecode-01-write-up-0d437017506f?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 130525,
+        "text": "⤷\nTitle:\nI Tested the Same Site With Claude Twice. The Focused Prompt Found 5 XSS the Big Prompt Missed.\n════════════════════════\n𐀪\nAuthor:\nAbhishek meena\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 18:40:28 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#bug_bounty_writeup\n#bug_bounty_tips\n#claude_for_bug_bounty\n#infosec",
+        "date": "2026-08-19T20:04:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130525_0_b167baf5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130525_1_4075ad3f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130525",
+        "link": {
+          "title": "I Tested the Same Site With Claude Twice. The Focused Prompt Found 5 XSS the Big Prompt Missed.",
+          "url": "https://medium.com/@Aacle/i-tested-the-same-site-with-claude-twice-the-focused-prompt-found-5-xss-the-big-prompt-missed-986571a9986d?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 130524,
+        "text": "⤷\nTitle:\nUnauthenticated Access to Internal Employee Content Through Unprotected API Endpoints\n════════════════════════\n𐀪\nAuthor:\nredhunter01\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 18:56:51 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#bug_bounty\n#web_security\n#api_security\n#cybersecurity",
+        "date": "2026-08-19T20:04:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130524_0_b167baf5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130524_1_dbf48752.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130524",
+        "link": {
+          "title": "Unauthenticated Access to Internal Employee Content Through Unprotected API Endpoints",
+          "url": "https://medium.com/@redhunter01/unauthenticated-access-to-internal-employee-content-through-unprotected-api-endpoints-54c743b0478e?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 130523,
+        "text": "⤷\nTitle:\nSQL Injection em ORDER BY sem autenticação: contornando o WAF com CASE WHEN e subqueries em uma…\n════════════════════════\n𐀪\nAuthor:\ns0larpunk\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 19:28:53 GMT\n════════════════════════\n⌗\nTags:\n#security\n#bug_bounty",
+        "date": "2026-08-19T20:03:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130523_0_b167baf5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130523",
+        "link": {
+          "title": "SQL Injection em ORDER BY sem autenticação: contornando o WAF com CASE WHEN e subqueries em uma…",
+          "url": "https://medium.com/@s0larpunk/sql-injection-em-order-by-sem-autentica%C3%A7%C3%A3o-contornando-o-waf-com-case-when-e-subqueries-em-uma-811896c60907?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 130522,
+        "text": "⤷\nTitle:\nOpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 23:36:44 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-08-19T20:03:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130522_0_b167baf5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130522",
+        "link": {
+          "title": "OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior",
+          "url": "https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html"
+        }
+      },
+      {
+        "id": 130521,
+        "text": "⤷\nTitle:\nCloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nThu, 20 Aug 2026 00:32:40 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-08-19T20:03:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130521_0_b167baf5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130521",
+        "link": {
+          "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second",
+          "url": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html"
+        }
+      },
+      {
         "id": 130520,
         "text": "⤷\nTitle:\nSauna Write-Up (Easy Difficulty)\n════════════════════════\n𐀪\nAuthor:\nJoseph \"n3m0” KANKO\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 16:06:46 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_writeup\n#active_directory_security\n#ctf_writeup\n#active_directory_attack\n#ads",
         "date": "2026-08-19T18:05:04+00:00",
@@ -1881,389 +2260,10 @@
           "title": "The Rise of Autonomous Cyber Attacks",
           "url": "https://medium.com/@Rakeshjoshi7/the-rise-of-autonomous-cyber-attacks-c1408e6675da?source=rss------bug_bounty-5"
         }
-      },
-      {
-        "id": 130436,
-        "text": "⤷\nTitle:\nGeForce NOW Now Fully Supports Firefox, Delivering 1440p 120fps Streaming\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 08:06:24 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#Cloud\nGaming\n#firefox\n#Game\nStreaming\n#GeForce\nNOW\n#mozilla\n#nvidia\n#WebRTC",
-        "date": "2026-08-19T10:04:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130436_0_b167baf5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130436_1_a0e98e50.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130436",
-        "link": {
-          "title": "GeForce NOW Now Fully Supports Firefox, Delivering 1440p 120fps Streaming",
-          "url": "https://securityonline.info/geforce-now-firefox-support-windows/"
-        }
-      },
-      {
-        "id": 130435,
-        "text": "⤷\nTitle:\nPATCHCORD Malware Hits Afghan Telecom in New APT36 Campaign\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 08:09:07 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#Afghan\nTelecom\n#APT36\n#cyber_espionage\n#GitHub\nGists C2\n#Google\nSheets C2\n#HACKERAI\nC2\n#Malware\nCampaign\n#PATCHCORD\n#SHEETCORD\n#Transparent\nTribe",
-        "date": "2026-08-19T10:04:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130435_0_b167baf5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130435_1_869a4b91.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130435",
-        "link": {
-          "title": "PATCHCORD Malware Hits Afghan Telecom in New APT36 Campaign",
-          "url": "https://securityonline.info/patchcord-malware-apt36-afghan-telecom/"
-        }
-      },
-      {
-        "id": 130434,
-        "text": "⤷\nTitle:\nMicrosoft Removes Windows 11 Drag Tray\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 08:33:26 +0000\n════════════════════════\n⌗\nTags:\n#Windows\n#Beta\nUpdate\n#Drag\nTray\n#File\nExplorer\n#Microsoft\n#Windows\n11",
-        "date": "2026-08-19T10:04:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130434_0_b167baf5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130434_1_9c310183.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130434",
-        "link": {
-          "title": "Microsoft Removes Windows 11 Drag Tray",
-          "url": "https://securityonline.info/windows-11-drop-tray/"
-        }
-      },
-      {
-        "id": 130433,
-        "text": "⤷\nTitle:\nCVE-2026-18051 (CVSS 10): Unauthenticated Arbitrary File Write Hits 900k W3 Total Cache Sites\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 08:53:14 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Arbitrary\nFile Write\n#CVE_2026_18051\n#Path\nTraversal\n#W3\nTotal Cache\n#wordpress\n#WordPress\nPlugin\n#wpscan",
-        "date": "2026-08-19T10:04:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130433_0_b167baf5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130433_1_9338da28.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130433",
-        "link": {
-          "title": "CVE-2026-18051 (CVSS 10): Unauthenticated Arbitrary File Write Hits 900k W3 Total Cache Sites",
-          "url": "https://securityonline.info/w3-total-cache-file-write-cve-2026-18051/"
-        }
-      },
-      {
-        "id": 130432,
-        "text": "⤷\nTitle:\nOpenAI Astra Security Model: Pausing Development for Safety\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 09:49:24 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#AI\nsafety\n#Astra\n#cybersecurity\n#machine_learning\n#OpenAI",
-        "date": "2026-08-19T10:04:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130432_0_b167baf5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130432_1_5deffa4d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130432",
-        "link": {
-          "title": "OpenAI Astra Security Model: Pausing Development for Safety",
-          "url": "https://securityonline.info/openai-astra-security-model/"
-        }
-      },
-      {
-        "id": 130431,
-        "text": "⤷\nTitle:\nClop-Linked Windchill Web Shell Decrypts Credentials and Maps Engineering Data\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 11:09:25 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-08-19T10:03:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130431_0_b167baf5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130431",
-        "link": {
-          "title": "Clop-Linked Windchill Web Shell Decrypts Credentials and Maps Engineering Data",
-          "url": "https://thehackernews.com/2026/08/clop-linked-windchill-web-shell.html"
-        }
-      },
-      {
-        "id": 130430,
-        "text": "⤷\nTitle:\nMicrosoft Links 30+ Rotating Domains to MacSync Stealer Infrastructure\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 11:31:53 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-08-19T10:03:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130430_0_b167baf5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130430",
-        "link": {
-          "title": "Microsoft Links 30+ Rotating Domains to MacSync Stealer Infrastructure",
-          "url": "https://thehackernews.com/2026/08/microsoft-links-30-rotating-domains-to.html"
-        }
-      },
-      {
-        "id": 130429,
-        "text": "⤷\nTitle:\nCVE-2026–40901: DataEase Root RCE via Unfiltered Quartz Deserialization\n════════════════════════\n𐀪\nAuthor:\nGuidancewhite\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 06:57:55 GMT\n════════════════════════\n⌗\nTags:\n#sql_injection\n#rce\n#vulnerability\n#database\n#java",
-        "date": "2026-08-19T08:04:41+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130429_0_b167baf5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130429_1_8066b14b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130429",
-        "link": {
-          "title": "CVE-2026–40901: DataEase Root RCE via Unfiltered Quartz Deserialization",
-          "url": "https://medium.com/@guidancewhite/cve-2026-40901-dataease-root-rce-via-unfiltered-quartz-deserialization-cf4ca471ca45?source=rss------rce-5"
-        }
-      },
-      {
-        "id": 130428,
-        "text": "⤷\nTitle:\nASP.NET Core API Güvenliği için Kurumsal Standartlar\n════════════════════════\n𐀪\nAuthor:\nErhan Baştürk\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 07:20:30 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#software_development\n#api_security\n#software_engineering",
-        "date": "2026-08-19T08:04:38+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130428_0_b167baf5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130428",
-        "link": {
-          "title": "ASP.NET Core API Güvenliği için Kurumsal Standartlar",
-          "url": "https://erhanbasturk.medium.com/asp-net-core-api-security-22630701790e?source=rss------api_security-5"
-        }
-      },
-      {
-        "id": 130427,
-        "text": "⤷\nTitle:\nCybersecurity Course in Telugu: Why Learn Cybersecurity in 2026?\n════════════════════════\n𐀪\nAuthor:\nchandramouli aegu\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 06:02:21 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#soc_analyst_training\n#education\n#cybersecurity_training",
-        "date": "2026-08-19T08:04:35+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130427_0_b167baf5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130427_1_f1148b51.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130427",
-        "link": {
-          "title": "Cybersecurity Course in Telugu: Why Learn Cybersecurity in 2026?",
-          "url": "https://medium.com/@chandramouliaegu96/cybersecurity-course-in-telugu-why-learn-cybersecurity-in-2026-bb45e9dcacc6?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 130426,
-        "text": "⤷\nTitle:\nkatana walkthrough | proving Ground machine | Oscp Prep\n════════════════════════\n𐀪\nAuthor:\nCybersecurity writeup's\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 06:52:53 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#linux\n#ctf_writeup\n#ethical_hacking\n#oscp",
-        "date": "2026-08-19T08:04:31+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130426_0_b167baf5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130426_1_6a433f7a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130426",
-        "link": {
-          "title": "katana walkthrough | proving Ground machine | Oscp Prep",
-          "url": "https://ethicsnaruto.medium.com/katana-walkthrough-proving-ground-machine-oscp-prep-370c0d02b34f?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 130425,
-        "text": "⤷\nTitle:\nWhat Is Cybersecurity? A Beginner-Friendly Guide to Protecting the Digital World\n════════════════════════\n𐀪\nAuthor:\nMuhammadyounuscc\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 07:11:44 GMT\n════════════════════════\n⌗\nTags:\n#network_security\n#ethical_hacking\n#information_security\n#cyber_security_awareness\n#cybersecurity",
-        "date": "2026-08-19T08:04:28+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130425_0_b167baf5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130425_1_da443145.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130425",
-        "link": {
-          "title": "What Is Cybersecurity? A Beginner-Friendly Guide to Protecting the Digital World",
-          "url": "https://medium.com/@muhammadyounuscc/what-is-cybersecurity-a-beginner-friendly-guide-to-protecting-the-digital-world-77a955e6695d?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 130424,
-        "text": "⤷\nTitle:\nRecruit — TryHackMe Walkthrough: From Local File Inclusion to Administrator\n════════════════════════\n𐀪\nAuthor:\nYussif Selim\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 07:58:40 GMT\n════════════════════════\n⌗\nTags:\n#local_file_inclusion\n#tryhackme_walkthrough\n#tryhackme\n#ctf_walkthrough\n#sql_injection",
-        "date": "2026-08-19T08:04:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130424_0_b167baf5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130424_1_e2356259.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130424",
-        "link": {
-          "title": "Recruit — TryHackMe Walkthrough: From Local File Inclusion to Administrator",
-          "url": "https://medium.com/@yussifselim9/recruit-tryhackme-walkthrough-from-local-file-inclusion-to-administrator-1cb0cacb6290?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 130423,
-        "text": "⤷\nTitle:\nTryHackMe | Elastic Stack: The Basics\n════════════════════════\n𐀪\nAuthor:\nMazen El-Mekawy\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 07:59:24 GMT\n════════════════════════\n⌗\nTags:\n#kibana\n#elasticsearch\n#elk_stack\n#tryhackme_walkthrough\n#tryhackme",
-        "date": "2026-08-19T08:04:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130423_0_b167baf5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130423_1_fc1de7f4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130423",
-        "link": {
-          "title": "TryHackMe | Elastic Stack: The Basics",
-          "url": "https://medium.com/@mazenelmekawy999/tryhackme-elastic-stack-the-basics-a9010068b4f8?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 130422,
-        "text": "⤷\nTitle:\nThreat Intel Feeds Are Mostly Noise\n════════════════════════\n𐀪\nAuthor:\nYassin Hamada\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 06:42:03 GMT\n════════════════════════\n⌗\nTags:\n#threat_intelligence\n#infosec\n#artificial_intelligence\n#cybersecurity\n#threat_hunting",
-        "date": "2026-08-19T08:04:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130422_0_b167baf5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130422_1_7da19979.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130422",
-        "link": {
-          "title": "Threat Intel Feeds Are Mostly Noise",
-          "url": "https://medium.com/@yassin_hamada/threat-intel-feeds-are-mostly-noise-935693f04a1e?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 130421,
-        "text": "⤷\nTitle:\nMXTSession Manager: Simplifying Session and Idle Timeout Management in Mendix\n════════════════════════\n𐀪\nAuthor:\nMoses jebaraj G\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 06:54:07 GMT\n════════════════════════\n⌗\nTags:\n#application_security\n#session_management\n#mendix_mendix",
-        "date": "2026-08-19T08:04:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130421_0_b167baf5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130421_1_b96ee2d9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130421",
-        "link": {
-          "title": "MXTSession Manager: Simplifying Session and Idle Timeout Management in Mendix",
-          "url": "https://medium.com/@mossesjebaraj.g/mxtsession-manager-simplifying-session-and-idle-timeout-management-in-mendix-e88b19e59eaf?source=rss------application_security-5"
-        }
-      },
-      {
-        "id": 130420,
-        "text": "⤷\nTitle:\nRecon Automation: 12 OSINT Tools Every Hacker Needs for Lightning-Fast Enumeration\n════════════════════════\n𐀪\nAuthor:\nVery Lazy Tech\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 06:00:38 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#penetration_testing\n#bug_bounty\n#hacking\n#ethical_hacking",
-        "date": "2026-08-19T08:04:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130420_0_b167baf5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130420_1_e2b2735e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130420",
-        "link": {
-          "title": "Recon Automation: 12 OSINT Tools Every Hacker Needs for Lightning-Fast Enumeration",
-          "url": "https://medium.com/@verylazytech/recon-automation-12-osint-tools-every-hacker-needs-for-lightning-fast-enumeration-f7e7a18c7202?source=rss------bug_bounty-5"
-        }
       }
     ]
   },
-  "last_update": "2026-08-19T19:47:26.774216+00:00",
+  "last_update": "2026-08-19T20:21:25.100029+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2275,7 +2275,7 @@
     },
     "referenced_files": 190,
     "existing_media_files": 190,
-    "total_size_mb": 5.14,
-    "last_calculation": "2026-08-19T19:47:26.775494+00:00"
+    "total_size_mb": 5.32,
+    "last_calculation": "2026-08-19T20:21:25.102345+00:00"
   }
 }
