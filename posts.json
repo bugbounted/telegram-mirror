@@ -2,6 +2,29 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 130389,
+        "text": "⤷\nTitle:\nHow I Discovered an API Authorization Flaw Exposing 100+ User Phone Numbers and Sensitive Campaign…\n════════════════════════\n𐀪\nAuthor:\n4osp3l\n════════════════════════\nⴵ\nTime:\nTue, 18 Aug 2026 23:19:11 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty",
+        "date": "2026-08-19T00:03:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130389_0_eb102dbb.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130389_1_91f2bc60.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130389",
+        "link": {
+          "title": "How I Discovered an API Authorization Flaw Exposing 100+ User Phone Numbers and Sensitive Campaign…",
+          "url": "https://medium.com/@4osp3l/how-i-discovered-an-api-authorization-flaw-exposing-100-user-phone-numbers-and-sensitive-campaign-8632760ebc2a?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 130388,
         "text": "⤷\nTitle:\nCase Study: Navigating the Responsible Disclosure Dilemma\n════════════════════════\n𐀪\nAuthor:\nJafarlimahir\n════════════════════════\nⴵ\nTime:\nTue, 18 Aug 2026 20:41:37 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#information_security\n#disclosure\n#ethical_hacking",
         "date": "2026-08-18T22:04:19+00:00",
@@ -2245,33 +2268,10 @@
           "title": "HTB Starting Point #02 — Dancing: SMB Null Session Enumeration Explained",
           "url": "https://medium.com/@eabdo4671/htb-starting-point-02-dancing-smb-null-session-enumeration-explained-7aeb9474f2ab?source=rss------penetration_testing-5"
         }
-      },
-      {
-        "id": 130287,
-        "text": "⤷\nTitle:\nPrompt Injection Is the New Phishing: How Blue Teams Can Detect Attacks Against AI Agents\n════════════════════════\n𐀪\nAuthor:\nAshutosh Yadav\n════════════════════════\nⴵ\nTime:\nTue, 18 Aug 2026 08:35:23 GMT\n════════════════════════\n⌗\nTags:\n#python\n#artificial_intelligence\n#cybersecurity\n#technology\n#infosec",
-        "date": "2026-08-18T10:04:44+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130287_0_eb102dbb.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130287_1_7c2b0db1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130287",
-        "link": {
-          "title": "Prompt Injection Is the New Phishing: How Blue Teams Can Detect Attacks Against AI Agents",
-          "url": "https://ashutoshyadav-256.medium.com/prompt-injection-is-the-new-phishing-how-blue-teams-can-detect-attacks-against-ai-agents-07626f94d8ea?source=rss------infosec-5"
-        }
       }
     ]
   },
-  "last_update": "2026-08-18T23:44:25.604674+00:00",
+  "last_update": "2026-08-19T00:30:54.997848+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2283,7 +2283,7 @@
     },
     "referenced_files": 192,
     "existing_media_files": 192,
-    "total_size_mb": 6.19,
-    "last_calculation": "2026-08-18T23:44:25.607048+00:00"
+    "total_size_mb": 6.2,
+    "last_calculation": "2026-08-19T00:30:55.000127+00:00"
   }
 }
