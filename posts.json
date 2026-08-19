@@ -2,6 +2,186 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 130545,
+        "text": "⤷\nTitle:\nSSRF with filter bypass via open redirection vulnerability | portswigger writeup\n════════════════════════\n𐀪\nAuthor:\nAli Amed\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 20:44:15 GMT\n════════════════════════\n⌗\nTags:\n#ctf\n#ctf_writeup\n#ssrf\n#portswigger\n#security",
+        "date": "2026-08-19T22:04:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130545_0_b167baf5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130545_1_9314e211.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130545",
+        "link": {
+          "title": "SSRF with filter bypass via open redirection vulnerability | portswigger writeup",
+          "url": "https://medium.com/@ali_st0rm/ssrf-with-filter-bypass-via-open-redirection-vulnerability-portswigger-writeup-b09c9cdf0184?source=rss------ssrf-5"
+        }
+      },
+      {
+        "id": 130544,
+        "text": "⤷\nTitle:\nWhat the Hugging Face Breach Teaches Us About AI-Era API Security\n════════════════════════\n𐀪\nAuthor:\nAkansha Shukla\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 20:54:26 GMT\n════════════════════════\n⌗\nTags:\n#api_security\n#openai\n#hugging_face\n#ai_security\n#zero_day_attack",
+        "date": "2026-08-19T22:04:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130544_0_b167baf5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130544_1_c101665f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130544",
+        "link": {
+          "title": "What the Hugging Face Breach Teaches Us About AI-Era API Security",
+          "url": "https://medium.com/@akanshashukla10/what-the-hugging-face-breach-teaches-us-about-ai-era-api-security-82d3a2c26d73?source=rss------api_security-5"
+        }
+      },
+      {
+        "id": 130543,
+        "text": "⤷\nTitle:\nI Built a Weapon for Breaking AI — Then Put It on the Internet.\n════════════════════════\n𐀪\nAuthor:\nNilanjan Chowdhury\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 21:25:02 GMT\n════════════════════════\n⌗\nTags:\n#prompt_engineering\n#cybersecurity\n#llm_security\n#ai_security\n#ethical_hacking",
+        "date": "2026-08-19T22:04:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130543_0_b167baf5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130543_1_2400b88d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130543",
+        "link": {
+          "title": "I Built a Weapon for Breaking AI — Then Put It on the Internet.",
+          "url": "https://medium.com/@nilanjan.calculus/i-built-a-weapon-for-breaking-ai-then-put-it-on-the-internet-872a75809a71?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 130542,
+        "text": "⤷\nTitle:\nPortSwigger Blind SQL Injection -Lab Walkthrough\n════════════════════════\n𐀪\nAuthor:\n0x_root\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 19:59:22 GMT\n════════════════════════\n⌗\nTags:\n#blind_sql_injection\n#portswigger\n#sql_injection\n#penetration_testing\n#web_security",
+        "date": "2026-08-19T22:04:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130542_0_b167baf5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130542_1_1370e0b7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130542",
+        "link": {
+          "title": "PortSwigger Blind SQL Injection -Lab Walkthrough",
+          "url": "https://medium.com/@0xroot/blind-sql-injection-lab-portswiggers-9eb8da7d3542?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 130541,
+        "text": "⤷\nTitle:\nMastering Nmap Basics: A Hands-on Guide Using Metasploitable 2\n════════════════════════\n𐀪\nAuthor:\nPavan Kalyan\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 20:16:12 GMT\n════════════════════════\n⌗\nTags:\n#kali_linux_command\n#penetration_testing\n#nmap_command",
+        "date": "2026-08-19T22:04:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130541_0_b167baf5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130541_1_901f9393.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130541",
+        "link": {
+          "title": "Mastering Nmap Basics: A Hands-on Guide Using Metasploitable 2",
+          "url": "https://medium.com/@2210030273cse/mastering-nmap-basics-a-hands-on-guide-using-metasploitable-2-4f160286bf8a?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 130540,
+        "text": "⤷\nTitle:\nNiyə Broken Access Control hələdə OWASP TOP 10-un zirvəsindədir?️\n════════════════════════\n𐀪\nAuthor:\nVusal Ehmedov\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 21:28:38 GMT\n════════════════════════\n⌗\nTags:\n#information_security\n#owasp_top_10\n#penetration_testing\n#cybersecurity\n#broken_access_control",
+        "date": "2026-08-19T22:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130540_0_b167baf5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130540",
+        "link": {
+          "title": "Niyə Broken Access Control hələdə OWASP TOP 10-un zirvəsindədir?️",
+          "url": "https://medium.com/@VusalEhmedov7/niy%C9%99-broken-access-control-h%C9%99l%C9%99d%C9%99-owasp-top-10-un-zirv%C9%99sind%C9%99dir-%EF%B8%8F-1022cd2e9b27?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 130539,
+        "text": "⤷\nTitle:\nHow to Find IDOR Vulnerabilities in Bug Bounty\n════════════════════════\n𐀪\nAuthor:\nb0dj0x\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 20:18:39 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#cybersecurity\n#bug_bounty_tips\n#bug_bounty_writeup\n#bugbounty_writeup",
+        "date": "2026-08-19T22:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130539_0_b167baf5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130539_1_17ee6448.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130539",
+        "link": {
+          "title": "How to Find IDOR Vulnerabilities in Bug Bounty",
+          "url": "https://medium.com/@b0dj0x/how-to-find-idor-vulnerabilities-in-bug-bounty-4c6bd63aa4a8?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 130538,
+        "text": "⤷\nTitle:\nFrom a Contact Form to RCE: How I Found Blind PHP Code Injection\n════════════════════════\n𐀪\nAuthor:\nHossein Zarei\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 21:47:04 GMT\n════════════════════════\n⌗\nTags:\n#pentesting\n#web_app_security\n#ethical_hacking\n#cybersecurity\n#bug_bounty",
+        "date": "2026-08-19T22:03:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130538_0_b167baf5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130538_1_5e1148a5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130538",
+        "link": {
+          "title": "From a Contact Form to RCE: How I Found Blind PHP Code Injection",
+          "url": "https://medium.com/@hossein.za68/from-a-contact-form-to-rce-how-i-found-blind-php-code-injection-b56e51846ce8?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 130537,
         "text": "⤷\nTitle:\nI Built DPoP in .NET 10 by Hand. Then I Found the Package That Makes It Unnecessary.\n════════════════════════\n𐀪\nAuthor:\nAli Süleyman TOPUZ\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 19:24:30 GMT\n════════════════════════\n⌗\nTags:\n#dpop\n#api_security\n#oauth2\n#dotnet",
         "date": "2026-08-19T20:04:45+00:00",
@@ -2080,190 +2260,10 @@
           "title": "TryHackMe (Pre Security) — (Attacks and Defenses) Answers",
           "url": "https://medium.com/@Alex708/tryhackme-pre-security-attacks-and-defenses-answers-a1e172c295d3?source=rss------tryhackme-5"
         }
-      },
-      {
-        "id": 130444,
-        "text": "⤷\nTitle:\nNmap — TryHackMe Room Writeup\n════════════════════════\n𐀪\nAuthor:\nNizam Uddin\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 09:42:34 GMT\n════════════════════════\n⌗\nTags:\n#vulnerability_assessment\n#cybersecurity\n#network_scanning\n#nmap\n#penetration_testing",
-        "date": "2026-08-19T10:04:41+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130444_0_b167baf5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130444_1_666de554.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130444",
-        "link": {
-          "title": "Nmap — TryHackMe Room Writeup",
-          "url": "https://medium.com/@csenizamuddin/nmap-tryhackme-room-writeup-e8133be87c83?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 130443,
-        "text": "⤷\nTitle:\n737 Chrome VPN and proxy extensions were found routing traffic to malicious proxies\n════════════════════════\n𐀪\nAuthor:\nStanislav Klevtsov\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 09:31:23 GMT\n════════════════════════\n⌗\nTags:\n#security\n#vulnerability\n#infosec\n#cybersecurity",
-        "date": "2026-08-19T10:04:38+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130443_0_b167baf5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130443_1_3aebc654.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130443",
-        "link": {
-          "title": "737 Chrome VPN and proxy extensions were found routing traffic to malicious proxies",
-          "url": "https://stansecure.medium.com/737-chrome-vpn-and-proxy-extensions-were-found-routing-traffic-to-malicious-proxies-736de41e435e?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 130442,
-        "text": "⤷\nTitle:\nSchool Grades Helpline Center: University grades, Hire Hacker to Change your school grades > Using…\n════════════════════════\n𐀪\nAuthor:\nPaul Weller\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 08:02:22 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#university\n#hacker\n#change_your_school_grades\n#essay_writing_service",
-        "date": "2026-08-19T10:04:34+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130442_0_b167baf5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130442_1_eb0b5782.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130442",
-        "link": {
-          "title": "School Grades Helpline Center: University grades, Hire Hacker to Change your school grades > Using…",
-          "url": "https://medium.com/@paulweller_3232/school-grades-helpline-center-university-grades-hire-hacker-to-change-your-school-grades-using-bd82dc18d6fa?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 130441,
-        "text": "⤷\nTitle:\nPrison Hack — “Realistically but fictionally”\n════════════════════════\n𐀪\nAuthor:\nL4ZZ3RJ0D\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 08:46:34 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#ctf_walkthrough\n#ctf\n#reconnaissance\n#blog",
-        "date": "2026-08-19T10:04:31+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130441_0_b167baf5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130441_1_54ea4403.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130441",
-        "link": {
-          "title": "Prison Hack — “Realistically but fictionally”",
-          "url": "https://medium.com/@l4zz3rj0d/prison-hack-realistically-but-fictionally-148bb06244c9?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 130440,
-        "text": "⤷\nTitle:\nInsecure Design — The #6 Vulnerability on the Web ️\n════════════════════════\n𐀪\nAuthor:\nloopXvedant\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 09:01:02 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ctf\n#hacking\n#owasp\n#bug_bounty",
-        "date": "2026-08-19T10:04:28+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130440_0_b167baf5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130440",
-        "link": {
-          "title": "Insecure Design — The #6 Vulnerability on the Web ️",
-          "url": "https://medium.com/@vedanthore/insecure-design-the-6-vulnerability-on-the-web-%EF%B8%8F-07301dbf9f11?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 130439,
-        "text": "⤷\nTitle:\nFrom a Single Domain to Leaked Secrets: A Recon Walkthrough with TrinetLayer\n════════════════════════\n𐀪\nAuthor:\nSwarooppatil\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 09:04:07 GMT\n════════════════════════\n⌗\nTags:\n#security\n#hackerone\n#hacking\n#bug_bounty\n#infosec",
-        "date": "2026-08-19T10:04:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130439_0_b167baf5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130439_1_dec506be.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130439",
-        "link": {
-          "title": "From a Single Domain to Leaked Secrets: A Recon Walkthrough with TrinetLayer",
-          "url": "https://medium.com/@swarooppatil3125/from-a-single-domain-to-leaked-secrets-a-recon-walkthrough-with-trinetlayer-e6758c08f33b?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 130438,
-        "text": "⤷\nTitle:\nA Langfuse SSRF, default ClickHouse credentials, and a novel error-based extraction technique that…\n════════════════════════\n𐀪\nAuthor:\nVivek Ghinaiya\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 09:12:53 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#bug_bounty_writeup\n#ssrf\n#bug_bounty_tips",
-        "date": "2026-08-19T10:04:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130438_0_b167baf5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130438_1_7c57d7d2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130438",
-        "link": {
-          "title": "A Langfuse SSRF, default ClickHouse credentials, and a novel error-based extraction technique that…",
-          "url": "https://vivek-ghinaiya.medium.com/a-langfuse-ssrf-default-clickhouse-credentials-and-a-novel-error-based-extraction-technique-that-7a88896e4ed2?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 130437,
-        "text": "⤷\nTitle:\nThe Rise of Autonomous Cyber Attacks\n════════════════════════\n𐀪\nAuthor:\nRakesh Joshi\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 09:18:29 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#startup\n#cybersecurity\n#ai_security",
-        "date": "2026-08-19T10:04:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130437_0_b167baf5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130437_1_51063711.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130437",
-        "link": {
-          "title": "The Rise of Autonomous Cyber Attacks",
-          "url": "https://medium.com/@Rakeshjoshi7/the-rise-of-autonomous-cyber-attacks-c1408e6675da?source=rss------bug_bounty-5"
-        }
       }
     ]
   },
-  "last_update": "2026-08-19T21:47:35.863418+00:00",
+  "last_update": "2026-08-19T22:13:39.846126+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2275,7 +2275,7 @@
     },
     "referenced_files": 190,
     "existing_media_files": 190,
-    "total_size_mb": 5.32,
-    "last_calculation": "2026-08-19T21:47:35.865726+00:00"
+    "total_size_mb": 5.42,
+    "last_calculation": "2026-08-19T22:13:39.848424+00:00"
   }
 }
