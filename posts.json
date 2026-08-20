@@ -2,6 +2,75 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 130561,
+        "text": "⤷\nTitle:\nTHM Hacker Holidays 2026 Room 3: Complimentary\n════════════════════════\n𐀪\nAuthor:\nJinxedCyber\n════════════════════════\nⴵ\nTime:\nThu, 20 Aug 2026 00:28:36 GMT\n════════════════════════\n⌗\nTags:\n#ctf_writeup\n#aws\n#aws_iam\n#tryhackme\n#hacker_holidays_2026",
+        "date": "2026-08-20T02:04:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130561_0_b167baf5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130561_1_b282529a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130561",
+        "link": {
+          "title": "THM Hacker Holidays 2026 Room 3: Complimentary",
+          "url": "https://medium.com/@JinxedCyber/thm-hacker-holidays-2026-room-3-complimentary-cdcbdfc456e7?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 130560,
+        "text": "⤷\nTitle:\nTryHackMe Fool’s Mate Writeup: A Client-Side Trust Bypass Walkthrough\n════════════════════════\n𐀪\nAuthor:\nAshok Siravi\n════════════════════════\nⴵ\nTime:\nThu, 20 Aug 2026 01:39:26 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#pentesting\n#bug_bounty\n#vapt\n#tryhackme_writeup",
+        "date": "2026-08-20T02:04:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130560_0_b167baf5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130560_1_7b7ef206.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130560",
+        "link": {
+          "title": "TryHackMe Fool’s Mate Writeup: A Client-Side Trust Bypass Walkthrough",
+          "url": "https://medium.com/@siraviashok4721/tryhackme-fools-mate-writeup-a-client-side-trust-bypass-walkthrough-0f47180ac02d?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 130559,
+        "text": "⤷\nTitle:\nCVE-2026-47627: CVSS 9.8 Denial of Service Hits NVIDIA Triton\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 20 Aug 2026 01:01:30 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#AI\nsecurity\n#CVE_2026_24184\n#CVE_2026_47627\n#CVE_2026_47628\n#Denial\nof Service\n#nvidia\n#NVIDIA\nTriton vulnerability",
+        "date": "2026-08-20T02:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130559_0_b167baf5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130559_1_5b19ceda.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130559",
+        "link": {
+          "title": "CVE-2026-47627: CVSS 9.8 Denial of Service Hits NVIDIA Triton",
+          "url": "https://securityonline.info/nvidia-triton-vulnerability-cve-2026-47627/"
+        }
+      },
+      {
         "id": 130558,
         "text": "⤷\nTitle:\nTryHackMe Easy Peasy: From Enumeration to Root\n════════════════════════\n𐀪\nAuthor:\nVijay Barhate\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 22:46:59 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#linux\n#tryhackme\n#ethical_hacking\n#cybersecurity",
         "date": "2026-08-20T00:04:38+00:00",
@@ -2199,79 +2268,10 @@
           "title": "AI Security Certifications: worth it, or just the newest thing to sell you?",
           "url": "https://eva-georgieva.medium.com/ai-security-certifications-worth-it-or-just-the-newest-thing-to-sell-you-e9f521eea351?source=rss------infosec-5"
         }
-      },
-      {
-        "id": 130460,
-        "text": "⤷\nTitle:\nRansomware 2.0: Why Paying the Ransom No Longer Saves You\n════════════════════════\n𐀪\nAuthor:\nYua Mikanana\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 10:22:57 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#information_security\n#ethical_hacking\n#hacking\n#technology",
-        "date": "2026-08-19T12:04:36+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130460_0_b167baf5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130460_1_a3da5a54.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130460",
-        "link": {
-          "title": "Ransomware 2.0: Why Paying the Ransom No Longer Saves You",
-          "url": "https://medium.com/@yua.mikanana19/ransomware-2-0-why-paying-the-ransom-no-longer-saves-you-f6ab59da36ea?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 130459,
-        "text": "⤷\nTitle:\nThe Tier List That’s Making Cybersecurity People Angry\n════════════════════════\n𐀪\nAuthor:\nShahzaib\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 11:04:43 GMT\n════════════════════════\n⌗\nTags:\n#aws_certification\n#hacking\n#cybersecurity\n#tech\n#technology",
-        "date": "2026-08-19T12:04:33+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130459_0_b167baf5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130459_1_6405decb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130459",
-        "link": {
-          "title": "The Tier List That’s Making Cybersecurity People Angry",
-          "url": "https://osintteam.blog/the-tier-list-thats-making-cybersecurity-people-angry-6df1176f6f7d?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 130458,
-        "text": "⤷\nTitle:\nIs Your Phone Tracking Everything You Say? Here Is How to Check Right Now\n════════════════════════\n𐀪\nAuthor:\nTanveer\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 11:29:40 GMT\n════════════════════════\n⌗\nTags:\n#mobile\n#latest_news\n#tracking\n#google_ads\n#hacking",
-        "date": "2026-08-19T12:04:30+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130458_0_b167baf5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130458_1_671340d5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130458",
-        "link": {
-          "title": "Is Your Phone Tracking Everything You Say? Here Is How to Check Right Now",
-          "url": "https://medium.com/@opexta/is-your-phone-tracking-everything-you-say-here-is-how-to-check-right-now-9a7716268994?source=rss------hacking-5"
-        }
       }
     ]
   },
-  "last_update": "2026-08-20T01:59:54.557914+00:00",
+  "last_update": "2026-08-20T02:54:13.529745+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2283,7 +2283,7 @@
     },
     "referenced_files": 192,
     "existing_media_files": 192,
-    "total_size_mb": 5.66,
-    "last_calculation": "2026-08-20T01:59:54.559727+00:00"
+    "total_size_mb": 5.58,
+    "last_calculation": "2026-08-20T02:54:13.532115+00:00"
   }
 }
