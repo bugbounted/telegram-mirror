@@ -2,6 +2,232 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 130571,
+        "text": "⤷\nTitle:\nThe Art of Making Hardware Confess: Trigger Scripting for the Impatient\n════════════════════════\n𐀪\nAuthor:\nAeon Flex, Elriel Assoc. 2133 [NEON MAXIMA]\n════════════════════════\nⴵ\nTime:\nThu, 20 Aug 2026 02:29:08 GMT\n════════════════════════\n⌗\nTags:\n#hardware_hacking\n#cybersecurity\n#scripting\n#logic_analyzer\n#hacking",
+        "date": "2026-08-20T04:05:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130571_0_29ea3c7b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130571_1_5bf67558.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130571",
+        "link": {
+          "title": "The Art of Making Hardware Confess: Trigger Scripting for the Impatient",
+          "url": "https://medium.com/@neonmaxima/the-art-of-making-hardware-confess-trigger-scripting-for-the-impatient-a5f6188f5013?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 130570,
+        "text": "⤷\nTitle:\n“Qilin, el grupo de ransomware que más está golpeando a México y Latinoamérica… y que todavía no…\n════════════════════════\n𐀪\nAuthor:\nHacking en México\n════════════════════════\nⴵ\nTime:\nThu, 20 Aug 2026 02:48:11 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#cybersecurity",
+        "date": "2026-08-20T04:05:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130570_0_29ea3c7b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130570",
+        "link": {
+          "title": "“Qilin, el grupo de ransomware que más está golpeando a México y Latinoamérica… y que todavía no…",
+          "url": "https://medium.com/@hackingenmexico/qilin-el-grupo-de-ransomware-que-m%C3%A1s-est%C3%A1-golpeando-a-m%C3%A9xico-y-latinoam%C3%A9rica-y-que-todav%C3%ADa-no-0aed4efc9614?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 130569,
+        "text": "⤷\nTitle:\nHow I Forged My Way Into a Real Service Account Token: An OIDC Trust Chain Attack\n════════════════════════\n𐀪\nAuthor:\nNizar Kadiri\n════════════════════════\nⴵ\nTime:\nThu, 20 Aug 2026 02:05:21 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#cybersecurity\n#bug_bounty\n#information_security\n#bug_bounty_writeup",
+        "date": "2026-08-20T04:05:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130569_0_29ea3c7b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130569_1_249db027.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130569",
+        "link": {
+          "title": "How I Forged My Way Into a Real Service Account Token: An OIDC Trust Chain Attack",
+          "url": "https://medium.com/@nizarkadiri70/how-i-forged-my-way-into-a-real-service-account-token-an-oidc-trust-chain-attack-806174dcae97?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 130568,
+        "text": "⤷\nTitle:\nMy Bug Bounty Journey: I Started With Confusion, Not Confidence\n════════════════════════\n𐀪\nAuthor:\nGhanashyam Ghimire\n════════════════════════\nⴵ\nTime:\nThu, 20 Aug 2026 02:56:30 GMT\n════════════════════════\n⌗\nTags:\n#motivational\n#cybersecurity\n#bug_bounty_tips\n#bug_bounty_writeup\n#bug_bounty",
+        "date": "2026-08-20T04:04:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130568_0_29ea3c7b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130568_1_2c668b88.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130568",
+        "link": {
+          "title": "My Bug Bounty Journey: I Started With Confusion, Not Confidence",
+          "url": "https://medium.com/@ghannu0x01/my-bug-bounty-journey-i-started-with-confusion-not-confidence-d5efb7536f59?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 130567,
+        "text": "⤷\nTitle:\nCVE-2026-20315 & CVE-2026-20317: Cisco Secure Workload Auth Bypass, Privilege Escalation Hit CVSS 10\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 20 Aug 2026 02:05:43 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Authentication\nBypass\n#Cisco\nPSIRT\n#Cisco\nSecure Workload\n#CVE_2026_20315\n#CVE_2026_20317\n#privilege\nescalation",
+        "date": "2026-08-20T04:04:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130567_0_29ea3c7b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130567_1_a2680f82.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130567",
+        "link": {
+          "title": "CVE-2026-20315 & CVE-2026-20317: Cisco Secure Workload Auth Bypass, Privilege Escalation Hit CVSS 10",
+          "url": "https://securityonline.info/cisco-secure-workload-cve-2026-20315/"
+        }
+      },
+      {
+        "id": 130566,
+        "text": "⤷\nTitle:\nCVE-2026-20266: Critical OS Command Injection Hits Splunk AI Toolkit (CVSS 9.1)\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 20 Aug 2026 02:15:56 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#btool\n#CVE_2026_20266\n#os\ncommand injection\n#Splunk\n#Splunk\nAI Toolkit\n#Splunk\nEnterprise",
+        "date": "2026-08-20T04:04:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130566_0_29ea3c7b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130566_1_582b02f5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130566",
+        "link": {
+          "title": "CVE-2026-20266: Critical OS Command Injection Hits Splunk AI Toolkit (CVSS 9.1)",
+          "url": "https://securityonline.info/splunk-ai-toolkit-cve-2026-20266/"
+        }
+      },
+      {
+        "id": 130565,
+        "text": "⤷\nTitle:\nCVE-2026-20030: Cisco Crosswork SQL Command Injection Scores CVSS 10.0\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 20 Aug 2026 02:24:34 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Cisco\nBroadWorks\n#Cisco\nCrosswork\n#CVE_2026_20030\n#CVE_2026_20320\n#sql\ninjection\n#xxe",
+        "date": "2026-08-20T04:04:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130565_0_29ea3c7b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130565_1_ec8036ee.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130565",
+        "link": {
+          "title": "CVE-2026-20030: Cisco Crosswork SQL Command Injection Scores CVSS 10.0",
+          "url": "https://securityonline.info/cisco-crosswork-cve-2026-20030/"
+        }
+      },
+      {
+        "id": 130564,
+        "text": "⤷\nTitle:\nCVE-2026-73570 Exploited in the Wild: Unauthenticated RCE Hits Zimbra\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 20 Aug 2026 02:37:12 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_73570\n#exploited\nin the wild\n#Remote\nCode Execution\n#snmp\n#Zimbra\n#Zimbra\nCollaboration",
+        "date": "2026-08-20T04:04:46+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130564_0_29ea3c7b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130564_1_90510678.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130564",
+        "link": {
+          "title": "CVE-2026-73570 Exploited in the Wild: Unauthenticated RCE Hits Zimbra",
+          "url": "https://securityonline.info/zimbra-cve-2026-73570/"
+        }
+      },
+      {
+        "id": 130563,
+        "text": "⤷\nTitle:\nCVE-2026-70496 & CVE-2026-66794: Privilege Escalation in Red Hat ACM Hits CVSS 9.9\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 20 Aug 2026 03:00:51 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Advanced\nCluster Management\n#CVE_2026_70496\n#Kubernetes\n#Multicluster\nEngine\n#privilege\nescalation\n#red\nhat",
+        "date": "2026-08-20T04:04:43+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130563_0_29ea3c7b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130563_1_094c7221.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130563",
+        "link": {
+          "title": "CVE-2026-70496 & CVE-2026-66794: Privilege Escalation in Red Hat ACM Hits CVSS 9.9",
+          "url": "https://securityonline.info/red-hat-acm-cve-2026-70496/"
+        }
+      },
+      {
+        "id": 130562,
+        "text": "⤷\nTitle:\nCVE-2026-76310, CVE-2026-76311, CVE-2026-76312: Splunk Embedded Report Flaws (CVSS 9.4) Affect System Integrity\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 20 Aug 2026 03:28:54 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_76310\n#embedded\nreports\n#Improper\nAccess Control\n#security\nhardening\n#Splunk\n#Splunk\nEnterprise",
+        "date": "2026-08-20T04:04:39+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130562_0_29ea3c7b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130562_1_ff9cb2f4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130562",
+        "link": {
+          "title": "CVE-2026-76310, CVE-2026-76311, CVE-2026-76312: Splunk Embedded Report Flaws (CVSS 9.4) Affect System Integrity",
+          "url": "https://securityonline.info/splunk-enterprise-cve-2026-76310/"
+        }
+      },
+      {
         "id": 130561,
         "text": "⤷\nTitle:\nTHM Hacker Holidays 2026 Room 3: Complimentary\n════════════════════════\n𐀪\nAuthor:\nJinxedCyber\n════════════════════════\nⴵ\nTime:\nThu, 20 Aug 2026 00:28:36 GMT\n════════════════════════\n⌗\nTags:\n#ctf_writeup\n#aws\n#aws_iam\n#tryhackme\n#hacker_holidays_2026",
         "date": "2026-08-20T02:04:06+00:00",
@@ -2050,240 +2276,22 @@
           "title": "Iranian Intelligence Targets Israeli Journalists via Phishing",
           "url": "https://meterpreter.org/iranian-phishing-israeli-journalists/"
         }
-      },
-      {
-        "id": 130470,
-        "text": "⤷\nTitle:\nPhishing 3.0: The Fight Moves to Agent Versus Agent\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 17:00:00 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-08-19T14:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130470_0_b167baf5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130470",
-        "link": {
-          "title": "Phishing 3.0: The Fight Moves to Agent Versus Agent",
-          "url": "https://thehackernews.com/2026/08/phishing-30-fight-moves-to-agent-versus.html"
-        }
-      },
-      {
-        "id": 130469,
-        "text": "⤷\nTitle:\nHackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 17:04:28 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-08-19T14:03:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130469_0_b167baf5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130469",
-        "link": {
-          "title": "Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P",
-          "url": "https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html"
-        }
-      },
-      {
-        "id": 130468,
-        "text": "⤷\nTitle:\nSilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 18:42:17 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-08-19T14:03:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130468_0_b167baf5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130468",
-        "link": {
-          "title": "SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs",
-          "url": "https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html"
-        }
-      },
-      {
-        "id": 130467,
-        "text": "⤷\nTitle:\nthis is my first bug i found\n════════════════════════\n𐀪\nAuthor:\nBoss\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 10:02:52 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_writeup",
-        "date": "2026-08-19T12:05:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130467_0_b167baf5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130467_1_9cf3354b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130467",
-        "link": {
-          "title": "this is my first bug i found",
-          "url": "https://medium.com/@mr.amanmaurya999/this-is-my-first-bug-i-found-f75969918f3a?source=rss------bug_bounty_writeup-5"
-        }
-      },
-      {
-        "id": 130466,
-        "text": "⤷\nTitle:\nI Audited 40+ APIs Last Year. Here’s What Actually Breaks Them\n════════════════════════\n𐀪\nAuthor:\nDiginatives LLC\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 11:35:29 GMT\n════════════════════════\n⌗\nTags:\n#api_security\n#cybersecurity\n#api",
-        "date": "2026-08-19T12:04:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130466_0_b167baf5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130466_1_394a96b7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130466",
-        "link": {
-          "title": "I Audited 40+ APIs Last Year. Here’s What Actually Breaks Them",
-          "url": "https://medium.com/@diginatives-llc/i-audited-40-apis-last-year-heres-what-actually-breaks-them-b978f3acc100?source=rss------api_security-5"
-        }
-      },
-      {
-        "id": 130465,
-        "text": "⤷\nTitle:\nCheckmate Write-Up: Chaining OSINT, Password Patterns, and Hash Cracking.\n════════════════════════\n𐀪\nAuthor:\nAmandeep Singh\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 10:32:28 GMT\n════════════════════════\n⌗\nTags:\n#password_security\n#tryhackme_walkthrough\n#ethical_hacking\n#cybersecurity\n#penetration_testing",
-        "date": "2026-08-19T12:04:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130465_0_b167baf5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130465_1_f60a2143.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130465",
-        "link": {
-          "title": "Checkmate Write-Up: Chaining OSINT, Password Patterns, and Hash Cracking.",
-          "url": "https://medium.com/@infoads.me/tryhackme-checkmate-write-up-chaining-osint-password-patterns-and-hash-cracking-787bcdbdecd0?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 130464,
-        "text": "⤷\nTitle:\nAnatomy of a Sandbox Escape: How Literal Path Confusion Broke Claude Code’s Security Boundary\n════════════════════════\n𐀪\nAuthor:\nSonali Sood\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 10:33:59 GMT\n════════════════════════\n⌗\nTags:\n#claude_code\n#penetration_testing\n#sandbox_escape\n#pentesting\n#anthropic_claude",
-        "date": "2026-08-19T12:04:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130464_0_b167baf5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130464_1_2849368a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130464",
-        "link": {
-          "title": "Anatomy of a Sandbox Escape: How Literal Path Confusion Broke Claude Code’s Security Boundary",
-          "url": "https://medium.com/@sonalisood0/anatomy-of-a-sandbox-escape-how-literal-path-confusion-broke-claude-codes-security-boundary-95ef9abbfa2e?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 130463,
-        "text": "⤷\nTitle:\nTalkcpi — Fahemsec PWN CTF Writeup\n════════════════════════\n𐀪\nAuthor:\nMahmoud Fawzy\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 10:31:38 GMT\n════════════════════════\n⌗\nTags:\n#linux\n#ctf\n#cybersecurity\n#infosec\n#ctf_writeup",
-        "date": "2026-08-19T12:04:46+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130463_0_b167baf5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130463_1_5fa9302a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130463",
-        "link": {
-          "title": "Talkcpi — Fahemsec PWN CTF Writeup",
-          "url": "https://medium.com/@Zero-Ray/talkcpi-fahemsec-pwn-ctf-writeup-cc8fc9074c7b?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 130462,
-        "text": "⤷\nTitle:\nSIEM Explained Using Real SOC Scenarios: How Security Analysts Detect Real Threats\n════════════════════════\n𐀪\nAuthor:\nVrushti Rana\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 11:05:33 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#incident_response\n#threat_detection\n#infosec\n#network_security",
-        "date": "2026-08-19T12:04:43+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130462_0_b167baf5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130462_1_5347b613.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130462",
-        "link": {
-          "title": "SIEM Explained Using Real SOC Scenarios: How Security Analysts Detect Real Threats",
-          "url": "https://osintteam.blog/siem-explained-using-real-soc-scenarios-how-security-analysts-detect-real-threats-eae3ad22527e?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 130461,
-        "text": "⤷\nTitle:\nAI Security Certifications: worth it, or just the newest thing to sell you?\n════════════════════════\n𐀪\nAuthor:\nh@shtalk\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 11:31:01 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ai\n#infosec\n#security_certifications",
-        "date": "2026-08-19T12:04:39+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130461_0_b167baf5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130461_1_651208da.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130461",
-        "link": {
-          "title": "AI Security Certifications: worth it, or just the newest thing to sell you?",
-          "url": "https://eva-georgieva.medium.com/ai-security-certifications-worth-it-or-just-the-newest-thing-to-sell-you-e9f521eea351?source=rss------infosec-5"
-        }
       }
     ]
   },
-  "last_update": "2026-08-20T03:37:42.146235+00:00",
+  "last_update": "2026-08-20T04:24:50.126540+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 192,
-    "total_files": 192,
+    "total_media": 194,
+    "total_files": 194,
     "total_links": 0,
     "files_by_type": {
-      "image": 192
+      "image": 194
     },
-    "referenced_files": 192,
-    "existing_media_files": 192,
-    "total_size_mb": 5.58,
-    "last_calculation": "2026-08-20T03:37:42.148545+00:00"
+    "referenced_files": 194,
+    "existing_media_files": 194,
+    "total_size_mb": 5.73,
+    "last_calculation": "2026-08-20T04:24:50.127937+00:00"
   }
 }
