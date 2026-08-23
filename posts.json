@@ -2,6 +2,50 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 130604,
+        "text": "✎\nUnhar - Extract, Unminify, Beautify Javascript files from .Har file\nIn the\nprevious post\n, I explained my approach to capturing and downloading a website’s JavaScript resources into a\n.HAR\nfile for further local analysis. Now, let’s take it a step further with\nunhar\nand process that HAR files.\nunhar\nturns a raw\n.HAR\nfile into a structured set of web assets for local analysis. It extracts unique\nJavaScript and HTML\nresources while preserving the original URL structure, fetches available\nsource maps\n,\nbeautifies/unminifies JavaScript\n, and extracts\ninline scripts\nfrom HTML pages.\nIn short:\nHAR → Extract → Source Maps → Beautify → Ready for Analysis\n●\nInstallation\ngit clone https://github.com/Spix0r/unhar\ncd unhar\n●\nUsage\n# custom output directory\npython3 unhar.py site.har --output folder\n# skip source map fetching\npython3 unhar.py site.har --no-srcmap\n# skip beautify\npython3 unhar.py site.har --no-beautify\n•\nRepository\n:\nGithub\n#bugbounty\n#javascript\n#recon\n©\nT.me/BugBounty_Diary",
+        "date": "2026-08-23T17:27:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130604_0_2ac38b51.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130604_1_ac758510.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://github.com/Spix0r/unhar",
+            "type": "github",
+            "display_text": "https://github.com/Spix0r/unhar"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/Daily_Writeups/130604"
+      },
+      {
+        "id": 130603,
+        "text": "✎\nExtract & Download All JavaScript Files for Recon\nFor\nmodern\nweb apps, scraping\n<script>\ntags or relying on\nBurp's Site Map\noften isn't enough. Why? Because applications may\ndynamically\nload JavaScript from\nCDNs, cross-origin domains, specific routes\n(\nLazy Loading\n),\nor after user interactions\n.\nMy Approach:\n1. Open DevTools →\nNetwork\n2. Enable\nPreserve log\n3. Crawl the target and visit relevant pages/features\n4. Interact with the application to trigger dynamic resources\n5. Export the traffic as a\nHAR\n6. Extract all JavaScript files from\n.HAR\nfile using\nunhar\n(\nI'll talk about it in the next post.\n)\n#bugbounty\n#javascript\n#recon\n©\nT.me/BugBounty_Diary",
+        "date": "2026-08-23T17:27:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130603_0_2ac38b51.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130603_1_ae469376.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130603"
+      },
+      {
         "id": 130602,
         "text": "⤷\nTitle:\nHunting Open Redirects: My Practical Methodology for Web Application Testing\n════════════════════════\n𐀪\nAuthor:\nchalampalem Neeraja\n════════════════════════\nⴵ\nTime:\nThu, 20 Aug 2026 06:30:01 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_writeup\n#cybersecurity\n#bug_bounty_tips\n#happyhunting\n#vapt",
         "date": "2026-08-20T08:04:55+00:00",
@@ -2226,68 +2270,22 @@
           "title": "Breaking In: Pentester’s Voice — Episode #2",
           "url": "https://medium.com/@appsecwarrior/breaking-in-pentesters-voice-episode-2-f72248040afa?source=rss------hacking-5"
         }
-      },
-      {
-        "id": 130504,
-        "text": "⤷\nTitle:\nContent Security Policy: Putting the Browser on a Security Diet\n════════════════════════\n𐀪\nAuthor:\nRobert Broeckelmann\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 16:50:45 GMT\n════════════════════════\n⌗\nTags:\n#web_application_security\n#csp\n#application_security\n#content_security_policy\n#web_browser",
-        "date": "2026-08-19T18:04:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130504_0_b167baf5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130504_1_65ee8d9e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130504",
-        "link": {
-          "title": "Content Security Policy: Putting the Browser on a Security Diet",
-          "url": "https://medium.com/@robert.broeckelmann/content-security-policy-putting-the-browser-on-a-security-diet-f1dd7929db00?source=rss------application_security-5"
-        }
-      },
-      {
-        "id": 130503,
-        "text": "⤷\nTitle:\nSSRF Hunting Methodology: From Entry Point Discovery to Internal Network Access\n════════════════════════\n𐀪\nAuthor:\nArash Shahbazi\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 16:31:21 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#bug_bounty\n#ethical_hacking\n#web_security\n#penetration_testing",
-        "date": "2026-08-19T18:04:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130503_0_b167baf5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130503_1_c3db3f73.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130503",
-        "link": {
-          "title": "SSRF Hunting Methodology: From Entry Point Discovery to Internal Network Access",
-          "url": "https://rootast.medium.com/ssrf-hunting-methodology-from-entry-point-discovery-to-internal-network-access-0232ed7366b0?source=rss------bug_bounty-5"
-        }
       }
     ]
   },
-  "last_update": "2026-08-23T17:12:26.938478+00:00",
+  "last_update": "2026-08-23T17:42:48.040286+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
     "total_media": 193,
     "total_files": 193,
-    "total_links": 0,
+    "total_links": 1,
     "files_by_type": {
       "image": 193
     },
     "referenced_files": 193,
     "existing_media_files": 193,
-    "total_size_mb": 5.86,
-    "last_calculation": "2026-08-23T17:12:26.940857+00:00"
+    "total_size_mb": 5.76,
+    "last_calculation": "2026-08-23T17:42:48.042699+00:00"
   }
 }
