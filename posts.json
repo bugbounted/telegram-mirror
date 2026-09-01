@@ -2,6 +2,466 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 130818,
+        "text": "⤷\nTitle:\nHow an Unsanitized PDF Export Engine Led to Local File Inclusion and a $14,000 Bounty\n════════════════════════\n𐀪\nAuthor:\nT4nv1\n════════════════════════\nⴵ\nTime:\nSat, 29 Aug 2026 13:31:01 GMT\n════════════════════════\n⌗\nTags:\n#security\n#bug_bounty\n#cybersecurity\n#bug_bounty_tips\n#pentesting",
+        "date": "2026-09-01T22:15:45+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130818_0_b57676ff.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130818_1_42d36b5d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130818",
+        "link": {
+          "title": "How an Unsanitized PDF Export Engine Led to Local File Inclusion and a $14,000 Bounty",
+          "url": "https://medium.com/@t4nv1/how-an-unsanitized-pdf-export-engine-led-to-local-file-inclusion-and-a-14-000-bounty-971c19603d94?source=rss------bug_bounty_tips-5"
+        }
+      },
+      {
+        "id": 130817,
+        "text": "⤷\nTitle:\nOne parameter & Two IDORs\n════════════════════════\n𐀪\nAuthor:\nOmer Mohsen\n════════════════════════\nⴵ\nTime:\nSat, 29 Aug 2026 14:45:29 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#idor\n#bug_bounty_tips\n#cybersecurity\n#vulnerability",
+        "date": "2026-09-01T22:15:41+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130817_0_b57676ff.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130817_1_48c14adc.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130817",
+        "link": {
+          "title": "One parameter & Two IDORs",
+          "url": "https://medium.com/@omerasraan/one-parameter-two-idors-d26c76620e32?source=rss------bug_bounty_tips-5"
+        }
+      },
+      {
+        "id": 130816,
+        "text": "⤷\nTitle:\n15 Hidden Nmap Techniques Every Hacker Should Know\n════════════════════════\n𐀪\nAuthor:\nBugitrix\n════════════════════════\nⴵ\nTime:\nSun, 30 Aug 2026 02:56:24 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#bug_bounty\n#tools\n#nmap\n#bug_bounty_tips",
+        "date": "2026-09-01T22:15:38+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130816_0_b57676ff.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130816_1_09cd12bf.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130816",
+        "link": {
+          "title": "15 Hidden Nmap Techniques Every Hacker Should Know",
+          "url": "https://medium.com/@bugitrix/15-hidden-nmap-techniques-every-hacker-should-know-1b8af99a8ad0?source=rss------bug_bounty_tips-5"
+        }
+      },
+      {
+        "id": 130815,
+        "text": "⤷\nTitle:\nHow an Unsanitized EXIF Metadata Parser Led to Command Injection and a $10,000 Bounty\n════════════════════════\n𐀪\nAuthor:\nT4nv1\n════════════════════════\nⴵ\nTime:\nSun, 30 Aug 2026 13:36:01 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_tips\n#bug_bounty\n#cybersecurity\n#security\n#hacking",
+        "date": "2026-09-01T22:15:34+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130815_0_b57676ff.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130815_1_0ad88476.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130815",
+        "link": {
+          "title": "How an Unsanitized EXIF Metadata Parser Led to Command Injection and a $10,000 Bounty",
+          "url": "https://medium.com/@t4nv1/how-an-unsanitized-exif-metadata-parser-led-to-command-injection-and-a-10-000-bounty-6a6991dc1a51?source=rss------bug_bounty_tips-5"
+        }
+      },
+      {
+        "id": 130814,
+        "text": "⤷\nTitle:\nTermux + NetHunter on Android: Complete Guide + $7,500 SQLi Bug Bounty Story\n════════════════════════\n𐀪\nAuthor:\nBearded Viking\n════════════════════════\nⴵ\nTime:\nSun, 30 Aug 2026 23:59:53 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#cybersecurity\n#web_penetration_testing\n#hacking\n#bug_bounty_tips",
+        "date": "2026-09-01T22:15:31+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130814_0_b57676ff.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130814_1_e0ecc913.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130814",
+        "link": {
+          "title": "Termux + NetHunter on Android: Complete Guide + $7,500 SQLi Bug Bounty Story",
+          "url": "https://beardedviking.medium.com/termux-nethunter-on-android-complete-guide-7-500-sqli-bug-bounty-story-d1ee70063e2c?source=rss------bug_bounty_tips-5"
+        }
+      },
+      {
+        "id": 130813,
+        "text": "⤷\nTitle:\nAPI Security: The Vulnerabilities Most Developers Miss\n════════════════════════\n𐀪\nAuthor:\nRakesh Joshi\n════════════════════════\nⴵ\nTime:\nFri, 21 Aug 2026 17:46:04 GMT\n════════════════════════\n⌗\nTags:\n#api_development\n#bugbounty_writeup\n#cybersecurity",
+        "date": "2026-09-01T22:15:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130813_0_b57676ff.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130813_1_059293f9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130813",
+        "link": {
+          "title": "API Security: The Vulnerabilities Most Developers Miss",
+          "url": "https://medium.com/@Rakeshjoshi7/api-security-the-vulnerabilities-most-developers-miss-55c24d7da94e?source=rss------bugbounty_writeup-5"
+        }
+      },
+      {
+        "id": 130812,
+        "text": "⤷\nTitle:\nYou Can’t Become a Great Bug Bounty Hunter Without Understanding Networking\n════════════════════════\n𐀪\nAuthor:\nSAYEM-EH\n════════════════════════\nⴵ\nTime:\nSun, 23 Aug 2026 15:08:26 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#cybersecurity\n#bugbounty_writeup\n#bug_hunting\n#networking",
+        "date": "2026-09-01T22:15:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130812_0_b57676ff.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130812_1_53b9fce7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130812",
+        "link": {
+          "title": "You Can’t Become a Great Bug Bounty Hunter Without Understanding Networking",
+          "url": "https://sayemeh.medium.com/you-cant-become-a-great-bug-bounty-hunter-without-understanding-networking-5825e162fe6d?source=rss------bugbounty_writeup-5"
+        }
+      },
+      {
+        "id": 130811,
+        "text": "⤷\nTitle:\nPower Cookie — picoCTF Writeup\n════════════════════════\n𐀪\nAuthor:\nmayhack\n════════════════════════\nⴵ\nTime:\nMon, 24 Aug 2026 14:21:54 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#cybersecurity\n#bugbounty_writeup\n#ctf_writeup",
+        "date": "2026-09-01T22:15:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130811_0_b57676ff.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130811_1_dcc88886.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130811",
+        "link": {
+          "title": "Power Cookie — picoCTF Writeup",
+          "url": "https://medium.com/@may.hack/power-cookie-picoctf-writeup-a42f02d99979?source=rss------bugbounty_writeup-5"
+        }
+      },
+      {
+        "id": 130810,
+        "text": "⤷\nTitle:\nFinding Sensitive Backend Information Through GraphQL Errors\n════════════════════════\n𐀪\nAuthor:\nAnanya Rathod\n════════════════════════\nⴵ\nTime:\nTue, 25 Aug 2026 19:22:57 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_tips\n#bug_bounty\n#graphql\n#bugbounty_writeup\n#bug_bounty_writeup",
+        "date": "2026-09-01T22:15:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130810_0_b57676ff.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130810_1_7f7594d5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130810",
+        "link": {
+          "title": "Finding Sensitive Backend Information Through GraphQL Errors",
+          "url": "https://medium.com/@ananya.itims/finding-sensitive-backend-information-through-graphql-errors-72f82ad2c27b?source=rss------bugbounty_writeup-5"
+        }
+      },
+      {
+        "id": 130809,
+        "text": "⤷\nTitle:\nWeb Cache Poisoning: One Response, Every Victim\n════════════════════════\n𐀪\nAuthor:\nNitin yadav\n════════════════════════\nⴵ\nTime:\nWed, 26 Aug 2026 11:31:01 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#bugbounty_writeup\n#bug_bounty\n#hacking\n#infosec",
+        "date": "2026-09-01T22:15:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130809_0_b57676ff.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130809_1_f008629f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130809",
+        "link": {
+          "title": "Web Cache Poisoning: One Response, Every Victim",
+          "url": "https://kd-200.medium.com/web-cache-poisoning-one-response-every-victim-63bed1727e1f?source=rss------bugbounty_writeup-5"
+        }
+      },
+      {
+        "id": 130808,
+        "text": "⤷\nTitle:\nThe Interceptor That Fetched Anything: 1-Click Native Takeover in a Capacitor App\n════════════════════════\n𐀪\nAuthor:\nHussein Ayoub\n════════════════════════\nⴵ\nTime:\nMon, 31 Aug 2026 07:24:50 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#bugbounty_writeup\n#android\n#security",
+        "date": "2026-09-01T22:15:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130808_0_b57676ff.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130808_1_2c208c66.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130808",
+        "link": {
+          "title": "The Interceptor That Fetched Anything: 1-Click Native Takeover in a Capacitor App",
+          "url": "https://medium.com/@husein.ayoub/the-interceptor-that-fetched-anything-1-click-native-takeover-in-a-capacitor-app-71d9c0b7c72d?source=rss------bugbounty_writeup-5"
+        }
+      },
+      {
+        "id": 130807,
+        "text": "⤷\nTitle:\nManaging Scan Results in Metasploit\n════════════════════════\n𐀪\nAuthor:\nRyan  Ryan\n════════════════════════\nⴵ\nTime:\nFri, 21 Aug 2026 10:55:32 GMT\n════════════════════════\n⌗\nTags:\n#pentesting\n#penetration_testing\n#recon\n#red_team\n#metasploit",
+        "date": "2026-09-01T22:15:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130807_0_b57676ff.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130807_1_9e3a751c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130807",
+        "link": {
+          "title": "Managing Scan Results in Metasploit",
+          "url": "https://medium.com/fmisec/managing-scan-results-in-metasploit-39f3351d9141?source=rss------recon-5"
+        }
+      },
+      {
+        "id": 130806,
+        "text": "⤷\nTitle:\nThe Subdomain Recon Chain: subfinder → httpx → dnsx\n════════════════════════\n𐀪\nAuthor:\nMuneebahmedkhan\n════════════════════════\nⴵ\nTime:\nSun, 30 Aug 2026 15:25:58 GMT\n════════════════════════\n⌗\nTags:\n#tutorial\n#recon\n#bug_bounty\n#cybersecurity\n#infosec",
+        "date": "2026-09-01T22:15:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130806_0_b57676ff.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130806_1_ccf039d6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130806",
+        "link": {
+          "title": "The Subdomain Recon Chain: subfinder → httpx → dnsx",
+          "url": "https://medium.com/@muneebahmedkhan0903/the-subdomain-recon-chain-subfinder-httpx-dnsx-ac771e3ac04c?source=rss------recon-5"
+        }
+      },
+      {
+        "id": 130805,
+        "text": "⤷\nTitle:\nalg:none and Friends — A JWT Hacking Field Guide\n════════════════════════\n𐀪\nAuthor:\nNitin yadav\n════════════════════════\nⴵ\nTime:\nSat, 29 Aug 2026 11:31:01 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#bug_bounty_tips\n#bug_bounty_writeup\n#infosec\n#bug_bounty",
+        "date": "2026-09-01T22:15:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130805_0_b57676ff.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130805_1_93034ff7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130805",
+        "link": {
+          "title": "alg:none and Friends — A JWT Hacking Field Guide",
+          "url": "https://kd-200.medium.com/alg-none-and-friends-a-jwt-hacking-field-guide-4864f2e1c673?source=rss------bug_bounty_writeup-5"
+        }
+      },
+      {
+        "id": 130804,
+        "text": "⤷\nTitle:\n₹4,000 for a 2-Minute Google Search: Publicly Exposed Invoice Leaking Customer PII\n════════════════════════\n𐀪\nAuthor:\nWhoAdnan\n════════════════════════\nⴵ\nTime:\nSun, 30 Aug 2026 06:41:32 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_writeup\n#bug_bounty_hunter\n#bug_bounty_tips\n#bug_bounty",
+        "date": "2026-09-01T22:14:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130804_0_b57676ff.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130804_1_78129841.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130804",
+        "link": {
+          "title": "₹4,000 for a 2-Minute Google Search: Publicly Exposed Invoice Leaking Customer PII",
+          "url": "https://medium.com/@whoadnan01/4-000-for-a-2-minute-google-search-publicly-exposed-invoice-leaking-customer-pii-7365bb80c6ab?source=rss------bug_bounty_writeup-5"
+        }
+      },
+      {
+        "id": 130803,
+        "text": "⤷\nTitle:\nHow to Start Bug Bounty Hunting in 2026: A Complete Beginner’s Guide\n════════════════════════\n𐀪\nAuthor:\nATNO For Cybersecurity | Hacking\n════════════════════════\nⴵ\nTime:\nSun, 30 Aug 2026 23:41:01 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#ethical_hacking\n#cybersecurity\n#bug_bounty_writeup",
+        "date": "2026-09-01T22:14:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130803_0_b57676ff.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130803_1_e274ab89.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130803",
+        "link": {
+          "title": "How to Start Bug Bounty Hunting in 2026: A Complete Beginner’s Guide",
+          "url": "https://medium.com/@atnoforcybersecurity/how-to-start-bug-bounty-hunting-in-2026-a-complete-beginners-guide-d98fd8e894bf?source=rss------bug_bounty_writeup-5"
+        }
+      },
+      {
+        "id": 130802,
+        "text": "⤷\nTitle:\nI Called Myself “Admin” and the Site Let Me\n════════════════════════\n𐀪\nAuthor:\nHunter0x0\n════════════════════════\nⴵ\nTime:\nMon, 31 Aug 2026 07:13:00 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_writeup\n#bug_bounty_tips",
+        "date": "2026-09-01T22:14:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130802_0_b57676ff.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130802_1_7fead07c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130802",
+        "link": {
+          "title": "I Called Myself “Admin” and the Site Let Me",
+          "url": "https://hunter0x0.medium.com/i-called-myself-admin-and-the-site-let-me-608cca85c26b?source=rss------bug_bounty_writeup-5"
+        }
+      },
+      {
+        "id": 130801,
+        "text": "⤷\nTitle:\nHow a Simple GraphQL Scope Bypass Led to an Account Takeover ($4,500 Bounty)\n════════════════════════\n𐀪\nAuthor:\nT4nv1\n════════════════════════\nⴵ\nTime:\nMon, 31 Aug 2026 13:41:01 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#security\n#bug_bounty\n#hacking\n#bug_bounty_writeup",
+        "date": "2026-09-01T22:14:47+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130801_0_b57676ff.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130801_1_b929f3e4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130801",
+        "link": {
+          "title": "How a Simple GraphQL Scope Bypass Led to an Account Takeover ($4,500 Bounty)",
+          "url": "https://medium.com/@t4nv1/how-a-simple-graphql-scope-bypass-led-to-an-account-takeover-4-500-bounty-abb6e7f4f1b4?source=rss------bug_bounty_writeup-5"
+        }
+      },
+      {
+        "id": 130800,
+        "text": "⤷\nTitle:\n1 Dangerous Hour: Delayed Role Revocation Bug in JWT Based Systems\n════════════════════════\n𐀪\nAuthor:\nRevalda Haryadaffa Prabaswara\n════════════════════════\nⴵ\nTime:\nMon, 31 Aug 2026 15:41:10 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#bug_bounty_writeup",
+        "date": "2026-09-01T22:14:44+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130800_0_b57676ff.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130800_1_08982952.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130800",
+        "link": {
+          "title": "1 Dangerous Hour: Delayed Role Revocation Bug in JWT Based Systems",
+          "url": "https://medium.com/@prabaswaradaffa2/1-dangerous-hour-delayed-role-revocation-bug-in-jwt-based-systems-56dbaf15a331?source=rss------bug_bounty_writeup-5"
+        }
+      },
+      {
+        "id": 130799,
+        "text": "⤷\nTitle:\nOne Researcher Earned $811,000 Hunting Bugs for Google\n════════════════════════\n𐀪\nAuthor:\nMuhamed Fazal PS\n════════════════════════\nⴵ\nTime:\nTue, 01 Sep 2026 08:10:36 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_hunter\n#hackerone\n#bug_bounty\n#bug_bounty_tips\n#bug_bounty_writeup",
+        "date": "2026-09-01T22:14:41+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130799_0_b57676ff.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130799_1_47ba5b5a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130799",
+        "link": {
+          "title": "One Researcher Earned $811,000 Hunting Bugs for Google",
+          "url": "https://medium.com/@muhamedfazalps7/one-researcher-earned-811-000-hunting-bugs-for-google-21c2c6dcbe11?source=rss------bug_bounty_writeup-5"
+        }
+      },
+      {
         "id": 130604,
         "text": "✎\nUnhar - Extract, Unminify, Beautify Javascript files from .Har file\nIn the\nprevious post\n, I explained my approach to capturing and downloading a website’s JavaScript resources into a\n.HAR\nfile for further local analysis. Now, let’s take it a step further with\nunhar\nand process that HAR files.\nunhar\nturns a raw\n.HAR\nfile into a structured set of web assets for local analysis. It extracts unique\nJavaScript and HTML\nresources while preserving the original URL structure, fetches available\nsource maps\n,\nbeautifies/unminifies JavaScript\n, and extracts\ninline scripts\nfrom HTML pages.\nIn short:\nHAR → Extract → Source Maps → Beautify → Ready for Analysis\n●\nInstallation\ngit clone https://github.com/Spix0r/unhar\ncd unhar\n●\nUsage\n# custom output directory\npython3 unhar.py site.har --output folder\n# skip source map fetching\npython3 unhar.py site.har --no-srcmap\n# skip beautify\npython3 unhar.py site.har --no-beautify\n•\nRepository\n:\nGithub\n#bugbounty\n#javascript\n#recon\n©\nT.me/BugBounty_Diary",
         "date": "2026-08-23T17:27:51+00:00",
@@ -1822,470 +2282,22 @@
           "title": "I Tested the Same Site With Claude Twice. The Focused Prompt Found 5 XSS the Big Prompt Missed.",
           "url": "https://medium.com/@Aacle/i-tested-the-same-site-with-claude-twice-the-focused-prompt-found-5-xss-the-big-prompt-missed-986571a9986d?source=rss------bug_bounty-5"
         }
-      },
-      {
-        "id": 130524,
-        "text": "⤷\nTitle:\nUnauthenticated Access to Internal Employee Content Through Unprotected API Endpoints\n════════════════════════\n𐀪\nAuthor:\nredhunter01\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 18:56:51 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#bug_bounty\n#web_security\n#api_security\n#cybersecurity",
-        "date": "2026-08-19T20:04:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130524_0_b167baf5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130524_1_dbf48752.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130524",
-        "link": {
-          "title": "Unauthenticated Access to Internal Employee Content Through Unprotected API Endpoints",
-          "url": "https://medium.com/@redhunter01/unauthenticated-access-to-internal-employee-content-through-unprotected-api-endpoints-54c743b0478e?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 130523,
-        "text": "⤷\nTitle:\nSQL Injection em ORDER BY sem autenticação: contornando o WAF com CASE WHEN e subqueries em uma…\n════════════════════════\n𐀪\nAuthor:\ns0larpunk\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 19:28:53 GMT\n════════════════════════\n⌗\nTags:\n#security\n#bug_bounty",
-        "date": "2026-08-19T20:03:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130523_0_b167baf5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130523",
-        "link": {
-          "title": "SQL Injection em ORDER BY sem autenticação: contornando o WAF com CASE WHEN e subqueries em uma…",
-          "url": "https://medium.com/@s0larpunk/sql-injection-em-order-by-sem-autentica%C3%A7%C3%A3o-contornando-o-waf-com-case-when-e-subqueries-em-uma-811896c60907?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 130522,
-        "text": "⤷\nTitle:\nOpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 23:36:44 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-08-19T20:03:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130522_0_b167baf5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130522",
-        "link": {
-          "title": "OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior",
-          "url": "https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html"
-        }
-      },
-      {
-        "id": 130521,
-        "text": "⤷\nTitle:\nCloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nThu, 20 Aug 2026 00:32:40 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-08-19T20:03:51+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130521_0_b167baf5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130521",
-        "link": {
-          "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second",
-          "url": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html"
-        }
-      },
-      {
-        "id": 130520,
-        "text": "⤷\nTitle:\nSauna Write-Up (Easy Difficulty)\n════════════════════════\n𐀪\nAuthor:\nJoseph \"n3m0” KANKO\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 16:06:46 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_writeup\n#active_directory_security\n#ctf_writeup\n#active_directory_attack\n#ads",
-        "date": "2026-08-19T18:05:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130520_0_b167baf5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130520_1_6d4b49d1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130520",
-        "link": {
-          "title": "Sauna Write-Up (Easy Difficulty)",
-          "url": "https://medium.com/@kankojoseph/sauna-write-up-easy-difficulty-d832841696ee?source=rss------bug_bounty_writeup-5"
-        }
-      },
-      {
-        "id": 130519,
-        "text": "⤷\nTitle:\nHow a Simple SVG XSS Test Led Me to Arbitrary HTML Upload\n════════════════════════\n𐀪\nAuthor:\nislam Elkady\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 17:43:36 GMT\n════════════════════════\n⌗\nTags:\n#bug_hunting\n#bug_bounty_writeup",
-        "date": "2026-08-19T18:05:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130519_0_b167baf5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130519_1_dcdba1ba.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130519",
-        "link": {
-          "title": "How a Simple SVG XSS Test Led Me to Arbitrary HTML Upload",
-          "url": "https://islamelkad.medium.com/how-a-simple-svg-xss-test-led-me-to-arbitrary-html-upload-a060f4c67e4f?source=rss------bug_bounty_writeup-5"
-        }
-      },
-      {
-        "id": 130518,
-        "text": "⤷\nTitle:\nData Loss Prevention (DLP) — More Than Just Preventing Data Leakage\n════════════════════════\n𐀪\nAuthor:\nChandan\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 15:58:28 GMT\n════════════════════════\n⌗\nTags:\n#ai_red_teaming\n#azure\n#dlp_solution\n#hacking_tools\n#ethical_hacking",
-        "date": "2026-08-19T18:04:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130518_0_b167baf5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130518_1_a1df090d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130518",
-        "link": {
-          "title": "Data Loss Prevention (DLP) — More Than Just Preventing Data Leakage",
-          "url": "https://medium.com/@chandan20516/data-loss-prevention-dlp-more-than-just-preventing-data-leakage-112440c13c85?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 130517,
-        "text": "⤷\nTitle:\nYour WiFi Router Could Be Hacked — Through a Fake Video Stream\n════════════════════════\n𐀪\nAuthor:\nXpert4Cyber\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 17:44:18 GMT\n════════════════════════\n⌗\nTags:\n#tp_link\n#network_security\n#ethical_hacking\n#cybersecurity\n#vulnerability",
-        "date": "2026-08-19T18:04:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130517_0_b167baf5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130517_1_f223df7d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130517",
-        "link": {
-          "title": "Your WiFi Router Could Be Hacked — Through a Fake Video Stream",
-          "url": "https://medium.com/@xpert4cyber/your-wifi-router-could-be-hacked-through-a-fake-video-stream-63ba21f10ca0?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 130516,
-        "text": "⤷\nTitle:\nPenetration Testing 101: What U.S. Founders Should Demand\n════════════════════════\n𐀪\nAuthor:\nKarmakoders\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 17:53:30 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ethical_hacking",
-        "date": "2026-08-19T18:04:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130516_0_b167baf5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130516_1_6c9cc82d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130516",
-        "link": {
-          "title": "Penetration Testing 101: What U.S. Founders Should Demand",
-          "url": "https://medium.com/@karmakoders/penetration-testing-101-what-u-s-founders-should-demand-d6007a77ff0b?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 130515,
-        "text": "⤷\nTitle:\nSpace Explorer HTB lab\n════════════════════════\n𐀪\nAuthor:\nAlvaGad\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 16:43:28 GMT\n════════════════════════\n⌗\nTags:\n#hackthebox\n#htb\n#hackthebox_writeup",
-        "date": "2026-08-19T18:04:47+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130515_0_b167baf5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130515_1_8223db5d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130515",
-        "link": {
-          "title": "Space Explorer HTB lab",
-          "url": "https://medium.com/@0maro2042006/space-explorer-htb-lab-6395607cc6fc?source=rss------hackthebox_writeup-5"
-        }
-      },
-      {
-        "id": 130514,
-        "text": "⤷\nTitle:\nCareers in Cyber — Try Hack Me\n════════════════════════\n𐀪\nAuthor:\nChittanoori Divyashrith\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 16:29:44 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#cyber_security_101\n#careers_in_cyber\n#pre_security",
-        "date": "2026-08-19T18:04:44+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130514_0_b167baf5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130514_1_1faf26b1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130514",
-        "link": {
-          "title": "Careers in Cyber — Try Hack Me",
-          "url": "https://medium.com/@chittanooridivyashrith/careers-in-cyber-try-hack-me-dde3bcc0afa9?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 130513,
-        "text": "⤷\nTitle:\nBoost Your Web Security Audits: Top 10 Burp Suite Extensions You Need\n════════════════════════\n𐀪\nAuthor:\nSynthex\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 16:42:04 GMT\n════════════════════════\n⌗\nTags:\n#burpsuite\n#ethical_hacking\n#penetration_testing\n#web_security\n#idor_testing",
-        "date": "2026-08-19T18:04:40+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130513_0_b167baf5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130513_1_b003e3e0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130513",
-        "link": {
-          "title": "Boost Your Web Security Audits: Top 10 Burp Suite Extensions You Need",
-          "url": "https://synthex.medium.com/boost-your-web-security-audits-top-10-burp-suite-extensions-you-need-b07c7bdea526?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 130512,
-        "text": "⤷\nTitle:\nFireflow — HackTheBox Detailed Walkthrough\n════════════════════════\n𐀪\nAuthor:\nBeri Contraster\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 17:01:54 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#langflow\n#cybersecurity\n#hackthebox\n#kubernetes_security",
-        "date": "2026-08-19T18:04:37+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130512_0_b167baf5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130512_1_42f60bb4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130512",
-        "link": {
-          "title": "Fireflow — HackTheBox Detailed Walkthrough",
-          "url": "https://medium.com/@bericontraster/fireflow-hackthebox-detailed-walkthrough-bbe5b45ab466?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 130511,
-        "text": "⤷\nTitle:\nKali Linux ≠ Cybersecurity: Why Tools Are Only the Beginning.\n════════════════════════\n𐀪\nAuthor:\nShoaib Ahmmed\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 15:54:04 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#technology\n#infosec\n#kali_linux\n#cybersecurity",
-        "date": "2026-08-19T18:04:34+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130511_0_b167baf5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130511_1_f16f5e6a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130511",
-        "link": {
-          "title": "Kali Linux ≠ Cybersecurity: Why Tools Are Only the Beginning.",
-          "url": "https://medium.com/@shoaibahmmed/kali-linux-cybersecurity-why-tools-are-only-the-beginning-ee9b7f31bb6b?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 130510,
-        "text": "⤷\nTitle:\nMy Key Takeaways from Studying the EC-Council CEH v13 Exam\n════════════════════════\n𐀪\nAuthor:\nBigDay\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 16:38:37 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#ethical_hacking\n#network_security\n#cybersecurity",
-        "date": "2026-08-19T18:04:30+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130510_0_b167baf5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130510_1_8a860823.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130510",
-        "link": {
-          "title": "My Key Takeaways from Studying the EC-Council CEH v13 Exam",
-          "url": "https://medium.com/@examonlinehub/my-key-takeaways-from-studying-the-ec-council-ceh-v13-exam-38449116a587?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 130509,
-        "text": "⤷\nTitle:\nThe Ransomware Rescue Your Small Business Is Counting On No Longer Exists\n════════════════════════\n𐀪\nAuthor:\nS6 Tech\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 17:01:03 GMT\n════════════════════════\n⌗\nTags:\n#ransomware\n#small_business\n#infosec\n#microsoft\n#cybersecurity",
-        "date": "2026-08-19T18:04:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130509_0_b167baf5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130509_1_40286de6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130509",
-        "link": {
-          "title": "The Ransomware Rescue Your Small Business Is Counting On No Longer Exists",
-          "url": "https://medium.com/@s6techllc/the-ransomware-rescue-your-small-business-is-counting-on-no-longer-exists-0c7ecb23dab4?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 130508,
-        "text": "⤷\nTitle:\nFrom Remote Viewing to Root Access: The macOS Screen Sharing Flaw Now Being Exploited in the Wild.\n════════════════════════\n𐀪\nAuthor:\neL Njas!\n™\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 17:39:08 GMT\n════════════════════════\n⌗\nTags:\n#macos\n#infosec\n#remote_access\n#cyberattack",
-        "date": "2026-08-19T18:04:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130508_0_b167baf5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130508_1_1b8ff923.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130508",
-        "link": {
-          "title": "From Remote Viewing to Root Access: The macOS Screen Sharing Flaw Now Being Exploited in the Wild.",
-          "url": "https://medium.com/@elnjasi/from-remote-viewing-to-root-access-the-macos-screen-sharing-flaw-now-being-exploited-in-the-wild-172dbc025341?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 130507,
-        "text": "⤷\nTitle:\nError-Based SQL Injection: Extracting Database Information Through SQL Errors\n════════════════════════\n𐀪\nAuthor:\nAyobami olaniyi\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 16:07:22 GMT\n════════════════════════\n⌗\nTags:\n#sql\n#hacking\n#cybersecurity\n#software_development",
-        "date": "2026-08-19T18:04:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130507_0_b167baf5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130507_1_0b182047.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130507",
-        "link": {
-          "title": "Error-Based SQL Injection: Extracting Database Information Through SQL Errors",
-          "url": "https://medium.com/@danielolaniyi400/error-based-sql-injection-extracting-database-information-through-sql-errors-3898b94df88f?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 130506,
-        "text": "⤷\nTitle:\npicoCTF Challenge: Binary Digits\n════════════════════════\n𐀪\nAuthor:\nYuvi\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 16:17:30 GMT\n════════════════════════\n⌗\nTags:\n#forensics\n#picoctf\n#hacking\n#soc_analyst",
-        "date": "2026-08-19T18:04:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130506_0_b167baf5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130506_1_8a25ea99.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130506",
-        "link": {
-          "title": "picoCTF Challenge: Binary Digits",
-          "url": "https://medium.com/@uviitian7526/picoctf-challenge-binary-digits-8b18dd752683?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 130505,
-        "text": "⤷\nTitle:\nBreaking In: Pentester’s Voice — Episode #2\n════════════════════════\n𐀪\nAuthor:\nappsecwarrior\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 17:47:05 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#interview\n#pentesting\n#hacking\n#security",
-        "date": "2026-08-19T18:04:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130505_0_b167baf5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130505_1_d01d8d62.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130505",
-        "link": {
-          "title": "Breaking In: Pentester’s Voice — Episode #2",
-          "url": "https://medium.com/@appsecwarrior/breaking-in-pentesters-voice-episode-2-f72248040afa?source=rss------hacking-5"
-        }
       }
     ]
   },
-  "last_update": "2026-09-01T21:30:00.546015+00:00",
+  "last_update": "2026-09-01T23:29:03.349263+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 193,
-    "total_files": 193,
+    "total_media": 196,
+    "total_files": 196,
     "total_links": 1,
     "files_by_type": {
-      "image": 193
+      "image": 196
     },
-    "referenced_files": 193,
-    "existing_media_files": 193,
-    "total_size_mb": 5.76,
-    "last_calculation": "2026-09-01T21:30:00.548439+00:00"
+    "referenced_files": 196,
+    "existing_media_files": 196,
+    "total_size_mb": 5.91,
+    "last_calculation": "2026-09-01T23:29:03.351729+00:00"
   }
 }
