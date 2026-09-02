@@ -2,6 +2,167 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 130960,
+        "text": "⤷\nTitle:\nTryHackMe OWASP Juice Shop Walkthrough\n════════════════════════\n𐀪\nAuthor:\nJoanna Adegbile\n════════════════════════\nⴵ\nTime:\nWed, 02 Sep 2026 20:59:00 GMT\n════════════════════════\n⌗\nTags:\n#owasp_juice_shop\n#cybersecurity\n#owasp\n#tryhackme\n#owasp_top_10",
+        "date": "2026-09-02T22:04:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130960_0_ad177b4c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130960_1_c408a4c5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130960",
+        "link": {
+          "title": "TryHackMe OWASP Juice Shop Walkthrough",
+          "url": "https://medium.com/@joannaadegbile/tryhackme-owasp-juice-shop-walkthrough-13b5163488cd?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 130959,
+        "text": "⤷\nTitle:\nLearn Nmap the Right Way: One Switch at a Time\n════════════════════════\n𐀪\nAuthor:\nAbbas Damerchi\n════════════════════════\nⴵ\nTime:\nWed, 02 Sep 2026 21:36:35 GMT\n════════════════════════\n⌗\nTags:\n#linux\n#penetration_testing\n#ethical_hacking\n#nmap\n#cybersecurity",
+        "date": "2026-09-02T22:04:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130959_0_ad177b4c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130959_1_7d0aaf82.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130959",
+        "link": {
+          "title": "Learn Nmap the Right Way: One Switch at a Time",
+          "url": "https://abbas-damerchi.medium.com/learn-nmap-the-right-way-one-switch-at-a-time-86a678226d92?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 130958,
+        "text": "⤷\nTitle:\nMS17–010 (EternalBlue) Explained: Breaking Down Every Nmap and Metasploit Command [HTB Blue…\n════════════════════════\n𐀪\nAuthor:\nPawut Jingjit\n════════════════════════\nⴵ\nTime:\nWed, 02 Sep 2026 21:51:46 GMT\n════════════════════════\n⌗\nTags:\n#hackthebox\n#ethical_hacking\n#metasploit\n#cybersecurity\n#penetration_testing",
+        "date": "2026-09-02T22:04:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130958_0_ad177b4c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130958_1_9431ad72.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130958",
+        "link": {
+          "title": "MS17–010 (EternalBlue) Explained: Breaking Down Every Nmap and Metasploit Command [HTB Blue…",
+          "url": "https://pawutjingjit.medium.com/ms17-010-eternalblue-explained-breaking-down-every-nmap-and-metasploit-command-htb-blue-4edf6d76ecd1?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 130957,
+        "text": "⤷\nTitle:\nDeobfuscating a ClickFix Campaign: From Base64 PowerShell to an In-Memory .NET Stager\n════════════════════════\n𐀪\nAuthor:\nsm0q\n════════════════════════\nⴵ\nTime:\nWed, 02 Sep 2026 20:47:01 GMT\n════════════════════════\n⌗\nTags:\n#malware\n#cybersecurity\n#infosec",
+        "date": "2026-09-02T22:04:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130957_0_ad177b4c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130957_1_73d754fb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130957",
+        "link": {
+          "title": "Deobfuscating a ClickFix Campaign: From Base64 PowerShell to an In-Memory .NET Stager",
+          "url": "https://medium.com/@sm0q/deobfuscating-a-clickfix-campaign-from-base64-powershell-to-an-in-memory-net-stager-a0f3e86ebd28?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 130956,
+        "text": "⤷\nTitle:\nMAC Changer in Kali Linux: Understanding MAC Address Modification\nWhile learning Linux and…\n════════════════════════\n𐀪\nAuthor:\nsaurabh\n════════════════════════\nⴵ\nTime:\nWed, 02 Sep 2026 20:55:07 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#bugs\n#cybersecurity\n#hacking\n#penetration_testing",
+        "date": "2026-09-02T22:03:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130956_0_ad177b4c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130956_1_1a62e31d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130956",
+        "link": {
+          "title": "MAC Changer in Kali Linux: Understanding MAC Address ModificationWhile learning Linux and…",
+          "url": "https://medium.com/@saurabhbhosale01911/mac-changer-in-kali-linux-understanding-mac-address-modification-while-learning-linux-and-e93d68fdae9a?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 130955,
+        "text": "⤷\nTitle:\nWhen an AI Backend Forgot to Ask Who You Were: Finding Unauthenticated LLM Invocation in a FigmaBot…\n════════════════════════\n𐀪\nAuthor:\nPaulHaykeens\n════════════════════════\nⴵ\nTime:\nWed, 02 Sep 2026 19:58:04 GMT\n════════════════════════\n⌗\nTags:\n#api_penetration_testing\n#information_security\n#ethical_hacking\n#web_penetration_testing\n#bug_bounty",
+        "date": "2026-09-02T22:03:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130955_0_ad177b4c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130955_1_59cbaf29.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130955",
+        "link": {
+          "title": "When an AI Backend Forgot to Ask Who You Were: Finding Unauthenticated LLM Invocation in a FigmaBot…",
+          "url": "https://medium.com/@haykeenspaul/when-an-ai-backend-forgot-to-ask-who-you-were-finding-unauthenticated-llm-invocation-in-a-figmabot-cee4d5683ed7?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 130954,
+        "text": "⤷\nTitle:\nBroadcom TrueSource Project Secures Open-Source Builds\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 02 Sep 2026 21:27:11 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#Broadcom\n#open_source\n#Supply\nChain Security\n#TrueSource\n#VMware\nExplore",
+        "date": "2026-09-02T22:03:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130954_0_ad177b4c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130954_1_a66f064f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130954",
+        "link": {
+          "title": "Broadcom TrueSource Project Secures Open-Source Builds",
+          "url": "https://securityonline.info/broadcom-truesource-project/"
+        }
+      },
+      {
         "id": 130953,
         "text": "⤷\nTitle:\nDOM XSS in document.write Sink Using location.search - PortSwigger Lab Write-Up\n════════════════════════\n𐀪\nAuthor:\nOm Barot\n════════════════════════\nⴵ\nTime:\nWed, 02 Sep 2026 19:54:02 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ethical_hacking\n#portswigger\n#web_security\n#xs",
         "date": "2026-09-02T20:04:27+00:00",
@@ -2103,185 +2264,22 @@
           "title": "alg:none and Friends — A JWT Hacking Field Guide",
           "url": "https://kd-200.medium.com/alg-none-and-friends-a-jwt-hacking-field-guide-4864f2e1c673?source=rss------bug_bounty_writeup-5"
         }
-      },
-      {
-        "id": 130804,
-        "text": "⤷\nTitle:\n₹4,000 for a 2-Minute Google Search: Publicly Exposed Invoice Leaking Customer PII\n════════════════════════\n𐀪\nAuthor:\nWhoAdnan\n════════════════════════\nⴵ\nTime:\nSun, 30 Aug 2026 06:41:32 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_writeup\n#bug_bounty_hunter\n#bug_bounty_tips\n#bug_bounty",
-        "date": "2026-09-01T22:14:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130804_0_b57676ff.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130804_1_78129841.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130804",
-        "link": {
-          "title": "₹4,000 for a 2-Minute Google Search: Publicly Exposed Invoice Leaking Customer PII",
-          "url": "https://medium.com/@whoadnan01/4-000-for-a-2-minute-google-search-publicly-exposed-invoice-leaking-customer-pii-7365bb80c6ab?source=rss------bug_bounty_writeup-5"
-        }
-      },
-      {
-        "id": 130803,
-        "text": "⤷\nTitle:\nHow to Start Bug Bounty Hunting in 2026: A Complete Beginner’s Guide\n════════════════════════\n𐀪\nAuthor:\nATNO For Cybersecurity | Hacking\n════════════════════════\nⴵ\nTime:\nSun, 30 Aug 2026 23:41:01 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#ethical_hacking\n#cybersecurity\n#bug_bounty_writeup",
-        "date": "2026-09-01T22:14:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130803_0_b57676ff.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130803_1_e274ab89.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130803",
-        "link": {
-          "title": "How to Start Bug Bounty Hunting in 2026: A Complete Beginner’s Guide",
-          "url": "https://medium.com/@atnoforcybersecurity/how-to-start-bug-bounty-hunting-in-2026-a-complete-beginners-guide-d98fd8e894bf?source=rss------bug_bounty_writeup-5"
-        }
-      },
-      {
-        "id": 130802,
-        "text": "⤷\nTitle:\nI Called Myself “Admin” and the Site Let Me\n════════════════════════\n𐀪\nAuthor:\nHunter0x0\n════════════════════════\nⴵ\nTime:\nMon, 31 Aug 2026 07:13:00 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_writeup\n#bug_bounty_tips",
-        "date": "2026-09-01T22:14:51+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130802_0_b57676ff.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130802_1_7fead07c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130802",
-        "link": {
-          "title": "I Called Myself “Admin” and the Site Let Me",
-          "url": "https://hunter0x0.medium.com/i-called-myself-admin-and-the-site-let-me-608cca85c26b?source=rss------bug_bounty_writeup-5"
-        }
-      },
-      {
-        "id": 130801,
-        "text": "⤷\nTitle:\nHow a Simple GraphQL Scope Bypass Led to an Account Takeover ($4,500 Bounty)\n════════════════════════\n𐀪\nAuthor:\nT4nv1\n════════════════════════\nⴵ\nTime:\nMon, 31 Aug 2026 13:41:01 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#security\n#bug_bounty\n#hacking\n#bug_bounty_writeup",
-        "date": "2026-09-01T22:14:47+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130801_0_b57676ff.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130801_1_b929f3e4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130801",
-        "link": {
-          "title": "How a Simple GraphQL Scope Bypass Led to an Account Takeover ($4,500 Bounty)",
-          "url": "https://medium.com/@t4nv1/how-a-simple-graphql-scope-bypass-led-to-an-account-takeover-4-500-bounty-abb6e7f4f1b4?source=rss------bug_bounty_writeup-5"
-        }
-      },
-      {
-        "id": 130800,
-        "text": "⤷\nTitle:\n1 Dangerous Hour: Delayed Role Revocation Bug in JWT Based Systems\n════════════════════════\n𐀪\nAuthor:\nRevalda Haryadaffa Prabaswara\n════════════════════════\nⴵ\nTime:\nMon, 31 Aug 2026 15:41:10 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#bug_bounty_writeup",
-        "date": "2026-09-01T22:14:44+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130800_0_b57676ff.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130800_1_08982952.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130800",
-        "link": {
-          "title": "1 Dangerous Hour: Delayed Role Revocation Bug in JWT Based Systems",
-          "url": "https://medium.com/@prabaswaradaffa2/1-dangerous-hour-delayed-role-revocation-bug-in-jwt-based-systems-56dbaf15a331?source=rss------bug_bounty_writeup-5"
-        }
-      },
-      {
-        "id": 130799,
-        "text": "⤷\nTitle:\nOne Researcher Earned $811,000 Hunting Bugs for Google\n════════════════════════\n𐀪\nAuthor:\nMuhamed Fazal PS\n════════════════════════\nⴵ\nTime:\nTue, 01 Sep 2026 08:10:36 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_hunter\n#hackerone\n#bug_bounty\n#bug_bounty_tips\n#bug_bounty_writeup",
-        "date": "2026-09-01T22:14:41+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130799_0_b57676ff.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130799_1_47ba5b5a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130799",
-        "link": {
-          "title": "One Researcher Earned $811,000 Hunting Bugs for Google",
-          "url": "https://medium.com/@muhamedfazalps7/one-researcher-earned-811-000-hunting-bugs-for-google-21c2c6dcbe11?source=rss------bug_bounty_writeup-5"
-        }
-      },
-      {
-        "id": 130604,
-        "text": "✎\nUnhar - Extract, Unminify, Beautify Javascript files from .Har file\nIn the\nprevious post\n, I explained my approach to capturing and downloading a website’s JavaScript resources into a\n.HAR\nfile for further local analysis. Now, let’s take it a step further with\nunhar\nand process that HAR files.\nunhar\nturns a raw\n.HAR\nfile into a structured set of web assets for local analysis. It extracts unique\nJavaScript and HTML\nresources while preserving the original URL structure, fetches available\nsource maps\n,\nbeautifies/unminifies JavaScript\n, and extracts\ninline scripts\nfrom HTML pages.\nIn short:\nHAR → Extract → Source Maps → Beautify → Ready for Analysis\n●\nInstallation\ngit clone https://github.com/Spix0r/unhar\ncd unhar\n●\nUsage\n# custom output directory\npython3 unhar.py site.har --output folder\n# skip source map fetching\npython3 unhar.py site.har --no-srcmap\n# skip beautify\npython3 unhar.py site.har --no-beautify\n•\nRepository\n:\nGithub\n#bugbounty\n#javascript\n#recon\n©\nT.me/BugBounty_Diary",
-        "date": "2026-08-23T17:27:51+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130604_0_2ac38b51.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130604_1_ac758510.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://github.com/Spix0r/unhar",
-            "type": "github",
-            "display_text": "https://github.com/Spix0r/unhar"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/Daily_Writeups/130604"
       }
     ]
   },
-  "last_update": "2026-09-02T21:12:01.652856+00:00",
+  "last_update": "2026-09-02T23:26:17.032470+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
     "total_media": 191,
     "total_files": 191,
-    "total_links": 1,
+    "total_links": 0,
     "files_by_type": {
       "image": 191
     },
     "referenced_files": 191,
     "existing_media_files": 191,
-    "total_size_mb": 4.6,
-    "last_calculation": "2026-09-02T21:12:01.655173+00:00"
+    "total_size_mb": 4.7,
+    "last_calculation": "2026-09-02T23:26:17.034761+00:00"
   }
 }
