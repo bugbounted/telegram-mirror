@@ -2,6 +2,52 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 130820,
+        "text": "⤷\nTitle:\nHacktheBox Linux Fundamentals: Working with Files and Directories\n════════════════════════\n𐀪\nAuthor:\nSudo Make Me a Hacker   | By Isioma\n════════════════════════\nⴵ\nTime:\nTue, 01 Sep 2026 22:23:15 GMT\n════════════════════════\n⌗\nTags:\n#linux_tutorial\n#hackthebox_writeup\n#hackthebox_walkthrough\n#linux\n#hackthebox",
+        "date": "2026-09-02T00:04:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130820_0_ad177b4c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130820_1_c3b554a5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130820",
+        "link": {
+          "title": "HacktheBox Linux Fundamentals: Working with Files and Directories",
+          "url": "https://medium.com/@isioma.talabi/hackthebox-linux-fundamentals-working-with-files-and-directories-5b71fea778da?source=rss------hackthebox_writeup-5"
+        }
+      },
+      {
+        "id": 130819,
+        "text": "⤷\nTitle:\nYou Can Have Two Factor Authentication and Still Get Hacked\n════════════════════════\n𐀪\nAuthor:\nChandana\n════════════════════════\nⴵ\nTime:\nTue, 01 Sep 2026 22:19:08 GMT\n════════════════════════\n⌗\nTags:\n#privacy\n#hacking\n#artificial_intelligence\n#technology\n#cybersecurity",
+        "date": "2026-09-02T00:03:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130819_0_ad177b4c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130819_1_b342f614.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130819",
+        "link": {
+          "title": "You Can Have Two Factor Authentication and Still Get Hacked",
+          "url": "https://medium.com/the-tech-trek-by-tech-chick/you-can-have-two-factor-authentication-and-still-get-hacked-891856ab5358?source=rss------hacking-5"
+        }
+      },
+      {
         "id": 130818,
         "text": "⤷\nTitle:\nHow an Unsanitized PDF Export Engine Led to Local File Inclusion and a $14,000 Bounty\n════════════════════════\n𐀪\nAuthor:\nT4nv1\n════════════════════════\nⴵ\nTime:\nSat, 29 Aug 2026 13:31:01 GMT\n════════════════════════\n⌗\nTags:\n#security\n#bug_bounty\n#cybersecurity\n#bug_bounty_tips\n#pentesting",
         "date": "2026-09-01T22:15:45+00:00",
@@ -2236,56 +2282,10 @@
           "title": "Cuando el contenido deja rastro: la nueva apuesta de Anthropic por la trazabilidad de la IA",
           "url": "https://medium.com/@TUINSIGNIA/cuando-el-contenido-deja-rastro-la-nueva-apuesta-de-anthropic-por-la-trazabilidad-de-la-ia-ec2ed3b9f505?source=rss------hacking-5"
         }
-      },
-      {
-        "id": 130526,
-        "text": "⤷\nTitle:\nSoupedecode 01 write-up\n════════════════════════\n𐀪\nAuthor:\nAlfredo Neves\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 18:42:39 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#hacking\n#active_directory",
-        "date": "2026-08-19T20:04:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130526_0_b167baf5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130526_1_9942681a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130526",
-        "link": {
-          "title": "Soupedecode 01 write-up",
-          "url": "https://medium.com/@alfredoncdossantos/soupedecode-01-write-up-0d437017506f?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 130525,
-        "text": "⤷\nTitle:\nI Tested the Same Site With Claude Twice. The Focused Prompt Found 5 XSS the Big Prompt Missed.\n════════════════════════\n𐀪\nAuthor:\nAbhishek meena\n════════════════════════\nⴵ\nTime:\nWed, 19 Aug 2026 18:40:28 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#bug_bounty_writeup\n#bug_bounty_tips\n#claude_for_bug_bounty\n#infosec",
-        "date": "2026-08-19T20:04:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130525_0_b167baf5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130525_1_4075ad3f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130525",
-        "link": {
-          "title": "I Tested the Same Site With Claude Twice. The Focused Prompt Found 5 XSS the Big Prompt Missed.",
-          "url": "https://medium.com/@Aacle/i-tested-the-same-site-with-claude-twice-the-focused-prompt-found-5-xss-the-big-prompt-missed-986571a9986d?source=rss------bug_bounty-5"
-        }
       }
     ]
   },
-  "last_update": "2026-09-01T23:29:03.349263+00:00",
+  "last_update": "2026-09-02T01:12:23.922159+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2297,7 +2297,7 @@
     },
     "referenced_files": 196,
     "existing_media_files": 196,
-    "total_size_mb": 5.91,
-    "last_calculation": "2026-09-01T23:29:03.351729+00:00"
+    "total_size_mb": 5.82,
+    "last_calculation": "2026-09-02T01:12:23.924559+00:00"
   }
 }
