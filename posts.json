@@ -2,6 +2,113 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 130965,
+        "text": "⤷\nTitle:\nUncovering a High-Severity Blind SSRF via WordPress XML-RPC\n════════════════════════\n𐀪\nAuthor:\n0x7ipher\n════════════════════════\nⴵ\nTime:\nWed, 02 Sep 2026 22:35:50 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_writeup\n#xmlrpc\n#ssrf\n#web_security\n#vulnerability_writeup",
+        "date": "2026-09-03T00:04:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130965_0_323b12ea.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130965_1_99c0c67d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130965",
+        "link": {
+          "title": "Uncovering a High-Severity Blind SSRF via WordPress XML-RPC",
+          "url": "https://0x7ipher.medium.com/uncovering-a-high-severity-blind-ssrf-via-wordpress-xml-rpc-e2f8638e89b8?source=rss------ssrf-5"
+        }
+      },
+      {
+        "id": 130964,
+        "text": "⤷\nTitle:\nTryhackme | Introdução à Injeção de SQL| WhiteUp | Por Kinho0woned\n════════════════════════\n𐀪\nAuthor:\nKinho0Woned\n════════════════════════\nⴵ\nTime:\nWed, 02 Sep 2026 23:52:20 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#tryhackme\n#ethical_hacking\n#sql_injection\n#cybersecurity",
+        "date": "2026-09-03T00:04:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130964_0_323b12ea.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130964",
+        "link": {
+          "title": "Tryhackme | Introdução à Injeção de SQL| WhiteUp | Por Kinho0woned",
+          "url": "https://medium.com/@Kinho0Woned/tryhackme-introdu%C3%A7%C3%A3o-%C3%A0-inje%C3%A7%C3%A3o-de-sql-whiteup-por-kinho0woned-8b2a65a6eff1?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 130963,
+        "text": "⤷\nTitle:\nEthics, Authorization, and Professional Conduct in Ethical Hacking\n════════════════════════\n𐀪\nAuthor:\nJamshidbek Boynazarov\n════════════════════════\nⴵ\nTime:\nWed, 02 Sep 2026 23:00:24 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#ethical_hacking\n#ethics\n#cybersecurity\n#authorization",
+        "date": "2026-09-03T00:04:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130963_0_323b12ea.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130963_1_e9289239.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130963",
+        "link": {
+          "title": "Ethics, Authorization, and Professional Conduct in Ethical Hacking",
+          "url": "https://jamshidbekboynazarov.medium.com/ethics-authorization-and-professional-conduct-in-ethical-hacking-bc56cbd7e5d2?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 130962,
+        "text": "⤷\nTitle:\nCuando 1,200 agentes encontraron un canal oculto: El enjambre que nadie autorizó\n════════════════════════\n𐀪\nAuthor:\nTU INSIGNIA\n════════════════════════\nⴵ\nTime:\nWed, 02 Sep 2026 23:15:48 GMT\n════════════════════════\n⌗\nTags:\n#agentic_ai\n#ethical_hacking\n#hacking\n#ai_agent\n#ai",
+        "date": "2026-09-03T00:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130962_0_323b12ea.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130962",
+        "link": {
+          "title": "Cuando 1,200 agentes encontraron un canal oculto: El enjambre que nadie autorizó",
+          "url": "https://medium.com/@TUINSIGNIA/cuando-1-200-agentes-encontraron-un-canal-oculto-el-enjambre-que-nadie-autoriz%C3%B3-1bb4829d23c9?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 130961,
+        "text": "⤷\nTitle:\nHow I Discovered One of My Most Creative Bugs in Google’s Gemini AI Competition\n════════════════════════\n𐀪\nAuthor:\nMOAMEN REZK\n════════════════════════\nⴵ\nTime:\nWed, 02 Sep 2026 21:55:38 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#hacking\n#cybersecurity\n#red_team\n#bug_bounty",
+        "date": "2026-09-03T00:03:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130961_0_323b12ea.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_130961_1_e4d67995.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/130961",
+        "link": {
+          "title": "How I Discovered One of My Most Creative Bugs in Google’s Gemini AI Competition",
+          "url": "https://medium.com/@momenrezkk90/how-i-discovered-one-of-my-most-creative-bugs-in-googles-gemini-ai-competition-1e0315b6fef0?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 130960,
         "text": "⤷\nTitle:\nTryHackMe OWASP Juice Shop Walkthrough\n════════════════════════\n𐀪\nAuthor:\nJoanna Adegbile\n════════════════════════\nⴵ\nTime:\nWed, 02 Sep 2026 20:59:00 GMT\n════════════════════════\n⌗\nTags:\n#owasp_juice_shop\n#cybersecurity\n#owasp\n#tryhackme\n#owasp_top_10",
         "date": "2026-09-02T22:04:12+00:00",
@@ -2149,137 +2256,22 @@
           "title": "Finding Sensitive Backend Information Through GraphQL Errors",
           "url": "https://medium.com/@ananya.itims/finding-sensitive-backend-information-through-graphql-errors-72f82ad2c27b?source=rss------bugbounty_writeup-5"
         }
-      },
-      {
-        "id": 130809,
-        "text": "⤷\nTitle:\nWeb Cache Poisoning: One Response, Every Victim\n════════════════════════\n𐀪\nAuthor:\nNitin yadav\n════════════════════════\nⴵ\nTime:\nWed, 26 Aug 2026 11:31:01 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#bugbounty_writeup\n#bug_bounty\n#hacking\n#infosec",
-        "date": "2026-09-01T22:15:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130809_0_b57676ff.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130809_1_f008629f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130809",
-        "link": {
-          "title": "Web Cache Poisoning: One Response, Every Victim",
-          "url": "https://kd-200.medium.com/web-cache-poisoning-one-response-every-victim-63bed1727e1f?source=rss------bugbounty_writeup-5"
-        }
-      },
-      {
-        "id": 130808,
-        "text": "⤷\nTitle:\nThe Interceptor That Fetched Anything: 1-Click Native Takeover in a Capacitor App\n════════════════════════\n𐀪\nAuthor:\nHussein Ayoub\n════════════════════════\nⴵ\nTime:\nMon, 31 Aug 2026 07:24:50 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#bugbounty_writeup\n#android\n#security",
-        "date": "2026-09-01T22:15:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130808_0_b57676ff.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130808_1_2c208c66.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130808",
-        "link": {
-          "title": "The Interceptor That Fetched Anything: 1-Click Native Takeover in a Capacitor App",
-          "url": "https://medium.com/@husein.ayoub/the-interceptor-that-fetched-anything-1-click-native-takeover-in-a-capacitor-app-71d9c0b7c72d?source=rss------bugbounty_writeup-5"
-        }
-      },
-      {
-        "id": 130807,
-        "text": "⤷\nTitle:\nManaging Scan Results in Metasploit\n════════════════════════\n𐀪\nAuthor:\nRyan  Ryan\n════════════════════════\nⴵ\nTime:\nFri, 21 Aug 2026 10:55:32 GMT\n════════════════════════\n⌗\nTags:\n#pentesting\n#penetration_testing\n#recon\n#red_team\n#metasploit",
-        "date": "2026-09-01T22:15:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130807_0_b57676ff.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130807_1_9e3a751c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130807",
-        "link": {
-          "title": "Managing Scan Results in Metasploit",
-          "url": "https://medium.com/fmisec/managing-scan-results-in-metasploit-39f3351d9141?source=rss------recon-5"
-        }
-      },
-      {
-        "id": 130806,
-        "text": "⤷\nTitle:\nThe Subdomain Recon Chain: subfinder → httpx → dnsx\n════════════════════════\n𐀪\nAuthor:\nMuneebahmedkhan\n════════════════════════\nⴵ\nTime:\nSun, 30 Aug 2026 15:25:58 GMT\n════════════════════════\n⌗\nTags:\n#tutorial\n#recon\n#bug_bounty\n#cybersecurity\n#infosec",
-        "date": "2026-09-01T22:15:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130806_0_b57676ff.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130806_1_ccf039d6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130806",
-        "link": {
-          "title": "The Subdomain Recon Chain: subfinder → httpx → dnsx",
-          "url": "https://medium.com/@muneebahmedkhan0903/the-subdomain-recon-chain-subfinder-httpx-dnsx-ac771e3ac04c?source=rss------recon-5"
-        }
-      },
-      {
-        "id": 130805,
-        "text": "⤷\nTitle:\nalg:none and Friends — A JWT Hacking Field Guide\n════════════════════════\n𐀪\nAuthor:\nNitin yadav\n════════════════════════\nⴵ\nTime:\nSat, 29 Aug 2026 11:31:01 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#bug_bounty_tips\n#bug_bounty_writeup\n#infosec\n#bug_bounty",
-        "date": "2026-09-01T22:15:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130805_0_b57676ff.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_130805_1_93034ff7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/130805",
-        "link": {
-          "title": "alg:none and Friends — A JWT Hacking Field Guide",
-          "url": "https://kd-200.medium.com/alg-none-and-friends-a-jwt-hacking-field-guide-4864f2e1c673?source=rss------bug_bounty_writeup-5"
-        }
       }
     ]
   },
-  "last_update": "2026-09-02T23:26:17.032470+00:00",
+  "last_update": "2026-09-03T01:15:49.626559+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 191,
-    "total_files": 191,
+    "total_media": 189,
+    "total_files": 189,
     "total_links": 0,
     "files_by_type": {
-      "image": 191
+      "image": 189
     },
-    "referenced_files": 191,
-    "existing_media_files": 191,
-    "total_size_mb": 4.7,
-    "last_calculation": "2026-09-02T23:26:17.034761+00:00"
+    "referenced_files": 189,
+    "existing_media_files": 189,
+    "total_size_mb": 4.75,
+    "last_calculation": "2026-09-03T01:15:49.627972+00:00"
   }
 }
