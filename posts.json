@@ -2,6 +2,427 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 131180,
+        "text": "⤷\nTitle:\nPurple Team 1: SIEM & CVE-ridden Agent VS. unprivileged insider\n════════════════════════\n𐀪\nAuthor:\nkvern-BIT\n════════════════════════\nⴵ\nTime:\nFri, 04 Sep 2026 16:40:18 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#pentesting\n#lessons_learned\n#cybersecurity\n#technology",
+        "date": "2026-09-04T18:04:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131180_0_e1c21e3c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131180_1_a9f25aa6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131180",
+        "link": {
+          "title": "Purple Team 1: SIEM & CVE-ridden Agent VS. unprivileged insider",
+          "url": "https://medium.com/@antonsebastian1231/purple-team-1-siem-cve-ridden-agent-vs-unprivileged-insider-2b6ed53df3c2?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 131179,
+        "text": "⤷\nTitle:\nPivoting: From Meterpreter to the Internal Network with SOCKS & Proxychains\n════════════════════════\n𐀪\nAuthor:\nMohammed AL-Jilani\n════════════════════════\nⴵ\nTime:\nFri, 04 Sep 2026 17:05:34 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#hacking\n#infosec\n#networking\n#penetration_testing",
+        "date": "2026-09-04T18:04:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131179_0_e1c21e3c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131179_1_1791ae0f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131179",
+        "link": {
+          "title": "Pivoting: From Meterpreter to the Internal Network with SOCKS & Proxychains",
+          "url": "https://medium.com/@0xAbJr/pivoting-from-meterpreter-to-the-internal-network-with-socks-proxychains-fdc15a3877e4?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 131178,
+        "text": "⤷\nTitle:\nBuilding a Practical Windows Threat Detection Lab with Wazuh, Kali Linux, and Ubuntu\n════════════════════════\n𐀪\nAuthor:\nRiad Hossain\n════════════════════════\nⴵ\nTime:\nFri, 04 Sep 2026 17:38:50 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#wazuh\n#hacking\n#blue_team\n#incident_response",
+        "date": "2026-09-04T18:04:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131178_0_e1c21e3c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131178",
+        "link": {
+          "title": "Building a Practical Windows Threat Detection Lab with Wazuh, Kali Linux, and Ubuntu",
+          "url": "https://medium.com/@riadhossaindale/building-a-practical-windows-threat-detection-lab-with-wazuh-kali-linux-and-ubuntu-8048403b390e?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 131177,
+        "text": "⤷\nTitle:\nPentestCode: The Multi-Agent AI That Automates Penetration Testing\n════════════════════════\n𐀪\nAuthor:\nPentester Club\n════════════════════════\nⴵ\nTime:\nFri, 04 Sep 2026 16:53:41 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#artificial_intelligence\n#bug_bounty\n#web_development\n#ai",
+        "date": "2026-09-04T18:04:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131177_0_e1c21e3c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131177_1_7dec73ab.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131177",
+        "link": {
+          "title": "PentestCode: The Multi-Agent AI That Automates Penetration Testing",
+          "url": "https://medium.com/@pentesterclubpvtltd/pentestcode-the-multi-agent-ai-that-automates-penetration-testing-8223a8e73446?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 131176,
+        "text": "⤷\nTitle:\nCVE-2026-75754 (CVSS 10): ASUS Control Center Root RCE\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 04 Sep 2026 17:11:45 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#ASUS\n#ASUS\nControl Center\n#CVE_2026_75754\n#hardcoded\ncredentials\n#Remote\nCode Execution\n#ssrf",
+        "date": "2026-09-04T18:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131176_0_e1c21e3c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131176_1_6401e98c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131176",
+        "link": {
+          "title": "CVE-2026-75754 (CVSS 10): ASUS Control Center Root RCE",
+          "url": "https://securityonline.info/asus-control-center-cve-2026-75754/"
+        }
+      },
+      {
+        "id": 131175,
+        "text": "⤷\nTitle:\nPostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nFri, 04 Sep 2026 20:50:19 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-09-04T18:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131175_0_e1c21e3c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131175",
+        "link": {
+          "title": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution",
+          "url": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html"
+        }
+      },
+      {
+        "id": 131174,
+        "text": "⤷\nTitle:\nPhishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nFri, 04 Sep 2026 21:27:15 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-09-04T18:03:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131174_0_e1c21e3c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131174",
+        "link": {
+          "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
+          "url": "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html"
+        }
+      },
+      {
+        "id": 131173,
+        "text": "⤷\nTitle:\nCyber Security Hyderabad: A Practical Guide to Building a Career in Cybersecurity\n════════════════════════\n𐀪\nAuthor:\nShalaka Fcmedia\n════════════════════════\nⴵ\nTime:\nFri, 04 Sep 2026 14:33:31 GMT\n════════════════════════\n⌗\nTags:\n#network_security\n#it_career\n#cybersecurity_careers\n#ethical_hacking\n#cybersecurity",
+        "date": "2026-09-04T16:04:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131173_0_e1c21e3c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131173_1_84a92293.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131173",
+        "link": {
+          "title": "Cyber Security Hyderabad: A Practical Guide to Building a Career in Cybersecurity",
+          "url": "https://medium.com/@shalaka.fcmedia/cyber-security-hyderabad-a-practical-guide-to-building-a-career-in-cybersecurity-bf07c336bec2?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 131172,
+        "text": "⤷\nTitle:\nWhere to Learn Cybersecurity in Lagos: A Complete Guide\n════════════════════════\n𐀪\nAuthor:\nAjayi\n════════════════════════\nⴵ\nTime:\nFri, 04 Sep 2026 14:43:54 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ai\n#ethical_hacking",
+        "date": "2026-09-04T16:04:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131172_0_e1c21e3c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131172_1_76e5cfe4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131172",
+        "link": {
+          "title": "Where to Learn Cybersecurity in Lagos: A Complete Guide",
+          "url": "https://medium.com/@ajayiomowunmi63/where-to-learn-cybersecurity-in-lagos-a-complete-guide-cb909662d64b?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 131171,
+        "text": "⤷\nTitle:\nPhishing Analysis Fundamentals Trymehack\n════════════════════════\n𐀪\nAuthor:\nHimanshu\n════════════════════════\nⴵ\nTime:\nFri, 04 Sep 2026 14:20:14 GMT\n════════════════════════\n⌗\nTags:\n#phishing\n#tryhackme\n#tryhackme_walkthrough",
+        "date": "2026-09-04T16:04:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131171_0_e1c21e3c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131171_1_0333413a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131171",
+        "link": {
+          "title": "Phishing Analysis Fundamentals Trymehack",
+          "url": "https://medium.com/@himanshu894801/phishing-analysis-fundamentals-trymehack-6167d450339f?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 131170,
+        "text": "⤷\nTitle:\nWhy Your Vulnerability Scanner Keeps Crying Wolf\n════════════════════════\n𐀪\nAuthor:\nDedcellsec\n════════════════════════\nⴵ\nTime:\nFri, 04 Sep 2026 14:48:49 GMT\n════════════════════════\n⌗\nTags:\n#devsecops\n#cybersecurity\n#penetration_testing",
+        "date": "2026-09-04T16:04:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131170_0_e1c21e3c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131170_1_98ec08a1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131170",
+        "link": {
+          "title": "Why Your Vulnerability Scanner Keeps Crying Wolf",
+          "url": "https://medium.com/@dedcellsec/why-your-vulnerability-scanner-keeps-crying-wolf-bea6a9b9956f?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 131169,
+        "text": "⤷\nTitle:\nCPTS Path & Exam Review\n════════════════════════\n𐀪\nAuthor:\nAnnassir Mussin\n════════════════════════\nⴵ\nTime:\nFri, 04 Sep 2026 14:57:01 GMT\n════════════════════════\n⌗\nTags:\n#hackthebox\n#penetration_testing\n#cpt",
+        "date": "2026-09-04T16:04:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131169_0_e1c21e3c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131169_1_36d20511.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131169",
+        "link": {
+          "title": "CPTS Path & Exam Review",
+          "url": "https://medium.com/@annassirmus/cpts-path-exam-review-a102a4ab79d1?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 131168,
+        "text": "⤷\nTitle:\nTokyo Ghoul (THM) Tryhackme Walkthrough\n════════════════════════\n𐀪\nAuthor:\nLawvye\n════════════════════════\nⴵ\nTime:\nFri, 04 Sep 2026 14:05:40 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#hacking\n#linux\n#tryhackme\n#privilege_escalation",
+        "date": "2026-09-04T16:04:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131168_0_e1c21e3c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131168_1_0e746496.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131168",
+        "link": {
+          "title": "Tokyo Ghoul (THM) Tryhackme Walkthrough",
+          "url": "https://medium.com/@lawvye/tokyo-ghoul-thm-tryhackme-walkthrough-147c90134d6e?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 131167,
+        "text": "⤷\nTitle:\nThe Hacker Didn’t Attack the Company. He Convinced Its AI to Help\n════════════════════════\n𐀪\nAuthor:\nNoel\n════════════════════════\nⴵ\nTime:\nFri, 04 Sep 2026 14:34:14 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#technology\n#artificial_intelligence\n#hacking\n#ai_security",
+        "date": "2026-09-04T16:04:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131167_0_e1c21e3c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131167_1_d9b19569.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131167",
+        "link": {
+          "title": "The Hacker Didn’t Attack the Company. He Convinced Its AI to Help",
+          "url": "https://cybersecuritywriteups.com/the-hacker-didnt-attack-the-company-he-convinced-its-ai-to-help-16a8af26253f?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 131166,
+        "text": "⤷\nTitle:\nYou Need to Switch to Linux Right Now!\n════════════════════════\n𐀪\nAuthor:\nShahzaib\n════════════════════════\nⴵ\nTime:\nFri, 04 Sep 2026 15:02:19 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#technology\n#cybersecurity\n#omarchy\n#tech",
+        "date": "2026-09-04T16:04:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131166_0_e1c21e3c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131166_1_168153be.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131166",
+        "link": {
+          "title": "You Need to Switch to Linux Right Now!",
+          "url": "https://levelup.gitconnected.com/you-need-to-switch-to-linux-right-now-1a88d1b34bc9?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 131165,
+        "text": "⤷\nTitle:\nSwitchvox CVE-2026-9586: Unauthenticated SQL Injection Leads to RCE, Exploited in the Wild\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nFri, 04 Sep 2026 14:15:33 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\n#CVE_2026_9586\n#Horizon3\n#PostgreSQL\n#remote\ncode execution\n#Sangoma\n#SQL\ninjection\n#Switchvox\n#VoIP\nsecurity",
+        "date": "2026-09-04T16:04:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131165_0_e1c21e3c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131165_1_103da968.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131165",
+        "link": {
+          "title": "Switchvox CVE-2026-9586: Unauthenticated SQL Injection Leads to RCE, Exploited in the Wild",
+          "url": "https://meterpreter.org/switchvox-cve-2026-9586-rce/"
+        }
+      },
+      {
+        "id": 131164,
+        "text": "⤷\nTitle:\nRussian National Charged Over Freelance Platform Malware Campaign Targeting 80,000 Users\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nFri, 04 Sep 2026 14:36:23 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#cybercrime\n#DarkVNC\n#DOJ\nindictment\n#extradition\n#freelance\nplatform malware\n#Remote\nAccess Trojan\n#TeamViewer\n#TVRAT",
+        "date": "2026-09-04T16:03:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131164_0_e1c21e3c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131164_1_8b8cdfa5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131164",
+        "link": {
+          "title": "Russian National Charged Over Freelance Platform Malware Campaign Targeting 80,000 Users",
+          "url": "https://meterpreter.org/freelance-platform-malware-indictment/"
+        }
+      },
+      {
+        "id": 131163,
+        "text": "⤷\nTitle:\nTeams Phishing Targets Enterprise Access\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nFri, 04 Sep 2026 15:00:27 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#cybersecurity\n#Infosec\n#malware\n#Microsoft\nTeams\n#phishing",
+        "date": "2026-09-04T16:03:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131163_0_e1c21e3c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131163_1_b89870a2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131163",
+        "link": {
+          "title": "Teams Phishing Targets Enterprise Access",
+          "url": "https://meterpreter.org/microsoft-teams-phishing-remote-access-enterprise-compromise/"
+        }
+      },
+      {
+        "id": 131162,
+        "text": "⤷\nTitle:\nNew Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nFri, 04 Sep 2026 20:21:13 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-09-04T16:03:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131162_0_e1c21e3c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131162",
+        "link": {
+          "title": "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic",
+          "url": "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html"
+        }
+      },
+      {
         "id": 131161,
         "text": "⤷\nTitle:\nStart Your Cybersecurity Career with the Best Online Ethical Hacking Course\n════════════════════════\n𐀪\nAuthor:\ncybersecuritycourse\n════════════════════════\nⴵ\nTime:\nFri, 04 Sep 2026 12:08:04 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ai\n#education\n#cyber_security_awareness\n#ethical_hacking",
         "date": "2026-09-04T14:04:56+00:00",
@@ -1831,435 +2252,22 @@
           "title": "Hack The Box:MODULE 06 — JAVA SCRIPT DEOBFUSCATION",
           "url": "https://medium.com/@hassancheema0303/hack-the-box-module-06-java-script-deobfuscation-ea5c3569e9e9?source=rss------hackthebox_writeup-5"
         }
-      },
-      {
-        "id": 131066,
-        "text": "⤷\nTitle:\nTryHackMe Agent P | wp2shell | Python pickle | C2 | Overflow The Jackpot CTF | 2026\n════════════════════════\n𐀪\nAuthor:\nSushma\n════════════════════════\nⴵ\nTime:\nThu, 03 Sep 2026 16:28:39 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_walkthrough\n#cybersecurity\n#tryhackme\n#cyber_security_awareness\n#ctf",
-        "date": "2026-09-03T18:04:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131066_0_323b12ea.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131066",
-        "link": {
-          "title": "TryHackMe Agent P | wp2shell | Python pickle | C2 | Overflow The Jackpot CTF | 2026",
-          "url": "https://medium.com/@sushmaaragidda/tryhackme-agent-p-wp2shell-python-pickle-c2-overflow-the-jackpot-ctf-2026-d26d6a766836?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 131065,
-        "text": "⤷\nTitle:\nThe Ransomware Crew Holding Your Files Has No Reputation to Protect\n════════════════════════\n𐀪\nAuthor:\nS6 Tech\n════════════════════════\nⴵ\nTime:\nThu, 03 Sep 2026 17:01:02 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#infosec\n#cyber_security_awareness\n#ransomware_attack\n#small_business",
-        "date": "2026-09-03T18:04:45+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131065_0_323b12ea.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131065_1_2bf0a925.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131065",
-        "link": {
-          "title": "The Ransomware Crew Holding Your Files Has No Reputation to Protect",
-          "url": "https://medium.com/@s6techllc/the-ransomware-crew-holding-your-files-has-no-reputation-to-protect-610230dbaa4c?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 131064,
-        "text": "⤷\nTitle:\nA Redis RDP Port Heist: Every Hacker Should Know This\n════════════════════════\n𐀪\nAuthor:\nPRiTi.EX\n════════════════════════\nⴵ\nTime:\nThu, 03 Sep 2026 16:22:32 GMT\n════════════════════════\n⌗\nTags:\n#redis\n#redis_cli\n#hacking",
-        "date": "2026-09-03T18:04:41+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131064_0_323b12ea.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131064_1_98a4f625.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131064",
-        "link": {
-          "title": "A Redis RDP Port Heist: Every Hacker Should Know This",
-          "url": "https://medium.com/@pritiranjanmohanta6371/a-redis-rdp-port-heist-every-hacker-should-know-this-be8d6ba2a8a3?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 131063,
-        "text": "⤷\nTitle:\nReverse Shells Are Backwards On Purpose\n════════════════════════\n𐀪\nAuthor:\nAwaisavd\n════════════════════════\nⴵ\nTime:\nThu, 03 Sep 2026 16:34:26 GMT\n════════════════════════\n⌗\nTags:\n#reverse_shell\n#technology\n#cybersecurity\n#hacking",
-        "date": "2026-09-03T18:04:37+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131063_0_323b12ea.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131063_1_8b205b87.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131063",
-        "link": {
-          "title": "Reverse Shells Are Backwards On Purpose",
-          "url": "https://medium.com/@awaisavd1/reverse-shells-are-backwards-on-purpose-7aee8ef2e75a?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 131062,
-        "text": "⤷\nTitle:\nHow OpenCode Almost Lost $400,000 to a Deepfake CEO Scam\n════════════════════════\n𐀪\nAuthor:\nEzekiel Njuguna\n════════════════════════\nⴵ\nTime:\nThu, 03 Sep 2026 16:52:19 GMT\n════════════════════════\n⌗\nTags:\n#software_development\n#programming\n#hacking\n#artificial_intelligence\n#technology",
-        "date": "2026-09-03T18:04:34+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131062_0_323b12ea.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131062_1_b606066c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131062",
-        "link": {
-          "title": "How OpenCode Almost Lost $400,000 to a Deepfake CEO Scam",
-          "url": "https://ezzekielnjuguna.medium.com/how-opencode-almost-lost-400-000-to-a-deepfake-ceo-scam-a127d4c8de49?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 131061,
-        "text": "⤷\nTitle:\nSpectre en la nube: cómo se filtró un JWT entre Cloudflare Workers\n════════════════════════\n𐀪\nAuthor:\nTU INSIGNIA\n════════════════════════\nⴵ\nTime:\nThu, 03 Sep 2026 17:05:21 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#ai_agent\n#generative_ai_tools\n#ethical_hacking\n#ai",
-        "date": "2026-09-03T18:04:30+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131061_0_323b12ea.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131061",
-        "link": {
-          "title": "Spectre en la nube: cómo se filtró un JWT entre Cloudflare Workers",
-          "url": "https://medium.com/@TUINSIGNIA/spectre-en-la-nube-c%C3%B3mo-se-filtr%C3%B3-un-jwt-entre-cloudflare-workers-31e395e1d70b?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 131060,
-        "text": "⤷\nTitle:\nLLM, RAG, MCP y agentes de IA: una guía sencilla para entender cómo trabajan juntos\n════════════════════════\n𐀪\nAuthor:\nAdrian Romanov\n════════════════════════\nⴵ\nTime:\nThu, 03 Sep 2026 17:54:26 GMT\n════════════════════════\n⌗\nTags:\n#generative_ai_tools\n#ethical_hacking\n#ai_agent\n#ai\n#hacking",
-        "date": "2026-09-03T18:04:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131060_0_323b12ea.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131060",
-        "link": {
-          "title": "LLM, RAG, MCP y agentes de IA: una guía sencilla para entender cómo trabajan juntos",
-          "url": "https://ingoroman.medium.com/llm-rag-mcp-y-agentes-de-ia-una-gu%C3%ADa-sencilla-para-entender-c%C3%B3mo-trabajan-juntos-edee12d257ab?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 131059,
-        "text": "⤷\nTitle:\nIDOR to BOLA — Mastering Authorization Bugs in Bug Bounty\n════════════════════════\n𐀪\nAuthor:\nmahfujwhh\n════════════════════════\nⴵ\nTime:\nThu, 03 Sep 2026 16:12:59 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty",
-        "date": "2026-09-03T18:04:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131059_0_323b12ea.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131059_1_268a01c8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131059",
-        "link": {
-          "title": "IDOR to BOLA — Mastering Authorization Bugs in Bug Bounty",
-          "url": "https://mahfujwhh.medium.com/idor-to-bola-mastering-authorization-bugs-in-bug-bounty-d04cbddf8cf8?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 131058,
-        "text": "⤷\nTitle:\nCVE-2026-80714 (CVSS 9.8): Linux Root Escalation PoC Out\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 03 Sep 2026 13:02:35 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_80714\n#IPVS\n#Linux\nKernel\n#privilege\nescalation\n#use\nafter free",
-        "date": "2026-09-03T18:04:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131058_0_323b12ea.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131058_1_df5da08b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131058",
-        "link": {
-          "title": "CVE-2026-80714 (CVSS 9.8): Linux Root Escalation PoC Out",
-          "url": "https://securityonline.info/linux-kernel-cve-2026-80714-root-escalation/"
-        }
-      },
-      {
-        "id": 131057,
-        "text": "⤷\nTitle:\nCisco Secure Email S/MIME Flaws Publicly Disclosed\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 03 Sep 2026 13:30:32 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#cisco\n#Cisco\nIP Phone\n#Cisco\nSecure Email\n#CVE_2026_20354\n#Denial\nof Service\n#S\n/MIME",
-        "date": "2026-09-03T18:04:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131057_0_323b12ea.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131057_1_31a77f03.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131057",
-        "link": {
-          "title": "Cisco Secure Email S/MIME Flaws Publicly Disclosed",
-          "url": "https://securityonline.info/cisco-secure-email-smime-phone-dos-disclosed/"
-        }
-      },
-      {
-        "id": 131056,
-        "text": "⤷\nTitle:\nFewer attacks, more force: Link11’s European Cyber Report finds new DDoS records for the first half of 2026\n════════════════════════\n𐀪\nAuthor:\ncybernewswire\n════════════════════════\nⴵ\nTime:\nThu, 03 Sep 2026 15:12:11 +0000\n════════════════════════\n⌗\nTags:\n#Press\nRelease",
-        "date": "2026-09-03T18:04:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131056_0_323b12ea.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131056_1_f249948e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131056",
-        "link": {
-          "title": "Fewer attacks, more force: Link11’s European Cyber Report finds new DDoS records for the first half of 2026",
-          "url": "https://securityonline.info/fewer-attacks-more-force-link11s-european-cyber-report-finds-new-ddos-records-for-the-first-half-of-2026/"
-        }
-      },
-      {
-        "id": 131055,
-        "text": "⤷\nTitle:\nThomson Reuters Court Software Breach May Have Exposed SSNs and Sealed Data\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nThu, 03 Sep 2026 20:09:05 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-09-03T18:04:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131055_0_323b12ea.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131055",
-        "link": {
-          "title": "Thomson Reuters Court Software Breach May Have Exposed SSNs and Sealed Data",
-          "url": "https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html"
-        }
-      },
-      {
-        "id": 131054,
-        "text": "⤷\nTitle:\nBraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nThu, 03 Sep 2026 20:56:47 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-09-03T18:04:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131054_0_323b12ea.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131054",
-        "link": {
-          "title": "BraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory",
-          "url": "https://thehackernews.com/2026/09/brazetsu-malware-turns-compromised.html"
-        }
-      },
-      {
-        "id": 131053,
-        "text": "⤷\nTitle:\nCritical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nThu, 03 Sep 2026 21:22:07 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-09-03T18:03:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131053_0_323b12ea.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131053",
-        "link": {
-          "title": "Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root",
-          "url": "https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html"
-        }
-      },
-      {
-        "id": 131052,
-        "text": "⤷\nTitle:\n10 Free Cybersecurity Labs You Can Build This Weekend\n════════════════════════\n𐀪\nAuthor:\nMunaza Cyber\n════════════════════════\nⴵ\nTime:\nThu, 03 Sep 2026 15:13:00 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ethical_hacking\n#wireshark\n#tech\n#careers",
-        "date": "2026-09-03T16:04:48+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131052_0_323b12ea.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131052_1_cefdff71.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131052",
-        "link": {
-          "title": "10 Free Cybersecurity Labs You Can Build This Weekend",
-          "url": "https://medium.com/@munnaza.cyber/10-free-cybersecurity-labs-you-can-build-this-weekend-e72d69bf960a?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 131051,
-        "text": "⤷\nTitle:\nHow I Accidentally Got Full Database Access to The Burner Club (CVSS 9.8)\n════════════════════════\n𐀪\nAuthor:\nAniket Jadhav\n════════════════════════\nⴵ\nTime:\nThu, 03 Sep 2026 15:35:41 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_cybersecurity\n#cybersecurity\n#ethical_hacking\n#web_security\n#sql_injection",
-        "date": "2026-09-03T16:04:44+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131051_0_323b12ea.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131051_1_310ec3ed.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131051",
-        "link": {
-          "title": "How I Accidentally Got Full Database Access to The Burner Club (CVSS 9.8)",
-          "url": "https://medium.com/@aniketjadhav1900/how-i-accidentally-got-full-database-access-to-the-burner-club-cvss-9-8-dbb4d9582ab9?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 131050,
-        "text": "⤷\nTitle:\nFile Upload Vulnerabilities\n════════════════════════\n𐀪\nAuthor:\nYusufbarut\n════════════════════════\nⴵ\nTime:\nThu, 03 Sep 2026 13:56:30 GMT\n════════════════════════\n⌗\nTags:\n#owasp_top_10\n#penetration_testing\n#cybersecurity\n#web_security\n#file_upload",
-        "date": "2026-09-03T16:04:41+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131050_0_323b12ea.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131050_1_dc88565b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131050",
-        "link": {
-          "title": "File Upload Vulnerabilities",
-          "url": "https://medium.com/@yusufbarut210/file-upload-vulnerabilities-f0b958700c8c?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 131049,
-        "text": "⤷\nTitle:\nLearning API Security Through Hands-On Penetration Testing\n════════════════════════\n𐀪\nAuthor:\nBismaali\n════════════════════════\nⴵ\nTime:\nThu, 03 Sep 2026 14:50:18 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#api_security_testing\n#information_security\n#cybersecurity",
-        "date": "2026-09-03T16:04:37+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131049_0_323b12ea.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131049_1_7f30d9f3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131049",
-        "link": {
-          "title": "Learning API Security Through Hands-On Penetration Testing",
-          "url": "https://medium.com/@bismaali674/learning-api-security-through-hands-on-penetration-testing-01bf4f77971d?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 131048,
-        "text": "⤷\nTitle:\nWhat Actually Helped Me Pass OSCP+\n════════════════════════\n𐀪\nAuthor:\nSaijalpreet Kaur\n════════════════════════\nⴵ\nTime:\nThu, 03 Sep 2026 14:44:02 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#infosec\n#oscp\n#ethical_hacking\n#penetration_testing",
-        "date": "2026-09-03T16:04:34+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131048_0_323b12ea.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131048_1_ffc7a32d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131048",
-        "link": {
-          "title": "What Actually Helped Me Pass OSCP+",
-          "url": "https://medium.com/@workwithsaijal/what-actually-helped-me-pass-oscp-6a31fb3844e0?source=rss------infosec-5"
-        }
       }
     ]
   },
-  "last_update": "2026-09-04T15:16:13.855265+00:00",
+  "last_update": "2026-09-04T18:31:51.938036+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 186,
-    "total_files": 186,
+    "total_media": 188,
+    "total_files": 188,
     "total_links": 0,
     "files_by_type": {
-      "image": 186
+      "image": 188
     },
-    "referenced_files": 186,
-    "existing_media_files": 186,
-    "total_size_mb": 5.01,
-    "last_calculation": "2026-09-04T15:16:13.857548+00:00"
+    "referenced_files": 188,
+    "existing_media_files": 188,
+    "total_size_mb": 4.95,
+    "last_calculation": "2026-09-04T18:31:51.939770+00:00"
   }
 }
