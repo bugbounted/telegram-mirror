@@ -2,6 +2,293 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 131246,
+        "text": "⤷\nTitle:\nExploiting CSRF to Change a User’s Password - bWAPP Lab\n════════════════════════\n𐀪\nAuthor:\nOm Barot\n════════════════════════\nⴵ\nTime:\nSat, 05 Sep 2026 14:09:58 GMT\n════════════════════════\n⌗\nTags:\n#web_security\n#ethical_hacking\n#bwapp\n#csrf\n#cybersecurity",
+        "date": "2026-09-05T16:04:31+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131246_0_7a098efe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131246_1_6af827bf.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131246",
+        "link": {
+          "title": "Exploiting CSRF to Change a User’s Password - bWAPP Lab",
+          "url": "https://medium.com/@llombarotll/exploiting-csrf-to-change-a-users-password-bwapp-lab-142b8e40cd13?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 131245,
+        "text": "⤷\nTitle:\nFrom Qualys Finding to Vulnerability Remediation: A Practical Enterprise Security Workflow\n════════════════════════\n𐀪\nAuthor:\nRahul\n════════════════════════\nⴵ\nTime:\nSat, 05 Sep 2026 15:53:31 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ethical_hacking\n#vulnerability_management\n#vulnerability",
+        "date": "2026-09-05T16:04:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131245_0_7a098efe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131245_1_9ca08e66.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131245",
+        "link": {
+          "title": "From Qualys Finding to Vulnerability Remediation: A Practical Enterprise Security Workflow",
+          "url": "https://medium.com/@rahultandale024/from-qualys-finding-to-vulnerability-remediation-a-practical-enterprise-security-workflow-12b27d048496?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 131244,
+        "text": "⤷\nTitle:\nThe Windows Basics You Skipped\n════════════════════════\n𐀪\nAuthor:\nHadeer Amr\n════════════════════════\nⴵ\nTime:\nSat, 05 Sep 2026 13:54:37 GMT\n════════════════════════\n⌗\nTags:\n#network_penetration_test\n#windows\n#ecpptv3\n#penetration_testing\n#privilege_escalation",
+        "date": "2026-09-05T16:04:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131244_0_7a098efe.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131244",
+        "link": {
+          "title": "The Windows Basics You Skipped",
+          "url": "https://medium.com/@hadir3mr/the-windows-basics-you-skipped-4effa10606c5?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 131243,
+        "text": "⤷\nTitle:\nUSB Vendor-Specific Requests: What Happens Beyond the Standard Protocol?\n════════════════════════\n𐀪\nAuthor:\nGnanamanikandan\n════════════════════════\nⴵ\nTime:\nSat, 05 Sep 2026 14:23:11 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#embedded_systems\n#penetration_testing\n#internet_of_things\n#information_security",
+        "date": "2026-09-05T16:04:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131243_0_7a098efe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131243_1_45acc273.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131243",
+        "link": {
+          "title": "USB Vendor-Specific Requests: What Happens Beyond the Standard Protocol?",
+          "url": "https://medium.com/@Gnanamanikandan/usb-vendor-specific-requests-what-happens-beyond-the-standard-protocol-bf7fff481ad5?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 131242,
+        "text": "⤷\nTitle:\nUSB Fuzzing Isn’t Random: Change One Field and Watch What Breaks\n════════════════════════\n𐀪\nAuthor:\nGnanamanikandan\n════════════════════════\nⴵ\nTime:\nSat, 05 Sep 2026 14:23:45 GMT\n════════════════════════\n⌗\nTags:\n#embedded_systems\n#internet_of_things\n#penetration_testing\n#cybersecurity\n#information_security",
+        "date": "2026-09-05T16:04:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131242_0_7a098efe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131242_1_93ad048e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131242",
+        "link": {
+          "title": "USB Fuzzing Isn’t Random: Change One Field and Watch What Breaks",
+          "url": "https://medium.com/@Gnanamanikandan/usb-fuzzing-isnt-random-change-one-field-and-watch-what-breaks-1dcb428ffc6c?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 131241,
+        "text": "⤷\nTitle:\nReframing Quality: Cursor + Playwright + OWASP ZAP + MCP — What If QA is Asked to Own Security…\n════════════════════════\n𐀪\nAuthor:\nFerawati Hartanti Pratiwi\n════════════════════════\nⴵ\nTime:\nSat, 05 Sep 2026 15:06:49 GMT\n════════════════════════\n⌗\nTags:\n#personal_development\n#quality_assurance\n#security\n#playwrights\n#penetration_testing",
+        "date": "2026-09-05T16:04:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131241_0_7a098efe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131241_1_787955b7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131241",
+        "link": {
+          "title": "Reframing Quality: Cursor + Playwright + OWASP ZAP + MCP — What If QA is Asked to Own Security…",
+          "url": "https://mpermperpisang.medium.com/reframing-quality-cursor-playwright-owasp-zap-mcp-what-if-qa-is-asked-to-own-security-595b0aac81d4?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 131240,
+        "text": "⤷\nTitle:\nInternal OSINT: Post-Compromise Reconnaissance Beyond BloodHound\n════════════════════════\n𐀪\nAuthor:\nDzianis Skliar\n════════════════════════\nⴵ\nTime:\nSat, 05 Sep 2026 15:40:26 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#osint\n#cybersecurity\n#ethical_hacking\n#red_team",
+        "date": "2026-09-05T16:04:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131240_0_7a098efe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131240_1_e3ebe669.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131240",
+        "link": {
+          "title": "Internal OSINT: Post-Compromise Reconnaissance Beyond BloodHound",
+          "url": "https://medium.com/@dzianisskliar29/internal-osint-post-compromise-reconnaissance-beyond-bloodhound-ea8b4d4f594f?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 131239,
+        "text": "⤷\nTitle:\nThe Market Place (THM) Tryhackme Walkthrough\n════════════════════════\n𐀪\nAuthor:\nLawvye\n════════════════════════\nⴵ\nTime:\nSat, 05 Sep 2026 13:56:48 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#hacking\n#privilege_escalation\n#linux\n#cybersecurity",
+        "date": "2026-09-05T16:04:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131239_0_7a098efe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131239_1_82e691a2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131239",
+        "link": {
+          "title": "The Market Place (THM) Tryhackme Walkthrough",
+          "url": "https://medium.com/@lawvye/the-market-place-thm-tryhackme-walkthrough-60986b600b29?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 131238,
+        "text": "⤷\nTitle:\nOS Command Injection in ip link show via Unsanitized param Argument\n════════════════════════\n𐀪\nAuthor:\nYassin Hamada\n════════════════════════\nⴵ\nTime:\nSat, 05 Sep 2026 14:07:18 GMT\n════════════════════════\n⌗\nTags:\n#cve\n#infosec\n#bug_bounty\n#cybersecurity\n#artificial_intelligence",
+        "date": "2026-09-05T16:04:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131238_0_7a098efe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131238_1_233ab587.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131238",
+        "link": {
+          "title": "OS Command Injection in ip link show via Unsanitized param Argument",
+          "url": "https://medium.com/@yassin_hamada/os-command-injection-in-ip-link-show-via-unsanitized-param-argument-d5cd35a69799?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 131237,
+        "text": "⤷\nTitle:\n️ 6 IDORs, 1 Root Cause: The “Duplicate” Saga of a FinTech API\n════════════════════════\n𐀪\nAuthor:\n0x_specter\n════════════════════════\nⴵ\nTime:\nSat, 05 Sep 2026 14:26:41 GMT\n════════════════════════\n⌗\nTags:\n#idor\n#bug_bounty\n#fintech\n#broken_access_control\n#cybersecurity",
+        "date": "2026-09-05T16:04:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131237_0_7a098efe.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131237",
+        "link": {
+          "title": "️ 6 IDORs, 1 Root Cause: The “Duplicate” Saga of a FinTech API",
+          "url": "https://medium.com/@samym6624/%EF%B8%8F-6-idors-1-root-cause-the-duplicate-saga-of-a-fintech-api-1333d4ad9522?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 131236,
+        "text": "⤷\nTitle:\nGPT-6 Astra Scores 100% on ExploitBench — The AI Cybersecurity Arms Race Has Entered a New Era\n════════════════════════\n𐀪\nAuthor:\nPentester Club\n════════════════════════\nⴵ\nTime:\nSat, 05 Sep 2026 15:11:11 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#web_development\n#artificial_intelligence\n#bug_bounty\n#ai",
+        "date": "2026-09-05T16:03:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131236_0_7a098efe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131236_1_066f67e4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131236",
+        "link": {
+          "title": "GPT-6 Astra Scores 100% on ExploitBench — The AI Cybersecurity Arms Race Has Entered a New Era",
+          "url": "https://medium.com/@pentesterclubpvtltd/gpt-6-astra-scores-100-on-exploitbench-the-ai-cybersecurity-arms-race-has-entered-a-new-era-7bce30ee0756?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 131235,
+        "text": "⤷\nTitle:\nCoder Registry Attack: Hijacked Cloudflare Pool Served Malicious Terraform Modules\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nSat, 05 Sep 2026 15:45:11 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#cloudflare\n#Coder\n#Credential\nTheft\n#DevOps\nSecurity\n#registry\n.coder.com\n#secret\nstealer\n#supply\nchain attack\n#terraform",
+        "date": "2026-09-05T16:03:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131235_0_7a098efe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131235_1_6f1d17d0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131235",
+        "link": {
+          "title": "Coder Registry Attack: Hijacked Cloudflare Pool Served Malicious Terraform Modules",
+          "url": "https://securityonline.info/coder-registry-supply-chain-attack/"
+        }
+      },
+      {
+        "id": 131234,
+        "text": "⤷\nTitle:\nTrezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nSat, 05 Sep 2026 19:47:02 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-09-05T16:03:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131234_0_7a098efe.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131234",
+        "link": {
+          "title": "Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted",
+          "url": "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html"
+        }
+      },
+      {
         "id": 131233,
         "text": "⤷\nTitle:\nTrusted By Default — splunk\n════════════════════════\n𐀪\nAuthor:\nJose Praveen\n════════════════════════\nⴵ\nTime:\nSat, 05 Sep 2026 12:46:32 GMT\n════════════════════════\n⌗\nTags:\n#security_operation_center\n#splunk\n#tryhackme_writeup\n#tryhackme",
         "date": "2026-09-05T14:04:12+00:00",
@@ -1945,321 +2232,22 @@
           "title": "The Gentlemen Ransomware Deploys in Under 24 Hours",
           "url": "https://securityonline.info/the-gentlemen-ransomware/"
         }
-      },
-      {
-        "id": 131146,
-        "text": "⤷\nTitle:\nWhite House Launches Project Watershed 250\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nFri, 04 Sep 2026 12:00:29 +0000\n════════════════════════\n⌗\nTags:\n#Cyber\nSecurity\n#Critical\nInfrastructure\n#cybersecurity\n#Infosec\n#Project\nWatershed\n#Water\nSecurity",
-        "date": "2026-09-04T14:04:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131146_0_e1c21e3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131146_1_1b7dbd2c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131146",
-        "link": {
-          "title": "White House Launches Project Watershed 250",
-          "url": "https://meterpreter.org/project-watershed-250-secures-water-utilities/"
-        }
-      },
-      {
-        "id": 131145,
-        "text": "⤷\nTitle:\nOperation RepoGhost: Russian-Linked Malware Hiding in GitHub Repositories\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nFri, 04 Sep 2026 12:30:32 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#Avyukt\nSecurity\n#CountLoader\n#GitHub\nmalware\n#Go\ninfostealer\n#Infostealer\n#NovaStealer\n#Operation\nRepoGhost\n#Supply\nChain",
-        "date": "2026-09-04T14:04:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131145_0_e1c21e3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131145_1_fc95c905.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131145",
-        "link": {
-          "title": "Operation RepoGhost: Russian-Linked Malware Hiding in GitHub Repositories",
-          "url": "https://meterpreter.org/operation-repoghost-github-malware/"
-        }
-      },
-      {
-        "id": 131144,
-        "text": "⤷\nTitle:\nGitSpawn Exposes AI Coding Agents\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nFri, 04 Sep 2026 13:15:25 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\n#AI\nCoding Agents\n#cybersecurity\n#GitSpawn\n#Infosec\n#Manifold\nSecurity",
-        "date": "2026-09-04T14:03:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131144_0_e1c21e3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131144_1_e82aeddf.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131144",
-        "link": {
-          "title": "GitSpawn Exposes AI Coding Agents",
-          "url": "https://meterpreter.org/gitspawn-vulnerabilities-expose-ai-coding-agents/"
-        }
-      },
-      {
-        "id": 131143,
-        "text": "⤷\nTitle:\nSpookypass HTB Challenge\n════════════════════════\n𐀪\nAuthor:\nBinoydev\n════════════════════════\nⴵ\nTime:\nFri, 04 Sep 2026 10:39:16 GMT\n════════════════════════\n⌗\nTags:\n#computer_science\n#hackthebox_writeup\n#cybersecurity\n#ethical_hacking\n#reverse_engineering",
-        "date": "2026-09-04T12:04:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131143_0_e1c21e3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131143_1_b95d20b2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131143",
-        "link": {
-          "title": "Spookypass HTB Challenge",
-          "url": "https://medium.com/@binoydev679/spookypass-htb-challenge-d0ae9be11052?source=rss------hackthebox_writeup-5"
-        }
-      },
-      {
-        "id": 131142,
-        "text": "⤷\nTitle:\nIce\n════════════════════════\n𐀪\nAuthor:\nRustem\n════════════════════════\nⴵ\nTime:\nFri, 04 Sep 2026 10:25:45 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_writeup\n#metasploit\n#tryhackme\n#information_security\n#cybersecurity",
-        "date": "2026-09-04T12:04:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131142_0_e1c21e3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131142_1_9432d86a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131142",
-        "link": {
-          "title": "Ice",
-          "url": "https://medium.com/@rustmmmdov987/ice-e17a5cb06b5e?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 131134,
-        "text": "⤷\nTitle:\nUnderstanding XSS — Part 2: Reflected XSS, Deep Dive\n════════════════════════\n𐀪\nAuthor:\nDev\n════════════════════════\nⴵ\nTime:\nFri, 04 Sep 2026 08:06:53 GMT\n════════════════════════\n⌗\nTags:\n#cyberattack\n#xss_attack\n#xss_vulnerability\n#reflected_xss\n#cybersecurity",
-        "date": "2026-09-04T10:04:31+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131134_0_e1c21e3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131134_1_14991bec.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131134",
-        "link": {
-          "title": "Understanding XSS — Part 2: Reflected XSS, Deep Dive",
-          "url": "https://medium.com/@devvvpandey20/understanding-xss-part-2-reflected-xss-deep-dive-c0a1abf86ad8?source=rss------xss_vulnerability-5"
-        }
-      },
-      {
-        "id": 131133,
-        "text": "⤷\nTitle:\nCybersecurity Course Guide: How to Choose the Right Path and Actually Land a Job\n════════════════════════\n𐀪\nAuthor:\nKundhan\n════════════════════════\nⴵ\nTime:\nFri, 04 Sep 2026 09:44:57 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity_course\n#ethical_hacking\n#cybersecurity_training\n#cybersecurity_careers\n#information_security",
-        "date": "2026-09-04T10:04:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131133_0_e1c21e3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131133_1_fe2f4c7f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131133",
-        "link": {
-          "title": "Cybersecurity Course Guide: How to Choose the Right Path and Actually Land a Job",
-          "url": "https://medium.com/@kundhan1913/cybersecurity-course-guide-how-to-choose-the-right-path-and-actually-land-a-job-7f2160cd6be8?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 131132,
-        "text": "⤷\nTitle:\nFrank & Herby Make an App — TryHackMe WriteUp with Flags\n════════════════════════\n𐀪\nAuthor:\nRayenhafsawy\n════════════════════════\nⴵ\nTime:\nFri, 04 Sep 2026 09:08:11 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_walkthrough\n#cybersecurity\n#tryhackme_writeup\n#ctf\n#tryhackme",
-        "date": "2026-09-04T10:04:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131132_0_e1c21e3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131132_1_737fe43f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131132",
-        "link": {
-          "title": "Frank & Herby Make an App — TryHackMe WriteUp with Flags",
-          "url": "https://medium.com/@rayenhafsawy/frank-herby-make-an-app-tryhackme-writeup-with-flags-e48d012bbe6c?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 131131,
-        "text": "⤷\nTitle:\nData Is Becoming a New Dimension of National Power\n════════════════════════\n𐀪\nAuthor:\nMichaelolowoselu\n════════════════════════\nⴵ\nTime:\nFri, 04 Sep 2026 09:31:29 GMT\n════════════════════════\n⌗\nTags:\n#technology\n#infosec\n#data_science\n#cybersecurity",
-        "date": "2026-09-04T10:04:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131131_0_e1c21e3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131131_1_749a1086.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131131",
-        "link": {
-          "title": "Data Is Becoming a New Dimension of National Power",
-          "url": "https://medium.com/@michaelolowoselu/data-is-becoming-a-new-dimension-of-national-power-be879f4fc1c8?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 131130,
-        "text": "⤷\nTitle:\nCompliance Audits: Best Freelance Hackers for Hire > Smatchoicehackers.com\n════════════════════════\n𐀪\nAuthor:\nPaul Weller\n════════════════════════\nⴵ\nTime:\nFri, 04 Sep 2026 08:35:52 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ethical_hacking\n#detective\n#compliance\n#hacking",
-        "date": "2026-09-04T10:04:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131130_0_e1c21e3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131130_1_b6410605.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131130",
-        "link": {
-          "title": "Compliance Audits: Best Freelance Hackers for Hire > Smatchoicehackers.com",
-          "url": "https://medium.com/@paulweller_3232/compliance-audits-best-freelance-hackers-for-hire-smatchoicehackers-com-eca913c527ec?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 131129,
-        "text": "⤷\nTitle:\n10 Google Dorks Every Bug Bounty Hunter Should Know\n════════════════════════\n𐀪\nAuthor:\nMonika\n════════════════════════\nⴵ\nTime:\nFri, 04 Sep 2026 09:50:11 GMT\n════════════════════════\n⌗\nTags:\n#technology\n#penetration_testing\n#bug_bounty\n#infosec\n#cybersecurity",
-        "date": "2026-09-04T10:04:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131129_0_e1c21e3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131129_1_5d621612.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131129",
-        "link": {
-          "title": "10 Google Dorks Every Bug Bounty Hunter Should Know",
-          "url": "https://meetcyber.net/10-google-dorks-every-bug-bounty-hunter-should-know-93945617cddf?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 131128,
-        "text": "⤷\nTitle:\nAWS Password Spraying Campaign Targets Root Accounts\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 04 Sep 2026 08:18:41 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#AWS\n#Cloud\nSecurity\n#Datadog\n#Password\nSpraying",
-        "date": "2026-09-04T10:04:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131128_0_e1c21e3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131128_1_32b13de9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131128",
-        "link": {
-          "title": "AWS Password Spraying Campaign Targets Root Accounts",
-          "url": "https://securityonline.info/aws-password-spraying-campaign/"
-        }
-      },
-      {
-        "id": 131127,
-        "text": "⤷\nTitle:\nNexus Dark-Web Market Sells 153 Million Driver’s Licenses as FBI Opens Probe\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nFri, 04 Sep 2026 10:00:02 +0000\n════════════════════════\n⌗\nTags:\n#Data\nLeak\n#Dark\nWeb\n#data\nbreach\n#driver\n's license data breach\n#FBI\ninvestigation\n#identity\ntheft\n#IDScan\n.net\n#Nexus\n#PII",
-        "date": "2026-09-04T10:04:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131127_0_e1c21e3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131127_1_9b021929.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131127",
-        "link": {
-          "title": "Nexus Dark-Web Market Sells 153 Million Driver’s Licenses as FBI Opens Probe",
-          "url": "https://meterpreter.org/drivers-license-data-breach-nexus/"
-        }
       }
     ]
   },
-  "last_update": "2026-09-05T15:24:00.096073+00:00",
+  "last_update": "2026-09-05T17:26:39.004419+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 186,
-    "total_files": 186,
+    "total_media": 183,
+    "total_files": 183,
     "total_links": 0,
     "files_by_type": {
-      "image": 186
+      "image": 183
     },
-    "referenced_files": 186,
-    "existing_media_files": 186,
-    "total_size_mb": 5.2,
-    "last_calculation": "2026-09-05T15:24:00.098351+00:00"
+    "referenced_files": 183,
+    "existing_media_files": 183,
+    "total_size_mb": 5.06,
+    "last_calculation": "2026-09-05T17:26:39.006611+00:00"
   }
 }
