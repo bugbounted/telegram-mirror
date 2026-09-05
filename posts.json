@@ -2,6 +2,75 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 131198,
+        "text": "⤷\nTitle:\nTryHackMe MISP Room Writeup\n════════════════════════\n𐀪\nAuthor:\nEfe Kırbaş\n════════════════════════\nⴵ\nTime:\nFri, 04 Sep 2026 22:42:04 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#cybersecurity",
+        "date": "2026-09-05T04:03:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131198_0_7a098efe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131198_1_637f39c8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131198",
+        "link": {
+          "title": "TryHackMe MISP Room Writeup",
+          "url": "https://medium.com/@efekk/tryhackme-misp-lab-writeup-1f04ac98db91?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 131197,
+        "text": "⤷\nTitle:\nTryHackMe OpenCTI Room Writeup\n════════════════════════\n𐀪\nAuthor:\nEfe Kırbaş\n════════════════════════\nⴵ\nTime:\nSat, 05 Sep 2026 03:41:33 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#cybersecurity",
+        "date": "2026-09-05T04:03:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131197_0_7a098efe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131197_1_00c05eda.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131197",
+        "link": {
+          "title": "TryHackMe OpenCTI Room Writeup",
+          "url": "https://medium.com/@efekk/tryhackme-opencti-room-writeup-61f826abdd79?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 131196,
+        "text": "⤷\nTitle:\nTen Years of SSTI Disclosures. $4,300 in Public Bounties.\n════════════════════════\n𐀪\nAuthor:\nRaj Namdev\n════════════════════════\nⴵ\nTime:\nSat, 05 Sep 2026 03:01:02 GMT\n════════════════════════\n⌗\nTags:\n#ssti\n#ethical_hacking\n#bug_bounty\n#cybersecurity\n#web_security",
+        "date": "2026-09-05T04:03:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131196_0_7a098efe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131196_1_5c265e79.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131196",
+        "link": {
+          "title": "Ten Years of SSTI Disclosures. $4,300 in Public Bounties.",
+          "url": "https://rajnamdev.medium.com/ten-years-of-ssti-disclosures-4-300-in-public-bounties-8d93a8ddc2ff?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 131195,
         "text": "⤷\nTitle:\nTryHackMe: MISP Room Writeup\n════════════════════════\n𐀪\nAuthor:\nEfe Kırbaş\n════════════════════════\nⴵ\nTime:\nFri, 04 Sep 2026 22:42:04 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#cybersecurity",
         "date": "2026-09-05T00:04:00+00:00",
@@ -2179,79 +2248,10 @@
           "title": "CWE™Program Announces Upcoming Schema 8.0 Changes for CWE 5.0",
           "url": "https://medium.com/@CWE_CAPEC/cwe-program-announces-upcoming-schema-8-0-changes-for-cwe-5-0-820f07307774?source=rss------infosec-5"
         }
-      },
-      {
-        "id": 131084,
-        "text": "⤷\nTitle:\nThe Best Thing About the PQC Panic is Crypto-Agility\n════════════════════════\n𐀪\nAuthor:\nDarwin Gosal\n════════════════════════\nⴵ\nTime:\nThu, 03 Sep 2026 23:18:03 GMT\n════════════════════════\n⌗\nTags:\n#risk_management\n#pqc\n#infosec\n#quantum_computing\n#cybersecurity",
-        "date": "2026-09-04T00:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131084_0_e1c21e3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131084_1_7d037053.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131084",
-        "link": {
-          "title": "The Best Thing About the PQC Panic is Crypto-Agility",
-          "url": "https://medium.com/@darwingosal/the-best-thing-about-the-pqc-panic-is-crypto-agility-1602385eceb4?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 131083,
-        "text": "⤷\nTitle:\nHTB-Cohort\n════════════════════════\n𐀪\nAuthor:\n0xEnzoSantana\n════════════════════════\nⴵ\nTime:\nThu, 03 Sep 2026 22:23:21 GMT\n════════════════════════\n⌗\nTags:\n#htb_writeup\n#ctf\n#hacking\n#ctf_writeup\n#capture_the_flag",
-        "date": "2026-09-04T00:03:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131083_0_e1c21e3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131083_1_3594bdf4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131083",
-        "link": {
-          "title": "HTB-Cohort",
-          "url": "https://medium.com/@0xEnzoSantana/htb-cohort-69a1bfab8d16?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 131082,
-        "text": "⤷\nTitle:\nHow a Simple Dork Led to a Critical 10.0 CVSS\n════════════════════════\n𐀪\nAuthor:\n0x7ipher\n════════════════════════\nⴵ\nTime:\nThu, 03 Sep 2026 22:40:43 GMT\n════════════════════════\n⌗\nTags:\n#web_security\n#env_file\n#sensitive_data_exposure\n#vulnerability_disclosure\n#bug_bounty",
-        "date": "2026-09-04T00:03:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131082_0_e1c21e3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131082_1_12b48883.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131082",
-        "link": {
-          "title": "How a Simple Dork Led to a Critical 10.0 CVSS",
-          "url": "https://cybersecuritywriteups.com/how-a-simple-dork-led-to-a-critical-10-0-cvss-06f17c86c5c6?source=rss------bug_bounty-5"
-        }
       }
     ]
   },
-  "last_update": "2026-09-05T00:29:16.063730+00:00",
+  "last_update": "2026-09-05T04:45:56.501032+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2263,7 +2263,7 @@
     },
     "referenced_files": 187,
     "existing_media_files": 187,
-    "total_size_mb": 5.01,
-    "last_calculation": "2026-09-05T00:29:16.066824+00:00"
+    "total_size_mb": 4.84,
+    "last_calculation": "2026-09-05T04:45:56.503292+00:00"
   }
 }
