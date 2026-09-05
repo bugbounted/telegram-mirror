@@ -2,6 +2,270 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 131227,
+        "text": "⤷\nTitle:\nHMAC vs Signature — Choosing the Right Integrity Check in PHP\n════════════════════════\n𐀪\nAuthor:\nAnn R.\n════════════════════════\nⴵ\nTime:\nSat, 05 Sep 2026 10:29:12 GMT\n════════════════════════\n⌗\nTags:\n#digital_signatures\n#api_security\n#jwt\n#php\n#cryptography",
+        "date": "2026-09-05T12:04:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131227_0_7a098efe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131227_1_d6cc73e9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131227",
+        "link": {
+          "title": "HMAC vs Signature — Choosing the Right Integrity Check in PHP",
+          "url": "https://medium.com/@annxsa/hmac-vs-signature-choosing-the-right-integrity-check-in-php-b4f7af8f1cac?source=rss------api_security-5"
+        }
+      },
+      {
+        "id": 131226,
+        "text": "⤷\nTitle:\n️ TryHackMe: Lost Fortune — Detailed LFI Exploitation Writeup\n════════════════════════\n𐀪\nAuthor:\nSushma\n════════════════════════\nⴵ\nTime:\nSat, 05 Sep 2026 10:55:06 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#cybersecurity\n#ctf\n#ctf_writeup\n#tryhackme_walkthrough",
+        "date": "2026-09-05T12:04:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131226_0_7a098efe.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131226",
+        "link": {
+          "title": "️ TryHackMe: Lost Fortune — Detailed LFI Exploitation Writeup",
+          "url": "https://medium.com/@sushmaaragidda/%EF%B8%8F-tryhackme-lost-fortune-detailed-lfi-exploitation-writeup-970b0f25a495?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 131225,
+        "text": "⤷\nTitle:\n# Kibertəhlükəsizlik Penetration Test: TryHackMe Library — Root-a qədər yol\n════════════════════════\n𐀪\nAuthor:\nTabrizabuzarov\n════════════════════════\nⴵ\nTime:\nSat, 05 Sep 2026 10:35:45 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#cybersecurity",
+        "date": "2026-09-05T12:04:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131225_0_7a098efe.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131225",
+        "link": {
+          "title": "# Kibertəhlükəsizlik Penetration Test: TryHackMe Library — Root-a qədər yol",
+          "url": "https://medium.com/@tabrizabuzarov/kibert%C9%99hl%C3%BCk%C9%99sizlik-penetration-test-tryhackme-library-root-a-q%C9%99d%C9%99r-yol-bc103384fb3c?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 131224,
+        "text": "⤷\nTitle:\nSeven Bytes That Freeze a Node.js Server Forever : The Story of CVE-2026–85730\n════════════════════════\n𐀪\nAuthor:\nRavindu Lakmina Munaweera\n════════════════════════\nⴵ\nTime:\nSat, 05 Sep 2026 10:36:58 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#vulnerability\n#npm\n#ethical_hacking\n#cybersecurity",
+        "date": "2026-09-05T12:04:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131224_0_7a098efe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131224_1_7e593086.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131224",
+        "link": {
+          "title": "Seven Bytes That Freeze a Node.js Server Forever : The Story of CVE-2026–85730",
+          "url": "https://medium.com/@ravindu.lakmina1/seven-bytes-that-freeze-a-node-js-server-forever-the-story-of-cve-2026-85730-3213328b38f0?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 131223,
+        "text": "⤷\nTitle:\nAttacking GraphQL HTB Skill Assesment\n════════════════════════\n𐀪\nAuthor:\njimmy\n════════════════════════\nⴵ\nTime:\nSat, 05 Sep 2026 11:26:42 GMT\n════════════════════════\n⌗\nTags:\n#ctf\n#penetration_testing\n#hackthebox\n#cybersecurity\n#graphql",
+        "date": "2026-09-05T12:04:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131223_0_7a098efe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131223_1_9b2b7489.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131223",
+        "link": {
+          "title": "Attacking GraphQL HTB Skill Assesment",
+          "url": "https://medium.com/@mgsa112233/attacking-graphql-htb-skill-assesment-b33785cc6b91?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 131222,
+        "text": "⤷\nTitle:\nHow to Tell if a Website is Fake or a Scam (2026 Guide)\n════════════════════════\n𐀪\nAuthor:\nSiriusa Help\n════════════════════════\nⴵ\nTime:\nSat, 05 Sep 2026 10:57:11 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#android_app_development\n#android\n#scam\n#phishing",
+        "date": "2026-09-05T12:04:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131222_0_7a098efe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131222_1_5703914a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131222",
+        "link": {
+          "title": "How to Tell if a Website is Fake or a Scam (2026 Guide)",
+          "url": "https://medium.com/@siriusa.help/how-to-tell-if-a-website-is-fake-or-a-scam-2026-guide-cdd82830a3bd?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 131221,
+        "text": "⤷\nTitle:\nURL Contexts: href, src, and the javascript: Bridge\n════════════════════════\n𐀪\nAuthor:\nNitin yadav\n════════════════════════\nⴵ\nTime:\nSat, 05 Sep 2026 11:31:00 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#bug_bounty\n#ethical_hacking\n#bug_bounty_tips\n#technology",
+        "date": "2026-09-05T12:03:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131221_0_7a098efe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131221_1_bfb30428.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131221",
+        "link": {
+          "title": "URL Contexts: href, src, and the javascript: Bridge",
+          "url": "https://kd-200.medium.com/url-contexts-href-src-and-the-javascript-bridge-5440cf876b4d?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 131220,
+        "text": "⤷\nTitle:\nGoogle Workspace Integrates Gemini Live Features\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nSat, 05 Sep 2026 11:35:20 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#Gemini\nLive\n#Google\nAI\n#Google\nWorkspace\n#Productivity\n#Tech\nNews",
+        "date": "2026-09-05T12:03:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131220_0_7a098efe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131220_1_8283adef.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131220",
+        "link": {
+          "title": "Google Workspace Integrates Gemini Live Features",
+          "url": "https://securityonline.info/google-brings-gemini-live-workspace/"
+        }
+      },
+      {
+        "id": 131219,
+        "text": "⤷\nTitle:\nDatabase SQL Basics — Try Hack Me\n════════════════════════\n𐀪\nAuthor:\nChittanoori Divyashrith\n════════════════════════\nⴵ\nTime:\nSat, 05 Sep 2026 09:23:10 GMT\n════════════════════════\n⌗\nTags:\n#database_sql_basics\n#tryhackme\n#pre_security\n#cybersecurity",
+        "date": "2026-09-05T10:04:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131219_0_7a098efe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131219_1_9b7f2bb4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131219",
+        "link": {
+          "title": "Database SQL Basics — Try Hack Me",
+          "url": "https://medium.com/@chittanooridivyashrith/database-sql-basics-try-hack-me-af490383a00a?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 131218,
+        "text": "⤷\nTitle:\nDo You Actually Need a Consent Management Platform as a Solo Developer?\n════════════════════════\n𐀪\nAuthor:\nMSF\n════════════════════════\nⴵ\nTime:\nSat, 05 Sep 2026 09:48:43 GMT\n════════════════════════\n⌗\nTags:\n#web_development\n#mobile_app_development\n#website\n#application_security\n#software_development",
+        "date": "2026-09-05T10:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131218_0_7a098efe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131218_1_43a8fdcc.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131218",
+        "link": {
+          "title": "Do You Actually Need a Consent Management Platform as a Solo Developer?",
+          "url": "https://m-soleh-fajari.medium.com/do-you-actually-need-a-consent-management-platform-as-a-solo-developer-14e626a3efe0?source=rss------application_security-5"
+        }
+      },
+      {
+        "id": 131217,
+        "text": "⤷\nTitle:\nDay 01: Starting Bug Bounty From Zero\n════════════════════════\n𐀪\nAuthor:\niamrudhh\n════════════════════════\nⴵ\nTime:\nSat, 05 Sep 2026 09:45:59 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#cybersecurity\n#technology\n#programming\n#ethical_hacking",
+        "date": "2026-09-05T10:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131217_0_7a098efe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131217_1_e5a9231a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131217",
+        "link": {
+          "title": "Day 01: Starting Bug Bounty From Zero",
+          "url": "https://iamrudhh.medium.com/day-01-starting-bug-bounty-from-zero-696aa78f97b6?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 131216,
+        "text": "⤷\nTitle:\nThousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nSat, 05 Sep 2026 13:25:10 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-09-05T10:03:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131216_0_7a098efe.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131216",
+        "link": {
+          "title": "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel",
+          "url": "https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html"
+        }
+      },
+      {
         "id": 131215,
         "text": "⤷\nTitle:\nCyber Security vs Ethical Hacking: What Should Beginners Learn First?\n════════════════════════\n𐀪\nAuthor:\nThaneitcourses\n════════════════════════\nⴵ\nTime:\nSat, 05 Sep 2026 06:27:02 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity_training\n#ethical_hacking_training\n#ethical_hacking_course\n#cybersecurity\n#ethical_hacking",
         "date": "2026-09-05T08:04:26+00:00",
@@ -1964,294 +2228,22 @@
           "title": "Secure compromised social media: Hacked IG profile help, Instagram hacked account recovery help…",
           "url": "https://medium.com/@campbelljoee22/secure-compromised-social-media-hacked-ig-profile-help-instagram-hacked-account-recovery-help-59def9929018?source=rss------ethical_hacking-5"
         }
-      },
-      {
-        "id": 131120,
-        "text": "⤷\nTitle:\nJavaScript: Simple Demo — Try Hack Me\n════════════════════════\n𐀪\nAuthor:\nChittanoori Divyashrith\n════════════════════════\nⴵ\nTime:\nFri, 04 Sep 2026 07:13:23 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#javascript_simple_demo\n#pre_security\n#tryhackme",
-        "date": "2026-09-04T08:04:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131120_0_e1c21e3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131120_1_c3278a2a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131120",
-        "link": {
-          "title": "JavaScript: Simple Demo — Try Hack Me",
-          "url": "https://medium.com/@chittanooridivyashrith/javascript-simple-demo-try-hack-me-7352589f5c20?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 131119,
-        "text": "⤷\nTitle:\nEthical Hacking vs Cybersecurity: What’s the Difference?\n════════════════════════\n𐀪\nAuthor:\nDipayan Ghosh\n════════════════════════\nⴵ\nTime:\nFri, 04 Sep 2026 05:58:30 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#ethical_hacking\n#dipayan_ghosh\n#hacker\n#cybersecurity",
-        "date": "2026-09-04T08:04:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131119_0_e1c21e3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131119_1_c366669a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131119",
-        "link": {
-          "title": "Ethical Hacking vs Cybersecurity: What’s the Difference?",
-          "url": "https://medium.com/@dipayanghoshk/ethical-hacking-vs-cybersecurity-whats-the-difference-e0179232a11d?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 131118,
-        "text": "⤷\nTitle:\nHow to Fix the Google Gemini \"Something Went Wrong\" Error 1076.\n════════════════════════\n𐀪\nAuthor:\nNiranjan Kale\n════════════════════════\nⴵ\nTime:\nFri, 04 Sep 2026 05:57:44 GMT\n════════════════════════\n⌗\nTags:\n#ai\n#llm\n#gemini\n#bug_bounty\n#google",
-        "date": "2026-09-04T08:04:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131118_0_e1c21e3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131118_1_e6bac1d2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131118",
-        "link": {
-          "title": "How to Fix the Google Gemini \"Something Went Wrong\" Error 1076.",
-          "url": "https://medium.com/@rajatkale9/how-to-fix-the-google-gemini-something-went-wrong-error-1076-05474636be8f?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 131117,
-        "text": "⤷\nTitle:\nWhen verified: false Still Got a Valid JWT\n════════════════════════\n𐀪\nAuthor:\nSanjivani Dobhal\n════════════════════════\nⴵ\nTime:\nFri, 04 Sep 2026 06:04:18 GMT\n════════════════════════\n⌗\nTags:\n#hacker\n#hacking\n#red_team\n#bug_bounty\n#life",
-        "date": "2026-09-04T08:04:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131117_0_e1c21e3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131117_1_ab8dddf5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131117",
-        "link": {
-          "title": "When verified: false Still Got a Valid JWT",
-          "url": "https://medium.com/@sanjivanidobhal05/when-verified-false-still-got-a-valid-jwt-b91770294dc6?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 131116,
-        "text": "⤷\nTitle:\nIntroToBurp — picoCTF Write-up | Bypassing OTP Validation with Burp Suite\n════════════════════════\n𐀪\nAuthor:\nAffanhaxor\n════════════════════════\nⴵ\nTime:\nFri, 04 Sep 2026 06:36:14 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ctf\n#ethical_hacking\n#web_security\n#bug_bounty",
-        "date": "2026-09-04T08:04:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131116_0_e1c21e3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131116_1_caf4e830.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131116",
-        "link": {
-          "title": "IntroToBurp — picoCTF Write-up | Bypassing OTP Validation with Burp Suite",
-          "url": "https://medium.com/@affanhaxor/introtoburp-picoctf-write-up-bypassing-otp-validation-with-burp-suite-b583e9975047?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 131115,
-        "text": "⤷\nTitle:\nFrom IDOR to Admin: How a Simple ID Parameter Led to Full Platform Takeover\n════════════════════════\n𐀪\nAuthor:\nPankaj Kumar Yadav\n════════════════════════\nⴵ\nTime:\nFri, 04 Sep 2026 07:00:14 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#software_development\n#cybersecurity\n#ethical_hacking\n#information_security",
-        "date": "2026-09-04T08:03:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131115_0_e1c21e3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131115_1_0b84ab52.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131115",
-        "link": {
-          "title": "From IDOR to Admin: How a Simple ID Parameter Led to Full Platform Takeover",
-          "url": "https://medium.com/@pankaj_73968/from-idor-to-admin-how-a-simple-id-parameter-led-to-full-platform-takeover-cdc21b989a21?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 131112,
-        "text": "⤷\nTitle:\nX’s New Revenue Sharing Program: A New Opportunity for Content Creators\n════════════════════════\n𐀪\nAuthor:\nZulqi Tech\n════════════════════════\nⴵ\nTime:\nFri, 04 Sep 2026 04:29:43 GMT\n════════════════════════\n⌗\nTags:\n#payments\n#elon_musk\n#content_marketing\n#xs\n#revenue",
-        "date": "2026-09-04T06:04:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131112_0_e1c21e3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131112_1_fc43314c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131112",
-        "link": {
-          "title": "X’s New Revenue Sharing Program: A New Opportunity for Content Creators",
-          "url": "https://medium.com/@z.zulqurnain233/xs-new-revenue-sharing-program-a-new-opportunity-for-content-creators-9b586b8777ce?source=rss------xss-5"
-        }
-      },
-      {
-        "id": 131111,
-        "text": "⤷\nTitle:\nActive Reconnaissance Note\n════════════════════════\n𐀪\nAuthor:\nMahidul Haque\n════════════════════════\nⴵ\nTime:\nFri, 04 Sep 2026 05:27:50 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#cybersecurity\n#hacking\n#reconnaissance\n#networking",
-        "date": "2026-09-04T06:04:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131111_0_e1c21e3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131111_1_54f940e8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131111",
-        "link": {
-          "title": "Active Reconnaissance Note",
-          "url": "https://mahidulhq.medium.com/active-reconnaissance-note-c2fa3ded009a?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 131110,
-        "text": "⤷\nTitle:\nDesigning Mobile Applications Around Real-World User Expectations\n════════════════════════\n𐀪\nAuthor:\nBounce Back Technologies\n════════════════════════\nⴵ\nTime:\nFri, 04 Sep 2026 05:51:44 GMT\n════════════════════════\n⌗\nTags:\n#mobile_technology\n#software_development\n#mobile_app_development\n#user_experience\n#application_security",
-        "date": "2026-09-04T06:04:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131110_0_e1c21e3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131110_1_81422f97.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131110",
-        "link": {
-          "title": "Designing Mobile Applications Around Real-World User Expectations",
-          "url": "https://medium.com/@bouncebacktech123/designing-mobile-applications-around-real-world-user-expectations-fecbe72a84c9?source=rss------application_security-5"
-        }
-      },
-      {
-        "id": 131109,
-        "text": "⤷\nTitle:\n9 Hands-On OSINT Investigations You Can Practice Today\n════════════════════════\n𐀪\nAuthor:\nParitosh\n════════════════════════\nⴵ\nTime:\nFri, 04 Sep 2026 03:55:44 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#osint\n#hacking\n#bug_bounty\n#ai",
-        "date": "2026-09-04T06:03:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131109_0_e1c21e3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131109_1_31df3f04.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131109",
-        "link": {
-          "title": "9 Hands-On OSINT Investigations You Can Practice Today",
-          "url": "https://medium.com/@paritoshblogs/9-hands-on-osint-investigations-you-can-practice-today-95d038bfbadb?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 131108,
-        "text": "⤷\nTitle:\nThe Trust Boundaries Hidden Inside Everyday Features: Four Vulnerabilities Discovered Through…\n════════════════════════\n𐀪\nAuthor:\nz3r0lord\n════════════════════════\nⴵ\nTime:\nFri, 04 Sep 2026 04:09:33 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#artificial_intelligence\n#kenya\n#hacking\n#cybersecurity",
-        "date": "2026-09-04T06:03:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131108_0_e1c21e3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131108_1_bee379c6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131108",
-        "link": {
-          "title": "The Trust Boundaries Hidden Inside Everyday Features: Four Vulnerabilities Discovered Through…",
-          "url": "https://medium.com/@z3r0lord.s3c/the-trust-boundaries-hidden-inside-everyday-features-four-vulnerabilities-discovered-through-a19083572c5e?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 131107,
-        "text": "⤷\nTitle:\nSQL Injection คืออะไร? และวิธีป้องกันให้ปลอดภัย\n════════════════════════\n𐀪\nAuthor:\nPChinSoftService\n════════════════════════\nⴵ\nTime:\nFri, 04 Sep 2026 02:25:06 GMT\n════════════════════════\n⌗\nTags:\n#database\n#software_development\n#business\n#sql_injection\n#thailand",
-        "date": "2026-09-04T04:04:44+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131107_0_e1c21e3c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131107",
-        "link": {
-          "title": "SQL Injection คืออะไร? และวิธีป้องกันให้ปลอดภัย",
-          "url": "https://medium.com/@saharatanydesk/sql-injection-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3-%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%9B%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%9B%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B8%A0%E0%B8%B1%E0%B8%A2-5700de4b6144?source=rss------sql_injection-5"
-        }
       }
     ]
   },
-  "last_update": "2026-09-05T08:42:56.540459+00:00",
+  "last_update": "2026-09-05T12:12:00.004663+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 184,
-    "total_files": 184,
+    "total_media": 182,
+    "total_files": 182,
     "total_links": 0,
     "files_by_type": {
-      "image": 184
+      "image": 182
     },
-    "referenced_files": 184,
-    "existing_media_files": 184,
-    "total_size_mb": 5.07,
-    "last_calculation": "2026-09-05T08:42:56.542754+00:00"
+    "referenced_files": 182,
+    "existing_media_files": 182,
+    "total_size_mb": 4.98,
+    "last_calculation": "2026-09-05T12:12:00.006950+00:00"
   }
 }
