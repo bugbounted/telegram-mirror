@@ -2,6 +2,75 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 131195,
+        "text": "⤷\nTitle:\nTryHackMe: MISP Room Writeup\n════════════════════════\n𐀪\nAuthor:\nEfe Kırbaş\n════════════════════════\nⴵ\nTime:\nFri, 04 Sep 2026 22:42:04 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#cybersecurity",
+        "date": "2026-09-05T00:04:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131195_0_7a098efe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131195_1_177445e7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131195",
+        "link": {
+          "title": "TryHackMe: MISP Room Writeup",
+          "url": "https://medium.com/@efekk/tryhackme-misp-lab-writeup-1f04ac98db91?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 131194,
+        "text": "⤷\nTitle:\nTryHackMe-Linux Privilege Escalation: Automation\n════════════════════════\n𐀪\nAuthor:\n0xSpecter\n════════════════════════\nⴵ\nTime:\nFri, 04 Sep 2026 22:40:15 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#ctf\n#linux\n#cybersecurity\n#tryhackme",
+        "date": "2026-09-05T00:03:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131194_0_7a098efe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131194_1_d5cd9d5e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131194",
+        "link": {
+          "title": "TryHackMe-Linux Privilege Escalation: Automation",
+          "url": "https://0xspecter.medium.com/tryhackme-linux-privilege-escalation-automation-7a9f9eb65c18?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 131193,
+        "text": "⤷\nTitle:\nBelajar dari Celah RCE di NASA VDP: Dokumentasi dan Analisis Teknis\n════════════════════════\n𐀪\nAuthor:\nRadith\n════════════════════════\nⴵ\nTime:\nFri, 04 Sep 2026 22:59:18 GMT\n════════════════════════\n⌗\nTags:\n#nasa\n#bug_bounty\n#p1",
+        "date": "2026-09-05T00:03:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131193_0_7a098efe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131193_1_46580762.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131193",
+        "link": {
+          "title": "Belajar dari Celah RCE di NASA VDP: Dokumentasi dan Analisis Teknis",
+          "url": "https://medium.com/@radith614/belajar-dari-celah-rce-di-nasa-vdp-dokumentasi-dan-analisis-teknis-0a61473cab43?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 131192,
         "text": "⤷\nTitle:\nPentester için Metasploit:\n════════════════════════\n𐀪\nAuthor:\nCodemerteknoloji\n════════════════════════\nⴵ\nTime:\nFri, 04 Sep 2026 21:21:03 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#penetration_testing\n#software_development\n#technology\n#ethical_hacking",
         "date": "2026-09-04T22:03:59+00:00",
@@ -2179,79 +2248,10 @@
           "title": "How a Simple Dork Led to a Critical 10.0 CVSS",
           "url": "https://cybersecuritywriteups.com/how-a-simple-dork-led-to-a-critical-10-0-cvss-06f17c86c5c6?source=rss------bug_bounty-5"
         }
-      },
-      {
-        "id": 131081,
-        "text": "⤷\nTitle:\nCritical SonicWall NSM Vulnerabilities Patched\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 03 Sep 2026 22:03:04 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_78327\n#CVE_2026_78328\n#CVE_2026_81939\n#Remote\nCode Execution\n#SonicWall\n#SonicWall\nNSM",
-        "date": "2026-09-04T00:03:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131081_0_e1c21e3c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131081_1_2f94bbf5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131081",
-        "link": {
-          "title": "Critical SonicWall NSM Vulnerabilities Patched",
-          "url": "https://securityonline.info/sonicwall-nsm-vulnerabilities/"
-        }
-      },
-      {
-        "id": 131080,
-        "text": "⤷\nTitle:\nWhat Can an Attacker Do After Getting In?\n════════════════════════\n𐀪\nAuthor:\nTech-FireFish\n════════════════════════\nⴵ\nTime:\nThu, 03 Sep 2026 20:12:55 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#information_security\n#computer_science\n#learning\n#ethical_hacking",
-        "date": "2026-09-03T22:04:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131080_0_323b12ea.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131080_1_4e047f1a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131080",
-        "link": {
-          "title": "What Can an Attacker Do After Getting In?",
-          "url": "https://medium.com/@tech-firefish/what-can-an-attacker-do-after-getting-in-bca98c94d4db?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 131079,
-        "text": "⤷\nTitle:\nPassive Reconnaissance Note\n════════════════════════\n𐀪\nAuthor:\nMahidul Haque\n════════════════════════\nⴵ\nTime:\nThu, 03 Sep 2026 20:40:19 GMT\n════════════════════════\n⌗\nTags:\n#osint\n#cybersecurity_training\n#ethical_hacking\n#cybersecurity\n#learning",
-        "date": "2026-09-03T22:04:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131079_0_323b12ea.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131079_1_2b315ef8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131079",
-        "link": {
-          "title": "Passive Reconnaissance Note",
-          "url": "https://mahidulhq.medium.com/passive-reconnaissance-note-d7fc1b6df347?source=rss------ethical_hacking-5"
-        }
       }
     ]
   },
-  "last_update": "2026-09-04T22:40:50.673326+00:00",
+  "last_update": "2026-09-05T00:29:16.063730+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2263,7 +2263,7 @@
     },
     "referenced_files": 187,
     "existing_media_files": 187,
-    "total_size_mb": 5.03,
-    "last_calculation": "2026-09-04T22:40:50.674826+00:00"
+    "total_size_mb": 5.01,
+    "last_calculation": "2026-09-05T00:29:16.066824+00:00"
   }
 }
