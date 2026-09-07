@@ -2,6 +2,458 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 131407,
+        "text": "⤷\nTitle:\nUncovering an Open Redirect Using Wayback\n════════════════════════\n𐀪\nAuthor:\nMaMad\n════════════════════════\nⴵ\nTime:\nMon, 07 Sep 2026 09:57:32 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_writeup\n#bug_bounty_tips\n#open_redirect\n#bug_bounty\n#bugbounty_writeup",
+        "date": "2026-09-07T10:04:43+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131407_0_0d543e17.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131407_1_5d5f4ded.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131407",
+        "link": {
+          "title": "Uncovering an Open Redirect Using Wayback",
+          "url": "https://medium.com/@MaMad4Ever/uncovering-an-open-redirect-using-wayback-9799face6b8f?source=rss------bugbounty_writeup-5"
+        }
+      },
+      {
+        "id": 131406,
+        "text": "⤷\nTitle:\nA COMPARISON OF TF-IDF-BASED SQL INJECTION DETECTION SYSTEMS USING LOGISTIC REGRESSION AND RANDOM…\n════════════════════════\n𐀪\nAuthor:\nWildan Muhammad Faiz\n════════════════════════\nⴵ\nTime:\nMon, 07 Sep 2026 09:27:47 GMT\n════════════════════════\n⌗\nTags:\n#machine_learning\n#artificial_intelligence\n#sql_injection\n#web_security\n#cybersecurity",
+        "date": "2026-09-07T10:04:40+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131406_0_0d543e17.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131406_1_eebe8b39.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131406",
+        "link": {
+          "title": "A COMPARISON OF TF-IDF-BASED SQL INJECTION DETECTION SYSTEMS USING LOGISTIC REGRESSION AND RANDOM…",
+          "url": "https://medium.com/@wildanmuhammadfaiz13/a-comparison-of-tf-idf-based-sql-injection-detection-systems-using-logistic-regression-and-random-ea2161c73f33?source=rss------sql_injection-5"
+        }
+      },
+      {
+        "id": 131405,
+        "text": "⤷\nTitle:\nTryHeartMe (THM) Walkthrough\n════════════════════════\n𐀪\nAuthor:\nL4ZZ3RJ0D\n════════════════════════\nⴵ\nTime:\nMon, 07 Sep 2026 08:12:12 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#jwt\n#ctf_writeup\n#tryhackme_walkthrough\n#ctf",
+        "date": "2026-09-07T10:04:36+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131405_0_0d543e17.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131405_1_bae877b3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131405",
+        "link": {
+          "title": "TryHeartMe (THM) Walkthrough",
+          "url": "https://medium.com/@l4zz3rj0d/tryheartme-thm-walkthrough-ea242e6a4051?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 131404,
+        "text": "⤷\nTitle:\nAWS Security Agent, explained: what it does, how to deploy it, and how it compares to a pen test\n════════════════════════\n𐀪\nAuthor:\nSaleem Yousaf\n════════════════════════\nⴵ\nTime:\nMon, 07 Sep 2026 08:49:28 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#cybersecurity\n#ciso\n#red_team\n#aws",
+        "date": "2026-09-07T10:04:33+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131404_0_0d543e17.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131404_1_a3f5a676.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131404",
+        "link": {
+          "title": "AWS Security Agent, explained: what it does, how to deploy it, and how it compares to a pen test",
+          "url": "https://saleemyousaf.medium.com/aws-security-agent-explained-what-it-does-how-to-deploy-it-and-how-it-compares-to-a-pen-test-434d9c6a12d4?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 131403,
+        "text": "⤷\nTitle:\nWhat Does a Penetration Test Actually Find? A Practical Guide for Australian Businesses\n════════════════════════\n𐀪\nAuthor:\nSeosubmissions\n════════════════════════\nⴵ\nTime:\nMon, 07 Sep 2026 09:15:31 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#austrelia\n#web_penetration_testing\n#api_penetration_testing",
+        "date": "2026-09-07T10:04:30+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131403_0_0d543e17.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131403_1_19c4e8a4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131403",
+        "link": {
+          "title": "What Does a Penetration Test Actually Find? A Practical Guide for Australian Businesses",
+          "url": "https://medium.com/@seosubmissions1201/what-does-a-penetration-test-actually-find-a-practical-guide-for-australian-businesses-7b7639bab69d?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 131402,
+        "text": "⤷\nTitle:\nSplunk (SIEM) Laboratuvar Kurulumu\n════════════════════════\n𐀪\nAuthor:\nAsım Bayramıç\n════════════════════════\nⴵ\nTime:\nMon, 07 Sep 2026 08:35:44 GMT\n════════════════════════\n⌗\nTags:\n#homelab\n#splunk\n#cybersecurity\n#sysmon\n#infosec",
+        "date": "2026-09-07T10:04:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131402_0_0d543e17.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131402_1_b3bfc53e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131402",
+        "link": {
+          "title": "Splunk (SIEM) Laboratuvar Kurulumu",
+          "url": "https://medium.com/@AsimBayramic/splunk-siem-laboratuvar-kurulumu-b7c70a0d8bec?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 131401,
+        "text": "⤷\nTitle:\nStop Memorizing Hacking Tools: 5 Rookie Traps in Cybersecurity (And 4 Tools That Actually Matter)\n════════════════════════\n𐀪\nAuthor:\nMohit\n════════════════════════\nⴵ\nTime:\nMon, 07 Sep 2026 09:24:39 GMT\n════════════════════════\n⌗\nTags:\n#technology\n#career_advice\n#cybersecurity\n#infosec\n#programming",
+        "date": "2026-09-07T10:04:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131401_0_0d543e17.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131401_1_c87ffb88.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131401",
+        "link": {
+          "title": "Stop Memorizing Hacking Tools: 5 Rookie Traps in Cybersecurity (And 4 Tools That Actually Matter)",
+          "url": "https://medium.com/@mohiitlamba/stop-memorizing-hacking-tools-5-rookie-traps-in-cybersecurity-and-4-tools-that-actually-matter-4f40865d68bf?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 131400,
+        "text": "⤷\nTitle:\nAI Agents Are Starting to Behave Like Hackers. Should We Be Worried?\n════════════════════════\n𐀪\nAuthor:\nHrishanks\n════════════════════════\nⴵ\nTime:\nMon, 07 Sep 2026 08:41:08 GMT\n════════════════════════\n⌗\nTags:\n#agentic_ai\n#ai\n#hacking\n#ai_agent",
+        "date": "2026-09-07T10:04:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131400_0_0d543e17.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131400_1_fd814041.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131400",
+        "link": {
+          "title": "AI Agents Are Starting to Behave Like Hackers. Should We Be Worried?",
+          "url": "https://medium.com/@hrishank21s/ai-agents-are-starting-to-behave-like-hackers-should-we-be-worried-8d229090b82a?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 131399,
+        "text": "⤷\nTitle:\nTryHackMe: Offensive Security Intro Room Walkthrough\n════════════════════════\n𐀪\nAuthor:\n5um1t0x\n════════════════════════\nⴵ\nTime:\nMon, 07 Sep 2026 09:02:33 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#hacking\n#penetration_testing\n#infosec\n#tryhackme",
+        "date": "2026-09-07T10:04:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131399_0_0d543e17.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131399_1_7eeb2ea0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131399",
+        "link": {
+          "title": "TryHackMe: Offensive Security Intro Room Walkthrough",
+          "url": "https://medium.com/@5um1t0x/tryhackme-offensive-security-intro-room-walkthrough-d567c089ebc3?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 131398,
+        "text": "⤷\nTitle:\nReverse Engineering Parivahan malware Part-I\n════════════════════════\n𐀪\nAuthor:\nRishikesh M\n════════════════════════\nⴵ\nTime:\nMon, 07 Sep 2026 09:32:14 GMT\n════════════════════════\n⌗\nTags:\n#reverse_engineering\n#hacking\n#android\n#security\n#information_security",
+        "date": "2026-09-07T10:04:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131398_0_0d543e17.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131398_1_e326ef39.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131398",
+        "link": {
+          "title": "Reverse Engineering Parivahan malware Part-I",
+          "url": "https://medium.com/@rishikeshmahi/reverse-engineering-parivahan-malware-part-i-95ba31b8286c?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 131397,
+        "text": "⤷\nTitle:\nSymmetric vs Asymmetric Encryption, Explained Through Food Delivery\n════════════════════════\n𐀪\nAuthor:\nNila\n════════════════════════\nⴵ\nTime:\nMon, 07 Sep 2026 09:46:08 GMT\n════════════════════════\n⌗\nTags:\n#technology\n#networking\n#hacking\n#cybersecurity\n#infosec",
+        "date": "2026-09-07T10:04:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131397_0_0d543e17.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131397_1_169baad0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131397",
+        "link": {
+          "title": "Symmetric vs Asymmetric Encryption, Explained Through Food Delivery",
+          "url": "https://medium.com/@nilas116/symmetric-vs-asymmetric-encryption-explained-through-food-delivery-d7b4bf8e82ee?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 131396,
+        "text": "⤷\nTitle:\nMirage Kitten Malware Targets Aviation and Fintech Sectors\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 07 Sep 2026 08:05:41 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#kaspersky\n#malware\n#Mirage\nKitten\n#NodeRabbit\n#PollCat",
+        "date": "2026-09-07T10:04:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131396_0_0d543e17.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131396_1_81d0a3af.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131396",
+        "link": {
+          "title": "Mirage Kitten Malware Targets Aviation and Fintech Sectors",
+          "url": "https://securityonline.info/mirage-kitten-malware-noderabbit-pollcat/"
+        }
+      },
+      {
+        "id": 131395,
+        "text": "⤷\nTitle:\nCVE-2026-86218 (CVSS 10): N-central Pre-Auth RCE Exploited in the Wild\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 07 Sep 2026 09:31:00 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_86218\n#Huntress\n#N_able\n#N_central\n#Pre_Auth\nRCE\n#RMM\nsecurity\n#zero_day",
+        "date": "2026-09-07T10:04:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131395_0_0d543e17.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131395_1_94be9fbd.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131395",
+        "link": {
+          "title": "CVE-2026-86218 (CVSS 10): N-central Pre-Auth RCE Exploited in the Wild",
+          "url": "https://securityonline.info/n-able-n-central-cve-2026-86218/"
+        }
+      },
+      {
+        "id": 131394,
+        "text": "⤷\nTitle:\nJSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nMon, 07 Sep 2026 13:23:04 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-09-07T10:04:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131394_0_0d543e17.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131394",
+        "link": {
+          "title": "JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies",
+          "url": "https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html"
+        }
+      },
+      {
+        "id": 131393,
+        "text": "⤷\nTitle:\nN-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nMon, 07 Sep 2026 14:01:12 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-09-07T10:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131393_0_0d543e17.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131393",
+        "link": {
+          "title": "N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw",
+          "url": "https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html"
+        }
+      },
+      {
+        "id": 131392,
+        "text": "⤷\nTitle:\nTransitioning from being a teacher to Certified Cybersecurity Professional\n════════════════════════\n𐀪\nAuthor:\nSaijalpreet Kaur\n════════════════════════\nⴵ\nTime:\nMon, 07 Sep 2026 06:01:42 GMT\n════════════════════════\n⌗\nTags:\n#oscp\n#cybersecurity\n#technology\n#infosec\n#security",
+        "date": "2026-09-07T08:04:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131392_0_0d543e17.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131392_1_916027c1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131392",
+        "link": {
+          "title": "Transitioning from being a teacher to Certified Cybersecurity Professional",
+          "url": "https://medium.com/@workwithsaijal/transitioning-from-being-a-teacher-to-certified-cybersecurity-professional-fe899e35f42c?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 131391,
+        "text": "⤷\nTitle:\nCreative (THM) Tryhackme Walkthrough\n════════════════════════\n𐀪\nAuthor:\nLawvye\n════════════════════════\nⴵ\nTime:\nMon, 07 Sep 2026 06:31:48 GMT\n════════════════════════\n⌗\nTags:\n#privilege_escalation\n#linux\n#tryhackme\n#hacking\n#cybersecurity",
+        "date": "2026-09-07T08:04:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131391_0_0d543e17.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131391_1_1092a760.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131391",
+        "link": {
+          "title": "Creative (THM) Tryhackme Walkthrough",
+          "url": "https://medium.com/@lawvye/creative-thm-tryhackme-walkthrough-4bad5760bb4d?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 131390,
+        "text": "⤷\nTitle:\nDNS Tunneling: How Hackers Use Your Internet’s “Phone Book” to Steal Data\n════════════════════════\n𐀪\nAuthor:\ncyberrscourse\n════════════════════════\nⴵ\nTime:\nMon, 07 Sep 2026 07:13:49 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#cybersecurity\n#dns\n#network_security\n#infosec",
+        "date": "2026-09-07T08:04:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131390_0_0d543e17.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131390_1_1cf6cceb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131390",
+        "link": {
+          "title": "DNS Tunneling: How Hackers Use Your Internet’s “Phone Book” to Steal Data",
+          "url": "https://medium.com/@cyberrscourse/dns-tunneling-how-hackers-use-your-internets-phone-book-to-steal-data-7bbbbcc4b46f?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 131389,
+        "text": "⤷\nTitle:\nBackend Exploits in ICS Systems — and Why Enclaves Matter More Than Ever\n════════════════════════\n𐀪\nAuthor:\nCristiano Gabrieli\n════════════════════════\nⴵ\nTime:\nMon, 07 Sep 2026 07:22:49 GMT\n════════════════════════\n⌗\nTags:\n#scada\n#scada_cyber_security\n#hacking",
+        "date": "2026-09-07T08:04:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131389_0_0d543e17.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131389_1_5bd49b97.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131389",
+        "link": {
+          "title": "Backend Exploits in ICS Systems — and Why Enclaves Matter More Than Ever",
+          "url": "https://medium.com/@cristiano.gabrieli112/backend-exploits-in-ics-systems-and-why-enclaves-matter-more-than-ever-1b65cb95ff9f?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 131388,
+        "text": "⤷\nTitle:\nPassword Reset Vulnerability to Full Account Takeover\n════════════════════════\n𐀪\nAuthor:\nDarshan Narayan\n════════════════════════\nⴵ\nTime:\nMon, 07 Sep 2026 06:22:47 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#web_security\n#cybersecurity\n#application_security\n#infosec",
+        "date": "2026-09-07T08:04:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131388_0_0d543e17.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131388_1_7b92fc52.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131388",
+        "link": {
+          "title": "Password Reset Vulnerability to Full Account Takeover",
+          "url": "https://medium.com/@Darkshadow24/password-reset-vulnerability-to-full-account-takeover-a7e58ac3c1ef?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 131371,
         "text": "⤷\nTitle:\nUSB Security Part 7: How to Harden the Port Everyone Trusts\n════════════════════════\n𐀪\nAuthor:\nGnanamanikandan\n════════════════════════\nⴵ\nTime:\nMon, 07 Sep 2026 02:02:56 GMT\n════════════════════════\n⌗\nTags:\n#information_security\n#penetration_testing\n#internet_of_things\n#cybersecurity\n#embedded_systems",
         "date": "2026-09-07T04:04:05+00:00",
@@ -1824,478 +2276,22 @@
           "title": "Did AI Just Become a Hacker?",
           "url": "https://medium.com/@owasp_pccoe/did-ai-just-become-a-hacker-f7f81a23f857?source=rss------hacking-5"
         }
-      },
-      {
-        "id": 131291,
-        "text": "⤷\nTitle:\nBagaimana “Hal yang Tidak Terlihat” Membawa Saya Mendapatkan $1.000 dari Bug Bounty\n════════════════════════\n𐀪\nAuthor:\nAhmad Tazkiarni Ramadhan\n════════════════════════\nⴵ\nTime:\nSun, 06 Sep 2026 02:29:02 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#web_security\n#ethical_hacking\n#information_security\n#bug_bounty",
-        "date": "2026-09-06T04:03:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131291_0_04e4a4cd.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131291_1_5481494e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131291",
-        "link": {
-          "title": "Bagaimana “Hal yang Tidak Terlihat” Membawa Saya Mendapatkan $1.000 dari Bug Bounty",
-          "url": "https://medium.com/@MrPlufy/bagaimana-hal-yang-tidak-terlihat-membawa-saya-mendapatkan-1-000-dari-bug-bounty-f44baec86368?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 131290,
-        "text": "⤷\nTitle:\nHow to Configure Subfinder with API Keys for Better Passive Subdomain Enumeration\n════════════════════════\n𐀪\nAuthor:\nMaMad\n════════════════════════\nⴵ\nTime:\nSun, 06 Sep 2026 01:53:14 GMT\n════════════════════════\n⌗\nTags:\n#reconnaissance\n#bug_bounty\n#bugbounty_tips\n#recon\n#subfinder",
-        "date": "2026-09-06T02:04:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131290_0_04e4a4cd.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131290_1_209fda89.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131290",
-        "link": {
-          "title": "How to Configure Subfinder with API Keys for Better Passive Subdomain Enumeration",
-          "url": "https://medium.com/@MaMad4Ever/how-to-configure-subfinder-with-api-keys-for-better-passive-subdomain-enumeration-1c0e3e12b5fe?source=rss------recon-5"
-        }
-      },
-      {
-        "id": 131289,
-        "text": "⤷\nTitle:\nCross-Site Scripting (XSS)\n════════════════════════\n𐀪\nAuthor:\nSourabh Jala\n════════════════════════\nⴵ\nTime:\nSun, 06 Sep 2026 01:01:34 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ethical_hacking\n#basics\n#xss_attack\n#cross_site_scripting",
-        "date": "2026-09-06T02:04:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131289_0_04e4a4cd.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131289_1_939ad299.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131289",
-        "link": {
-          "title": "Cross-Site Scripting (XSS)",
-          "url": "https://medium.com/@skumarjala/cross-site-scripting-xss-9db3c1ea94c6?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 131288,
-        "text": "⤷\nTitle:\nThe 10 Most Common Ways Systems Can Be Compromised\n════════════════════════\n𐀪\nAuthor:\nTech-FireFish\n════════════════════════\nⴵ\nTime:\nSun, 06 Sep 2026 01:34:13 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#information_security\n#learning\n#ethical_hacking\n#computer_science",
-        "date": "2026-09-06T02:04:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131288_0_04e4a4cd.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131288_1_e39670e6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131288",
-        "link": {
-          "title": "The 10 Most Common Ways Systems Can Be Compromised",
-          "url": "https://medium.com/@tech-firefish/the-10-most-common-ways-systems-can-be-compromised-aa634efbf35a?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 131287,
-        "text": "⤷\nTitle:\nTryHackMe Basic Vulnerability Identification Techniques Walkthrough\n════════════════════════\n𐀪\nAuthor:\nRich\n════════════════════════\nⴵ\nTime:\nSun, 06 Sep 2026 01:37:06 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_writeup\n#enumeration\n#reconnaissance\n#tryhackme\n#tryhackme_walkthrough",
-        "date": "2026-09-06T02:04:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131287_0_04e4a4cd.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131287_1_cb799db3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131287",
-        "link": {
-          "title": "TryHackMe Basic Vulnerability Identification Techniques Walkthrough",
-          "url": "https://happycamper84.medium.com/tryhackme-basic-vulnerability-identification-techniques-walkthrough-f1d860f15986?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 131286,
-        "text": "⤷\nTitle:\nAndroid APK Static Analysis: What to Look For\n════════════════════════\n𐀪\nAuthor:\ne-LeoBeast\n════════════════════════\nⴵ\nTime:\nSun, 06 Sep 2026 01:39:07 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#penetration_testing\n#android_development\n#mobile_security\n#information_security",
-        "date": "2026-09-06T02:03:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131286_0_04e4a4cd.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131286_1_8c129152.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131286",
-        "link": {
-          "title": "Android APK Static Analysis: What to Look For",
-          "url": "https://medium.com/@e-LeoBeast/android-apk-static-analysis-what-to-look-for-bc5e0e892131?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 131285,
-        "text": "⤷\nTitle:\nJetBrains Plugin Security: How a Malicious IDE Plugin Could Spy on You (Part 2)\n════════════════════════\n𐀪\nAuthor:\njayaram krishna kumar\n════════════════════════\nⴵ\nTime:\nSun, 06 Sep 2026 00:07:36 GMT\n════════════════════════\n⌗\nTags:\n#malware\n#application_security\n#offensive_security\n#data_security\n#security",
-        "date": "2026-09-06T02:03:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131285_0_04e4a4cd.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131285_1_bc2662b1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131285",
-        "link": {
-          "title": "JetBrains Plugin Security: How a Malicious IDE Plugin Could Spy on You (Part 2)",
-          "url": "https://jayaramyalla.medium.com/jetbrains-plugin-security-how-a-malicious-ide-plugin-could-spy-on-you-part-2-63a1c3281470?source=rss------application_security-5"
-        }
-      },
-      {
-        "id": 131284,
-        "text": "⤷\nTitle:\nOAuth Attacks: Where Authentication Goes Wrong\n════════════════════════\n𐀪\nAuthor:\nParitosh\n════════════════════════\nⴵ\nTime:\nSun, 06 Sep 2026 00:33:23 GMT\n════════════════════════\n⌗\nTags:\n#ai\n#cybersecurity\n#oauth\n#bug_bounty\n#information_security",
-        "date": "2026-09-06T02:03:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131284_0_04e4a4cd.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131284_1_5aa95d54.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131284",
-        "link": {
-          "title": "OAuth Attacks: Where Authentication Goes Wrong",
-          "url": "https://medium.com/@paritoshblogs/oauth-attacks-where-authentication-goes-wrong-d16f8fca28ec?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 131283,
-        "text": "⤷\nTitle:\nThe Front Door is Unlocked: Why Modern Cyberattacks Start with a Valid Login\n════════════════════════\n𐀪\nAuthor:\nHamza Mahmoud Ahmed\n════════════════════════\nⴵ\nTime:\nSat, 05 Sep 2026 23:19:23 GMT\n════════════════════════\n⌗\nTags:\n#writing\n#cybercrime\n#hacking\n#cybersecurity\n#true_crime",
-        "date": "2026-09-06T00:03:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131283_0_04e4a4cd.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131283_1_87d082c2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131283",
-        "link": {
-          "title": "The Front Door is Unlocked: Why Modern Cyberattacks Start with a Valid Login",
-          "url": "https://medium.com/@hamza1000mahmoud/the-front-door-is-unlocked-why-modern-cyberattacks-start-with-a-valid-login-71e1d2d7372f?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 131282,
-        "text": "⤷\nTitle:\nFinding Secrets Inside JavaScript Files\n════════════════════════\n𐀪\nAuthor:\nMonika\n════════════════════════\nⴵ\nTime:\nSat, 05 Sep 2026 22:53:39 GMT\n════════════════════════\n⌗\nTags:\n#javascript\n#cybersecurity\n#ethical_hacking\n#bug_bounty\n#technology",
-        "date": "2026-09-06T00:03:51+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131282_0_04e4a4cd.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131282_1_f30ed423.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131282",
-        "link": {
-          "title": "Finding Secrets Inside JavaScript Files",
-          "url": "https://meetcyber.net/finding-secrets-inside-javascript-files-aa8261f330fa?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 131281,
-        "text": "⤷\nTitle:\nHackSmarter Web App Basics Course Review - Thank you to my Teachers — Part 1 of many\n════════════════════════\n𐀪\nAuthor:\nCpt Ron\n════════════════════════\nⴵ\nTime:\nSat, 05 Sep 2026 21:03:13 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#teaching\n#gratitude\n#learning\n#ethical_hacking",
-        "date": "2026-09-05T22:04:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131281_0_7a098efe.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131281_1_b26e5f18.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131281",
-        "link": {
-          "title": "HackSmarter Web App Basics Course Review - Thank you to my Teachers — Part 1 of many",
-          "url": "https://medium.com/@cpt_ron/hacksmarter-web-app-basics-course-review-thank-you-to-my-teachers-part-1-of-many-f73fa113abbf?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 131280,
-        "text": "⤷\nTitle:\nSMB Penetration Testing: A Complete Walkthrough\n════════════════════════\n𐀪\nAuthor:\nMohamed Eid\n════════════════════════\nⴵ\nTime:\nSat, 05 Sep 2026 20:29:18 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#cybersecurity\n#smb\n#infosec\n#penetration_testing",
-        "date": "2026-09-05T22:04:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131280_0_7a098efe.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131280_1_422d938d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131280",
-        "link": {
-          "title": "SMB Penetration Testing: A Complete Walkthrough",
-          "url": "https://medium.com/@mohamed3id/smb-penetration-testing-a-complete-walkthrough-9a32f5ecf33c?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 131279,
-        "text": "⤷\nTitle:\nOpenAI’s Models Built a Secret Hacking Forum. OpenAI Found Out, and Kept Training Them.\n════════════════════════\n𐀪\nAuthor:\nSoumyadipta Birabar\n════════════════════════\nⴵ\nTime:\nSat, 05 Sep 2026 19:58:51 GMT\n════════════════════════\n⌗\nTags:\n#technology\n#hacking\n#infosec\n#cybersecurity\n#artificial_intelligence",
-        "date": "2026-09-05T22:04:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131279_0_7a098efe.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131279_1_09245d73.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131279",
-        "link": {
-          "title": "OpenAI’s Models Built a Secret Hacking Forum. OpenAI Found Out, and Kept Training Them.",
-          "url": "https://medium.com/@SudoXploit7/openais-models-built-a-secret-hacking-forum-openai-found-out-and-kept-training-them-6b09be3f16f9?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 131278,
-        "text": "⤷\nTitle:\nThe Free OSINT Path Nobody’s Mapped on TryHackMe (Because Every Guide Only Talks About Hack The…\n════════════════════════\n𐀪\nAuthor:\n5um1t0x\n════════════════════════\nⴵ\nTime:\nSat, 05 Sep 2026 20:22:49 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#tryhackme\n#osint\n#information_security\n#cybersecurity",
-        "date": "2026-09-05T22:04:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131278_0_7a098efe.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131278_1_f59f307f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131278",
-        "link": {
-          "title": "The Free OSINT Path Nobody’s Mapped on TryHackMe (Because Every Guide Only Talks About Hack The…",
-          "url": "https://medium.com/@5um1t0x/the-free-osint-path-nobodys-mapped-on-tryhackme-because-every-guide-only-talks-about-hack-the-70b3b21ca060?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 131277,
-        "text": "⤷\nTitle:\nImproper OTP Implementation to Full Account Takeover\n════════════════════════\n𐀪\nAuthor:\nSid\n════════════════════════\nⴵ\nTime:\nSat, 05 Sep 2026 21:03:53 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#pentesting\n#cybersecurity\n#info_sec_writeups\n#infosec",
-        "date": "2026-09-05T22:03:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131277_0_7a098efe.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131277_1_3ab0e193.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131277",
-        "link": {
-          "title": "Improper OTP Implementation to Full Account Takeover",
-          "url": "https://infosecwriteups.com/improper-otp-implementation-to-full-account-takeover-df21e126f10f?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 131276,
-        "text": "⤷\nTitle:\nI Got My First Bug Bounty Hall of Fame… Without Finding a Bug\n════════════════════════\n𐀪\nAuthor:\nKrish\n════════════════════════\nⴵ\nTime:\nSat, 05 Sep 2026 21:07:28 GMT\n════════════════════════\n⌗\nTags:\n#bug_hunting\n#bug_bounty\n#cybersecurity\n#information_security\n#web_security",
-        "date": "2026-09-05T22:03:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131276_0_7a098efe.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131276_1_9e3c53cf.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131276",
-        "link": {
-          "title": "I Got My First Bug Bounty Hall of Fame… Without Finding a Bug",
-          "url": "https://medium.com/@krish_hax/i-got-my-first-bug-bounty-hall-of-fame-without-finding-a-bug-8e78b043466a?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 131275,
-        "text": "⤷\nTitle:\nChanging GET to POST: What Happens When APIs Trust HTTP Methods?\n════════════════════════\n𐀪\nAuthor:\nYamini Yadav_369\n════════════════════════\nⴵ\nTime:\nSat, 05 Sep 2026 21:41:01 GMT\n════════════════════════\n⌗\nTags:\n#medium\n#writing_tips\n#ethical_hacking\n#bug_bounty\n#cybersecurity",
-        "date": "2026-09-05T22:03:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131275_0_7a098efe.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131275_1_b8013e8a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131275",
-        "link": {
-          "title": "Changing GET to POST: What Happens When APIs Trust HTTP Methods?",
-          "url": "https://systemweakness.com/changing-get-to-post-what-happens-when-apis-trust-http-methods-d9363fe752cf?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 131274,
-        "text": "⤷\nTitle:\nUnpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nSun, 06 Sep 2026 01:44:47 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-09-05T22:03:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131274_0_7a098efe.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131274",
-        "link": {
-          "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
-          "url": "https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html"
-        }
-      },
-      {
-        "id": 131273,
-        "text": "⤷\nTitle:\nExploiting Blue Machine From TCM Academy with EternalBlue\n════════════════════════\n𐀪\nAuthor:\nNajeebparkar\n════════════════════════\nⴵ\nTime:\nSat, 05 Sep 2026 18:43:22 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#eternalblue\n#smb_exploitation\n#cybersecurity\n#tcm_academy",
-        "date": "2026-09-05T20:04:22+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131273_0_7a098efe.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131273_1_2ce18379.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131273",
-        "link": {
-          "title": "Exploiting Blue Machine From TCM Academy with EternalBlue",
-          "url": "https://medium.com/@najeebparkar15/exploiting-blue-machine-from-tcm-academy-with-eternalblue-550868bcea34?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 131272,
-        "text": "⤷\nTitle:\nTryHackMe Cyber Security 101 | Search Skills\n════════════════════════\n𐀪\nAuthor:\nMurad Mammadli\n════════════════════════\nⴵ\nTime:\nSat, 05 Sep 2026 19:24:02 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_writeup\n#cybersecurity\n#tryhackme_walkthrough\n#shodan\n#tryhackme",
-        "date": "2026-09-05T20:04:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131272_0_7a098efe.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131272_1_df6878de.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131272",
-        "link": {
-          "title": "TryHackMe Cyber Security 101 | Search Skills",
-          "url": "https://medium.com/@mammadlim204/tryhackme-cyber-security-101-search-skills-7e767b6e4dd3?source=rss------tryhackme-5"
-        }
       }
     ]
   },
-  "last_update": "2026-09-07T05:22:52.010556+00:00",
+  "last_update": "2026-09-07T10:33:25.793528+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 195,
-    "total_files": 195,
+    "total_media": 194,
+    "total_files": 194,
     "total_links": 0,
     "files_by_type": {
-      "image": 195
+      "image": 194
     },
-    "referenced_files": 195,
-    "existing_media_files": 195,
-    "total_size_mb": 5.8,
-    "last_calculation": "2026-09-07T05:22:52.012873+00:00"
+    "referenced_files": 194,
+    "existing_media_files": 194,
+    "total_size_mb": 5.29,
+    "last_calculation": "2026-09-07T10:33:25.795922+00:00"
   }
 }
