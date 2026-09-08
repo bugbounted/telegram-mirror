@@ -2,6 +2,435 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 131603,
+        "text": "⤷\nTitle:\nSecuring OpenAPI Specifications: Understanding Your API Attack Surface\n════════════════════════\n𐀪\nAuthor:\nAlfa\n════════════════════════\nⴵ\nTime:\nTue, 08 Sep 2026 18:25:30 GMT\n════════════════════════\n⌗\nTags:\n#software_testing\n#cybersecurity\n#devops\n#open_api\n#api_security",
+        "date": "2026-09-08T20:04:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131603_0_68103a8c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131603_1_af534d0a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131603",
+        "link": {
+          "title": "Securing OpenAPI Specifications: Understanding Your API Attack Surface",
+          "url": "https://medium.com/@grosugeomar/securing-openapi-specifications-understanding-your-api-attack-surface-2d24220d837f?source=rss------api_security-5"
+        }
+      },
+      {
+        "id": 131602,
+        "text": "⤷\nTitle:\nIntroduction to Windows Incident Response — TryHackMe Write-up\n════════════════════════\n𐀪\nAuthor:\nShadowProbe\n════════════════════════\nⴵ\nTime:\nTue, 08 Sep 2026 18:04:51 GMT\n════════════════════════\n⌗\nTags:\n#windows\n#tryhackme\n#cybersecurity\n#incident_response",
+        "date": "2026-09-08T20:04:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131602_0_68103a8c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131602_1_ff3299cd.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131602",
+        "link": {
+          "title": "Introduction to Windows Incident Response — TryHackMe Write-up",
+          "url": "https://medium.com/@shadowprobe/introduction-to-windows-incident-response-tryhackme-write-up-cd77bcdd4685?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 131601,
+        "text": "⤷\nTitle:\nActive Directory Basics — TryHackMe\n════════════════════════\n𐀪\nAuthor:\nKamatchibalu\n════════════════════════\nⴵ\nTime:\nTue, 08 Sep 2026 19:53:34 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#tryhackme_writeup\n#active_directory\n#tryhackme_walkthrough\n#tryhackme_ad",
+        "date": "2026-09-08T20:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131601_0_68103a8c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131601_1_a55d3174.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131601",
+        "link": {
+          "title": "Active Directory Basics — TryHackMe",
+          "url": "https://kamatchibalu24.medium.com/active-directory-basics-tryhackme-e6c4808279dd?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 131600,
+        "text": "⤷\nTitle:\nDC-6 Walkthrough — From WordPress Enumeration to Root Access\n════════════════════════\n𐀪\nAuthor:\nJari Saikrishna\n════════════════════════\nⴵ\nTime:\nTue, 08 Sep 2026 18:57:32 GMT\n════════════════════════\n⌗\nTags:\n#cybercrime\n#life\n#hacking\n#this_happened_to_me\n#cybersecurity",
+        "date": "2026-09-08T20:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131600_0_68103a8c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131600_1_d1e37ef4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131600",
+        "link": {
+          "title": "DC-6 Walkthrough — From WordPress Enumeration to Root Access",
+          "url": "https://medium.com/@jari.saikrishna59/dc-6-walkthrough-from-wordpress-enumeration-to-root-access-9fe597d01ada?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 131599,
+        "text": "⤷\nTitle:\nLinux Has More Backdoors Than You Think\n════════════════════════\n𐀪\nAuthor:\nR3dBrothers\n════════════════════════\nⴵ\nTime:\nTue, 08 Sep 2026 19:01:10 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#red_teaming\n#linux\n#persistence\n#cybersecurity",
+        "date": "2026-09-08T20:03:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131599_0_68103a8c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131599_1_fc01dc5b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131599",
+        "link": {
+          "title": "Linux Has More Backdoors Than You Think",
+          "url": "https://medium.com/@r3dbrothers1/linux-has-more-backdoors-than-you-think-d94485f6a913?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 131598,
+        "text": "⤷\nTitle:\nEthical Hacker: Hire The Best Certified Ethical Hackers > Smatchoicehackers.com\n════════════════════════\n𐀪\nAuthor:\nPaul Weller\n════════════════════════\nⴵ\nTime:\nTue, 08 Sep 2026 18:17:59 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#cybersecurity\n#ethical_hacking\n#white_hat_hacker\n#bug_bounty",
+        "date": "2026-09-08T20:03:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131598_0_68103a8c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131598_1_91309da2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131598",
+        "link": {
+          "title": "Ethical Hacker: Hire The Best Certified Ethical Hackers > Smatchoicehackers.com",
+          "url": "https://medium.com/@paulweller_3232/ethical-hacker-hire-the-best-certified-ethical-hackers-smatchoicehackers-com-b6c0e135b0b7?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 131597,
+        "text": "⤷\nTitle:\nHow a Default Password Let Me Log Into Almost Anyone’s Account\n════════════════════════\n𐀪\nAuthor:\nUday Dixit\n════════════════════════\nⴵ\nTime:\nTue, 08 Sep 2026 19:02:30 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#account_takeover\n#web_penetration_testing\n#bug_bounty\n#hackerone",
+        "date": "2026-09-08T20:03:46+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131597_0_68103a8c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131597_1_61ba538f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131597",
+        "link": {
+          "title": "How a Default Password Let Me Log Into Almost Anyone’s Account",
+          "url": "https://medium.com/@udaydixit987/how-a-default-password-let-me-log-into-almost-anyones-account-75d3a60dbc5b?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 131596,
+        "text": "⤷\nTitle:\nBeyond the Login: Why the W3C’s Decentralized Identifiers (DIDs) Change Everything\n════════════════════════\n𐀪\nAuthor:\nMuhammad Awais\n════════════════════════\nⴵ\nTime:\nTue, 08 Sep 2026 16:19:41 GMT\n════════════════════════\n⌗\nTags:\n#future_technology\n#web3\n#machine_identities\n#api_security\n#agentic_ai",
+        "date": "2026-09-08T18:04:39+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131596_0_68103a8c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131596_1_400c817c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131596",
+        "link": {
+          "title": "Beyond the Login: Why the W3C’s Decentralized Identifiers (DIDs) Change Everything",
+          "url": "https://medium.com/@muhammad.awais.professional/beyond-the-login-why-the-w3cs-decentralized-identifiers-dids-change-everything-ecfa888e4d01?source=rss------api_security-5"
+        }
+      },
+      {
+        "id": 131595,
+        "text": "⤷\nTitle:\nTP-Link Archer AX55 Router Flaws Expose Homes to Hackers — Patch Now\n════════════════════════\n𐀪\nAuthor:\nXpert4Cyber\n════════════════════════\nⴵ\nTime:\nTue, 08 Sep 2026 16:46:49 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#cybersecurity\n#tp_link\n#vulnerability\n#network_security",
+        "date": "2026-09-08T18:04:36+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131595_0_68103a8c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131595_1_5f91c68f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131595",
+        "link": {
+          "title": "TP-Link Archer AX55 Router Flaws Expose Homes to Hackers — Patch Now",
+          "url": "https://medium.com/@xpert4cyber/tp-link-archer-ax55-router-flaws-expose-homes-to-hackers-patch-now-57317f276a7c?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 131594,
+        "text": "⤷\nTitle:\nDebug (THM) Tryhackme Walkthrough\n════════════════════════\n𐀪\nAuthor:\nLawvye\n════════════════════════\nⴵ\nTime:\nTue, 08 Sep 2026 16:11:55 GMT\n════════════════════════\n⌗\nTags:\n#privilege_escalation\n#hacking\n#tryhackme\n#cybersecurity\n#linux",
+        "date": "2026-09-08T18:04:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131594_0_68103a8c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131594_1_84e8c22a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131594",
+        "link": {
+          "title": "Debug (THM) Tryhackme Walkthrough",
+          "url": "https://medium.com/@lawvye/debug-thm-tryhackme-walkthrough-c2c1382fb2f9?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 131593,
+        "text": "⤷\nTitle:\nMalware bancario con IA en América Latina: así secuestran el dispositivo y la transacción\n════════════════════════\n𐀪\nAuthor:\nTU INSIGNIA\n════════════════════════\nⴵ\nTime:\nTue, 08 Sep 2026 17:19:32 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#ethical_hacking\n#ai\n#ai_agent\n#generative_ai_tools",
+        "date": "2026-09-08T18:04:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131593_0_68103a8c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131593",
+        "link": {
+          "title": "Malware bancario con IA en América Latina: así secuestran el dispositivo y la transacción",
+          "url": "https://medium.com/@TUINSIGNIA/malware-bancario-con-ia-en-am%C3%A9rica-latina-as%C3%AD-secuestran-el-dispositivo-y-la-transacci%C3%B3n-6e8ff6938664?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 131592,
+        "text": "⤷\nTitle:\nHow Not To Get Hacked Part 2\n════════════════════════\n𐀪\nAuthor:\nRed\n════════════════════════\nⴵ\nTime:\nTue, 08 Sep 2026 17:22:22 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#hacking\n#infosec\n#microsoft\n#privacy",
+        "date": "2026-09-08T18:04:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131592_0_68103a8c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131592_1_7c4914f9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131592",
+        "link": {
+          "title": "How Not To Get Hacked Part 2",
+          "url": "https://meetcyber.net/how-not-to-get-hacked-part-2-1c795a7b5c1e?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 131591,
+        "text": "⤷\nTitle:\nWhen Changing One ID Let Me Upload the Same File Again\n════════════════════════\n𐀪\nAuthor:\nSanjivani Dobhal\n════════════════════════\nⴵ\nTime:\nTue, 08 Sep 2026 17:55:06 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#cyberattack\n#cybersecurity\n#cybercrime\n#hacker",
+        "date": "2026-09-08T18:04:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131591_0_68103a8c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131591_1_414557fd.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131591",
+        "link": {
+          "title": "When Changing One ID Let Me Upload the Same File Again",
+          "url": "https://medium.com/@sanjivanidobhal05/when-changing-one-id-let-me-upload-the-same-file-again-069162332295?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 131590,
+        "text": "⤷\nTitle:\nWhen Pre-Account Takeover Actually Means Pre-Account Takeover\n════════════════════════\n𐀪\nAuthor:\nMostafa\n════════════════════════\nⴵ\nTime:\nTue, 08 Sep 2026 16:13:10 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#cybersecurity\n#pre_account_takeover\n#email_verification_bypass\n#account_takeover",
+        "date": "2026-09-08T18:04:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131590_0_68103a8c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131590_1_10d2b69f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131590",
+        "link": {
+          "title": "When Pre-Account Takeover Actually Means Pre-Account Takeover",
+          "url": "https://medium.com/@mostvvfv/when-pre-account-takeover-actually-means-pre-account-takeover-84ee9dd2263c?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 131589,
+        "text": "⤷\nTitle:\nI Found a Tiny Filename Bypass That Broke a “Safe” Loader — and Earned  $$$\n════════════════════════\n𐀪\nAuthor:\nMohamed Mekawy\n════════════════════════\nⴵ\nTime:\nTue, 08 Sep 2026 16:19:17 GMT\n════════════════════════\n⌗\nTags:\n#python\n#information_security\n#cybersecurity\n#bug_bounty",
+        "date": "2026-09-08T18:04:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131589_0_68103a8c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131589_1_eb79e2ff.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131589",
+        "link": {
+          "title": "I Found a Tiny Filename Bypass That Broke a “Safe” Loader — and Earned  $$$",
+          "url": "https://medium.com/@xoemekk1/i-found-a-tiny-filename-bypass-that-broke-a-safe-loader-and-earned-7fc1afb70af3?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 131588,
+        "text": "⤷\nTitle:\nI Used My Own Identity Provider to Take Over Another Tenant\n════════════════════════\n𐀪\nAuthor:\nYaseen Zubair\n════════════════════════\nⴵ\nTime:\nTue, 08 Sep 2026 16:42:52 GMT\n════════════════════════\n⌗\nTags:\n#web_application_security\n#sso\n#penetration_testing\n#pentesting\n#bug_bounty",
+        "date": "2026-09-08T18:04:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131588_0_68103a8c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131588_1_198f597b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131588",
+        "link": {
+          "title": "I Used My Own Identity Provider to Take Over Another Tenant",
+          "url": "https://yaseenzubair.medium.com/i-used-my-own-identity-provider-to-take-over-another-tenant-5f356ef77d3b?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 131587,
+        "text": "⤷\nTitle:\nCritical Fortinet Vulnerabilities Expose Networks to Attack\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 08 Sep 2026 17:26:16 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_26084\n#CVE_2026_84388\n#CVE_2026_84390\n#FortiMonitor\n#Fortinet\n#FortiPAM\n#FortiSandbox\n#Vulnerability",
+        "date": "2026-09-08T18:04:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131587_0_68103a8c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131587_1_fdb8ed2c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131587",
+        "link": {
+          "title": "Critical Fortinet Vulnerabilities Expose Networks to Attack",
+          "url": "https://securityonline.info/fortinet-vulnerabilities-patch/"
+        }
+      },
+      {
+        "id": 131586,
+        "text": "⤷\nTitle:\nWeChat Zero-Click Worm Exposed in New Security Advisory\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nTue, 08 Sep 2026 17:00:04 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\n#RCE\n#vulnerability\n#wechat\n#Worm\n#Zero_Click",
+        "date": "2026-09-08T18:04:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131586_0_68103a8c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131586_1_e1e72b7c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131586",
+        "link": {
+          "title": "WeChat Zero-Click Worm Exposed in New Security Advisory",
+          "url": "https://meterpreter.org/wechat-zero-click-worm/"
+        }
+      },
+      {
+        "id": 131585,
+        "text": "⤷\nTitle:\nSlim Spider Steals Crypto Custody Secrets From Brazilian Financial Institution\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nTue, 08 Sep 2026 21:50:23 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-09-08T18:04:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131585_0_68103a8c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131585",
+        "link": {
+          "title": "Slim Spider Steals Crypto Custody Secrets From Brazilian Financial Institution",
+          "url": "https://thehackernews.com/2026/09/slim-spider-steals-crypto-custody.html"
+        }
+      },
+      {
         "id": 131584,
         "text": "⤷\nTitle:\nCheckmate — TryHackMe Writeup\n════════════════════════\n𐀪\nAuthor:\nNeelesh Pandey\n════════════════════════\nⴵ\nTime:\nTue, 08 Sep 2026 13:56:42 GMT\n════════════════════════\n⌗\nTags:\n#walkthrough\n#password_cracking\n#offensive_security\n#pentesting\n#tryhackme",
         "date": "2026-09-08T16:05:11+00:00",
@@ -1855,439 +2284,10 @@
           "title": "Chameleon Ultra: Guide to RFID Reading, Emulation and Testing",
           "url": "https://www.mobile-hacker.com/2026/09/07/chameleon-ultra-guide-to-rfid-reading-emulation-and-testing/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=chameleon-ultra-guide-to-rfid-reading-emulation-and-testing"
         }
-      },
-      {
-        "id": 131477,
-        "text": "⤷\nTitle:\nJump — TryHackMe Linux Privilege Escalation Write-up\n════════════════════════\n𐀪\nAuthor:\n0xSpecter\n════════════════════════\nⴵ\nTime:\nMon, 07 Sep 2026 18:08:02 GMT\n════════════════════════\n⌗\nTags:\n#privilege_escalation\n#ctf\n#tryhackme\n#cyber_security_awareness",
-        "date": "2026-09-07T20:04:34+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131477_0_0d543e17.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131477_1_1b94c029.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131477",
-        "link": {
-          "title": "Jump — TryHackMe Linux Privilege Escalation Write-up",
-          "url": "https://0xspecter.medium.com/jump-tryhackme-linux-privilege-escalation-write-up-eb9af50439fa?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 131476,
-        "text": "⤷\nTitle:\nTryHackMe Cyber Security 101 | Linux Fundamentals 1&2&3\n════════════════════════\n𐀪\nAuthor:\nMurad Mammadli\n════════════════════════\nⴵ\nTime:\nMon, 07 Sep 2026 18:45:37 GMT\n════════════════════════\n⌗\nTags:\n#linux\n#tryhackme\n#tryhackme_writeup\n#linux_tutorial",
-        "date": "2026-09-07T20:04:31+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131476_0_0d543e17.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131476_1_a236f2ab.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131476",
-        "link": {
-          "title": "TryHackMe Cyber Security 101 | Linux Fundamentals 1&2&3",
-          "url": "https://medium.com/@muradmammaadli/tryhackme-cyber-security-101-linux-fundamentals-1-2-3-ae26536ff7db?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 131475,
-        "text": "⤷\nTitle:\nTHM — Trusted By Default: A Splunk Incident Reconstruction (Q&A Walkthrough)\n════════════════════════\n𐀪\nAuthor:\nGhostbhoot\n════════════════════════\nⴵ\nTime:\nMon, 07 Sep 2026 19:32:06 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_writeup\n#tryhackme\n#splunk\n#cybersecurity\n#blue_team",
-        "date": "2026-09-07T20:04:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131475_0_0d543e17.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131475_1_86c177e3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131475",
-        "link": {
-          "title": "THM — Trusted By Default: A Splunk Incident Reconstruction (Q&A Walkthrough)",
-          "url": "https://medium.com/@ghostbhoot610/thm-trusted-by-default-a-splunk-incident-reconstruction-q-a-walkthrough-946cbd0cc245?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 131474,
-        "text": "⤷\nTitle:\nOne Web Vulnerability. One Pivot. The Entire Domain.\n════════════════════════\n𐀪\nAuthor:\nSuyash\n════════════════════════\nⴵ\nTime:\nMon, 07 Sep 2026 18:15:36 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#red_team\n#active_directory\n#ethical_hacking\n#cybersecurity",
-        "date": "2026-09-07T20:04:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131474_0_0d543e17.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131474_1_8916cd41.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131474",
-        "link": {
-          "title": "One Web Vulnerability. One Pivot. The Entire Domain.",
-          "url": "https://medium.com/@nilaa.kattapa/one-web-vulnerability-one-pivot-the-entire-domain-30b6639e754a?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 131473,
-        "text": "⤷\nTitle:\nDC-9 ( DC-9 Walkthrough: From SQL Injection to Root Access)\n════════════════════════\n𐀪\nAuthor:\nJari Saikrishna\n════════════════════════\nⴵ\nTime:\nMon, 07 Sep 2026 19:24:37 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#jobs\n#cyber_security_awareness\n#cyberattack\n#cybersecurity",
-        "date": "2026-09-07T20:04:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131473_0_0d543e17.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131473_1_b73485d2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131473",
-        "link": {
-          "title": "DC-9 ( DC-9 Walkthrough: From SQL Injection to Root Access)",
-          "url": "https://medium.com/@jari.saikrishna59/dc-9-dc-9-walkthrough-from-sql-injection-to-root-access-4d84f79f204a?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 131472,
-        "text": "⤷\nTitle:\nBreaking Down a Healthcare Web Application: A Complete VAPT Walkthrough .\n════════════════════════\n𐀪\nAuthor:\nAkarsh_¢haturvedi\n════════════════════════\nⴵ\nTime:\nMon, 07 Sep 2026 18:08:40 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#bug_bounty\n#owasp\n#ethical_hacking\n#pentesting",
-        "date": "2026-09-07T20:04:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131472_0_0d543e17.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131472_1_b6a6fb02.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131472",
-        "link": {
-          "title": "Breaking Down a Healthcare Web Application: A Complete VAPT Walkthrough .",
-          "url": "https://medium.com/@Akarsh_Chaturvedi/i-tasted-a-healthcare-platform-a-complete-vapt-walkthrough-de785fde3683?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 131471,
-        "text": "⤷\nTitle:\nCommon Sensitive Files You Should Look For During Web Recon\n════════════════════════\n𐀪\nAuthor:\nMonika\n════════════════════════\nⴵ\nTime:\nMon, 07 Sep 2026 19:17:01 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#bug_bounty\n#javascript\n#technology\n#hacking",
-        "date": "2026-09-07T20:04:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131471_0_0d543e17.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131471_1_6168d9de.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131471",
-        "link": {
-          "title": "Common Sensitive Files You Should Look For During Web Recon",
-          "url": "https://medium.com/h7w/common-sensitive-files-you-should-look-for-during-web-recon-d4ff35e3d7f0?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 131470,
-        "text": "⤷\nTitle:\nCVE-2026-76578 (CVSS 9.8): Critical FreeIPA Vulnerability\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 07 Sep 2026 16:24:14 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_13097\n#CVE_2026_76578\n#cybersecurity\n#FreeIPA\n#Vulnerability",
-        "date": "2026-09-07T20:04:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131470_0_0d543e17.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131470_1_d2a0dc81.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131470",
-        "link": {
-          "title": "CVE-2026-76578 (CVSS 9.8): Critical FreeIPA Vulnerability",
-          "url": "https://securityonline.info/freeipa-cve-2026-76578-vulnerability/"
-        }
-      },
-      {
-        "id": 131469,
-        "text": "⤷\nTitle:\nCVE-2026-80172 (CVSS 9.8): Dell SCG Flaw Grants Unauthorized Access\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 07 Sep 2026 16:35:35 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_61410\n#CVE_2026_80172\n#dell\n#Remote\nCode Execution\n#Secure\nConnect Gateway\n#unauthorized\naccess",
-        "date": "2026-09-07T20:04:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131469_0_0d543e17.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131469_1_0072df45.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131469",
-        "link": {
-          "title": "CVE-2026-80172 (CVSS 9.8): Dell SCG Flaw Grants Unauthorized Access",
-          "url": "https://securityonline.info/dell-scg-cve-2026-80172/"
-        }
-      },
-      {
-        "id": 131468,
-        "text": "⤷\nTitle:\nPEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nMon, 07 Sep 2026 23:42:09 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-09-07T20:04:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131468_0_0d543e17.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131468",
-        "link": {
-          "title": "PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution",
-          "url": "https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html"
-        }
-      },
-      {
-        "id": 131467,
-        "text": "⤷\nTitle:\nThe WordPress SEO Checklist: 21 Things to Fix Before You Expect Google to Rank You\n════════════════════════\n𐀪\nAuthor:\nMansoor_Ahmad-SEO\n════════════════════════\nⴵ\nTime:\nMon, 07 Sep 2026 16:38:33 GMT\n════════════════════════\n⌗\nTags:\n#seo_services\n#seo\n#bug_bounty_tips\n#seo_tips\n#wordpress",
-        "date": "2026-09-07T18:04:45+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131467_0_0d543e17.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131467_1_fcbc9511.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131467",
-        "link": {
-          "title": "The WordPress SEO Checklist: 21 Things to Fix Before You Expect Google to Rank You",
-          "url": "https://medium.com/@mansoorahmadseo/the-wordpress-seo-checklist-21-things-to-fix-before-you-expect-google-to-rank-you-4e8ccbf6b837?source=rss------bug_bounty_tips-5"
-        }
-      },
-      {
-        "id": 131466,
-        "text": "⤷\nTitle:\nYour MCP Server Is A Public Admin Panel. Mine Was Too\n════════════════════════\n𐀪\nAuthor:\nThe Thread Whisperer\n════════════════════════\nⴵ\nTime:\nMon, 07 Sep 2026 16:11:49 GMT\n════════════════════════\n⌗\nTags:\n#technology\n#cybersecurity\n#ai_agent\n#api_security\n#programming",
-        "date": "2026-09-07T18:04:42+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131466_0_0d543e17.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131466_1_36fd29ad.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131466",
-        "link": {
-          "title": "Your MCP Server Is A Public Admin Panel. Mine Was Too",
-          "url": "https://medium.com/@maahisoft20/your-mcp-server-is-a-public-admin-panel-mine-was-too-a6cb78f6ab6d?source=rss------api_security-5"
-        }
-      },
-      {
-        "id": 131465,
-        "text": "⤷\nTitle:\nWhy Elliptic Curve Cryptography\n════════════════════════\n𐀪\nAuthor:\nEngr. Md. Hasan Monsur\n════════════════════════\nⴵ\nTime:\nMon, 07 Sep 2026 16:58:27 GMT\n════════════════════════\n⌗\nTags:\n#tls_certificate\n#elliptic_curve\n#ecc\n#api_security\n#programming",
-        "date": "2026-09-07T18:04:38+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131465_0_0d543e17.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131465_1_495d19a5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131465",
-        "link": {
-          "title": "Why Elliptic Curve Cryptography",
-          "url": "https://medium.com/@hasanmcse/why-elliptic-curve-cryptography-c8f6e96933eb?source=rss------api_security-5"
-        }
-      },
-      {
-        "id": 131464,
-        "text": "⤷\nTitle:\nWireshark: Installation and Lab Practical\n════════════════════════\n𐀪\nAuthor:\nKhushsingla\n════════════════════════\nⴵ\nTime:\nMon, 07 Sep 2026 16:28:34 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#tryhackme\n#wireshark",
-        "date": "2026-09-07T18:04:35+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131464_0_0d543e17.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131464_1_6538f3bf.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131464",
-        "link": {
-          "title": "Wireshark: Installation and Lab Practical",
-          "url": "https://medium.com/@khushsingla19/wireshark-installation-and-lab-practical-e20761107382?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 131463,
-        "text": "⤷\nTitle:\nLetter\n════════════════════════\n𐀪\nAuthor:\nh3xiee\n════════════════════════\nⴵ\nTime:\nMon, 07 Sep 2026 16:55:33 GMT\n════════════════════════\n⌗\nTags:\n#osint\n#tryhackme\n#newbie_writer\n#tryhackme_walkthrough\n#letters",
-        "date": "2026-09-07T18:04:31+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131463_0_0d543e17.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131463_1_d7d9191e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131463",
-        "link": {
-          "title": "Letter",
-          "url": "https://medium.com/@krishikachellappandian/letter-6eae6e79f7b7?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 131462,
-        "text": "⤷\nTitle:\nTrezor’s Wallets Were Never Hacked. Here’s Why 80,000+ Customers Got Exposed Anyway\n════════════════════════\n𐀪\nAuthor:\nXpert4Cyber\n════════════════════════\nⴵ\nTime:\nMon, 07 Sep 2026 16:17:08 GMT\n════════════════════════\n⌗\nTags:\n#data_breach\n#vendor_risk_management\n#cybersecurity\n#crypto\n#infosec",
-        "date": "2026-09-07T18:04:28+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131462_0_0d543e17.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131462_1_5c1e557c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131462",
-        "link": {
-          "title": "Trezor’s Wallets Were Never Hacked. Here’s Why 80,000+ Customers Got Exposed Anyway",
-          "url": "https://medium.com/@xpert4cyber/trezors-wallets-were-never-hacked-here-s-why-80-000-customers-got-exposed-anyway-77fa778108ed?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 131461,
-        "text": "⤷\nTitle:\nMicrosoft Teams Is Hiding QR Codes to Stop Phishing Attacks\n════════════════════════\n𐀪\nAuthor:\nXpert4Cyber\n════════════════════════\nⴵ\nTime:\nMon, 07 Sep 2026 16:17:22 GMT\n════════════════════════\n⌗\nTags:\n#phishing\n#microsoft_teams\n#infosec\n#microsoft_365\n#cybersecurity",
-        "date": "2026-09-07T18:04:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131461_0_0d543e17.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131461_1_ac6862d2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131461",
-        "link": {
-          "title": "Microsoft Teams Is Hiding QR Codes to Stop Phishing Attacks",
-          "url": "https://medium.com/@xpert4cyber/microsoft-teams-is-hiding-qr-codes-to-stop-phishing-attacks-3c4b3c035dfc?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 131460,
-        "text": "⤷\nTitle:\nLLM, RAG, MCP y agentes de IA: una guía sencilla para entender cómo trabajan juntos\n════════════════════════\n𐀪\nAuthor:\nTU INSIGNIA\n════════════════════════\nⴵ\nTime:\nMon, 07 Sep 2026 15:57:42 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#hacking\n#ai\n#ai_agent\n#generative_ai_tools",
-        "date": "2026-09-07T18:04:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131460_0_0d543e17.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131460",
-        "link": {
-          "title": "LLM, RAG, MCP y agentes de IA: una guía sencilla para entender cómo trabajan juntos",
-          "url": "https://medium.com/@TUINSIGNIA/llm-rag-mcp-y-agentes-de-ia-una-gu%C3%ADa-sencilla-para-entender-c%C3%B3mo-trabajan-juntos-0df09a38cdd3?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 131459,
-        "text": "⤷\nTitle:\nDo We Still Need Burp Suite for Web Security Testing?\n════════════════════════\n𐀪\nAuthor:\nHideaki Takahashi\n════════════════════════\nⴵ\nTime:\nMon, 07 Sep 2026 16:09:55 GMT\n════════════════════════\n⌗\nTags:\n#security\n#web_development\n#hacking\n#ai_agent\n#ctf",
-        "date": "2026-09-07T18:04:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131459_0_0d543e17.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131459_1_e2ca790e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131459",
-        "link": {
-          "title": "Do We Still Need Burp Suite for Web Security Testing?",
-          "url": "https://medium.com/@Koukyosyumei/do-we-still-need-burp-suite-for-web-security-testing-00f068851d30?source=rss------hacking-5"
-        }
       }
     ]
   },
-  "last_update": "2026-09-08T17:42:06.432047+00:00",
+  "last_update": "2026-09-08T20:24:48.366400+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2299,7 +2299,7 @@
     },
     "referenced_files": 196,
     "existing_media_files": 196,
-    "total_size_mb": 5.72,
-    "last_calculation": "2026-09-08T17:42:06.434488+00:00"
+    "total_size_mb": 5.5,
+    "last_calculation": "2026-09-08T20:24:48.368761+00:00"
   }
 }
