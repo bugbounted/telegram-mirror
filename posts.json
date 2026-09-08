@@ -2,6 +2,466 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 131584,
+        "text": "⤷\nTitle:\nCheckmate — TryHackMe Writeup\n════════════════════════\n𐀪\nAuthor:\nNeelesh Pandey\n════════════════════════\nⴵ\nTime:\nTue, 08 Sep 2026 13:56:42 GMT\n════════════════════════\n⌗\nTags:\n#walkthrough\n#password_cracking\n#offensive_security\n#pentesting\n#tryhackme",
+        "date": "2026-09-08T16:05:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131584_0_68103a8c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131584_1_61e91db4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131584",
+        "link": {
+          "title": "Checkmate — TryHackMe Writeup",
+          "url": "https://medium.com/@neeleshpandey0121/checkmate-tryhackme-writeup-078cdd2de3b5?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 131583,
+        "text": "⤷\nTitle:\nCorridor — A Simple Web CTF That Made Me Look Twice\n════════════════════════\n𐀪\nAuthor:\nAthulya Biju\n════════════════════════\nⴵ\nTime:\nTue, 08 Sep 2026 14:50:50 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#ctf\n#web_security\n#cybersecurity\n#penetration_testing",
+        "date": "2026-09-08T16:05:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131583_0_68103a8c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131583_1_37be3c86.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131583",
+        "link": {
+          "title": "Corridor — A Simple Web CTF That Made Me Look Twice",
+          "url": "https://infosecwriteups.com/corridor-a-simple-web-ctf-that-made-me-look-twice-668a430418f1?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 131582,
+        "text": "⤷\nTitle:\ncurl + Burp: The Manual Testing Stack\n════════════════════════\n𐀪\nAuthor:\nRoshan Rajbanshi\n════════════════════════\nⴵ\nTime:\nTue, 08 Sep 2026 15:31:35 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#cybersecurity\n#penetration_testing\n#burpsuite\n#web_security",
+        "date": "2026-09-08T16:05:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131582_0_68103a8c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131582_1_c829027d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131582",
+        "link": {
+          "title": "curl + Burp: The Manual Testing Stack",
+          "url": "https://levelup.gitconnected.com/curl-burp-the-manual-testing-stack-7742e05e05bd?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 131581,
+        "text": "⤷\nTitle:\n[FORECAST] Authorization Is Public; Execution May Stay Hidden\n════════════════════════\n𐀪\nAuthor:\nWes Young\n════════════════════════\nⴵ\nTime:\nTue, 08 Sep 2026 14:46:00 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#government\n#offense\n#threat_intelligence\n#infosec",
+        "date": "2026-09-08T16:05:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131581_0_68103a8c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131581_1_443750fe.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131581",
+        "link": {
+          "title": "[FORECAST] Authorization Is Public; Execution May Stay Hidden",
+          "url": "https://medium.com/@barely3am/forecast-authorization-is-public-execution-may-stay-hidden-7d884101da38?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 131580,
+        "text": "⤷\nTitle:\nWhen AI Follows Orders Too Well: Inside Anthropic’s Agentic Misalignment Research\n════════════════════════\n𐀪\nAuthor:\nNa-Bila Tigenoah\n════════════════════════\nⴵ\nTime:\nTue, 08 Sep 2026 15:38:34 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#cybersecurity\n#agentic_ai\n#appsec\n#artificial_intelligence",
+        "date": "2026-09-08T16:04:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131580_0_68103a8c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131580_1_b16c3bf8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131580",
+        "link": {
+          "title": "When AI Follows Orders Too Well: Inside Anthropic’s Agentic Misalignment Research",
+          "url": "https://nabst.medium.com/when-ai-follows-orders-too-well-inside-anthropics-agentic-misalignment-research-01a6e0759cd7?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 131579,
+        "text": "⤷\nTitle:\nSecured Finance Fixed-Rate Lending — Mark-Price Manipulation\n════════════════════════\n𐀪\nAuthor:\nJohnWeb3\n════════════════════════\nⴵ\nTime:\nTue, 08 Sep 2026 14:25:21 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#hacking\n#cyrptocurrency\n#blockchain\n#hacks",
+        "date": "2026-09-08T16:04:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131579_0_68103a8c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131579_1_9f3394b7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131579",
+        "link": {
+          "title": "Secured Finance Fixed-Rate Lending — Mark-Price Manipulation",
+          "url": "https://medium.com/@okoyejp/secured-finance-fixed-rate-lending-mark-price-manipulation-4756c0c194f1?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 131578,
+        "text": "⤷\nTitle:\nMagento Zero-Day: Hackers Are Already Exploiting It\n════════════════════════\n𐀪\nAuthor:\nMhd fayz\n════════════════════════\nⴵ\nTime:\nTue, 08 Sep 2026 14:51:20 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#cybersecurity\n#information_security\n#technology",
+        "date": "2026-09-08T16:04:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131578_0_68103a8c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131578_1_1debfa8f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131578",
+        "link": {
+          "title": "Magento Zero-Day: Hackers Are Already Exploiting It",
+          "url": "https://medium.com/@mhd.fyz/magento-zero-day-hackers-are-already-exploiting-it-4eaf4d33ee05?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 131577,
+        "text": "⤷\nTitle:\n648 of My Installed Skills Tripped a Security Scan. None Were Attacks.\n════════════════════════\n𐀪\nAuthor:\nMd Aminul Islam Sarker\n════════════════════════\nⴵ\nTime:\nTue, 08 Sep 2026 14:01:02 GMT\n════════════════════════\n⌗\nTags:\n#software_development\n#cybersecurity\n#application_security\n#claude\n#ai_agent",
+        "date": "2026-09-08T16:04:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131577_0_68103a8c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131577_1_b88e5ce7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131577",
+        "link": {
+          "title": "648 of My Installed Skills Tripped a Security Scan. None Were Attacks.",
+          "url": "https://aminshamim.medium.com/648-of-my-installed-skills-tripped-a-security-scan-none-were-attacks-a4afefd289b8?source=rss------application_security-5"
+        }
+      },
+      {
+        "id": 131576,
+        "text": "⤷\nTitle:\nIs Your Application Ready for Google’s Security Certification? A Guide to App defense Alliance\n════════════════════════\n𐀪\nAuthor:\nKishor balan\n════════════════════════\nⴵ\nTime:\nTue, 08 Sep 2026 14:16:45 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#application_security",
+        "date": "2026-09-08T16:04:44+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131576_0_68103a8c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131576_1_2653a4ed.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131576",
+        "link": {
+          "title": "Is Your Application Ready for Google’s Security Certification? A Guide to App defense Alliance",
+          "url": "https://kishorbalan.medium.com/is-your-application-ready-for-googles-security-certification-a-guide-to-app-defense-alliance-f9f1e04cbe83?source=rss------application_security-5"
+        }
+      },
+      {
+        "id": 131575,
+        "text": "⤷\nTitle:\nThe Victim Paid. The Attacker Used Their Subscription (IDOR).\n════════════════════════\n𐀪\nAuthor:\nMahmoud Adel (El7xoot)\n════════════════════════\nⴵ\nTime:\nTue, 08 Sep 2026 13:11:21 GMT\n════════════════════════\n⌗\nTags:\n#idor\n#web_application_security\n#bug_bounty\n#cybersecurity",
+        "date": "2026-09-08T16:04:41+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131575_0_68103a8c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131575_1_64d81890.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131575",
+        "link": {
+          "title": "The Victim Paid. The Attacker Used Their Subscription (IDOR).",
+          "url": "https://medium.com/@ma6632174/the-victim-paid-the-attacker-used-their-subscription-41364e379a22?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 131574,
+        "text": "⤷\nTitle:\nI Wasn’t Hunting an Email Bug. I Just Changed One Word (ATO).\n════════════════════════\n𐀪\nAuthor:\nMahmoud Adel (El7xoot)\n════════════════════════\nⴵ\nTime:\nTue, 08 Sep 2026 14:20:32 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#bug_bounty\n#account_takeover\n#bounty_hunter",
+        "date": "2026-09-08T16:04:38+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131574_0_68103a8c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131574_1_d2356f58.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131574",
+        "link": {
+          "title": "I Wasn’t Hunting an Email Bug. I Just Changed One Word (ATO).",
+          "url": "https://medium.com/@ma6632174/i-wasnt-hunting-an-email-bug-i-just-changed-one-word-d3a73db6f9cf?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 131573,
+        "text": "⤷\nTitle:\nAdvanced Vulnerabilities Part 2: Cross-Chain, Signatures & Upgradeable Pitfalls\n════════════════════════\n𐀪\nAuthor:\nHacker MD\n════════════════════════\nⴵ\nTime:\nTue, 08 Sep 2026 14:35:29 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#cybersecurity\n#bug_bounty\n#web3\n#signatureattacks",
+        "date": "2026-09-08T16:04:34+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131573_0_68103a8c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131573_1_619697db.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131573",
+        "link": {
+          "title": "Advanced Vulnerabilities Part 2: Cross-Chain, Signatures & Upgradeable Pitfalls",
+          "url": "https://medium.com/@HackerMD/advanced-vulnerabilities-part-2-cross-chain-signatures-upgradeable-pitfalls-4ee26c8fcfe9?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 131572,
+        "text": "⤷\nTitle:\nHow I Could Have Shut Down Every Restaurant in Europe With One Click\n════════════════════════\n𐀪\nAuthor:\nMohammed Ashraf\n════════════════════════\nⴵ\nTime:\nTue, 08 Sep 2026 14:44:03 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#cybersecurity\n#vulnerability\n#bugcrowd\n#bug_bounty",
+        "date": "2026-09-08T16:04:31+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131572_0_68103a8c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131572_1_a505282e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131572",
+        "link": {
+          "title": "How I Could Have Shut Down Every Restaurant in Europe With One Click",
+          "url": "https://medium.com/@TionoX/how-i-could-have-shut-down-every-restaurant-in-europe-with-one-click-0125387c1628?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 131571,
+        "text": "⤷\nTitle:\nInsecure Firestore Security Rules & PII Exposure\n════════════════════════\n𐀪\nAuthor:\nSangharsha Upadhyaya\n════════════════════════\nⴵ\nTime:\nTue, 08 Sep 2026 14:56:29 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#noob6t5\n#bug_bounty_writeup\n#bug_hunting",
+        "date": "2026-09-08T16:04:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131571_0_68103a8c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131571_1_960372a5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131571",
+        "link": {
+          "title": "Insecure Firestore Security Rules & PII Exposure",
+          "url": "https://infosecwriteups.com/insecure-firestore-security-rules-pii-exposure-762763ac577f?source=rss----7b722bfd1b8d--bug_bounty"
+        }
+      },
+      {
+        "id": 131570,
+        "text": "⤷\nTitle:\nWeWorm: First Zero-Click Worm Spreads Through WeChat Calls on iOS and Android\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 08 Sep 2026 14:53:20 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Calif\nsecurity\n#mobile\nRCE\n#Tencent\npatch\n#WeChat\nvulnerability\n#WeWorm\n#zero_click\nworm",
+        "date": "2026-09-08T16:04:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131570_0_68103a8c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131570_1_ceac80c9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131570",
+        "link": {
+          "title": "WeWorm: First Zero-Click Worm Spreads Through WeChat Calls on iOS and Android",
+          "url": "https://securityonline.info/weworm-first-zero-click-worm-wechat/"
+        }
+      },
+      {
+        "id": 131569,
+        "text": "⤷\nTitle:\nIvanti Neurons for ITSM Remote Code Execution Flaws: 8 CVEs, CVSS Up to 9.9\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 08 Sep 2026 15:13:03 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_12650\n#CVE_2026_12744\n#Deserialization\nVulnerability\n#Ivanti\nNeurons for ITSM\n#Ivanti\npatch\n#Missing\nAuthorization\n#Remote\nCode Execution",
+        "date": "2026-09-08T16:04:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131569_0_68103a8c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131569_1_cc6fd003.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131569",
+        "link": {
+          "title": "Ivanti Neurons for ITSM Remote Code Execution Flaws: 8 CVEs, CVSS Up to 9.9",
+          "url": "https://securityonline.info/ivanti-neurons-itsm-rce-vulnerabilities-2026/"
+        }
+      },
+      {
+        "id": 131568,
+        "text": "⤷\nTitle:\nONLYOFFICE ownCloud Plugin SSRF Vulnerability\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 08 Sep 2026 15:18:23 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_84282\n#ONLYOFFICE\n#ownCloud\n#ssrf\n#Vulnerability",
+        "date": "2026-09-08T16:04:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131568_0_68103a8c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131568_1_4505c4c9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131568",
+        "link": {
+          "title": "ONLYOFFICE ownCloud Plugin SSRF Vulnerability",
+          "url": "https://securityonline.info/onlyoffice-owncloud-plugin-ssrf/"
+        }
+      },
+      {
+        "id": 131567,
+        "text": "⤷\nTitle:\nBroadcom Removes VDDK Downloads, Complicating VMware Migrations\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 08 Sep 2026 15:27:33 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#Broadcom\n#red\nhat\n#VDDK\n#virtualization\n#VMware\nMigration",
+        "date": "2026-09-08T16:04:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131567_0_68103a8c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131567_1_9df8f16f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131567",
+        "link": {
+          "title": "Broadcom Removes VDDK Downloads, Complicating VMware Migrations",
+          "url": "https://securityonline.info/broadcom-vddk-download-removal/"
+        }
+      },
+      {
+        "id": 131566,
+        "text": "⤷\nTitle:\nPyPI File Hosting Errors: 502s Traced to Fastly Cache\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 08 Sep 2026 15:35:13 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#502 error\n#Fastly\nCDN\n#file\nhosting errors\n#PyPI\n#Python\nPackage Index\n#Software\nSupply Chain",
+        "date": "2026-09-08T16:04:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131566_0_68103a8c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131566_1_0bda733a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131566",
+        "link": {
+          "title": "PyPI File Hosting Errors: 502s Traced to Fastly Cache",
+          "url": "https://securityonline.info/pypi-file-hosting-errors/"
+        }
+      },
+      {
+        "id": 131565,
+        "text": "⤷\nTitle:\nIvanti Fixes High Severity Ivanti Vulnerabilities in Sentry and EPMM\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 08 Sep 2026 15:41:44 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_18851\n#CVE_2026_83527\n#Ivanti\n#Ivanti\nEPMM\n#Ivanti\nSentry\n#Vulnerability",
+        "date": "2026-09-08T16:04:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131565_0_68103a8c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131565_1_c3b59f9f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131565",
+        "link": {
+          "title": "Ivanti Fixes High Severity Ivanti Vulnerabilities in Sentry and EPMM",
+          "url": "https://securityonline.info/ivanti-sentry-epmm-vulnerabilities/"
+        }
+      },
+      {
         "id": 131545,
         "text": "⤷\nTitle:\nAlVault CTF Write-Up: From Web Enumeration to Root\n════════════════════════\n𐀪\nAuthor:\nMuhsin Ali Shah\n════════════════════════\nⴵ\nTime:\nTue, 08 Sep 2026 10:11:41 GMT\n════════════════════════\n⌗\nTags:\n#ctf_writeup\n#cybersecurity\n#hackerdna\n#bug_bounty_tips\n#muhsinalishah",
         "date": "2026-09-08T12:04:32+00:00",
@@ -1824,470 +2284,22 @@
           "title": "Do We Still Need Burp Suite for Web Security Testing?",
           "url": "https://medium.com/@Koukyosyumei/do-we-still-need-burp-suite-for-web-security-testing-00f068851d30?source=rss------hacking-5"
         }
-      },
-      {
-        "id": 131458,
-        "text": "⤷\nTitle:\nMikroTrick Exploit: Hackers Are Hijacking MikroTik Routers\n════════════════════════\n𐀪\nAuthor:\nGeoffrey Wenger\n════════════════════════\nⴵ\nTime:\nMon, 07 Sep 2026 16:19:37 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#information_security\n#artificial_intelligence\n#hacking\n#network_security",
-        "date": "2026-09-07T18:04:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131458_0_0d543e17.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131458_1_b8110e6f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131458",
-        "link": {
-          "title": "MikroTrick Exploit: Hackers Are Hijacking MikroTik Routers",
-          "url": "https://meetcyber.net/mikrotrick-exploit-hackers-are-hijacking-mikrotik-routers-57063a620841?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 131457,
-        "text": "⤷\nTitle:\nSQLi2RCE: another discovery ️ (part 2)\n════════════════════════\n𐀪\nAuthor:\nSevada797\n════════════════════════\nⴵ\nTime:\nMon, 07 Sep 2026 16:51:05 GMT\n════════════════════════\n⌗\nTags:\n#rce\n#hacking\n#sql_injection\n#cybersecurity\n#pentesting",
-        "date": "2026-09-07T18:04:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131457_0_0d543e17.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131457",
-        "link": {
-          "title": "SQLi2RCE: another discovery ️ (part 2)",
-          "url": "https://medium.com/@zatikyan.sevada/sqli2rce-another-discovery-%EF%B8%8F-part-2-683365d9d6bd?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 131456,
-        "text": "⤷\nTitle:\nCyber Security: The Invisible Battle Behind Every Click\nWhat if your next click is being watched?\n════════════════════════\n𐀪\nAuthor:\nZainab Rivon\n════════════════════════\nⴵ\nTime:\nMon, 07 Sep 2026 17:42:37 GMT\n════════════════════════\n⌗\nTags:\n#information_security\n#cybersecurity\n#technology\n#hacking",
-        "date": "2026-09-07T18:04:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131456_0_0d543e17.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131456_1_5620c8f2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131456",
-        "link": {
-          "title": "Cyber Security: The Invisible Battle Behind Every ClickWhat if your next click is being watched?",
-          "url": "https://medium.com/@zainab.rivon/cyber-security-the-invisible-battle-behind-every-click-what-if-your-next-click-is-being-watched-a198a38394ea?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 131455,
-        "text": "⤷\nTitle:\nBlack Box vs White Box vs Gray Box Pentesting: Picking the Right One (Most Teams Don’t)\n════════════════════════\n𐀪\nAuthor:\nSonali Sood\n════════════════════════\nⴵ\nTime:\nMon, 07 Sep 2026 15:48:58 GMT\n════════════════════════\n⌗\nTags:\n#security\n#devsecops\n#pentesting\n#application_security",
-        "date": "2026-09-07T18:04:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131455_0_0d543e17.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131455_1_5241d384.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131455",
-        "link": {
-          "title": "Black Box vs White Box vs Gray Box Pentesting: Picking the Right One (Most Teams Don’t)",
-          "url": "https://medium.com/codetodeploy/black-box-vs-white-box-vs-gray-box-pentesting-picking-the-right-one-most-teams-dont-d81fbdbb6cee?source=rss------application_security-5"
-        }
-      },
-      {
-        "id": 131454,
-        "text": "⤷\nTitle:\nVulnerabilities That Even Top Security AI Agents Miss in 2026\n════════════════════════\n𐀪\nAuthor:\nMuhamed Fazal PS\n════════════════════════\nⴵ\nTime:\nMon, 07 Sep 2026 17:32:51 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#vibe_coding_tools\n#bug_bounty_tips\n#cybersecurity\n#hacking",
-        "date": "2026-09-07T18:04:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131454_0_0d543e17.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131454_1_b7c33913.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131454",
-        "link": {
-          "title": "Vulnerabilities That Even Top Security AI Agents Miss in 2026",
-          "url": "https://medium.com/@muhamedfazalps7/vulnerabilities-that-even-top-security-ai-agents-miss-in-2026-59535feabeb0?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 131453,
-        "text": "⤷\nTitle:\nPegasus Spyware in Serbia Targets Student Activist\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nMon, 07 Sep 2026 16:11:56 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#Citizen\nLab\n#malware\n#Pegasus\n#Serbia\n#Spyware",
-        "date": "2026-09-07T18:03:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131453_0_0d543e17.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131453_1_ca46d738.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131453",
-        "link": {
-          "title": "Pegasus Spyware in Serbia Targets Student Activist",
-          "url": "https://meterpreter.org/pegasus-spyware-serbia-activist/"
-        }
-      },
-      {
-        "id": 131452,
-        "text": "⤷\nTitle:\n⚡\nWeekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nMon, 07 Sep 2026 20:06:07 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-09-07T18:03:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131452_0_0d543e17.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131452",
-        "link": {
-          "title": "⚡Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More",
-          "url": "https://thehackernews.com/2026/09/weekly-recap-chrome-0-day-router.html"
-        }
-      },
-      {
-        "id": 131451,
-        "text": "⤷\nTitle:\nFake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nMon, 07 Sep 2026 21:21:56 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-09-07T18:03:51+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131451_0_0d543e17.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131451",
-        "link": {
-          "title": "Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks",
-          "url": "https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html"
-        }
-      },
-      {
-        "id": 131450,
-        "text": "⤷\nTitle:\nAn Assistant Should Be Able to Do Less Than You. Never More.\n════════════════════════\n𐀪\nAuthor:\nMayank Jain\n════════════════════════\nⴵ\nTime:\nMon, 07 Sep 2026 14:27:07 GMT\n════════════════════════\n⌗\nTags:\n#artificial_intelligence\n#cybersecurity\n#api_security\n#software_engineering\n#mcps",
-        "date": "2026-09-07T16:04:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131450_0_0d543e17.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131450_1_6c403c5e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131450",
-        "link": {
-          "title": "An Assistant Should Be Able to Do Less Than You. Never More.",
-          "url": "https://medium.com/@mack1996jain/an-assistant-should-be-able-to-do-less-than-you-never-more-87bd4ae9760c?source=rss------api_security-5"
-        }
-      },
-      {
-        "id": 131449,
-        "text": "⤷\nTitle:\nI Started Learning Cybersecurity 10 Articles Ago — Here’s What Finally Clicked\n════════════════════════\n𐀪\nAuthor:\nAftab Alam\n════════════════════════\nⴵ\nTime:\nMon, 07 Sep 2026 14:16:49 GMT\n════════════════════════\n⌗\nTags:\n#web_security\n#cybersecurity\n#programming\n#technology\n#ethical_hacking",
-        "date": "2026-09-07T16:04:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131449_0_0d543e17.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131449_1_ab214f6b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131449",
-        "link": {
-          "title": "I Started Learning Cybersecurity 10 Articles Ago — Here’s What Finally Clicked",
-          "url": "https://medium.com/@aftabtech/i-started-learning-cybersecurity-10-articles-ago-heres-what-finally-clicked-e082b26565e0?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 131448,
-        "text": "⤷\nTitle:\nTryHackMe FrankesQwen: When “I Can Help” Leaks the Hidden AI Flag\n════════════════════════\n𐀪\nAuthor:\nSubhash Pathak\n════════════════════════\nⴵ\nTime:\nMon, 07 Sep 2026 14:38:02 GMT\n════════════════════════\n⌗\nTags:\n#prompt_injection_attack\n#tryhackme\n#cybersecurity\n#ai_security\n#llm_security_risk",
-        "date": "2026-09-07T16:04:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131448_0_0d543e17.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131448_1_5bcee075.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131448",
-        "link": {
-          "title": "TryHackMe FrankesQwen: When “I Can Help” Leaks the Hidden AI Flag",
-          "url": "https://medium.com/@subhash_pathak/tryhackme-frankesqwen-when-i-can-help-leaks-the-hidden-ai-flag-f98048906f7e?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 131447,
-        "text": "⤷\nTitle:\nTryHackMe — Have a Break: Tracking an Insider Threat\n════════════════════════\n𐀪\nAuthor:\nTarif Bin Belal\n════════════════════════\nⴵ\nTime:\nMon, 07 Sep 2026 14:39:28 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#have_a_break\n#osint",
-        "date": "2026-09-07T16:04:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131447_0_0d543e17.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131447_1_804b7aa6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131447",
-        "link": {
-          "title": "TryHackMe — Have a Break: Tracking an Insider Threat",
-          "url": "https://medium.com/@jisantarif55/tryhackme-have-a-break-tracking-an-insider-threat-0dda4078f359?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 131446,
-        "text": "⤷\nTitle:\nBreaking Down a Lecturer’s Dummy Pokemon App: A Penetration Testing Learning Journey\n════════════════════════\n𐀪\nAuthor:\nAnggitaputri\n════════════════════════\nⴵ\nTime:\nMon, 07 Sep 2026 15:44:03 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#mobile_penetration_test\n#penetration_testing\n#jadx\n#mobile_pentesting",
-        "date": "2026-09-07T16:04:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131446_0_0d543e17.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131446_1_a8c6f308.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131446",
-        "link": {
-          "title": "Breaking Down a Lecturer’s Dummy Pokemon App: A Penetration Testing Learning Journey",
-          "url": "https://medium.com/@anggitaputri3105/breaking-down-a-lecturers-dummy-pokemon-app-a-penetration-testing-learning-journey-aece1315271c?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 131445,
-        "text": "⤷\nTitle:\nPhreaking\n════════════════════════\n𐀪\nAuthor:\nJime | St0rm.\n════════════════════════\nⴵ\nTime:\nMon, 07 Sep 2026 15:38:40 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#phreak",
-        "date": "2026-09-07T16:04:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131445_0_0d543e17.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131445_1_80fe8ed7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131445",
-        "link": {
-          "title": "Phreaking",
-          "url": "https://jimst0rm.medium.com/phreaking-e6439ec7e91c?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 131444,
-        "text": "⤷\nTitle:\nFools Mate — TryHackMe Writeup\n════════════════════════\n𐀪\nAuthor:\nmayhack\n════════════════════════\nⴵ\nTime:\nMon, 07 Sep 2026 14:51:11 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#hacking\n#cybersecurity",
-        "date": "2026-09-07T16:04:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131444_0_0d543e17.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131444_1_56ccc6bf.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131444",
-        "link": {
-          "title": "Fools Mate — TryHackMe Writeup",
-          "url": "https://medium.com/@may.hack/fools-mate-tryhackme-writeup-fb842b5b4073?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 131443,
-        "text": "⤷\nTitle:\n—\n════════════════════════\n𐀪\nAuthor:\nmayhack\n════════════════════════\nⴵ\nTime:\nMon, 07 Sep 2026 14:55:55 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#room_404\n#ctf\n#cybersecurity\n#hacking",
-        "date": "2026-09-07T16:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131443_0_0d543e17.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131443_1_e2cbaed4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131443",
-        "link": {
-          "title": "—",
-          "url": "https://medium.com/@may.hack/-e97939d6a3dd?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 131442,
-        "text": "⤷\nTitle:\nRockwell Automation Patches a Dozen Vulnerabilities Across RSLinx, Logix, and FactoryTalk\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nMon, 07 Sep 2026 14:10:52 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\n#CIP\nprotocol\n#Denial\nof Service\n#FactoryTalk\n#ICS\nSecurity\n#Industrial\nControl Systems\n#Logix\ncontrollers\n#Rockwell\nAutomation\n#RSLinx\nClassic",
-        "date": "2026-09-07T16:03:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131442_0_0d543e17.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131442_1_bb6f8404.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131442",
-        "link": {
-          "title": "Rockwell Automation Patches a Dozen Vulnerabilities Across RSLinx, Logix, and FactoryTalk",
-          "url": "https://meterpreter.org/rockwell-automation-ics-vulnerabilities/"
-        }
-      },
-      {
-        "id": 131441,
-        "text": "⤷\nTitle:\nUkrainian Authorities Dismantle Massive Cryptocurrency Fraud Network\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nMon, 07 Sep 2026 14:33:59 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#cryptocurrency\n#cybercrime\n#Fraud\nNetwork\n#Law\nEnforcement\n#Ukraine",
-        "date": "2026-09-07T16:03:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131441_0_0d543e17.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131441_1_8c292634.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131441",
-        "link": {
-          "title": "Ukrainian Authorities Dismantle Massive Cryptocurrency Fraud Network",
-          "url": "https://meterpreter.org/ukraine-cryptocurrency-fraud-network/"
-        }
-      },
-      {
-        "id": 131440,
-        "text": "⤷\nTitle:\nAlpwned — From SQL Injection to Root\n════════════════════════\n𐀪\nAuthor:\nMuhsin Ali Shah\n════════════════════════\nⴵ\nTime:\nMon, 07 Sep 2026 12:01:45 GMT\n════════════════════════\n⌗\nTags:\n#ctf\n#muhsinalishah\n#ethical_hacking\n#ctf_writeup\n#cybersecurity",
-        "date": "2026-09-07T14:04:48+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131440_0_0d543e17.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131440_1_c8734848.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131440",
-        "link": {
-          "title": "Alpwned — From SQL Injection to Root",
-          "url": "https://medium.com/@MuhsinAliShahh/alpwned-from-sql-injection-to-root-d6b4cfe480b0?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 131439,
-        "text": "⤷\nTitle:\nDNS Zone Transfer (AXFR): When a Misconfiguration Exposes Your DNS Records\n════════════════════════\n𐀪\nAuthor:\nAlaa khalafallah\n════════════════════════\nⴵ\nTime:\nMon, 07 Sep 2026 13:35:58 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#dns\n#vulnerability\n#web\n#ethical_hacking",
-        "date": "2026-09-07T14:04:45+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131439_0_0d543e17.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131439_1_5ff636c5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131439",
-        "link": {
-          "title": "DNS Zone Transfer (AXFR): When a Misconfiguration Exposes Your DNS Records",
-          "url": "https://medium.com/@alaakhalafallah25/dns-zone-transfer-axfr-when-a-misconfiguration-exposes-your-dns-records-5c85acfcb48d?source=rss------ethical_hacking-5"
-        }
       }
     ]
   },
-  "last_update": "2026-09-08T13:59:02.329290+00:00",
+  "last_update": "2026-09-08T17:42:06.432047+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 193,
-    "total_files": 193,
+    "total_media": 196,
+    "total_files": 196,
     "total_links": 0,
     "files_by_type": {
-      "image": 193
+      "image": 196
     },
-    "referenced_files": 193,
-    "existing_media_files": 193,
-    "total_size_mb": 5.48,
-    "last_calculation": "2026-09-08T13:59:02.331716+00:00"
+    "referenced_files": 196,
+    "existing_media_files": 196,
+    "total_size_mb": 5.72,
+    "last_calculation": "2026-09-08T17:42:06.434488+00:00"
   }
 }
