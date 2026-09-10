@@ -2,6 +2,121 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 131756,
+        "text": "⤷\nTitle:\nAnatomy of an Admin-Only RCE: CVE-2026-26212\n════════════════════════\n𐀪\nAuthor:\nRinesa Krasniqi\n════════════════════════\nⴵ\nTime:\nWed, 09 Sep 2026 22:44:06 GMT\n════════════════════════\n⌗\nTags:\n#wordpress\n#research\n#rce\n#cybersecurity\n#vulnerability",
+        "date": "2026-09-10T00:04:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131756_0_e202a7e1.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131756_1_2467b661.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131756",
+        "link": {
+          "title": "Anatomy of an Admin-Only RCE: CVE-2026-26212",
+          "url": "https://medium.com/@rinesakrasniiqii/anatomy-of-an-admin-only-rce-cve-2026-26212-786379cd991b?source=rss------rce-5"
+        }
+      },
+      {
+        "id": 131755,
+        "text": "⤷\nTitle:\nTryHackMe Injectics CTF Writeup: From SQL Injection to RCE\n════════════════════════\n𐀪\nAuthor:\nZiyad Walid [ziy4d0x]\n════════════════════════\nⴵ\nTime:\nWed, 09 Sep 2026 22:02:36 GMT\n════════════════════════\n⌗\nTags:\n#pentesting\n#ctf_walkthrough\n#bug_bounty\n#cybersecurity\n#tryhackme_writeup",
+        "date": "2026-09-10T00:04:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131755_0_e202a7e1.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131755_1_c222d2a4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131755",
+        "link": {
+          "title": "TryHackMe Injectics CTF Writeup: From SQL Injection to RCE",
+          "url": "https://medium.com/@ziy4d0x/tryhackme-injectics-ctf-writeup-from-sql-injection-to-rce-8f46652e966b?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 131754,
+        "text": "⤷\nTitle:\nFrom Public Jenkins Exposure to Remote Code Execution\n════════════════════════\n𐀪\nAuthor:\nPrasannasalunkhe\n════════════════════════\nⴵ\nTime:\nWed, 09 Sep 2026 23:10:59 GMT\n════════════════════════\n⌗\nTags:\n#security\n#bug_bounty\n#information_security",
+        "date": "2026-09-10T00:04:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131754_0_e202a7e1.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131754_1_b6dded02.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131754",
+        "link": {
+          "title": "From Public Jenkins Exposure to Remote Code Execution",
+          "url": "https://medium.com/@prasannasalunkhe19/from-public-jenkins-exposure-to-remote-code-execution-670cd15078ed?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 131753,
+        "text": "⤷\nTitle:\nBlind SQL Injection Behind a WAF: Bypassing Filters with a NOT IN + CASE WHEN SLEEP Oracle\n════════════════════════\n𐀪\nAuthor:\nGuilhermegh\n════════════════════════\nⴵ\nTime:\nWed, 09 Sep 2026 23:46:21 GMT\n════════════════════════\n⌗\nTags:\n#waf\n#sql_injection\n#cybersecurity\n#bug_bounty_tips\n#bug_bounty",
+        "date": "2026-09-10T00:04:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131753_0_e202a7e1.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131753_1_768335f5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131753",
+        "link": {
+          "title": "Blind SQL Injection Behind a WAF: Bypassing Filters with a NOT IN + CASE WHEN SLEEP Oracle",
+          "url": "https://medium.com/@donghcoder/blind-sql-injection-behind-a-waf-bypassing-filters-with-a-not-in-case-when-sleep-oracle-081b7eb48d50?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 131752,
+        "text": "⤷\nTitle:\nCritical IDOR in Order Tracking: Sequential IDs + Zero Authentication = Anyone’s Orders (and PII)\n════════════════════════\n𐀪\nAuthor:\nGuilhermegh\n════════════════════════\nⴵ\nTime:\nWed, 09 Sep 2026 23:55:07 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_tips\n#idor\n#bug_bounty_writeup\n#bug_bounty\n#api_security",
+        "date": "2026-09-10T00:04:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131752_0_e202a7e1.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_131752_1_1ba8d4a3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/131752",
+        "link": {
+          "title": "Critical IDOR in Order Tracking: Sequential IDs + Zero Authentication = Anyone’s Orders (and PII)",
+          "url": "https://medium.com/@donghcoder/critical-idor-in-order-tracking-sequential-ids-zero-authentication-anyones-orders-and-pii-789247650c89?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 131751,
         "text": "⤷\nTitle:\nThe Planets: Earth\n════════════════════════\n𐀪\nAuthor:\nKhalid Abdullahi\n════════════════════════\nⴵ\nTime:\nWed, 09 Sep 2026 20:03:47 GMT\n════════════════════════\n⌗\nTags:\n#earth\n#the_planet\n#ctf\n#vulnhub",
         "date": "2026-09-09T22:04:20+00:00",
@@ -2149,125 +2264,10 @@
           "title": "Cara Efektif Hacker Professional Menangani Sort-lived Token/Session menggunakan Burp Suite",
           "url": "https://medium.com/@muhammadyusuf.muhayuf/cara-efektif-hacker-professional-menangani-sort-lived-token-session-menggunakan-burp-suite-e425b557b455?source=rss------bug_bounty-5"
         }
-      },
-      {
-        "id": 131630,
-        "text": "⤷\nTitle:\nThe Best Claude Code Setup for Bug Bounty Hunting\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nTue, 08 Sep 2026 15:14:36 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#mcp_server\n#hacking\n#claude\n#technology",
-        "date": "2026-09-09T04:04:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131630_0_3d190a35.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131630_1_451db138.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131630",
-        "link": {
-          "title": "The Best Claude Code Setup for Bug Bounty Hunting",
-          "url": "https://infosecwriteups.com/the-best-claude-code-setup-for-bug-bounty-hunting-a16a0a50e811?source=rss----7b722bfd1b8d--bug_bounty"
-        }
-      },
-      {
-        "id": 131629,
-        "text": "⤷\nTitle:\n2.7M Users Exposed to CVE-2026-85061: Critical 10.0 CVSS MapLibre Flaw\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 09 Sep 2026 02:24:52 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_85061\n#MapLibre\n#Vulnerability\n#XSS",
-        "date": "2026-09-09T04:04:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131629_0_3d190a35.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131629_1_de6a06c9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131629",
-        "link": {
-          "title": "2.7M Users Exposed to CVE-2026-85061: Critical 10.0 CVSS MapLibre Flaw",
-          "url": "https://securityonline.info/maplibre-xss-vulnerability/"
-        }
-      },
-      {
-        "id": 131628,
-        "text": "⤷\nTitle:\nCVE-2026-84372 PoC Disclosed: Predis Command Injection Flaw\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 09 Sep 2026 02:33:21 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Command\nInjection\n#CVE_2026_84372\n#Predis\n#Vulnerability",
-        "date": "2026-09-09T04:03:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131628_0_3d190a35.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131628_1_6d81b101.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131628",
-        "link": {
-          "title": "CVE-2026-84372 PoC Disclosed: Predis Command Injection Flaw",
-          "url": "https://securityonline.info/cve-2026-84372-predis-command-injection-flaw/"
-        }
-      },
-      {
-        "id": 131627,
-        "text": "⤷\nTitle:\nAsahi Linux M3 Support Reaches the Mainline Kernel, but GPU and Display Remain Gaps\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 09 Sep 2026 02:40:02 +0000\n════════════════════════\n⌗\nTags:\n#Linux\n#Apple\nSilicon\n#Asahi\nLinux\n#DCP\n#Fedora\nAsahi Remix\n#GPU\nsupport\n#Linux\nKernel\n#M3\n#reverse\nengineering",
-        "date": "2026-09-09T04:03:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131627_0_3d190a35.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131627_1_20099a29.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131627",
-        "link": {
-          "title": "Asahi Linux M3 Support Reaches the Mainline Kernel, but GPU and Display Remain Gaps",
-          "url": "https://securityonline.info/asahi-linux-m3-support/"
-        }
-      },
-      {
-        "id": 131626,
-        "text": "⤷\nTitle:\nApache Impala Vulnerabilities Expose Big Data to Remote Code Execution\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 09 Sep 2026 02:49:28 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Apache\nImpala\n#Authentication\nBypass\n#CVE_2026_56207\n#CVE_2026_65181\n#Vulnerability",
-        "date": "2026-09-09T04:03:51+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131626_0_3d190a35.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131626_1_fa0a8c7c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131626",
-        "link": {
-          "title": "Apache Impala Vulnerabilities Expose Big Data to Remote Code Execution",
-          "url": "https://securityonline.info/apache-impala-vulnerabilities/"
-        }
       }
     ]
   },
-  "last_update": "2026-09-09T22:40:29.646779+00:00",
+  "last_update": "2026-09-10T00:42:48.185725+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2279,7 +2279,7 @@
     },
     "referenced_files": 191,
     "existing_media_files": 191,
-    "total_size_mb": 5.55,
-    "last_calculation": "2026-09-09T22:40:29.649047+00:00"
+    "total_size_mb": 5.49,
+    "last_calculation": "2026-09-10T00:42:48.188032+00:00"
   }
 }
