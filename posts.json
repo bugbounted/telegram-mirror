@@ -2,6 +2,98 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 132008,
+        "text": "⤷\nTitle:\nPhantom Fob — CAN Bus Rolling-Code Forgery TryHackMe room solved by ZimTheGoat\n════════════════════════\n𐀪\nAuthor:\nzimthegoat\n════════════════════════\nⴵ\nTime:\nFri, 11 Sep 2026 22:09:31 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_writeup\n#tryhackme_walkthrough\n#phantom_fob\n#phantom\n#tryhackme",
+        "date": "2026-09-12T00:04:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132008_0_d82aa3da.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132008_1_96bab9d7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132008",
+        "link": {
+          "title": "Phantom Fob — CAN Bus Rolling-Code Forgery TryHackMe room solved by ZimTheGoat",
+          "url": "https://medium.com/@mohammadzim81/phantom-fob-can-bus-rolling-code-forgery-tryhackme-room-solved-by-zimthegoat-ce22d23fa55b?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 132007,
+        "text": "⤷\nTitle:\nJWT Internals: What’s Actually Inside That Token You Trust\n════════════════════════\n𐀪\nAuthor:\nGokul Karthik\n════════════════════════\nⴵ\nTime:\nFri, 11 Sep 2026 22:50:04 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#vulnerability\n#jwt_token\n#hacking\n#jwt",
+        "date": "2026-09-12T00:03:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132007_0_d82aa3da.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132007_1_a615c2ed.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132007",
+        "link": {
+          "title": "JWT Internals: What’s Actually Inside That Token You Trust",
+          "url": "https://medium.com/@gokul_karthik/jwt-internals-whats-actually-inside-that-token-you-trust-28c4fbb9e451?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 132006,
+        "text": "⤷\nTitle:\nJWT Exploits: Three Ways Trust Gets Misconfigured\n════════════════════════\n𐀪\nAuthor:\nGokul Karthik\n════════════════════════\nⴵ\nTime:\nFri, 11 Sep 2026 22:50:11 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#web_security\n#cybersecurity\n#jwt\n#vulnerability",
+        "date": "2026-09-12T00:03:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132006_0_d82aa3da.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132006_1_ebc8201f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132006",
+        "link": {
+          "title": "JWT Exploits: Three Ways Trust Gets Misconfigured",
+          "url": "https://medium.com/@gokul_karthik/jwt-exploits-three-ways-trust-gets-misconfigured-3e0bda792437?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 132005,
+        "text": "⤷\nTitle:\nYour AI Assistant Read an Email You Never Saw and Sent Your Files to a Stranger\n════════════════════════\n𐀪\nAuthor:\nShrutika Mokashi\n════════════════════════\nⴵ\nTime:\nFri, 11 Sep 2026 23:16:56 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#technology\n#artificial_intelligence\n#hacking\n#information_security",
+        "date": "2026-09-12T00:03:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132005_0_d82aa3da.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132005_1_f7ef8b9e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132005",
+        "link": {
+          "title": "Your AI Assistant Read an Email You Never Saw and Sent Your Files to a Stranger",
+          "url": "https://medium.com/@shrutikamokashi/your-ai-assistant-read-an-email-you-never-saw-and-sent-your-files-to-a-stranger-75d9faf96187?source=rss------hacking-5"
+        }
+      },
+      {
         "id": 132004,
         "text": "⤷\nTitle:\nIntro to AD Authentication|THM\n════════════════════════\n𐀪\nAuthor:\n0xSpecter\n════════════════════════\nⴵ\nTime:\nFri, 11 Sep 2026 20:43:06 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#active_directory\n#cybersecurity\n#tryhackme_walkthrough",
         "date": "2026-09-11T22:04:15+00:00",
@@ -2164,102 +2256,10 @@
           "title": "Mountaineer — Nginx Off-by-Slash LFI + CUPP-Cracked KeePass to Root | TryHackMe",
           "url": "https://medium.com/h7w/mountaineer-nginx-off-by-slash-lfi-cupp-cracked-keepass-to-root-tryhackme-a97a7051e60c?source=rss------penetration_testing-5"
         }
-      },
-      {
-        "id": 131889,
-        "text": "⤷\nTitle:\nMy Favorite Free Bug Bounty Tools in 2026\n════════════════════════\n𐀪\nAuthor:\nMonika\n════════════════════════\nⴵ\nTime:\nFri, 11 Sep 2026 00:12:52 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#technology\n#bug_bounty_tips\n#bug_bounty\n#cybersecurity",
-        "date": "2026-09-11T02:04:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131889_0_98f00696.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131889_1_885dc451.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131889",
-        "link": {
-          "title": "My Favorite Free Bug Bounty Tools in 2026",
-          "url": "https://osintteam.blog/my-favorite-free-bug-bounty-tools-in-2026-19b757bdcc47?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 131888,
-        "text": "⤷\nTitle:\nJFrog Artifactory Vulnerabilities Exploited in the Wild\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 11 Sep 2026 00:01:24 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Artifactory\n#CVE_2026_42016\n#CVE_2026_42018\n#CVE_2026_82329\n#JFrog\nArtifactory\n#Vulnerability",
-        "date": "2026-09-11T02:04:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131888_0_98f00696.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131888_1_5cb746dc.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131888",
-        "link": {
-          "title": "JFrog Artifactory Vulnerabilities Exploited in the Wild",
-          "url": "https://securityonline.info/jfrog-artifactory-vulnerabilities-exploited/"
-        }
-      },
-      {
-        "id": 131887,
-        "text": "⤷\nTitle:\nCVE-2026-28576 (CVSS 10): Android SQL Injection PoC Out\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 11 Sep 2026 00:13:56 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Android\n17\n#Android\nSQL injection\n#Contacts\nProvider\n#CVE_2026_28576\n#mobile\nsecurity\n#proof_of_concept\n#sql\ninjection",
-        "date": "2026-09-11T02:04:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131887_0_98f00696.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131887_1_f5b4720b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131887",
-        "link": {
-          "title": "CVE-2026-28576 (CVSS 10): Android SQL Injection PoC Out",
-          "url": "https://securityonline.info/cve-2026-28576-android-contacts-sqli/"
-        }
-      },
-      {
-        "id": 131886,
-        "text": "⤷\nTitle:\nCVE-2026-85706: GitLab Vulnerability Reach CVSS 10.0\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 11 Sep 2026 00:14:06 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_85706\n#CVE_2026_87719\n#CVE_2026_88765\n#CVSS\n10\n#gitlab\n#GitLab\nvulnerabilities\n#Vulnerability",
-        "date": "2026-09-11T02:04:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131886_0_98f00696.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131886_1_4ddb6377.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131886",
-        "link": {
-          "title": "CVE-2026-85706: GitLab Vulnerability Reach CVSS 10.0",
-          "url": "https://securityonline.info/gitlab-vulnerabilities-cve-2026-85706-cvss-10/"
-        }
       }
     ]
   },
-  "last_update": "2026-09-11T22:05:17.307285+00:00",
+  "last_update": "2026-09-12T00:30:54.182497+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2271,7 +2271,7 @@
     },
     "referenced_files": 189,
     "existing_media_files": 189,
-    "total_size_mb": 5.04,
-    "last_calculation": "2026-09-11T22:05:17.309562+00:00"
+    "total_size_mb": 5.05,
+    "last_calculation": "2026-09-12T00:30:54.184350+00:00"
   }
 }
