@@ -2,6 +2,94 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 132083,
+        "text": "⤷\nTitle:\nBefore You Hack the Firmware, Listen to the Bootloader\n════════════════════════\n𐀪\nAuthor:\nAeon Flex, Elriel Assoc. 2133 [NEON MAXIMA]\n════════════════════════\nⴵ\nTime:\nSat, 12 Sep 2026 16:32:03 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#software_engineering\n#cybersecurity\n#firmware\n#reverse_engineering",
+        "date": "2026-09-12T18:04:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132083_0_d82aa3da.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132083_1_faebda2d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132083",
+        "link": {
+          "title": "Before You Hack the Firmware, Listen to the Bootloader",
+          "url": "https://medium.com/@neonmaxima/before-you-hack-the-firmware-listen-to-the-bootloader-9243de39194c?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 132082,
+        "text": "⤷\nTitle:\nI Did OSINT on a Meme Wedding Dress Site and Found a Hidden Internet Archive\n════════════════════════\n𐀪\nAuthor:\nMichele Grimaldi\n════════════════════════\nⴵ\nTime:\nSat, 12 Sep 2026 16:49:19 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#hacking\n#osint",
+        "date": "2026-09-12T18:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132082_0_d82aa3da.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132082_1_d67fd8d8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132082",
+        "link": {
+          "title": "I Did OSINT on a Meme Wedding Dress Site and Found a Hidden Internet Archive",
+          "url": "https://medium.com/@mikgrimaldi7/i-did-osint-on-a-meme-wedding-dress-site-and-found-a-hidden-internet-archive-368f44d6ccbe?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 132081,
+        "text": "⤷\nTitle:\nBroken Email Change Flow leads to Email Verification Bypass\n════════════════════════\n𐀪\nAuthor:\nAnkit Rathva aka Gujarati Hacker\n════════════════════════\nⴵ\nTime:\nSat, 12 Sep 2026 16:17:38 GMT\n════════════════════════\n⌗\nTags:\n#bugcrowd\n#ethical_hacking\n#hackerone\n#bug_bounty\n#bug_bounty_writeup",
+        "date": "2026-09-12T18:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132081_0_d82aa3da.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132081_1_1a7dce8f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132081",
+        "link": {
+          "title": "Broken Email Change Flow leads to Email Verification Bypass",
+          "url": "https://medium.com/@ankitrathva/broken-email-change-flow-leads-to-email-verification-bypass-6df46ce12ab4?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 132080,
+        "text": "⤷\nTitle:\nCISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nSat, 12 Sep 2026 21:24:45 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-09-12T18:03:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132080_0_d82aa3da.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132080",
+        "link": {
+          "title": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
+          "url": "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html"
+        }
+      },
+      {
         "id": 132079,
         "text": "⤷\nTitle:\nHow I Tricked OpenClaw Into Attacking Its Own Network: A NAT64 SSRF Bypass\n════════════════════════\n𐀪\nAuthor:\nAnurag Mewar\n════════════════════════\nⴵ\nTime:\nSat, 12 Sep 2026 15:27:56 GMT\n════════════════════════\n⌗\nTags:\n#ssrf\n#security\n#ai\n#ai_agent\n#openclaw",
         "date": "2026-09-12T16:04:27+00:00",
@@ -2188,106 +2276,22 @@
           "title": "Dari Activity Log ke Pelanggaran Privasi: Mengeksploitasi Broken Object Level Authorization",
           "url": "https://medium.com/@learngrid/idor-pada-riwayat-aktivitas-akun-b19a54f3b6e9?source=rss------application_security-5"
         }
-      },
-      {
-        "id": 131983,
-        "text": "⤷\nTitle:\nOne .svg and a CDN: How a File Extension Leaked Strangers' PII\n════════════════════════\n𐀪\nAuthor:\nAbhinabshrestha\n════════════════════════\nⴵ\nTime:\nFri, 11 Sep 2026 16:20:50 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#bug_bounty_tips\n#web_cache_deception\n#bug_bounty_writeup",
-        "date": "2026-09-11T18:04:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131983_0_98f00696.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131983_1_65383402.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131983",
-        "link": {
-          "title": "One .svg and a CDN: How a File Extension Leaked Strangers' PII",
-          "url": "https://medium.com/@abhinabshrestha9/one-svg-and-a-cdn-how-a-file-extension-leaked-strangers-pii-c8ca95ba5ddf?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 131982,
-        "text": "⤷\nTitle:\nOne Parameter. One Script Tag. One CVE.\n════════════════════════\n𐀪\nAuthor:\nMohammed ElKhateb\n════════════════════════\nⴵ\nTime:\nFri, 11 Sep 2026 17:53:24 GMT\n════════════════════════\n⌗\nTags:\n#xs\n#red_team\n#bug_bounty\n#cybersecurity\n#web_security",
-        "date": "2026-09-11T18:03:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131982_0_98f00696.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131982_1_ab996d1a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131982",
-        "link": {
-          "title": "One Parameter. One Script Tag. One CVE.",
-          "url": "https://medium.com/@HoRRus/one-parameter-one-script-tag-one-cve-db67edcaea1e?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 131981,
-        "text": "⤷\nTitle:\nAnthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nFri, 11 Sep 2026 21:45:29 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-09-11T18:03:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131981_0_98f00696.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131981",
-        "link": {
-          "title": "Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks",
-          "url": "https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html"
-        }
-      },
-      {
-        "id": 131980,
-        "text": "⤷\nTitle:\nGitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nFri, 11 Sep 2026 22:00:18 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-09-11T18:03:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131980_0_98f00696.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131980",
-        "link": {
-          "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure",
-          "url": "https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html"
-        }
       }
     ]
   },
-  "last_update": "2026-09-12T17:56:50.548943+00:00",
+  "last_update": "2026-09-12T19:50:03.340568+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 193,
-    "total_files": 193,
+    "total_media": 194,
+    "total_files": 194,
     "total_links": 0,
     "files_by_type": {
-      "image": 193
+      "image": 194
     },
-    "referenced_files": 193,
-    "existing_media_files": 193,
-    "total_size_mb": 5.71,
-    "last_calculation": "2026-09-12T17:56:50.551298+00:00"
+    "referenced_files": 194,
+    "existing_media_files": 194,
+    "total_size_mb": 5.72,
+    "last_calculation": "2026-09-12T19:50:03.342199+00:00"
   }
 }
