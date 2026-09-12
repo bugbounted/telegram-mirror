@@ -2,6 +2,282 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 132079,
+        "text": "⤷\nTitle:\nHow I Tricked OpenClaw Into Attacking Its Own Network: A NAT64 SSRF Bypass\n════════════════════════\n𐀪\nAuthor:\nAnurag Mewar\n════════════════════════\nⴵ\nTime:\nSat, 12 Sep 2026 15:27:56 GMT\n════════════════════════\n⌗\nTags:\n#ssrf\n#security\n#ai\n#ai_agent\n#openclaw",
+        "date": "2026-09-12T16:04:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132079_0_d82aa3da.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132079_1_1c22ff09.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132079",
+        "link": {
+          "title": "How I Tricked OpenClaw Into Attacking Its Own Network: A NAT64 SSRF Bypass",
+          "url": "https://anuragmewar.medium.com/how-i-tricked-openclaw-into-attacking-its-own-network-a-nat64-ssrf-bypass-9b93a7f11cd9?source=rss------ssrf-5"
+        }
+      },
+      {
+        "id": 132078,
+        "text": "⤷\nTitle:\nHackSmarter Web App Basics Course Review — Part 2 of many\n════════════════════════\n𐀪\nAuthor:\nCpt Ron\n════════════════════════\nⴵ\nTime:\nSat, 12 Sep 2026 15:15:47 GMT\n════════════════════════\n⌗\nTags:\n#web_app_pentesting\n#learning\n#ethical_hacking\n#beginner",
+        "date": "2026-09-12T16:04:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132078_0_d82aa3da.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132078_1_37bc8dea.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132078",
+        "link": {
+          "title": "HackSmarter Web App Basics Course Review — Part 2 of many",
+          "url": "https://medium.com/@cpt_ron/hacksmarter-web-app-basics-course-review-part-2-of-many-9e0a79539b87?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 132077,
+        "text": "⤷\nTitle:\nSilent Packets\n════════════════════════\n𐀪\nAuthor:\nCH V K R SUBHASH\n════════════════════════\nⴵ\nTime:\nSat, 12 Sep 2026 14:57:09 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme",
+        "date": "2026-09-12T16:04:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132077_0_d82aa3da.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132077_1_bd7d3826.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132077",
+        "link": {
+          "title": "Silent Packets",
+          "url": "https://chvkrsubhash.medium.com/silent-packets-2132919b6394?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 132076,
+        "text": "⤷\nTitle:\nSolved “Squid Game” on TryHackMe\n════════════════════════\n𐀪\nAuthor:\nF0XGL0V3\n════════════════════════\nⴵ\nTime:\nSat, 12 Sep 2026 15:43:22 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#oletools\n#maldoc\n#deobfuscation\n#malware_analysis",
+        "date": "2026-09-12T16:04:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132076_0_d82aa3da.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132076_1_c4a69881.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132076",
+        "link": {
+          "title": "Solved “Squid Game” on TryHackMe",
+          "url": "https://medium.com/@f0xgl0v3/solved-squid-game-on-tryhackme-20ca30299e0e?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 132075,
+        "text": "⤷\nTitle:\nCyberHeroes Walkthrough\n════════════════════════\n𐀪\nAuthor:\nL4ZZ3RJ0D\n════════════════════════\nⴵ\nTime:\nSat, 12 Sep 2026 15:56:51 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_walkthrough\n#devtools\n#tryhackme\n#ctf\n#ctf_writeup",
+        "date": "2026-09-12T16:04:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132075_0_d82aa3da.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132075_1_fb0f973d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132075",
+        "link": {
+          "title": "CyberHeroes Walkthrough",
+          "url": "https://medium.com/@l4zz3rj0d/cyberheroes-walkthrough-6e3a7c6e67c9?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 132074,
+        "text": "⤷\nTitle:\nFrom Domain Admin to Enterprise Admin: How Weak LDAP Signing Enabled Forest-Level Privilege…\n════════════════════════\n𐀪\nAuthor:\nIndu Shekhar Pandey\n════════════════════════\nⴵ\nTime:\nSat, 12 Sep 2026 14:59:22 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#active_directory\n#windows_security\n#cybersecurity\n#ntlm_relay",
+        "date": "2026-09-12T16:04:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132074_0_d82aa3da.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132074_1_79bde679.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132074",
+        "link": {
+          "title": "From Domain Admin to Enterprise Admin: How Weak LDAP Signing Enabled Forest-Level Privilege…",
+          "url": "https://medium.com/@zer0vuln/from-domain-admin-to-enterprise-admin-how-weak-ldap-signing-enabled-forest-level-privilege-47fddc92feba?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 132073,
+        "text": "⤷\nTitle:\nPHP Type Juggling: OTP Bypass to CRM Takeover\n════════════════════════\n𐀪\nAuthor:\nBlackOuT\n════════════════════════\nⴵ\nTime:\nSat, 12 Sep 2026 16:00:17 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#ethical_hacking\n#cybersecurity\n#offensive_security\n#ai",
+        "date": "2026-09-12T16:04:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132073_0_d82aa3da.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132073_1_36a69c13.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132073",
+        "link": {
+          "title": "PHP Type Juggling: OTP Bypass to CRM Takeover",
+          "url": "https://medium.com/@black0uTv1/php-type-juggling-otp-bypass-to-crm-takeover-6daaf4a4056e?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 132072,
+        "text": "⤷\nTitle:\nWhy “Claimable” Doesn’t Always Mean “Exploitable”: A Subdomain Takeover That Wasn’t\n════════════════════════\n𐀪\nAuthor:\n0x_specter\n════════════════════════\nⴵ\nTime:\nSat, 12 Sep 2026 15:56:01 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#infosec\n#subdomain_takeover\n#cybersecurity\n#dns",
+        "date": "2026-09-12T16:04:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132072_0_d82aa3da.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132072_1_67a413ba.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132072",
+        "link": {
+          "title": "Why “Claimable” Doesn’t Always Mean “Exploitable”: A Subdomain Takeover That Wasn’t",
+          "url": "https://medium.com/@samym6624/why-claimable-doesnt-always-mean-exploitable-a-subdomain-takeover-that-wasn-t-c431e3f5dbef?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 132071,
+        "text": "⤷\nTitle:\n⚡\nSubcat Explained | Lightning-Fast Subdomain Discovery for Bug Bounty Hunters\n════════════════════════\n𐀪\nAuthor:\nPentester Club\n════════════════════════\nⴵ\nTime:\nSat, 12 Sep 2026 14:04:15 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#artificial_intelligence\n#hacking\n#web_development\n#self_improvement",
+        "date": "2026-09-12T16:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132071_0_d82aa3da.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132071_1_1c217c07.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132071",
+        "link": {
+          "title": "⚡Subcat Explained | Lightning-Fast Subdomain Discovery for Bug Bounty Hunters",
+          "url": "https://medium.com/@pentesterclubpvtltd/subcat-explained-lightning-fast-subdomain-discovery-for-bug-bounty-hunters-8951a7bcdefb?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 132070,
+        "text": "⤷\nTitle:\nHow I Ran a 27B AI Model for FREE Without a Local GPU (Zero Refusal/Uncensored)\n════════════════════════\n𐀪\nAuthor:\nSurya Kiran\n════════════════════════\nⴵ\nTime:\nSat, 12 Sep 2026 15:25:17 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#kaggle\n#large_language_models\n#ai\n#hacking",
+        "date": "2026-09-12T16:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132070_0_d82aa3da.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132070_1_24380475.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132070",
+        "link": {
+          "title": "How I Ran a 27B AI Model for FREE Without a Local GPU (Zero Refusal/Uncensored)",
+          "url": "https://suryakiran164.medium.com/how-i-ran-a-27b-ai-model-for-free-without-a-local-gpu-zero-refusal-uncensored-33f435823992?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 132069,
+        "text": "⤷\nTitle:\nHow to Lock Down Public Projects on Self-Managed GitLab\n════════════════════════\n𐀪\nAuthor:\nAnthony Bahn\n════════════════════════\nⴵ\nTime:\nSat, 12 Sep 2026 14:29:05 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#devops\n#network_security\n#gitlab\n#application_security",
+        "date": "2026-09-12T16:03:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132069_0_d82aa3da.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132069_1_e2f9dd89.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132069",
+        "link": {
+          "title": "How to Lock Down Public Projects on Self-Managed GitLab",
+          "url": "https://medium.com/@anthonymbahn/how-to-lock-down-public-projects-on-self-managed-gitlab-03d169dcd0bd?source=rss------application_security-5"
+        }
+      },
+      {
+        "id": 132068,
+        "text": "⤷\nTitle:\nSOC 2 Penetration Testing: What Auditors Actually Check For (And Where Most Programs Fail)\n════════════════════════\n𐀪\nAuthor:\nSonali Sood\n════════════════════════\nⴵ\nTime:\nSat, 12 Sep 2026 15:15:57 GMT\n════════════════════════\n⌗\nTags:\n#security\n#soc_2_compliance\n#pentesting\n#application_security\n#compliance",
+        "date": "2026-09-12T16:03:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132068_0_d82aa3da.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132068_1_5b967d65.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132068",
+        "link": {
+          "title": "SOC 2 Penetration Testing: What Auditors Actually Check For (And Where Most Programs Fail)",
+          "url": "https://medium.com/codetodeploy/soc-2-penetration-testing-what-auditors-actually-check-for-and-where-most-programs-fail-e57c7ff65fb9?source=rss------application_security-5"
+        }
+      },
+      {
         "id": 132067,
         "text": "⤷\nTitle:\nUNESCO — CORS Misconfiguration leads to Cross-Site Web-Socket Hijacking and exfiltrate chat history…\n════════════════════════\n𐀪\nAuthor:\nJERRY_H4CK\n════════════════════════\nⴵ\nTime:\nSat, 12 Sep 2026 12:43:01 GMT\n════════════════════════\n⌗\nTags:\n#information_security\n#web_security\n#cybersecurity\n#ethical_hacking\n#vulnerability_research",
         "date": "2026-09-12T14:04:30+00:00",
@@ -1996,286 +2272,10 @@
           "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure",
           "url": "https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html"
         }
-      },
-      {
-        "id": 131979,
-        "text": "⤷\nTitle:\nHow I stumbled into my first “AI-powered” bug bounty target and found that an AI chatbot’s memory…\n════════════════════════\n𐀪\nAuthor:\nGAURAV RN\n════════════════════════\nⴵ\nTime:\nFri, 11 Sep 2026 15:19:05 GMT\n════════════════════════\n⌗\nTags:\n#bugbounty_writeup\n#ai_chatbot_security\n#ai_security",
-        "date": "2026-09-11T16:04:39+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131979_0_98f00696.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131979_1_da6ec9ff.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131979",
-        "link": {
-          "title": "How I stumbled into my first “AI-powered” bug bounty target and found that an AI chatbot’s memory…",
-          "url": "https://medium.com/@grngauravrnaik/how-i-stumbled-into-my-first-ai-powered-bug-bounty-target-and-found-that-an-ai-chatbots-memory-06efcb56c2bb?source=rss------bugbounty_writeup-5"
-        }
-      },
-      {
-        "id": 131978,
-        "text": "⤷\nTitle:\nI Found 500 Subdomains. Then I Realized I Hadn’t Found the Attack Surface Yet\n════════════════════════\n𐀪\nAuthor:\nFateyaly\n════════════════════════\nⴵ\nTime:\nFri, 11 Sep 2026 15:39:32 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#coding\n#cybersecurity\n#programming\n#technology",
-        "date": "2026-09-11T16:04:35+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131978_0_98f00696.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131978_1_a9eb654b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131978",
-        "link": {
-          "title": "I Found 500 Subdomains. Then I Realized I Hadn’t Found the Attack Surface Yet",
-          "url": "https://medium.com/@fatihaali093/i-found-500-subdomains-then-i-realized-i-hadnt-found-the-attack-surface-yet-fb04cac58fdf?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 131977,
-        "text": "⤷\nTitle:\nTargetVeil: A Local-First Pentest Data Sanitizer for Safer AI-Assisted Security Work\n════════════════════════\n𐀪\nAuthor:\nIlias Georgopoulos\n════════════════════════\nⴵ\nTime:\nFri, 11 Sep 2026 14:08:05 GMT\n════════════════════════\n⌗\nTags:\n#artificial_intelligence\n#penetration_testing\n#open_source\n#privacy\n#cybersecurity",
-        "date": "2026-09-11T16:04:32+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131977_0_98f00696.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131977_1_f7325cd6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131977",
-        "link": {
-          "title": "TargetVeil: A Local-First Pentest Data Sanitizer for Safer AI-Assisted Security Work",
-          "url": "https://medium.com/@Ilias1988/targetveil-a-local-first-pentest-data-sanitizer-for-safer-ai-assisted-security-work-042af18d31bb?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 131976,
-        "text": "⤷\nTitle:\nVulnHub: Mr. Robot — Full Walkthrough\n════════════════════════\n𐀪\nAuthor:\nAhmed Osman\n════════════════════════\nⴵ\nTime:\nFri, 11 Sep 2026 15:21:37 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#mr_robot\n#cybersecurity\n#vulnhub\n#ethical_hacking",
-        "date": "2026-09-11T16:04:29+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131976_0_98f00696.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131976_1_5d760b05.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131976",
-        "link": {
-          "title": "VulnHub: Mr. Robot — Full Walkthrough",
-          "url": "https://medium.com/@Cr3ck3r/vulnhub-mr-robot-full-walkthrough-5b52b964e7ff?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 131975,
-        "text": "⤷\nTitle:\nThe Hacker Didn’t Hack the Website. They Tricked the Cache.\n════════════════════════\n𐀪\nAuthor:\npavani\n════════════════════════\nⴵ\nTime:\nFri, 11 Sep 2026 15:22:35 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#cybersecurity\n#ethical_hacking",
-        "date": "2026-09-11T16:04:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131975_0_98f00696.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131975_1_7a33c1cc.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131975",
-        "link": {
-          "title": "The Hacker Didn’t Hack the Website. They Tricked the Cache.",
-          "url": "https://medium.com/@mvspavs/the-hacker-didnt-hack-the-website-they-tricked-the-cache-a7f814d48a7b?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 131974,
-        "text": "⤷\nTitle:\nMITRE ATT&CK Explained: Reading the Matrix Like a Detection Engineer\n════════════════════════\n𐀪\nAuthor:\nTims Tittus\n════════════════════════\nⴵ\nTime:\nFri, 11 Sep 2026 15:23:13 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#detection_engineering\n#infosec\n#soc\n#threat_hunting",
-        "date": "2026-09-11T16:04:22+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131974_0_98f00696.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131974_1_b8f7a2cb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131974",
-        "link": {
-          "title": "MITRE ATT&CK Explained: Reading the Matrix Like a Detection Engineer",
-          "url": "https://medium.com/@timstittus/mitre-att-ck-explained-reading-the-matrix-like-a-detection-engineer-91257e8e66e4?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 131973,
-        "text": "⤷\nTitle:\nhc0n Christmas CTF (THM) Tryhackme Walkthrough\n════════════════════════\n𐀪\nAuthor:\nLawvye\n════════════════════════\nⴵ\nTime:\nFri, 11 Sep 2026 14:14:45 GMT\n════════════════════════\n⌗\nTags:\n#privilege_escalation\n#linux\n#tryhackme\n#cybersecurity\n#hacking",
-        "date": "2026-09-11T16:04:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131973_0_98f00696.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131973_1_549db523.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131973",
-        "link": {
-          "title": "hc0n Christmas CTF (THM) Tryhackme Walkthrough",
-          "url": "https://medium.com/@lawvye/hc0n-christmas-ctf-thm-tryhackme-walkthrough-626884410f7d?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 131972,
-        "text": "⤷\nTitle:\nHow I Found an Account Takeover Hiding in a ‘Scan to Upload’ Button\n════════════════════════\n𐀪\nAuthor:\nchiheb\n════════════════════════\nⴵ\nTime:\nFri, 11 Sep 2026 15:00:02 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#hacking",
-        "date": "2026-09-11T16:04:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131972_0_98f00696.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131972_1_8eb2e0a7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131972",
-        "link": {
-          "title": "How I Found an Account Takeover Hiding in a ‘Scan to Upload’ Button",
-          "url": "https://medium.com/@via455118/how-i-found-an-account-takeover-hiding-in-a-scan-to-upload-button-ec62b3d90c75?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 131971,
-        "text": "⤷\nTitle:\nUnderstanding Credit Scores and Why Repair Matters | Get It Fixed | Hire Professional\n════════════════════════\n𐀪\nAuthor:\nBlackHat\n════════════════════════\nⴵ\nTime:\nFri, 11 Sep 2026 15:08:19 GMT\n════════════════════════\n⌗\nTags:\n#loans\n#artificial_intelligence\n#hacking\n#mortgage\n#money",
-        "date": "2026-09-11T16:04:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131971_0_98f00696.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131971_1_8fcc5aab.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131971",
-        "link": {
-          "title": "Understanding Credit Scores and Why Repair Matters | Get It Fixed | Hire Professional",
-          "url": "https://medium.com/@hackersclique857/understanding-credit-scores-and-why-repair-matters-get-it-fixed-hire-professional-234bb0f700c6?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 131970,
-        "text": "⤷\nTitle:\n⚡\nBugScanner Explained | Automated Web Recon & Vulnerability Scanning for Bug Bounty\n════════════════════════\n𐀪\nAuthor:\nPentester Club\n════════════════════════\nⴵ\nTime:\nFri, 11 Sep 2026 15:47:09 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#web_development\n#hacking\n#bug_bounty\n#artificial_intelligence",
-        "date": "2026-09-11T16:04:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131970_0_98f00696.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131970_1_7a99eaf4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131970",
-        "link": {
-          "title": "⚡BugScanner Explained | Automated Web Recon & Vulnerability Scanning for Bug Bounty",
-          "url": "https://medium.com/@pentesterclubpvtltd/bugscanner-explained-automated-web-recon-vulnerability-scanning-for-bug-bounty-e035d71b6796?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 131969,
-        "text": "⤷\nTitle:\nCVE-2026-80351 & CVE-2026-80352: 9.8 CVSS Apache Camel K Vulnerabilities\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 11 Sep 2026 14:11:10 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Apache\nCamel\n#Camel\nK\n#CVE_2026_80351\n#CVE_2026_80352\n#CVE_2026_80354\n#Vulnerability",
-        "date": "2026-09-11T16:04:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131969_0_98f00696.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131969_1_af1b6d03.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131969",
-        "link": {
-          "title": "CVE-2026-80351 & CVE-2026-80352: 9.8 CVSS Apache Camel K Vulnerabilities",
-          "url": "https://securityonline.info/apache-camel-k-vulnerabilities/"
-        }
-      },
-      {
-        "id": 131968,
-        "text": "⤷\nTitle:\nGigabud Abuses Android Work Profiles to Hide Bank Fraud\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nFri, 11 Sep 2026 14:01:05 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#Android\nmalware\n#banking\ntrojan\n#Gigabud\n#GoldFactory\n#Group_IB\n#Vwork",
-        "date": "2026-09-11T16:04:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131968_0_98f00696.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131968_1_ce0a0054.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131968",
-        "link": {
-          "title": "Gigabud Abuses Android Work Profiles to Hide Bank Fraud",
-          "url": "https://meterpreter.org/gigabud-vwork-android-work-profile/"
-        }
       }
     ]
   },
-  "last_update": "2026-09-12T15:42:18.450667+00:00",
+  "last_update": "2026-09-12T17:56:50.548943+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2287,7 +2287,7 @@
     },
     "referenced_files": 193,
     "existing_media_files": 193,
-    "total_size_mb": 5.51,
-    "last_calculation": "2026-09-12T15:42:18.452421+00:00"
+    "total_size_mb": 5.71,
+    "last_calculation": "2026-09-12T17:56:50.551298+00:00"
   }
 }
