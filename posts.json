@@ -2,6 +2,420 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 132035,
+        "text": "⤷\nTitle:\nAttacking Active Directory and NTDS.dit — HackTheBox (HTB)\n════════════════════════\n𐀪\nAuthor:\nAircon\n════════════════════════\nⴵ\nTime:\nSat, 12 Sep 2026 07:19:34 GMT\n════════════════════════\n⌗\nTags:\n#hackthebox_writeup\n#hackthebox\n#active_directory\n#pentesting\n#hackthebox_walkthrough",
+        "date": "2026-09-12T08:04:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132035_0_d82aa3da.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132035_1_5fe02069.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132035",
+        "link": {
+          "title": "Attacking Active Directory and NTDS.dit — HackTheBox (HTB)",
+          "url": "https://medium.com/@Aircon/attacking-active-directory-and-ntds-dit-hackthebox-htb-f0019bae19ea?source=rss------hackthebox_writeup-5"
+        }
+      },
+      {
+        "id": 132034,
+        "text": "⤷\nTitle:\nBounty Hacker — TryHackMe Walktrough\n════════════════════════\n𐀪\nAuthor:\nStephvannes Samuel Kevin\n════════════════════════\nⴵ\nTime:\nSat, 12 Sep 2026 07:19:50 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#ctf_writeup\n#penetration_testing\n#privilege_escalation\n#cybersecurity",
+        "date": "2026-09-12T08:04:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132034_0_d82aa3da.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132034_1_3749dedb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132034",
+        "link": {
+          "title": "Bounty Hacker — TryHackMe Walktrough",
+          "url": "https://medium.com/@kevin33111/bounty-hacker-tryhackme-walktrough-e37b97fad2c9?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 132033,
+        "text": "⤷\nTitle:\nCVE-2026–61424 & CVE-2026–56291 |Joomla! Arbitrary File Upload\n════════════════════════\n𐀪\nAuthor:\nazr\n════════════════════════\nⴵ\nTime:\nSat, 12 Sep 2026 06:31:56 GMT\n════════════════════════\n⌗\nTags:\n#joomla\n#hacking\n#cve\n#cybersecurity",
+        "date": "2026-09-12T08:04:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132033_0_d82aa3da.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132033_1_672f62ae.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132033",
+        "link": {
+          "title": "CVE-2026–61424 & CVE-2026–56291 |Joomla! Arbitrary File Upload",
+          "url": "https://medium.com/@azrax616/cve-2026-61424-cve-2026-56291-joomla-afp-757c7ea25006?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 132032,
+        "text": "⤷\nTitle:\nThe Handle That Was Never a Mystery\n════════════════════════\n𐀪\nAuthor:\nLizard Squad\n════════════════════════\nⴵ\nTime:\nSat, 12 Sep 2026 07:15:18 GMT\n════════════════════════\n⌗\nTags:\n#news\n#twitter\n#cybercrime\n#crime\n#hacking",
+        "date": "2026-09-12T08:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132032_0_d82aa3da.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132032_1_36f4c0bb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132032",
+        "link": {
+          "title": "The Handle That Was Never a Mystery",
+          "url": "https://medium.com/@LizardSquad/the-handle-that-was-never-a-mystery-7569eeced098?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 132031,
+        "text": "⤷\nTitle:\nHow a Guest WiFi Portal Led to Full System Compromise\n════════════════════════\n𐀪\nAuthor:\nDasmanish\n════════════════════════\nⴵ\nTime:\nSat, 12 Sep 2026 06:08:49 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#bug_bounty\n#web_security\n#ctf\n#cybersecurity",
+        "date": "2026-09-12T08:03:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132031_0_d82aa3da.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132031_1_a45f13e9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132031",
+        "link": {
+          "title": "How a Guest WiFi Portal Led to Full System Compromise",
+          "url": "https://medium.com/@dasmanish6176/how-a-guest-wifi-portal-led-to-full-system-compromise-ef70c12aa3d5?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 132030,
+        "text": "⤷\nTitle:\n10 Websites Every Bug Bounty Hunter Should Know in 2026\n════════════════════════\n𐀪\nAuthor:\nAbimel S B kulumala\n════════════════════════\nⴵ\nTime:\nSat, 12 Sep 2026 06:28:19 GMT\n════════════════════════\n⌗\nTags:\n#bugbounty_writeup\n#bug_bounty\n#cybersecurity",
+        "date": "2026-09-12T08:03:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132030_0_d82aa3da.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132030_1_b4b210f4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132030",
+        "link": {
+          "title": "10 Websites Every Bug Bounty Hunter Should Know in 2026",
+          "url": "https://medium.com/@abimelsbkulumala/10-websites-every-bug-bounty-hunter-should-know-in-2026-33bd5db247af?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 132029,
+        "text": "⤷\nTitle:\nCVE-2026-84869: ConnectWise ScreenConnect Vulnerability Exploited\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nSat, 12 Sep 2026 07:11:32 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#ConnectWise\n#CVE_2026_84869\n#cybersecurity\n#ScreenConnect",
+        "date": "2026-09-12T08:03:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132029_0_d82aa3da.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132029_1_72a5fe83.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132029",
+        "link": {
+          "title": "CVE-2026-84869: ConnectWise ScreenConnect Vulnerability Exploited",
+          "url": "https://securityonline.info/connectwise-screenconnect-vulnerability-cve-2026-84869/"
+        }
+      },
+      {
+        "id": 132028,
+        "text": "⤷\nTitle:\nI Tried X (Formerly Twitter) And Made $300 In First Month\n════════════════════════\n𐀪\nAuthor:\nAleena Newman\n════════════════════════\nⴵ\nTime:\nSat, 12 Sep 2026 04:40:34 GMT\n════════════════════════\n⌗\nTags:\n#make_money_twitter\n#online_money\n#xs\n#earn_money_online\n#earn_money_from_home",
+        "date": "2026-09-12T06:04:34+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132028_0_d82aa3da.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132028_1_6c69997f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132028",
+        "link": {
+          "title": "I Tried X (Formerly Twitter) And Made $300 In First Month",
+          "url": "https://medium.com/@aleenanewman/i-tried-x-formerly-twitter-and-made-300-in-first-month-0fe0cc571480?source=rss------xss-5"
+        }
+      },
+      {
+        "id": 132027,
+        "text": "⤷\nTitle:\nBackend, APIs & RBAC Security: Designing Secure Web APIs\n════════════════════════\n𐀪\nAuthor:\nAnujbansal\n════════════════════════\nⴵ\nTime:\nSat, 12 Sep 2026 04:31:02 GMT\n════════════════════════\n⌗\nTags:\n#nodejs\n#authentication\n#api_security\n#backend_development\n#expressjs",
+        "date": "2026-09-12T06:04:30+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132027_0_d82aa3da.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132027_1_89ac3184.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132027",
+        "link": {
+          "title": "Backend, APIs & RBAC Security: Designing Secure Web APIs",
+          "url": "https://medium.com/@anujbansaldev/backend-apis-rbac-security-designing-secure-web-apis-72d8e0f4e5ee?source=rss------api_security-5"
+        }
+      },
+      {
+        "id": 132026,
+        "text": "⤷\nTitle:\nBackend Security: The Things That Can Break Your Application Without Breaking In\n════════════════════════\n𐀪\nAuthor:\nAyantik Sarkar\n════════════════════════\nⴵ\nTime:\nSat, 12 Sep 2026 05:05:15 GMT\n════════════════════════\n⌗\nTags:\n#api_security\n#backend_development\n#software_engineering\n#cybersecurity\n#web_security",
+        "date": "2026-09-12T06:04:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132026_0_d82aa3da.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132026_1_98301040.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132026",
+        "link": {
+          "title": "Backend Security: The Things That Can Break Your Application Without Breaking In",
+          "url": "https://medium.com/@ayantik.sarkar2020/backend-security-the-things-that-can-break-your-application-without-breaking-in-264c83c19420?source=rss------api_security-5"
+        }
+      },
+      {
+        "id": 132025,
+        "text": "⤷\nTitle:\nTryHackMe: Flag Vault 2 Walkthrough\n════════════════════════\n𐀪\nAuthor:\nSeyon Suriyakumaran\n════════════════════════\nⴵ\nTime:\nSat, 12 Sep 2026 04:31:02 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#code\n#ctf\n#vulnerability",
+        "date": "2026-09-12T06:04:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132025_0_d82aa3da.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132025_1_dea28132.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132025",
+        "link": {
+          "title": "TryHackMe: Flag Vault 2 Walkthrough",
+          "url": "https://medium.com/@suriyaseyon6/tryhackme-flag-vault-2-walkthrough-b3a09729bc2f?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 132024,
+        "text": "⤷\nTitle:\nTryHackMe - Monitoring Active Directory: Understanding Authentication Events, Baselines and…\n════════════════════════\n𐀪\nAuthor:\nHitesh kumar\n════════════════════════\nⴵ\nTime:\nSat, 12 Sep 2026 04:42:30 GMT\n════════════════════════\n⌗\nTags:\n#active_directory\n#tryhackme\n#medium\n#soc\n#tryhackme_walkthrough",
+        "date": "2026-09-12T06:04:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132024_0_d82aa3da.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132024_1_bc311a33.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132024",
+        "link": {
+          "title": "TryHackMe - Monitoring Active Directory: Understanding Authentication Events, Baselines and…",
+          "url": "https://medium.com/@hitesh_null/tryhackme-monitoring-active-directory-understanding-authentication-events-baselines-and-policies-6702c8d99774?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 132023,
+        "text": "⤷\nTitle:\nADVANCED NMAP\n════════════════════════\n𐀪\nAuthor:\nSourabh Jala\n════════════════════════\nⴵ\nTime:\nSat, 12 Sep 2026 05:37:14 GMT\n════════════════════════\n⌗\nTags:\n#nmap\n#cybersecurity\n#advanced\n#vapt\n#tryhackme",
+        "date": "2026-09-12T06:04:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132023_0_d82aa3da.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132023_1_ee41b189.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132023",
+        "link": {
+          "title": "ADVANCED NMAP",
+          "url": "https://medium.com/@skumarjala/advanced-nmap-c478d0505f94?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 132022,
+        "text": "⤷\nTitle:\nTryHackMe Room Writeup: LLMborghini (Prompt Injection & System Prompt Leakage)\n════════════════════════\n𐀪\nAuthor:\nPiyush Dutta\n════════════════════════\nⴵ\nTime:\nSat, 12 Sep 2026 05:37:43 GMT\n════════════════════════\n⌗\nTags:\n#prompt_injection_attack\n#llmborghini\n#cybersecurity\n#system_prompt_leakage\n#tryhackme",
+        "date": "2026-09-12T06:04:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132022_0_d82aa3da.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132022_1_86c793f5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132022",
+        "link": {
+          "title": "TryHackMe Room Writeup: LLMborghini (Prompt Injection & System Prompt Leakage)",
+          "url": "https://medium.com/@piyushdutta0007/tryhackme-room-writeup-llmborghini-prompt-injection-system-prompt-leakage-b38bd01df1b4?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 132021,
+        "text": "⤷\nTitle:\nAftermath || HackSmarter\n════════════════════════\n𐀪\nAuthor:\nExploitforge\n════════════════════════\nⴵ\nTime:\nSat, 12 Sep 2026 04:24:41 GMT\n════════════════════════\n⌗\nTags:\n#linux_hacking\n#hacking",
+        "date": "2026-09-12T06:04:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132021_0_d82aa3da.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132021_1_790e991b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132021",
+        "link": {
+          "title": "Aftermath || HackSmarter",
+          "url": "https://medium.com/@tanyibesong.bryanmaurice/aftermath-hacksmarter-2a0cdff32204?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 132020,
+        "text": "⤷\nTitle:\nCloud Web Apps Have More Than One Attack Surface\n════════════════════════\n𐀪\nAuthor:\nPuja Maheshvari\n════════════════════════\nⴵ\nTime:\nSat, 12 Sep 2026 04:39:08 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#devsecops\n#devops\n#cloud_security\n#application_security",
+        "date": "2026-09-12T06:04:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132020_0_d82aa3da.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132020_1_9eaf28c4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132020",
+        "link": {
+          "title": "Cloud Web Apps Have More Than One Attack Surface",
+          "url": "https://medium.com/@pujamaheshvari5/cloud-web-apps-have-more-than-one-attack-surface-c6e5db53ab0c?source=rss------application_security-5"
+        }
+      },
+      {
+        "id": 132019,
+        "text": "⤷\nTitle:\n# Modern Android AppSec: Bypassing System CA Locks & Uncovering Hardcoded AWS Keys (3-Min Guide)\n════════════════════════\n𐀪\nAuthor:\nSandeep_Hacker\n════════════════════════\nⴵ\nTime:\nSat, 12 Sep 2026 04:40:46 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#reverse_engineering\n#android_apps\n#appsec\n#cybersecurity",
+        "date": "2026-09-12T06:04:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132019_0_d82aa3da.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132019_1_61b0b014.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132019",
+        "link": {
+          "title": "# Modern Android AppSec: Bypassing System CA Locks & Uncovering Hardcoded AWS Keys (3-Min Guide)",
+          "url": "https://medium.com/@realsandeep1271/modern-android-appsec-bypassing-system-ca-locks-uncovering-hardcoded-aws-keys-3-min-guide-f4290bc78a22?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 132018,
+        "text": "⤷\nTitle:\nSmali By bithowl: Chapter 10 Register Types\n════════════════════════\n𐀪\nAuthor:\nbithowl\n════════════════════════\nⴵ\nTime:\nSat, 12 Sep 2026 05:31:01 GMT\n════════════════════════\n⌗\nTags:\n#bithowl\n#bug_bounty_writeup\n#bug_bounty",
+        "date": "2026-09-12T06:04:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132018_0_d82aa3da.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132018_1_5d62ee60.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132018",
+        "link": {
+          "title": "Smali By bithowl: Chapter 10 Register Types",
+          "url": "https://medium.com/@bithowl/smali-by-bithowl-chapter-10-register-types-8e7b6290deb0?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 132017,
         "text": "⤷\nTitle:\nBugForge — Cafe Club — Walkthrough\n════════════════════════\n𐀪\nAuthor:\nFashil Rasool\n════════════════════════\nⴵ\nTime:\nSat, 12 Sep 2026 03:08:49 GMT\n════════════════════════\n⌗\nTags:\n#club_cafe\n#bugforge\n#ctf_walkthrough\n#sql_injection\n#sqlmap",
         "date": "2026-09-12T04:04:00+00:00",
@@ -1858,420 +2272,22 @@
           "title": "8 Signs Your Business Needs a VAPT Assessment Now",
           "url": "https://medium.com/@Triptinegi2/8-signs-your-business-needs-a-vapt-assessment-now-c2615b9d5288?source=rss------application_security-5"
         }
-      },
-      {
-        "id": 131920,
-        "text": "⤷\nTitle:\nGET aHEAD — picoCTF Write-up | Finding a Flag in HTTP Response Headers\n════════════════════════\n𐀪\nAuthor:\nAffanhaxor\n════════════════════════\nⴵ\nTime:\nFri, 11 Sep 2026 05:52:34 GMT\n════════════════════════\n⌗\nTags:\n#http_headers\n#web_security\n#ctf\n#bug_bounty\n#cybersecurity",
-        "date": "2026-09-11T08:04:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131920_0_98f00696.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131920_1_661c9e94.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131920",
-        "link": {
-          "title": "GET aHEAD — picoCTF Write-up | Finding a Flag in HTTP Response Headers",
-          "url": "https://medium.com/@affanhaxor/get-ahead-picoctf-write-up-finding-a-flag-in-http-response-headers-e0140fbf8900?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 131919,
-        "text": "⤷\nTitle:\nVibe-Coded Apps Are the New Bug Bounty Goldmine: Complete Recon Workflow for AI-Built Applications\n════════════════════════\n𐀪\nAuthor:\nDeepanshu Deep\n════════════════════════\nⴵ\nTime:\nFri, 11 Sep 2026 06:25:59 GMT\n════════════════════════\n⌗\nTags:\n#github\n#bug_bounty\n#vibe_coding\n#coding",
-        "date": "2026-09-11T08:04:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131919_0_98f00696.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131919_1_9eaeb083.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131919",
-        "link": {
-          "title": "Vibe-Coded Apps Are the New Bug Bounty Goldmine: Complete Recon Workflow for AI-Built Applications",
-          "url": "https://medium.com/@thenewdate24/vibe-coded-apps-are-the-new-bug-bounty-goldmine-complete-recon-workflow-for-ai-built-applications-d61de16e494d?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 131918,
-        "text": "⤷\nTitle:\nMacSync macOS Stealer Spreads via ClickFix Lures\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 11 Sep 2026 06:11:29 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#Apple\nSecurity\n#ClickFix\n#Infostealer\n#macOS\nStealer\n#MacSync\n#malware",
-        "date": "2026-09-11T08:04:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131918_0_98f00696.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131918_1_22823ad2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131918",
-        "link": {
-          "title": "MacSync macOS Stealer Spreads via ClickFix Lures",
-          "url": "https://securityonline.info/macsync-macos-stealer-clickfix/"
-        }
-      },
-      {
-        "id": 131917,
-        "text": "⤷\nTitle:\nApple Extends Free iPhone Satellite Access for Another Year\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 11 Sep 2026 07:04:16 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#Apple\n#Emergency\nSOS via Satellite\n#Globalstar\n#iphone\n#iPhone\n18 Pro\n#Satellite\nSOS",
-        "date": "2026-09-11T08:04:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131917_0_98f00696.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131917_1_8e7d43ac.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131917",
-        "link": {
-          "title": "Apple Extends Free iPhone Satellite Access for Another Year",
-          "url": "https://securityonline.info/apple-free-satellite-access-extension/"
-        }
-      },
-      {
-        "id": 131916,
-        "text": "⤷\nTitle:\nUbuntu 24.04.5 LTS Arrives With the Linux 7.0 Kernel\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 11 Sep 2026 07:11:20 +0000\n════════════════════════\n⌗\nTags:\n#Linux\n#Canonical\n#Linux\nKernel 7.0\n#LTS\n#open_source\n#Ubuntu",
-        "date": "2026-09-11T08:04:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131916_0_98f00696.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131916_1_36c9e25b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131916",
-        "link": {
-          "title": "Ubuntu 24.04.5 LTS Arrives With the Linux 7.0 Kernel",
-          "url": "https://securityonline.info/ubuntu-24-04-5-lts/"
-        }
-      },
-      {
-        "id": 131915,
-        "text": "⤷\nTitle:\nPhishing Campaign Exploits Google Infrastructure for Data Theft\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 11 Sep 2026 07:13:10 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#Credential\nHarvesting\n#Google\nInfrastructure\n#phishing\n#ScreenConnect",
-        "date": "2026-09-11T08:04:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131915_0_98f00696.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131915_1_2a78c374.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131915",
-        "link": {
-          "title": "Phishing Campaign Exploits Google Infrastructure for Data Theft",
-          "url": "https://securityonline.info/abuse-google-infrastructure-phishing/"
-        }
-      },
-      {
-        "id": 131914,
-        "text": "⤷\nTitle:\nOpenAI Suspends New ChatGPT Pro 20x Subscriptions\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 11 Sep 2026 07:16:08 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#AI\nCapacity\n#ChatGPT\nPro\n#GPT_6\nAstra\n#OpenAI",
-        "date": "2026-09-11T08:04:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131914_0_98f00696.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131914_1_cb6ea09d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131914",
-        "link": {
-          "title": "OpenAI Suspends New ChatGPT Pro 20x Subscriptions",
-          "url": "https://securityonline.info/chatgpt-pro-20x-suspended/"
-        }
-      },
-      {
-        "id": 131913,
-        "text": "⤷\nTitle:\nGoogle Launches a Native Gemini Desktop App for Windows\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 11 Sep 2026 07:35:40 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#AI\nAssistant\n#Copilot\n#Gemini\n#Gemini\nSpark\n#google\n#windows",
-        "date": "2026-09-11T08:04:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131913_0_98f00696.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131913_1_d5205fd4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131913",
-        "link": {
-          "title": "Google Launches a Native Gemini Desktop App for Windows",
-          "url": "https://securityonline.info/gemini-windows-desktop-app/"
-        }
-      },
-      {
-        "id": 131912,
-        "text": "⤷\nTitle:\nCisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nFri, 11 Sep 2026 11:49:59 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-09-11T08:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131912_0_98f00696.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131912",
-        "link": {
-          "title": "Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware",
-          "url": "https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html"
-        }
-      },
-      {
-        "id": 131911,
-        "text": "⤷\nTitle:\nPaperCut Replaces Emergency Patches With Fixes for Two Actively Exploited Flaws\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nFri, 11 Sep 2026 12:16:18 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-09-11T08:03:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131911_0_98f00696.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131911",
-        "link": {
-          "title": "PaperCut Replaces Emergency Patches With Fixes for Two Actively Exploited Flaws",
-          "url": "https://thehackernews.com/2026/09/papercut-replaces-emergency-patches.html"
-        }
-      },
-      {
-        "id": 131910,
-        "text": "⤷\nTitle:\nChina-Linked UNC3569 Exploited Sogou Input Method Flaw to Deploy GRAYRABBIT Backdoor\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nFri, 11 Sep 2026 12:44:09 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-09-11T08:03:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131910_0_98f00696.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131910",
-        "link": {
-          "title": "China-Linked UNC3569 Exploited Sogou Input Method Flaw to Deploy GRAYRABBIT Backdoor",
-          "url": "https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html"
-        }
-      },
-      {
-        "id": 131909,
-        "text": "⤷\nTitle:\nAttackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nFri, 11 Sep 2026 13:01:05 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-09-11T08:03:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131909_0_98f00696.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131909",
-        "link": {
-          "title": "Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors",
-          "url": "https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html"
-        }
-      },
-      {
-        "id": 131908,
-        "text": "⤷\nTitle:\nWalkthrough: Exploiting Samba 3.0.20 usermap_script on Metasploitable 2\n════════════════════════\n𐀪\nAuthor:\nHarikishan\n════════════════════════\nⴵ\nTime:\nFri, 11 Sep 2026 04:16:01 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#advanced_ip_scanner\n#metasploit_framework\n#metasploitable2\n#samba",
-        "date": "2026-09-11T06:04:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131908_0_98f00696.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131908_1_50934367.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131908",
-        "link": {
-          "title": "Walkthrough: Exploiting Samba 3.0.20 usermap_script on Metasploitable 2",
-          "url": "https://medium.com/@TheHarikishan/walkthrough-exploiting-samba-3-0-20-usermap-script-on-metasploitable-2-6f53bae6beb7?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 131907,
-        "text": "⤷\nTitle:\n8 Must-Know Ethical Hacking Tools for Modern Security Teams in 2027 | Infographic\n════════════════════════\n𐀪\nAuthor:\nEthancarter\n════════════════════════\nⴵ\nTime:\nFri, 11 Sep 2026 05:41:13 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity_skills\n#ethical_hacking\n#cybersecurity_tools\n#uscsi",
-        "date": "2026-09-11T06:04:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131907_0_98f00696.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131907_1_7644182e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131907",
-        "link": {
-          "title": "8 Must-Know Ethical Hacking Tools for Modern Security Teams in 2027 | Infographic",
-          "url": "https://medium.com/@ethancarter.14892/8-must-know-ethical-hacking-tools-for-modern-security-teams-in-2027-infographic-b0f40b5e5a65?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 131906,
-        "text": "⤷\nTitle:\nHack the Box: MODULE 01 — WEB REQUEST\n════════════════════════\n𐀪\nAuthor:\nHassan\n════════════════════════\nⴵ\nTime:\nFri, 11 Sep 2026 04:51:01 GMT\n════════════════════════\n⌗\nTags:\n#hackthebox_writeup\n#webrequest\n#hackthebox\n#web_request_write_up",
-        "date": "2026-09-11T06:04:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131906_0_98f00696.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131906_1_fab3c1e0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131906",
-        "link": {
-          "title": "Hack the Box: MODULE 01 — WEB REQUEST",
-          "url": "https://medium.com/@hassancheema0303/hack-the-box-module-01-web-request-09da0ff6c3f7?source=rss------hackthebox_writeup-5"
-        }
-      },
-      {
-        "id": 131905,
-        "text": "⤷\nTitle:\nMastering Packet Analysis: A Deep Dive into the “Deep-Level Wireshark Reference”\n════════════════════════\n𐀪\nAuthor:\nCyberBruhArmy\n════════════════════════\nⴵ\nTime:\nFri, 11 Sep 2026 04:39:10 GMT\n════════════════════════\n⌗\nTags:\n#wireshark\n#networking\n#hacking\n#security\n#infosec",
-        "date": "2026-09-11T06:04:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131905_0_98f00696.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131905_1_81665eac.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131905",
-        "link": {
-          "title": "Mastering Packet Analysis: A Deep Dive into the “Deep-Level Wireshark Reference”",
-          "url": "https://cyberbruharmy.medium.com/mastering-packet-analysis-a-deep-dive-into-the-deep-level-wireshark-reference-c3dde4d52c20?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 131900,
-        "text": "⤷\nTitle:\nHacksmarter Aftermath-CTF Writeup\n════════════════════════\n𐀪\nAuthor:\nRazzle Mouse\n════════════════════════\nⴵ\nTime:\nFri, 11 Sep 2026 03:29:49 GMT\n════════════════════════\n⌗\nTags:\n#linux\n#red_team\n#oscp_preparation\n#ctf_writeup\n#rce",
-        "date": "2026-09-11T04:04:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131900_0_98f00696.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131900_1_3085ab50.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131900",
-        "link": {
-          "title": "Hacksmarter Aftermath-CTF Writeup",
-          "url": "https://razzlemouse.medium.com/hacksmarter-aftermath-ctf-writeup-e41ea4c96acc?source=rss------rce-5"
-        }
-      },
-      {
-        "id": 131899,
-        "text": "⤷\nTitle:\nYour CEH Exam Is in 7 Days. Stop Studying Everything.\n════════════════════════\n𐀪\nAuthor:\nAkash Madanu\n════════════════════════\nⴵ\nTime:\nFri, 11 Sep 2026 03:21:26 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#cybersecurity\n#exam_preparation\n#che\n#certification",
-        "date": "2026-09-11T04:04:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131899_0_98f00696.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_131899_1_c433a211.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/131899",
-        "link": {
-          "title": "Your CEH Exam Is in 7 Days. Stop Studying Everything.",
-          "url": "https://medium.com/@madanuakash/your-ceh-exam-is-in-7-days-stop-studying-everything-e87c32b2fa37?source=rss------ethical_hacking-5"
-        }
       }
     ]
   },
-  "last_update": "2026-09-12T04:47:21.858040+00:00",
+  "last_update": "2026-09-12T08:55:55.364747+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 189,
-    "total_files": 189,
+    "total_media": 193,
+    "total_files": 193,
     "total_links": 0,
     "files_by_type": {
-      "image": 189
+      "image": 193
     },
-    "referenced_files": 189,
-    "existing_media_files": 189,
-    "total_size_mb": 5.01,
-    "last_calculation": "2026-09-12T04:47:21.860330+00:00"
+    "referenced_files": 193,
+    "existing_media_files": 193,
+    "total_size_mb": 5.46,
+    "last_calculation": "2026-09-12T08:55:55.367093+00:00"
   }
 }
