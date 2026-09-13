@@ -2,6 +2,94 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 132165,
+        "text": "⤷\nTitle:\nI Built a Network Sniffer in Python During My Internship — Here’s What Nobody Tells You About It\n════════════════════════\n𐀪\nAuthor:\nDassourav\n════════════════════════\nⴵ\nTime:\nSun, 13 Sep 2026 19:04:44 GMT\n════════════════════════\n⌗\nTags:\n#programming\n#ethical_hacking\n#python_programming\n#networking\n#cybersecurity",
+        "date": "2026-09-13T20:04:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132165_0_1c741e6b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132165_1_9af4d5ef.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132165",
+        "link": {
+          "title": "I Built a Network Sniffer in Python During My Internship — Here’s What Nobody Tells You About It",
+          "url": "https://medium.com/@dassourav51516/i-built-a-network-sniffer-in-python-during-my-internship-heres-what-nobody-tells-you-about-it-92311d7481a1?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 132164,
+        "text": "⤷\nTitle:\nAgent Hardening | TryHackMe | Walkthrough\n════════════════════════\n𐀪\nAuthor:\nSornphut\n════════════════════════\nⴵ\nTime:\nSun, 13 Sep 2026 18:30:15 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#ai_agent\n#tryhackme_walkthrough\n#ai\n#siem",
+        "date": "2026-09-13T20:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132164_0_1c741e6b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132164_1_4c0860e2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132164",
+        "link": {
+          "title": "Agent Hardening | TryHackMe | Walkthrough",
+          "url": "https://medium.com/@sornphut/agent-hardening-tryhackme-walkthrough-528336085d68?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 132163,
+        "text": "⤷\nTitle:\n20 Active Directory Security Controls That Stop Real Attack Paths: Master Practical Defense\n════════════════════════\n𐀪\nAuthor:\nVery Lazy Tech\n════════════════════════\nⴵ\nTime:\nSun, 13 Sep 2026 18:58:50 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#penetration_testing\n#bug_bounty\n#cybersecurity\n#ng",
+        "date": "2026-09-13T20:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132163_0_1c741e6b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132163",
+        "link": {
+          "title": "20 Active Directory Security Controls That Stop Real Attack Paths: Master Practical Defense",
+          "url": "https://medium.com/@verylazytech/20-active-directory-security-controls-that-stop-real-attack-paths-master-practical-defense-48146a25e7a1?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 132162,
+        "text": "⤷\nTitle:\nWhen Authentication Isn’t Enough: A Cross-Tenant Authorization Flaw in a Payment API\n════════════════════════\n𐀪\nAuthor:\nL15B04\n════════════════════════\nⴵ\nTime:\nSun, 13 Sep 2026 19:20:22 GMT\n════════════════════════\n⌗\nTags:\n#bola\n#bug_bounty",
+        "date": "2026-09-13T20:03:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132162_0_1c741e6b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132162_1_8c9bce5e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132162",
+        "link": {
+          "title": "When Authentication Isn’t Enough: A Cross-Tenant Authorization Flaw in a Payment API",
+          "url": "https://medium.com/@L15B04/when-authentication-isnt-enough-a-cross-tenant-authorization-flaw-in-a-payment-api-e8868df7b7d7?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 132161,
         "text": "⤷\nTitle:\nCheck Point VPN Zafiyetleri: Sertifika Manipülasyonu ile Gelen RCE Tehlikesi — CVE-2026–85102 —…\n════════════════════════\n𐀪\nAuthor:\ngökay.\n════════════════════════\nⴵ\nTime:\nSun, 13 Sep 2026 16:45:27 GMT\n════════════════════════\n⌗\nTags:\n#vulnerability\n#rce\n#checkpoint_firewall\n#ipsec",
         "date": "2026-09-13T18:04:27+00:00",
@@ -2176,114 +2264,22 @@
           "title": "Phantom Fob: How a Plaintext Counter on CAN Bus Let Me Forge Any Fob Command",
           "url": "https://medium.com/@proxyy/phantom-fob-how-a-plaintext-counter-on-can-bus-let-me-forge-any-fob-command-10d29e3c0b35?source=rss------penetration_testing-5"
         }
-      },
-      {
-        "id": 132060,
-        "text": "⤷\nTitle:\nMalware Analysis Diary #03 — Entropy Deep Dive: Packed vs. Legitimate Compression\n════════════════════════\n𐀪\nAuthor:\nPratik Gurav\n════════════════════════\nⴵ\nTime:\nSat, 12 Sep 2026 12:31:01 GMT\n════════════════════════\n⌗\nTags:\n#threat_intelligence\n#infosec\n#cybersecurity\n#reverse_engineering\n#security_research",
-        "date": "2026-09-12T14:04:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132060_0_d82aa3da.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132060_1_a443a840.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132060",
-        "link": {
-          "title": "Malware Analysis Diary #03 — Entropy Deep Dive: Packed vs. Legitimate Compression",
-          "url": "https://pratik0x.medium.com/malware-analysis-diary-03-entropy-deep-dive-packed-vs-legitimate-compression-9bdf193abcaf?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 132059,
-        "text": "⤷\nTitle:\nFool’s guide to Worms and viruses\n════════════════════════\n𐀪\nAuthor:\nKN\n════════════════════════\nⴵ\nTime:\nSat, 12 Sep 2026 12:26:57 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#hacking",
-        "date": "2026-09-12T14:04:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132059_0_d82aa3da.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132059_1_5ab2486b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132059",
-        "link": {
-          "title": "Fool’s guide to Worms and viruses",
-          "url": "https://medium.com/@KNlabs02/fools-guide-to-worms-and-viruses-1baa1b89c755?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 132058,
-        "text": "⤷\nTitle:\nWhiterose (THM) Tryhackme Walkthrough\n════════════════════════\n𐀪\nAuthor:\nLawvye\n════════════════════════\nⴵ\nTime:\nSat, 12 Sep 2026 13:05:15 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#privilege_escalation\n#hacking\n#cybersecurity\n#linux",
-        "date": "2026-09-12T14:03:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132058_0_d82aa3da.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132058_1_b9c6725a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132058",
-        "link": {
-          "title": "Whiterose (THM) Tryhackme Walkthrough",
-          "url": "https://medium.com/@lawvye/whiterose-thm-tryhackme-walkthrough-1768387b1fa5?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 132057,
-        "text": "⤷\nTitle:\nFool’s guide to Nightspire\n════════════════════════\n𐀪\nAuthor:\nKN\n════════════════════════\nⴵ\nTime:\nSat, 12 Sep 2026 13:35:48 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#ransomware\n#cybersecurity",
-        "date": "2026-09-12T14:03:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132057_0_d82aa3da.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132057_1_af63a2a1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132057",
-        "link": {
-          "title": "Fool’s guide to Nightspire",
-          "url": "https://medium.com/@KNlabs02/fools-guide-to-nightspire-effa6467b9f4?source=rss------hacking-5"
-        }
       }
     ]
   },
-  "last_update": "2026-09-13T18:57:30.937162+00:00",
+  "last_update": "2026-09-13T21:12:11.338384+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 192,
-    "total_files": 192,
+    "total_media": 191,
+    "total_files": 191,
     "total_links": 0,
     "files_by_type": {
-      "image": 192
+      "image": 191
     },
-    "referenced_files": 192,
-    "existing_media_files": 192,
-    "total_size_mb": 5.5,
-    "last_calculation": "2026-09-13T18:57:30.938800+00:00"
+    "referenced_files": 191,
+    "existing_media_files": 191,
+    "total_size_mb": 5.48,
+    "last_calculation": "2026-09-13T21:12:11.340671+00:00"
   }
 }
