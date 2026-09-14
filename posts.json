@@ -2,6 +2,121 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 132184,
+        "text": "⤷\nTitle:\nPickle Rick: A Rick & Morty-Themed TryHackMe CTF Walkthrough\n════════════════════════\n𐀪\nAuthor:\nPiyush Ramani\n════════════════════════\nⴵ\nTime:\nSun, 13 Sep 2026 22:09:21 GMT\n════════════════════════\n⌗\nTags:\n#ctf_writeup\n#ctf\n#cybersecurity\n#tryhackme\n#penetration_testing",
+        "date": "2026-09-14T00:04:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132184_0_458566a3.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132184_1_1961efb4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132184",
+        "link": {
+          "title": "Pickle Rick: A Rick & Morty-Themed TryHackMe CTF Walkthrough",
+          "url": "https://medium.com/@pkramani31/pickle-rick-a-rick-morty-themed-tryhackme-ctf-walkthrough-de29f4fb56f0?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 132183,
+        "text": "⤷\nTitle:\nHTB — Responder.\n════════════════════════\n𐀪\nAuthor:\nfloydy\n════════════════════════\nⴵ\nTime:\nSun, 13 Sep 2026 22:35:59 GMT\n════════════════════════\n⌗\nTags:\n#hackthebox\n#windows\n#htb\n#hacking",
+        "date": "2026-09-14T00:04:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132183_0_458566a3.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132183_1_fcba1368.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132183",
+        "link": {
+          "title": "HTB — Responder.",
+          "url": "https://medium.com/@phloydy/htb-responder-ab0b28d98059?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 132182,
+        "text": "⤷\nTitle:\nFrom the Shadows of “Orphan” to the Clamor of “G91”: The Fall of a Dark Web Legend\n════════════════════════\n𐀪\nAuthor:\nRooy vodo\n════════════════════════\nⴵ\nTime:\nSun, 13 Sep 2026 23:44:07 GMT\n════════════════════════\n⌗\nTags:\n#true_crime\n#tor\n#cybersecurity\n#hacking\n#da_web_cybercrime_hacking",
+        "date": "2026-09-14T00:03:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132182_0_458566a3.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132182_1_bdc192fb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132182",
+        "link": {
+          "title": "From the Shadows of “Orphan” to the Clamor of “G91”: The Fall of a Dark Web Legend",
+          "url": "https://medium.com/@kokaenkgt/from-the-shadows-of-orphan-to-the-clamor-of-g91-the-fall-of-a-dark-web-legend-ba6fc0373c74?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 132181,
+        "text": "⤷\nTitle:\nPortSwigger Lab: OS command injection, simple case\n════════════════════════\n𐀪\nAuthor:\nsa0k0\n════════════════════════\nⴵ\nTime:\nSun, 13 Sep 2026 21:57:21 GMT\n════════════════════════\n⌗\nTags:\n#command_injection\n#bug_bounty\n#portswigger_academy_labs",
+        "date": "2026-09-14T00:03:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132181_0_458566a3.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132181_1_9f564ae2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132181",
+        "link": {
+          "title": "PortSwigger Lab: OS command injection, simple case",
+          "url": "https://medium.com/@sa0k0/portswigger-lab-os-command-injection-simple-case-daf63dcf32ba?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 132180,
+        "text": "⤷\nTitle:\nWe Need to Talk — Breaking Tenant Isolation Through a gRPC Transcoding Mismatch\n════════════════════════\n𐀪\nAuthor:\nAli Essam\n════════════════════════\nⴵ\nTime:\nSun, 13 Sep 2026 22:59:03 GMT\n════════════════════════\n⌗\nTags:\n#ctf\n#penetration_testing\n#bug_bounty\n#hacking\n#cybersecurity",
+        "date": "2026-09-14T00:03:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132180_0_458566a3.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132180_1_7b177a2c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132180",
+        "link": {
+          "title": "We Need to Talk — Breaking Tenant Isolation Through a gRPC Transcoding Mismatch",
+          "url": "https://medium.com/@or0to/we-need-to-talk-breaking-tenant-isolation-through-a-grpc-transcoding-mismatch-796a75231fd2?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 132179,
         "text": "⤷\nTitle:\nCryptoBank VM — VulnHub Pentesting Walkthrough\n════════════════════════\n𐀪\nAuthor:\nEric Thimi Alappatt\n════════════════════════\nⴵ\nTime:\nSun, 13 Sep 2026 20:27:57 GMT\n════════════════════════\n⌗\nTags:\n#vulnhub\n#tryhackme_walkthrough\n#pentesting\n#cryptobank",
         "date": "2026-09-13T22:04:41+00:00",
@@ -2145,125 +2260,10 @@
           "title": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
           "url": "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html"
         }
-      },
-      {
-        "id": 132079,
-        "text": "⤷\nTitle:\nHow I Tricked OpenClaw Into Attacking Its Own Network: A NAT64 SSRF Bypass\n════════════════════════\n𐀪\nAuthor:\nAnurag Mewar\n════════════════════════\nⴵ\nTime:\nSat, 12 Sep 2026 15:27:56 GMT\n════════════════════════\n⌗\nTags:\n#ssrf\n#security\n#ai\n#ai_agent\n#openclaw",
-        "date": "2026-09-12T16:04:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132079_0_d82aa3da.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132079_1_1c22ff09.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132079",
-        "link": {
-          "title": "How I Tricked OpenClaw Into Attacking Its Own Network: A NAT64 SSRF Bypass",
-          "url": "https://anuragmewar.medium.com/how-i-tricked-openclaw-into-attacking-its-own-network-a-nat64-ssrf-bypass-9b93a7f11cd9?source=rss------ssrf-5"
-        }
-      },
-      {
-        "id": 132078,
-        "text": "⤷\nTitle:\nHackSmarter Web App Basics Course Review — Part 2 of many\n════════════════════════\n𐀪\nAuthor:\nCpt Ron\n════════════════════════\nⴵ\nTime:\nSat, 12 Sep 2026 15:15:47 GMT\n════════════════════════\n⌗\nTags:\n#web_app_pentesting\n#learning\n#ethical_hacking\n#beginner",
-        "date": "2026-09-12T16:04:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132078_0_d82aa3da.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132078_1_37bc8dea.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132078",
-        "link": {
-          "title": "HackSmarter Web App Basics Course Review — Part 2 of many",
-          "url": "https://medium.com/@cpt_ron/hacksmarter-web-app-basics-course-review-part-2-of-many-9e0a79539b87?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 132077,
-        "text": "⤷\nTitle:\nSilent Packets\n════════════════════════\n𐀪\nAuthor:\nCH V K R SUBHASH\n════════════════════════\nⴵ\nTime:\nSat, 12 Sep 2026 14:57:09 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme",
-        "date": "2026-09-12T16:04:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132077_0_d82aa3da.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132077_1_bd7d3826.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132077",
-        "link": {
-          "title": "Silent Packets",
-          "url": "https://chvkrsubhash.medium.com/silent-packets-2132919b6394?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 132076,
-        "text": "⤷\nTitle:\nSolved “Squid Game” on TryHackMe\n════════════════════════\n𐀪\nAuthor:\nF0XGL0V3\n════════════════════════\nⴵ\nTime:\nSat, 12 Sep 2026 15:43:22 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#oletools\n#maldoc\n#deobfuscation\n#malware_analysis",
-        "date": "2026-09-12T16:04:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132076_0_d82aa3da.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132076_1_c4a69881.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132076",
-        "link": {
-          "title": "Solved “Squid Game” on TryHackMe",
-          "url": "https://medium.com/@f0xgl0v3/solved-squid-game-on-tryhackme-20ca30299e0e?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 132075,
-        "text": "⤷\nTitle:\nCyberHeroes Walkthrough\n════════════════════════\n𐀪\nAuthor:\nL4ZZ3RJ0D\n════════════════════════\nⴵ\nTime:\nSat, 12 Sep 2026 15:56:51 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_walkthrough\n#devtools\n#tryhackme\n#ctf\n#ctf_writeup",
-        "date": "2026-09-12T16:04:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132075_0_d82aa3da.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132075_1_fb0f973d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132075",
-        "link": {
-          "title": "CyberHeroes Walkthrough",
-          "url": "https://medium.com/@l4zz3rj0d/cyberheroes-walkthrough-6e3a7c6e67c9?source=rss------tryhackme-5"
-        }
       }
     ]
   },
-  "last_update": "2026-09-13T23:16:42.704856+00:00",
+  "last_update": "2026-09-14T01:17:13.522075+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2275,7 +2275,7 @@
     },
     "referenced_files": 190,
     "existing_media_files": 190,
-    "total_size_mb": 5.17,
-    "last_calculation": "2026-09-13T23:16:42.707203+00:00"
+    "total_size_mb": 5.19,
+    "last_calculation": "2026-09-14T01:17:13.524337+00:00"
   }
 }
