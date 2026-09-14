@@ -2,6 +2,454 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 132247,
+        "text": "⤷\nTitle:\nThree Hacking Flaws Attackers Execute Code\n════════════════════════\n𐀪\nAuthor:\nMuhamed Fazal PS\n════════════════════════\nⴵ\nTime:\nMon, 14 Sep 2026 10:22:55 GMT\n════════════════════════\n⌗\nTags:\n#cyberattack\n#bug_bounty_tips\n#cybersecurity\n#cybersecurity_awareness",
+        "date": "2026-09-14T12:04:44+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132247_0_458566a3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132247",
+        "link": {
+          "title": "Three Hacking Flaws Attackers Execute Code",
+          "url": "https://ai.plainenglish.io/three-hacking-flaws-attackers-execute-code-24b752f60244?source=rss------bug_bounty_tips-5"
+        }
+      },
+      {
+        "id": 132246,
+        "text": "⤷\nTitle:\nGitHub’s $100,000 Security Bounty Highlights the Hidden Risks Inside Software Development Pipelines\n════════════════════════\n𐀪\nAuthor:\nJas\n════════════════════════\nⴵ\nTime:\nMon, 14 Sep 2026 11:03:22 GMT\n════════════════════════\n⌗\nTags:\n#software_supply_chain\n#github\n#rce\n#software_security\n#secure_coding",
+        "date": "2026-09-14T12:04:41+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132246_0_458566a3.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132246_1_03c4aa47.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132246",
+        "link": {
+          "title": "GitHub’s $100,000 Security Bounty Highlights the Hidden Risks Inside Software Development Pipelines",
+          "url": "https://medium.com/@jasmitharouthu_58441/githubs-100-000-security-bounty-highlights-the-hidden-risks-inside-software-development-pipelines-cc326271695b?source=rss------rce-5"
+        }
+      },
+      {
+        "id": 132245,
+        "text": "⤷\nTitle:\nAPI’niz Söylemesi Gerekenden Fazlasını mı Söylüyor?\n════════════════════════\n𐀪\nAuthor:\nKader Sutlu\n════════════════════════\nⴵ\nTime:\nMon, 14 Sep 2026 11:07:37 GMT\n════════════════════════\n⌗\nTags:\n#api_security\n#owasp_api_security_top_10\n#owasp_top_10\n#qa_testing\n#excessive_data_exposure",
+        "date": "2026-09-14T12:04:37+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132245_0_458566a3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132245",
+        "link": {
+          "title": "API’niz Söylemesi Gerekenden Fazlasını mı Söylüyor?",
+          "url": "https://sutlukader.medium.com/apiniz-s%C3%B6ylemesi-gerekenden-fazlas%C4%B1n%C4%B1-m%C4%B1-s%C3%B6yl%C3%BCyor-1e0d0ce56051?source=rss------api_security-5"
+        }
+      },
+      {
+        "id": 132244,
+        "text": "⤷\nTitle:\nSQL Basics\n════════════════════════\n𐀪\nAuthor:\nNidhindev\n════════════════════════\nⴵ\nTime:\nMon, 14 Sep 2026 10:34:13 GMT\n════════════════════════\n⌗\nTags:\n#database_management\n#cybersecurity\n#mysql\n#sql\n#ethical_hacking",
+        "date": "2026-09-14T12:04:33+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132244_0_458566a3.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132244_1_6525de20.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132244",
+        "link": {
+          "title": "SQL Basics",
+          "url": "https://medium.com/@nidhindev362/sql-basics-dd80a74807cb?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 132243,
+        "text": "⤷\nTitle:\nFrom Lab to Plant: What Can an OT Penetration Testing Course Realistically Teach?\n════════════════════════\n𐀪\nAuthor:\nSulaiman Alhasawi\n════════════════════════\nⴵ\nTime:\nMon, 14 Sep 2026 11:06:30 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#ot_security\n#ics_security\n#cybersecurity\n#pentesting",
+        "date": "2026-09-14T12:04:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132243_0_458566a3.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132243_1_59d27789.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132243",
+        "link": {
+          "title": "From Lab to Plant: What Can an OT Penetration Testing Course Realistically Teach?",
+          "url": "https://alhasawi.medium.com/from-lab-to-plant-what-can-an-ot-penetration-testing-course-realistically-teach-250fc31baeb9?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 132242,
+        "text": "⤷\nTitle:\nA Second Brain for Your Pentests — Free & Open Source\n════════════════════════\n𐀪\nAuthor:\nSaid-Abbosxon Nabijonov | 0trc\n════════════════════════\nⴵ\nTime:\nMon, 14 Sep 2026 10:20:22 GMT\n════════════════════════\n⌗\nTags:\n#ctf\n#cybersecurity\n#pentesting\n#infosec\n#second_brain",
+        "date": "2026-09-14T12:04:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132242_0_458566a3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132242",
+        "link": {
+          "title": "A Second Brain for Your Pentests — Free & Open Source",
+          "url": "https://infosecwriteups.com/a-second-brain-for-your-pentests-free-open-source-dfff44623c38?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 132241,
+        "text": "⤷\nTitle:\nThe Dark Web Is Not Anonymous: 7 Ways People Leave Digital Traces\n════════════════════════\n𐀪\nAuthor:\nMohit\n════════════════════════\nⴵ\nTime:\nMon, 14 Sep 2026 11:42:08 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#privacy\n#cybersecurity\n#technology\n#darkweb",
+        "date": "2026-09-14T12:04:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132241_0_458566a3.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132241_1_96cc75d3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132241",
+        "link": {
+          "title": "The Dark Web Is Not Anonymous: 7 Ways People Leave Digital Traces",
+          "url": "https://medium.com/@mohiitlamba/the-dark-web-is-not-anonymous-7-ways-people-leave-digital-traces-d93e07f02747?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 132240,
+        "text": "⤷\nTitle:\nJEH: A Beginner’s Guide to Becoming a Junior Ethical Hacker\n════════════════════════\n𐀪\nAuthor:\nQnaydshackersacadamy\n════════════════════════\nⴵ\nTime:\nMon, 14 Sep 2026 09:55:10 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ethical_hacking_training\n#ethical_hacking\n#hacking\n#hacking_tools",
+        "date": "2026-09-14T12:04:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132240_0_458566a3.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132240_1_7403da15.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132240",
+        "link": {
+          "title": "JEH: A Beginner’s Guide to Becoming a Junior Ethical Hacker",
+          "url": "https://medium.com/@qnaydshackersacadamy/jeh-a-beginners-guide-to-becoming-a-junior-ethical-hacker-15c9b2230733?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 132239,
+        "text": "⤷\nTitle:\nWriteup for CyLab/picoCTF challenge “Piece by Piece”\n════════════════════════\n𐀪\nAuthor:\nWalter Moar\n════════════════════════\nⴵ\nTime:\nMon, 14 Sep 2026 11:01:01 GMT\n════════════════════════\n⌗\nTags:\n#ctf\n#hacking\n#cybersecurity\n#ctf_writeup\n#cylab",
+        "date": "2026-09-14T12:04:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132239_0_458566a3.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132239_1_fd794c7a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132239",
+        "link": {
+          "title": "Writeup for CyLab/picoCTF challenge “Piece by Piece”",
+          "url": "https://medium.com/@waltermoar/writeup-for-cylab-picoctf-challenge-piece-by-piece-24240e8e7d42?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 132238,
+        "text": "⤷\nTitle:\nBuilding GeoSpectre: A Real-Time Location-Sharing Project with Node.js and Socket.IO\n════════════════════════\n𐀪\nAuthor:\nParth Koul\n════════════════════════\nⴵ\nTime:\nMon, 14 Sep 2026 11:04:32 GMT\n════════════════════════\n⌗\nTags:\n#hacking_tools\n#hacking\n#live_location_tracker\n#nodejs\n#cybersecurity",
+        "date": "2026-09-14T12:04:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132238_0_458566a3.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132238_1_4e7a5512.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132238",
+        "link": {
+          "title": "Building GeoSpectre: A Real-Time Location-Sharing Project with Node.js and Socket.IO",
+          "url": "https://medium.com/@koulparth5/building-geospectre-a-real-time-location-sharing-project-with-node-js-and-socket-io-92f8b3ea3f1f?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 132237,
+        "text": "⤷\nTitle:\nPart 1: “ROLL BACK IMMEDIATELY!”\n════════════════════════\n𐀪\nAuthor:\nSerge at X3EM\n════════════════════════\nⴵ\nTime:\nMon, 14 Sep 2026 11:48:37 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#world\n#artificial_intelligence\n#2026_elections",
+        "date": "2026-09-14T12:04:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132237_0_458566a3.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132237_1_f5e519c9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132237",
+        "link": {
+          "title": "Part 1: “ROLL BACK IMMEDIATELY!”",
+          "url": "https://medium.com/@x3em/part-1-roll-back-immediately-e44b7a13b4c7?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 132236,
+        "text": "⤷\nTitle:\nDjango Unchained — CTF Writeup\n════════════════════════\n𐀪\nAuthor:\nTAHON\n════════════════════════\nⴵ\nTime:\nMon, 14 Sep 2026 11:52:14 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#ctf\n#webchallenge\n#application_security",
+        "date": "2026-09-14T12:04:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132236_0_458566a3.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132236_1_b2de6675.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132236",
+        "link": {
+          "title": "Django Unchained — CTF Writeup",
+          "url": "https://medium.com/@0xTa7on/django-unchained-ctf-writeup-a70eb67b2a8e?source=rss------application_security-5"
+        }
+      },
+      {
+        "id": 132235,
+        "text": "⤷\nTitle:\n3 Zero-Days, 1 Week: Why September 2026 Is a Wake-Up Call for Every IT Team\n════════════════════════\n𐀪\nAuthor:\nBugitrix\n════════════════════════\nⴵ\nTime:\nMon, 14 Sep 2026 10:56:07 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#cyberattack\n#zero_day\n#offensive_security\n#bug_bounty",
+        "date": "2026-09-14T12:04:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132235_0_458566a3.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132235_1_08e93634.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132235",
+        "link": {
+          "title": "3 Zero-Days, 1 Week: Why September 2026 Is a Wake-Up Call for Every IT Team",
+          "url": "https://medium.com/@bugitrix/3-zero-days-1-week-why-september-2026-is-a-wake-up-call-for-every-it-team-5f166f64dc0c?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 132234,
+        "text": "⤷\nTitle:\nFramework Escape Hatches: One Grep, Your Whole Attack Surface\n════════════════════════\n𐀪\nAuthor:\nNitin yadav\n════════════════════════\nⴵ\nTime:\nMon, 14 Sep 2026 11:31:01 GMT\n════════════════════════\n⌗\nTags:\n#bugbounty_writeup\n#ethical_hacking\n#bug_bounty\n#infosec\n#cybersecurity",
+        "date": "2026-09-14T12:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132234_0_458566a3.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132234_1_da933506.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132234",
+        "link": {
+          "title": "Framework Escape Hatches: One Grep, Your Whole Attack Surface",
+          "url": "https://kd-200.medium.com/framework-escape-hatches-one-grep-your-whole-attack-surface-e382637fb66d?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 132233,
+        "text": "⤷\nTitle:\nWindows 11 Introduces Native Cloud Rebuild Functionality\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 14 Sep 2026 10:07:21 +0000\n════════════════════════\n⌗\nTags:\n#Windows\n#Cloud\nRebuild\n#Microsoft\n#OS\nRecovery\n#Windows\n11",
+        "date": "2026-09-14T12:03:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132233_0_458566a3.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132233_1_5a7d5f7b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132233",
+        "link": {
+          "title": "Windows 11 Introduces Native Cloud Rebuild Functionality",
+          "url": "https://securityonline.info/windows-11-cloud-rebuild-recovery/"
+        }
+      },
+      {
+        "id": 132232,
+        "text": "⤷\nTitle:\nHow to Become a Cybersecurity Analyst: A Complete Guide\n════════════════════════\n𐀪\nAuthor:\ncybersecuritycourse\n════════════════════════\nⴵ\nTime:\nMon, 14 Sep 2026 08:13:43 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#cybersecurity_training\n#growth_hacking\n#education\n#cybersecurity",
+        "date": "2026-09-14T10:04:43+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132232_0_458566a3.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132232_1_08077375.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132232",
+        "link": {
+          "title": "How to Become a Cybersecurity Analyst: A Complete Guide",
+          "url": "https://medium.com/@cybersecuritycourse/how-to-become-a-cybersecurity-analyst-a-complete-guide-770e6f8ae1f5?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 132231,
+        "text": "⤷\nTitle:\nHTTP Explained Through a Hands-On Web Security Lab\n════════════════════════\n𐀪\nAuthor:\nTanya Bhardwaj\n════════════════════════\nⴵ\nTime:\nMon, 14 Sep 2026 08:43:38 GMT\n════════════════════════\n⌗\nTags:\n#linux\n#networking\n#ethical_hacking\n#cybersecurity\n#web_security",
+        "date": "2026-09-14T10:04:40+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132231_0_458566a3.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132231_1_adc51608.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132231",
+        "link": {
+          "title": "HTTP Explained Through a Hands-On Web Security Lab",
+          "url": "https://tanya-bhardwaj20.medium.com/http-explained-through-a-hands-on-web-security-lab-c30a483d31b4?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 132230,
+        "text": "⤷\nTitle:\nRansomware negotiation specialist: How To Find and Hire an Ethical Hacker > Smatchoicehackers.com\n════════════════════════\n𐀪\nAuthor:\nDonley Mark\n════════════════════════\nⴵ\nTime:\nMon, 14 Sep 2026 08:48:56 GMT\n════════════════════════\n⌗\nTags:\n#medium\n#cyber_security_services\n#cybersecurity\n#digital_forensics\n#ethical_hacking",
+        "date": "2026-09-14T10:04:37+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132230_0_458566a3.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132230_1_0fe06db8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132230",
+        "link": {
+          "title": "Ransomware negotiation specialist: How To Find and Hire an Ethical Hacker > Smatchoicehackers.com",
+          "url": "https://medium.com/@donleym92/ransomware-negotiation-specialist-how-to-find-and-hire-an-ethical-hacker-smatchoicehackers-com-437e17ab6d1d?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 132229,
+        "text": "⤷\nTitle:\nDNS in Detail — Try Hack Me\n════════════════════════\n𐀪\nAuthor:\nChittanoori Divyashrith\n════════════════════════\nⴵ\nTime:\nMon, 14 Sep 2026 08:38:32 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#pre_security\n#dns_in_detail\n#cybersecurity",
+        "date": "2026-09-14T10:04:33+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132229_0_458566a3.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132229_1_53dee6de.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132229",
+        "link": {
+          "title": "DNS in Detail — Try Hack Me",
+          "url": "https://medium.com/@chittanooridivyashrith/dns-in-detail-try-hack-me-3d31cf9a562b?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 132228,
+        "text": "⤷\nTitle:\nNetwork Services 2 — Tryhackme Write-up\n════════════════════════\n𐀪\nAuthor:\nPRiTi.EX\n════════════════════════\nⴵ\nTime:\nMon, 14 Sep 2026 08:51:45 GMT\n════════════════════════\n⌗\nTags:\n#fn\n#tryhackme_walkthrough\n#tryhackme\n#mysql\n#smtp",
+        "date": "2026-09-14T10:04:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132228_0_458566a3.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132228_1_2c68378b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132228",
+        "link": {
+          "title": "Network Services 2 — Tryhackme Write-up",
+          "url": "https://medium.com/@pritiranjanmohanta6371/network-services-2-tryhackme-write-up-415207fe6a0f?source=rss------tryhackme-5"
+        }
+      },
+      {
         "id": 132205,
         "text": "⤷\nTitle:\nHow to Use Twitter/X to Build Social Proof with Retweets\n════════════════════════\n𐀪\nAuthor:\nVolgersBoost\n════════════════════════\nⴵ\nTime:\nMon, 14 Sep 2026 05:40:07 GMT\n════════════════════════\n⌗\nTags:\n#twitter\n#buy_twitter_retweets\n#social_media\n#xs\n#buy_x_retweets",
         "date": "2026-09-14T06:04:15+00:00",
@@ -1812,482 +2260,22 @@
           "title": "Hach The Box — Orion",
           "url": "https://medium.com/@hmirzayev003/hach-the-box-orion-346e6de64789?source=rss------hackthebox_writeup-5"
         }
-      },
-      {
-        "id": 132124,
-        "text": "⤷\nTitle:\nIntro to Malware Analysis | Malware Concepts for SOC | SOC Level 1 TryHackMe\n════════════════════════\n𐀪\nAuthor:\nAalishaf\n════════════════════════\nⴵ\nTime:\nSun, 13 Sep 2026 08:14:42 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#malware_analysis\n#tryhackme\n#threat_intelligence\n#linux",
-        "date": "2026-09-13T10:04:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132124_0_1c741e6b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132124_1_633abcd0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132124",
-        "link": {
-          "title": "Intro to Malware Analysis | Malware Concepts for SOC | SOC Level 1 TryHackMe",
-          "url": "https://medium.com/@aalishaf88/intro-to-malware-analysis-malware-concepts-for-soc-soc-level-1-tryhackme-e9af794ef149?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 132123,
-        "text": "⤷\nTitle:\nI Passed the CEH Exam: How My Work Experience Helped Me Become a Better Ethical Hacker\n════════════════════════\n𐀪\nAuthor:\nTandelpruthvi\n════════════════════════\nⴵ\nTime:\nSun, 13 Sep 2026 09:03:10 GMT\n════════════════════════\n⌗\nTags:\n#che\n#pentesting\n#ethical_hacking\n#cybersecurity\n#penetration_testing",
-        "date": "2026-09-13T10:04:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132123_0_1c741e6b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132123_1_4cf228ae.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132123",
-        "link": {
-          "title": "I Passed the CEH Exam: How My Work Experience Helped Me Become a Better Ethical Hacker",
-          "url": "https://medium.com/@tandelpruthvi/i-passed-the-ceh-exam-how-my-work-experience-helped-me-become-a-better-ethical-hacker-385cb26be869?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 132122,
-        "text": "⤷\nTitle:\nLinux Privilege Escalation via the PATH Variable — A Beginner-Friendly Walkthrough\n════════════════════════\n𐀪\nAuthor:\nKalash Kundaliya\n════════════════════════\nⴵ\nTime:\nSun, 13 Sep 2026 09:36:01 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#ethical_hacking\n#privilege_escalation\n#cybersecurity\n#linux",
-        "date": "2026-09-13T10:03:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132122_0_1c741e6b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132122_1_24ab3618.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132122",
-        "link": {
-          "title": "Linux Privilege Escalation via the PATH Variable — A Beginner-Friendly Walkthrough",
-          "url": "https://medium.com/@kalashkundaliya/linux-privilege-escalation-via-the-path-variable-a-beginner-friendly-walkthrough-257ea2117966?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 132121,
-        "text": "⤷\nTitle:\nAI Is Moving Fast. Are Businesses Ready for the Risk?\n════════════════════════\n𐀪\nAuthor:\nNazish Marvi\n════════════════════════\nⴵ\nTime:\nSun, 13 Sep 2026 08:18:15 GMT\n════════════════════════\n⌗\nTags:\n#ai_agent\n#ai_risk\n#ai\n#anthropic_claude\n#hacking",
-        "date": "2026-09-13T10:03:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132121_0_1c741e6b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132121_1_04789705.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132121",
-        "link": {
-          "title": "AI Is Moving Fast. Are Businesses Ready for the Risk?",
-          "url": "https://nazish2019.medium.com/ai-is-moving-fast-are-businesses-ready-for-the-risk-f15cdfd504d2?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 132120,
-        "text": "⤷\nTitle:\nBOLA Has a Quieter Sibling, and Your Spring Boot API Probably Has It Too\n════════════════════════\n𐀪\nAuthor:\nNajee Shaheen\n════════════════════════\nⴵ\nTime:\nSun, 13 Sep 2026 09:09:56 GMT\n════════════════════════\n⌗\nTags:\n#application_security\n#owasp_api_security_top_10\n#owasp_top_10\n#spring_security\n#spring_boot",
-        "date": "2026-09-13T10:03:51+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132120_0_1c741e6b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132120_1_e47be4c4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132120",
-        "link": {
-          "title": "BOLA Has a Quieter Sibling, and Your Spring Boot API Probably Has It Too",
-          "url": "https://medium.com/@najee.shaheen.98/bola-has-a-quieter-sibling-and-your-spring-boot-api-probably-has-it-too-2562874a422b?source=rss------application_security-5"
-        }
-      },
-      {
-        "id": 132119,
-        "text": "⤷\nTitle:\nFUZZING\n════════════════════════\n𐀪\nAuthor:\nSourabh Jala\n════════════════════════\nⴵ\nTime:\nSun, 13 Sep 2026 06:23:55 GMT\n════════════════════════\n⌗\nTags:\n#ffuf\n#ethical_hacking\n#tryhackme\n#cybersecurity\n#fuzzing",
-        "date": "2026-09-13T08:04:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132119_0_1c741e6b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132119_1_e834b96d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132119",
-        "link": {
-          "title": "FUZZING",
-          "url": "https://medium.com/@skumarjala/fuzzing-defe709529f2?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 132113,
-        "text": "⤷\nTitle:\nTryHackMe - Monitoring Active Directory: IIS, Web Shells, OWA, and VPN Authentication Walkthrough\n════════════════════════\n𐀪\nAuthor:\nHitesh kumar\n════════════════════════\nⴵ\nTime:\nSun, 13 Sep 2026 05:16:02 GMT\n════════════════════════\n⌗\nTags:\n#active_directory\n#tryhackme_walkthrough\n#medium\n#tryhackme\n#soc",
-        "date": "2026-09-13T06:04:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132113_0_1c741e6b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132113_1_ad53fd7a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132113",
-        "link": {
-          "title": "TryHackMe - Monitoring Active Directory: IIS, Web Shells, OWA, and VPN Authentication Walkthrough",
-          "url": "https://medium.com/@hitesh_null/tryhackme-monitoring-active-directory-iis-web-shells-owa-and-vpn-authentication-walkthrough-f50332ad86d5?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 132112,
-        "text": "⤷\nTitle:\nHTTP Method Enumeration\n════════════════════════\n𐀪\nAuthor:\nNidhindev\n════════════════════════\nⴵ\nTime:\nSun, 13 Sep 2026 05:25:17 GMT\n════════════════════════\n⌗\nTags:\n#web_security\n#penetration_testing\n#cybersecurity\n#ethical_hacking\n#burpsuite",
-        "date": "2026-09-13T06:04:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132112_0_1c741e6b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132112_1_4b09e1f3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132112",
-        "link": {
-          "title": "HTTP Method Enumeration",
-          "url": "https://medium.com/@nidhindev362/http-method-enumeration-f7f50f4f265d?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 132111,
-        "text": "⤷\nTitle:\nFrom Nilfgaard to Network Defence (Part 1): The Gwent-Inspired Blueprint for an InfoSec-based…\n════════════════════════\n𐀪\nAuthor:\nSabari Girish Srinivasan\n════════════════════════\nⴵ\nTime:\nSun, 13 Sep 2026 05:18:07 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity_training\n#infosec\n#game_design\n#gamification\n#cybersecurity",
-        "date": "2026-09-13T06:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132111_0_1c741e6b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132111_1_c818b9ba.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132111",
-        "link": {
-          "title": "From Nilfgaard to Network Defence (Part 1): The Gwent-Inspired Blueprint for an InfoSec-based…",
-          "url": "https://infosecwriteups.com/from-nilfgaard-to-network-defence-part-1-the-gwent-inspired-blueprint-for-an-infosec-based-035602bd2eff?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 132110,
-        "text": "⤷\nTitle:\nWhy every hacker starts with a VM ?\n════════════════════════\n𐀪\nAuthor:\nNandhan KK\n════════════════════════\nⴵ\nTime:\nSun, 13 Sep 2026 04:59:30 GMT\n════════════════════════\n⌗\nTags:\n#linux\n#vmware\n#cybersecurity_awareness\n#hacking",
-        "date": "2026-09-13T06:03:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132110_0_1c741e6b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132110_1_b01a27fd.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132110",
-        "link": {
-          "title": "Why every hacker starts with a VM ?",
-          "url": "https://medium.com/@nandhankkonline/why-every-hacker-starts-with-a-vm-8f207aa61ad5?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 132109,
-        "text": "⤷\nTitle:\nMy experience into the DragonJAR Conference\n════════════════════════\n𐀪\nAuthor:\nSantiago Gaviria\n════════════════════════\nⴵ\nTime:\nSun, 13 Sep 2026 05:22:04 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#cybersecurity\n#dragonjar\n#information_security",
-        "date": "2026-09-13T06:03:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132109_0_1c741e6b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132109_1_59fbda58.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132109",
-        "link": {
-          "title": "My experience into the DragonJAR Conference",
-          "url": "https://medium.com/@san03gaviria/my-experience-into-the-dragonjar-conference-6bd7183052ca?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 132108,
-        "text": "⤷\nTitle:\nMastering JWT Exploitation: The Top 5 JWT Vulnerabilities for Bug Bounty Hunters\n════════════════════════\n𐀪\nAuthor:\nPrayers Khristi\n════════════════════════\nⴵ\nTime:\nSun, 13 Sep 2026 04:31:04 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#hacking\n#security\n#jwt\n#bug_bounty",
-        "date": "2026-09-13T06:03:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132108_0_1c741e6b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132108_1_24cc93d8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132108",
-        "link": {
-          "title": "Mastering JWT Exploitation: The Top 5 JWT Vulnerabilities for Bug Bounty Hunters",
-          "url": "https://prayerskhristi.medium.com/mastering-jwt-exploitation-the-top-5-jwt-vulnerabilities-for-bug-bounty-hunters-28ecccef75d9?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 132107,
-        "text": "⤷\nTitle:\nHow to Get X Followers in 2026: The Grok Algorithm Era\n════════════════════════\n𐀪\nAuthor:\nPetrovay\n════════════════════════\nⴵ\nTime:\nSun, 13 Sep 2026 02:09:10 GMT\n════════════════════════\n⌗\nTags:\n#twitter\n#xs\n#social_media_marketing\n#twitter_growth\n#social_media",
-        "date": "2026-09-13T04:03:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132107_0_1c741e6b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132107_1_30f8ce04.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132107",
-        "link": {
-          "title": "How to Get X Followers in 2026: The Grok Algorithm Era",
-          "url": "https://medium.com/@petrovay558/how-to-get-x-followers-in-2026-the-grok-algorithm-era-17d047f1d734?source=rss------xss-5"
-        }
-      },
-      {
-        "id": 132106,
-        "text": "⤷\nTitle:\nSecret Scanning Is Becoming a Merge Gate. That’s a Better Place to Stop Leaks.\n════════════════════════\n𐀪\nAuthor:\nPuja Maheshvari\n════════════════════════\nⴵ\nTime:\nSun, 13 Sep 2026 03:36:43 GMT\n════════════════════════\n⌗\nTags:\n#application_security\n#github_actions\n#devops\n#devsecops\n#ci_cd_pipeline",
-        "date": "2026-09-13T04:03:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132106_0_1c741e6b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132106_1_45b17c7e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132106",
-        "link": {
-          "title": "Secret Scanning Is Becoming a Merge Gate. That’s a Better Place to Stop Leaks.",
-          "url": "https://medium.com/@pujamaheshvari5/secret-scanning-is-becoming-a-merge-gate-thats-a-better-place-to-stop-leaks-b51287f5060b?source=rss------application_security-5"
-        }
-      },
-      {
-        "id": 132105,
-        "text": "⤷\nTitle:\nI Read 100 Bug Bounty Reports on HackerOne — Here’s What Separates $50 Bugs From $10,000 Ones\n════════════════════════\n𐀪\nAuthor:\nBugitrix\n════════════════════════\nⴵ\nTime:\nSun, 13 Sep 2026 02:01:02 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_hunter\n#bug_bounty_reports\n#bugbounty_writeup\n#bug_bounty_writeup\n#bug_bounty",
-        "date": "2026-09-13T04:03:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132105_0_1c741e6b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132105_1_9f59574d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132105",
-        "link": {
-          "title": "I Read 100 Bug Bounty Reports on HackerOne — Here’s What Separates $50 Bugs From $10,000 Ones",
-          "url": "https://medium.com/@bugitrix/i-read-100-bug-bounty-reports-on-hackerone-heres-what-separates-50-bugs-from-10-000-ones-1d03fa51e7d3?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 132104,
-        "text": "⤷\nTitle:\nFile Path Traversal: Complete Hands-On Guide from PortSwigger Labs to Real-World Testing\n════════════════════════\n𐀪\nAuthor:\nNitish Mukhiya\n════════════════════════\nⴵ\nTime:\nSun, 13 Sep 2026 02:44:26 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#cybersecurity\n#file_path_traversal\n#path_traversal\n#portswigger_lab",
-        "date": "2026-09-13T04:03:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132104_0_1c741e6b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132104_1_84c77bcd.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132104",
-        "link": {
-          "title": "File Path Traversal: Complete Hands-On Guide from PortSwigger Labs to Real-World Testing",
-          "url": "https://medium.com/@nitishmukhiya/file-path-traversal-complete-hands-on-guide-from-portswigger-labs-to-real-world-testing-bb288a5457a7?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 132103,
-        "text": "⤷\nTitle:\nPortal Drop — TryHackMe Write Up\n════════════════════════\n𐀪\nAuthor:\nEmirkilicer\n════════════════════════\nⴵ\nTime:\nSun, 13 Sep 2026 00:53:44 GMT\n════════════════════════\n⌗\nTags:\n#soc\n#incident_response\n#tryhackme\n#cybersecurity\n#digital_forensics",
-        "date": "2026-09-13T02:04:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132103_0_1c741e6b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132103_1_614b23d3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132103",
-        "link": {
-          "title": "Portal Drop — TryHackMe Write Up",
-          "url": "https://medium.com/@emirkilicer01/portal-drop-tryhackme-write-up-462688158564?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 132102,
-        "text": "⤷\nTitle:\nTryHackMe Metasploit Post Exploitation Walkthrough\n════════════════════════\n𐀪\nAuthor:\nRich\n════════════════════════\nⴵ\nTime:\nSun, 13 Sep 2026 01:49:19 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#tryhackme_writeup\n#metasploit\n#tryhackme_walkthrough\n#psexec",
-        "date": "2026-09-13T02:03:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132102_0_1c741e6b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132102_1_8464c51b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132102",
-        "link": {
-          "title": "TryHackMe Metasploit Post Exploitation Walkthrough",
-          "url": "https://happycamper84.medium.com/tryhackme-metasploit-post-exploitation-walkthrough-d78bbfe3b605?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 132101,
-        "text": "⤷\nTitle:\nCAPA: The Basics: Static Malware Analysis and MITRE ATT&CK Mapping\n════════════════════════\n𐀪\nAuthor:\nJonathan Sanfer\n════════════════════════\nⴵ\nTime:\nSun, 13 Sep 2026 00:56:50 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_walkthrough\n#malware_analysis\n#infosec\n#cybersecurity\n#tryhackme",
-        "date": "2026-09-13T02:03:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132101_0_1c741e6b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132101_1_f6549cb9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132101",
-        "link": {
-          "title": "CAPA: The Basics: Static Malware Analysis and MITRE ATT&CK Mapping",
-          "url": "https://medium.com/@jonathan.sanfer/capa-the-basics-static-malware-analysis-and-mitre-att-ck-mapping-7c9621a3a0ba?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 132100,
-        "text": "⤷\nTitle:\nWhen Authorization Runs Too Late: RCE via Insecure Deserialization in Feast (CVE-2026–56121)\n════════════════════════\n𐀪\nAuthor:\nGuidancewhite\n════════════════════════\nⴵ\nTime:\nSun, 13 Sep 2026 00:50:28 GMT\n════════════════════════\n⌗\nTags:\n#linux\n#vulnerability\n#ai_agent\n#hacking\n#security",
-        "date": "2026-09-13T02:03:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132100_0_1c741e6b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132100_1_cdda3eec.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132100",
-        "link": {
-          "title": "When Authorization Runs Too Late: RCE via Insecure Deserialization in Feast (CVE-2026–56121)",
-          "url": "https://medium.com/@guidancewhite/when-authorization-runs-too-late-rce-via-insecure-deserialization-in-feast-cve-2026-56121-7f428685a6e0?source=rss------hacking-5"
-        }
       }
     ]
   },
-  "last_update": "2026-09-14T06:32:53.651903+00:00",
+  "last_update": "2026-09-14T13:13:02.154509+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 193,
-    "total_files": 193,
+    "total_media": 190,
+    "total_files": 190,
     "total_links": 0,
     "files_by_type": {
-      "image": 193
+      "image": 190
     },
-    "referenced_files": 193,
-    "existing_media_files": 193,
-    "total_size_mb": 5.36,
-    "last_calculation": "2026-09-14T06:32:53.653286+00:00"
+    "referenced_files": 190,
+    "existing_media_files": 190,
+    "total_size_mb": 5.46,
+    "last_calculation": "2026-09-14T13:13:02.156169+00:00"
   }
 }
