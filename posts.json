@@ -2,6 +2,374 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 132316,
+        "text": "⤷\nTitle:\nHow I Found an Unauthenticated IDOR That Exposed Every User’s PII and Access Roles\n════════════════════════\n𐀪\nAuthor:\nIshbarna Kafle\n════════════════════════\nⴵ\nTime:\nTue, 15 Sep 2026 03:57:06 GMT\n════════════════════════\n⌗\nTags:\n#api_security\n#bug_bounty\n#web_security\n#cybersecurity\n#infosec",
+        "date": "2026-09-15T04:04:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132316_0_5457560c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132316_1_55cb41e6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132316",
+        "link": {
+          "title": "How I Found an Unauthenticated IDOR That Exposed Every User’s PII and Access Roles",
+          "url": "https://cybersecuritywriteups.com/how-i-found-an-unauthenticated-idor-that-exposed-every-users-pii-and-access-roles-35ab2c3c84f9?source=rss------api_security-5"
+        }
+      },
+      {
+        "id": 132315,
+        "text": "⤷\nTitle:\nTryHackMe: Crack The Hash — Step-by-Step Password Cracking Guide\n════════════════════════\n𐀪\nAuthor:\nbetty yazar\n════════════════════════\nⴵ\nTime:\nTue, 15 Sep 2026 03:00:59 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#tryhackme\n#password_cracking\n#hashcat\n#ctf_writeup",
+        "date": "2026-09-15T04:04:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132315_0_5457560c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132315_1_ae9bd711.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132315",
+        "link": {
+          "title": "TryHackMe: Crack The Hash — Step-by-Step Password Cracking Guide",
+          "url": "https://medium.com/@bettyyazar2/tryhackme-crack-the-hash-step-by-step-password-cracking-guide-24e6a1e5ad55?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 132314,
+        "text": "⤷\nTitle:\nSelaras\n════════════════════════\n𐀪\nAuthor:\nboraaa\n════════════════════════\nⴵ\nTime:\nTue, 15 Sep 2026 03:11:26 GMT\n════════════════════════\n⌗\nTags:\n#poem\n#tryhackme\n#puisi",
+        "date": "2026-09-15T04:04:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132314_0_5457560c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132314_1_f4bc6f40.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132314",
+        "link": {
+          "title": "Selaras",
+          "url": "https://medium.com/@odordeborapitaulisinaga/selaras-116f22eaab48?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 132313,
+        "text": "⤷\nTitle:\nConquering OverTheWire Bandit: Levels 0–10\n════════════════════════\n𐀪\nAuthor:\nMuhammad Imran Wakeel\n════════════════════════\nⴵ\nTime:\nTue, 15 Sep 2026 02:00:13 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#cybersecurity\n#penetration_testing\n#overthewire\n#iw_cyber_ops",
+        "date": "2026-09-15T04:04:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132313_0_5457560c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132313_1_11abb9c9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132313",
+        "link": {
+          "title": "Conquering OverTheWire Bandit: Levels 0–10",
+          "url": "https://iwcyberops.medium.com/conquering-overthewire-bandit-levels-0-10-e01e772bd7e2?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 132312,
+        "text": "⤷\nTitle:\nThe Linux Commands a SOC Analyst Actually Uses: grep, Permissions, and Processes (Linux Part 2)\n════════════════════════\n𐀪\nAuthor:\nUnSaLt3D\n════════════════════════\nⴵ\nTime:\nTue, 15 Sep 2026 03:31:01 GMT\n════════════════════════\n⌗\nTags:\n#programming\n#cybersecurity\n#linux\n#infosec",
+        "date": "2026-09-15T04:04:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132312_0_5457560c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132312_1_43d2caa6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132312",
+        "link": {
+          "title": "The Linux Commands a SOC Analyst Actually Uses: grep, Permissions, and Processes (Linux Part 2)",
+          "url": "https://theunsaltedcyberblog.medium.com/the-linux-commands-a-soc-analyst-actually-uses-grep-permissions-and-processes-linux-part-2-c6a9232d7ec3?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 132311,
+        "text": "⤷\nTitle:\nTelegram Asked Us to Stay Silent About an XSS. We Published It Anyway.\n════════════════════════\n𐀪\nAuthor:\nExPatch Security\n════════════════════════\nⴵ\nTime:\nTue, 15 Sep 2026 03:26:51 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#telegram\n#bug_bounty\n#ethical_hacking\n#information_security",
+        "date": "2026-09-15T04:04:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132311_0_5457560c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132311_1_7df773a5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132311",
+        "link": {
+          "title": "Telegram Asked Us to Stay Silent About an XSS. We Published It Anyway.",
+          "url": "https://medium.com/@expatch/telegram-asked-us-to-stay-silent-about-an-xss-we-published-it-anyway-7bee8d2027a1?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 132310,
+        "text": "⤷\nTitle:\nThe Events Calendar Vulnerability Exploited in the Wild\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 15 Sep 2026 02:03:27 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_78006\n#CVE_2026_78159\n#Remote\nCode Execution\n#The\nEvents Calendar\n#Vulnerability\n#wordpress",
+        "date": "2026-09-15T04:04:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132310_0_5457560c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132310_1_3e19f923.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132310",
+        "link": {
+          "title": "The Events Calendar Vulnerability Exploited in the Wild",
+          "url": "https://securityonline.info/the-events-calendar-vulnerability-exploited/"
+        }
+      },
+      {
+        "id": 132309,
+        "text": "⤷\nTitle:\nGitea RCE Vulnerability Exploited in the Wild\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 15 Sep 2026 02:12:14 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_60004\n#Gitea\n#Red\nHeron\n#Remote\nCode Execution\n#rootkit",
+        "date": "2026-09-15T04:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132309_0_5457560c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132309_1_3937f7cf.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132309",
+        "link": {
+          "title": "Gitea RCE Vulnerability Exploited in the Wild",
+          "url": "https://securityonline.info/gitea-rce-vulnerability-exploited/"
+        }
+      },
+      {
+        "id": 132308,
+        "text": "⤷\nTitle:\nCVE-2026-76461 (CVSS 9.8): Cisco Email Root RCE Exploited\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 15 Sep 2026 02:17:08 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#AsyncOS\n#cisco\n#Cisco\nSecure Email Gateway\n#CVE_2026_76461\n#exploited\nin the wild\n#Remote\nCode Execution\n#sql\ninjection",
+        "date": "2026-09-15T04:03:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132308_0_5457560c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132308_1_5555427b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132308",
+        "link": {
+          "title": "CVE-2026-76461 (CVSS 9.8): Cisco Email Root RCE Exploited",
+          "url": "https://securityonline.info/cve-2026-76461-cisco-email-gateway-rce/"
+        }
+      },
+      {
+        "id": 132307,
+        "text": "⤷\nTitle:\nCisco Patches Critical Cisco Secure Email Vulnerabilities\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 15 Sep 2026 02:39:14 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#cisco\n#Cisco\nSecure Email\n#CVE_2026_76440\n#CVE_2026_76441\n#CVE_2026_76443\n#Vulnerability",
+        "date": "2026-09-15T04:03:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132307_0_5457560c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132307_1_985fc425.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132307",
+        "link": {
+          "title": "Cisco Patches Critical Cisco Secure Email Vulnerabilities",
+          "url": "https://securityonline.info/cisco-secure-email-vulnerabilities/"
+        }
+      },
+      {
+        "id": 132306,
+        "text": "⤷\nTitle:\nEmergency Windows 11 KB5129195 Update Fixes Major Flaws\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 15 Sep 2026 02:52:27 +0000\n════════════════════════\n⌗\nTags:\n#Windows\n#cybersecurity\n#KB5129195\n#Microsoft\n#Windows\n11",
+        "date": "2026-09-15T04:03:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132306_0_5457560c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132306_1_f01e0d80.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132306",
+        "link": {
+          "title": "Emergency Windows 11 KB5129195 Update Fixes Major Flaws",
+          "url": "https://securityonline.info/windows-11-kb5129195-update/"
+        }
+      },
+      {
+        "id": 132305,
+        "text": "⤷\nTitle:\nCybersecurity Home Lab Part 3: Detecting Scheduled Task Persistence in Azure with Microsoft…\n════════════════════════\n𐀪\nAuthor:\nShahmeermuhammad\n════════════════════════\nⴵ\nTime:\nTue, 15 Sep 2026 01:46:10 GMT\n════════════════════════\n⌗\nTags:\n#microsoft_sentinel\n#siem\n#cybersecurity\n#azure\n#infosec",
+        "date": "2026-09-15T02:04:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132305_0_5457560c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132305_1_e928bba0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132305",
+        "link": {
+          "title": "Cybersecurity Home Lab Part 3: Detecting Scheduled Task Persistence in Azure with Microsoft…",
+          "url": "https://medium.com/@shahmeermuhammad19/cybersecurity-home-lab-part-3-detecting-scheduled-task-persistence-in-azure-with-microsoft-32374506890d?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 132304,
+        "text": "⤷\nTitle:\nWeb Cache Deception via URL Parsing Discrepancy — PII Disclosure & Cache Poisoning\n════════════════════════\n𐀪\nAuthor:\nFerhat SARA\n════════════════════════\nⴵ\nTime:\nTue, 15 Sep 2026 00:14:38 GMT\n════════════════════════\n⌗\nTags:\n#web_application_security\n#bug_bounty\n#vulnerability_research\n#web_cache_poisoning\n#web_cache_deception",
+        "date": "2026-09-15T02:04:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132304_0_5457560c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132304_1_71e2aafa.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132304",
+        "link": {
+          "title": "Web Cache Deception via URL Parsing Discrepancy — PII Disclosure & Cache Poisoning",
+          "url": "https://medium.com/@ferhatsara/web-cache-deception-via-url-parsing-discrepancy-pii-disclosure-cache-poisoning-29ccf97be42f?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 132303,
+        "text": "⤷\nTitle:\nWooCommerce Wholesale Lead Capture Exploited in the Wild\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 15 Sep 2026 01:32:40 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Arbitrary\nFile Upload\n#CVE_2026_27540\n#WooCommerce\n#WooCommerce\nWholesale Lead Capture\n#wordpress",
+        "date": "2026-09-15T02:04:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132303_0_5457560c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132303_1_82f177b0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132303",
+        "link": {
+          "title": "WooCommerce Wholesale Lead Capture Exploited in the Wild",
+          "url": "https://securityonline.info/woocommerce-wholesale-lead-capture-vulnerability/"
+        }
+      },
+      {
+        "id": 132302,
+        "text": "⤷\nTitle:\nVite Flaw CVE-2026-39364 Exploited to Steal Cloud Keys\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 15 Sep 2026 01:39:49 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Cloud\nSecurity\n#Credential\nHarvesting\n#CVE_2026_39364\n#F5\nLabs\n#file\ndisclosure\n#Mass\nScanning\n#Vite",
+        "date": "2026-09-15T02:04:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132302_0_5457560c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132302_1_75d98cdd.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132302",
+        "link": {
+          "title": "Vite Flaw CVE-2026-39364 Exploited to Steal Cloud Keys",
+          "url": "https://securityonline.info/vite-cve-2026-39364-exploited/"
+        }
+      },
+      {
+        "id": 132301,
+        "text": "⤷\nTitle:\nCVE-2026-87827 (CVSS 10): KGUARD DVR Fully Compromised\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 15 Sep 2026 01:52:03 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#botnet\n#CVE_2026_87827\n#IoT\nsecurity\n#KGUARD\nDVR\n#Mirai\n#Mirai_ptea\n#RapperBot",
+        "date": "2026-09-15T02:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132301_0_5457560c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132301_1_de9c9b67.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132301",
+        "link": {
+          "title": "CVE-2026-87827 (CVSS 10): KGUARD DVR Fully Compromised",
+          "url": "https://securityonline.info/cve-2026-87827-kguard-dvr-mirai/"
+        }
+      },
+      {
         "id": 132300,
         "text": "⤷\nTitle:\nBuilding an Active Directory Lab with Windows Server 2025! Complete Beginner Guide\n════════════════════════\n𐀪\nAuthor:\nNajeebparkar\n════════════════════════\nⴵ\nTime:\nMon, 14 Sep 2026 20:03:32 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#active_directory\n#active_directory_security\n#active_directory_attack\n#cybersecurity",
         "date": "2026-09-14T22:04:21+00:00",
@@ -1896,382 +2264,22 @@
           "title": "Volt Typhoon — Tryhackme",
           "url": "https://medium.com/@utomoa448/volt-typhoon-tryhackme-3c488a34eb3f?source=rss------tryhackme-5"
         }
-      },
-      {
-        "id": 132177,
-        "text": "⤷\nTitle:\nTryHackMe Write up — WhyHackMe\n════════════════════════\n𐀪\nAuthor:\nRuben Acosta\n════════════════════════\nⴵ\nTime:\nSun, 13 Sep 2026 21:44:58 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#tryhackme_walkthrough\n#ctf\n#tryhackme_writeup\n#cybersecurity",
-        "date": "2026-09-13T22:04:34+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132177_0_458566a3.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132177_1_736a0005.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132177",
-        "link": {
-          "title": "TryHackMe Write up — WhyHackMe",
-          "url": "https://medium.com/@ruben.acosta010/tryhackme-write-up-whyhackme-26d86d1e913d?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 132176,
-        "text": "⤷\nTitle:\neWPTv2 Certification Review…\n════════════════════════\n𐀪\nAuthor:\nMohamed Mahmoud\n════════════════════════\nⴵ\nTime:\nSun, 13 Sep 2026 20:07:57 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#penetration_testing\n#web_penetration_testing\n#ethical_hacking\n#information_security",
-        "date": "2026-09-13T22:04:31+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132176_0_458566a3.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132176_1_95c0720b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132176",
-        "link": {
-          "title": "eWPTv2 Certification Review…",
-          "url": "https://medium.com/@m07amed1191011/ewptv2-certification-review-b965f4497916?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 132175,
-        "text": "⤷\nTitle:\nHA: Joker CTF — TryHackMe Walkthrough\n════════════════════════\n𐀪\nAuthor:\nMahmoud Ashraf\n════════════════════════\nⴵ\nTime:\nSun, 13 Sep 2026 20:17:55 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#penetration_testing\n#cybersecurity\n#tryhackme\n#ctf",
-        "date": "2026-09-13T22:04:28+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132175_0_458566a3.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132175_1_88e958f0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132175",
-        "link": {
-          "title": "HA: Joker CTF — TryHackMe Walkthrough",
-          "url": "https://medium.com/@ma8163942/ha-joker-ctf-tryhackme-walkthrough-97ba9f142243?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 132174,
-        "text": "⤷\nTitle:\nI Hired a Penetration Tester to Attack My Own Side Project. It Took Him Under an Hour.\n════════════════════════\n𐀪\nAuthor:\nSarath S\n════════════════════════\nⴵ\nTime:\nSun, 13 Sep 2026 21:01:01 GMT\n════════════════════════\n⌗\nTags:\n#software_development\n#penetration_testing\n#ethical_hacking",
-        "date": "2026-09-13T22:04:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132174_0_458566a3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132174",
-        "link": {
-          "title": "I Hired a Penetration Tester to Attack My Own Side Project. It Took Him Under an Hour.",
-          "url": "https://systemweakness.com/i-hired-a-penetration-tester-to-attack-my-own-side-project-it-took-him-under-an-hour-1ef79e7d2416?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 132173,
-        "text": "⤷\nTitle:\nDomain Credential Dumping via File Handle Redirection\n════════════════════════\n𐀪\nAuthor:\nS12 - 0x12Dark Development\n════════════════════════\nⴵ\nTime:\nSun, 13 Sep 2026 20:37:33 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#malware\n#infosec\n#cybersecurity\n#pentesting",
-        "date": "2026-09-13T22:04:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132173_0_458566a3.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132173_1_78041d40.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132173",
-        "link": {
-          "title": "Domain Credential Dumping via File Handle Redirection",
-          "url": "https://medium.com/@s12deff/domain-credential-dumping-via-file-handle-redirection-749c24820ea8?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 132172,
-        "text": "⤷\nTitle:\nDjango Unchained — Breaking the Intended Path with Django SSTI\n════════════════════════\n𐀪\nAuthor:\nAli Essam\n════════════════════════\nⴵ\nTime:\nSun, 13 Sep 2026 20:06:00 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#cybersecurity\n#ctf_writeup\n#ctf\n#ctf_walkthrough",
-        "date": "2026-09-13T22:04:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132172_0_458566a3.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132172_1_08e5e4a5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132172",
-        "link": {
-          "title": "Django Unchained — Breaking the Intended Path with Django SSTI",
-          "url": "https://medium.com/@or0to/django-unchained-breaking-the-intended-path-with-django-ssti-c00b1eff51b0?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 132171,
-        "text": "⤷\nTitle:\n10 Things I Check Before Testing a Web Application\n════════════════════════\n𐀪\nAuthor:\nJakkali Lokesh\n════════════════════════\nⴵ\nTime:\nSun, 13 Sep 2026 20:11:14 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#ethical_hacking\n#information_security\n#bug_bounty\n#cybersecurity",
-        "date": "2026-09-13T22:04:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132171_0_458566a3.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132171_1_b14c4121.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132171",
-        "link": {
-          "title": "10 Things I Check Before Testing a Web Application",
-          "url": "https://medium.com/@jakalalokesh07/10-things-i-check-before-testing-a-web-application-0a6fde15c01a?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 132170,
-        "text": "⤷\nTitle:\nHow a Sort Parmeter Became Blind SQL Injection\n════════════════════════\n𐀪\nAuthor:\nAdem_Zayani\n════════════════════════\nⴵ\nTime:\nSun, 13 Sep 2026 20:50:54 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#hacking\n#bug_bounty\n#web_development\n#cybersecurity",
-        "date": "2026-09-13T22:04:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132170_0_458566a3.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132170_1_3c326e60.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132170",
-        "link": {
-          "title": "How a Sort Parmeter Became Blind SQL Injection",
-          "url": "https://medium.com/@edemzayaniyt/how-a-sort-parmeter-became-blind-sql-injection-6c2ffe0ec457?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 132169,
-        "text": "⤷\nTitle:\nIntroducing Aresius: A Modern, Open-Source Interception Proxy for Web Security\n════════════════════════\n𐀪\nAuthor:\nSoufiane AMIMI\n════════════════════════\nⴵ\nTime:\nSun, 13 Sep 2026 20:58:39 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#websecurity_testing\n#pentesting\n#aresius\n#bug_bounty",
-        "date": "2026-09-13T22:04:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132169_0_458566a3.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132169_1_52f12b15.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132169",
-        "link": {
-          "title": "Introducing Aresius: A Modern, Open-Source Interception Proxy for Web Security",
-          "url": "https://bonsaiis-lessons.medium.com/introducing-aresius-a-modern-open-source-interception-proxy-for-web-security-2788488e7473?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 132168,
-        "text": "⤷\nTitle:\nLab Breakdown: Password Reset Poisoning via Dangling Markup Injection\n════════════════════════\n𐀪\nAuthor:\nMukilan Baskaran\n════════════════════════\nⴵ\nTime:\nSun, 13 Sep 2026 21:07:01 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#ai\n#bug_bounty\n#security\n#cybersecurity",
-        "date": "2026-09-13T22:04:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132168_0_458566a3.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132168_1_73c14a1e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132168",
-        "link": {
-          "title": "Lab Breakdown: Password Reset Poisoning via Dangling Markup Injection",
-          "url": "https://mukibas37.medium.com/lab-breakdown-password-reset-poisoning-via-dangling-markup-injection-0d98bd6051e6?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 132167,
-        "text": "⤷\nTitle:\nTop 43 AI Security Skills, MCP Servers & GitHub Repos Every Bug Hunter Needs\n════════════════════════\n𐀪\nAuthor:\nAbhishek meena\n════════════════════════\nⴵ\nTime:\nSun, 13 Sep 2026 21:34:46 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#infosec\n#hacking\n#claude_for_bug_bounty\n#bug_bounty",
-        "date": "2026-09-13T22:04:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132167_0_458566a3.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132167_1_7bf32d6a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132167",
-        "link": {
-          "title": "Top 43 AI Security Skills, MCP Servers & GitHub Repos Every Bug Hunter Needs",
-          "url": "https://medium.com/@Aacle/top-43-ai-skills-mcp-servers-github-repos-every-bug-hunter-needs-259a2528eb45?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 132166,
-        "text": "⤷\nTitle:\nOne Overlooked Query Parameter: How a Single Line of Unsanitized Input Can Undo a Platform’s Entire…\n════════════════════════\n𐀪\nAuthor:\nMohammad Ehab\n════════════════════════\nⴵ\nTime:\nSun, 13 Sep 2026 21:38:25 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#cybersecurity\n#bug_bounty\n#xss_attack\n#infosec",
-        "date": "2026-09-13T22:03:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132166_0_458566a3.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132166_1_714be00c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132166",
-        "link": {
-          "title": "One Overlooked Query Parameter: How a Single Line of Unsanitized Input Can Undo a Platform’s Entire…",
-          "url": "https://medium.com/@mohammad.ehab7760/one-overlooked-query-parameter-how-a-single-line-of-unsanitized-input-can-undo-a-platforms-entire-9a1742755550?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 132165,
-        "text": "⤷\nTitle:\nI Built a Network Sniffer in Python During My Internship — Here’s What Nobody Tells You About It\n════════════════════════\n𐀪\nAuthor:\nDassourav\n════════════════════════\nⴵ\nTime:\nSun, 13 Sep 2026 19:04:44 GMT\n════════════════════════\n⌗\nTags:\n#programming\n#ethical_hacking\n#python_programming\n#networking\n#cybersecurity",
-        "date": "2026-09-13T20:04:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132165_0_1c741e6b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132165_1_9af4d5ef.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132165",
-        "link": {
-          "title": "I Built a Network Sniffer in Python During My Internship — Here’s What Nobody Tells You About It",
-          "url": "https://medium.com/@dassourav51516/i-built-a-network-sniffer-in-python-during-my-internship-heres-what-nobody-tells-you-about-it-92311d7481a1?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 132164,
-        "text": "⤷\nTitle:\nAgent Hardening | TryHackMe | Walkthrough\n════════════════════════\n𐀪\nAuthor:\nSornphut\n════════════════════════\nⴵ\nTime:\nSun, 13 Sep 2026 18:30:15 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#ai_agent\n#tryhackme_walkthrough\n#ai\n#siem",
-        "date": "2026-09-13T20:03:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132164_0_1c741e6b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132164_1_4c0860e2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132164",
-        "link": {
-          "title": "Agent Hardening | TryHackMe | Walkthrough",
-          "url": "https://medium.com/@sornphut/agent-hardening-tryhackme-walkthrough-528336085d68?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 132163,
-        "text": "⤷\nTitle:\n20 Active Directory Security Controls That Stop Real Attack Paths: Master Practical Defense\n════════════════════════\n𐀪\nAuthor:\nVery Lazy Tech\n════════════════════════\nⴵ\nTime:\nSun, 13 Sep 2026 18:58:50 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#penetration_testing\n#bug_bounty\n#cybersecurity\n#ng",
-        "date": "2026-09-13T20:03:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132163_0_1c741e6b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132163",
-        "link": {
-          "title": "20 Active Directory Security Controls That Stop Real Attack Paths: Master Practical Defense",
-          "url": "https://medium.com/@verylazytech/20-active-directory-security-controls-that-stop-real-attack-paths-master-practical-defense-48146a25e7a1?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 132162,
-        "text": "⤷\nTitle:\nWhen Authentication Isn’t Enough: A Cross-Tenant Authorization Flaw in a Payment API\n════════════════════════\n𐀪\nAuthor:\nL15B04\n════════════════════════\nⴵ\nTime:\nSun, 13 Sep 2026 19:20:22 GMT\n════════════════════════\n⌗\nTags:\n#bola\n#bug_bounty",
-        "date": "2026-09-13T20:03:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132162_0_1c741e6b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132162_1_8c9bce5e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132162",
-        "link": {
-          "title": "When Authentication Isn’t Enough: A Cross-Tenant Authorization Flaw in a Payment API",
-          "url": "https://medium.com/@L15B04/when-authentication-isnt-enough-a-cross-tenant-authorization-flaw-in-a-payment-api-e8868df7b7d7?source=rss------bug_bounty-5"
-        }
       }
     ]
   },
-  "last_update": "2026-09-15T00:45:00.163370+00:00",
+  "last_update": "2026-09-15T05:37:06.402062+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 189,
-    "total_files": 189,
+    "total_media": 191,
+    "total_files": 191,
     "total_links": 0,
     "files_by_type": {
-      "image": 189
+      "image": 191
     },
-    "referenced_files": 189,
-    "existing_media_files": 189,
-    "total_size_mb": 5.68,
-    "last_calculation": "2026-09-15T00:45:00.165684+00:00"
+    "referenced_files": 191,
+    "existing_media_files": 191,
+    "total_size_mb": 5.74,
+    "last_calculation": "2026-09-15T05:37:06.403870+00:00"
   }
 }
