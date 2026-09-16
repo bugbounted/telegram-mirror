@@ -2,6 +2,466 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 132484,
+        "text": "⤷\nTitle:\nFour SSRF Bypasses in Four Months\n════════════════════════\n𐀪\nAuthor:\nMostafa Moradian\n════════════════════════\nⴵ\nTime:\nWed, 16 Sep 2026 08:00:49 GMT\n════════════════════════\n⌗\nTags:\n#security\n#webassembly\n#ressrf\n#ssrf\n#rust",
+        "date": "2026-09-16T10:04:39+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132484_0_e9fef81d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132484_1_e884ece6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132484",
+        "link": {
+          "title": "Four SSRF Bypasses in Four Months",
+          "url": "https://medium.com/@mostafamoradian/four-ssrf-bypasses-in-four-months-5545895efb15?source=rss------ssrf-5"
+        }
+      },
+      {
+        "id": 132483,
+        "text": "⤷\nTitle:\nNTA.AC.IN — Casual External Security Assessment\n════════════════════════\n𐀪\nAuthor:\nPraveen Rathod(Radhe_karn)\n════════════════════════\nⴵ\nTime:\nWed, 16 Sep 2026 09:22:45 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#web_server\n#web_security\n#reconnaissance\n#ethical_hacking",
+        "date": "2026-09-16T10:04:36+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132483_0_e9fef81d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132483_1_ca2e2b55.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132483",
+        "link": {
+          "title": "NTA.AC.IN — Casual External Security Assessment",
+          "url": "https://medium.com/@pr9826163/nta-ac-in-casual-external-security-assessment-edd5237c3edf?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 132482,
+        "text": "⤷\nTitle:\nMy First 30 Days on TryHackMe\n════════════════════════\n𐀪\nAuthor:\nNikhilvarun\n════════════════════════\nⴵ\nTime:\nWed, 16 Sep 2026 09:03:25 GMT\n════════════════════════\n⌗\nTags:\n#walkthrough\n#cybersecurity\n#ethical_hacking\n#tryhackme",
+        "date": "2026-09-16T10:04:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132482_0_e9fef81d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132482_1_c6abf304.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132482",
+        "link": {
+          "title": "My First 30 Days on TryHackMe",
+          "url": "https://medium.com/@nikhilvarun001/my-first-30-days-on-tryhackme-f7e9502efccc?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 132481,
+        "text": "⤷\nTitle:\nStartup — TryHackMe Walktrough\n════════════════════════\n𐀪\nAuthor:\nStephvannes Samuel Kevin\n════════════════════════\nⴵ\nTime:\nWed, 16 Sep 2026 09:40:47 GMT\n════════════════════════\n⌗\nTags:\n#privilege_escalation\n#cybersecurity\n#tryhackme\n#wireshark\n#ctf_writeup",
+        "date": "2026-09-16T10:04:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132481_0_e9fef81d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132481_1_8acd043f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132481",
+        "link": {
+          "title": "Startup — TryHackMe Walktrough",
+          "url": "https://medium.com/@kevin33111/startup-tryhackme-walktrough-c56a3a276ca0?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 132480,
+        "text": "⤷\nTitle:\nAPI — RTA 2026: Passing the API — Red Team Analyst\n════════════════════════\n𐀪\nAuthor:\nJason Gomez\n════════════════════════\nⴵ\nTime:\nWed, 16 Sep 2026 08:22:29 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#cyberwarfare_labs\n#api_security\n#api\n#penetration_testing",
+        "date": "2026-09-16T10:04:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132480_0_e9fef81d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132480_1_b54c7a41.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132480",
+        "link": {
+          "title": "API — RTA 2026: Passing the API — Red Team Analyst",
+          "url": "https://medium.com/@jasonsantos1228/api-rta-2026-passing-the-api-red-team-analyst-a722409d0367?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 132479,
+        "text": "⤷\nTitle:\nDDoS Protection Testing UAE: Finding Your Breaking Point Before Attackers Do.\n════════════════════════\n𐀪\nAuthor:\nVAPT Security\n════════════════════════\nⴵ\nTime:\nWed, 16 Sep 2026 10:00:21 GMT\n════════════════════════\n⌗\nTags:\n#dubai\n#ddos_protection\n#penetration_testing\n#business_uae\n#cybersecurity",
+        "date": "2026-09-16T10:04:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132479_0_e9fef81d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132479_1_afb1b732.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132479",
+        "link": {
+          "title": "DDoS Protection Testing UAE: Finding Your Breaking Point Before Attackers Do.",
+          "url": "https://medium.com/@vaptserviceuae/ddos-protection-testing-uae-finding-your-breaking-point-before-attackers-do-d480d1e8ad04?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 132478,
+        "text": "⤷\nTitle:\nSecurity Principles: CIA, DAD, Security Models, and Zero Trust\n════════════════════════\n𐀪\nAuthor:\nJonathan Sanfer\n════════════════════════\nⴵ\nTime:\nWed, 16 Sep 2026 08:22:05 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#cybersecurity\n#tryhackme\n#tryhackme_walkthrough\n#security_principles",
+        "date": "2026-09-16T10:04:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132478_0_e9fef81d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132478_1_cc4a3cb7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132478",
+        "link": {
+          "title": "Security Principles: CIA, DAD, Security Models, and Zero Trust",
+          "url": "https://medium.com/@jonathan.sanfer/security-principles-cia-dad-security-models-and-zero-trust-a7e00ded8039?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 132477,
+        "text": "⤷\nTitle:\nTimestamps Lie. Your Investigation Depends on Knowing When They Do.\n════════════════════════\n𐀪\nAuthor:\nMuhammad Talha\n════════════════════════\nⴵ\nTime:\nWed, 16 Sep 2026 08:01:04 GMT\n════════════════════════\n⌗\nTags:\n#ntfsforensics\n#hacking\n#timestomping\n#timestamp\n#digital_forensics",
+        "date": "2026-09-16T10:04:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132477_0_e9fef81d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132477_1_e96ee418.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132477",
+        "link": {
+          "title": "Timestamps Lie. Your Investigation Depends on Knowing When They Do.",
+          "url": "https://medium.com/@muhammad_talha/timestamps-lie-your-investigation-depends-on-knowing-when-they-do-088c5fc9f976?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 132476,
+        "text": "⤷\nTitle:\nHow a Simple Bug Got Me €25\n════════════════════════\n𐀪\nAuthor:\nameensec\n════════════════════════\nⴵ\nTime:\nWed, 16 Sep 2026 08:07:41 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#bugbounty_writeup\n#ethical_hacking\n#che\n#ejpt",
+        "date": "2026-09-16T10:04:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132476_0_e9fef81d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132476_1_0c57dfc7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132476",
+        "link": {
+          "title": "How a Simple Bug Got Me €25",
+          "url": "https://ameensec.medium.com/how-a-simple-bug-got-me-25-fe9ab0360e4f?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 132475,
+        "text": "⤷\nTitle:\nSloppyRAT Malware Analyzed in Ransomware Attacks\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 16 Sep 2026 08:01:02 +0000\n════════════════════════\n⌗\nTags:\n#Malware",
+        "date": "2026-09-16T10:04:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132475_0_e9fef81d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132475_1_cc603d21.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132475",
+        "link": {
+          "title": "SloppyRAT Malware Analyzed in Ransomware Attacks",
+          "url": "https://securityonline.info/sloppyrat-malware-ransomware/"
+        }
+      },
+      {
+        "id": 132474,
+        "text": "⤷\nTitle:\nAuthorization Bypass (CVSS 8.7): Critical Octopus Server Vulnerabilities Patched\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 16 Sep 2026 09:13:13 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Authorization\nBypass\n#CVE_2026_91778\n#CVE_2026_92355\n#Octopus\nDeploy\n#Octopus\nServer\n#Remote\nCode Execution",
+        "date": "2026-09-16T10:04:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132474_0_e9fef81d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132474_1_09cfe544.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132474",
+        "link": {
+          "title": "Authorization Bypass (CVSS 8.7): Critical Octopus Server Vulnerabilities Patched",
+          "url": "https://securityonline.info/octopus-server-vulnerabilities-cvss-8-7/"
+        }
+      },
+      {
+        "id": 132473,
+        "text": "⤷\nTitle:\nIssabel PBX Vulnerability CVE-2026-89026 Exploited in the Wild\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 16 Sep 2026 09:20:59 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Asterisk\n#CVE_2026_89026\n#Issabel\n#Issabel\nPBX\n#Remote\nCode Execution",
+        "date": "2026-09-16T10:04:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132473_0_e9fef81d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132473_1_6f366a57.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132473",
+        "link": {
+          "title": "Issabel PBX Vulnerability CVE-2026-89026 Exploited in the Wild",
+          "url": "https://securityonline.info/issabel-pbx-vulnerability-exploited/"
+        }
+      },
+      {
+        "id": 132472,
+        "text": "⤷\nTitle:\nCritical Industrial Firmware Vulnerabilities Expose Devices\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 16 Sep 2026 09:47:50 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport",
+        "date": "2026-09-16T10:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132472_0_e9fef81d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132472_1_a896d2cd.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132472",
+        "link": {
+          "title": "Critical Industrial Firmware Vulnerabilities Expose Devices",
+          "url": "https://securityonline.info/industrial-firmware-vulnerabilities/"
+        }
+      },
+      {
+        "id": 132471,
+        "text": "⤷\nTitle:\nOpenAI Expands Codex for Open Source Sponsorship Program\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 16 Sep 2026 09:55:38 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#ChatGPT\nPro\n#Codex\nfor Open Source\n#open_source\n#OpenAI",
+        "date": "2026-09-16T10:03:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132471_0_e9fef81d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132471_1_f314d232.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132471",
+        "link": {
+          "title": "OpenAI Expands Codex for Open Source Sponsorship Program",
+          "url": "https://securityonline.info/openai-codex-for-open-source-expanded/"
+        }
+      },
+      {
+        "id": 132470,
+        "text": "⤷\nTitle:\nMicrosoft Word Template Glitch Causes Sudden Crashes\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 16 Sep 2026 09:59:48 +0000\n════════════════════════\n⌗\nTags:\n#Windows\n#Microsoft\nWord\n#Office\n365\n#Software\nBug\n#Template\nError",
+        "date": "2026-09-16T10:03:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132470_0_e9fef81d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132470_1_55df97ab.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132470",
+        "link": {
+          "title": "Microsoft Word Template Glitch Causes Sudden Crashes",
+          "url": "https://securityonline.info/microsoft-word-template-crashes/"
+        }
+      },
+      {
+        "id": 132469,
+        "text": "⤷\nTitle:\nTHM — Web Attack Forensics — Drone Alone\n════════════════════════\n𐀪\nAuthor:\nEko Dimas Prasetyo\n════════════════════════\nⴵ\nTime:\nWed, 16 Sep 2026 06:54:05 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme",
+        "date": "2026-09-16T08:04:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132469_0_e9fef81d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132469_1_c9b037da.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132469",
+        "link": {
+          "title": "THM — Web Attack Forensics — Drone Alone",
+          "url": "https://medium.com/@ekodimasprasetyo3/thm-web-attack-forensics-drone-alone-9d0d8a6db87f?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 132468,
+        "text": "⤷\nTitle:\nInvestigating an Attack\n════════════════════════\n𐀪\nAuthor:\nSourabh Jala\n════════════════════════\nⴵ\nTime:\nWed, 16 Sep 2026 07:31:01 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#cybersecurity\n#ethical_hacking\n#investigation\n#wireshark",
+        "date": "2026-09-16T08:04:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132468_0_e9fef81d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132468_1_91fe85d5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132468",
+        "link": {
+          "title": "Investigating an Attack",
+          "url": "https://medium.com/@skumarjala/investigating-an-attack-1af826f0c578?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 132467,
+        "text": "⤷\nTitle:\nWeb Exploitation writeups for AUST CSE Carnival 8.0 CTF\n════════════════════════\n𐀪\nAuthor:\n8amiul\n════════════════════════\nⴵ\nTime:\nWed, 16 Sep 2026 06:58:32 GMT\n════════════════════════\n⌗\nTags:\n#ctf\n#aust_cse_carnival\n#cybersecurity\n#penetration_testing\n#web_exploitation",
+        "date": "2026-09-16T08:04:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132467_0_e9fef81d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132467_1_e4494868.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132467",
+        "link": {
+          "title": "Web Exploitation writeups for AUST CSE Carnival 8.0 CTF",
+          "url": "https://medium.com/@8amiul/web-exploitation-writeups-for-aust-cse-carnival-8-0-ctf-00f037ba8a03?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 132466,
+        "text": "⤷\nTitle:\nHTB Principal: Forging JWE Tokens with CVE-2026–29000 and Dirty Frag to Root Walkthrough\n════════════════════════\n𐀪\nAuthor:\nHadamard\n════════════════════════\nⴵ\nTime:\nWed, 16 Sep 2026 07:57:35 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#ctf\n#hackthebox\n#cybersecurity\n#red_team",
+        "date": "2026-09-16T08:04:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132466_0_e9fef81d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132466_1_a17dc11f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132466",
+        "link": {
+          "title": "HTB Principal: Forging JWE Tokens with CVE-2026–29000 and Dirty Frag to Root Walkthrough",
+          "url": "https://medium.com/@Hadamard/htb-principal-forging-jwe-tokens-with-cve-2026-29000-and-dirty-frag-to-root-walkthrough-ee751a668281?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 132465,
+        "text": "⤷\nTitle:\nAnatomy, Exploitation, and Remediation of XSS (CWE-79) and CSRF (CWE-352)\n════════════════════════\n𐀪\nAuthor:\nOkan\n════════════════════════\nⴵ\nTime:\nWed, 16 Sep 2026 06:36:19 GMT\n════════════════════════\n⌗\nTags:\n#owasp_top_10\n#web_security\n#infosec\n#cybersecurity",
+        "date": "2026-09-16T08:04:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132465_0_e9fef81d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132465_1_f7c3af19.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132465",
+        "link": {
+          "title": "Anatomy, Exploitation, and Remediation of XSS (CWE-79) and CSRF (CWE-352)",
+          "url": "https://medium.com/@oqanuzun/anatomy-exploitation-and-remediation-of-xss-cwe-79-and-csrf-cwe-352-6574dc7f3e86?source=rss------infosec-5"
+        }
+      },
+      {
         "id": 132441,
         "text": "⤷\nTitle:\nYour test cases are in a spreadsheet. Your tests are in IntelliJ. They have stopped agreeing\n════════════════════════\n𐀪\nAuthor:\nMuteb Almughyiri\n════════════════════════\nⴵ\nTime:\nWed, 16 Sep 2026 03:33:28 GMT\n════════════════════════\n⌗\nTags:\n#testing\n#test_automation\n#automation_testing\n#penetration_testing\n#software_testing",
         "date": "2026-09-16T04:04:18+00:00",
@@ -1816,466 +2276,22 @@
           "title": "Why Do Ethical Hackers Love Linux?",
           "url": "https://medium.com/@tech-firefish/why-do-ethical-hackers-love-linux-6d962d686ef0?source=rss------ethical_hacking-5"
         }
-      },
-      {
-        "id": 132340,
-        "text": "⤷\nTitle:\nAI Agent API Guardrails: Deterministic Policy vs LLM Checks\n════════════════════════\n𐀪\nAuthor:\nActionDock\n════════════════════════\nⴵ\nTime:\nTue, 15 Sep 2026 00:00:15 GMT\n════════════════════════\n⌗\nTags:\n#api_security\n#ai_security\n#ai_agent\n#llm\n#software_engineering",
-        "date": "2026-09-15T10:04:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132340_0_5457560c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132340_1_cba5bddd.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132340",
-        "link": {
-          "title": "AI Agent API Guardrails: Deterministic Policy vs LLM Checks",
-          "url": "https://medium.com/@actiondock/ai-agent-api-guardrails-deterministic-policy-vs-llm-checks-40e99b656984?source=rss------api_security-5"
-        }
-      },
-      {
-        "id": 132339,
-        "text": "⤷\nTitle:\nYour API Can Be Working Exactly as Designed — and Still Be Under Attack\n════════════════════════\n𐀪\nAuthor:\nSTCLab\n════════════════════════\nⴵ\nTime:\nTue, 15 Sep 2026 09:38:38 GMT\n════════════════════════\n⌗\nTags:\n#business_logic_abuse\n#ai_agent\n#api_security\n#cybersecurity\n#bot_management",
-        "date": "2026-09-15T10:04:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132339_0_5457560c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132339_1_ec8c8b6f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132339",
-        "link": {
-          "title": "Your API Can Be Working Exactly as Designed — and Still Be Under Attack",
-          "url": "https://medium.com/stclab-tech-blog/your-api-can-be-working-exactly-as-designed-and-still-be-under-attack-9809b680ab14?source=rss------api_security-5"
-        }
-      },
-      {
-        "id": 132338,
-        "text": "⤷\nTitle:\nFiziksel Katmanı Atlamak: Siber Güvenliğin Göz Ardı Edilen Donanım Temeli\n════════════════════════\n𐀪\nAuthor:\nMehmet Ali Işık\n════════════════════════\nⴵ\nTime:\nTue, 15 Sep 2026 08:41:57 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ethical_hacking\n#blue_team\n#red_team\n#firewall",
-        "date": "2026-09-15T10:04:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132338_0_5457560c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132338",
-        "link": {
-          "title": "Fiziksel Katmanı Atlamak: Siber Güvenliğin Göz Ardı Edilen Donanım Temeli",
-          "url": "https://medium.com/@Metthehackk/fiziksel-katman%C4%B1-atlamak-siber-g%C3%BCvenli%C4%9Fin-g%C3%B6z-ard%C4%B1-edilen-donan%C4%B1m-temeli-5b67682e27cd?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 132337,
-        "text": "⤷\nTitle:\nTesting URL Encoding and Unicode Normalization During an Authorized Web Security Assessment\n════════════════════════\n𐀪\nAuthor:\nJohnwick\n════════════════════════\nⴵ\nTime:\nTue, 15 Sep 2026 08:15:44 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#hacking\n#cybersecurity\n#web_penetration_testing",
-        "date": "2026-09-15T10:04:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132337_0_5457560c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132337_1_cbc8f56e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132337",
-        "link": {
-          "title": "Testing URL Encoding and Unicode Normalization During an Authorized Web Security Assessment",
-          "url": "https://medium.com/@Johnwickhere/testing-url-encoding-and-unicode-normalization-during-an-authorized-web-security-assessment-a9fff4db747f?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 132336,
-        "text": "⤷\nTitle:\n“When Robots Get a License to Hack”\n════════════════════════\n𐀪\nAuthor:\nMohammed Mushtaq\n════════════════════════\nⴵ\nTime:\nTue, 15 Sep 2026 09:02:48 GMT\n════════════════════════\n⌗\nTags:\n#ai_governance\n#hacking\n#technology\n#artificial_intelligence\n#cybersecurity",
-        "date": "2026-09-15T10:03:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132336_0_5457560c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132336_1_0b32cb52.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132336",
-        "link": {
-          "title": "“When Robots Get a License to Hack”",
-          "url": "https://medium.com/@mohammed.mushtaq.dev/when-robots-get-a-license-to-hack-adf25ddcd27b?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 132335,
-        "text": "⤷\nTitle:\nLiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nTue, 15 Sep 2026 12:22:16 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-09-15T10:03:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132335_0_5457560c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132335",
-        "link": {
-          "title": "LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server",
-          "url": "https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html"
-        }
-      },
-      {
-        "id": 132334,
-        "text": "⤷\nTitle:\nPhantom Fob Walkthrough Tryhackme\n════════════════════════\n𐀪\nAuthor:\nRotimi Ishola\n════════════════════════\nⴵ\nTime:\nTue, 15 Sep 2026 05:25:27 GMT\n════════════════════════\n⌗\nTags:\n#canbussecurity\n#cybersecurity\n#car_hacking\n#ethical_hacking\n#reverse_engineering",
-        "date": "2026-09-15T08:04:32+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132334_0_5457560c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132334_1_b0171950.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132334",
-        "link": {
-          "title": "Phantom Fob Walkthrough Tryhackme",
-          "url": "https://medium.com/@timiphil9/phantom-fob-walkthrough-801588d018a2?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 132333,
-        "text": "⤷\nTitle:\nINFORMATION GATHERING\n════════════════════════\n𐀪\nAuthor:\nSourabh Jala\n════════════════════════\nⴵ\nTime:\nTue, 15 Sep 2026 07:31:01 GMT\n════════════════════════\n⌗\nTags:\n#information_gathering\n#ethical_hacking\n#cybersecurity\n#tryhackme\n#information_security",
-        "date": "2026-09-15T08:04:28+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132333_0_5457560c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132333_1_8d279472.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132333",
-        "link": {
-          "title": "INFORMATION GATHERING",
-          "url": "https://medium.com/@skumarjala/information-gathering-63ff9876d922?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 132332,
-        "text": "⤷\nTitle:\nOverpass — TryHackMe Walktrough\n════════════════════════\n𐀪\nAuthor:\nStephvannes Samuel Kevin\n════════════════════════\nⴵ\nTime:\nTue, 15 Sep 2026 07:56:44 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#web_security\n#privilege_escalation\n#ctf_writeup\n#tryhackme",
-        "date": "2026-09-15T08:04:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132332_0_5457560c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132332_1_069209e0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132332",
-        "link": {
-          "title": "Overpass — TryHackMe Walktrough",
-          "url": "https://medium.com/@kevin33111/overpass-tryhackme-walktrough-184c5d6c3a6e?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 132331,
-        "text": "⤷\nTitle:\nPhantom Fob — Rolling-Code Key Recovery via Cross-Frame Correlation Leads to Unauthorized Unlock |…\n════════════════════════\n𐀪\nAuthor:\nRoshan Rajbanshi\n════════════════════════\nⴵ\nTime:\nTue, 15 Sep 2026 07:20:05 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#penetration_testing\n#pentesting\n#tryhackme\n#cybersecurity",
-        "date": "2026-09-15T08:04:22+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132331_0_5457560c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132331_1_445ea9ba.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132331",
-        "link": {
-          "title": "Phantom Fob — Rolling-Code Key Recovery via Cross-Frame Correlation Leads to Unauthorized Unlock |…",
-          "url": "https://meetcyber.net/phantom-fob-rolling-code-key-recovery-via-cross-frame-correlation-leads-to-unauthorized-unlock-ae462a0950e9?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 132330,
-        "text": "⤷\nTitle:\nI spent a week doing PR for my own game. Here’s what actually happened.\n════════════════════════\n𐀪\nAuthor:\nNODE: PROTOCOL\n════════════════════════\nⴵ\nTime:\nTue, 15 Sep 2026 07:31:26 GMT\n════════════════════════\n⌗\nTags:\n#games\n#game_development\n#hacking\n#indie_game\n#exploit_development",
-        "date": "2026-09-15T08:04:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132330_0_5457560c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132330_1_605b898e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132330",
-        "link": {
-          "title": "I spent a week doing PR for my own game. Here’s what actually happened.",
-          "url": "https://medium.com/@NODE_PROTOCOL/i-spent-a-week-doing-pr-for-my-own-game-heres-what-actually-happened-a387c9bea0d9?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 132329,
-        "text": "⤷\nTitle:\nJEH Explained: What Is Junior Ethical Hacking and Why Is It a Great Cybersecurity Starting Point?\n════════════════════════\n𐀪\nAuthor:\nQnaydshackersacadamy\n════════════════════════\nⴵ\nTime:\nTue, 15 Sep 2026 07:41:53 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#hacking\n#cybersecurity\n#ethical_ai\n#jehovahs_witnesses",
-        "date": "2026-09-15T08:04:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132329_0_5457560c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132329_1_ee9bb3fd.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132329",
-        "link": {
-          "title": "JEH Explained: What Is Junior Ethical Hacking and Why Is It a Great Cybersecurity Starting Point?",
-          "url": "https://medium.com/@qnaydshackersacadamy/jeh-explained-what-is-junior-ethical-hacking-and-why-is-it-a-great-cybersecurity-starting-point-872e1df453de?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 132328,
-        "text": "⤷\nTitle:\nDesigning Mobile Applications Around the Way People Actually Work\n════════════════════════\n𐀪\nAuthor:\nBounce Back Technologies\n════════════════════════\nⴵ\nTime:\nTue, 15 Sep 2026 06:21:10 GMT\n════════════════════════\n⌗\nTags:\n#user_experience\n#mobile_technology\n#application_security\n#digital_transformation\n#mobile_app_development",
-        "date": "2026-09-15T08:04:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132328_0_5457560c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132328_1_ca72072f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132328",
-        "link": {
-          "title": "Designing Mobile Applications Around the Way People Actually Work",
-          "url": "https://medium.com/@bouncebacktech123/designing-mobile-applications-around-the-way-people-actually-work-85b3002c0285?source=rss------application_security-5"
-        }
-      },
-      {
-        "id": 132327,
-        "text": "⤷\nTitle:\nOpenAI Model Capacity Error Reveals Account Flagging\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 15 Sep 2026 07:07:20 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#Account\nFlagging\n#ChatGPT\nError\n#Model\nCapacity\n#OpenAI",
-        "date": "2026-09-15T08:04:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132327_0_5457560c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132327_1_049923d0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132327",
-        "link": {
-          "title": "OpenAI Model Capacity Error Reveals Account Flagging",
-          "url": "https://securityonline.info/openai-model-capacity-error/"
-        }
-      },
-      {
-        "id": 132326,
-        "text": "⤷\nTitle:\nSiri AI Private Hooks: Testing Third-Party Model Backends\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 15 Sep 2026 07:45:08 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#Apple\n#iOS\n27\n#macOS\n27\n#Siri\nAI",
-        "date": "2026-09-15T08:04:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132326_0_5457560c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132326_1_52142130.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132326",
-        "link": {
-          "title": "Siri AI Private Hooks: Testing Third-Party Model Backends",
-          "url": "https://securityonline.info/siri-ai-private-hooks/"
-        }
-      },
-      {
-        "id": 132325,
-        "text": "⤷\nTitle:\nAI Weaponized to Shatter Georgia’s Secret Ballot\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nTue, 15 Sep 2026 07:47:59 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\n#AI\nVulnerability\n#Cyber\nSecurity\n#DVSorder\n#Georgia\nElections",
-        "date": "2026-09-15T08:04:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132325_0_5457560c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132325_1_c7e02e1c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132325",
-        "link": {
-          "title": "AI Weaponized to Shatter Georgia’s Secret Ballot",
-          "url": "https://meterpreter.org/dvsorder-vulnerability-georgia-secret-ballot/"
-        }
-      },
-      {
-        "id": 132324,
-        "text": "⤷\nTitle:\nChina-Linked Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy GRIMWEDGE\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nTue, 15 Sep 2026 11:01:05 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-09-15T08:03:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132324_0_5457560c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132324",
-        "link": {
-          "title": "China-Linked Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy GRIMWEDGE",
-          "url": "https://thehackernews.com/2026/09/china-linked-hackers-exploit-chrome.html"
-        }
-      },
-      {
-        "id": 132323,
-        "text": "⤷\nTitle:\nCisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nTue, 15 Sep 2026 11:41:11 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-09-15T08:03:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132323_0_5457560c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132323",
-        "link": {
-          "title": "Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution",
-          "url": "https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html"
-        }
-      },
-      {
-        "id": 132322,
-        "text": "⤷\nTitle:\nPhantom Fob Walkthrough\n════════════════════════\n𐀪\nAuthor:\nRotimi Ishola\n════════════════════════\nⴵ\nTime:\nTue, 15 Sep 2026 05:25:27 GMT\n════════════════════════\n⌗\nTags:\n#canbussecurity\n#cybersecurity\n#car_hacking\n#ethical_hacking\n#reverse_engineering",
-        "date": "2026-09-15T06:04:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132322_0_5457560c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132322_1_5bf0de1b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132322",
-        "link": {
-          "title": "Phantom Fob Walkthrough",
-          "url": "https://medium.com/@timiphil9/phantom-fob-walkthrough-801588d018a2?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 132321,
-        "text": "⤷\nTitle:\nWhat Is Ethical Hacking and Why Is It Important?\n════════════════════════\n𐀪\nAuthor:\nQNAYDS | AI & Cybersecurity Academy\n════════════════════════\nⴵ\nTime:\nTue, 15 Sep 2026 05:43:21 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking",
-        "date": "2026-09-15T06:04:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132321_0_5457560c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132321_1_f7b3e51e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132321",
-        "link": {
-          "title": "What Is Ethical Hacking and Why Is It Important?",
-          "url": "https://medium.com/@qnayds14/what-is-ethical-hacking-and-why-is-it-important-3cb355bb0da5?source=rss------ethical_hacking-5"
-        }
       }
     ]
   },
-  "last_update": "2026-09-16T05:25:27.696972+00:00",
+  "last_update": "2026-09-16T10:07:42.173579+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 190,
-    "total_files": 190,
+    "total_media": 194,
+    "total_files": 194,
     "total_links": 0,
     "files_by_type": {
-      "image": 190
+      "image": 194
     },
-    "referenced_files": 190,
-    "existing_media_files": 190,
-    "total_size_mb": 5.06,
-    "last_calculation": "2026-09-16T05:25:27.698106+00:00"
+    "referenced_files": 194,
+    "existing_media_files": 194,
+    "total_size_mb": 5.36,
+    "last_calculation": "2026-09-16T10:07:42.175925+00:00"
   }
 }
