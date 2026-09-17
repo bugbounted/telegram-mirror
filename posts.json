@@ -2,6 +2,301 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 132660,
+        "text": "⤷\nTitle:\nPortSwigger Lab: Web shell upload via Content-Type restriction bypass\n════════════════════════\n𐀪\nAuthor:\nsa0k0\n════════════════════════\nⴵ\nTime:\nThu, 17 Sep 2026 18:34:05 GMT\n════════════════════════\n⌗\nTags:\n#content_type_bypass\n#file_upload\n#burpsuite\n#rce",
+        "date": "2026-09-17T20:04:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132660_0_6727b7c1.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132660_1_b42453f0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132660",
+        "link": {
+          "title": "PortSwigger Lab: Web shell upload via Content-Type restriction bypass",
+          "url": "https://medium.com/@sa0k0/portswigger-lab-web-shell-upload-via-content-type-restriction-bypass-c5c50c9cda72?source=rss------rce-5"
+        }
+      },
+      {
+        "id": 132659,
+        "text": "⤷\nTitle:\nExploiting Cross-Site Scripting to Steal Cookies - PortSwigger Web Security Academy Lab Write-Up\n════════════════════════\n𐀪\nAuthor:\nOm Barot\n════════════════════════\nⴵ\nTime:\nThu, 17 Sep 2026 18:11:55 GMT\n════════════════════════\n⌗\nTags:\n#portswigger\n#burpsuite\n#web_security\n#ethical_hacking\n#cybersecurity",
+        "date": "2026-09-17T20:04:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132659_0_6727b7c1.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132659_1_0d8cbf4c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132659",
+        "link": {
+          "title": "Exploiting Cross-Site Scripting to Steal Cookies - PortSwigger Web Security Academy Lab Write-Up",
+          "url": "https://medium.com/@llombarotll/exploiting-cross-site-scripting-to-steal-cookies-portswigger-web-security-academy-lab-write-up-fd8fb2ee6a88?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 132658,
+        "text": "⤷\nTitle:\nAbout Deneth Prabashvara\n════════════════════════\n𐀪\nAuthor:\nDeneth Prabhashvara\n════════════════════════\nⴵ\nTime:\nThu, 17 Sep 2026 18:02:05 GMT\n════════════════════════\n⌗\nTags:\n#ctf_walkthrough\n#cybersecurity\n#hackthebox\n#tryhackme_writeup\n#tryhackme",
+        "date": "2026-09-17T20:04:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132658_0_6727b7c1.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132658_1_980c84d5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132658",
+        "link": {
+          "title": "About Deneth Prabashvara",
+          "url": "https://medium.com/@denethprabhashvara/about-deneth-prabashvara-0957e581aeef?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 132657,
+        "text": "⤷\nTitle:\nTryHack3M: Bricks Heist writeup\n════════════════════════\n𐀪\nAuthor:\ncracka_xss\n════════════════════════\nⴵ\nTime:\nThu, 17 Sep 2026 19:28:25 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_walkthrough\n#tryhackme\n#thm_writeup",
+        "date": "2026-09-17T20:04:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132657_0_6727b7c1.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132657_1_00acd88a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132657",
+        "link": {
+          "title": "TryHack3M: Bricks Heist writeup",
+          "url": "https://medium.com/@cracka_xss/tryhack3m-bricks-heist-writeup-ced1a29759f1?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 132656,
+        "text": "⤷\nTitle:\nThe $4 Hosting Account That Could Root an Entire Server\n════════════════════════\n𐀪\nAuthor:\nXpert4Cyber\n════════════════════════\nⴵ\nTime:\nThu, 17 Sep 2026 18:51:10 GMT\n════════════════════════\n⌗\nTags:\n#web_development\n#infosec\n#cpanel\n#vulnerability\n#cybersecurity",
+        "date": "2026-09-17T20:04:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132656_0_6727b7c1.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132656_1_86ebc1c1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132656",
+        "link": {
+          "title": "The $4 Hosting Account That Could Root an Entire Server",
+          "url": "https://medium.com/@xpert4cyber/the-4-hosting-account-that-could-root-an-entire-server-497ca4174e61?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 132655,
+        "text": "⤷\nTitle:\nRansomware Operators Are Using AI Coding Agents Now\n════════════════════════\n𐀪\nAuthor:\nAeon Flex, Elriel Assoc. 2133 [NEON MAXIMA]\n════════════════════════\nⴵ\nTime:\nThu, 17 Sep 2026 18:20:53 GMT\n════════════════════════\n⌗\nTags:\n#ai_coding\n#cybersecurity\n#ransomware\n#hacking\n#ai_agent",
+        "date": "2026-09-17T20:04:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132655_0_6727b7c1.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132655_1_e6042317.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132655",
+        "link": {
+          "title": "Ransomware Operators Are Using AI Coding Agents Now",
+          "url": "https://medium.com/@neonmaxima/ransomware-operators-are-using-ai-coding-agents-now-fd5ad5236876?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 132654,
+        "text": "⤷\nTitle:\nIDOR Explained: Exploiting Broken Object-Level Authorization\n════════════════════════\n𐀪\nAuthor:\nDhondi Sai Karthik\n════════════════════════\nⴵ\nTime:\nThu, 17 Sep 2026 18:37:52 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#hacking\n#ethical_hacking",
+        "date": "2026-09-17T20:03:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132654_0_6727b7c1.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132654_1_116cd432.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132654",
+        "link": {
+          "title": "IDOR Explained: Exploiting Broken Object-Level Authorization",
+          "url": "https://medium.com/@dhondisaikarthik89/idor-explained-exploiting-broken-object-level-authorization-7f9047e8b863?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 132653,
+        "text": "⤷\nTitle:\nFrom IDOR to Fraud: Breaking Access Control in a Travel Booking Platform\n════════════════════════\n𐀪\nAuthor:\nRomene Mohtadi It\n════════════════════════\nⴵ\nTime:\nThu, 17 Sep 2026 18:32:59 GMT\n════════════════════════\n⌗\nTags:\n#pentesting\n#api_security\n#cybersecurity\n#bug_bounty\n#owasp",
+        "date": "2026-09-17T20:03:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132653_0_6727b7c1.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132653_1_472a1402.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132653",
+        "link": {
+          "title": "From IDOR to Fraud: Breaking Access Control in a Travel Booking Platform",
+          "url": "https://medium.com/@romene.mohtadi.it/from-idor-to-fraud-breaking-access-control-in-a-travel-booking-platform-ef63f6b0bb2b?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 132652,
+        "text": "⤷\nTitle:\nModern IDOR Hunting Techniques That Still Work\n════════════════════════\n𐀪\nAuthor:\njulichaan\n════════════════════════\nⴵ\nTime:\nThu, 17 Sep 2026 19:45:38 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#hacking\n#idor\n#cybersecurity",
+        "date": "2026-09-17T20:03:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132652_0_6727b7c1.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132652_1_13aa7fe1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132652",
+        "link": {
+          "title": "Modern IDOR Hunting Techniques That Still Work",
+          "url": "https://medium.com/@espadar.julian/modern-idor-hunting-techniques-that-still-work-b39c78f64345?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 132651,
+        "text": "⤷\nTitle:\nFrom TryHackMe to Hack The Box: Taking My Cybersecurity Journey to the Next Level\n════════════════════════\n𐀪\nAuthor:\nBhavya Banga\n════════════════════════\nⴵ\nTime:\nThu, 17 Sep 2026 16:36:19 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#journey\n#ethical_hacking\n#beginners_guide\n#hackthebox",
+        "date": "2026-09-17T18:04:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132651_0_6727b7c1.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132651_1_689ff2f0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132651",
+        "link": {
+          "title": "From TryHackMe to Hack The Box: Taking My Cybersecurity Journey to the Next Level",
+          "url": "https://medium.com/@bhavya.insigna/from-tryhackme-to-hack-the-box-taking-my-cybersecurity-journey-to-the-next-level-7f25fd58aff8?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 132650,
+        "text": "⤷\nTitle:\nTry Hack Me: Guided Pentest: Infrastructure Write Up\n════════════════════════\n𐀪\nAuthor:\nJozepjoestar\n════════════════════════\nⴵ\nTime:\nThu, 17 Sep 2026 16:24:03 GMT\n════════════════════════\n⌗\nTags:\n#thm\n#tryhackme_writeup\n#tryhackme_walkthrough\n#tryhackme",
+        "date": "2026-09-17T18:04:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132650_0_6727b7c1.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132650_1_fae19b46.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132650",
+        "link": {
+          "title": "Try Hack Me: Guided Pentest: Infrastructure Write Up",
+          "url": "https://medium.com/@jozepjoestar/try-hack-me-guided-pentest-infrastructure-write-up-c9d5471e0f13?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 132649,
+        "text": "⤷\nTitle:\nPart 6— OWASP A05:2025: Injection The Complete Guide — From Beginner to Advanced\n════════════════════════\n𐀪\nAuthor:\nIntelithics\n════════════════════════\nⴵ\nTime:\nThu, 17 Sep 2026 16:10:44 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#medium\n#owasp\n#red_team\n#hacking",
+        "date": "2026-09-17T18:04:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132649_0_6727b7c1.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132649_1_d4cab81b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132649",
+        "link": {
+          "title": "Part 6— OWASP A05:2025: Injection The Complete Guide — From Beginner to Advanced",
+          "url": "https://systemweakness.com/part-6-owasp-a05-2025-injection-the-complete-guide-from-beginner-to-advanced-9bfe2e1d994c?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 132648,
+        "text": "⤷\nTitle:\nFool’s guide to RansomHouse\n════════════════════════\n𐀪\nAuthor:\nKN\n════════════════════════\nⴵ\nTime:\nThu, 17 Sep 2026 17:08:15 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#cybersecurity\n#ransomware",
+        "date": "2026-09-17T18:04:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132648_0_6727b7c1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132648",
+        "link": {
+          "title": "Fool’s guide to RansomHouse",
+          "url": "https://medium.com/@KNlabs02/fools-guide-to-ransomhouse-57d620013874?source=rss------hacking-5"
+        }
+      },
+      {
         "id": 132647,
         "text": "⤷\nTitle:\nFingerprinting Network Honeypots with Weighted Behavioral Scoring Engine\n════════════════════════\n𐀪\nAuthor:\nWhengomarket\n════════════════════════\nⴵ\nTime:\nThu, 17 Sep 2026 14:14:36 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#red_team\n#python\n#open_source\n#penetration_testing",
         "date": "2026-09-17T16:04:53+00:00",
@@ -1997,309 +2292,22 @@
           "title": "Leaked account lead to RCE",
           "url": "https://medium.com/@1moonlightlabs/leaked-account-lead-to-rce-d4206a772083?source=rss------bug_bounty-5"
         }
-      },
-      {
-        "id": 132530,
-        "text": "⤷\nTitle:\nGoogle Cloud DLP: Universal Detection Bypass in Google’s Own Sandboxes\n════════════════════════\n𐀪\nAuthor:\n32BYTX\n════════════════════════\nⴵ\nTime:\nWed, 16 Sep 2026 17:50:14 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#vulnerability\n#bug_bounty\n#information_security\n#google_cloud_platform",
-        "date": "2026-09-16T18:04:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132530_0_e9fef81d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132530_1_adbf4460.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132530",
-        "link": {
-          "title": "Google Cloud DLP: Universal Detection Bypass in Google’s Own Sandboxes",
-          "url": "https://medium.com/@32bytx/google-cloud-dlp-universal-detection-bypass-in-googles-own-sandboxes-f8b655b48b0a?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 132529,
-        "text": "⤷\nTitle:\nOne Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nWed, 16 Sep 2026 20:06:44 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-09-16T18:03:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132529_0_e9fef81d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132529",
-        "link": {
-          "title": "One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude",
-          "url": "https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html"
-        }
-      },
-      {
-        "id": 132528,
-        "text": "⤷\nTitle:\nThree Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nWed, 16 Sep 2026 20:57:49 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-09-16T18:03:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132528_0_e9fef81d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132528",
-        "link": {
-          "title": "Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers",
-          "url": "https://thehackernews.com/2026/09/three-threat-groups-target-russian.html"
-        }
-      },
-      {
-        "id": 132527,
-        "text": "⤷\nTitle:\nAttackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nWed, 16 Sep 2026 21:20:59 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-09-16T18:03:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132527_0_e9fef81d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132527",
-        "link": {
-          "title": "Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution",
-          "url": "https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html"
-        }
-      },
-      {
-        "id": 132526,
-        "text": "⤷\nTitle:\nSQL Injection: A Beginner’s Guide\n════════════════════════\n𐀪\nAuthor:\nJessica Shrestha\n════════════════════════\nⴵ\nTime:\nWed, 16 Sep 2026 15:28:49 GMT\n════════════════════════\n⌗\nTags:\n#web_vulnerabilities\n#sql_injection\n#sql\n#cybersecurity\n#injection_attacks",
-        "date": "2026-09-16T16:04:29+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132526_0_e9fef81d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132526_1_673345ec.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132526",
-        "link": {
-          "title": "SQL Injection: A Beginner’s Guide",
-          "url": "https://medium.com/@jessistha2/sql-injection-a-beginners-guide-54ec732fdb2c?source=rss------sql_injection-5"
-        }
-      },
-      {
-        "id": 132525,
-        "text": "⤷\nTitle:\nTryHackMe “Gaming Server” Walkthrough\n════════════════════════\n𐀪\nAuthor:\nHafsa\n════════════════════════\nⴵ\nTime:\nWed, 16 Sep 2026 14:53:38 GMT\n════════════════════════\n⌗\nTags:\n#ctf_writeup\n#web_security\n#ssh\n#lxd\n#tryhackme",
-        "date": "2026-09-16T16:04:26+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132525_0_e9fef81d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132525_1_49f2227e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132525",
-        "link": {
-          "title": "TryHackMe “Gaming Server” Walkthrough",
-          "url": "https://medium.com/@hafsasaif098/tryhackme-gaming-server-walkthrough-0c30a27f51ba?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 132524,
-        "text": "⤷\nTitle:\nPentesting in 2026: The Tools Are Getting Faster. Judgment Is Becoming the Bottleneck.\n════════════════════════\n𐀪\nAuthor:\nUmah Izuchukwu\n════════════════════════\nⴵ\nTime:\nWed, 16 Sep 2026 14:57:14 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#pentesting\n#cybersecurity\n#generative_ai_tools",
-        "date": "2026-09-16T16:04:22+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132524_0_e9fef81d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132524_1_2aabc003.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132524",
-        "link": {
-          "title": "Pentesting in 2026: The Tools Are Getting Faster. Judgment Is Becoming the Bottleneck.",
-          "url": "https://medium.com/@umahizuchukwu/pentesting-in-2026-the-tools-are-getting-faster-judgment-is-becoming-the-bottleneck-2cd572073f9d?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 132523,
-        "text": "⤷\nTitle:\nVersion Hunting: From Server Banner to CVE in 3 Steps\n════════════════════════\n𐀪\nAuthor:\nRoshan Rajbanshi\n════════════════════════\nⴵ\nTime:\nWed, 16 Sep 2026 15:21:59 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#vulnerability_assessment\n#penetration_testing\n#web_security\n#cybersecurity",
-        "date": "2026-09-16T16:04:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132523_0_e9fef81d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132523_1_e2cf24ff.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132523",
-        "link": {
-          "title": "Version Hunting: From Server Banner to CVE in 3 Steps",
-          "url": "https://levelup.gitconnected.com/version-hunting-from-server-banner-to-cve-in-3-steps-66628b29f56a?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 132522,
-        "text": "⤷\nTitle:\nNever Paste Raw Client Data into AI: How Context-Preserving Masking Protects Privacy Without…\n════════════════════════\n𐀪\nAuthor:\nSahabbhutto\n════════════════════════\nⴵ\nTime:\nWed, 16 Sep 2026 14:25:59 GMT\n════════════════════════\n⌗\nTags:\n#privacy\n#artificial_intelligence\n#infosec\n#cybersecurity\n#chatgpt",
-        "date": "2026-09-16T16:04:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132522_0_e9fef81d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132522_1_d72283a4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132522",
-        "link": {
-          "title": "Never Paste Raw Client Data into AI: How Context-Preserving Masking Protects Privacy Without…",
-          "url": "https://medium.com/@sahabbhutto694/never-paste-raw-client-data-into-ai-how-context-preserving-masking-protects-privacy-without-90447d6557de?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 132521,
-        "text": "⤷\nTitle:\nApproaching stealers devs: a brief interview with Remus\n════════════════════════\n𐀪\nAuthor:\ng0njxa\n════════════════════════\nⴵ\nTime:\nWed, 16 Sep 2026 15:17:24 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#interview\n#malware\n#cybersecurity\n#infostealer",
-        "date": "2026-09-16T16:04:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132521_0_e9fef81d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132521_1_29139b42.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132521",
-        "link": {
-          "title": "Approaching stealers devs: a brief interview with Remus",
-          "url": "https://g0njxa.medium.com/approaching-stealers-devs-a-brief-interview-with-remus-6fd5e92caa22?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 132520,
-        "text": "⤷\nTitle:\nHTB Server Side Attacks Skills Assessment\n════════════════════════\n𐀪\nAuthor:\nRolland Dollidze\n════════════════════════\nⴵ\nTime:\nWed, 16 Sep 2026 15:09:06 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#htb_walkthrough\n#htb_academy",
-        "date": "2026-09-16T16:04:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132520_0_e9fef81d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132520_1_93e49d0f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132520",
-        "link": {
-          "title": "HTB Server Side Attacks Skills Assessment",
-          "url": "https://medium.com/@rolland.dollidze/htb-server-side-attacks-skills-assessment-2aa9ba960f5d?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 132519,
-        "text": "⤷\nTitle:\nFrom “Won’t Fix” to $$$$: How I Bypassed Google’s SSRF Filters Using an IPv6-Mapped Address\n════════════════════════\n𐀪\nAuthor:\nNitin Attri\n════════════════════════\nⴵ\nTime:\nWed, 16 Sep 2026 15:42:03 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#cybersecurity\n#vulnerability\n#ssrf_bypass\n#bug_bounty",
-        "date": "2026-09-16T16:04:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132519_0_e9fef81d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132519_1_122cbff4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132519",
-        "link": {
-          "title": "From “Won’t Fix” to $$$$: How I Bypassed Google’s SSRF Filters Using an IPv6-Mapped Address",
-          "url": "https://medium.com/@technicalattri/from-wont-fix-to-how-i-bypassed-google-s-ssrf-filters-using-an-ipv6-mapped-address-a64ca42a039d?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 132518,
-        "text": "⤷\nTitle:\nHow a Race Condition Turned a Simple Feedback Form Into a $700 Bounty\n════════════════════════\n𐀪\nAuthor:\nEkansh Choudhary\n════════════════════════\nⴵ\nTime:\nWed, 16 Sep 2026 15:44:58 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#bug_bounty\n#ethical_hacking\n#race_condition\n#cybersecurity",
-        "date": "2026-09-16T16:04:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132518_0_e9fef81d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132518_1_01bd4e85.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132518",
-        "link": {
-          "title": "How a Race Condition Turned a Simple Feedback Form Into a $700 Bounty",
-          "url": "https://medium.com/@ekanshchoudhary.96/how-a-race-condition-turned-a-simple-feedback-form-into-a-700-bounty-d0594b1e7c78?source=rss------bug_bounty-5"
-        }
       }
     ]
   },
-  "last_update": "2026-09-17T17:22:24.921464+00:00",
+  "last_update": "2026-09-17T20:26:40.643679+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 196,
-    "total_files": 196,
+    "total_media": 198,
+    "total_files": 198,
     "total_links": 0,
     "files_by_type": {
-      "image": 196
+      "image": 198
     },
-    "referenced_files": 196,
-    "existing_media_files": 196,
-    "total_size_mb": 5.54,
-    "last_calculation": "2026-09-17T17:22:24.923304+00:00"
+    "referenced_files": 198,
+    "existing_media_files": 198,
+    "total_size_mb": 5.64,
+    "last_calculation": "2026-09-17T20:26:40.646284+00:00"
   }
 }
