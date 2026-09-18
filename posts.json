@@ -2,6 +2,144 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 132769,
+        "text": "⤷\nTitle:\nWhy Admin Panel Subdomain vs Path Isn’t a Security Decision\n════════════════════════\n𐀪\nAuthor:\nFOLAKE SOWONOYE\n════════════════════════\nⴵ\nTime:\nFri, 18 Sep 2026 18:55:31 GMT\n════════════════════════\n⌗\nTags:\n#backend_development\n#cybersecurity\n#access_control\n#web_development\n#api_security",
+        "date": "2026-09-18T20:04:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132769_0_31412d0d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132769_1_92791a45.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132769",
+        "link": {
+          "title": "Why Admin Panel Subdomain vs Path Isn’t a Security Decision",
+          "url": "https://medium.com/@0l4m1de/admin-panel-subdomain-vs-path-63d60e3ff334?source=rss------api_security-5"
+        }
+      },
+      {
+        "id": 132768,
+        "text": "⤷\nTitle:\nEthical Hacking in 2026: A Complete Guide to Cybersecurity\n════════════════════════\n𐀪\nAuthor:\nNikhilvarun\n════════════════════════\nⴵ\nTime:\nFri, 18 Sep 2026 18:31:01 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#cybersecurity_careers\n#ethical_hacking\n#information_security\n#cybersecurity",
+        "date": "2026-09-18T20:04:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132768_0_31412d0d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132768_1_3ccddc4d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132768",
+        "link": {
+          "title": "Ethical Hacking in 2026: A Complete Guide to Cybersecurity",
+          "url": "https://medium.com/@nikhilvarun001/ethical-hacking-in-2026-a-complete-guide-to-cybersecurity-5ea12fa0ed45?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 132767,
+        "text": "⤷\nTitle:\nFrom EarthTime to MSBuild: Anatomy of a Three-Gang Ransomware Intrusion\n════════════════════════\n𐀪\nAuthor:\nVampireXRay\n════════════════════════\nⴵ\nTime:\nFri, 18 Sep 2026 19:08:07 GMT\n════════════════════════\n⌗\nTags:\n#malware\n#digital_forensics\n#cybersecurity\n#hacking\n#threat_intelligence",
+        "date": "2026-09-18T20:04:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132767_0_31412d0d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132767_1_a3447a20.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132767",
+        "link": {
+          "title": "From EarthTime to MSBuild: Anatomy of a Three-Gang Ransomware Intrusion",
+          "url": "https://medium.com/@VampireXRay/from-earthtime-to-msbuild-anatomy-of-a-three-gang-ransomware-intrusion-914ead353313?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 132766,
+        "text": "⤷\nTitle:\nCSRF Explained | Find Cross-Site Request Forgery Bugs in Bug Bounties\n════════════════════════\n𐀪\nAuthor:\nPentester Club\n════════════════════════\nⴵ\nTime:\nFri, 18 Sep 2026 17:58:08 GMT\n════════════════════════\n⌗\nTags:\n#web_development\n#cybersecurity\n#hacking\n#artificial_intelligence\n#bug_bounty",
+        "date": "2026-09-18T20:04:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132766_0_31412d0d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132766_1_56b212aa.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132766",
+        "link": {
+          "title": "CSRF Explained | Find Cross-Site Request Forgery Bugs in Bug Bounties",
+          "url": "https://medium.com/@pentesterclubpvtltd/csrf-explained-find-cross-site-request-forgery-bugs-in-bug-bounties-99fb6985fbc3?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 132765,
+        "text": "⤷\nTitle:\nBypassing Access Controls: How I Found an Unauthenticated Payment Processing Endpoint (CVSS 8.5)\n════════════════════════\n𐀪\nAuthor:\njimmy\n════════════════════════\nⴵ\nTime:\nFri, 18 Sep 2026 19:06:59 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#web_security\n#penetration_testing\n#cybersecurity\n#ethical_hacking",
+        "date": "2026-09-18T20:03:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132765_0_31412d0d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132765_1_3bf7c2f2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132765",
+        "link": {
+          "title": "Bypassing Access Controls: How I Found an Unauthenticated Payment Processing Endpoint (CVSS 8.5)",
+          "url": "https://medium.com/@mgsa112233/bypassing-access-controls-how-i-found-an-unauthenticated-payment-processing-endpoint-cvss-8-5-02d972bcd57c?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 132764,
+        "text": "⤷\nTitle:\nFrom Arbitrary File Download to Admin Panel and Database Access\n════════════════════════\n𐀪\nAuthor:\nHossein Zarei\n════════════════════════\nⴵ\nTime:\nFri, 18 Sep 2026 19:12:21 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#arbitrary_file_download\n#pentesting\n#bug_bounty\n#ethical_hacking",
+        "date": "2026-09-18T20:03:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132764_0_31412d0d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132764_1_cb33c917.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132764",
+        "link": {
+          "title": "From Arbitrary File Download to Admin Panel and Database Access",
+          "url": "https://medium.com/@hossein.za68/from-arbitrary-file-download-to-admin-panel-and-database-access-6bd1b45b477b?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 132763,
         "text": "⤷\nTitle:\nFrom Failed SSH Logins to Root: Investigating a Simulated Security Incident with Wazuh.\n════════════════════════\n𐀪\nAuthor:\nRaheemah Lartey\n════════════════════════\nⴵ\nTime:\nFri, 18 Sep 2026 16:15:31 GMT\n════════════════════════\n⌗\nTags:\n#soc_analyst\n#cybersecurity\n#wazuh\n#ethical_hacking\n#incident_response",
         "date": "2026-09-18T18:04:27+00:00",
@@ -2126,148 +2264,10 @@
           "title": "Exploiting Cross-Site Scripting to Steal Cookies - PortSwigger Web Security Academy Lab Write-Up",
           "url": "https://medium.com/@llombarotll/exploiting-cross-site-scripting-to-steal-cookies-portswigger-web-security-academy-lab-write-up-fd8fb2ee6a88?source=rss------ethical_hacking-5"
         }
-      },
-      {
-        "id": 132658,
-        "text": "⤷\nTitle:\nAbout Deneth Prabashvara\n════════════════════════\n𐀪\nAuthor:\nDeneth Prabhashvara\n════════════════════════\nⴵ\nTime:\nThu, 17 Sep 2026 18:02:05 GMT\n════════════════════════\n⌗\nTags:\n#ctf_walkthrough\n#cybersecurity\n#hackthebox\n#tryhackme_writeup\n#tryhackme",
-        "date": "2026-09-17T20:04:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132658_0_6727b7c1.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132658_1_980c84d5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132658",
-        "link": {
-          "title": "About Deneth Prabashvara",
-          "url": "https://medium.com/@denethprabhashvara/about-deneth-prabashvara-0957e581aeef?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 132657,
-        "text": "⤷\nTitle:\nTryHack3M: Bricks Heist writeup\n════════════════════════\n𐀪\nAuthor:\ncracka_xss\n════════════════════════\nⴵ\nTime:\nThu, 17 Sep 2026 19:28:25 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_walkthrough\n#tryhackme\n#thm_writeup",
-        "date": "2026-09-17T20:04:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132657_0_6727b7c1.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132657_1_00acd88a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132657",
-        "link": {
-          "title": "TryHack3M: Bricks Heist writeup",
-          "url": "https://medium.com/@cracka_xss/tryhack3m-bricks-heist-writeup-ced1a29759f1?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 132656,
-        "text": "⤷\nTitle:\nThe $4 Hosting Account That Could Root an Entire Server\n════════════════════════\n𐀪\nAuthor:\nXpert4Cyber\n════════════════════════\nⴵ\nTime:\nThu, 17 Sep 2026 18:51:10 GMT\n════════════════════════\n⌗\nTags:\n#web_development\n#infosec\n#cpanel\n#vulnerability\n#cybersecurity",
-        "date": "2026-09-17T20:04:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132656_0_6727b7c1.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132656_1_86ebc1c1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132656",
-        "link": {
-          "title": "The $4 Hosting Account That Could Root an Entire Server",
-          "url": "https://medium.com/@xpert4cyber/the-4-hosting-account-that-could-root-an-entire-server-497ca4174e61?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 132655,
-        "text": "⤷\nTitle:\nRansomware Operators Are Using AI Coding Agents Now\n════════════════════════\n𐀪\nAuthor:\nAeon Flex, Elriel Assoc. 2133 [NEON MAXIMA]\n════════════════════════\nⴵ\nTime:\nThu, 17 Sep 2026 18:20:53 GMT\n════════════════════════\n⌗\nTags:\n#ai_coding\n#cybersecurity\n#ransomware\n#hacking\n#ai_agent",
-        "date": "2026-09-17T20:04:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132655_0_6727b7c1.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132655_1_e6042317.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132655",
-        "link": {
-          "title": "Ransomware Operators Are Using AI Coding Agents Now",
-          "url": "https://medium.com/@neonmaxima/ransomware-operators-are-using-ai-coding-agents-now-fd5ad5236876?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 132654,
-        "text": "⤷\nTitle:\nIDOR Explained: Exploiting Broken Object-Level Authorization\n════════════════════════\n𐀪\nAuthor:\nDhondi Sai Karthik\n════════════════════════\nⴵ\nTime:\nThu, 17 Sep 2026 18:37:52 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#hacking\n#ethical_hacking",
-        "date": "2026-09-17T20:03:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132654_0_6727b7c1.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132654_1_116cd432.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132654",
-        "link": {
-          "title": "IDOR Explained: Exploiting Broken Object-Level Authorization",
-          "url": "https://medium.com/@dhondisaikarthik89/idor-explained-exploiting-broken-object-level-authorization-7f9047e8b863?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 132653,
-        "text": "⤷\nTitle:\nFrom IDOR to Fraud: Breaking Access Control in a Travel Booking Platform\n════════════════════════\n𐀪\nAuthor:\nRomene Mohtadi It\n════════════════════════\nⴵ\nTime:\nThu, 17 Sep 2026 18:32:59 GMT\n════════════════════════\n⌗\nTags:\n#pentesting\n#api_security\n#cybersecurity\n#bug_bounty\n#owasp",
-        "date": "2026-09-17T20:03:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132653_0_6727b7c1.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132653_1_472a1402.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132653",
-        "link": {
-          "title": "From IDOR to Fraud: Breaking Access Control in a Travel Booking Platform",
-          "url": "https://medium.com/@romene.mohtadi.it/from-idor-to-fraud-breaking-access-control-in-a-travel-booking-platform-ef63f6b0bb2b?source=rss------bug_bounty-5"
-        }
       }
     ]
   },
-  "last_update": "2026-09-18T19:48:04.643365+00:00",
+  "last_update": "2026-09-18T22:00:50.420434+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2279,7 +2279,7 @@
     },
     "referenced_files": 191,
     "existing_media_files": 191,
-    "total_size_mb": 5.84,
-    "last_calculation": "2026-09-18T19:48:04.644783+00:00"
+    "total_size_mb": 5.62,
+    "last_calculation": "2026-09-18T22:00:50.422813+00:00"
   }
 }
