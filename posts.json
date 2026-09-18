@@ -2,6 +2,98 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 132668,
+        "text": "⤷\nTitle:\nCyberOps CTF Write-Up: From Command Injection to Root Privileges\n════════════════════════\n𐀪\nAuthor:\nMuhammet Durgun\n════════════════════════\nⴵ\nTime:\nThu, 17 Sep 2026 22:30:55 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#penetration_testing\n#cybersecurity\n#ctf\n#tryhackme_writeup",
+        "date": "2026-09-18T00:04:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132668_0_3d5522b9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132668_1_e1950e75.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132668",
+        "link": {
+          "title": "CyberOps CTF Write-Up: From Command Injection to Root Privileges",
+          "url": "https://medium.com/@muh4mmetdurgun/cyberops-ctf-write-up-from-command-injection-to-root-privileges-0215cce51c85?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 132667,
+        "text": "⤷\nTitle:\nGetting Hands-On with Linux: My Journey into File System Management\n════════════════════════\n𐀪\nAuthor:\nOlumide Victor\n════════════════════════\nⴵ\nTime:\nThu, 17 Sep 2026 22:59:15 GMT\n════════════════════════\n⌗\nTags:\n#cybercrime\n#penetration_testing\n#linux\n#cybersecurity",
+        "date": "2026-09-18T00:04:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132667_0_3d5522b9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132667_1_bfabc98a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132667",
+        "link": {
+          "title": "Getting Hands-On with Linux: My Journey into File System Management",
+          "url": "https://medium.com/@victorholumide11/getting-hands-on-with-linux-my-journey-into-file-system-management-69a5f850bae4?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 132666,
+        "text": "⤷\nTitle:\nWhen JavaScript Gets Confused: A Look at Chrome’s V8 Vulnerabilities\n════════════════════════\n𐀪\nAuthor:\nFatima Zakir\n════════════════════════\nⴵ\nTime:\nThu, 17 Sep 2026 22:04:20 GMT\n════════════════════════\n⌗\nTags:\n#javascript\n#vulnerability\n#technology\n#hacking\n#cybersecurity",
+        "date": "2026-09-18T00:03:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132666_0_3d5522b9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132666_1_7a5ad072.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132666",
+        "link": {
+          "title": "When JavaScript Gets Confused: A Look at Chrome’s V8 Vulnerabilities",
+          "url": "https://medium.com/@fatimazakir1312/when-javascript-gets-confused-a-look-at-chromes-v8-vulnerabilities-bafa0f97524f?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 132665,
+        "text": "⤷\nTitle:\n15 Amazon Kitchen Organization Finds to Refresh Your Kitchen This Fall.\n════════════════════════\n𐀪\nAuthor:\nHome & Kitchen Picks\n════════════════════════\nⴵ\nTime:\nThu, 17 Sep 2026 23:08:52 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#short_story\n#fall",
+        "date": "2026-09-18T00:03:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132665_0_3d5522b9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132665_1_84758dd5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132665",
+        "link": {
+          "title": "15 Amazon Kitchen Organization Finds to Refresh Your Kitchen This Fall.",
+          "url": "https://medium.com/@mehjabeenmirza17/15-amazon-kitchen-organization-finds-to-refresh-your-kitchen-this-fall-586e82311ccf?source=rss------hacking-5"
+        }
+      },
+      {
         "id": 132664,
         "text": "⤷\nTitle:\nMembedah Capture The Flag: Mengapa Mindset dan Metodologi Lebih Penting Daripada Sekadar Tools\n════════════════════════\n𐀪\nAuthor:\nSatriodiannugroho\n════════════════════════\nⴵ\nTime:\nThu, 17 Sep 2026 20:18:40 GMT\n════════════════════════\n⌗\nTags:\n#ctf\n#web_security\n#ethical_hacking\n#technology\n#cybersecurity",
         "date": "2026-09-17T22:04:04+00:00",
@@ -2200,102 +2292,10 @@
           "title": "AI-Powered Bug Bounty Hunting | From Recon to Report in Your Terminal",
           "url": "https://medium.com/@pentesterclubpvtltd/ai-powered-bug-bounty-hunting-from-recon-to-report-in-your-terminal-a7aad7603663?source=rss------bug_bounty-5"
         }
-      },
-      {
-        "id": 132538,
-        "text": "⤷\nTitle:\nCritical Check Point Login Flaw Enables Remote Takeover\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 16 Sep 2026 16:07:32 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Check\nPoint\n#CVE_2026_91843\n#Login\nFlaw\n#Remote\nCode Execution\n#Vulnerability",
-        "date": "2026-09-16T20:03:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132538_0_6727b7c1.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132538_1_8dbec9f5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132538",
-        "link": {
-          "title": "Critical Check Point Login Flaw Enables Remote Takeover",
-          "url": "https://securityonline.info/check-point-login-flaw-cve-2026-91843/"
-        }
-      },
-      {
-        "id": 132537,
-        "text": "⤷\nTitle:\nCVE-2026-76460 (CVSS 10): Cisco ISE Vulnerability Exploited in the Wild\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 16 Sep 2026 17:26:09 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Authentication\nBypass\n#cisco\n#Cisco\nISE\n#CVE_2026_76460\n#Vulnerability",
-        "date": "2026-09-16T20:03:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132537_0_6727b7c1.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132537_1_6bdae335.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132537",
-        "link": {
-          "title": "CVE-2026-76460 (CVSS 10): Cisco ISE Vulnerability Exploited in the Wild",
-          "url": "https://securityonline.info/cisco-ise-vulnerability-exploited/"
-        }
-      },
-      {
-        "id": 132536,
-        "text": "⤷\nTitle:\nCritical Vulnerability Alert: CVE-2026–76461 in Cisco Secure Email Gateway Exploited in the Wild\n════════════════════════\n𐀪\nAuthor:\nSynthex\n════════════════════════\nⴵ\nTime:\nWed, 16 Sep 2026 17:21:01 GMT\n════════════════════════\n⌗\nTags:\n#sql_injection\n#cisco_secure\n#cve_2026_76461\n#threat_hunting\n#cybersecurity_analysis",
-        "date": "2026-09-16T18:04:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132536_0_e9fef81d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132536_1_6dde861f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132536",
-        "link": {
-          "title": "Critical Vulnerability Alert: CVE-2026–76461 in Cisco Secure Email Gateway Exploited in the Wild",
-          "url": "https://synthex.medium.com/critical-vulnerability-alert-cve-2026-76461-in-cisco-secure-email-gateway-exploited-in-the-wild-61b4a217c088?source=rss------sql_injection-5"
-        }
-      },
-      {
-        "id": 132535,
-        "text": "⤷\nTitle:\nEthical Hacking Course in Dehradun\n════════════════════════\n𐀪\nAuthor:\nBrillica Services\n════════════════════════\nⴵ\nTime:\nWed, 16 Sep 2026 17:38:50 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking",
-        "date": "2026-09-16T18:04:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132535_0_e9fef81d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132535_1_f79635c3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132535",
-        "link": {
-          "title": "Ethical Hacking Course in Dehradun",
-          "url": "https://brillicaservices.medium.com/ethical-hacking-course-in-dehradun-e9bdc8d79254?source=rss------ethical_hacking-5"
-        }
       }
     ]
   },
-  "last_update": "2026-09-17T22:57:21.017238+00:00",
+  "last_update": "2026-09-18T00:53:55.822639+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2307,7 +2307,7 @@
     },
     "referenced_files": 198,
     "existing_media_files": 198,
-    "total_size_mb": 5.76,
-    "last_calculation": "2026-09-17T22:57:21.019674+00:00"
+    "total_size_mb": 5.77,
+    "last_calculation": "2026-09-18T00:53:55.825051+00:00"
   }
 }
