@@ -2,6 +2,416 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 132700,
+        "text": "⤷\nTitle:\nApache Struts 2 REST Plugin XStream Deserialization: When XML Requests Become Remote Code Execution\n════════════════════════\n𐀪\nAuthor:\nEternalSec\n════════════════════════\nⴵ\nTime:\nFri, 18 Sep 2026 06:24:01 GMT\n════════════════════════\n⌗\nTags:\n#vulnerability_assessment\n#rce\n#web_security\n#cybersecurity\n#apache_struts_2",
+        "date": "2026-09-18T08:04:37+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132700_0_3d5522b9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132700_1_4175a612.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132700",
+        "link": {
+          "title": "Apache Struts 2 REST Plugin XStream Deserialization: When XML Requests Become Remote Code Execution",
+          "url": "https://medium.com/@EternalSec/apache-struts-2-rest-plugin-xstream-deserialization-when-xml-requests-become-remote-code-execution-2d3d734a9263?source=rss------rce-5"
+        }
+      },
+      {
+        "id": 132699,
+        "text": "⤷\nTitle:\nReset Password Vulnerability\n════════════════════════\n𐀪\nAuthor:\nSourabh Jala\n════════════════════════\nⴵ\nTime:\nFri, 18 Sep 2026 07:31:01 GMT\n════════════════════════\n⌗\nTags:\n#reset_password_root\n#authentication\n#cybersecurity\n#ethical_hacking\n#testing",
+        "date": "2026-09-18T08:04:34+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132699_0_3d5522b9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132699_1_c63dcc0e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132699",
+        "link": {
+          "title": "Reset Password Vulnerability",
+          "url": "https://medium.com/@skumarjala/reset-password-vulnerability-931b8b265d70?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 132698,
+        "text": "⤷\nTitle:\nMy First Cybersecurity Lab: What I Learned from TryHackMe\n════════════════════════\n𐀪\nAuthor:\nOduwaugo\n════════════════════════\nⴵ\nTime:\nFri, 18 Sep 2026 07:16:41 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#cybersecurity_careers\n#learning_in_public\n#tryhackme\n#information_security",
+        "date": "2026-09-18T08:04:31+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132698_0_3d5522b9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132698_1_919a2898.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132698",
+        "link": {
+          "title": "My First Cybersecurity Lab: What I Learned from TryHackMe",
+          "url": "https://medium.com/@oduwaugo8/my-first-cybersecurity-lab-what-i-learned-from-tryhackme-d326dfcf089e?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 132697,
+        "text": "⤷\nTitle:\nEscaping the Image Folder: File Path Traversal, Simple Case\n════════════════════════\n𐀪\nAuthor:\nKaustubh Asthana\n════════════════════════\nⴵ\nTime:\nFri, 18 Sep 2026 06:18:14 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#cybersecurity\n#web_penetration_testing\n#burpsuite\n#portswigger",
+        "date": "2026-09-18T08:04:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132697_0_3d5522b9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132697_1_7a2b13f9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132697",
+        "link": {
+          "title": "Escaping the Image Folder: File Path Traversal, Simple Case",
+          "url": "https://medium.com/@taskhub07/escaping-the-image-folder-file-path-traversal-simple-case-cb3a299015bf?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 132696,
+        "text": "⤷\nTitle:\nI Scored 10 Pentesting Vendors on Whether Their “AI” Actually Tests Anything\n════════════════════════\n𐀪\nAuthor:\nAnonymous brat\n════════════════════════\nⴵ\nTime:\nFri, 18 Sep 2026 07:23:57 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#cybersecurity\n#pentesting\n#ai_agent\n#ai",
+        "date": "2026-09-18T08:04:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132696_0_3d5522b9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132696_1_65dbd646.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132696",
+        "link": {
+          "title": "I Scored 10 Pentesting Vendors on Whether Their “AI” Actually Tests Anything",
+          "url": "https://medium.com/@gnanamephrim73/i-scored-10-pentesting-vendors-on-whether-their-ai-actually-tests-anything-642eb76161cb?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 132695,
+        "text": "⤷\nTitle:\nThe Life and Death of Browser Security\n════════════════════════\n𐀪\nAuthor:\nDanny Lin\n════════════════════════\nⴵ\nTime:\nFri, 18 Sep 2026 07:54:13 GMT\n════════════════════════\n⌗\nTags:\n#browser_security\n#cloudmosa\n#infosec\n#cybersecurity\n#ai_assisted_threats",
+        "date": "2026-09-18T08:04:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132695_0_3d5522b9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132695_1_38db4ae0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132695",
+        "link": {
+          "title": "The Life and Death of Browser Security",
+          "url": "https://medium.com/cloudmosa-en/the-life-and-death-of-browser-security-4245e6485721?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 132694,
+        "text": "⤷\nTitle:\nVisitor Management as an Essential Part of Corporate Security\n════════════════════════\n𐀪\nAuthor:\nPT Neuronworks Indonesia\n════════════════════════\nⴵ\nTime:\nFri, 18 Sep 2026 06:22:00 GMT\n════════════════════════\n⌗\nTags:\n#systems_thinking\n#visitor_experience\n#neuronworks\n#application_security\n#security",
+        "date": "2026-09-18T08:04:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132694_0_3d5522b9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132694_1_07aa6b64.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132694",
+        "link": {
+          "title": "Visitor Management as an Essential Part of Corporate Security",
+          "url": "https://neuronworksindonesia-id13.medium.com/visitor-management-as-an-essential-part-of-corporate-security-c01f2fb0a040?source=rss------application_security-5"
+        }
+      },
+      {
+        "id": 132693,
+        "text": "⤷\nTitle:\nCVE-2026–2619: How a Read-Only GitLab Auditor Could Modify Vulnerability Flags\n════════════════════════\n𐀪\nAuthor:\nKabishDahal\n════════════════════════\nⴵ\nTime:\nFri, 18 Sep 2026 06:51:38 GMT\n════════════════════════\n⌗\nTags:\n#application_security\n#bug_bounty_writeup\n#gitlab\n#access_control\n#cybersecurity",
+        "date": "2026-09-18T08:04:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132693_0_3d5522b9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132693_1_cd55cd10.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132693",
+        "link": {
+          "title": "CVE-2026–2619: How a Read-Only GitLab Auditor Could Modify Vulnerability Flags",
+          "url": "https://medium.com/@dahalkabish/cve-2026-2619-how-a-read-only-gitlab-auditor-could-modify-vulnerability-flags-768c33ab8cbb?source=rss------application_security-5"
+        }
+      },
+      {
+        "id": 132692,
+        "text": "⤷\nTitle:\nHow a Random Password-less “SSO Token” Let a Full Account Takeover\n════════════════════════\n𐀪\nAuthor:\n#$ubh@nk@r\n════════════════════════\nⴵ\nTime:\nFri, 18 Sep 2026 06:25:04 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#web_security\n#cybersecurity\n#hacker\n#bug_bounty",
+        "date": "2026-09-18T08:04:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132692_0_3d5522b9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132692_1_a9154f2f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132692",
+        "link": {
+          "title": "How a Random Password-less “SSO Token” Let a Full Account Takeover",
+          "url": "https://osintteam.blog/how-a-random-password-less-sso-token-let-a-full-account-takeover-fd2bb1782a66?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 132691,
+        "text": "⤷\nTitle:\nI’m Starting My 100-Hour Bug Bounty Challenge — Here’s My Method\n════════════════════════\n𐀪\nAuthor:\nMansigolecha\n════════════════════════\nⴵ\nTime:\nFri, 18 Sep 2026 07:47:26 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#ethical_hacking\n#artificial_intelligence\n#cybersecurity\n#penetration_testing",
+        "date": "2026-09-18T08:04:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132691_0_3d5522b9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132691_1_407f25bf.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132691",
+        "link": {
+          "title": "I’m Starting My 100-Hour Bug Bounty Challenge — Here’s My Method",
+          "url": "https://medium.com/@mansigolecha84_17480/im-starting-my-100-hour-bug-bounty-challenge-here-s-my-method-f26a40f02df5?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 132690,
+        "text": "⤷\nTitle:\nGhostCode Phishing Kit Targets Enterprise Microsoft Accounts\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 18 Sep 2026 06:11:20 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#Cybercrime\n#GhostCode\n#Microsoft\n365\n#OAuth\n#phishing",
+        "date": "2026-09-18T08:04:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132690_0_3d5522b9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132690_1_dff99a13.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132690",
+        "link": {
+          "title": "GhostCode Phishing Kit Targets Enterprise Microsoft Accounts",
+          "url": "https://securityonline.info/ghostcode-phishing-kit-microsoft/"
+        }
+      },
+      {
+        "id": 132689,
+        "text": "⤷\nTitle:\nCritical Dokploy OS Command Injection Exposes Servers\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 18 Sep 2026 06:12:57 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Command\nInjection\n#CVE_2026_72878\n#Dokploy\n#Vulnerability",
+        "date": "2026-09-18T08:04:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132689_0_3d5522b9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132689_1_6ddfe2c0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132689",
+        "link": {
+          "title": "Critical Dokploy OS Command Injection Exposes Servers",
+          "url": "https://securityonline.info/dokploy-os-command-injection/"
+        }
+      },
+      {
+        "id": 132688,
+        "text": "⤷\nTitle:\nCritical Google Chrome Vulnerabilities Fixed in Update\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 18 Sep 2026 06:20:10 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_93372\n#CVE_2026_93374\n#CVE_2026_93377\n#google\nchrome\n#Vulnerability",
+        "date": "2026-09-18T08:03:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132688_0_3d5522b9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132688_1_79053b7c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132688",
+        "link": {
+          "title": "Critical Google Chrome Vulnerabilities Fixed in Update",
+          "url": "https://securityonline.info/google-chrome-vulnerabilities-fixed/"
+        }
+      },
+      {
+        "id": 132687,
+        "text": "⤷\nTitle:\nTajin Group Phishing Network Linked to Guarantee Marketplaces\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 18 Sep 2026 07:11:33 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals",
+        "date": "2026-09-18T08:03:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132687_0_3d5522b9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132687_1_8662584c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132687",
+        "link": {
+          "title": "Tajin Group Phishing Network Linked to Guarantee Marketplaces",
+          "url": "https://securityonline.info/tajin-group-phishing-network/"
+        }
+      },
+      {
+        "id": 132686,
+        "text": "⤷\nTitle:\nRatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nFri, 18 Sep 2026 11:47:25 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-09-18T08:03:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132686_0_3d5522b9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132686",
+        "link": {
+          "title": "RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall",
+          "url": "https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html"
+        }
+      },
+      {
+        "id": 132685,
+        "text": "⤷\nTitle:\nLibrary — CyberQ Walkthrough\n════════════════════════\n𐀪\nAuthor:\nHarsh\n════════════════════════\nⴵ\nTime:\nFri, 18 Sep 2026 04:20:37 GMT\n════════════════════════\n⌗\nTags:\n#smb_enumeration\n#walkthrough\n#windows_privilege_esc\n#ntlm_cracking\n#sql_injection",
+        "date": "2026-09-18T06:04:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132685_0_3d5522b9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132685_1_41a29838.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132685",
+        "link": {
+          "title": "Library — CyberQ Walkthrough",
+          "url": "https://medium.com/@harsh63952/library-cyberq-walkthrough-977ec11b7757?source=rss------sql_injection-5"
+        }
+      },
+      {
+        "id": 132684,
+        "text": "⤷\nTitle:\nLocal Authority — picoCTF Write-up | Exposing Credentials Through Client-Side JavaScript\n════════════════════════\n𐀪\nAuthor:\nAffanhaxor\n════════════════════════\nⴵ\nTime:\nFri, 18 Sep 2026 05:52:35 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#hacking\n#ctf\n#cybersecurity\n#web_security",
+        "date": "2026-09-18T06:03:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132684_0_3d5522b9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132684_1_d5ac92ce.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132684",
+        "link": {
+          "title": "Local Authority — picoCTF Write-up | Exposing Credentials Through Client-Side JavaScript",
+          "url": "https://medium.com/@affanhaxor/local-authority-picoctf-write-up-exposing-credentials-through-client-side-javascript-eb91ee821c5a?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 132683,
+        "text": "⤷\nTitle:\nThe Anatomy of an Open Redirect: What I Learned from Analyzing 80+ HackerOne Reports\n════════════════════════\n𐀪\nAuthor:\ngopi krishnan\n════════════════════════\nⴵ\nTime:\nFri, 18 Sep 2026 05:13:29 GMT\n════════════════════════\n⌗\nTags:\n#web_development\n#penetration_testing\n#bug_bounty_tips\n#bug_bounty\n#cybersecurity",
+        "date": "2026-09-18T06:03:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132683_0_3d5522b9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132683_1_6e0f17f9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132683",
+        "link": {
+          "title": "The Anatomy of an Open Redirect: What I Learned from Analyzing 80+ HackerOne Reports",
+          "url": "https://infosecwriteups.com/the-anatomy-of-an-open-redirect-what-i-learned-from-analyzing-80-hackerone-reports-ec801d256201?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 132682,
         "text": "⤷\nTitle:\nThe Dark Web: Understanding the Hidden Layer of the Internet\n════════════════════════\n𐀪\nAuthor:\nN0aziXss\n════════════════════════\nⴵ\nTime:\nFri, 18 Sep 2026 03:16:26 GMT\n════════════════════════\n⌗\nTags:\n#darkweb\n#tor\n#ethical_hacking\n#cybersecurity\n#infosec",
         "date": "2026-09-18T04:04:25+00:00",
@@ -1862,436 +2272,22 @@
           "title": "Tag 10 — Der Beginn der Reise auf TryHackMe: Eine SOC-Trainingsplattform für Anfänger",
           "url": "https://medium.com/@yonatan.prawira7/tag-10-der-beginn-der-reise-auf-tryhackme-eine-soc-trainingsplattform-f%C3%BCr-anf%C3%A4nger-493af235a068?source=rss------tryhackme-5"
         }
-      },
-      {
-        "id": 132570,
-        "text": "⤷\nTitle:\nCisco Patches 18 Secure Firewall Flaws, Several Root RCE\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 17 Sep 2026 02:02:51 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#cisco\n#Cisco\nASA\n#Cisco\nSecure Firewall\n#CVE_2026_20242\n#CVE_2026_20324\n#Firewall\nManagement Center\n#Remote\nCode Execution\n#Threat\nDefense",
-        "date": "2026-09-17T04:04:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132570_0_6727b7c1.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132570_1_b0f7dfff.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132570",
-        "link": {
-          "title": "Cisco Patches 18 Secure Firewall Flaws, Several Root RCE",
-          "url": "https://securityonline.info/cisco-secure-firewall-vulnerabilities-september-2026/"
-        }
-      },
-      {
-        "id": 132569,
-        "text": "⤷\nTitle:\nCVE-2026-39919: Ghostscript Flaw Allows Unauthenticated Remote Code Execution\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 17 Sep 2026 02:18:58 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#buffer\noverflow\n#CVE_2026_39919\n#Ghostscript\n#Remote\nCode Execution\n#Vulnerability",
-        "date": "2026-09-17T04:04:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132569_0_6727b7c1.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132569_1_9c83c3e2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132569",
-        "link": {
-          "title": "CVE-2026-39919: Ghostscript Flaw Allows Unauthenticated Remote Code Execution",
-          "url": "https://securityonline.info/ghostscript-buffer-overflow-cve-2026-39919/"
-        }
-      },
-      {
-        "id": 132568,
-        "text": "⤷\nTitle:\nCritical Docker Sandboxes Vulnerabilities Patched\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 17 Sep 2026 02:31:48 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_77179\n#CVE_2026_79994\n#docker\n#Docker\nSandboxes\n#Vulnerability",
-        "date": "2026-09-17T04:03:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132568_0_6727b7c1.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132568_1_16cc696f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132568",
-        "link": {
-          "title": "Critical Docker Sandboxes Vulnerabilities Patched",
-          "url": "https://securityonline.info/docker-sandboxes-vulnerabilities-patched/"
-        }
-      },
-      {
-        "id": 132567,
-        "text": "⤷\nTitle:\nCVE-2026-89775 (CVSS 9.3): Linux Kernel LPE to Gain Root Flaw in KVM\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 17 Sep 2026 02:39:45 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#ARM64\n#CVE_2026_89775\n#KVM\n#Linux\nKernel\n#privilege\nescalation\n#Vulnerability",
-        "date": "2026-09-17T04:03:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132567_0_6727b7c1.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132567_1_db38b977.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132567",
-        "link": {
-          "title": "CVE-2026-89775 (CVSS 9.3): Linux Kernel LPE to Gain Root Flaw in KVM",
-          "url": "https://securityonline.info/kvm-guest-escape-cve-2026-89775/"
-        }
-      },
-      {
-        "id": 132566,
-        "text": "⤷\nTitle:\nUnbound DNS Vulnerabilities Expose Resolvers to RCE\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 17 Sep 2026 02:53:23 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_81634\n#CVE_2026_81642\n#CVE_2026_82717\n#dns\n#DNSSEC\n#Unbound\n#Vulnerability",
-        "date": "2026-09-17T04:03:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132566_0_6727b7c1.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132566_1_f4e25257.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132566",
-        "link": {
-          "title": "Unbound DNS Vulnerabilities Expose Resolvers to RCE",
-          "url": "https://securityonline.info/unbound-dns-vulnerabilities-rce/"
-        }
-      },
-      {
-        "id": 132565,
-        "text": "⤷\nTitle:\nApache NiFi Vulnerabilities Expose Data Pipelines to Attacks\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 17 Sep 2026 03:07:09 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Apache\nMyFaces\n#Apache\nNiFi\n#CVE_2026_70469\n#CVE_2026_76646\n#CVE_2026_87976\n#Vulnerability",
-        "date": "2026-09-17T04:03:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132565_0_6727b7c1.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132565_1_4ec7d72e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132565",
-        "link": {
-          "title": "Apache NiFi Vulnerabilities Expose Data Pipelines to Attacks",
-          "url": "https://securityonline.info/apache-nifi-vulnerabilities-security-updates/"
-        }
-      },
-      {
-        "id": 132564,
-        "text": "⤷\nTitle:\nHacking your child’s bad habits\n════════════════════════\n𐀪\nAuthor:\nyesimxev\n════════════════════════\nⴵ\nTime:\nThu, 17 Sep 2026 00:21:57 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#nature\n#systems_thinking\n#mindfulness\n#programming",
-        "date": "2026-09-17T02:04:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132564_0_6727b7c1.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132564_1_94146847.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132564",
-        "link": {
-          "title": "Hacking your child’s bad habits",
-          "url": "https://medium.com/@yesimxev/hacking-your-childs-bad-habits-ac0e72acf297?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 132563,
-        "text": "⤷\nTitle:\nMy CRTA Preparation Experience | ZishanHack CRTA Notes\n════════════════════════\n𐀪\nAuthor:\nLisa Sec\n════════════════════════\nⴵ\nTime:\nThu, 17 Sep 2026 01:14:50 GMT\n════════════════════════\n⌗\nTags:\n#red_teaming\n#ethical_hacking\n#cyberwarfare_labs\n#crta",
-        "date": "2026-09-17T02:04:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132563_0_6727b7c1.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132563_1_97a83642.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132563",
-        "link": {
-          "title": "My CRTA Preparation Experience | ZishanHack CRTA Notes",
-          "url": "https://medium.com/@lisasecurity/my-crta-preparation-experience-zishanhack-crta-notes-8ed931fcad67?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 132562,
-        "text": "⤷\nTitle:\nTryHackMe-Phantom Fob Lab\n════════════════════════\n𐀪\nAuthor:\noiho\n════════════════════════\nⴵ\nTime:\nThu, 17 Sep 2026 00:22:02 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#networking\n#reverse_engineering\n#information_security\n#cybersecurity",
-        "date": "2026-09-17T02:04:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132562_0_6727b7c1.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132562_1_fc36a798.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132562",
-        "link": {
-          "title": "TryHackMe-Phantom Fob Lab",
-          "url": "https://medium.com/@tlu8409/tryhackme-phantom-fob-lab-56c886cde1e6?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 132561,
-        "text": "⤷\nTitle:\nTraining Impact on Teams: Building the Business Case for Cyber Security Training\n════════════════════════\n𐀪\nAuthor:\nJonathan Sanfer\n════════════════════════\nⴵ\nTime:\nThu, 17 Sep 2026 01:02:24 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#tryhackme\n#tryhackme_walkthrough\n#career_advice\n#infosec",
-        "date": "2026-09-17T02:04:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132561_0_6727b7c1.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132561_1_8fc13999.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132561",
-        "link": {
-          "title": "Training Impact on Teams: Building the Business Case for Cyber Security Training",
-          "url": "https://medium.com/@jonathan.sanfer/training-impact-on-teams-building-the-business-case-for-cyber-security-training-8b4f0f293814?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 132560,
-        "text": "⤷\nTitle:\nA “200 OK” Is Not Proof That the Account Exists\n════════════════════════\n𐀪\nAuthor:\nAryan\n════════════════════════\nⴵ\nTime:\nThu, 17 Sep 2026 00:52:17 GMT\n════════════════════════\n⌗\nTags:\n#startup\n#hacking\n#cyber_stalking\n#cybersecurity\n#osint",
-        "date": "2026-09-17T02:04:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132560_0_6727b7c1.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132560_1_058f96ab.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132560",
-        "link": {
-          "title": "A “200 OK” Is Not Proof That the Account Exists",
-          "url": "https://medium.com/@aryan_86562/a-200-ok-is-not-proof-that-the-account-exists-84ea4cf9f961?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 132559,
-        "text": "⤷\nTitle:\nHow to Start Bug Bounty Hunting in 2026\n════════════════════════\n𐀪\nAuthor:\nGMM\n════════════════════════\nⴵ\nTime:\nThu, 17 Sep 2026 00:46:43 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#ethical_hacking\n#web_security\n#artificial_intelligence\n#cybersecurity",
-        "date": "2026-09-17T02:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132559_0_6727b7c1.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132559_1_54bcf07c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132559",
-        "link": {
-          "title": "How to Start Bug Bounty Hunting in 2026",
-          "url": "https://blog.stackademic.com/how-to-start-bug-bounty-hunting-in-2026-4a932f1fb214?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 132558,
-        "text": "⤷\nTitle:\nJenkins Patches 20 Plugin Flaws, Sandbox Bypasses Lead RCE\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 17 Sep 2026 01:37:39 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CI\n/CD security\n#CVE_2026_92122\n#CVE_2026_92137\n#Jenkins\n#Remote\nCode Execution\n#Sandbox\nBypass\n#Script\nSecurity Plugin",
-        "date": "2026-09-17T02:03:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132558_0_6727b7c1.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132558_1_7e35d9fb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132558",
-        "link": {
-          "title": "Jenkins Patches 20 Plugin Flaws, Sandbox Bypasses Lead RCE",
-          "url": "https://securityonline.info/jenkins-plugin-vulnerabilities-september-2026/"
-        }
-      },
-      {
-        "id": 132557,
-        "text": "⤷\nTitle:\nCisco Patches Critical Cisco ISE Vulnerabilities\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 17 Sep 2026 01:40:57 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#cisco\n#Cisco\nISE\n#CVE_2026_20130\n#CVE_2026_20307\n#CVE_2026_76423\n#Remote\nCode Execution\n#Vulnerability",
-        "date": "2026-09-17T02:03:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132557_0_6727b7c1.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132557_1_89facd6f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132557",
-        "link": {
-          "title": "Cisco Patches Critical Cisco ISE Vulnerabilities",
-          "url": "https://securityonline.info/cisco-ise-vulnerabilities-2/"
-        }
-      },
-      {
-        "id": 132556,
-        "text": "⤷\nTitle:\nT-Mobile 5G Box Vulnerabilities Require Urgent Action\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 17 Sep 2026 01:57:02 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#5G\nBox\n#CVE_2026_40854\n#CVE_2026_40855\n#CVE_2026_58146\n#T_Mobile",
-        "date": "2026-09-17T02:03:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132556_0_6727b7c1.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132556_1_88a96210.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132556",
-        "link": {
-          "title": "T-Mobile 5G Box Vulnerabilities Require Urgent Action",
-          "url": "https://securityonline.info/t-mobile-5g-box-vulnerabilities/"
-        }
-      },
-      {
-        "id": 132555,
-        "text": "⤷\nTitle:\nCybersecurity’s Biggest Lie in 2026: “We Take Security Seriously”\n════════════════════════\n𐀪\nAuthor:\nYua Mikanana\n════════════════════════\nⴵ\nTime:\nWed, 16 Sep 2026 22:51:55 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#technology\n#cyber_security_awareness\n#cybercrime\n#cybersecurity",
-        "date": "2026-09-17T00:03:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132555_0_6727b7c1.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132555_1_2fd41017.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132555",
-        "link": {
-          "title": "Cybersecurity’s Biggest Lie in 2026: “We Take Security Seriously”",
-          "url": "https://medium.com/@yua.mikanana19/cybersecuritys-biggest-lie-in-2026-we-take-security-seriously-3ed10f2d675a?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 132554,
-        "text": "⤷\nTitle:\nUnauthenticated Next.js Server Actions Leading to Zero Click Account Takeover\n════════════════════════\n𐀪\nAuthor:\nMahmoud Farag\n════════════════════════\nⴵ\nTime:\nWed, 16 Sep 2026 23:48:56 GMT\n════════════════════════\n⌗\nTags:\n#nextjs\n#account_takeover\n#web_security\n#bug_bounty\n#cybersecurity",
-        "date": "2026-09-17T00:03:48+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132554_0_6727b7c1.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132554_1_62fedaf2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132554",
-        "link": {
-          "title": "Unauthenticated Next.js Server Actions Leading to Zero Click Account Takeover",
-          "url": "https://medium.com/@mahmoudfarag.rm4/unauthenticated-next-js-server-actions-leading-to-zero-click-account-takeover-0b7d3d5a1039?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 132553,
-        "text": "⤷\nTitle:\nThe Five-Month Window\n════════════════════════\n𐀪\nAuthor:\nAlexius McMullin\n════════════════════════\nⴵ\nTime:\nWed, 16 Sep 2026 20:49:44 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#software_vulnerabilities\n#jwt\n#api_security\n#enterprise_security",
-        "date": "2026-09-16T22:04:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132553_0_6727b7c1.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132553_1_764b6e45.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132553",
-        "link": {
-          "title": "The Five-Month Window",
-          "url": "https://medium.com/@mcmullinalexius/the-five-month-window-3e7acc1f6a12?source=rss------api_security-5"
-        }
       }
     ]
   },
-  "last_update": "2026-09-18T05:22:12.666151+00:00",
+  "last_update": "2026-09-18T09:56:30.874642+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 194,
-    "total_files": 194,
+    "total_media": 193,
+    "total_files": 193,
     "total_links": 0,
     "files_by_type": {
-      "image": 194
+      "image": 193
     },
-    "referenced_files": 194,
-    "existing_media_files": 194,
-    "total_size_mb": 5.52,
-    "last_calculation": "2026-09-18T05:22:12.668020+00:00"
+    "referenced_files": 193,
+    "existing_media_files": 193,
+    "total_size_mb": 5.75,
+    "last_calculation": "2026-09-18T09:56:30.876425+00:00"
   }
 }
