@@ -2,6 +2,205 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 132778,
+        "text": "⤷\nTitle:\nAnatomy of a Phishing Link: How I Traced a Suspicious Email Back to a Compromised Domain\n════════════════════════\n𐀪\nAuthor:\nDarvensley Esperance\n════════════════════════\nⴵ\nTime:\nFri, 18 Sep 2026 20:42:17 GMT\n════════════════════════\n⌗\nTags:\n#phising\n#mitre_attack_framework\n#cybersecurity\n#infosec",
+        "date": "2026-09-18T22:04:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132778_0_31412d0d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132778_1_f79ef284.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132778",
+        "link": {
+          "title": "Anatomy of a Phishing Link: How I Traced a Suspicious Email Back to a Compromised Domain",
+          "url": "https://medium.com/@marckenrho2/anatomy-of-a-phishing-link-how-i-traced-a-suspicious-email-back-to-a-compromised-domain-c8bc1c3e4bc5?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 132777,
+        "text": "⤷\nTitle:\nPython Obfuscator & Virtualizer\n════════════════════════\n𐀪\nAuthor:\nBartosz Wójcik\n════════════════════════\nⴵ\nTime:\nFri, 18 Sep 2026 20:13:16 GMT\n════════════════════════\n⌗\nTags:\n#python_programming\n#programming\n#hacking\n#python\n#python_libraries",
+        "date": "2026-09-18T22:04:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132777_0_31412d0d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132777",
+        "link": {
+          "title": "Python Obfuscator & Virtualizer",
+          "url": "https://medium.com/swlh/python-obfuscator-virtualizer-644a0a9252bb?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 132776,
+        "text": "⤷\nTitle:\nMy Second Bug Bounty Report: A P1 That Turned Into a Duplicate\n════════════════════════\n𐀪\nAuthor:\nZubair Ahmed\n════════════════════════\nⴵ\nTime:\nFri, 18 Sep 2026 20:34:29 GMT\n════════════════════════\n⌗\nTags:\n#bug_hunting\n#security\n#hacking\n#cybersecurity\n#pentesting",
+        "date": "2026-09-18T22:04:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132776_0_31412d0d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132776_1_26c2f06f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132776",
+        "link": {
+          "title": "My Second Bug Bounty Report: A P1 That Turned Into a Duplicate",
+          "url": "https://zubairahm3d.medium.com/my-second-bug-bounty-report-a-p1-that-turned-into-a-duplicate-152f3dc3c286?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 132775,
+        "text": "⤷\nTitle:\n“AI Will Hack Everything.” What Should We Build Differently?\n════════════════════════\n𐀪\nAuthor:\nneurons.me\n════════════════════════\nⴵ\nTime:\nFri, 18 Sep 2026 21:31:01 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#programming\n#ai",
+        "date": "2026-09-18T22:04:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132775_0_31412d0d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132775_1_17890651.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132775",
+        "link": {
+          "title": "“AI Will Hack Everything.” What Should We Build Differently?",
+          "url": "https://medium.com/codex/ai-will-hack-everything-what-should-we-build-differently-3821ea003156?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 132774,
+        "text": "⤷\nTitle:\nThe Secure Code Review Challenge — Solution #5: Notekeeper (Insecure Deserialization)\n════════════════════════\n𐀪\nAuthor:\nMohamed AboElKheir\n════════════════════════\nⴵ\nTime:\nFri, 18 Sep 2026 21:19:18 GMT\n════════════════════════\n⌗\nTags:\n#software_development\n#code_review\n#cybersecurity\n#application_security",
+        "date": "2026-09-18T22:04:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132774_0_31412d0d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132774_1_686a15c3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132774",
+        "link": {
+          "title": "The Secure Code Review Challenge — Solution #5: Notekeeper (Insecure Deserialization)",
+          "url": "https://medium.com/appsec-untangled/the-secure-code-review-challenge-solution-5-notekeeper-insecure-deserialization-c27b745ff7b5?source=rss------application_security-5"
+        }
+      },
+      {
+        "id": 132773,
+        "text": "⤷\nTitle:\nMutation XSS (mXSS): How to hunt it\n════════════════════════\n𐀪\nAuthor:\njulichaan\n════════════════════════\nⴵ\nTime:\nFri, 18 Sep 2026 20:18:46 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#pentesting\n#cybersecurity\n#hacking\n#red_team",
+        "date": "2026-09-18T22:04:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132773_0_31412d0d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132773_1_1c418621.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132773",
+        "link": {
+          "title": "Mutation XSS (mXSS): How to hunt it",
+          "url": "https://medium.com/@espadar.julian/mutation-xss-mxss-how-to-hunt-it-32fec751c566?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 132772,
+        "text": "⤷\nTitle:\n€1500 | 2FA Bypass: How We Bypassed the 2nd Factor Without Ever Passing It\n════════════════════════\n𐀪\nAuthor:\nAshar Mahmood\n════════════════════════\nⴵ\nTime:\nFri, 18 Sep 2026 20:44:49 GMT\n════════════════════════\n⌗\nTags:\n#bugbounty_writeup\n#infosec\n#ai\n#cybersecurity\n#bug_bounty",
+        "date": "2026-09-18T22:04:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132772_0_31412d0d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132772_1_164a84d3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132772",
+        "link": {
+          "title": "€1500 | 2FA Bypass: How We Bypassed the 2nd Factor Without Ever Passing It",
+          "url": "https://medium.com/@asharm.khan7/1500-2fa-bypass-how-we-bypassed-the-2nd-factor-without-ever-passing-it-1bd085d4a126?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 132771,
+        "text": "⤷\nTitle:\nHigh-Velocity Recon: Top 5 Extensions to Intercept and Extract Attack Surfaces\n════════════════════════\n𐀪\nAuthor:\nPratham\n════════════════════════\nⴵ\nTime:\nFri, 18 Sep 2026 20:54:43 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#cybersecurity\n#osint\n#technology\n#bug_bounty",
+        "date": "2026-09-18T22:04:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132771_0_31412d0d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132771_1_19add56c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132771",
+        "link": {
+          "title": "High-Velocity Recon: Top 5 Extensions to Intercept and Extract Attack Surfaces",
+          "url": "https://medium.com/@bughunt3r1985/high-velocity-recon-top-5-extensions-to-intercept-and-extract-attack-surfaces-00c04fa28e4f?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 132770,
+        "text": "⤷\nTitle:\nPublic Exploits Released for Four Linux Kernel Flaws That Enable Local Root\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nFri, 18 Sep 2026 23:32:24 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-09-18T22:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132770_0_31412d0d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132770",
+        "link": {
+          "title": "Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root",
+          "url": "https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html"
+        }
+      },
+      {
         "id": 132769,
         "text": "⤷\nTitle:\nWhy Admin Panel Subdomain vs Path Isn’t a Security Decision\n════════════════════════\n𐀪\nAuthor:\nFOLAKE SOWONOYE\n════════════════════════\nⴵ\nTime:\nFri, 18 Sep 2026 18:55:31 GMT\n════════════════════════\n⌗\nTags:\n#backend_development\n#cybersecurity\n#access_control\n#web_development\n#api_security",
         "date": "2026-09-18T20:04:11+00:00",
@@ -2057,229 +2256,22 @@
           "title": "CyberOps CTF Write-Up: From Command Injection to Root Privileges",
           "url": "https://medium.com/@muh4mmetdurgun/cyberops-ctf-write-up-from-command-injection-to-root-privileges-0215cce51c85?source=rss------penetration_testing-5"
         }
-      },
-      {
-        "id": 132667,
-        "text": "⤷\nTitle:\nGetting Hands-On with Linux: My Journey into File System Management\n════════════════════════\n𐀪\nAuthor:\nOlumide Victor\n════════════════════════\nⴵ\nTime:\nThu, 17 Sep 2026 22:59:15 GMT\n════════════════════════\n⌗\nTags:\n#cybercrime\n#penetration_testing\n#linux\n#cybersecurity",
-        "date": "2026-09-18T00:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132667_0_3d5522b9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132667_1_bfabc98a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132667",
-        "link": {
-          "title": "Getting Hands-On with Linux: My Journey into File System Management",
-          "url": "https://medium.com/@victorholumide11/getting-hands-on-with-linux-my-journey-into-file-system-management-69a5f850bae4?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 132666,
-        "text": "⤷\nTitle:\nWhen JavaScript Gets Confused: A Look at Chrome’s V8 Vulnerabilities\n════════════════════════\n𐀪\nAuthor:\nFatima Zakir\n════════════════════════\nⴵ\nTime:\nThu, 17 Sep 2026 22:04:20 GMT\n════════════════════════\n⌗\nTags:\n#javascript\n#vulnerability\n#technology\n#hacking\n#cybersecurity",
-        "date": "2026-09-18T00:03:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132666_0_3d5522b9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132666_1_7a5ad072.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132666",
-        "link": {
-          "title": "When JavaScript Gets Confused: A Look at Chrome’s V8 Vulnerabilities",
-          "url": "https://medium.com/@fatimazakir1312/when-javascript-gets-confused-a-look-at-chromes-v8-vulnerabilities-bafa0f97524f?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 132665,
-        "text": "⤷\nTitle:\n15 Amazon Kitchen Organization Finds to Refresh Your Kitchen This Fall.\n════════════════════════\n𐀪\nAuthor:\nHome & Kitchen Picks\n════════════════════════\nⴵ\nTime:\nThu, 17 Sep 2026 23:08:52 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#short_story\n#fall",
-        "date": "2026-09-18T00:03:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132665_0_3d5522b9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132665_1_84758dd5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132665",
-        "link": {
-          "title": "15 Amazon Kitchen Organization Finds to Refresh Your Kitchen This Fall.",
-          "url": "https://medium.com/@mehjabeenmirza17/15-amazon-kitchen-organization-finds-to-refresh-your-kitchen-this-fall-586e82311ccf?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 132664,
-        "text": "⤷\nTitle:\nMembedah Capture The Flag: Mengapa Mindset dan Metodologi Lebih Penting Daripada Sekadar Tools\n════════════════════════\n𐀪\nAuthor:\nSatriodiannugroho\n════════════════════════\nⴵ\nTime:\nThu, 17 Sep 2026 20:18:40 GMT\n════════════════════════\n⌗\nTags:\n#ctf\n#web_security\n#ethical_hacking\n#technology\n#cybersecurity",
-        "date": "2026-09-17T22:04:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132664_0_3d5522b9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132664_1_2e176a94.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132664",
-        "link": {
-          "title": "Membedah Capture The Flag: Mengapa Mindset dan Metodologi Lebih Penting Daripada Sekadar Tools",
-          "url": "https://medium.com/@satriodiannugroho/membedah-capture-the-flag-mengapa-mindset-dan-metodologi-lebih-penting-daripada-sekadar-tools-fdcecca4a77f?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 132663,
-        "text": "⤷\nTitle:\nHow to Set Up a Kali Linux Ethical Hacking Lab in VirtualBox (Step-by-Step)\n════════════════════════\n𐀪\nAuthor:\nKalana Yasassri\n════════════════════════\nⴵ\nTime:\nThu, 17 Sep 2026 20:25:30 GMT\n════════════════════════\n⌗\nTags:\n#kali_linux\n#ethical_hacking\n#virtualbox\n#cybersecurity\n#penetration_testing",
-        "date": "2026-09-17T22:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132663_0_3d5522b9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132663_1_e5e3db8c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132663",
-        "link": {
-          "title": "How to Set Up a Kali Linux Ethical Hacking Lab in VirtualBox (Step-by-Step)",
-          "url": "https://medium.com/@kalanayasassri/how-to-set-up-a-kali-linux-ethical-hacking-lab-in-virtualbox-step-by-step-c1987cf2ba7c?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 132662,
-        "text": "⤷\nTitle:\nHow I Check Whether a Suspicious File Is Packed or Obfuscated: 10 Practical Steps\n════════════════════════\n𐀪\nAuthor:\nCybersecurity, AI, Malwares & Tech\n════════════════════════\nⴵ\nTime:\nThu, 17 Sep 2026 20:25:16 GMT\n════════════════════════\n⌗\nTags:\n#technology\n#malware_analysis\n#hacking\n#software_engineering\n#cybersecurity",
-        "date": "2026-09-17T22:03:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132662_0_3d5522b9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132662_1_3c66bead.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132662",
-        "link": {
-          "title": "How I Check Whether a Suspicious File Is Packed or Obfuscated: 10 Practical Steps",
-          "url": "https://medium.com/@anees78788878/how-i-check-whether-a-suspicious-file-is-packed-or-obfuscated-10-practical-steps-94b6d28636d2?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 132661,
-        "text": "⤷\nTitle:\nIAT Camouflage\n════════════════════════\n𐀪\nAuthor:\nS12 - 0x12Dark Development\n════════════════════════\nⴵ\nTime:\nThu, 17 Sep 2026 21:15:39 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#cybersecurity\n#infosec\n#pentesting\n#malware",
-        "date": "2026-09-17T22:03:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132661_0_3d5522b9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132661_1_bcb7e6f8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132661",
-        "link": {
-          "title": "IAT Camouflage",
-          "url": "https://medium.com/@s12deff/iat-camouflage-42b7dda15ea8?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 132660,
-        "text": "⤷\nTitle:\nPortSwigger Lab: Web shell upload via Content-Type restriction bypass\n════════════════════════\n𐀪\nAuthor:\nsa0k0\n════════════════════════\nⴵ\nTime:\nThu, 17 Sep 2026 18:34:05 GMT\n════════════════════════\n⌗\nTags:\n#content_type_bypass\n#file_upload\n#burpsuite\n#rce",
-        "date": "2026-09-17T20:04:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132660_0_6727b7c1.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132660_1_b42453f0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132660",
-        "link": {
-          "title": "PortSwigger Lab: Web shell upload via Content-Type restriction bypass",
-          "url": "https://medium.com/@sa0k0/portswigger-lab-web-shell-upload-via-content-type-restriction-bypass-c5c50c9cda72?source=rss------rce-5"
-        }
-      },
-      {
-        "id": 132659,
-        "text": "⤷\nTitle:\nExploiting Cross-Site Scripting to Steal Cookies - PortSwigger Web Security Academy Lab Write-Up\n════════════════════════\n𐀪\nAuthor:\nOm Barot\n════════════════════════\nⴵ\nTime:\nThu, 17 Sep 2026 18:11:55 GMT\n════════════════════════\n⌗\nTags:\n#portswigger\n#burpsuite\n#web_security\n#ethical_hacking\n#cybersecurity",
-        "date": "2026-09-17T20:04:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132659_0_6727b7c1.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132659_1_0d8cbf4c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132659",
-        "link": {
-          "title": "Exploiting Cross-Site Scripting to Steal Cookies - PortSwigger Web Security Academy Lab Write-Up",
-          "url": "https://medium.com/@llombarotll/exploiting-cross-site-scripting-to-steal-cookies-portswigger-web-security-academy-lab-write-up-fd8fb2ee6a88?source=rss------ethical_hacking-5"
-        }
       }
     ]
   },
-  "last_update": "2026-09-18T22:00:50.420434+00:00",
+  "last_update": "2026-09-18T23:53:36.597573+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 191,
-    "total_files": 191,
+    "total_media": 189,
+    "total_files": 189,
     "total_links": 0,
     "files_by_type": {
-      "image": 191
+      "image": 189
     },
-    "referenced_files": 191,
-    "existing_media_files": 191,
-    "total_size_mb": 5.62,
-    "last_calculation": "2026-09-18T22:00:50.422813+00:00"
+    "referenced_files": 189,
+    "existing_media_files": 189,
+    "total_size_mb": 5.21,
+    "last_calculation": "2026-09-18T23:53:36.599896+00:00"
   }
 }
