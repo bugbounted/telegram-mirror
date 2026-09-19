@@ -2,6 +2,75 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 132781,
+        "text": "⤷\nTitle:\nOne Typo Was All It Took. HTB Sherlocks: “Noxious”\n════════════════════════\n𐀪\nAuthor:\nTyler Reynolds\n════════════════════════\nⴵ\nTime:\nFri, 18 Sep 2026 22:32:56 GMT\n════════════════════════\n⌗\nTags:\n#dfir\n#cybersecurity\n#blue_team\n#networking\n#infosec",
+        "date": "2026-09-19T00:03:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132781_0_31412d0d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132781_1_226aa744.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132781",
+        "link": {
+          "title": "One Typo Was All It Took. HTB Sherlocks: “Noxious”",
+          "url": "https://medium.com/@treynolds172/one-typo-was-all-it-took-htb-sherlocks-noxious-b034d073b5c7?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 132780,
+        "text": "⤷\nTitle:\nFree Streaming, Hidden Risks: How Fake OTT Websites Harvest User Credentials\n════════════════════════\n𐀪\nAuthor:\nThreatWatch360\n════════════════════════\nⴵ\nTime:\nFri, 18 Sep 2026 23:58:21 GMT\n════════════════════════\n⌗\nTags:\n#infosec_write_ups\n#infosec",
+        "date": "2026-09-19T00:03:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132780_0_31412d0d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132780_1_a5528223.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132780",
+        "link": {
+          "title": "Free Streaming, Hidden Risks: How Fake OTT Websites Harvest User Credentials",
+          "url": "https://threatwatch360.medium.com/free-streaming-hidden-risks-how-fake-ott-websites-harvest-user-credentials-39473c8afb01?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 132779,
+        "text": "⤷\nTitle:\nDe una imagen al código interno de OpenAI: la cadena de fallos que Claude ayudó a explotar\n════════════════════════\n𐀪\nAuthor:\nTU INSIGNIA\n════════════════════════\nⴵ\nTime:\nFri, 18 Sep 2026 23:02:09 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#ai_agent\n#generative_ai_tools\n#hacking\n#ai",
+        "date": "2026-09-19T00:03:46+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132779_0_31412d0d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_132779_1_57825374.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/132779",
+        "link": {
+          "title": "De una imagen al código interno de OpenAI: la cadena de fallos que Claude ayudó a explotar",
+          "url": "https://medium.com/@TUINSIGNIA/de-una-imagen-al-c%C3%B3digo-interno-de-openai-la-cadena-de-fallos-que-claude-ayud%C3%B3-a-explotar-b6458727f609?source=rss------hacking-5"
+        }
+      },
+      {
         "id": 132778,
         "text": "⤷\nTitle:\nAnatomy of a Phishing Link: How I Traced a Suspicious Email Back to a Compromised Domain\n════════════════════════\n𐀪\nAuthor:\nDarvensley Esperance\n════════════════════════\nⴵ\nTime:\nFri, 18 Sep 2026 20:42:17 GMT\n════════════════════════\n⌗\nTags:\n#phising\n#mitre_attack_framework\n#cybersecurity\n#infosec",
         "date": "2026-09-18T22:04:26+00:00",
@@ -2187,79 +2256,10 @@
           "title": "TryHackMe Child Domain Exploitation Walkthrough",
           "url": "https://happycamper84.medium.com/tryhackme-child-domain-exploitation-walkthrough-c65f2777459a?source=rss------tryhackme-5"
         }
-      },
-      {
-        "id": 132670,
-        "text": "⤷\nTitle:\nTryHackMe Write-up: “Jump” Room (Linux Privilege Escalation)\n════════════════════════\n𐀪\nAuthor:\nseif anbar\n════════════════════════\nⴵ\nTime:\nFri, 18 Sep 2026 00:45:20 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#privilege_escalation\n#tryhackme\n#penetration_testing\n#ethical_hacking",
-        "date": "2026-09-18T02:03:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132670_0_3d5522b9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132670_1_f0af48e6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132670",
-        "link": {
-          "title": "TryHackMe Write-up: “Jump” Room (Linux Privilege Escalation)",
-          "url": "https://medium.com/@seifanbar49/tryhackme-write-up-jump-room-linux-privilege-escalation-89d393211c5f?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 132669,
-        "text": "⤷\nTitle:\nHow an Android OAuth Custom Scheme Became a Full Account Takeover\n════════════════════════\n𐀪\nAuthor:\n0xlight\n════════════════════════\nⴵ\nTime:\nFri, 18 Sep 2026 00:10:50 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#bug_bounty_writeup\n#android\n#bug_bounty_tips\n#bug_bounty",
-        "date": "2026-09-18T02:03:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132669_0_3d5522b9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132669_1_91e00d6d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132669",
-        "link": {
-          "title": "How an Android OAuth Custom Scheme Became a Full Account Takeover",
-          "url": "https://medium.com/@mohamedatefsarhan123/how-an-android-oauth-custom-scheme-became-a-full-account-takeover-4a43cd9a51ac?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 132668,
-        "text": "⤷\nTitle:\nCyberOps CTF Write-Up: From Command Injection to Root Privileges\n════════════════════════\n𐀪\nAuthor:\nMuhammet Durgun\n════════════════════════\nⴵ\nTime:\nThu, 17 Sep 2026 22:30:55 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#penetration_testing\n#cybersecurity\n#ctf\n#tryhackme_writeup",
-        "date": "2026-09-18T00:04:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132668_0_3d5522b9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132668_1_e1950e75.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132668",
-        "link": {
-          "title": "CyberOps CTF Write-Up: From Command Injection to Root Privileges",
-          "url": "https://medium.com/@muh4mmetdurgun/cyberops-ctf-write-up-from-command-injection-to-root-privileges-0215cce51c85?source=rss------penetration_testing-5"
-        }
       }
     ]
   },
-  "last_update": "2026-09-18T23:53:36.597573+00:00",
+  "last_update": "2026-09-19T01:52:52.779426+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2271,7 +2271,7 @@
     },
     "referenced_files": 189,
     "existing_media_files": 189,
-    "total_size_mb": 5.21,
-    "last_calculation": "2026-09-18T23:53:36.599896+00:00"
+    "total_size_mb": 5.33,
+    "last_calculation": "2026-09-19T01:52:52.781173+00:00"
   }
 }
