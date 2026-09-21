@@ -2,6 +2,462 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 133099,
+        "text": "⤷\nTitle:\nSecuring and Managing a Node.js REST API with WSO2 API Manager\n════════════════════════\n𐀪\nAuthor:\nKyaginthan\n════════════════════════\nⴵ\nTime:\nMon, 21 Sep 2026 20:58:25 GMT\n════════════════════════\n⌗\nTags:\n#api_security\n#wso2\n#api_management\n#rest_api\n#nodejs",
+        "date": "2026-09-21T22:04:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133099_0_6fb793d4.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133099_1_13805478.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/133099",
+        "link": {
+          "title": "Securing and Managing a Node.js REST API with WSO2 API Manager",
+          "url": "https://medium.com/@kyaginthan/securing-and-managing-a-node-js-rest-api-with-wso2-api-manager-7571c24a62b9?source=rss------api_security-5"
+        }
+      },
+      {
+        "id": 133098,
+        "text": "⤷\nTitle:\nPart 9—Advance Windows Investigation Series—The Clean Exit Full Walkthrough (THM)\n════════════════════════\n𐀪\nAuthor:\nSuraj Singh\n════════════════════════\nⴵ\nTime:\nMon, 21 Sep 2026 20:46:19 GMT\n════════════════════════\n⌗\nTags:\n#digital_forensics\n#cybersecurity\n#tryhackme\n#thecleanexit",
+        "date": "2026-09-21T22:04:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133098_0_6fb793d4.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133098_1_579ae989.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/133098",
+        "link": {
+          "title": "Part 9—Advance Windows Investigation Series—The Clean Exit Full Walkthrough (THM)",
+          "url": "https://medium.com/@surya9900k/part-9-advance-windows-investigation-series-the-clean-exit-full-walkthough-thm-bb10d1b81b82?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 133097,
+        "text": "⤷\nTitle:\nLinux Capture The Flag Bandit Level 19\n════════════════════════\n𐀪\nAuthor:\nRed\n════════════════════════\nⴵ\nTime:\nMon, 21 Sep 2026 20:06:49 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ctf\n#education\n#infosec\n#linux",
+        "date": "2026-09-21T22:04:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133097_0_6fb793d4.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133097_1_bb4ae923.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/133097",
+        "link": {
+          "title": "Linux Capture The Flag Bandit Level 19",
+          "url": "https://meetcyber.net/linux-capture-the-flag-bandit-level-19-36ed3700ff25?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 133096,
+        "text": "⤷\nTitle:\nKerberos Fundamentals\n════════════════════════\n𐀪\nAuthor:\nTom O'Neill\n════════════════════════\nⴵ\nTime:\nMon, 21 Sep 2026 20:30:44 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#red_team\n#hacking\n#cybersecurity",
+        "date": "2026-09-21T22:04:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133096_0_6fb793d4.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133096_1_1047b39c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/133096",
+        "link": {
+          "title": "Kerberos Fundamentals",
+          "url": "https://medium.com/@toneillcodes/kerberos-fundamentals-b627819a07e2?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 133095,
+        "text": "⤷\nTitle:\nYour AI Gateway and Build Server Are the New Crown Jewels\n════════════════════════\n𐀪\nAuthor:\nVaibhav Tare\n════════════════════════\nⴵ\nTime:\nMon, 21 Sep 2026 21:37:45 GMT\n════════════════════════\n⌗\nTags:\n#generative_ai_tools\n#generative_ai_security\n#ai_security\n#vulnerability\n#hacking",
+        "date": "2026-09-21T22:04:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133095_0_6fb793d4.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133095_1_07710433.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/133095",
+        "link": {
+          "title": "Your AI Gateway and Build Server Are the New Crown Jewels",
+          "url": "https://vaibhavtare.medium.com/your-ai-gateway-and-build-server-are-the-new-crown-jewels-b1793bcb6fa2?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 133094,
+        "text": "⤷\nTitle:\nHackers Are Now Hacking Other Hackers. Cybercrime Has Become an Industry of Its Own\n════════════════════════\n𐀪\nAuthor:\nTech Dispatch\n════════════════════════\nⴵ\nTime:\nMon, 21 Sep 2026 21:47:25 GMT\n════════════════════════\n⌗\nTags:\n#shinyhunters\n#hacking\n#cybercrime\n#darkweb\n#zero_day_vulnerability",
+        "date": "2026-09-21T22:04:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133094_0_6fb793d4.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133094_1_9697d11d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/133094",
+        "link": {
+          "title": "Hackers Are Now Hacking Other Hackers. Cybercrime Has Become an Industry of Its Own",
+          "url": "https://medium.com/@neville_54260/hackers-are-now-hacking-other-hackers-cybercrime-has-become-an-industry-of-its-own-c82da7997146?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 133093,
+        "text": "⤷\nTitle:\nUnauthenticated Account Takeover: When the Password Reset API Hands You the Token\n════════════════════════\n𐀪\nAuthor:\nNeel Chauhan\n════════════════════════\nⴵ\nTime:\nMon, 21 Sep 2026 20:11:21 GMT\n════════════════════════\n⌗\nTags:\n#account_takeover\n#security_misconfiguration\n#bug_bounty",
+        "date": "2026-09-21T22:03:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133093_0_6fb793d4.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133093_1_b5673b5a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/133093",
+        "link": {
+          "title": "Unauthenticated Account Takeover: When the Password Reset API Hands You the Token",
+          "url": "https://medium.com/@neel.chauhan09/unauthenticated-account-takeover-when-the-password-reset-api-hands-you-the-token-11a62b9d4cf8?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 133092,
+        "text": "⤷\nTitle:\nBOLA in the Wild: Reading Another User’s Full Profile by Changing One UUID\n════════════════════════\n𐀪\nAuthor:\nNeel Chauhan\n════════════════════════\nⴵ\nTime:\nMon, 21 Sep 2026 20:11:48 GMT\n════════════════════════\n⌗\nTags:\n#idor\n#bola\n#bug_bounty",
+        "date": "2026-09-21T22:03:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133092_0_6fb793d4.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133092_1_f59a61f3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/133092",
+        "link": {
+          "title": "BOLA in the Wild: Reading Another User’s Full Profile by Changing One UUID",
+          "url": "https://medium.com/@neel.chauhan09/bola-in-the-wild-reading-another-users-full-profile-by-changing-one-uuid-e05ee078aa0e?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 133091,
+        "text": "⤷\nTitle:\nTurn a Rooted Android Phone into an NFC Authenticator and Automation Tool for Your PC\n════════════════════════\n𐀪\nAuthor:\nmh\n════════════════════════\nⴵ\nTime:\nMon, 21 Sep 2026 21:09:18 +0000\n════════════════════════\n⌗\nTags:\n#Bad\nUSB\n#NFC\n#RFID\n#HID\n#NetHunter\n#Rubber\nDucky",
+        "date": "2026-09-21T22:03:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133091_0_6fb793d4.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133091_1_b3a125a6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/133091",
+        "link": {
+          "title": "Turn a Rooted Android Phone into an NFC Authenticator and Automation Tool for Your PC",
+          "url": "https://www.mobile-hacker.com/2026/09/21/turn-a-rooted-android-phone-into-an-nfc-authenticator-and-automation-tool-for-your-pc/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=turn-a-rooted-android-phone-into-an-nfc-authenticator-and-automation-tool-for-your-pc"
+        }
+      },
+      {
+        "id": 133090,
+        "text": "⤷\nTitle:\nForging Password Reset Tokens in Under a Minute\n════════════════════════\n𐀪\nAuthor:\nOopsSec Store\n════════════════════════\nⴵ\nTime:\nMon, 21 Sep 2026 19:01:01 GMT\n════════════════════════\n⌗\nTags:\n#web_security\n#capture_the_flag\n#nextjs\n#ethical_hacking\n#cybersecurity",
+        "date": "2026-09-21T20:04:36+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133090_0_6fb793d4.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133090_1_d88e51ee.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/133090",
+        "link": {
+          "title": "Forging Password Reset Tokens in Under a Minute",
+          "url": "https://medium.com/@oopssec-store/forging-password-reset-tokens-in-under-a-minute-6d7c15a58f39?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 133089,
+        "text": "⤷\nTitle:\nLLMNR/NBT-NS Poisoning to SMB Access: Capturing and Cracking NTLMv2 in an Active Directory Lab\n════════════════════════\n𐀪\nAuthor:\nNajeebparkar\n════════════════════════\nⴵ\nTime:\nMon, 21 Sep 2026 19:16:58 GMT\n════════════════════════\n⌗\nTags:\n#pentesting\n#active_directory\n#cybersecurity_project\n#cybersecurity\n#ethical_hacking",
+        "date": "2026-09-21T20:04:33+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133089_0_6fb793d4.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133089_1_f9682b91.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/133089",
+        "link": {
+          "title": "LLMNR/NBT-NS Poisoning to SMB Access: Capturing and Cracking NTLMv2 in an Active Directory Lab",
+          "url": "https://medium.com/@najeebparkar15/llmnr-nbt-ns-poisoning-to-smb-access-capturing-and-cracking-ntlmv2-in-an-active-directory-lab-5fdd5d701296?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 133088,
+        "text": "⤷\nTitle:\nLinux diff Command: How SOC Analysts Catch Quiet Config Changes\n════════════════════════\n𐀪\nAuthor:\nXpert4Cyber\n════════════════════════\nⴵ\nTime:\nMon, 21 Sep 2026 19:24:54 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#soc_analyst\n#infosec\n#command_line\n#linux",
+        "date": "2026-09-21T20:04:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133088_0_6fb793d4.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133088_1_11feeacc.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/133088",
+        "link": {
+          "title": "Linux diff Command: How SOC Analysts Catch Quiet Config Changes",
+          "url": "https://medium.com/@xpert4cyber/linux-diff-command-how-soc-analysts-catch-quiet-config-changes-d3dc95346a25?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 133087,
+        "text": "⤷\nTitle:\nI Audited My Own Company’s Security. It Did Not Go the Way I Expected.\n════════════════════════\n𐀪\nAuthor:\nVIEH Group\n════════════════════════\nⴵ\nTime:\nMon, 21 Sep 2026 18:26:25 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#cybersecurity\n#pentesting",
+        "date": "2026-09-21T20:04:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133087_0_6fb793d4.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133087_1_742e08fe.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/133087",
+        "link": {
+          "title": "I Audited My Own Company’s Security. It Did Not Go the Way I Expected.",
+          "url": "https://medium.com/@viehgroup/i-audited-my-own-companys-security-it-did-not-go-the-way-i-expected-f476d8cc399d?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 133086,
+        "text": "⤷\nTitle:\nIf anyone has the sword, everyone needs the shield\n════════════════════════\n𐀪\nAuthor:\nJeremiah Dillon\n════════════════════════\nⴵ\nTime:\nMon, 21 Sep 2026 18:31:08 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#ai\n#artificial_intelligence\n#information_security\n#security",
+        "date": "2026-09-21T20:04:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133086_0_6fb793d4.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133086_1_4a947148.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/133086",
+        "link": {
+          "title": "If anyone has the sword, everyone needs the shield",
+          "url": "https://medium.com/@jeremiahdillon/if-anyone-has-the-sword-everyone-needs-the-shield-86bb795294f2?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 133085,
+        "text": "⤷\nTitle:\nUsers Are Opening Up Their Smart TVs With Screwdrivers.\n════════════════════════\n𐀪\nAuthor:\nShip X/ TechX\n════════════════════════\nⴵ\nTime:\nMon, 21 Sep 2026 18:36:15 GMT\n════════════════════════\n⌗\nTags:\n#writing\n#hardware\n#technology\n#television\n#hacking",
+        "date": "2026-09-21T20:04:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133085_0_6fb793d4.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133085_1_ccdad2a3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/133085",
+        "link": {
+          "title": "Users Are Opening Up Their Smart TVs With Screwdrivers.",
+          "url": "https://medium.com/techx-official/users-are-opening-up-their-smart-tvs-with-screwdrivers-2c77b6369a8b?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 133084,
+        "text": "⤷\nTitle:\nWalking Through the MITRE ATT&CK Framework: My First Deep Dive into Enterprise Tactics\n════════════════════════\n𐀪\nAuthor:\nBoluwatife Omosowon\n════════════════════════\nⴵ\nTime:\nMon, 21 Sep 2026 19:14:59 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#information_security\n#technology\n#programming\n#cybersecurity",
+        "date": "2026-09-21T20:04:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133084_0_6fb793d4.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133084_1_aac38726.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/133084",
+        "link": {
+          "title": "Walking Through the MITRE ATT&CK Framework: My First Deep Dive into Enterprise Tactics",
+          "url": "https://medium.com/@omosowonboluwatife16/walking-through-the-mitre-att-ck-framework-my-first-deep-dive-into-enterprise-tactics-fc00ff80dc51?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 133083,
+        "text": "⤷\nTitle:\nRanger: building a passive wireless‑sensing platform in Go\n════════════════════════\n𐀪\nAuthor:\nKamalesh D\n════════════════════════\nⴵ\nTime:\nMon, 21 Sep 2026 19:26:25 GMT\n════════════════════════\n⌗\nTags:\n#wifi\n#ai\n#wifihacking\n#object_detection\n#hacking",
+        "date": "2026-09-21T20:04:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133083_0_6fb793d4.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133083_1_642b9409.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/133083",
+        "link": {
+          "title": "Ranger: building a passive wireless‑sensing platform in Go",
+          "url": "https://kkamalesh117.medium.com/ranger-building-a-passive-wireless-sensing-platform-in-go-3e5fb8cbf19a?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 133082,
+        "text": "⤷\nTitle:\nThe Anthropic, Google, and OpenAI Coding-Agent Flaws Were in the Permission Layer\n════════════════════════\n𐀪\nAuthor:\nJonny Rivera\n════════════════════════\nⴵ\nTime:\nMon, 21 Sep 2026 18:34:22 GMT\n════════════════════════\n⌗\nTags:\n#application_security\n#ai_coding_agent\n#devsecops\n#software_supply_chain\n#ai_governance",
+        "date": "2026-09-21T20:04:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133082_0_6fb793d4.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133082_1_e9502c7d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/133082",
+        "link": {
+          "title": "The Anthropic, Google, and OpenAI Coding-Agent Flaws Were in the Permission Layer",
+          "url": "https://medium.com/governed-at-the-source/the-anthropic-google-and-openai-coding-agent-flaws-were-in-the-permission-layer-0b8a36e91c28?source=rss------application_security-5"
+        }
+      },
+      {
+        "id": 133081,
+        "text": "⤷\nTitle:\n$11,500 : Account Takeover via Race Condition in OAuth2 State Verification & Single-Use…\n════════════════════════\n𐀪\nAuthor:\nT4nv1\n════════════════════════\nⴵ\nTime:\nMon, 21 Sep 2026 19:01:01 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#hacking\n#bug_bounty_tips\n#cybersecurity\n#security",
+        "date": "2026-09-21T20:04:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133081_0_6fb793d4.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133081_1_dd030174.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/133081",
+        "link": {
+          "title": "$11,500 : Account Takeover via Race Condition in OAuth2 State Verification & Single-Use…",
+          "url": "https://medium.com/@t4nv1/11-500-account-takeover-via-race-condition-in-oauth2-state-verification-single-use-54cd5d544e10?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 133080,
+        "text": "⤷\nTitle:\nGoogle Fined €403 Million Over GDPR Violations Tied to Location Data\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nMon, 21 Sep 2026 22:27:31 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-09-21T20:04:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133080_0_6fb793d4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/133080",
+        "link": {
+          "title": "Google Fined €403 Million Over GDPR Violations Tied to Location Data",
+          "url": "https://thehackernews.com/2026/09/google-fined-403-million-over-gdpr.html"
+        }
+      },
+      {
         "id": 133077,
         "text": "⤷\nTitle:\nBuild Career-Ready Technology Skills with Sky States\n════════════════════════\n𐀪\nAuthor:\nSky States LLC\n════════════════════════\nⴵ\nTime:\nMon, 21 Sep 2026 16:07:04 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#education\n#data_science\n#ethical_hacking\n#cloud_computing",
         "date": "2026-09-21T18:04:04+00:00",
@@ -1836,474 +2292,22 @@
           "title": "How a Silent Websocket Led Me to Unauthenticated Uploads on a University’s Exam Platform",
           "url": "https://medium.com/@priyanshbhadoria5/the-anonymous-5-gb-file-host-that-almost-wasnt-how-a-silent-websocket-led-me-to-unauthenticated-c34120be1492?source=rss------bug_bounty-5"
         }
-      },
-      {
-        "id": 132952,
-        "text": "⤷\nTitle:\n$7,200 for One Request, Thousands of Guesses: Brute-Forcing MFA Through GraphQL Batching\n════════════════════════\n𐀪\nAuthor:\nT4nv1\n════════════════════════\nⴵ\nTime:\nSun, 20 Sep 2026 18:56:01 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#security\n#hacking\n#bug_bounty_tips\n#bug_bounty",
-        "date": "2026-09-20T20:04:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132952_0_ba538a31.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132952_1_4897f79b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132952",
-        "link": {
-          "title": "$7,200 for One Request, Thousands of Guesses: Brute-Forcing MFA Through GraphQL Batching",
-          "url": "https://medium.com/@t4nv1/7-200-for-one-request-thousands-of-guesses-brute-forcing-mfa-through-graphql-batching-84c5ebfe3ab7?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 132951,
-        "text": "⤷\nTitle:\nBroken Session Revocation: Proving That Logout Doesn’t Actually Log You Out\n════════════════════════\n𐀪\nAuthor:\nNeel Chauhan\n════════════════════════\nⴵ\nTime:\nSun, 20 Sep 2026 19:49:42 GMT\n════════════════════════\n⌗\nTags:\n#session_expiration\n#improper_authentication\n#bug_bounty\n#broken_session_revocation",
-        "date": "2026-09-20T20:04:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132951_0_ba538a31.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132951_1_0f6a7455.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132951",
-        "link": {
-          "title": "Broken Session Revocation: Proving That Logout Doesn’t Actually Log You Out",
-          "url": "https://medium.com/@neel.chauhan09/broken-session-revocation-proving-that-logout-doesnt-actually-log-you-out-c843047bf2b0?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 132950,
-        "text": "⤷\nTitle:\nPassword Reset Tokens That Never Die: Testing Invalidation, Not Just Generation\n════════════════════════\n𐀪\nAuthor:\nNeel Chauhan\n════════════════════════\nⴵ\nTime:\nSun, 20 Sep 2026 19:50:08 GMT\n════════════════════════\n⌗\nTags:\n#weak_password_recovery\n#session_expiration\n#password_reset_token\n#bug_bounty",
-        "date": "2026-09-20T20:04:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132950_0_ba538a31.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132950_1_7ee9e7c4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132950",
-        "link": {
-          "title": "Password Reset Tokens That Never Die: Testing Invalidation, Not Just Generation",
-          "url": "https://medium.com/@neel.chauhan09/password-reset-tokens-that-never-die-testing-invalidation-not-just-generation-7cb0aa5718be?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 132949,
-        "text": "⤷\nTitle:\nCritical IBM MQ Vulnerabilities CVE-2026-10747 Hit 10 CVSS\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nSun, 20 Sep 2026 19:20:59 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#buffer\noverflow\n#CVE_2026_10747\n#CVE_2026_10858\n#cybersecurity\n#IBM\nMQ",
-        "date": "2026-09-20T20:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132949_0_ba538a31.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132949_1_d4d9ad8b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132949",
-        "link": {
-          "title": "Critical IBM MQ Vulnerabilities CVE-2026-10747 Hit 10 CVSS",
-          "url": "https://securityonline.info/ibm-mq-vulnerabilities-cve-2026-10747/"
-        }
-      },
-      {
-        "id": 132948,
-        "text": "⤷\nTitle:\nWindows Server 2022 Mainstream Support Ends Soon\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nSun, 20 Sep 2026 19:32:33 +0000\n════════════════════════\n⌗\nTags:\n#Windows\n#Microsoft\n#Server\nUpdate\n#Windows\nServer 2022",
-        "date": "2026-09-20T20:03:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132948_0_ba538a31.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132948_1_126d6abf.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132948",
-        "link": {
-          "title": "Windows Server 2022 Mainstream Support Ends Soon",
-          "url": "https://securityonline.info/windows-server-2022-mainstream-support/"
-        }
-      },
-      {
-        "id": 132947,
-        "text": "⤷\nTitle:\nResolve Microsoft Excel Copy Paste Issues Now\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nSun, 20 Sep 2026 19:45:47 +0000\n════════════════════════\n⌗\nTags:\n#Windows\n#bug\nfix\n#Microsoft\nExcel\n#software\nupdate",
-        "date": "2026-09-20T20:03:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132947_0_ba538a31.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132947_1_861e5f96.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132947",
-        "link": {
-          "title": "Resolve Microsoft Excel Copy Paste Issues Now",
-          "url": "https://securityonline.info/excel-copy-paste-issue/"
-        }
-      },
-      {
-        "id": 132946,
-        "text": "⤷\nTitle:\nSQL Injection Lab 1 — How I Retrieved Hidden Data With One Line of Input\n════════════════════════\n𐀪\nAuthor:\nSabarinathkv\n════════════════════════\nⴵ\nTime:\nSun, 20 Sep 2026 16:26:49 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#pentesting\n#web_security\n#sql_injection\n#ethical_hacking",
-        "date": "2026-09-20T18:04:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132946_0_2291b1b8.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132946_1_b512ddd8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132946",
-        "link": {
-          "title": "SQL Injection Lab 1 — How I Retrieved Hidden Data With One Line of Input",
-          "url": "https://medium.com/@sabarinathkv369/sql-injection-lab-1-how-i-retrieved-hidden-data-with-one-line-of-input-16be48267cf6?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 132945,
-        "text": "⤷\nTitle:\nThe Responsible Disclosure Dilemma\n════════════════════════\n𐀪\nAuthor:\nAkif Shikhlarov\n════════════════════════\nⴵ\nTime:\nSun, 20 Sep 2026 16:37:53 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking",
-        "date": "2026-09-20T18:04:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132945_0_2291b1b8.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132945_1_12c8cba6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132945",
-        "link": {
-          "title": "The Responsible Disclosure Dilemma",
-          "url": "https://medium.com/@akifshikhlarov/the-responsible-disclosure-dilemma-3d57d5964a31?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 132944,
-        "text": "⤷\nTitle:\nWhat breaking into my first AD network actually taught me\n════════════════════════\n𐀪\nAuthor:\nAkbarsp\n════════════════════════\nⴵ\nTime:\nSun, 20 Sep 2026 15:57:52 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#active_directory",
-        "date": "2026-09-20T18:04:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132944_0_2291b1b8.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132944_1_627209cd.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132944",
-        "link": {
-          "title": "What breaking into my first AD network actually taught me",
-          "url": "https://medium.com/@akbarsp/what-breaking-into-my-first-ad-network-actually-taught-me-59e61d5caf13?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 132943,
-        "text": "⤷\nTitle:\nI Tried to Learn Everything I Could About a University’s Servers — Without Touching Them Once\n════════════════════════\n𐀪\nAuthor:\nJunaidluqman\n════════════════════════\nⴵ\nTime:\nSun, 20 Sep 2026 17:45:55 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ethical_hacking\n#osint\n#passive_reconnaissance\n#penetration_testing",
-        "date": "2026-09-20T18:04:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132943_0_2291b1b8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132943",
-        "link": {
-          "title": "I Tried to Learn Everything I Could About a University’s Servers — Without Touching Them Once",
-          "url": "https://medium.com/@junaidluqman68/i-tried-to-learn-everything-i-could-about-a-universitys-servers-without-touching-them-once-935f29f15d89?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 132942,
-        "text": "⤷\nTitle:\nGoogle Gemini Hacked Three Real Companies During a Security Test: What the AI Breakout Reveals…\n════════════════════════\n𐀪\nAuthor:\neL Njas!\n™\n════════════════════════\nⴵ\nTime:\nSun, 20 Sep 2026 17:31:37 GMT\n════════════════════════\n⌗\nTags:\n#ai_hack\n#gemini\n#infosec\n#ai_agent",
-        "date": "2026-09-20T18:04:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132942_0_2291b1b8.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132942_1_bda7f8ca.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132942",
-        "link": {
-          "title": "Google Gemini Hacked Three Real Companies During a Security Test: What the AI Breakout Reveals…",
-          "url": "https://medium.com/@elnjasi/google-gemini-hacked-three-real-companies-during-a-security-test-what-the-ai-breakout-reveals-2fa7edb6b103?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 132941,
-        "text": "⤷\nTitle:\nBusiness Email Compromise (BEC) : de la fraude email à un risque stratégique de confiance numérique\n════════════════════════\n𐀪\nAuthor:\nOmar Guemmi (奥马尔·格米)\n════════════════════════\nⴵ\nTime:\nSun, 20 Sep 2026 17:12:30 GMT\n════════════════════════\n⌗\nTags:\n#fraud_detection\n#hacking\n#email_marketing\n#risk_management\n#cybersecurity",
-        "date": "2026-09-20T18:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132941_0_2291b1b8.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132941_1_3432a579.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132941",
-        "link": {
-          "title": "Business Email Compromise (BEC) : de la fraude email à un risque stratégique de confiance numérique",
-          "url": "https://medium.com/@omar.guemmi/business-email-compromise-bec-de-la-fraude-email-%C3%A0-un-risque-strat%C3%A9gique-de-confiance-num%C3%A9rique-084f3e2a64bd?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 132940,
-        "text": "⤷\nTitle:\nAI Won’t Fix a Weak Security Foundation\n════════════════════════\n𐀪\nAuthor:\nCyber-AppSec\n════════════════════════\nⴵ\nTime:\nSun, 20 Sep 2026 17:31:16 GMT\n════════════════════════\n⌗\nTags:\n#ai\n#cybersecurity\n#information_security\n#chatgpt\n#application_security",
-        "date": "2026-09-20T18:03:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132940_0_2291b1b8.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132940_1_8be8889a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132940",
-        "link": {
-          "title": "AI Won’t Fix a Weak Security Foundation",
-          "url": "https://medium.com/@Cyber-AppSec/ai-wont-fix-a-weak-security-foundation-6dd7e7e45864?source=rss------application_security-5"
-        }
-      },
-      {
-        "id": 132939,
-        "text": "⤷\nTitle:\nHow I Found an Undocumented GraphQL Endpoint Leaking Home Addresses of French Company Owners (EUR…\n════════════════════════\n𐀪\nAuthor:\nanshh.bohara\n════════════════════════\nⴵ\nTime:\nSun, 20 Sep 2026 16:10:55 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_writeup\n#bug_bounty\n#bounties",
-        "date": "2026-09-20T18:03:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132939_0_2291b1b8.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132939_1_302a2a93.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132939",
-        "link": {
-          "title": "How I Found an Undocumented GraphQL Endpoint Leaking Home Addresses of French Company Owners (EUR…",
-          "url": "https://medium.com/@anshbohra10/how-i-found-an-undocumented-graphql-endpoint-leaking-home-addresses-of-french-company-owners-eur-8536b9dd0ec1?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 132938,
-        "text": "⤷\nTitle:\nAI Agents Have a Token Problem: When Valid Access Becomes Dangerous\n════════════════════════\n𐀪\nAuthor:\nCyber-AppSec\n════════════════════════\nⴵ\nTime:\nSun, 20 Sep 2026 16:45:30 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#cybersecurity\n#ai\n#agents\n#information_security",
-        "date": "2026-09-20T18:03:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132938_0_2291b1b8.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132938_1_fc99b700.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132938",
-        "link": {
-          "title": "AI Agents Have a Token Problem: When Valid Access Becomes Dangerous",
-          "url": "https://medium.com/@Cyber-AppSec/ai-agents-have-a-token-problem-when-valid-access-becomes-dangerous-053ea55ca63e?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 132937,
-        "text": "⤷\nTitle:\nNFS Misconfigurations: How “no_root_squash” Can Hand Over Root Access\n════════════════════════\n𐀪\nAuthor:\nKalash Kundaliya\n════════════════════════\nⴵ\nTime:\nSun, 20 Sep 2026 15:46:01 GMT\n════════════════════════\n⌗\nTags:\n#privilege_escalation\n#network_security\n#penetration_testing\n#cybersecurity\n#ethical_hacking",
-        "date": "2026-09-20T16:04:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132937_0_2291b1b8.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132937_1_459a58c2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132937",
-        "link": {
-          "title": "NFS Misconfigurations: How “no_root_squash” Can Hand Over Root Access",
-          "url": "https://medium.com/@kalashkundaliya/nfs-misconfigurations-how-no-root-squash-can-hand-over-root-access-e0467a150aa5?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 132936,
-        "text": "⤷\nTitle:\nOWASP Top 10 2025: Application Design Flaws: Misconfigurations, Supply Chain, and Crypto\n════════════════════════\n𐀪\nAuthor:\nJonathan Sanfer\n════════════════════════\nⴵ\nTime:\nSun, 20 Sep 2026 15:35:44 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#infosec\n#tryhackme_walkthrough\n#owasp\n#tryhackme",
-        "date": "2026-09-20T16:04:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132936_0_2291b1b8.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132936_1_e89187e5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132936",
-        "link": {
-          "title": "OWASP Top 10 2025: Application Design Flaws: Misconfigurations, Supply Chain, and Crypto",
-          "url": "https://medium.com/@jonathan.sanfer/owasp-top-10-2025-application-design-flaws-misconfigurations-supply-chain-and-crypto-72a4f5200f0a?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 132935,
-        "text": "⤷\nTitle:\nSETTRA RANSOMWARE\n════════════════════════\n𐀪\nAuthor:\nRakesh Krishnan\n════════════════════════\nⴵ\nTime:\nSun, 20 Sep 2026 14:36:33 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#ransomware\n#darkweb\n#infosec\n#cybersecurity",
-        "date": "2026-09-20T16:04:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132935_0_2291b1b8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132935",
-        "link": {
-          "title": "SETTRA RANSOMWARE",
-          "url": "https://rakeshkrish.medium.com/settra-ransomware-8e51ccbc514b?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 132934,
-        "text": "⤷\nTitle:\nAI-generated code is quietly creating a golden age for attackers. Data from a year of testing it.\n════════════════════════\n𐀪\nAuthor:\niPressCenter\n════════════════════════\nⴵ\nTime:\nSun, 20 Sep 2026 14:41:50 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#vibe_coding\n#hacking\n#anthropic_claude",
-        "date": "2026-09-20T16:04:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132934_0_2291b1b8.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132934_1_0f458485.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132934",
-        "link": {
-          "title": "AI-generated code is quietly creating a golden age for attackers. Data from a year of testing it.",
-          "url": "https://medium.com/@forexjoker/ai-generated-code-is-quietly-creating-a-golden-age-for-attackers-data-from-a-year-of-testing-it-dd7d77f7eba2?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 132933,
-        "text": "⤷\nTitle:\n6 Ways to Protect Your Personal Information Online in 2026 (Master Guide)\n════════════════════════\n𐀪\nAuthor:\nScofield O. Idehen\n════════════════════════\nⴵ\nTime:\nSun, 20 Sep 2026 14:44:20 GMT\n════════════════════════\n⌗\nTags:\n#information_technology\n#hacking\n#cybersecurity\n#security\n#cyberattack",
-        "date": "2026-09-20T16:03:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132933_0_2291b1b8.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_132933_1_0bb3a8bf.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/132933",
-        "link": {
-          "title": "6 Ways to Protect Your Personal Information Online in 2026 (Master Guide)",
-          "url": "https://medium.com/@Scofield_Idehen/6-ways-to-protect-your-personal-information-online-in-2026-master-guide-489bf78fd474?source=rss------hacking-5"
-        }
       }
     ]
   },
-  "last_update": "2026-09-21T19:38:06.860628+00:00",
+  "last_update": "2026-09-21T22:54:57.720844+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 197,
-    "total_files": 197,
+    "total_media": 198,
+    "total_files": 198,
     "total_links": 0,
     "files_by_type": {
-      "image": 197
+      "image": 198
     },
-    "referenced_files": 197,
-    "existing_media_files": 197,
-    "total_size_mb": 5.55,
-    "last_calculation": "2026-09-21T19:38:06.862438+00:00"
+    "referenced_files": 198,
+    "existing_media_files": 198,
+    "total_size_mb": 5.84,
+    "last_calculation": "2026-09-21T22:54:57.723158+00:00"
   }
 }
