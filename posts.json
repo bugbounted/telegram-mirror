@@ -2,6 +2,458 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 133396,
+        "text": "⤷\nTitle:\nPortSwigger Lab: Web shell upload via extension blacklist bypass\n════════════════════════\n𐀪\nAuthor:\nsa0k0\n════════════════════════\nⴵ\nTime:\nWed, 23 Sep 2026 17:20:29 GMT\n════════════════════════\n⌗\nTags:\n#file_upload\n#htaccess\n#rce\n#burpsuite\n#extension_blacklist",
+        "date": "2026-09-23T18:04:36+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133396_0_4a0fd33e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133396_1_4d538ffd.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/133396",
+        "link": {
+          "title": "PortSwigger Lab: Web shell upload via extension blacklist bypass",
+          "url": "https://medium.com/@sa0k0/portswigger-lab-web-shell-upload-via-extension-blacklist-bypass-2b0679f4f6c1?source=rss------rce-5"
+        }
+      },
+      {
+        "id": 133395,
+        "text": "⤷\nTitle:\nConnected HTB Writeup\n════════════════════════\n𐀪\nAuthor:\nTinny\n════════════════════════\nⴵ\nTime:\nWed, 23 Sep 2026 16:26:05 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#ctf\n#security\n#pentesting\n#cybersecurity",
+        "date": "2026-09-23T18:04:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133395_0_4a0fd33e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133395_1_c48e9185.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/133395",
+        "link": {
+          "title": "Connected HTB Writeup",
+          "url": "https://medium.com/@tinny-sec/connected-htb-writeup-6f1510aece1e?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 133394,
+        "text": "⤷\nTitle:\nCommunity Cyber Safety Benefits: Preventing Small Business Ransomware | Protecting Municipal…\n════════════════════════\n𐀪\nAuthor:\nSMATCHOICHEHACKERS NEWS\n════════════════════════\nⴵ\nTime:\nWed, 23 Sep 2026 17:17:59 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#community_management\n#ransomware_prevention\n#secure_business\n#cybersecurity",
+        "date": "2026-09-23T18:04:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133394_0_4a0fd33e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133394_1_5624fb3e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/133394",
+        "link": {
+          "title": "Community Cyber Safety Benefits: Preventing Small Business Ransomware | Protecting Municipal…",
+          "url": "https://medium.com/@alexaalright398/community-cyber-safety-benefits-preventing-small-business-ransomware-protecting-municipal-a6753b4ae4a2?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 133393,
+        "text": "⤷\nTitle:\nPortal Drop | TryHackMe CTF Writeup\n════════════════════════\n𐀪\nAuthor:\nWynn\n════════════════════════\nⴵ\nTime:\nWed, 23 Sep 2026 16:27:33 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_writeup\n#tryhackme\n#ctf\n#ctf_writeup\n#cybersecurity",
+        "date": "2026-09-23T18:04:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133393_0_4a0fd33e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133393_1_ae483862.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/133393",
+        "link": {
+          "title": "Portal Drop | TryHackMe CTF Writeup",
+          "url": "https://medium.com/@W_Wynn/portal-drop-tryhackme-ctf-writeup-6cf396e961ce?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 133392,
+        "text": "⤷\nTitle:\nAWS Attack Surface: How a Security Researcher Sees AWS\n════════════════════════\n𐀪\nAuthor:\nParaskhorwal\n════════════════════════\nⴵ\nTime:\nWed, 23 Sep 2026 16:50:39 GMT\n════════════════════════\n⌗\nTags:\n#information_security\n#aws\n#cloud_computing\n#penetration_testing\n#cybersecurity",
+        "date": "2026-09-23T18:04:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133392_0_4a0fd33e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133392_1_67a6402a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/133392",
+        "link": {
+          "title": "AWS Attack Surface: How a Security Researcher Sees AWS",
+          "url": "https://medium.com/@paraskhorwal9/article-4-aws-attack-surface-how-a-security-researcher-sees-aws-d1351a0b7c3f?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 133391,
+        "text": "⤷\nTitle:\nCritical Next.js SVG Vulnerability Shows How Image Generation Can Become a Server Attack Surface\n════════════════════════\n𐀪\nAuthor:\nJas\n════════════════════════\nⴵ\nTime:\nWed, 23 Sep 2026 17:15:05 GMT\n════════════════════════\n⌗\nTags:\n#software_security\n#cybersecurity\n#opensource_security\n#cloud_security\n#penetration_testing",
+        "date": "2026-09-23T18:04:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133391_0_4a0fd33e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133391_1_1ca86cac.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/133391",
+        "link": {
+          "title": "Critical Next.js SVG Vulnerability Shows How Image Generation Can Become a Server Attack Surface",
+          "url": "https://medium.com/@jasmitharouthu_58441/critical-next-js-svg-vulnerability-shows-how-image-generation-can-become-a-server-attack-surface-95bb43cf4779?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 133390,
+        "text": "⤷\nTitle:\nThe Linux cmp Command: A SOC Analyst’s Guide to Byte-Level File Comparison\n════════════════════════\n𐀪\nAuthor:\nXpert4Cyber\n════════════════════════\nⴵ\nTime:\nWed, 23 Sep 2026 16:33:00 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#infosec\n#soc\n#file_integrity_monitoring\n#linux",
+        "date": "2026-09-23T18:04:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133390_0_4a0fd33e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133390_1_377b9c57.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/133390",
+        "link": {
+          "title": "The Linux cmp Command: A SOC Analyst’s Guide to Byte-Level File Comparison",
+          "url": "https://medium.com/@xpert4cyber/the-linux-cmp-command-a-soc-analysts-guide-to-byte-level-file-comparison-d56eb0ca23d5?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 133389,
+        "text": "⤷\nTitle:\nThe Login Field That Could Hand Attackers Root on Your Firewall’s Brain\n════════════════════════\n𐀪\nAuthor:\nXpert4Cyber\n════════════════════════\nⴵ\nTime:\nWed, 23 Sep 2026 16:33:12 GMT\n════════════════════════\n⌗\nTags:\n#network_security\n#infosec\n#technews\n#cybersecurity\n#vulnerability_management",
+        "date": "2026-09-23T18:04:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133389_0_4a0fd33e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133389_1_a8d33353.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/133389",
+        "link": {
+          "title": "The Login Field That Could Hand Attackers Root on Your Firewall’s Brain",
+          "url": "https://medium.com/@xpert4cyber/the-login-field-that-could-hand-attackers-root-on-your-firewalls-brain-90d1c4ba78e3?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 133388,
+        "text": "⤷\nTitle:\n153 Million Driver’s Licenses Just Leaked on the Dark Web\n════════════════════════\n𐀪\nAuthor:\nXpert4Cyber\n════════════════════════\nⴵ\nTime:\nWed, 23 Sep 2026 16:33:40 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#infosec\n#darkweb\n#identity_theft\n#data_breach",
+        "date": "2026-09-23T18:04:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133388_0_4a0fd33e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133388_1_27ade17d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/133388",
+        "link": {
+          "title": "153 Million Driver’s Licenses Just Leaked on the Dark Web",
+          "url": "https://medium.com/@xpert4cyber/153-million-drivers-licenses-just-leaked-on-the-dark-web-ff11bbf24059?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 133387,
+        "text": "⤷\nTitle:\nI Took Over a Media Giant’s Subdomain with a Free Netlify Account and a Ten-Minute Attention Span\n════════════════════════\n𐀪\nAuthor:\nAbdul Moeez Khan\n════════════════════════\nⴵ\nTime:\nWed, 23 Sep 2026 15:52:02 GMT\n════════════════════════\n⌗\nTags:\n#dns\n#cybersecurity\n#bug_bounty\n#penetration_testing\n#infosec",
+        "date": "2026-09-23T18:04:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133387_0_4a0fd33e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133387_1_ff1b5e7c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/133387",
+        "link": {
+          "title": "I Took Over a Media Giant’s Subdomain with a Free Netlify Account and a Ten-Minute Attention Span",
+          "url": "https://khanmoeez.medium.com/i-took-over-a-media-giants-subdomain-with-a-free-netlify-account-and-a-ten-minute-attention-span-a4020ac315c3?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 133386,
+        "text": "⤷\nTitle:\nI Bypassed OTP Verification by Changing One Response\n════════════════════════\n𐀪\nAuthor:\nSahilmaurya\n════════════════════════\nⴵ\nTime:\nWed, 23 Sep 2026 17:29:09 GMT\n════════════════════════\n⌗\nTags:\n#otp_bypass\n#bug_bounty_writeup\n#bug_bounty\n#otp_verification\n#hacking",
+        "date": "2026-09-23T18:04:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133386_0_4a0fd33e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133386_1_866d040e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/133386",
+        "link": {
+          "title": "I Bypassed OTP Verification by Changing One Response",
+          "url": "https://medium.com/@sahilmaurya2575/i-bypassed-otp-verification-by-changing-one-response-c54ec1db8876?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 133385,
+        "text": "⤷\nTitle:\nOpen-Source AI Agents Breach 27 Companies, Steal 600,000 Credit Card Records\n════════════════════════\n𐀪\nAuthor:\nDeeba Ahmed\n════════════════════════\nⴵ\nTime:\nWed, 23 Sep 2026 17:19:17 +0000\n════════════════════════\n⌗\nTags:\n#Data\nBreaches\n#Artificial\nIntelligence\n#Security\n#AI\n#AI\nAgents\n#Credit\nCards\n#Cyber\nAttack\n#Cyber\nCrime\n#Cybersecurity\n#data\nbreach\n#Gambit\nSecurity",
+        "date": "2026-09-23T18:03:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133385_0_4a0fd33e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133385_1_e27a9912.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/133385",
+        "link": {
+          "title": "Open-Source AI Agents Breach 27 Companies, Steal 600,000 Credit Card Records",
+          "url": "https://hackread.com/open-source-ai-agents-breach-credit-card-records/"
+        }
+      },
+      {
+        "id": 133384,
+        "text": "⤷\nTitle:\nMikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nWed, 23 Sep 2026 21:36:41 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-09-23T18:03:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133384_0_4a0fd33e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/133384",
+        "link": {
+          "title": "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key",
+          "url": "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html"
+        }
+      },
+      {
+        "id": 133383,
+        "text": "⤷\nTitle:\nA Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nWed, 23 Sep 2026 22:23:10 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-09-23T18:03:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133383_0_4a0fd33e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/133383",
+        "link": {
+          "title": "A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You",
+          "url": "https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html"
+        }
+      },
+      {
+        "id": 133382,
+        "text": "⤷\nTitle:\n100 Days of Bug Bounty — Day 2\n════════════════════════\n𐀪\nAuthor:\nZubair Ahmed\n════════════════════════\nⴵ\nTime:\nWed, 23 Sep 2026 14:19:57 GMT\n════════════════════════\n⌗\nTags:\n#security\n#bug_hunting\n#bug_bounty_writeup\n#bugbounty_writeup\n#bug_hunter",
+        "date": "2026-09-23T16:04:35+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133382_0_4a0fd33e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133382_1_794d4d7d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/133382",
+        "link": {
+          "title": "100 Days of Bug Bounty — Day 2",
+          "url": "https://zubairahm3d.medium.com/100-days-of-bug-bounty-day-2-b1f1a8700518?source=rss------bug_hunter-5"
+        }
+      },
+      {
+        "id": 133381,
+        "text": "⤷\nTitle:\nTry Hack Me: Content Discovery Write Up\n════════════════════════\n𐀪\nAuthor:\nJozepjoestar\n════════════════════════\nⴵ\nTime:\nWed, 23 Sep 2026 15:56:57 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_walkthrough\n#tryhackme",
+        "date": "2026-09-23T16:04:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133381_0_4a0fd33e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133381_1_0c83fbc6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/133381",
+        "link": {
+          "title": "Try Hack Me: Content Discovery Write Up",
+          "url": "https://medium.com/@jozepjoestar/try-hack-me-content-discovery-write-up-1df914f245f9?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 133380,
+        "text": "⤷\nTitle:\nWhat You Inherit When You Fine-Tune a Model\n════════════════════════\n𐀪\nAuthor:\nTharini Anjalee Fernando\n════════════════════════\nⴵ\nTime:\nWed, 23 Sep 2026 14:59:07 GMT\n════════════════════════\n⌗\nTags:\n#ai_security\n#fine_tuning\n#artificial_intelligence\n#infosec\n#cybersecurity",
+        "date": "2026-09-23T16:04:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133380_0_4a0fd33e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133380_1_d3c2f9f8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/133380",
+        "link": {
+          "title": "What You Inherit When You Fine-Tune a Model",
+          "url": "https://medium.com/@tanjaleef/what-you-inherit-when-you-fine-tune-a-model-4fe24ecf5a76?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 133379,
+        "text": "⤷\nTitle:\nAI Coding Assistants are quietly shipping vulnerabilities into your codebase\n════════════════════════\n𐀪\nAuthor:\nh@shtalk\n════════════════════════\nⴵ\nTime:\nWed, 23 Sep 2026 15:46:01 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#code\n#cybersecurity\n#ai",
+        "date": "2026-09-23T16:04:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133379_0_4a0fd33e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133379_1_b1f994ce.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/133379",
+        "link": {
+          "title": "AI Coding Assistants are quietly shipping vulnerabilities into your codebase",
+          "url": "https://eva-georgieva.medium.com/ai-coding-assistants-are-quietly-shipping-vulnerabilities-into-your-codebase-8e5425c8b91c?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 133378,
+        "text": "⤷\nTitle:\nRooting Infinix Hot 12i X665B\n════════════════════════\n𐀪\nAuthor:\nRaja Muhammad Kurnia Setyawan\n════════════════════════\nⴵ\nTime:\nWed, 23 Sep 2026 14:21:52 GMT\n════════════════════════\n⌗\nTags:\n#roots\n#hacking\n#android\n#tutorial\n#infinix",
+        "date": "2026-09-23T16:04:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133378_0_4a0fd33e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133378_1_f7bf8acd.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/133378",
+        "link": {
+          "title": "Rooting Infinix Hot 12i X665B",
+          "url": "https://medium.com/@kurniatamvan13/rooting-infinix-hot-12i-x665b-9a6a7de0f006?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 133377,
+        "text": "⤷\nTitle:\nCritical ManageEngine Security Vulnerabilities Require Immediate Patching\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 23 Sep 2026 14:34:22 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_19599\n#CVE_2026_86708\n#cybersecurity\n#ManageEngine\n#OpManager\n#Remote\nCode Execution",
+        "date": "2026-09-23T16:04:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133377_0_4a0fd33e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133377_1_b603ceee.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/133377",
+        "link": {
+          "title": "Critical ManageEngine Security Vulnerabilities Require Immediate Patching",
+          "url": "https://securityonline.info/manageengine-security-vulnerabilities/"
+        }
+      },
+      {
         "id": 133369,
         "text": "⤷\nTitle:\nI Found a Tax PDF While Reconning a Private Company\n════════════════════════\n𐀪\nAuthor:\nMansi Shah\n════════════════════════\nⴵ\nTime:\nWed, 23 Sep 2026 13:59:49 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#penetration_testing\n#bug_bounty_writeup\n#technology\n#bug_bounty_tips",
         "date": "2026-09-23T14:05:08+00:00",
@@ -1816,458 +2268,22 @@
           "title": "$6,800 for Sending Fields Nobody Asked Me To Send: A Mass Assignment Privilege Escalation",
           "url": "https://medium.com/@t4nv1/6-800-for-sending-fields-nobody-asked-me-to-send-a-mass-assignment-privilege-escalation-f04982df5e5e?source=rss------bug_bounty-5"
         }
-      },
-      {
-        "id": 133246,
-        "text": "⤷\nTitle:\nMalicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nTue, 22 Sep 2026 23:28:15 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-09-22T20:04:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133246_0_4a0fd33e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/133246",
-        "link": {
-          "title": "Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials",
-          "url": "https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html"
-        }
-      },
-      {
-        "id": 133245,
-        "text": "⤷\nTitle:\nWordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nTue, 22 Sep 2026 23:33:10 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-09-22T20:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133245_0_4a0fd33e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/133245",
-        "link": {
-          "title": "WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers",
-          "url": "https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html"
-        }
-      },
-      {
-        "id": 133244,
-        "text": "⤷\nTitle:\nCheck Point Warns of Management Server Zero-Day Exploited in Targeted Attacks\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nTue, 22 Sep 2026 23:59:39 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-09-22T20:03:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133244_0_4a0fd33e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/133244",
-        "link": {
-          "title": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks",
-          "url": "https://thehackernews.com/2026/09/check-point-warns-of-management-server.html"
-        }
-      },
-      {
-        "id": 133243,
-        "text": "⤷\nTitle:\npicoCTF-NO FA Write-up\n════════════════════════\n𐀪\nAuthor:\nRayenbenali\n════════════════════════\nⴵ\nTime:\nTue, 22 Sep 2026 17:21:14 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#capture_the_flag\n#web_security\n#ctf_write_ups\n#ethical_hacking",
-        "date": "2026-09-22T18:04:41+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133243_0_6fb793d4.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133243_1_66598e48.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/133243",
-        "link": {
-          "title": "picoCTF-NO FA Write-up",
-          "url": "https://medium.com/@rayenbenali68/picoctf-no-fa-write-up-f540e336cc03?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 133242,
-        "text": "⤷\nTitle:\nI Built a Free eJPT Preparation Guide for Aspiring Penetration Testers\n════════════════════════\n𐀪\nAuthor:\nN Saivishwaa\n════════════════════════\nⴵ\nTime:\nTue, 22 Sep 2026 17:40:32 GMT\n════════════════════════\n⌗\nTags:\n#programming\n#information_security\n#penetration_testing\n#cybersecurity\n#ethical_hacking",
-        "date": "2026-09-22T18:04:37+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133242_0_6fb793d4.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133242_1_f6931611.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/133242",
-        "link": {
-          "title": "I Built a Free eJPT Preparation Guide for Aspiring Penetration Testers",
-          "url": "https://medium.com/@n.saivishwaa/i-built-a-free-ejpt-preparation-guide-for-aspiring-penetration-testers-1dc4101144a9?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 133241,
-        "text": "⤷\nTitle:\nYour OT Network is not Air-Gapped. It stopped being in 2019\n════════════════════════\n𐀪\nAuthor:\nShridhar InfoSec Solutions\n════════════════════════\nⴵ\nTime:\nTue, 22 Sep 2026 17:31:17 GMT\n════════════════════════\n⌗\nTags:\n#industrial_automation\n#operational_technology\n#critical_infrastructure\n#infosec\n#cybersecurity",
-        "date": "2026-09-22T18:04:34+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133241_0_6fb793d4.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133241_1_e61722d9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/133241",
-        "link": {
-          "title": "Your OT Network is not Air-Gapped. It stopped being in 2019",
-          "url": "https://medium.com/@shridharinfosec/your-ot-network-is-not-air-gapped-it-stopped-being-in-2019-dfa0820f1eff?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 133240,
-        "text": "⤷\nTitle:\nThe Incomplete Fix: How a Critical Auth Vulnerability’s Patch Left a Second Door Open\n════════════════════════\n𐀪\nAuthor:\nCypherNova1337\n════════════════════════\nⴵ\nTime:\nTue, 22 Sep 2026 16:24:12 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#bug_bounty\n#penetration_testing\n#cybersecurity\n#infosec",
-        "date": "2026-09-22T18:04:30+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133240_0_6fb793d4.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133240_1_60cfc36a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/133240",
-        "link": {
-          "title": "The Incomplete Fix: How a Critical Auth Vulnerability’s Patch Left a Second Door Open",
-          "url": "https://cyphernova1337.medium.com/the-incomplete-fix-how-a-critical-auth-vulnerabilitys-patch-left-a-second-door-open-7ba6e2a08ad0?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 133239,
-        "text": "⤷\nTitle:\nCVE-2026-87902: Critical WordPress RCE Flaw Fixed in Version 7.1.2\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 22 Sep 2026 15:47:03 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_87902\n#cybersecurity\n#Remote\nCode Execution\n#Vulnerability\n#wordpress",
-        "date": "2026-09-22T18:04:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133239_0_6fb793d4.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133239_1_bf91b942.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/133239",
-        "link": {
-          "title": "CVE-2026-87902: Critical WordPress RCE Flaw Fixed in Version 7.1.2",
-          "url": "https://securityonline.info/wordpress-rce-vulnerability-cve-2026-87902/"
-        }
-      },
-      {
-        "id": 133238,
-        "text": "⤷\nTitle:\nExploited Check Point VPN Vulnerability Hit in the Wild\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 22 Sep 2026 16:10:20 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Check\nPoint\n#CVE_2026_85102\n#cybersecurity\n#Remote\nCode Execution\n#vpn\n#zero_day",
-        "date": "2026-09-22T18:04:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133238_0_6fb793d4.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133238_1_b387eca1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/133238",
-        "link": {
-          "title": "Exploited Check Point VPN Vulnerability Hit in the Wild",
-          "url": "https://securityonline.info/checkpoint-vpn-vulnerability-cve-2026-85102/"
-        }
-      },
-      {
-        "id": 133237,
-        "text": "⤷\nTitle:\nCritical ManageEngine ADSelfService Plus Vulnerability Fixed\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 22 Sep 2026 16:23:18 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#ADSelfService\nPlus\n#CVE_2026_74849\n#cybersecurity\n#ManageEngine\n#Remote\nCode Execution",
-        "date": "2026-09-22T18:04:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133237_0_6fb793d4.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133237_1_c4743b1d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/133237",
-        "link": {
-          "title": "Critical ManageEngine ADSelfService Plus Vulnerability Fixed",
-          "url": "https://securityonline.info/manageengine-adselfservice-plus-vulnerability-cve-2026-74849/"
-        }
-      },
-      {
-        "id": 133236,
-        "text": "⤷\nTitle:\nExploited BIG-IP APM Vulnerability Allows Remote Code Execution\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 22 Sep 2026 16:26:57 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#BIG_IP\n#BIG_IP\nAPM\n#CVE_2026_94127\n#cybersecurity\n#F5\n#Remote\nCode Execution\n#Vulnerability",
-        "date": "2026-09-22T18:04:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133236_0_6fb793d4.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133236_1_1e6ad35b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/133236",
-        "link": {
-          "title": "Exploited BIG-IP APM Vulnerability Allows Remote Code Execution",
-          "url": "https://securityonline.info/big-ip-apm-vulnerability-cve-2026-94127/"
-        }
-      },
-      {
-        "id": 133235,
-        "text": "⤷\nTitle:\nMicrosoft Disrupts EvilTokens Cybercrime Platform\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 22 Sep 2026 17:49:46 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#cybersecurity\n#Device\nCode Phishing\n#EvilTokens\n#EvilTokens\ncybercrime platform\n#Phishing_as_a_Service\n#Storm_2992",
-        "date": "2026-09-22T18:04:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133235_0_6fb793d4.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133235_1_b4181415.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/133235",
-        "link": {
-          "title": "Microsoft Disrupts EvilTokens Cybercrime Platform",
-          "url": "https://securityonline.info/eviltokens-cybercrime-platform/"
-        }
-      },
-      {
-        "id": 133234,
-        "text": "⤷\nTitle:\nNVIDIA Patches Critical Vulnerabilities in Infrastructure Controller\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 22 Sep 2026 17:56:38 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_65113\n#hardcoded\ncredentials\n#Linux\nSecurity\n#nvidia\n#NVIDIA\nInfrastructure Controller\n#Vulnerability",
-        "date": "2026-09-22T18:04:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133234_0_6fb793d4.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133234_1_d134a610.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/133234",
-        "link": {
-          "title": "NVIDIA Patches Critical Vulnerabilities in Infrastructure Controller",
-          "url": "https://securityonline.info/nvidia-infrastructure-controller-vulnerabilities/"
-        }
-      },
-      {
-        "id": 133233,
-        "text": "⤷\nTitle:\nRatHat Android Malware Uses AI to Target Banking Credentials in Real Time\n════════════════════════\n𐀪\nAuthor:\nDeeba Ahmed\n════════════════════════\nⴵ\nTime:\nTue, 22 Sep 2026 17:02:05 +0000\n════════════════════════\n⌗\nTags:\n#Security\n#Android\n#Malware\n#AI\n#Cybersecurity\n#Privacy\n#RatHat\n#Zimperium\n#zLabs",
-        "date": "2026-09-22T18:04:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133233_0_6fb793d4.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133233_1_3f1bcf6e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/133233",
-        "link": {
-          "title": "RatHat Android Malware Uses AI to Target Banking Credentials in Real Time",
-          "url": "https://hackread.com/rathat-android-malware-ai-banking-credentials/"
-        }
-      },
-      {
-        "id": 133232,
-        "text": "⤷\nTitle:\nResearcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nTue, 22 Sep 2026 21:44:04 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-09-22T18:04:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133232_0_6fb793d4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/133232",
-        "link": {
-          "title": "Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates",
-          "url": "https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html"
-        }
-      },
-      {
-        "id": 133231,
-        "text": "⤷\nTitle:\nCritical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nTue, 22 Sep 2026 22:11:12 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-09-22T18:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133231_0_6fb793d4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/133231",
-        "link": {
-          "title": "Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials",
-          "url": "https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html"
-        }
-      },
-      {
-        "id": 133230,
-        "text": "⤷\nTitle:\nMicrosoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nTue, 22 Sep 2026 22:33:31 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-09-22T18:03:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133230_0_6fb793d4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/133230",
-        "link": {
-          "title": "Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises",
-          "url": "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html"
-        }
-      },
-      {
-        "id": 133229,
-        "text": "⤷\nTitle:\nMastering Insecure Deserialization: A Complete PortSwigger Lab Writeup\n════════════════════════\n𐀪\nAuthor:\nBhanvararam choudhary\n════════════════════════\nⴵ\nTime:\nTue, 22 Sep 2026 14:02:49 GMT\n════════════════════════\n⌗\nTags:\n#web_security\n#insecure_deserialization\n#cybersecurity\n#ethical_hacking\n#portswigger",
-        "date": "2026-09-22T16:04:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133229_0_6fb793d4.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133229_1_4be9d892.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/133229",
-        "link": {
-          "title": "Mastering Insecure Deserialization: A Complete PortSwigger Lab Writeup",
-          "url": "https://medium.com/@bhanvararamchoudhary6/mastering-insecure-deserialization-a-complete-portswigger-lab-writeup-0ec8959527af?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 133228,
-        "text": "⤷\nTitle:\nReactor\n⚛️\n— HacktheBox Walkthrough\n════════════════════════\n𐀪\nAuthor:\nCypher's Web\n════════════════════════\nⴵ\nTime:\nTue, 22 Sep 2026 15:09:49 GMT\n════════════════════════\n⌗\nTags:\n#ctf_writeup\n#react\n#cybersecurity\n#ethical_hacking\n#hackthebox",
-        "date": "2026-09-22T16:04:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133228_0_6fb793d4.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133228_1_83ef2a50.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/133228",
-        "link": {
-          "title": "Reactor⚛️— HacktheBox Walkthrough",
-          "url": "https://medium.com/@cypher.one/reactor-%EF%B8%8F-hackthebox-walkthrough-4f0074e7b98e?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 133227,
-        "text": "⤷\nTitle:\nTry Hack Me : Penetration Testing Frameworks Write up\n════════════════════════\n𐀪\nAuthor:\nJozepjoestar\n════════════════════════\nⴵ\nTime:\nTue, 22 Sep 2026 14:32:54 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme",
-        "date": "2026-09-22T16:04:47+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133227_0_6fb793d4.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133227_1_dfc3afa2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/133227",
-        "link": {
-          "title": "Try Hack Me : Penetration Testing Frameworks Write up",
-          "url": "https://medium.com/@jozepjoestar/try-hack-me-penetration-testing-frameworks-write-up-d6ff0d055987?source=rss------tryhackme-5"
-        }
       }
     ]
   },
-  "last_update": "2026-09-23T15:08:29.125435+00:00",
+  "last_update": "2026-09-23T19:10:21.889543+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 188,
-    "total_files": 188,
+    "total_media": 192,
+    "total_files": 192,
     "total_links": 0,
     "files_by_type": {
-      "image": 188
+      "image": 192
     },
-    "referenced_files": 188,
-    "existing_media_files": 188,
-    "total_size_mb": 5.07,
-    "last_calculation": "2026-09-23T15:08:29.127717+00:00"
+    "referenced_files": 192,
+    "existing_media_files": 192,
+    "total_size_mb": 5.56,
+    "last_calculation": "2026-09-23T19:10:21.891850+00:00"
   }
 }
