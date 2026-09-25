@@ -2,6 +2,404 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 133637,
+        "text": "⤷\nTitle:\nActive Zero-Day Attacks Target F5 BIG-IP Gateways\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nFri, 25 Sep 2026 12:53:05 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\n#CISA\n#cybersecurity\n#F5\nBIG_IP\n#zero_day",
+        "date": "2026-09-25T14:04:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133637_0_de6ddd3e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133637_1_051999cf.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/133637",
+        "link": {
+          "title": "Active Zero-Day Attacks Target F5 BIG-IP Gateways",
+          "url": "https://meterpreter.org/f5-big-ip-zero-day-cisa-warning/"
+        }
+      },
+      {
+        "id": 133636,
+        "text": "⤷\nTitle:\nFile Notification APIs Expose User Actions\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nFri, 25 Sep 2026 13:38:37 +0000\n════════════════════════\n⌗\nTags:\n#Data\nLeak\n#cybersecurity\n#File\nNotification API\n#Privacy\nLeak\n#side_channel\nattack",
+        "date": "2026-09-25T14:04:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133636_0_de6ddd3e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133636_1_830689a3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/133636",
+        "link": {
+          "title": "File Notification APIs Expose User Actions",
+          "url": "https://meterpreter.org/file-notification-api-vulnerability/"
+        }
+      },
+      {
+        "id": 133635,
+        "text": "⤷\nTitle:\nFBI Breach May Have Exposed Its Secret Hacking Unit\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nFri, 25 Sep 2026 13:54:08 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#data\nbreach\n#FBI\n#Oracle\nPeopleSoft\n#Remote\nOperations Unit\n#ShinyHunters\n#zero_day",
+        "date": "2026-09-25T14:04:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133635_0_de6ddd3e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133635_1_cdf8331d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/133635",
+        "link": {
+          "title": "FBI Breach May Have Exposed Its Secret Hacking Unit",
+          "url": "https://meterpreter.org/fbi-breach-shinyhunters-remote-operations-unit/"
+        }
+      },
+      {
+        "id": 133634,
+        "text": "⤷\nTitle:\nOnly 26% of Detected CISA Known Exploited Vulnerabilities Were Fully Remediated\n════════════════════════\n𐀪\nAuthor:\nOwais Sultan\n════════════════════════\nⴵ\nTime:\nFri, 25 Sep 2026 12:44:38 +0000\n════════════════════════\n⌗\nTags:\n#Security\n#Cybersecurity\n#Vulnerability",
+        "date": "2026-09-25T14:04:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133634_0_de6ddd3e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133634_1_b0a64867.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/133634",
+        "link": {
+          "title": "Only 26% of Detected CISA Known Exploited Vulnerabilities Were Fully Remediated",
+          "url": "https://hackread.com/26-detected-cisa-known-exploited-vulnerabilities-remediated/"
+        }
+      },
+      {
+        "id": 133633,
+        "text": "⤷\nTitle:\nThe SOC Doesn't Need to Start Over with Every Alert\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nFri, 25 Sep 2026 17:00:00 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-09-25T14:04:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133633_0_de6ddd3e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/133633",
+        "link": {
+          "title": "The SOC Doesn't Need to Start Over with Every Alert",
+          "url": "https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html"
+        }
+      },
+      {
+        "id": 133632,
+        "text": "⤷\nTitle:\nTone indicators (indicatori di tono). Cosa sono e quando si usano\n════════════════════════\n𐀪\nAuthor:\nPietro Sansone\n════════════════════════\nⴵ\nTime:\nFri, 25 Sep 2026 09:56:01 GMT\n════════════════════════\n⌗\nTags:\n#discord\n#tone_indicator\n#xs\n#twitter\n#reddit",
+        "date": "2026-09-25T12:04:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133632_0_de6ddd3e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133632_1_9071e623.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/133632",
+        "link": {
+          "title": "Tone indicators (indicatori di tono). Cosa sono e quando si usano",
+          "url": "https://medium.com/@zaccaro80/tone-indicators-indicatori-di-tono-cosa-sono-e-quando-si-usano-3bb5fdce9061?source=rss------xss-5"
+        }
+      },
+      {
+        "id": 133631,
+        "text": "⤷\nTitle:\nDFSA Penetration Testing: Strengthening Cybersecurity for DIFC Firms\n════════════════════════\n𐀪\nAuthor:\nPiyush Bhuyan\n════════════════════════\nⴵ\nTime:\nFri, 25 Sep 2026 10:00:50 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#api_penetration_testing\n#difc_firms\n#dfsa_penetration",
+        "date": "2026-09-25T12:04:45+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133631_0_de6ddd3e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133631_1_bc1dbf5d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/133631",
+        "link": {
+          "title": "DFSA Penetration Testing: Strengthening Cybersecurity for DIFC Firms",
+          "url": "https://medium.com/@piyush.qualysec/dfsa-penetration-testing-strengthening-cybersecurity-for-difc-firms-a2e58f0b1bbc?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 133630,
+        "text": "⤷\nTitle:\nBreaking SENTINEL: A Privilege Escalation\n════════════════════════\n𐀪\nAuthor:\nNikhilvarun\n════════════════════════\nⴵ\nTime:\nFri, 25 Sep 2026 10:16:45 GMT\n════════════════════════\n⌗\nTags:\n#web_testing\n#web_hacking\n#penetration_testing\n#ethical_hacking\n#cybersecurity",
+        "date": "2026-09-25T12:04:42+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133630_0_de6ddd3e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133630_1_54cbf666.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/133630",
+        "link": {
+          "title": "Breaking SENTINEL: A Privilege Escalation",
+          "url": "https://medium.com/@nikhilvarun001/breaking-sentinel-a-privilege-escalation-3d4bb93860eb?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 133629,
+        "text": "⤷\nTitle:\nFootball & Firewalls: Why I’m Writing About the Other Game Being Played\n════════════════════════\n𐀪\nAuthor:\nFootball & Firewalls\n════════════════════════\nⴵ\nTime:\nFri, 25 Sep 2026 11:39:50 GMT\n════════════════════════\n⌗\nTags:\n#football\n#hacking\n#cybersecurity\n#apps\n#soccer",
+        "date": "2026-09-25T12:04:38+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133629_0_de6ddd3e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133629_1_c97e3dbe.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/133629",
+        "link": {
+          "title": "Football & Firewalls: Why I’m Writing About the Other Game Being Played",
+          "url": "https://medium.com/@footballandfirewalls/football-firewalls-why-im-writing-about-the-other-game-being-played-54f8358646c1?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 133628,
+        "text": "⤷\nTitle:\nApa Itu Penetration Tester dan Apakah Perusahaan Membutuhkannya?\n════════════════════════\n𐀪\nAuthor:\nOki Rosgani\n════════════════════════\nⴵ\nTime:\nFri, 25 Sep 2026 11:52:40 GMT\n════════════════════════\n⌗\nTags:\n#rosgani\n#technology\n#hacking\n#ethical_hacking",
+        "date": "2026-09-25T12:04:34+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133628_0_de6ddd3e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133628_1_30e259d2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/133628",
+        "link": {
+          "title": "Apa Itu Penetration Tester dan Apakah Perusahaan Membutuhkannya?",
+          "url": "https://medium.com/@rosgani/apa-itu-penetration-tester-dan-apakah-perusahaan-membutuhkannya-a513ce1d26e5?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 133627,
+        "text": "⤷\nTitle:\nBlind XSS: Stop Thinking About Payloads, Start Thinking About People\n════════════════════════\n𐀪\nAuthor:\nNitin yadav\n════════════════════════\nⴵ\nTime:\nFri, 25 Sep 2026 11:31:02 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#hacking\n#bug_bounty_tips\n#bug_bounty\n#cybersecurity",
+        "date": "2026-09-25T12:04:30+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133627_0_de6ddd3e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133627_1_e3f09eed.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/133627",
+        "link": {
+          "title": "Blind XSS: Stop Thinking About Payloads, Start Thinking About People",
+          "url": "https://kd-200.medium.com/blind-xss-stop-thinking-about-payloads-start-thinking-about-people-ea6650d2b85d?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 133626,
+        "text": "⤷\nTitle:\nHow I Got Into Cybersecurity — My Roadmap\n════════════════════════\n𐀪\nAuthor:\nSairaj Thorat\n════════════════════════\nⴵ\nTime:\nFri, 25 Sep 2026 11:40:49 GMT\n════════════════════════\n⌗\nTags:\n#bugbounty_writeup\n#cybersecurity\n#bug_bounty\n#infosec_write_ups\n#infosec",
+        "date": "2026-09-25T12:04:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133626_0_de6ddd3e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133626_1_36fe2e53.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/133626",
+        "link": {
+          "title": "How I Got Into Cybersecurity — My Roadmap",
+          "url": "https://medium.com/@sairajthorat077/how-i-got-into-cybersecurity-my-roadmap-a1d516eaa5f2?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 133625,
+        "text": "⤷\nTitle:\nThe Forgotten Bucket: How a 404 Became a High-Severity Subdomain Takeover\n════════════════════════\n𐀪\nAuthor:\nKrishn Babariya\n════════════════════════\nⴵ\nTime:\nFri, 25 Sep 2026 11:41:15 GMT\n════════════════════════\n⌗\nTags:\n#pentesting\n#bug_bounty_writeup\n#bug_bounty\n#hacking",
+        "date": "2026-09-25T12:04:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133625_0_de6ddd3e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133625_1_aea2036f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/133625",
+        "link": {
+          "title": "The Forgotten Bucket: How a 404 Became a High-Severity Subdomain Takeover",
+          "url": "https://0xkrishn.medium.com/the-forgotten-bucket-how-a-404-became-a-high-severity-subdomain-takeover-739a0c4e5cab?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 133624,
+        "text": "⤷\nTitle:\nInfrastructure as Code Weaponized Against Developers\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nFri, 25 Sep 2026 11:38:35 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#cybersecurity\n#Lazarus\nGroup\n#supply\nchain attack\n#Terraform",
+        "date": "2026-09-25T12:04:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133624_0_de6ddd3e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/133624",
+        "link": {
+          "title": "Infrastructure as Code Weaponized Against Developers",
+          "url": "https://meterpreter.org/graphalgo-campaign-terraform-registry/"
+        }
+      },
+      {
+        "id": 133623,
+        "text": "⤷\nTitle:\nSectopRAT Abuses Legitimate Audio Software Files to Steal PC Data\n════════════════════════\n𐀪\nAuthor:\nDeeba Ahmed\n════════════════════════\nⴵ\nTime:\nFri, 25 Sep 2026 10:43:28 +0000\n════════════════════════\n⌗\nTags:\n#Security\n#Malware\n#ArechClient2\n#audio\n#Cybersecurity\n#FortiGuard\n#RAT\n#SectopRAT\n#Windows",
+        "date": "2026-09-25T12:04:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133623_0_de6ddd3e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133623_1_cc547885.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/133623",
+        "link": {
+          "title": "SectopRAT Abuses Legitimate Audio Software Files to Steal PC Data",
+          "url": "https://hackread.com/sectoprat-abuses-audio-software-steal-pc-data/"
+        }
+      },
+      {
+        "id": 133622,
+        "text": "⤷\nTitle:\nSalmon Introduces Execution Verification Infrastructure (EVI) for Securing AI Agents and Autonomous Systems\n════════════════════════\n𐀪\nAuthor:\nCyberNewswire\n════════════════════════\nⴵ\nTime:\nFri, 25 Sep 2026 12:00:05 +0000\n════════════════════════\n⌗\nTags:\n#Press\nRelease\n#Product\nLaunch\n#Research",
+        "date": "2026-09-25T12:04:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133622_0_de6ddd3e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133622_1_8647b7bc.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/133622",
+        "link": {
+          "title": "Salmon Introduces Execution Verification Infrastructure (EVI) for Securing AI Agents and Autonomous Systems",
+          "url": "https://hackread.com/salmon-introduces-execution-verification-infrastructure-evi-for-securing-ai-agents-and-autonomous-systems/"
+        }
+      },
+      {
+        "id": 133621,
+        "text": "⤷\nTitle:\nRoundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nFri, 25 Sep 2026 15:44:02 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-09-25T12:04:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133621_0_de6ddd3e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/133621",
+        "link": {
+          "title": "Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild",
+          "url": "https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html"
+        }
+      },
+      {
+        "id": 133620,
+        "text": "⤷\nTitle:\nBitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nFri, 25 Sep 2026 16:05:55 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-09-25T12:04:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_133620_0_de6ddd3e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/133620",
+        "link": {
+          "title": "Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise",
+          "url": "https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html"
+        }
+      },
+      {
         "id": 133619,
         "text": "⤷\nTitle:\nI Found SQL Injection Hiding Behind Base64 Encoding in an Intigriti CTF\n════════════════════════\n𐀪\nAuthor:\nPrateekpulastya\n════════════════════════\nⴵ\nTime:\nFri, 25 Sep 2026 08:08:06 GMT\n════════════════════════\n⌗\nTags:\n#web_security\n#cybersecurity\n#sql_injection\n#ctf\n#intigriti",
         "date": "2026-09-25T10:04:56+00:00",
@@ -1866,428 +2264,22 @@
           "title": "What Is Penetration Testing? A Beginner’s Guide to Ethical Security Testing",
           "url": "https://medium.com/@Darknet_hacking/what-is-penetration-testing-a-beginners-guide-to-ethical-security-testing-e50c606fb3c1?source=rss------penetration_testing-5"
         }
-      },
-      {
-        "id": 133496,
-        "text": "⤷\nTitle:\nYapay Zeka ve Siber Güvenliğin Geleceği: Savunma mı, Saldırı mı, Yoksa Her İkisi mi?\n════════════════════════\n𐀪\nAuthor:\nAttila453\n════════════════════════\nⴵ\nTime:\nThu, 24 Sep 2026 13:19:51 GMT\n════════════════════════\n⌗\nTags:\n#deepfakes\n#artificial_intelligence\n#infosec\n#cybersecurity\n#deep_learning",
-        "date": "2026-09-24T14:04:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133496_0_576d0f2f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133496_1_3ed4fa80.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/133496",
-        "link": {
-          "title": "Yapay Zeka ve Siber Güvenliğin Geleceği: Savunma mı, Saldırı mı, Yoksa Her İkisi mi?",
-          "url": "https://medium.com/@attilla453/yapay-zeka-ve-siber-g%C3%BCvenli%C4%9Fin-gelece%C4%9Fi-savunma-m%C4%B1-sald%C4%B1r%C4%B1-m%C4%B1-yoksa-her-i%CC%87kisi-mi-2cfd0b8b7cfa?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 133495,
-        "text": "⤷\nTitle:\nSimulating GPS Location on iOS 17+ with pymobiledevice3 on macOS\n════════════════════════\n𐀪\nAuthor:\nkarllok\n════════════════════════\nⴵ\nTime:\nThu, 24 Sep 2026 13:52:24 GMT\n════════════════════════\n⌗\nTags:\n#ios\n#hacking\n#simulation\n#hacks\n#attack",
-        "date": "2026-09-24T14:04:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133495_0_576d0f2f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133495_1_3ea29e14.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/133495",
-        "link": {
-          "title": "Simulating GPS Location on iOS 17+ with pymobiledevice3 on macOS",
-          "url": "https://medium.com/@whitelok/simulating-gps-location-on-ios-17-with-pymobiledevice3-on-macos-45406c3ebc0a?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 133494,
-        "text": "⤷\nTitle:\nAI-Native Firewalling: Securing the AI Attack Chain from Prompt Injection to Agentic Exploits\n════════════════════════\n𐀪\nAuthor:\nProphaze\n════════════════════════\nⴵ\nTime:\nWed, 23 Sep 2026 08:37:18 GMT\n════════════════════════\n⌗\nTags:\n#artificial_intelligence\n#cybersecurity\n#ai\n#application_security",
-        "date": "2026-09-24T14:04:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133494_0_576d0f2f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133494_1_566e7ee0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/133494",
-        "link": {
-          "title": "AI-Native Firewalling: Securing the AI Attack Chain from Prompt Injection to Agentic Exploits",
-          "url": "https://medium.com/@prophaze/when-ai-becomes-part-of-the-attack-chain-6c3e3273785a?source=rss------application_security-5"
-        }
-      },
-      {
-        "id": 133493,
-        "text": "⤷\nTitle:\nMany beginners forget Mass assignment in Bug Bounty programs .\n════════════════════════\n𐀪\nAuthor:\nMolapo Manuel\n════════════════════════\nⴵ\nTime:\nThu, 24 Sep 2026 13:02:22 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_tips\n#bug_bounty_writeup\n#bug_bounty\n#cybersecurity\n#cyber_security_awareness",
-        "date": "2026-09-24T14:04:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133493_0_576d0f2f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133493_1_8a4461a5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/133493",
-        "link": {
-          "title": "Many beginners forget Mass assignment in Bug Bounty programs .",
-          "url": "https://medium.com/@molapomanuel709/many-beginners-forget-mass-assignment-in-bug-bounty-programs-cc4c4441de4b?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 133492,
-        "text": "⤷\nTitle:\nScreenConnect + Printer CTF | Full Penetration Testing Challenge\n════════════════════════\n𐀪\nAuthor:\nPentester Club\n════════════════════════\nⴵ\nTime:\nThu, 24 Sep 2026 13:49:01 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#artificial_intelligence\n#bug_bounty\n#cybersecurity\n#web_development",
-        "date": "2026-09-24T14:04:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133492_0_576d0f2f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133492_1_3c156e54.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/133492",
-        "link": {
-          "title": "ScreenConnect + Printer CTF | Full Penetration Testing Challenge",
-          "url": "https://medium.com/@pentesterclubpvtltd/screenconnect-printer-ctf-full-penetration-testing-challenge-6962e65995b9?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 133491,
-        "text": "⤷\nTitle:\nKapibala Attacker Plunders Government Databases\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nThu, 24 Sep 2026 12:53:36 +0000\n════════════════════════\n⌗\nTags:\n#Cybercriminals\n#cybersecurity\n#data\nbreach\n#Kapibala\n#WordPress",
-        "date": "2026-09-24T14:04:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133491_0_576d0f2f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133491_1_fbdfdf05.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/133491",
-        "link": {
-          "title": "Kapibala Attacker Plunders Government Databases",
-          "url": "https://meterpreter.org/kapibala-attacker-exploits-wordpress/"
-        }
-      },
-      {
-        "id": 133490,
-        "text": "⤷\nTitle:\niOS 27 Introduces Impersonation Risk Detection\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nThu, 24 Sep 2026 13:15:38 +0000\n════════════════════════\n⌗\nTags:\n#Apple\n#cybersecurity\n#iOS\n27\n#Social\nEngineering\n#Trust\nInsights",
-        "date": "2026-09-24T14:03:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133490_0_576d0f2f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133490_1_22c93206.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/133490",
-        "link": {
-          "title": "iOS 27 Introduces Impersonation Risk Detection",
-          "url": "https://meterpreter.org/ios-27-trust-insights/"
-        }
-      },
-      {
-        "id": 133489,
-        "text": "⤷\nTitle:\nSecrets Sprawl Is an Identity Problem That AI Just Made Impossible to Ignore\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nThu, 24 Sep 2026 16:30:00 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-09-24T14:03:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133489_0_576d0f2f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/133489",
-        "link": {
-          "title": "Secrets Sprawl Is an Identity Problem That AI Just Made Impossible to Ignore",
-          "url": "https://thehackernews.com/2026/09/secrets-sprawl-is-identity-problem-that.html"
-        }
-      },
-      {
-        "id": 133488,
-        "text": "⤷\nTitle:\nCorp MDM Spyware Targets Logistics Firms, Steals New SMS and Redirects Calls\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nThu, 24 Sep 2026 17:35:27 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-09-24T14:03:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133488_0_576d0f2f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/133488",
-        "link": {
-          "title": "Corp MDM Spyware Targets Logistics Firms, Steals New SMS and Redirects Calls",
-          "url": "https://thehackernews.com/2026/09/corp-mdm-spyware-targets-logistics.html"
-        }
-      },
-      {
-        "id": 133487,
-        "text": "⤷\nTitle:\nAPI Pentesting — Quick Notes\n════════════════════════\n𐀪\nAuthor:\nNavafpt\n════════════════════════\nⴵ\nTime:\nThu, 24 Sep 2026 11:29:37 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#api_pentesting\n#owasp_top_10\n#api_security",
-        "date": "2026-09-24T12:04:35+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133487_0_576d0f2f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133487_1_08a83d6a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/133487",
-        "link": {
-          "title": "API Pentesting — Quick Notes",
-          "url": "https://medium.com/@navafpt211/api-pentesting-quick-notes-42262e25a29d?source=rss------api_security-5"
-        }
-      },
-      {
-        "id": 133486,
-        "text": "⤷\nTitle:\nQNAYDS Malappuram: Kerala’s №1 Ethical Hacking & Cyber Security Institute\n════════════════════════\n𐀪\nAuthor:\nQNAYDS Academy\n════════════════════════\nⴵ\nTime:\nThu, 24 Sep 2026 10:26:03 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#kerala\n#ethical_hacking_course\n#malappuram\n#ethical_hacking",
-        "date": "2026-09-24T12:04:32+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133486_0_576d0f2f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133486_1_5d5391e3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/133486",
-        "link": {
-          "title": "QNAYDS Malappuram: Kerala’s №1 Ethical Hacking & Cyber Security Institute",
-          "url": "https://medium.com/@qnaydsacademy/qnayds-malappuram-keralas-1-ethical-hacking-cyber-security-institute-096095266901?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 133485,
-        "text": "⤷\nTitle:\nAPI6 in the Wild: Unrestricted Access To Sensitive Business Flows\n════════════════════════\n𐀪\nAuthor:\nMuhammad Usman Faridi\n════════════════════════\nⴵ\nTime:\nThu, 24 Sep 2026 10:58:10 GMT\n════════════════════════\n⌗\nTags:\n#api\n#cybersecurity\n#apisec_u_pakistan\n#appsec\n#ethical_hacking",
-        "date": "2026-09-24T12:04:28+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133485_0_576d0f2f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133485_1_1c69bb64.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/133485",
-        "link": {
-          "title": "API6 in the Wild: Unrestricted Access To Sensitive Business Flows",
-          "url": "https://infosecwriteups.com/api6-in-the-wild-unrestricted-access-to-sensitive-business-flows-0d7e0bfe76c6?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 133484,
-        "text": "⤷\nTitle:\nTop Cyber Security Course in Delhi with Placement Opportunities\n════════════════════════\n𐀪\nAuthor:\ncybersecuritycourse\n════════════════════════\nⴵ\nTime:\nThu, 24 Sep 2026 10:58:55 GMT\n════════════════════════\n⌗\nTags:\n#ai\n#ethical_ai\n#education\n#cybersecurity\n#ethical_hacking",
-        "date": "2026-09-24T12:04:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133484_0_576d0f2f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133484_1_d555be2f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/133484",
-        "link": {
-          "title": "Top Cyber Security Course in Delhi with Placement Opportunities",
-          "url": "https://medium.com/@cybersecuritycourse/top-cyber-security-course-in-delhi-with-placement-opportunities-7ece4ddcc8a3?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 133483,
-        "text": "⤷\nTitle:\nFrom Beginner to Pentester: How an Ethical Hacking Course Builds Real Skills\n════════════════════════\n𐀪\nAuthor:\nAnuragshah\n════════════════════════\nⴵ\nTime:\nThu, 24 Sep 2026 11:02:34 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ethical_hacking\n#ethical_hacking_course",
-        "date": "2026-09-24T12:04:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133483_0_576d0f2f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133483_1_8e27c29c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/133483",
-        "link": {
-          "title": "From Beginner to Pentester: How an Ethical Hacking Course Builds Real Skills",
-          "url": "https://medium.com/@anuragshah23622/from-beginner-to-pentester-how-an-ethical-hacking-course-builds-real-skills-74408ba23b2b?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 133482,
-        "text": "⤷\nTitle:\nVulnHub :ContainMe: 1 CTF Çözümü\n════════════════════════\n𐀪\nAuthor:\nAzat Dicle\n════════════════════════\nⴵ\nTime:\nThu, 24 Sep 2026 10:23:37 GMT\n════════════════════════\n⌗\nTags:\n#ctf_writeup\n#ctf_walkthrough\n#vulnhub_walkthrough\n#ctf\n#vulnhub",
-        "date": "2026-09-24T12:04:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133482_0_576d0f2f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133482_1_add11c1b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/133482",
-        "link": {
-          "title": "VulnHub :ContainMe: 1 CTF Çözümü",
-          "url": "https://azatdicle.medium.com/vulnhub-containme-1-ctf-%C3%A7%C3%B6z%C3%BCm%C3%BC-ecf5017b5c53?source=rss------vulnhub-5"
-        }
-      },
-      {
-        "id": 133481,
-        "text": "⤷\nTitle:\nSOC Day 5: Networking Fundamentals, Routing Algorithms & Network Security\n════════════════════════\n𐀪\nAuthor:\nsaurabh\n════════════════════════\nⴵ\nTime:\nThu, 24 Sep 2026 11:40:35 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#cybersecurity\n#ethical_hacking\n#freelancing\n#security",
-        "date": "2026-09-24T12:04:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133481_0_576d0f2f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133481_1_e6267da9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/133481",
-        "link": {
-          "title": "SOC Day 5: Networking Fundamentals, Routing Algorithms & Network Security",
-          "url": "https://medium.com/@saurabhbhosale01911/soc-day-5-networking-fundamentals-routing-algorithms-network-security-553aeade0043?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 133480,
-        "text": "⤷\nTitle:\nInfinix Hot 12i X665B — PixelOS + Magisk + Root + Kali Linux ARM64 Full\n════════════════════════\n𐀪\nAuthor:\nRaja Muhammad Kurnia Setyawan\n════════════════════════\nⴵ\nTime:\nThu, 24 Sep 2026 10:23:07 GMT\n════════════════════════\n⌗\nTags:\n#tutorial\n#android\n#hacking\n#infinix",
-        "date": "2026-09-24T12:04:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133480_0_576d0f2f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133480_1_e65fa7d5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/133480",
-        "link": {
-          "title": "Infinix Hot 12i X665B — PixelOS + Magisk + Root + Kali Linux ARM64 Full",
-          "url": "https://medium.com/@kurniatamvan13/infinix-hot-12i-x665b-pixelos-magisk-root-kali-linux-arm64-full-8b97275ea121?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 133474,
-        "text": "⤷\nTitle:\n​Deconstructing Malware Execution: From Initial Access to Persistence.\n════════════════════════\n𐀪\nAuthor:\nMunaza Cyber\n════════════════════════\nⴵ\nTime:\nThu, 24 Sep 2026 09:14:28 GMT\n════════════════════════\n⌗\nTags:\n#careers\n#ethical_hacking\n#future\n#tech\n#cybersecurity",
-        "date": "2026-09-24T10:04:46+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133474_0_576d0f2f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_133474_1_cb899f33.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/133474",
-        "link": {
-          "title": "​Deconstructing Malware Execution: From Initial Access to Persistence.",
-          "url": "https://medium.com/@munnaza.cyber/deconstructing-malware-execution-from-initial-access-to-persistence-6c6a8f8b21c5?source=rss------ethical_hacking-5"
-        }
       }
     ]
   },
-  "last_update": "2026-09-25T10:41:05.968748+00:00",
+  "last_update": "2026-09-25T15:39:28.184196+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 193,
-    "total_files": 193,
+    "total_media": 191,
+    "total_files": 191,
     "total_links": 0,
     "files_by_type": {
-      "image": 193
+      "image": 191
     },
-    "referenced_files": 193,
-    "existing_media_files": 193,
-    "total_size_mb": 6.09,
-    "last_calculation": "2026-09-25T10:41:05.971105+00:00"
+    "referenced_files": 191,
+    "existing_media_files": 191,
+    "total_size_mb": 5.84,
+    "last_calculation": "2026-09-25T15:39:28.186466+00:00"
   }
 }
