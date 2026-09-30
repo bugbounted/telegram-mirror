@@ -2,6 +2,458 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 134264,
+        "text": "⤷\nTitle:\nSkills Assessment — SQL Injection Fundamentals\n════════════════════════\n𐀪\nAuthor:\nFabric047\n════════════════════════\nⴵ\nTime:\nWed, 30 Sep 2026 17:02:35 GMT\n════════════════════════\n⌗\nTags:\n#htb\n#linux\n#htb_writeup\n#sql_injection\n#sql",
+        "date": "2026-09-30T18:04:36+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134264_0_77dc5111.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134264_1_a02b0110.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134264",
+        "link": {
+          "title": "Skills Assessment — SQL Injection Fundamentals",
+          "url": "https://medium.com/@Fabric047/skills-assessment-sql-injection-fundamentals-3659c365f125?source=rss------sql_injection-5"
+        }
+      },
+      {
+        "id": 134263,
+        "text": "⤷\nTitle:\nDigital Forensics Tools Every Beginner Should Know\n════════════════════════\n𐀪\nAuthor:\nSyed Ateeb Ali\n════════════════════════\nⴵ\nTime:\nWed, 30 Sep 2026 16:06:05 GMT\n════════════════════════\n⌗\nTags:\n#incident_response\n#cybersecurity\n#technology\n#digital_forensics\n#ethical_hacking",
+        "date": "2026-09-30T18:04:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134263_0_77dc5111.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134263_1_efd3ec05.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134263",
+        "link": {
+          "title": "Digital Forensics Tools Every Beginner Should Know",
+          "url": "https://medium.com/@syedateebali/digital-forensics-tools-every-beginner-should-know-bffd3c3a5e57?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 134262,
+        "text": "⤷\nTitle:\nTry Hack Me: XSS Introduction Write Up\n════════════════════════\n𐀪\nAuthor:\nJozepjoestar\n════════════════════════\nⴵ\nTime:\nWed, 30 Sep 2026 15:58:16 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#tryhackme_walkthrough",
+        "date": "2026-09-30T18:04:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134262_0_77dc5111.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134262_1_a61be8c7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134262",
+        "link": {
+          "title": "Try Hack Me: XSS Introduction Write Up",
+          "url": "https://medium.com/@jozepjoestar/try-hack-me-xss-introduction-write-up-3d442c95f8e5?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 134261,
+        "text": "⤷\nTitle:\nI Hijacked My Own Network’s DNS Traffic\n════════════════════════\n𐀪\nAuthor:\nPrajwal Divekar\n════════════════════════\nⴵ\nTime:\nWed, 30 Sep 2026 16:39:18 GMT\n════════════════════════\n⌗\nTags:\n#hacker\n#penetration_testing\n#network_penetration_test\n#network_penetration\n#ethical_hacking",
+        "date": "2026-09-30T18:04:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134261_0_77dc5111.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134261_1_62661345.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134261",
+        "link": {
+          "title": "I Hijacked My Own Network’s DNS Traffic",
+          "url": "https://medium.com/@prajwaldivekar42/i-hijacked-my-own-networks-dns-traffic-1fc09ed6037a?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 134260,
+        "text": "⤷\nTitle:\nPhishing — Still the Most Effective Cyberattack Vector\n════════════════════════\n𐀪\nAuthor:\n0trust0day\n════════════════════════\nⴵ\nTime:\nWed, 30 Sep 2026 16:11:01 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#software_development\n#phishing\n#technology\n#cybersecurity",
+        "date": "2026-09-30T18:04:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134260_0_77dc5111.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134260_1_8d05297a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134260",
+        "link": {
+          "title": "Phishing — Still the Most Effective Cyberattack Vector",
+          "url": "https://0trust0day.medium.com/phishing-still-the-most-effective-cyberattack-vector-fed02616efeb?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 134259,
+        "text": "⤷\nTitle:\nDarkNyx: Exploring the Hidden Side of the Internet\n════════════════════════\n𐀪\nAuthor:\nBENSEC\n════════════════════════\nⴵ\nTime:\nWed, 30 Sep 2026 16:26:31 GMT\n════════════════════════\n⌗\nTags:\n#osint\n#threat_intelligence\n#cybersecurity\n#infosec\n#darkweb",
+        "date": "2026-09-30T18:04:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134259_0_77dc5111.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134259_1_6817768f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134259",
+        "link": {
+          "title": "DarkNyx: Exploring the Hidden Side of the Internet",
+          "url": "https://medium.com/@bensec/darknyx-exploring-the-hidden-side-of-the-internet-49d8e3508df2?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 134258,
+        "text": "⤷\nTitle:\nI Built a Mini SOC Using Wazuh, TheHive, and Slack\n════════════════════════\n𐀪\nAuthor:\nsiji adeniyi\n════════════════════════\nⴵ\nTime:\nWed, 30 Sep 2026 16:26:41 GMT\n════════════════════════\n⌗\nTags:\n#soc\n#wazuh\n#infosec\n#siem\n#cybersecurity_training",
+        "date": "2026-09-30T18:04:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134258_0_77dc5111.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134258_1_d9e73be3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134258",
+        "link": {
+          "title": "I Built a Mini SOC Using Wazuh, TheHive, and Slack",
+          "url": "https://medium.com/@sijibomi345/i-built-a-mini-soc-using-wazuh-thehive-python-and-slack-3a21c5bb8e3e?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 134257,
+        "text": "⤷\nTitle:\nInsecure Output Handling: when a chatbot’s response becomes an exploit\n════════════════════════\n𐀪\nAuthor:\nh@shtalk\n════════════════════════\nⴵ\nTime:\nWed, 30 Sep 2026 16:56:01 GMT\n════════════════════════\n⌗\nTags:\n#llm\n#infosec\n#ai\n#consulting\n#cybersecurity",
+        "date": "2026-09-30T18:04:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134257_0_77dc5111.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134257_1_6c9b4c72.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134257",
+        "link": {
+          "title": "Insecure Output Handling: when a chatbot’s response becomes an exploit",
+          "url": "https://eva-georgieva.medium.com/insecure-output-handling-when-a-chatbots-response-becomes-an-exploit-c84c2bc987e6?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 134256,
+        "text": "⤷\nTitle:\nEvilBox C2 is a seriously interesting platform for authorized red teams, penetration testers…\n════════════════════════\n𐀪\nAuthor:\nDBinaryGhost\n════════════════════════\nⴵ\nTime:\nWed, 30 Sep 2026 16:01:21 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#cyberattack\n#cybercrime\n#red_team\n#hacking",
+        "date": "2026-09-30T18:04:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134256_0_77dc5111.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134256_1_c019736b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134256",
+        "link": {
+          "title": "EvilBox C2 is a seriously interesting platform for authorized red teams, penetration testers…",
+          "url": "https://dbinaryghostx.medium.com/evilbox-c2-is-a-seriously-interesting-platform-for-authorized-red-teams-penetration-testers-9ae068d4420a?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 134255,
+        "text": "⤷\nTitle:\nGPT Used to Say the Darnest Things…\n════════════════════════\n𐀪\nAuthor:\nEric Choi\n════════════════════════\nⴵ\nTime:\nWed, 30 Sep 2026 16:50:40 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#chatgpt\n#ai\n#openai\n#gpt",
+        "date": "2026-09-30T18:04:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134255_0_77dc5111.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134255_1_a52a583b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134255",
+        "link": {
+          "title": "GPT Used to Say the Darnest Things…",
+          "url": "https://medium.com/@ericchoi97/gpt-used-to-say-the-darnest-things-2e8f9dd146d7?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 134254,
+        "text": "⤷\nTitle:\nCurso práctico de seguridad para LLM: de cero al red teaming\n════════════════════════\n𐀪\nAuthor:\nTU INSIGNIA\n════════════════════════\nⴵ\nTime:\nWed, 30 Sep 2026 17:25:41 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#generative_ai_tools\n#hacking\n#ai\n#ai_agent",
+        "date": "2026-09-30T18:04:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134254_0_77dc5111.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134254_1_ee25dcad.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134254",
+        "link": {
+          "title": "Curso práctico de seguridad para LLM: de cero al red teaming",
+          "url": "https://medium.com/@TUINSIGNIA/curso-pr%C3%A1ctico-de-seguridad-para-llm-de-cero-al-red-teaming-8432a533376a?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 134253,
+        "text": "⤷\nTitle:\nAttackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nWed, 30 Sep 2026 22:02:59 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-09-30T18:03:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134253_0_77dc5111.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134253",
+        "link": {
+          "title": "Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks",
+          "url": "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html"
+        }
+      },
+      {
+        "id": 134252,
+        "text": "⤷\nTitle:\nAttackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nWed, 30 Sep 2026 22:16:29 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-09-30T18:03:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134252_0_77dc5111.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134252",
+        "link": {
+          "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets",
+          "url": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html"
+        }
+      },
+      {
+        "id": 134251,
+        "text": "⤷\nTitle:\nشرح غرفه Windows Threat Detection 2\n════════════════════════\n𐀪\nAuthor:\nMohamed Rafik\n════════════════════════\nⴵ\nTime:\nWed, 30 Sep 2026 14:20:32 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#tryhackme_walkthrough\n#soc_analyst\n#tryhackme_writeup",
+        "date": "2026-09-30T16:04:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134251_0_77dc5111.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134251_1_8c6ad1fc.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134251",
+        "link": {
+          "title": "شرح غرفه Windows Threat Detection 2",
+          "url": "https://medium.com/@morafiq456.a/%D8%B4%D8%B1%D8%AD-%D8%BA%D8%B1%D9%81%D9%87-windows-threat-detection-2-c8749b14529a?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 134250,
+        "text": "⤷\nTitle:\nBeing Bad At Something Is Also Success\n════════════════════════\n𐀪\nAuthor:\njasmeenwriter\n════════════════════════\nⴵ\nTime:\nWed, 30 Sep 2026 15:09:33 GMT\n════════════════════════\n⌗\nTags:\n#failure\n#tryhackme\n#improvement\n#learn\n#success",
+        "date": "2026-09-30T16:04:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134250_0_77dc5111.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134250_1_6bc29c27.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134250",
+        "link": {
+          "title": "Being Bad At Something Is Also Success",
+          "url": "https://medium.com/@jasmii/being-bad-at-something-is-also-success-00cc5b43cf93?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 134249,
+        "text": "⤷\nTitle:\nTHM: Regular Expressions Walkthrough\n════════════════════════\n𐀪\nAuthor:\nMark James Gonzales\n════════════════════════\nⴵ\nTime:\nWed, 30 Sep 2026 15:25:42 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#tryhackme_walkthrough\n#regex",
+        "date": "2026-09-30T16:04:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134249_0_77dc5111.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134249_1_39600f98.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134249",
+        "link": {
+          "title": "THM: Regular Expressions Walkthrough",
+          "url": "https://medium.com/@markjamesgonzales99/thm-regular-expressions-walkthrough-13ce852f0a7d?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 134248,
+        "text": "⤷\nTitle:\nWho Really Gets Something Out of a Pentest? Not Just Your Security Team\n════════════════════════\n𐀪\nAuthor:\nInvadel\n════════════════════════\nⴵ\nTime:\nWed, 30 Sep 2026 15:01:38 GMT\n════════════════════════\n⌗\nTags:\n#risk_management\n#saas\n#cybersecurity\n#penetration_testing\n#startup",
+        "date": "2026-09-30T16:04:45+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134248_0_77dc5111.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134248_1_7c385e66.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134248",
+        "link": {
+          "title": "Who Really Gets Something Out of a Pentest? Not Just Your Security Team",
+          "url": "https://medium.com/@invadel/who-really-gets-something-out-of-a-pentest-not-just-your-security-team-2a573aeff11a?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 134247,
+        "text": "⤷\nTitle:\nGaining a Foothold: Exploiting the UnrealIRCd Backdoor with Metasploit\n════════════════════════\n𐀪\nAuthor:\nPWNXOTUS\n════════════════════════\nⴵ\nTime:\nWed, 30 Sep 2026 15:27:17 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_walkthrough\n#exploitation\n#cybersecurity\n#penetration_testing\n#metasploit",
+        "date": "2026-09-30T16:04:42+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134247_0_77dc5111.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134247_1_7d65e3f7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134247",
+        "link": {
+          "title": "Gaining a Foothold: Exploiting the UnrealIRCd Backdoor with Metasploit",
+          "url": "https://pwnxotus.medium.com/gaining-a-foothold-exploiting-the-unrealircd-backdoor-with-metasploit-7cf8970cc369?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 134246,
+        "text": "⤷\nTitle:\nWhat are initial access brokers, and how much does access to a company cost?\n════════════════════════\n𐀪\nAuthor:\nDarkweb\n════════════════════════\nⴵ\nTime:\nWed, 30 Sep 2026 14:20:48 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#infosec\n#darkweb\n#threat_intelligence\n#ransomware",
+        "date": "2026-09-30T16:04:39+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134246_0_77dc5111.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134246_1_c96cb696.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134246",
+        "link": {
+          "title": "What are initial access brokers, and how much does access to a company cost?",
+          "url": "https://medium.com/@darkweb_33875/what-are-initial-access-brokers-and-how-much-does-access-to-a-company-cost-4fd613312718?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 134245,
+        "text": "⤷\nTitle:\nLINUX DIARIES — Chapter 1: “Dear Diary, I Got a Server”\n════════════════════════\n𐀪\nAuthor:\nMAYUR SAPKALE\n════════════════════════\nⴵ\nTime:\nWed, 30 Sep 2026 14:13:25 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#devops\n#linux\n#software_development",
+        "date": "2026-09-30T16:04:35+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134245_0_77dc5111.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134245_1_38afbcd7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134245",
+        "link": {
+          "title": "LINUX DIARIES — Chapter 1: “Dear Diary, I Got a Server”",
+          "url": "https://mayur009.medium.com/linux-diaries-chapter-1-dear-diary-i-got-a-server-0d3ea2b1d023?source=rss------hacking-5"
+        }
+      },
+      {
         "id": 134216,
         "text": "⤷\nTitle:\nXSS Gym Levels 1–20: A Context-Based Approach to Cross-Site ScriptingLearning XSS by understanding…\n════════════════════════\n𐀪\nAuthor:\nkermit0X\n════════════════════════\nⴵ\nTime:\nWed, 30 Sep 2026 11:34:26 GMT\n════════════════════════\n⌗\nTags:\n#xs\n#cross_site_scripting\n#cybersecurity",
         "date": "2026-09-30T12:04:34+00:00",
@@ -1820,462 +2272,10 @@
           "title": "Speed is Built: The Operational Antidote to Urgency Culture",
           "url": "https://medium.com/the-sec-edit/speed-is-built-the-operational-antidote-to-urgency-culture-f12c36efbe18?source=rss------infosec-5"
         }
-      },
-      {
-        "id": 134100,
-        "text": "⤷\nTitle:\nFunbox: My Walkthrough of an OffSec Proving Grounds Machine\n════════════════════════\n𐀪\nAuthor:\nAnju\n════════════════════════\nⴵ\nTime:\nTue, 29 Sep 2026 14:42:26 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#fun_box\n#walkthrough\n#hacking\n#offsec",
-        "date": "2026-09-29T16:04:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134100_0_91354f4f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134100_1_d35e4675.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134100",
-        "link": {
-          "title": "Funbox: My Walkthrough of an OffSec Proving Grounds Machine",
-          "url": "https://medium.com/@infinitisecurity32/funbox-my-walkthrough-of-an-offsec-proving-grounds-machine-5c8312612697?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 134099,
-        "text": "⤷\nTitle:\nSpring Boot Starts in 2 Seconds. Why Does Production Take 10 Minutes?\n════════════════════════\n𐀪\nAuthor:\nJaytech\n════════════════════════\nⴵ\nTime:\nTue, 29 Sep 2026 14:51:54 GMT\n════════════════════════\n⌗\nTags:\n#programming\n#spring_boot\n#application_security\n#technology\n#productivity",
-        "date": "2026-09-29T16:04:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134099_0_91354f4f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134099_1_37e5e00d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134099",
-        "link": {
-          "title": "Spring Boot Starts in 2 Seconds. Why Does Production Take 10 Minutes?",
-          "url": "https://medium.com/illumination/spring-boot-starts-in-2-seconds-why-does-production-take-10-minutes-7d7687d7be6f?source=rss------application_security-5"
-        }
-      },
-      {
-        "id": 134098,
-        "text": "⤷\nTitle:\nI Tried to Crack My Own Password with 1.1 Billion Guesses — Here’s What Happened\n════════════════════════\n𐀪\nAuthor:\nN30n\n════════════════════════\nⴵ\nTime:\nTue, 29 Sep 2026 14:16:03 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#ctf\n#bug_bounty\n#infosec",
-        "date": "2026-09-29T16:04:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134098_0_91354f4f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134098_1_a691708d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134098",
-        "link": {
-          "title": "I Tried to Crack My Own Password with 1.1 Billion Guesses — Here’s What Happened",
-          "url": "https://medium.com/@adesinat045/i-tried-to-crack-my-own-password-with-1-1-billion-guesses-heres-what-happened-221a5e7f7e90?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 134097,
-        "text": "⤷\nTitle:\nI Found an Internal VNC Viewer! | Chisel Pivoting CTF Penetration Testing\n════════════════════════\n𐀪\nAuthor:\nPentester Club\n════════════════════════\nⴵ\nTime:\nTue, 29 Sep 2026 14:29:50 GMT\n════════════════════════\n⌗\nTags:\n#artificial_intelligence\n#web_development\n#cybersecurity\n#hacking\n#bug_bounty",
-        "date": "2026-09-29T16:04:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134097_0_91354f4f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134097_1_0b549c27.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134097",
-        "link": {
-          "title": "I Found an Internal VNC Viewer! | Chisel Pivoting CTF Penetration Testing",
-          "url": "https://medium.com/@pentesterclubpvtltd/i-found-an-internal-vnc-viewer-chisel-pivoting-ctf-penetration-testing-fc2153f4afdf?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 134096,
-        "text": "⤷\nTitle:\nXSS in pdf upload\n════════════════════════\n𐀪\nAuthor:\nbelo\n════════════════════════\nⴵ\nTime:\nTue, 29 Sep 2026 14:42:09 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#pentesting\n#security",
-        "date": "2026-09-29T16:03:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134096_0_91354f4f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134096_1_cd3f2826.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134096",
-        "link": {
-          "title": "XSS in pdf upload",
-          "url": "https://medium.com/@belalmohamed3690/xss-in-pdf-upload-d0e795c161f5?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 134095,
-        "text": "⤷\nTitle:\nMellowtel Browser Extensions Turn Homes Into Proxy Nodes\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nTue, 29 Sep 2026 15:00:58 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#Browser\nExtensions\n#Chrome\nSecurity\n#Mellowtel\n#Privacy\nRisk\n#proxy\nnetwork\n#Residential\nProxy\n#SDK\n#Spur",
-        "date": "2026-09-29T16:03:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134095_0_91354f4f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134095_1_96610106.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134095",
-        "link": {
-          "title": "Mellowtel Browser Extensions Turn Homes Into Proxy Nodes",
-          "url": "https://meterpreter.org/mellowtel-browser-extensions/"
-        }
-      },
-      {
-        "id": 134094,
-        "text": "⤷\nTitle:\n101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without Consent\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nTue, 29 Sep 2026 19:15:10 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-09-29T16:03:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134094_0_91354f4f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134094",
-        "link": {
-          "title": "101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without Consent",
-          "url": "https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html"
-        }
-      },
-      {
-        "id": 134093,
-        "text": "⤷\nTitle:\nKiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nTue, 29 Sep 2026 19:43:20 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-09-29T16:03:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134093_0_91354f4f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134093",
-        "link": {
-          "title": "Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown",
-          "url": "https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html"
-        }
-      },
-      {
-        "id": 134092,
-        "text": "⤷\nTitle:\nEthical Hacking Is No Longer Just About “Hacking”: The New Shape of Cybersecurity in Nigeria\n════════════════════════\n𐀪\nAuthor:\nTECH GISTER\n════════════════════════\nⴵ\nTime:\nTue, 29 Sep 2026 12:59:00 GMT\n════════════════════════\n⌗\nTags:\n#tech\n#cyber_security_awareness\n#ethical_hacking\n#technology\n#cybersecurity",
-        "date": "2026-09-29T14:04:47+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134092_0_91354f4f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134092_1_d8eb2d1f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134092",
-        "link": {
-          "title": "Ethical Hacking Is No Longer Just About “Hacking”: The New Shape of Cybersecurity in Nigeria",
-          "url": "https://medium.com/@Techgister/ethical-hacking-is-no-longer-just-about-hacking-the-new-shape-of-cybersecurity-in-nigeria-8088f6acecda?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 134091,
-        "text": "⤷\nTitle:\nWhat I Learned About Wi-Fi Security Through TryHackMe\n════════════════════════\n𐀪\nAuthor:\nOduwaugo\n════════════════════════\nⴵ\nTime:\nTue, 29 Sep 2026 12:17:26 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#information_security\n#wifi_security\n#tryhackme\n#network_security",
-        "date": "2026-09-29T14:04:44+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134091_0_91354f4f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134091_1_eca4dc5a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134091",
-        "link": {
-          "title": "What I Learned About Wi-Fi Security Through TryHackMe",
-          "url": "https://medium.com/@oduwaugo8/what-i-learned-about-wi-fi-security-through-tryhackme-73011d22732e?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 134090,
-        "text": "⤷\nTitle:\nTakeOver — TryHackMe\n════════════════════════\n𐀪\nAuthor:\nVarunmore\n════════════════════════\nⴵ\nTime:\nTue, 29 Sep 2026 13:18:24 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_writeup\n#tryhackme\n#cybersecurity",
-        "date": "2026-09-29T14:04:40+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134090_0_91354f4f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134090_1_4feaaa39.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134090",
-        "link": {
-          "title": "TakeOver — TryHackMe",
-          "url": "https://medium.com/@varunmore2001/takeover-tryhackme-b5e0e2e570d3?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 134089,
-        "text": "⤷\nTitle:\nThe $2 Million Ransomware Attack That Started With One Line of Code\n════════════════════════\n𐀪\nAuthor:\ncyberrscourse\n════════════════════════\nⴵ\nTime:\nTue, 29 Sep 2026 12:05:02 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#infosecurity\n#technology\n#security\n#cybersecurity",
-        "date": "2026-09-29T14:04:37+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134089_0_91354f4f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134089_1_a89a8494.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134089",
-        "link": {
-          "title": "The $2 Million Ransomware Attack That Started With One Line of Code",
-          "url": "https://cyberrscourse.medium.com/the-2-million-ransomware-attack-that-started-with-one-line-of-code-e3b3111ed504?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 134059,
-        "text": "⤷\nTitle:\nSQL Injection via Base64\n════════════════════════\n𐀪\nAuthor:\nmsfire\n════════════════════════\nⴵ\nTime:\nTue, 29 Sep 2026 08:05:20 GMT\n════════════════════════\n⌗\nTags:\n#ctf_writeup\n#ethical_hacking\n#intigriti\n#ctf\n#sql_injection",
-        "date": "2026-09-29T10:04:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134059_0_91354f4f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134059_1_b25423a4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134059",
-        "link": {
-          "title": "SQL Injection via Base64",
-          "url": "https://medium.com/@msfire/sql-injection-via-base64-35691eda6197?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 134058,
-        "text": "⤷\nTitle:\nHow I Passed the CRTA Certification— Exam Writeups\n════════════════════════\n𐀪\nAuthor:\nPritam Kolay\n════════════════════════\nⴵ\nTime:\nTue, 29 Sep 2026 09:17:35 GMT\n════════════════════════\n⌗\nTags:\n#red_team\n#info_sec_writeups\n#certification\n#cyberwarfare_labs\n#ctf_writeup",
-        "date": "2026-09-29T10:04:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134058_0_91354f4f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134058_1_b2f68192.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134058",
-        "link": {
-          "title": "How I Passed the CRTA Certification— Exam Writeups",
-          "url": "https://cybersecuritywriteups.com/how-i-passed-the-crta-certification-exam-writeups-96bbef51fa28?source=rss------info_sec_writeups-5"
-        }
-      },
-      {
-        "id": 134057,
-        "text": "⤷\nTitle:\nPenetration Testing Industrial Control Systems: A 2005 Paper That Still Reads Like Modern OT…\n════════════════════════\n𐀪\nAuthor:\nSulaiman Alhasawi\n════════════════════════\nⴵ\nTime:\nTue, 29 Sep 2026 08:36:40 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#ics_security\n#ot_security\n#cybersecurity\n#pentesting",
-        "date": "2026-09-29T10:04:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134057_0_91354f4f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134057_1_e9a1ec5f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134057",
-        "link": {
-          "title": "Penetration Testing Industrial Control Systems: A 2005 Paper That Still Reads Like Modern OT…",
-          "url": "https://alhasawi.medium.com/penetration-testing-industrial-control-systems-a-2005-paper-that-still-reads-like-modern-ot-f9192dac8abc?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 134056,
-        "text": "⤷\nTitle:\nWhen AI Releases Outpace the Pentest Report\n════════════════════════\n𐀪\nAuthor:\nPentest_Testing_Corp\n════════════════════════\nⴵ\nTime:\nTue, 29 Sep 2026 09:15:42 GMT\n════════════════════════\n⌗\nTags:\n#cyber_risk_management\n#penetration_testing\n#ai_security\n#cybersecurity\n#saas_security",
-        "date": "2026-09-29T10:04:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134056_0_91354f4f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134056_1_53851bf0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134056",
-        "link": {
-          "title": "When AI Releases Outpace the Pentest Report",
-          "url": "https://meetcyber.net/when-ai-releases-outpace-the-pentest-report-0023de0413aa?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 134055,
-        "text": "⤷\nTitle:\nMicrosoft Outlook mein Critical Flaw (CVE-2026–70125): CERT-In ki Chetavani, Turant Update Karein\n════════════════════════\n𐀪\nAuthor:\nAura Tech Insights\n════════════════════════\nⴵ\nTime:\nTue, 29 Sep 2026 08:27:13 GMT\n════════════════════════\n⌗\nTags:\n#data_security\n#cyber_security_india\n#infosec\n#vulnerability",
-        "date": "2026-09-29T10:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134055_0_91354f4f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134055_1_df55c95e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134055",
-        "link": {
-          "title": "Microsoft Outlook mein Critical Flaw (CVE-2026–70125): CERT-In ki Chetavani, Turant Update Karein",
-          "url": "https://auratechinsights.medium.com/microsoft-outlook-mein-critical-flaw-cve-2026-70125-cert-in-ki-chetavani-turant-update-karein-37bfaaa01673?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 134054,
-        "text": "⤷\nTitle:\nThe Tale of Two Guards: Protecting Apps from Jailbroken Devices ️\n════════════════════════\n𐀪\nAuthor:\nAshish Awasthi\n════════════════════════\nⴵ\nTime:\nTue, 29 Sep 2026 08:25:39 GMT\n════════════════════════\n⌗\nTags:\n#application_security\n#mobile_security\n#jailbreak_detection\n#mobile_app_development\n#ios_security",
-        "date": "2026-09-29T10:03:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134054_0_91354f4f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134054_1_135cf809.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134054",
-        "link": {
-          "title": "The Tale of Two Guards: Protecting Apps from Jailbroken Devices ️",
-          "url": "https://medium.com/@awasthi027.ashish/the-tale-of-two-guards-protecting-apps-from-jailbroken-devices-%EF%B8%8F-ac85050e8eb4?source=rss------application_security-5"
-        }
-      },
-      {
-        "id": 134053,
-        "text": "⤷\nTitle:\nHow a Cute Fox Led to SQL Injection: Hacking Intigriti’s September Challenge 0926\n════════════════════════\n𐀪\nAuthor:\nAman Kunwar\n════════════════════════\nⴵ\nTime:\nTue, 29 Sep 2026 09:38:15 GMT\n════════════════════════\n⌗\nTags:\n#web_security\n#bug_bounty\n#cybersecurity\n#sql_injection\n#ethical_hacking",
-        "date": "2026-09-29T10:03:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134053_0_91354f4f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134053_1_a5ff146b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134053",
-        "link": {
-          "title": "How a Cute Fox Led to SQL Injection: Hacking Intigriti’s September Challenge 0926",
-          "url": "https://medium.com/@amankunwar283/how-a-cute-fox-led-to-sql-injection-hacking-intigritis-september-challenge-0926-a513a80c7c81?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 134052,
-        "text": "⤷\nTitle:\n10 years of Intigriti\n════════════════════════\n𐀪\nAuthor:\nEleanor Barlow\n════════════════════════\nⴵ\nTime:\nTue, 29 Sep 2026 00:00:00 GMT\n════════════════════════\n⌗\nTags:\n#News",
-        "date": "2026-09-29T10:03:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134052_0_91354f4f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134052_1_b5c17e57.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134052",
-        "link": {
-          "title": "10 years of Intigriti",
-          "url": "https://www.intigriti.com/blog/news/10-years-of-intigriti"
-        }
       }
     ]
   },
-  "last_update": "2026-09-30T12:51:06.598516+00:00",
+  "last_update": "2026-09-30T18:12:33.243211+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2287,7 +2287,7 @@
     },
     "referenced_files": 193,
     "existing_media_files": 193,
-    "total_size_mb": 4.87,
-    "last_calculation": "2026-09-30T12:51:06.600869+00:00"
+    "total_size_mb": 5.13,
+    "last_calculation": "2026-09-30T18:12:33.245507+00:00"
   }
 }
