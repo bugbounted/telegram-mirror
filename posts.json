@@ -2,6 +2,466 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 134391,
+        "text": "⤷\nTitle:\nPassword Reset Flows: Three Token Tests Every Bug Hunter Should Know\n════════════════════════\n𐀪\nAuthor:\nMolapo Manuel\n════════════════════════\nⴵ\nTime:\nThu, 01 Oct 2026 10:08:22 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#bugs\n#bug_bounty_writeup\n#cybersecurity_awareness\n#cybersecurity",
+        "date": "2026-10-01T16:06:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134391_0_c0e5319e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134391_1_f8f25c75.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134391",
+        "link": {
+          "title": "Password Reset Flows: Three Token Tests Every Bug Hunter Should Know",
+          "url": "https://medium.com/@molapomanuel709/password-reset-flows-three-token-tests-every-bug-hunter-should-know-89f21dcdabaf?source=rss------bug_bounty_writeup-5"
+        }
+      },
+      {
+        "id": 134390,
+        "text": "⤷\nTitle:\nPortSwigger SQL Injection: 18 Lab, 5 Blind Teknik ve Bir Geliştirici Gözü\n════════════════════════\n𐀪\nAuthor:\nEnes Seven\n════════════════════════\nⴵ\nTime:\nThu, 01 Oct 2026 11:43:29 GMT\n════════════════════════\n⌗\nTags:\n#sql_injection\n#software_development\n#web_security\n#programming\n#cybersecurity",
+        "date": "2026-10-01T16:06:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134390_0_c0e5319e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134390_1_6d745c56.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134390",
+        "link": {
+          "title": "PortSwigger SQL Injection: 18 Lab, 5 Blind Teknik ve Bir Geliştirici Gözü",
+          "url": "https://sevenenes.medium.com/portswigger-sql-injection-18-lab-5-blind-teknik-ve-bir-geli%C5%9Ftirici-g%C3%B6z%C3%BC-e89dd29ebc7e?source=rss------sql_injection-5"
+        }
+      },
+      {
+        "id": 134389,
+        "text": "⤷\nTitle:\nThe Fastest Bug Bounty Win I’ve Ever Read About Took 3 People, 72 Hours, and $3,000 in API Costs\n════════════════════════\n𐀪\nAuthor:\nRiya Limba\n════════════════════════\nⴵ\nTime:\nThu, 01 Oct 2026 10:53:33 GMT\n════════════════════════\n⌗\nTags:\n#osint\n#cybersecurity\n#ethical_hacking\n#bug_bounty_tips\n#bug_bounty",
+        "date": "2026-10-01T16:06:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134389_0_c0e5319e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134389_1_72d84157.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134389",
+        "link": {
+          "title": "The Fastest Bug Bounty Win I’ve Ever Read About Took 3 People, 72 Hours, and $3,000 in API Costs",
+          "url": "https://medium.com/@riyalimba/the-fastest-bug-bounty-win-ive-ever-read-about-took-3-people-72-hours-and-3-000-in-api-costs-1f7a8bbea553?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 134388,
+        "text": "⤷\nTitle:\nThe Indian Army Cybersecurity Internship Opportunity I Was Honoured to Receive\n════════════════════════\n𐀪\nAuthor:\nSushant Bhardwaj\n════════════════════════\nⴵ\nTime:\nThu, 01 Oct 2026 12:25:50 GMT\n════════════════════════\n⌗\nTags:\n#indian_army\n#ethical_hacking\n#cybersecurity\n#threat_intelligence\n#hacker",
+        "date": "2026-10-01T16:06:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134388_0_c0e5319e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134388_1_99dbd387.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134388",
+        "link": {
+          "title": "The Indian Army Cybersecurity Internship Opportunity I Was Honoured to Receive",
+          "url": "https://medium.com/@sushant.bhardwaj.9th.c/the-indian-army-cybersecurity-internship-opportunity-i-was-honoured-to-receive-de79717f536a?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 134387,
+        "text": "⤷\nTitle:\n**Sicurezza Infrastrutturale: Dalla Ricognizione di Rete all’Analisi dei Log di Sicurezza…\n════════════════════════\n𐀪\nAuthor:\nPorcu Marcooo\n════════════════════════\nⴵ\nTime:\nThu, 01 Oct 2026 12:53:01 GMT\n════════════════════════\n⌗\nTags:\n#network_security\n#cybersecurity\n#blue_team\n#soc\n#tryhackme",
+        "date": "2026-10-01T16:06:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134387_0_c0e5319e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134387_1_ba2ac7be.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134387",
+        "link": {
+          "title": "**Sicurezza Infrastrutturale: Dalla Ricognizione di Rete all’Analisi dei Log di Sicurezza…",
+          "url": "https://medium.com/@porcu.marcooo/sicurezza-infrastrutturale-dalla-ricognizione-di-rete-allanalisi-dei-log-di-sicurezza-1155ec3b0dbd?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 134386,
+        "text": "⤷\nTitle:\nWhat We Found in 50 Pharma Penetration Tests\n════════════════════════\n𐀪\nAuthor:\nShridhar InfoSec Solutions\n════════════════════════\nⴵ\nTime:\nThu, 01 Oct 2026 10:11:13 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#red_teaming\n#pharmaceutical\n#cyber_risk\n#cybersecurity",
+        "date": "2026-10-01T16:06:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134386_0_c0e5319e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134386_1_254ddb42.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134386",
+        "link": {
+          "title": "What We Found in 50 Pharma Penetration Tests",
+          "url": "https://medium.com/@shridharinfosec/what-we-found-in-50-pharma-penetration-tests-1749861fe8db?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 134385,
+        "text": "⤷\nTitle:\nBurpsuite Professional — Chromium Browser Not Opening [Fixed]\n════════════════════════\n𐀪\nAuthor:\nPooja Pawar\n════════════════════════\nⴵ\nTime:\nThu, 01 Oct 2026 10:54:36 GMT\n════════════════════════\n⌗\nTags:\n#burpsuite\n#cybersecurity\n#penetration_testing",
+        "date": "2026-10-01T16:05:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134385_0_c0e5319e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134385_1_af326cdb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134385",
+        "link": {
+          "title": "Burpsuite Professional — Chromium Browser Not Opening [Fixed]",
+          "url": "https://medium.com/@pujapawar/burpsuite-professional-chromium-browser-not-opening-fixed-839ecf6923de?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 134384,
+        "text": "⤷\nTitle:\nTryHackMe: Corridor Otağının Həlli (Write-Up)\n════════════════════════\n𐀪\nAuthor:\nTabrizabuzarov\n════════════════════════\nⴵ\nTime:\nThu, 01 Oct 2026 11:36:05 GMT\n════════════════════════\n⌗\nTags:\n#idor\n#penetration_testing\n#cybersecurity",
+        "date": "2026-10-01T16:05:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134384_0_c0e5319e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134384_1_25b766e1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134384",
+        "link": {
+          "title": "TryHackMe: Corridor Otağının Həlli (Write-Up)",
+          "url": "https://medium.com/@tabrizabuzarov/tryhackme-corridor-ota%C4%9F%C4%B1n%C4%B1n-h%C9%99lli-write-up-78c0e675412f?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 134383,
+        "text": "⤷\nTitle:\nYour Perimeter Will Fail. The Real Question Is How Far an Attacker Gets After.\n════════════════════════\n𐀪\nAuthor:\nSonali Sood\n════════════════════════\nⴵ\nTime:\nThu, 01 Oct 2026 14:23:25 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#devsecops\n#security\n#pentesting\n#penetration_testing",
+        "date": "2026-10-01T16:05:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134383_0_c0e5319e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134383_1_6a773a4f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134383",
+        "link": {
+          "title": "Your Perimeter Will Fail. The Real Question Is How Far an Attacker Gets After.",
+          "url": "https://medium.com/write-a-catalyst/your-perimeter-will-fail-the-real-question-is-how-far-an-attacker-gets-after-cf45eb321763?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 134382,
+        "text": "⤷\nTitle:\nCyber Pulse Monthly — September 2026\n════════════════════════\n𐀪\nAuthor:\nTechskillschool\n════════════════════════\nⴵ\nTime:\nThu, 01 Oct 2026 11:17:37 GMT\n════════════════════════\n⌗\nTags:\n#tech_skill_school\n#cyber_defense\n#infosec\n#cyberpulsemonthly",
+        "date": "2026-10-01T16:05:47+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134382_0_c0e5319e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134382_1_ba5ba97a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134382",
+        "link": {
+          "title": "Cyber Pulse Monthly — September 2026",
+          "url": "https://medium.com/@techskillschool305/cyber-pulse-monthly-september-2026-c9166fad3e3f?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 134381,
+        "text": "⤷\nTitle:\nBoutique, Platform or Big Consultancy? Choose the Kind of Pentest Firm Before the Brand\n════════════════════════\n𐀪\nAuthor:\nInvadel\n════════════════════════\nⴵ\nTime:\nThu, 01 Oct 2026 11:18:35 GMT\n════════════════════════\n⌗\nTags:\n#compliance\n#penetration_testing\n#security\n#infosec\n#devsecops",
+        "date": "2026-10-01T16:05:43+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134381_0_c0e5319e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134381_1_1715fc7f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134381",
+        "link": {
+          "title": "Boutique, Platform or Big Consultancy? Choose the Kind of Pentest Firm Before the Brand",
+          "url": "https://medium.com/@invadel/boutique-platform-or-big-consultancy-choose-the-kind-of-pentest-firm-before-the-brand-04bd03a70b87?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 134380,
+        "text": "⤷\nTitle:\n[GAME THEORY] When the Recruiter and the Quartermaster Share a Risk Boundary\n════════════════════════\n𐀪\nAuthor:\nWes Young\n════════════════════════\nⴵ\nTime:\nThu, 01 Oct 2026 14:46:01 GMT\n════════════════════════\n⌗\nTags:\n#game_theory\n#threat_intelligence\n#cybersecurity\n#dprk\n#infosec",
+        "date": "2026-10-01T16:05:40+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134380_0_c0e5319e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134380_1_2b4404f2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134380",
+        "link": {
+          "title": "[GAME THEORY] When the Recruiter and the Quartermaster Share a Risk Boundary",
+          "url": "https://medium.com/@barely3am/game-theory-when-the-recruiter-and-the-quartermaster-share-a-risk-boundary-61020300a328?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 134379,
+        "text": "⤷\nTitle:\nThe Hackers Companies Pay to Find Their Own Mistakes\n════════════════════════\n𐀪\nAuthor:\nMahdi Moghadasi\n════════════════════════\nⴵ\nTime:\nThu, 01 Oct 2026 09:51:21 GMT\n════════════════════════\n⌗\nTags:\n#software_engineering\n#technology\n#cybersecurity\n#privacy\n#hacking",
+        "date": "2026-10-01T16:05:36+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134379_0_c0e5319e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134379_1_e1751ca9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134379",
+        "link": {
+          "title": "The Hackers Companies Pay to Find Their Own Mistakes",
+          "url": "https://medium.com/@mahdi.nasermoghadasi/the-hackers-companies-pay-to-find-their-own-mistakes-fcf359152a57?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 134378,
+        "text": "⤷\nTitle:\n️E.D.I.T.H. // The Mysterio Protocol\n════════════════════════\n𐀪\nAuthor:\nKhaled Ebrahem\n════════════════════════\nⴵ\nTime:\nThu, 01 Oct 2026 10:32:42 GMT\n════════════════════════\n⌗\nTags:\n#ascwg\n#ctf\n#capture_the_flag\n#pentesting\n#hacking",
+        "date": "2026-10-01T16:05:33+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134378_0_c0e5319e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134378_1_27642796.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134378",
+        "link": {
+          "title": "️E.D.I.T.H. // The Mysterio Protocol",
+          "url": "https://medium.com/@0xSpiderx/%EF%B8%8Fe-d-i-t-h-the-mysterio-protocol-376e4eeed5d4?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 134377,
+        "text": "⤷\nTitle:\nUnderstanding CWE-24: Path Traversal: ‘../filedir’\n════════════════════════\n𐀪\nAuthor:\nWalter Moar\n════════════════════════\nⴵ\nTime:\nThu, 01 Oct 2026 11:01:01 GMT\n════════════════════════\n⌗\nTags:\n#information_security\n#cwe\n#software_development\n#cybersecurity\n#hacking",
+        "date": "2026-10-01T16:05:30+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134377_0_c0e5319e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134377_1_adc74643.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134377",
+        "link": {
+          "title": "Understanding CWE-24: Path Traversal: ‘../filedir’",
+          "url": "https://medium.com/@waltermoar/understanding-cwe-24-path-traversal-filedir-204f97ece954?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 134376,
+        "text": "⤷\nTitle:\nPyrat (THM) Tryhackme Walkthrough\n════════════════════════\n𐀪\nAuthor:\nLawvye\n════════════════════════\nⴵ\nTime:\nThu, 01 Oct 2026 13:17:12 GMT\n════════════════════════\n⌗\nTags:\n#privilege_escalation\n#tryhackme\n#linux\n#hacking\n#cybersecurity",
+        "date": "2026-10-01T16:05:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134376_0_c0e5319e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134376_1_189abe60.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134376",
+        "link": {
+          "title": "Pyrat (THM) Tryhackme Walkthrough",
+          "url": "https://medium.com/@lawvye/pyrat-thm-tryhackme-walkthrough-c8f0ac20a0aa?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 134375,
+        "text": "⤷\nTitle:\nCyber Briefing: 2026.10.01\n════════════════════════\n𐀪\nAuthor:\nCyberMaterial\n════════════════════════\nⴵ\nTime:\nThu, 01 Oct 2026 14:01:04 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#substack_vs_medium\n#substack\n#cybersecurity",
+        "date": "2026-10-01T16:05:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134375_0_c0e5319e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134375_1_e77adafd.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134375",
+        "link": {
+          "title": "Cyber Briefing: 2026.10.01",
+          "url": "https://cybermaterial.medium.com/cyber-briefing-2026-10-01-0770d308f180?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 134374,
+        "text": "⤷\nTitle:\nThe Month Crypto Forgot How To Be Safe\n════════════════════════\n𐀪\nAuthor:\nAlfredo Jimenez\n════════════════════════\nⴵ\nTime:\nThu, 01 Oct 2026 14:07:26 GMT\n════════════════════════\n⌗\nTags:\n#cryptonews\n#crypto\n#cibersecurity\n#hacking\n#blockchain",
+        "date": "2026-10-01T16:05:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134374_0_c0e5319e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134374_1_e124532c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134374",
+        "link": {
+          "title": "The Month Crypto Forgot How To Be Safe",
+          "url": "https://medium.com/@aljif7/the-month-crypto-forgot-how-to-be-safe-5786763e559f?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 134373,
+        "text": "⤷\nTitle:\nExploiting Java RMI on Metasploitable 2: CVE-2011–3556\n════════════════════════\n𐀪\nAuthor:\nHarikishan\n════════════════════════\nⴵ\nTime:\nThu, 01 Oct 2026 14:43:39 GMT\n════════════════════════\n⌗\nTags:\n#remote_access\n#metasploit\n#hacking\n#ethical_hacking\n#javascript",
+        "date": "2026-10-01T16:05:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134373_0_c0e5319e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134373_1_54d7a34c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134373",
+        "link": {
+          "title": "Exploiting Java RMI on Metasploitable 2: CVE-2011–3556",
+          "url": "https://medium.com/@TheHarikishan/exploiting-java-rmi-on-metasploitable-2-cve-2011-3556-1df2b4f545e9?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 134372,
+        "text": "⤷\nTitle:\nTop 10 VAPT Companies in India for Web, API & Mobile Security Testing\n════════════════════════\n𐀪\nAuthor:\nsarthak\n════════════════════════\nⴵ\nTime:\nThu, 01 Oct 2026 12:34:10 GMT\n════════════════════════\n⌗\nTags:\n#web_application_security\n#pentesting\n#application_security\n#vapt_services",
+        "date": "2026-10-01T16:05:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134372_0_c0e5319e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134372_1_0f53b057.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134372",
+        "link": {
+          "title": "Top 10 VAPT Companies in India for Web, API & Mobile Security Testing",
+          "url": "https://medium.com/@fringe963/top-10-vapt-companies-in-india-for-web-api-mobile-security-testing-34d091f7fc86?source=rss------application_security-5"
+        }
+      },
+      {
         "id": 134347,
         "text": "⤷\nTitle:\nTop 10 VAPT Companies in India for Web, API & Mobile Security Testing\n════════════════════════\n𐀪\nAuthor:\nsarthak\n════════════════════════\nⴵ\nTime:\nThu, 01 Oct 2026 12:34:10 GMT\n════════════════════════\n⌗\nTags:\n#web_application_security\n#pentesting\n#application_security\n#vapt_services",
         "date": "2026-10-01T14:04:34+00:00",
@@ -1800,474 +2260,22 @@
           "title": "I OSINT’d myself for an hour and now I sleep worse",
           "url": "https://eva-georgieva.medium.com/i-osintd-myself-for-an-hour-and-now-i-sleep-worse-ae3243d1b738?source=rss------hacking-5"
         }
-      },
-      {
-        "id": 134210,
-        "text": "⤷\nTitle:\nYour Enterprise Just Adopted AI. Congratulations, You Also Adopted a New Attack Surface\n════════════════════════\n𐀪\nAuthor:\nYua Mikanana\n════════════════════════\nⴵ\nTime:\nWed, 30 Sep 2026 11:14:10 GMT\n════════════════════════\n⌗\nTags:\n#ai\n#technology\n#hacking\n#cybersecurity\n#ethical_hacking",
-        "date": "2026-09-30T12:04:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134210_0_d491cbb7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134210_1_66040dd0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134210",
-        "link": {
-          "title": "Your Enterprise Just Adopted AI. Congratulations, You Also Adopted a New Attack Surface",
-          "url": "https://medium.com/@yua.mikanana19/your-enterprise-just-adopted-ai-congratulations-you-also-adopted-a-new-attack-surface-c156069ce318?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 134209,
-        "text": "⤷\nTitle:\nWhen Deleting the Default Workspace Made the Entire Account Unusable\n════════════════════════\n𐀪\nAuthor:\nAnkit Rathva aka Gujarati Hacker\n════════════════════════\nⴵ\nTime:\nWed, 30 Sep 2026 11:04:54 GMT\n════════════════════════\n⌗\nTags:\n#privilege_escalation\n#bug_bounty_writeup\n#hackerone\n#bug_bounty\n#bugcrowd",
-        "date": "2026-09-30T12:04:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134209_0_d491cbb7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134209_1_50dc1d7f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134209",
-        "link": {
-          "title": "When Deleting the Default Workspace Made the Entire Account Unusable",
-          "url": "https://medium.com/@ankitrathva/when-deleting-the-default-workspace-made-the-entire-account-unusable-9f7950e60054?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 134208,
-        "text": "⤷\nTitle:\nFrom DNS Record to Subdomain Takeover: A Dangling Tilda Configuration\n════════════════════════\n𐀪\nAuthor:\nAlwoares naeem\n════════════════════════\nⴵ\nTime:\nWed, 30 Sep 2026 11:23:00 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#cybersecurity\n#bug_bounty\n#penetration_testing\n#web_security",
-        "date": "2026-09-30T12:04:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134208_0_d491cbb7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134208_1_d79e5595.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134208",
-        "link": {
-          "title": "From DNS Record to Subdomain Takeover: A Dangling Tilda Configuration",
-          "url": "https://medium.com/@alnaeem961/from-dns-record-to-subdomain-takeover-a-dangling-tilda-configuration-6d202c6dd30b?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 134207,
-        "text": "⤷\nTitle:\nTwo Bug Bounty Programs Just Died. One Just Opened. Here’s What That Tells Me.\n════════════════════════\n𐀪\nAuthor:\nRiya Limba\n════════════════════════\nⴵ\nTime:\nWed, 30 Sep 2026 11:24:30 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#osint\n#cybersecurity\n#bug_bounty_tips\n#bug_bounty",
-        "date": "2026-09-30T12:04:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134207_0_d491cbb7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134207_1_f8927ab1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134207",
-        "link": {
-          "title": "Two Bug Bounty Programs Just Died. One Just Opened. Here’s What That Tells Me.",
-          "url": "https://medium.com/@riyalimba/two-bug-bounty-programs-just-died-one-just-opened-heres-what-that-tells-me-78303a512c4b?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 134206,
-        "text": "⤷\nTitle:\nTwo Researchers Found the Same Bug. One Got Paid. Here Is What Differed.\n════════════════════════\n𐀪\nAuthor:\nNitin yadav\n════════════════════════\nⴵ\nTime:\nWed, 30 Sep 2026 11:31:01 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#security\n#bug_bounty_tips\n#bug_bounty\n#cybersecurity",
-        "date": "2026-09-30T12:03:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134206_0_d491cbb7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134206_1_2b3bf26b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134206",
-        "link": {
-          "title": "Two Researchers Found the Same Bug. One Got Paid. Here Is What Differed.",
-          "url": "https://kd-200.medium.com/two-researchers-found-the-same-bug-one-got-paid-here-is-what-differed-495c6317d996?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 134205,
-        "text": "⤷\nTitle:\nAmazon Prime Phishing Scam Uses Fake Billing Alert to Steal Logins and Card Details\n════════════════════════\n𐀪\nAuthor:\nWaqas\n════════════════════════\nⴵ\nTime:\nWed, 30 Sep 2026 11:15:28 +0000\n════════════════════════\n⌗\nTags:\n#Security\n#Phishing\nScam\n#Amazon\n#Amazon\nPrime\n#Cybersecurity\n#Fraud\n#Phishing\n#Privacy\n#Scam",
-        "date": "2026-09-30T12:03:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134205_0_d491cbb7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134205_1_412c3456.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134205",
-        "link": {
-          "title": "Amazon Prime Phishing Scam Uses Fake Billing Alert to Steal Logins and Card Details",
-          "url": "https://hackread.com/amazon-prime-phishing-fake-billing-steal-login-card/"
-        }
-      },
-      {
-        "id": 134204,
-        "text": "⤷\nTitle:\nUS-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM Tools for Remote Access\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nWed, 30 Sep 2026 16:15:00 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-09-30T12:03:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134204_0_d491cbb7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134204",
-        "link": {
-          "title": "US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM Tools for Remote Access",
-          "url": "https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html"
-        }
-      },
-      {
-        "id": 134203,
-        "text": "⤷\nTitle:\nAI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nWed, 30 Sep 2026 17:00:00 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-09-30T12:03:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134203_0_d491cbb7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134203",
-        "link": {
-          "title": "AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub",
-          "url": "https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html"
-        }
-      },
-      {
-        "id": 134202,
-        "text": "⤷\nTitle:\nMy RAG API Never Signs Tokens or Sees Passwords\n════════════════════════\n𐀪\nAuthor:\nRakeshnitb\n════════════════════════\nⴵ\nTime:\nWed, 30 Sep 2026 08:37:20 GMT\n════════════════════════\n⌗\nTags:\n#api_security\n#llm\n#authentication\n#rags\n#software_architecture",
-        "date": "2026-09-30T10:04:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134202_0_d491cbb7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134202_1_fb93c47f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134202",
-        "link": {
-          "title": "My RAG API Never Signs Tokens or Sees Passwords",
-          "url": "https://medium.com/@rakeshnitb23/my-rag-api-never-signs-tokens-or-sees-passwords-24d1996fd504?source=rss------api_security-5"
-        }
-      },
-      {
-        "id": 134201,
-        "text": "⤷\nTitle:\nWalkthrough: THM Linux Fundamentals (Pt3)\n════════════════════════\n𐀪\nAuthor:\nMark James Gonzales\n════════════════════════\nⴵ\nTime:\nWed, 30 Sep 2026 08:49:13 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#linux",
-        "date": "2026-09-30T10:04:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134201_0_d491cbb7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134201_1_c34a79bb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134201",
-        "link": {
-          "title": "Walkthrough: THM Linux Fundamentals (Pt3)",
-          "url": "https://medium.com/@markjamesgonzales99/walkthrough-thm-linux-fundamentals-pt3-a104f269b379?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 134200,
-        "text": "⤷\nTitle:\nChanakya VulnHub Walkthrough: From Network Enumeration to Root Access.\n════════════════════════\n𐀪\nAuthor:\nITHINENI DHEERAJA CHANDRA KEERTHI\n════════════════════════\nⴵ\nTime:\nWed, 30 Sep 2026 09:39:38 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#linux\n#penetration_testing\n#ethical_hacking\n#ctf",
-        "date": "2026-09-30T10:04:45+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134200_0_d491cbb7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134200_1_28096629.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134200",
-        "link": {
-          "title": "Chanakya VulnHub Walkthrough: From Network Enumeration to Root Access.",
-          "url": "https://medium.com/@ithinenidheeraja37/chanakya-vulnhub-walkthrough-from-network-enumeration-to-root-access-3db1f300c67f?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 134199,
-        "text": "⤷\nTitle:\nReporting\n════════════════════════\n𐀪\nAuthor:\nExploitHunter\n════════════════════════\nⴵ\nTime:\nWed, 30 Sep 2026 08:17:57 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#infosec\n#cyber_security_awareness\n#ethical_hacking\n#web_development",
-        "date": "2026-09-30T10:04:42+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134199_0_d491cbb7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134199_1_059dfbbc.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134199",
-        "link": {
-          "title": "Reporting",
-          "url": "https://medium.com/@vorasmit22/reporting-b0a6d335f3dd?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 134198,
-        "text": "⤷\nTitle:\nCheckpoint | Hackthebox | Windows & AD | Medium\n════════════════════════\n𐀪\nAuthor:\nThe Mercury\n════════════════════════\nⴵ\nTime:\nWed, 30 Sep 2026 08:42:35 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#penetration_testing\n#ctf_writeup\n#active_directory_security\n#cybersecurity",
-        "date": "2026-09-30T10:04:39+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134198_0_d491cbb7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134198_1_3bef430f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134198",
-        "link": {
-          "title": "Checkpoint | Hackthebox | Windows & AD | Medium",
-          "url": "https://medium.com/@0xTheMercury/checkpoint-hackthebox-windows-ad-medium-ab9a9fc38eec?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 134197,
-        "text": "⤷\nTitle:\nCVE-2022–1471: Achieving RCE on Android with SnakeYAML via Custom Gadget Chains\n════════════════════════\n𐀪\nAuthor:\ntinopreter\n════════════════════════\nⴵ\nTime:\nWed, 30 Sep 2026 08:50:40 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#rce\n#snakeyaml\n#android\n#cve_2022_1471",
-        "date": "2026-09-30T10:04:36+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134197_0_d491cbb7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134197_1_ca917371.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134197",
-        "link": {
-          "title": "CVE-2022–1471: Achieving RCE on Android with SnakeYAML via Custom Gadget Chains",
-          "url": "https://medium.com/@tinopreter/cve-2022-1471-achieving-rce-on-android-with-snakeyaml-via-custom-gadget-chains-33e3eafed26c?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 134171,
-        "text": "⤷\nTitle:\nIntigriti September 2026 Challenge (0926) Write-up\n════════════════════════\n𐀪\nAuthor:\nMuhammad Saad Sabir\n════════════════════════\nⴵ\nTime:\nSun, 27 Sep 2026 20:12:07 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#vulnerability_assessment\n#bug_bounty\n#sqli\n#information_security",
-        "date": "2026-09-30T06:04:30+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134171_0_d491cbb7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134171_1_c96f83ac.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134171",
-        "link": {
-          "title": "Intigriti September 2026 Challenge (0926) Write-up",
-          "url": "https://msaadsbr.medium.com/intigriti-september-2026-challenge-0926-write-up-d8dd706f1861?source=rss------sqli-5"
-        }
-      },
-      {
-        "id": 134170,
-        "text": "⤷\nTitle:\nYour App Is Talking to a Machine: Architecting Mobile FinTech Against Bots, Farms, and Automated…\n════════════════════════\n𐀪\nAuthor:\nVaibhav Shakya | Mr Neo\n════════════════════════\nⴵ\nTime:\nWed, 30 Sep 2026 04:07:35 GMT\n════════════════════════\n⌗\nTags:\n#software_architecture\n#fintech_architecture\n#fraud_prevention\n#api_security\n#mobile_security",
-        "date": "2026-09-30T06:04:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134170_0_d491cbb7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134170_1_f34c75d8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134170",
-        "link": {
-          "title": "Your App Is Talking to a Machine: Architecting Mobile FinTech Against Bots, Farms, and Automated…",
-          "url": "https://medium.com/@vaibhav.shakya786/your-app-is-talking-to-a-machine-architecting-mobile-fintech-against-bots-farms-and-automated-d268a9ebe535?source=rss------api_security-5"
-        }
-      },
-      {
-        "id": 134169,
-        "text": "⤷\nTitle:\nCyber Security Course in Hyderabad for Freshers: A Complete Career Guide\n════════════════════════\n𐀪\nAuthor:\nFirewall Zone\n════════════════════════\nⴵ\nTime:\nWed, 30 Sep 2026 04:57:42 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#cybersecurity_training\n#cybersecurity",
-        "date": "2026-09-30T06:04:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134169_0_d491cbb7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134169_1_5d3707cb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134169",
-        "link": {
-          "title": "Cyber Security Course in Hyderabad for Freshers: A Complete Career Guide",
-          "url": "https://medium.com/@firewall_zone/cyber-security-course-in-hyderabad-for-freshers-a-complete-career-guide-0d604ef40079?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 134168,
-        "text": "⤷\nTitle:\nHow to Choose the Best Cyber Security Training Institute in Hyderabad\n════════════════════════\n𐀪\nAuthor:\nFirewall Zone\n════════════════════════\nⴵ\nTime:\nWed, 30 Sep 2026 04:59:57 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#network_security\n#cyber_security_institute",
-        "date": "2026-09-30T06:04:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134168_0_d491cbb7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134168_1_2bf32b91.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134168",
-        "link": {
-          "title": "How to Choose the Best Cyber Security Training Institute in Hyderabad",
-          "url": "https://medium.com/@firewall_zone/how-to-choose-the-best-cyber-security-training-institute-in-hyderabad-e40ca61c01e5?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 134167,
-        "text": "⤷\nTitle:\nBitget’s $388 Million Hack: A Technical Post-Mortem and the Road Ahead\n════════════════════════\n𐀪\nAuthor:\nTidoEx Insights\n════════════════════════\nⴵ\nTime:\nWed, 30 Sep 2026 04:12:25 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#bitget\n#exploit\n#crypto\n#cryptocurrency",
-        "date": "2026-09-30T06:04:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134167_0_d491cbb7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134167_1_ba090f38.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134167",
-        "link": {
-          "title": "Bitget’s $388 Million Hack: A Technical Post-Mortem and the Road Ahead",
-          "url": "https://tidoex.medium.com/bitgets-388-million-hack-a-technical-post-mortem-and-the-road-ahead-aeebe8465691?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 134166,
-        "text": "⤷\nTitle:\nCrazy Idea\n════════════════════════\n𐀪\nAuthor:\nThe Oracle of Mount Faber\n════════════════════════\nⴵ\nTime:\nWed, 30 Sep 2026 05:24:41 GMT\n════════════════════════\n⌗\nTags:\n#ai\n#hacking",
-        "date": "2026-09-30T06:04:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134166_0_d491cbb7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134166_1_758c8f1f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134166",
-        "link": {
-          "title": "Crazy Idea",
-          "url": "https://medium.com/@OracleOfMountFaber/crazy-idea-e4221c8920e6?source=rss------hacking-5"
-        }
       }
     ]
   },
-  "last_update": "2026-10-01T14:44:21.380436+00:00",
+  "last_update": "2026-10-01T20:05:08.122822+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 188,
-    "total_files": 188,
+    "total_media": 190,
+    "total_files": 190,
     "total_links": 0,
     "files_by_type": {
-      "image": 188
+      "image": 190
     },
-    "referenced_files": 188,
-    "existing_media_files": 188,
-    "total_size_mb": 4.88,
-    "last_calculation": "2026-10-01T14:44:21.382252+00:00"
+    "referenced_files": 190,
+    "existing_media_files": 190,
+    "total_size_mb": 5.33,
+    "last_calculation": "2026-10-01T20:05:08.125228+00:00"
   }
 }
