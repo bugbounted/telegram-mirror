@@ -2,6 +2,454 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 134304,
+        "text": "⤷\nTitle:\nUnmasking the Obfuscated: Exploiting a Base64-Encoded SQL Injection in Intigriti Challenge-0926\n════════════════════════\n𐀪\nAuthor:\n541mum\n════════════════════════\nⴵ\nTime:\nThu, 01 Oct 2026 04:47:57 GMT\n════════════════════════\n⌗\nTags:\n#sql_injection\n#encryption\n#ctf_walkthrough\n#intigriti",
+        "date": "2026-10-01T06:04:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134304_0_77dc5111.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134304_1_13d20797.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134304",
+        "link": {
+          "title": "Unmasking the Obfuscated: Exploiting a Base64-Encoded SQL Injection in Intigriti Challenge-0926",
+          "url": "https://medium.com/@saimumbkf/unmasking-the-obfuscated-exploiting-a-base64-encoded-sql-injection-in-intigriti-challenge-0926-9003497741e6?source=rss------sql_injection-5"
+        }
+      },
+      {
+        "id": 134303,
+        "text": "⤷\nTitle:\nNo Login, Root Shellcode: Citrix NetScaler CVE-2026–88772 Is a Pre-Auth Nightmare | by Samadhan…\n════════════════════════\n𐀪\nAuthor:\nSamadhan shimple\n════════════════════════\nⴵ\nTime:\nThu, 01 Oct 2026 05:26:24 GMT\n════════════════════════\n⌗\nTags:\n#offsec\n#cybersecurity\n#cve\n#penetration_testing\n#news",
+        "date": "2026-10-01T06:04:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134303_0_77dc5111.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134303_1_02a931e9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134303",
+        "link": {
+          "title": "No Login, Root Shellcode: Citrix NetScaler CVE-2026–88772 Is a Pre-Auth Nightmare | by Samadhan…",
+          "url": "https://samadhanshimple.medium.com/no-login-root-shellcode-citrix-netscaler-cve-2026-88772-is-a-pre-auth-nightmare-by-samadhan-4f5bbb06f3bd?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 134302,
+        "text": "⤷\nTitle:\nUnauthenticated Persistent Query Write & QueryId Hijacking\n════════════════════════\n𐀪\nAuthor:\nmsfire\n════════════════════════\nⴵ\nTime:\nThu, 01 Oct 2026 04:36:23 GMT\n════════════════════════\n⌗\nTags:\n#cve\n#wp_graphql\n#wordpress\n#cve_2026_92099\n#infosec",
+        "date": "2026-10-01T06:04:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134302_0_77dc5111.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134302_1_f705ca04.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134302",
+        "link": {
+          "title": "Unauthenticated Persistent Query Write & QueryId Hijacking",
+          "url": "https://medium.com/@msfire/unauthenticated-persistent-query-write-queryid-hijacking-02c8464e197a?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 134301,
+        "text": "⤷\nTitle:\nWhat Is Ethical Hacking?\n════════════════════════\n𐀪\nAuthor:\nKarthikanivas\n════════════════════════\nⴵ\nTime:\nThu, 01 Oct 2026 05:50:55 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#ethical_hacking\n#cybersecurity",
+        "date": "2026-10-01T06:04:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134301_0_77dc5111.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134301_1_b5c89f4b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134301",
+        "link": {
+          "title": "What Is Ethical Hacking?",
+          "url": "https://medium.com/@karthikanivas17/what-is-ethical-hacking-8d856db2ff23?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 134300,
+        "text": "⤷\nTitle:\nWhat skills are needed to start a career in Cyber Security?\n════════════════════════\n𐀪\nAuthor:\nKarthikanivas\n════════════════════════\nⴵ\nTime:\nThu, 01 Oct 2026 05:58:11 GMT\n════════════════════════\n⌗\nTags:\n#cyber_security_awareness\n#hacking\n#cybersecurity",
+        "date": "2026-10-01T06:04:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134300_0_77dc5111.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134300_1_364db2db.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134300",
+        "link": {
+          "title": "What skills are needed to start a career in Cyber Security?",
+          "url": "https://medium.com/@karthikanivas17/what-skills-are-needed-to-start-a-career-in-cyber-security-70319bab9b40?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 134299,
+        "text": "⤷\nTitle:\nMy Plan for Moving From Full Stack Dev Into Cybersecurity\n════════════════════════\n𐀪\nAuthor:\nIan Gabriel Sanchez\n════════════════════════\nⴵ\nTime:\nThu, 01 Oct 2026 04:05:01 GMT\n════════════════════════\n⌗\nTags:\n#software_engineering\n#cybersecurity\n#application_security\n#career_change\n#career_transitions",
+        "date": "2026-10-01T06:04:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134299_0_77dc5111.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134299_1_0a9c8a32.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134299",
+        "link": {
+          "title": "My Plan for Moving From Full Stack Dev Into Cybersecurity",
+          "url": "https://medium.com/the-repo/my-plan-for-moving-from-full-stack-dev-into-cybersecurity-ian-gabriel-sanchez-f15c351e718d?source=rss------application_security-5"
+        }
+      },
+      {
+        "id": 134298,
+        "text": "⤷\nTitle:\nEasy Bug Series | #05\n════════════════════════\n𐀪\nAuthor:\nSoham D. Jadhav\n════════════════════════\nⴵ\nTime:\nThu, 01 Oct 2026 04:31:05 GMT\n════════════════════════\n⌗\nTags:\n#security\n#bug_bounty\n#cybersecurity\n#bug_bounty_writeup\n#bug_bounty_tips",
+        "date": "2026-10-01T06:04:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134298_0_77dc5111.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134298_1_4edde2f7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134298",
+        "link": {
+          "title": "Easy Bug Series | #05",
+          "url": "https://medium.com/@huntersoham/easy-bug-series-05-30618ca1bda1?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 134297,
+        "text": "⤷\nTitle:\nSSTI1 Challenge Walkthrough — CyLab Academy\n════════════════════════\n𐀪\nAuthor:\nAffanhaxor\n════════════════════════\nⴵ\nTime:\nThu, 01 Oct 2026 05:44:13 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#bug_bounty\n#ssti\n#ctf\n#web_security",
+        "date": "2026-10-01T06:04:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134297_0_77dc5111.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134297_1_e4e27101.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134297",
+        "link": {
+          "title": "SSTI1 Challenge Walkthrough — CyLab Academy",
+          "url": "https://medium.com/@affanhaxor/ssti1-challenge-walkthrough-cylab-academy-ca13d0ef01fd?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 134296,
+        "text": "⤷\nTitle:\nCitrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nThu, 01 Oct 2026 10:05:34 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-10-01T06:04:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134296_0_77dc5111.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134296",
+        "link": {
+          "title": "Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs",
+          "url": "https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html"
+        }
+      },
+      {
+        "id": 134295,
+        "text": "⤷\nTitle:\nMetaMask Security Incident Prompts Exit of Affected Ethereum Validators\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nThu, 01 Oct 2026 10:40:09 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-10-01T06:04:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134295_0_77dc5111.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134295",
+        "link": {
+          "title": "MetaMask Security Incident Prompts Exit of Affected Ethereum Validators",
+          "url": "https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html"
+        }
+      },
+      {
+        "id": 134294,
+        "text": "⤷\nTitle:\nBitget Confirms Third-Party Zero-Day Behind $387.5 Million Cryptocurrency Theft\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nThu, 01 Oct 2026 10:51:10 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-10-01T06:03:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134294_0_77dc5111.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134294",
+        "link": {
+          "title": "Bitget Confirms Third-Party Zero-Day Behind $387.5 Million Cryptocurrency Theft",
+          "url": "https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html"
+        }
+      },
+      {
+        "id": 134293,
+        "text": "⤷\nTitle:\nCritical Apache MINA SSHD Vulnerabilities Patched in Update\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 01 Oct 2026 02:00:13 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Apache\nMINA SSHD\n#Authentication\nBypass\n#CVE_2026_77185\n#CVE_2026_94052\n#CVE_2026_94053\n#cybersecurity",
+        "date": "2026-10-01T04:04:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134293_0_77dc5111.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134293_1_c8d7a827.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134293",
+        "link": {
+          "title": "Critical Apache MINA SSHD Vulnerabilities Patched in Update",
+          "url": "https://securityonline.info/apache-mina-sshd-vulnerabilities-patch/"
+        }
+      },
+      {
+        "id": 134292,
+        "text": "⤷\nTitle:\nKiteworks Patches 78 Vulnerabilities, Including Critical Account Takeover Flaw\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 01 Oct 2026 02:09:55 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Account\nTakeover\n#CVE_2026_102115\n#CVE_2026_102147\n#CVE_2026_102149\n#Email\nProtection Gateway\n#Kiteworks\n#Kiteworks\nvulnerabilities\n#ssrf",
+        "date": "2026-10-01T04:04:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134292_0_77dc5111.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134292_1_ae1d31b3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134292",
+        "link": {
+          "title": "Kiteworks Patches 78 Vulnerabilities, Including Critical Account Takeover Flaw",
+          "url": "https://securityonline.info/kiteworks-vulnerabilities/"
+        }
+      },
+      {
+        "id": 134291,
+        "text": "⤷\nTitle:\n9.0 CVSS Dell Terraform Provider Vulnerabilities Exposed\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 01 Oct 2026 02:31:49 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_76113\n#CVE_2026_91881\n#CVE_2026_91882\n#CVE_2026_91883\n#cybersecurity\n#dell\n#terraform",
+        "date": "2026-10-01T04:04:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134291_0_77dc5111.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134291_1_d2d3b1fb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134291",
+        "link": {
+          "title": "9.0 CVSS Dell Terraform Provider Vulnerabilities Exposed",
+          "url": "https://securityonline.info/dell-terraform-provider-vulnerabilities-fixed/"
+        }
+      },
+      {
+        "id": 134290,
+        "text": "⤷\nTitle:\nAxios Security Vulnerabilities Expose Node.js Apps\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 01 Oct 2026 02:39:14 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Axios\n#cybersecurity\n#Node\n.js\n#patch\n#Vulnerability",
+        "date": "2026-10-01T04:03:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134290_0_77dc5111.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134290_1_b46d0a34.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134290",
+        "link": {
+          "title": "Axios Security Vulnerabilities Expose Node.js Apps",
+          "url": "https://securityonline.info/axios-security-vulnerabilities/"
+        }
+      },
+      {
+        "id": 134289,
+        "text": "⤷\nTitle:\nModSecurity Vulnerabilities: 4 WAF Bypasses Patched\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 01 Oct 2026 02:55:02 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#cybersecurity\n#modsecurity\n#OWASP\n#Vulnerability\n#waf",
+        "date": "2026-10-01T04:03:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134289_0_77dc5111.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134289_1_b8fef4cf.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134289",
+        "link": {
+          "title": "ModSecurity Vulnerabilities: 4 WAF Bypasses Patched",
+          "url": "https://securityonline.info/modsecurity-security-vulnerabilities/"
+        }
+      },
+      {
+        "id": 134288,
+        "text": "⤷\nTitle:\nMediaWiki External Data CVE-2026-100382 (CVSS 10) Unauthenticated RCE Exploited in the Wild, PoC Public\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 01 Oct 2026 03:29:29 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Command\nInjection\n#CVE_2026_100382\n#exploited\nin the wild\n#External\nData\n#MediaWiki\n#MediaWiki\nRCE\n#PoC\n#unauthenticated\nRCE",
+        "date": "2026-10-01T04:03:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134288_0_77dc5111.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134288_1_23414479.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134288",
+        "link": {
+          "title": "MediaWiki External Data CVE-2026-100382 (CVSS 10) Unauthenticated RCE Exploited in the Wild, PoC Public",
+          "url": "https://securityonline.info/mediawiki-rce-cve-2026-100382/"
+        }
+      },
+      {
+        "id": 134287,
+        "text": "⤷\nTitle:\nASUS Security Vulnerabilities Expose Routers and Motherboards\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 01 Oct 2026 03:39:12 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#ASUS\n#cybersecurity\n#router\n#Vulnerability",
+        "date": "2026-10-01T04:03:47+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134287_0_77dc5111.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134287_1_f8715958.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134287",
+        "link": {
+          "title": "ASUS Security Vulnerabilities Expose Routers and Motherboards",
+          "url": "https://securityonline.info/asus-security-vulnerabilities/"
+        }
+      },
+      {
+        "id": 134286,
+        "text": "⤷\nTitle:\nAnálisis y remediación de ransomware en entorno controlado: el caso InfinityCrypt\n════════════════════════\n𐀪\nAuthor:\nQuentasititomendozaelias\n════════════════════════\nⴵ\nTime:\nThu, 01 Oct 2026 01:40:08 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ethical_hacking\n#ransomware\n#windows\n#malware_analysis",
+        "date": "2026-10-01T02:04:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134286_0_77dc5111.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134286_1_295109c2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134286",
+        "link": {
+          "title": "Análisis y remediación de ransomware en entorno controlado: el caso InfinityCrypt",
+          "url": "https://medium.com/@quentasititomendozaelias/an%C3%A1lisis-y-remediaci%C3%B3n-de-ransomware-en-entorno-controlado-el-caso-infinitycrypt-efb89e9c1557?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 134285,
+        "text": "⤷\nTitle:\nVulnHub — Cheesey: Cheeseyjack Walkthrough\n════════════════════════\n𐀪\nAuthor:\nAntonio\n════════════════════════\nⴵ\nTime:\nThu, 01 Oct 2026 00:46:01 GMT\n════════════════════════\n⌗\nTags:\n#vulnhub_walkthrough\n#vulnhub\n#vulnhub_writeup",
+        "date": "2026-10-01T02:04:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134285_0_77dc5111.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134285_1_3c26a56b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134285",
+        "link": {
+          "title": "VulnHub — Cheesey: Cheeseyjack Walkthrough",
+          "url": "https://medium.com/@inotp/vulnhub-cheesey-cheeseyjack-walkthrough-535fe92b9360?source=rss------vulnhub-5"
+        }
+      },
+      {
         "id": 134278,
         "text": "⤷\nTitle:\nShould Your Business Pay Ethical Hackers? A Simple Guide to Bug Bounties\n════════════════════════\n𐀪\nAuthor:\nKaiediitzbetter\n════════════════════════\nⴵ\nTime:\nWed, 30 Sep 2026 23:45:12 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#business_development\n#ethical_hacking\n#business_strategy",
         "date": "2026-10-01T00:03:53+00:00",
@@ -1824,458 +2272,10 @@
           "title": "TryHackMe ADCS: NTLM Relay Walkthrough",
           "url": "https://happycamper84.medium.com/tryhackme-adcs-ntlm-relay-walkthrough-45858a2fa310?source=rss------tryhackme-5"
         }
-      },
-      {
-        "id": 134140,
-        "text": "⤷\nTitle:\nSSRF & Git ext:: [HTB Editorial Walkthrough]\n════════════════════════\n𐀪\nAuthor:\nPawut Jingjit\n════════════════════════\nⴵ\nTime:\nTue, 29 Sep 2026 21:43:45 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#cybersecurity\n#ctf\n#hackthebox\n#ssrf",
-        "date": "2026-09-29T22:04:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134140_0_d491cbb7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134140_1_8e72bb5f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134140",
-        "link": {
-          "title": "SSRF & Git ext:: [HTB Editorial Walkthrough]",
-          "url": "https://pawutjingjit.medium.com/ssrf-git-ext-htb-editorial-walkthrough-9183d6c2e471?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 134139,
-        "text": "⤷\nTitle:\nHands-On Lab: Hardening Kali Linux Operating System & Managing Network Services\n════════════════════════\n𐀪\nAuthor:\nPraisejah\n════════════════════════\nⴵ\nTime:\nTue, 29 Sep 2026 21:14:53 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#infosec\n#technology\n#system_hardening\n#linux",
-        "date": "2026-09-29T22:04:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134139_0_d491cbb7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134139_1_5ab34c46.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134139",
-        "link": {
-          "title": "Hands-On Lab: Hardening Kali Linux Operating System & Managing Network Services",
-          "url": "https://medium.com/@praisejah19208/hands-on-lab-hardening-kali-linux-operating-system-managing-network-services-b84a91fadfe6?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 134138,
-        "text": "⤷\nTitle:\nGetting a Process Handle Without Calling OpenProcess\n════════════════════════\n𐀪\nAuthor:\nS12 - 0x12Dark Development\n════════════════════════\nⴵ\nTime:\nTue, 29 Sep 2026 21:01:34 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#hacking\n#pentesting\n#malware\n#cybersecurity",
-        "date": "2026-09-29T22:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134138_0_d491cbb7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134138_1_7e3c0db4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134138",
-        "link": {
-          "title": "Getting a Process Handle Without Calling OpenProcess",
-          "url": "https://medium.com/@s12deff/getting-a-process-handle-without-calling-openprocess-862aaeaf38e3?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 134137,
-        "text": "⤷\nTitle:\nBreaking the Trust Boundary: A Mobile Security Assessment of a Healthcare Application\n════════════════════════\n𐀪\nAuthor:\nMohtadi Romene\n════════════════════════\nⴵ\nTime:\nTue, 29 Sep 2026 21:12:14 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#penetration_testing\n#mobile_pentesting\n#cybersecurity\n#application_security",
-        "date": "2026-09-29T22:03:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134137_0_d491cbb7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134137_1_09d33086.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134137",
-        "link": {
-          "title": "Breaking the Trust Boundary: A Mobile Security Assessment of a Healthcare Application",
-          "url": "https://medium.com/@romene.mohtadi.it/breaking-the-trust-boundary-a-mobile-security-assessment-of-a-healthcare-application-7adbdd2b7508?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 134136,
-        "text": "⤷\nTitle:\nCritical MikroTik RouterOS Flaw CVE-2026-84411 Allows Unauthenticated Root RCE\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 29 Sep 2026 20:10:23 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CISA\n#CVE_2026_84411\n#Integer\nUnderflow\n#MikroTik\n#MikroTik\nRouterOS vulnerability\n#Remote\nCode Execution\n#RouterOS",
-        "date": "2026-09-29T22:03:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134136_0_d491cbb7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134136_1_f963da2c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134136",
-        "link": {
-          "title": "Critical MikroTik RouterOS Flaw CVE-2026-84411 Allows Unauthenticated Root RCE",
-          "url": "https://securityonline.info/mikrotik-routeros-cve-2026-84411/"
-        }
-      },
-      {
-        "id": 134135,
-        "text": "⤷\nTitle:\nChrome Security Update Fixes 33 Flaws, Including Critical ANGLE Bug CVE-2026-102331\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 29 Sep 2026 20:22:08 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#ANGLE\n#browser\nsecurity\n#Chrome\nSecurity Update\n#CVE_2026_102331\n#google\nchrome\n#Type\nConfusion\n#V8",
-        "date": "2026-09-29T22:03:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134135_0_d491cbb7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134135_1_436f085f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134135",
-        "link": {
-          "title": "Chrome Security Update Fixes 33 Flaws, Including Critical ANGLE Bug CVE-2026-102331",
-          "url": "https://securityonline.info/chrome-154-security-update/"
-        }
-      },
-      {
-        "id": 134134,
-        "text": "⤷\nTitle:\nWhen API Trust Goes Wrong: Findings From an E-Commerce Security Assessment\n════════════════════════\n𐀪\nAuthor:\nKittubadri\n════════════════════════\nⴵ\nTime:\nTue, 29 Sep 2026 18:34:14 GMT\n════════════════════════\n⌗\nTags:\n#cybersecuri\n#bugbounty_writeup",
-        "date": "2026-09-29T20:04:34+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134134_0_d491cbb7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134134_1_abac5144.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134134",
-        "link": {
-          "title": "When API Trust Goes Wrong: Findings From an E-Commerce Security Assessment",
-          "url": "https://medium.com/@kittubadri22/when-api-trust-goes-wrong-findings-from-an-e-commerce-security-assessment-f3354446e9a9?source=rss------bugbounty_writeup-5"
-        }
-      },
-      {
-        "id": 134133,
-        "text": "⤷\nTitle:\nHow a Simple Negative Quantity Exposed a Serious Checkout Logic Flaw\n════════════════════════\n𐀪\nAuthor:\nKittubadri\n════════════════════════\nⴵ\nTime:\nTue, 29 Sep 2026 18:10:18 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#bug_bounty_writeup",
-        "date": "2026-09-29T20:04:30+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134133_0_d491cbb7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134133_1_cbf146c9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134133",
-        "link": {
-          "title": "How a Simple Negative Quantity Exposed a Serious Checkout Logic Flaw",
-          "url": "https://medium.com/@kittubadri22/how-a-simple-negative-quantity-exposed-a-serious-checkout-logic-flaw-0ba3298cb622?source=rss------bug_bounty_writeup-5"
-        }
-      },
-      {
-        "id": 134132,
-        "text": "⤷\nTitle:\nCORS Is Not a Security Feature, Stop Treating It Like One\n════════════════════════\n𐀪\nAuthor:\nSubhadip Saha\n════════════════════════\nⴵ\nTime:\nTue, 29 Sep 2026 19:01:01 GMT\n════════════════════════\n⌗\nTags:\n#api_security\n#web_development\n#programming\n#backend_development\n#security",
-        "date": "2026-09-29T20:04:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134132_0_d491cbb7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134132_1_fbd9c2fb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134132",
-        "link": {
-          "title": "CORS Is Not a Security Feature, Stop Treating It Like One",
-          "url": "https://medium.com/@subhh/cors-is-not-a-security-feature-stop-treating-it-like-one-518d74902eda?source=rss------api_security-5"
-        }
-      },
-      {
-        "id": 134131,
-        "text": "⤷\nTitle:\nThe Plugin Was Trusted. The Code Wasn’t.\n════════════════════════\n𐀪\nAuthor:\nOrion-Root\n════════════════════════\nⴵ\nTime:\nTue, 29 Sep 2026 18:29:10 GMT\n════════════════════════\n⌗\nTags:\n#information_security\n#ethical_hacking\n#cybersecurity\n#artificial_intelligence",
-        "date": "2026-09-29T20:04:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134131_0_d491cbb7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134131_1_743bf70c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134131",
-        "link": {
-          "title": "The Plugin Was Trusted. The Code Wasn’t.",
-          "url": "https://meetcyber.net/the-plugin-was-trusted-the-code-wasnt-5ee2686d1189?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 134130,
-        "text": "⤷\nTitle:\nIs the Vibe-coded application hacked ? Check with Strix.\n════════════════════════\n𐀪\nAuthor:\nambuj singh\n════════════════════════\nⴵ\nTime:\nTue, 29 Sep 2026 18:10:16 GMT\n════════════════════════\n⌗\nTags:\n#devsecops\n#cybersecurity\n#penetration_testing\n#artificial_intelligence\n#open_source",
-        "date": "2026-09-29T20:04:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134130_0_d491cbb7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134130_1_ef2dddd7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134130",
-        "link": {
-          "title": "Is the Vibe-coded application hacked ? Check with Strix.",
-          "url": "https://medium.com/@heyambujsingh/is-the-vibe-coded-application-hacked-check-with-strix-e4de7d6819c1?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 134129,
-        "text": "⤷\nTitle:\nHow to Choose the Best Penetration Testing Company in India (2026 Guide)\n════════════════════════\n𐀪\nAuthor:\nPS INFOSEC\n════════════════════════\nⴵ\nTime:\nTue, 29 Sep 2026 18:14:45 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#penetration_companies",
-        "date": "2026-09-29T20:04:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134129_0_d491cbb7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134129_1_0136a640.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134129",
-        "link": {
-          "title": "How to Choose the Best Penetration Testing Company in India (2026 Guide)",
-          "url": "https://psinfosec.medium.com/how-to-choose-the-best-penetration-testing-company-in-india-2026-guide-1d75048719a4?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 134128,
-        "text": "⤷\nTitle:\nEnable Maximum Windows Logging: A SOC & DFIR Guide to Sysmon, PowerShell Logging, and Ransomware…\n════════════════════════\n𐀪\nAuthor:\nXpert4Cyber\n════════════════════════\nⴵ\nTime:\nTue, 29 Sep 2026 19:01:04 GMT\n════════════════════════\n⌗\nTags:\n#windows_security\n#cybersecurity\n#ransomware\n#infosec\n#dfir",
-        "date": "2026-09-29T20:04:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134128_0_d491cbb7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134128_1_170cd4f0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134128",
-        "link": {
-          "title": "Enable Maximum Windows Logging: A SOC & DFIR Guide to Sysmon, PowerShell Logging, and Ransomware…",
-          "url": "https://medium.com/@xpert4cyber/enable-maximum-windows-logging-a-soc-dfir-guide-to-sysmon-powershell-logging-and-ransomware-0a92fc277920?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 134127,
-        "text": "⤷\nTitle:\nCLASS 5\n════════════════════════\n𐀪\nAuthor:\nIlyas Rafiq\n════════════════════════\nⴵ\nTime:\nTue, 29 Sep 2026 19:36:27 GMT\n════════════════════════\n⌗\nTags:\n#blue_team\n#soc_analyst\n#cybersecurity_careers\n#cybersecurity\n#infosec",
-        "date": "2026-09-29T20:04:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134127_0_d491cbb7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134127_1_442009ec.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134127",
-        "link": {
-          "title": "CLASS 5",
-          "url": "https://medium.com/@ilyasrafiq/class-5-ed794b5ea8a2?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 134126,
-        "text": "⤷\nTitle:\n$5,800 for a Negative Number: Manipulating Checkout Totals Through Business Logic Alone\n════════════════════════\n𐀪\nAuthor:\nT4nv1\n════════════════════════\nⴵ\nTime:\nTue, 29 Sep 2026 19:31:01 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_tips\n#penetration_testing\n#cybersecurity\n#security\n#bug_bounty",
-        "date": "2026-09-29T20:04:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134126_0_d491cbb7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134126_1_6ce05de5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134126",
-        "link": {
-          "title": "$5,800 for a Negative Number: Manipulating Checkout Totals Through Business Logic Alone",
-          "url": "https://medium.com/@t4nv1/5-800-for-a-negative-number-manipulating-checkout-totals-through-business-logic-alone-8d95bc737287?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 134125,
-        "text": "⤷\nTitle:\nOpenSSL Patches 14 Vulnerabilities, Including High-Severity DTLS Memory Leak\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 29 Sep 2026 19:20:45 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_84782\n#CVE_2026_84783\n#Denial\nof Service\n#DTLS\n#openssl\n#OpenSSL\nvulnerabilities\n#QUIC",
-        "date": "2026-09-29T20:04:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134125_0_d491cbb7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134125_1_8918d230.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134125",
-        "link": {
-          "title": "OpenSSL Patches 14 Vulnerabilities, Including High-Severity DTLS Memory Leak",
-          "url": "https://securityonline.info/openssl-vulnerabilities-sept-2026/"
-        }
-      },
-      {
-        "id": 134124,
-        "text": "⤷\nTitle:\nCISA Warns of 10 Toptech TMS7 and TopHAT Vulnerabilities, One Rated CVSS 10.0\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 29 Sep 2026 19:48:20 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_71379\n#ICS\nsecurity\n#sql\ninjection\n#TMS7\n#TopHAT\n#Toptech\n#Toptech\nTMS7 vulnerabilities",
-        "date": "2026-09-29T20:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134124_0_d491cbb7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134124_1_b734d8ee.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134124",
-        "link": {
-          "title": "CISA Warns of 10 Toptech TMS7 and TopHAT Vulnerabilities, One Rated CVSS 10.0",
-          "url": "https://securityonline.info/toptech-tms7-vulnerabilities/"
-        }
-      },
-      {
-        "id": 134123,
-        "text": "⤷\nTitle:\nRussia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nTue, 29 Sep 2026 22:50:08 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-09-29T20:03:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134123_0_d491cbb7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134123",
-        "link": {
-          "title": "Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor",
-          "url": "https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html"
-        }
-      },
-      {
-        "id": 134122,
-        "text": "⤷\nTitle:\nNew Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nTue, 29 Sep 2026 22:50:17 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-09-29T20:03:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134122_0_d491cbb7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134122",
-        "link": {
-          "title": "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses",
-          "url": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html"
-        }
-      },
-      {
-        "id": 134121,
-        "text": "⤷\nTitle:\nFrench Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nTue, 29 Sep 2026 23:17:01 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-09-29T20:03:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134121_0_d491cbb7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134121",
-        "link": {
-          "title": "French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks",
-          "url": "https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html"
-        }
       }
     ]
   },
-  "last_update": "2026-10-01T01:23:14.364867+00:00",
+  "last_update": "2026-10-01T07:23:22.661551+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2287,7 +2287,7 @@
     },
     "referenced_files": 193,
     "existing_media_files": 193,
-    "total_size_mb": 4.96,
-    "last_calculation": "2026-10-01T01:23:14.367136+00:00"
+    "total_size_mb": 4.88,
+    "last_calculation": "2026-10-01T07:23:22.663878+00:00"
   }
 }
