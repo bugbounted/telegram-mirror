@@ -2,6 +2,351 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 134517,
+        "text": "⤷\nTitle:\nTargeted Cyberattacks and the Shadow Industry of Contract Hacking\n════════════════════════\n𐀪\nAuthor:\n0trust0day\n════════════════════════\nⴵ\nTime:\nFri, 02 Oct 2026 21:56:45 GMT\n════════════════════════\n⌗\nTags:\n#software_development\n#business\n#infosec\n#technology\n#cybersecurity",
+        "date": "2026-10-02T23:04:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134517_0_e915b065.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134517_1_4ac90a71.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134517",
+        "link": {
+          "title": "Targeted Cyberattacks and the Shadow Industry of Contract Hacking",
+          "url": "https://meetcyber.net/targeted-cyberattacks-and-the-shadow-industry-of-contract-hacking-349371ef6b13?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 134516,
+        "text": "⤷\nTitle:\nWeb Cache Deception: Understanding the Attack and How to Prevent It\n════════════════════════\n𐀪\nAuthor:\nMazen Elsayed\n════════════════════════\nⴵ\nTime:\nFri, 02 Oct 2026 22:18:20 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#cybersecurity\n#web_security\n#penetration_testing\n#web_cache_deception",
+        "date": "2026-10-02T23:04:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134516_0_e915b065.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134516_1_03e01ee1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134516",
+        "link": {
+          "title": "Web Cache Deception: Understanding the Attack and How to Prevent It",
+          "url": "https://medium.com/@MazenElsayed_/web-cache-deception-understanding-the-attack-and-how-to-prevent-it-f9d617af56d3?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 134515,
+        "text": "⤷\nTitle:\nRecruit — SSRF → LFI → SQL Injection → Admin Takeover”THM”\n════════════════════════\n𐀪\nAuthor:\nAHMED ASHEERY\n════════════════════════\nⴵ\nTime:\nFri, 02 Oct 2026 22:32:16 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#penetration_testing\n#ctf_writeup",
+        "date": "2026-10-02T23:04:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134515_0_e915b065.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134515_1_8273bd53.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134515",
+        "link": {
+          "title": "Recruit — SSRF → LFI → SQL Injection → Admin Takeover”THM”",
+          "url": "https://medium.com/@ahmed240102345/recruit-ssrf-lfi-sql-injection-admin-takeover-thm-e31a0688b0bc?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 134514,
+        "text": "⤷\nTitle:\nSupport — Cookie Tampering → IDOR → LFI → Command Injection (RCE) “THM”\n════════════════════════\n𐀪\nAuthor:\nAHMED ASHEERY\n════════════════════════\nⴵ\nTime:\nFri, 02 Oct 2026 22:33:27 GMT\n════════════════════════\n⌗\nTags:\n#ctf_writeup\n#penetration_testing\n#bug_bounty",
+        "date": "2026-10-02T23:04:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134514_0_e915b065.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134514_1_8e7ee32f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134514",
+        "link": {
+          "title": "Support — Cookie Tampering → IDOR → LFI → Command Injection (RCE) “THM”",
+          "url": "https://medium.com/@ahmed240102345/support-cookie-tampering-idor-lfi-command-injection-rce-thm-d8bf93bcb5ce?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 134513,
+        "text": "⤷\nTitle:\nIt Returned 404… But the Data Was Still There\n════════════════════════\n𐀪\nAuthor:\nHamdyosama\n════════════════════════\nⴵ\nTime:\nFri, 02 Oct 2026 22:51:49 GMT\n════════════════════════\n⌗\nTags:\n#authentication_bypass\n#bug_bounty\n#broken_access_control\n#404_page\n#hacker",
+        "date": "2026-10-02T23:04:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134513_0_e915b065.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134513_1_5ad1c83d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134513",
+        "link": {
+          "title": "It Returned 404… But the Data Was Still There",
+          "url": "https://medium.com/@hamdyosama2995/it-returned-404-but-the-data-was-still-there-6e9bf4dd408d?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 134512,
+        "text": "⤷\nTitle:\nPatched NetScaler Appliances Keep Rebooting as Citrix Flags SAML Authentication Issue\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 02 Oct 2026 21:32:14 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Citrix\n#CVE_2026_88771\n#CVE_2026_88772\n#NetScaler\n#NetScaler\nGateway\n#SAML\n#zero_day",
+        "date": "2026-10-02T23:04:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134512_0_e915b065.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134512_1_fe48f291.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134512",
+        "link": {
+          "title": "Patched NetScaler Appliances Keep Rebooting as Citrix Flags SAML Authentication Issue",
+          "url": "https://securityonline.info/netscaler-saml-authentication-issue/"
+        }
+      },
+      {
+        "id": 134511,
+        "text": "⤷\nTitle:\nGitLab Patches Critical AI Gateway Flaw That Lets Duo Users Run Commands\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 02 Oct 2026 21:42:34 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#AI\nGateway\n#AI\nsecurity\n#CVE_2026_90970\n#gitlab\n#GitLab\nDuo\n#Remote\nCode Execution\n#Template\nInjection",
+        "date": "2026-10-02T23:04:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134511_0_e915b065.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134511_1_afbbd352.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134511",
+        "link": {
+          "title": "GitLab Patches Critical AI Gateway Flaw That Lets Duo Users Run Commands",
+          "url": "https://securityonline.info/gitlab-ai-gateway-vulnerability/"
+        }
+      },
+      {
+        "id": 134510,
+        "text": "⤷\nTitle:\nChrome Security Update Fixes Critical WebGL Flaw and 10 Other Bugs\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 02 Oct 2026 21:48:48 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#browser\nsecurity\n#Chrome\n154\n#CVE_2026_103625\n#CVE_2026_103628\n#CVE_2026_103631\n#google\nchrome\n#Sandbox\nEscape\n#WebGL",
+        "date": "2026-10-02T23:03:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134510_0_e915b065.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134510_1_05e0064c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134510",
+        "link": {
+          "title": "Chrome Security Update Fixes Critical WebGL Flaw and 10 Other Bugs",
+          "url": "https://securityonline.info/chrome-security-update-154/"
+        }
+      },
+      {
+        "id": 134509,
+        "text": "⤷\nTitle:\nDigi DAL OS Vulnerability Lets Unauthenticated Attackers Run Root Commands\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 02 Oct 2026 21:59:26 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Cellular\nRouter\n#Command\nInjection\n#CVE_2026_75937\n#DAL\nOS\n#Digi\nInternational\n#IoT\nsecurity\n#OT\nSecurity",
+        "date": "2026-10-02T23:03:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134509_0_e915b065.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134509_1_b31a44e3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134509",
+        "link": {
+          "title": "Digi DAL OS Vulnerability Lets Unauthenticated Attackers Run Root Commands",
+          "url": "https://securityonline.info/digi-dal-os-vulnerability/"
+        }
+      },
+      {
+        "id": 134508,
+        "text": "⤷\nTitle:\nAWS Fixes Loom for AWS Admin Takeover and SageMaker Unified Studio Code Execution Flaws\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 02 Oct 2026 22:09:18 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#AI\nAgent Security\n#AWS\n#Cloud\nSecurity\n#CVE_2026_103956\n#CVE_2026_103957\n#CVE_2026_104019\n#Loom\nfor AWS\n#SageMaker\nUnified Studio",
+        "date": "2026-10-02T23:03:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134508_0_e915b065.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134508_1_1084883a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134508",
+        "link": {
+          "title": "AWS Fixes Loom for AWS Admin Takeover and SageMaker Unified Studio Code Execution Flaws",
+          "url": "https://securityonline.info/loom-for-aws-sagemaker-flaws/"
+        }
+      },
+      {
+        "id": 134507,
+        "text": "⤷\nTitle:\nConstant-Time Doesn’t Mean Constant — The Subtle PHP Timing Leak\n════════════════════════\n𐀪\nAuthor:\nAnn R.\n════════════════════════\nⴵ\nTime:\nFri, 02 Oct 2026 20:46:01 GMT\n════════════════════════\n⌗\nTags:\n#api_security\n#backend\n#programming\n#web_security\n#php",
+        "date": "2026-10-02T21:04:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134507_0_e915b065.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134507_1_43088deb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134507",
+        "link": {
+          "title": "Constant-Time Doesn’t Mean Constant — The Subtle PHP Timing Leak",
+          "url": "https://medium.com/codex/constant-time-doesnt-mean-constant-the-subtle-php-timing-leak-57bbe29b4be2?source=rss------api_security-5"
+        }
+      },
+      {
+        "id": 134506,
+        "text": "⤷\nTitle:\nThe Linux Disk Commands I Run First When a Server Fills Up\n════════════════════════\n𐀪\nAuthor:\nXpert4Cyber\n════════════════════════\nⴵ\nTime:\nFri, 02 Oct 2026 19:47:20 GMT\n════════════════════════\n⌗\nTags:\n#devops\n#cybersecurity\n#linux\n#sysadmin\n#infosec",
+        "date": "2026-10-02T21:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134506_0_e915b065.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134506_1_8ae4a5c3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134506",
+        "link": {
+          "title": "The Linux Disk Commands I Run First When a Server Fills Up",
+          "url": "https://medium.com/@xpert4cyber/the-linux-disk-commands-i-run-first-when-a-server-fills-up-e29ae5a49a75?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 134505,
+        "text": "⤷\nTitle:\nBERICHT DES MONATS : ein Lösungsversuch die smartphone datenprobleme mit ki/ai Unterstützung zu…\n════════════════════════\n𐀪\nAuthor:\nMichael Konradi\n════════════════════════\nⴵ\nTime:\nFri, 02 Oct 2026 19:30:10 GMT\n════════════════════════\n⌗\nTags:\n#data_leak\n#smartphones\n#hacking\n#android\n#google",
+        "date": "2026-10-02T21:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134505_0_e915b065.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134505_1_7795c19c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134505",
+        "link": {
+          "title": "BERICHT DES MONATS : ein Lösungsversuch die smartphone datenprobleme mit ki/ai Unterstützung zu…",
+          "url": "https://medium.com/@Michael_Konradi/bericht-des-monats-ein-l%C3%B6sungsversuch-die-smartphone-datenprobleme-mit-ki-ai-unterst%C3%BCtzung-zu-17b076263d0d?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 134504,
+        "text": "⤷\nTitle:\nHow to find valid bug using Shodan + Nuclei Step by Step guide | by Samadhan Shimple\n════════════════════════\n𐀪\nAuthor:\nSamadhan shimple\n════════════════════════\nⴵ\nTime:\nFri, 02 Oct 2026 18:01:24 GMT\n════════════════════════\n⌗\nTags:\n#shodan_search_engine\n#bug_bounty\n#penetration_testing\n#cybersecurity\n#nuclei_template",
+        "date": "2026-10-02T21:03:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134504_0_e915b065.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134504_1_241588b5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134504",
+        "link": {
+          "title": "How to find valid bug using Shodan + Nuclei Step by Step guide | by Samadhan Shimple",
+          "url": "https://samadhanshimple.medium.com/how-to-find-valid-bug-using-shodan-nuclei-step-by-step-guide-by-samadhan-shimple-dcd8076d89b9?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 134503,
+        "text": "⤷\nTitle:\nThe AES Key That Bypassed Every Fix: From Mass PII Exposure to 2FA Bypass\n════════════════════════\n𐀪\nAuthor:\nMahmoud Magdy\n════════════════════════\nⴵ\nTime:\nFri, 02 Oct 2026 19:35:41 GMT\n════════════════════════\n⌗\nTags:\n#bug_hunting\n#2fa_bypass\n#bug_bounty",
+        "date": "2026-10-02T21:03:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134503_0_e915b065.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134503_1_342a7620.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134503",
+        "link": {
+          "title": "The AES Key That Bypassed Every Fix: From Mass PII Exposure to 2FA Bypass",
+          "url": "https://medium.com/@mahmoudmagdy45456/the-aes-key-that-bypassed-every-fix-from-mass-pii-exposure-to-2fa-bypass-8143c9326f34?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 134502,
         "text": "⤷\nTitle:\nTryHackMe Root Me CTF Walkthrough : Reconnaissance to Privilege Escalation\n════════════════════════\n𐀪\nAuthor:\nSoumallya Sarkar\n════════════════════════\nⴵ\nTime:\nFri, 02 Oct 2026 17:01:06 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#cybersecurity\n#tryhackme\n#ctf\n#web_security",
         "date": "2026-10-02T19:04:28+00:00",
@@ -1919,355 +2264,22 @@
           "title": "What skills are needed to start a career in Cyber Security?",
           "url": "https://medium.com/@karthikanivas17/what-skills-are-needed-to-start-a-career-in-cyber-security-70319bab9b40?source=rss------hacking-5"
         }
-      },
-      {
-        "id": 134299,
-        "text": "⤷\nTitle:\nMy Plan for Moving From Full Stack Dev Into Cybersecurity\n════════════════════════\n𐀪\nAuthor:\nIan Gabriel Sanchez\n════════════════════════\nⴵ\nTime:\nThu, 01 Oct 2026 04:05:01 GMT\n════════════════════════\n⌗\nTags:\n#software_engineering\n#cybersecurity\n#application_security\n#career_change\n#career_transitions",
-        "date": "2026-10-01T06:04:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134299_0_77dc5111.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134299_1_0a9c8a32.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134299",
-        "link": {
-          "title": "My Plan for Moving From Full Stack Dev Into Cybersecurity",
-          "url": "https://medium.com/the-repo/my-plan-for-moving-from-full-stack-dev-into-cybersecurity-ian-gabriel-sanchez-f15c351e718d?source=rss------application_security-5"
-        }
-      },
-      {
-        "id": 134298,
-        "text": "⤷\nTitle:\nEasy Bug Series | #05\n════════════════════════\n𐀪\nAuthor:\nSoham D. Jadhav\n════════════════════════\nⴵ\nTime:\nThu, 01 Oct 2026 04:31:05 GMT\n════════════════════════\n⌗\nTags:\n#security\n#bug_bounty\n#cybersecurity\n#bug_bounty_writeup\n#bug_bounty_tips",
-        "date": "2026-10-01T06:04:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134298_0_77dc5111.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134298_1_4edde2f7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134298",
-        "link": {
-          "title": "Easy Bug Series | #05",
-          "url": "https://medium.com/@huntersoham/easy-bug-series-05-30618ca1bda1?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 134297,
-        "text": "⤷\nTitle:\nSSTI1 Challenge Walkthrough — CyLab Academy\n════════════════════════\n𐀪\nAuthor:\nAffanhaxor\n════════════════════════\nⴵ\nTime:\nThu, 01 Oct 2026 05:44:13 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#bug_bounty\n#ssti\n#ctf\n#web_security",
-        "date": "2026-10-01T06:04:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134297_0_77dc5111.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134297_1_e4e27101.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134297",
-        "link": {
-          "title": "SSTI1 Challenge Walkthrough — CyLab Academy",
-          "url": "https://medium.com/@affanhaxor/ssti1-challenge-walkthrough-cylab-academy-ca13d0ef01fd?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 134296,
-        "text": "⤷\nTitle:\nCitrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nThu, 01 Oct 2026 10:05:34 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-10-01T06:04:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134296_0_77dc5111.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134296",
-        "link": {
-          "title": "Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs",
-          "url": "https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html"
-        }
-      },
-      {
-        "id": 134295,
-        "text": "⤷\nTitle:\nMetaMask Security Incident Prompts Exit of Affected Ethereum Validators\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nThu, 01 Oct 2026 10:40:09 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-10-01T06:04:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134295_0_77dc5111.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134295",
-        "link": {
-          "title": "MetaMask Security Incident Prompts Exit of Affected Ethereum Validators",
-          "url": "https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html"
-        }
-      },
-      {
-        "id": 134294,
-        "text": "⤷\nTitle:\nBitget Confirms Third-Party Zero-Day Behind $387.5 Million Cryptocurrency Theft\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nThu, 01 Oct 2026 10:51:10 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-10-01T06:03:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134294_0_77dc5111.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134294",
-        "link": {
-          "title": "Bitget Confirms Third-Party Zero-Day Behind $387.5 Million Cryptocurrency Theft",
-          "url": "https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html"
-        }
-      },
-      {
-        "id": 134293,
-        "text": "⤷\nTitle:\nCritical Apache MINA SSHD Vulnerabilities Patched in Update\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 01 Oct 2026 02:00:13 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Apache\nMINA SSHD\n#Authentication\nBypass\n#CVE_2026_77185\n#CVE_2026_94052\n#CVE_2026_94053\n#cybersecurity",
-        "date": "2026-10-01T04:04:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134293_0_77dc5111.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134293_1_c8d7a827.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134293",
-        "link": {
-          "title": "Critical Apache MINA SSHD Vulnerabilities Patched in Update",
-          "url": "https://securityonline.info/apache-mina-sshd-vulnerabilities-patch/"
-        }
-      },
-      {
-        "id": 134292,
-        "text": "⤷\nTitle:\nKiteworks Patches 78 Vulnerabilities, Including Critical Account Takeover Flaw\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 01 Oct 2026 02:09:55 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Account\nTakeover\n#CVE_2026_102115\n#CVE_2026_102147\n#CVE_2026_102149\n#Email\nProtection Gateway\n#Kiteworks\n#Kiteworks\nvulnerabilities\n#ssrf",
-        "date": "2026-10-01T04:04:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134292_0_77dc5111.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134292_1_ae1d31b3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134292",
-        "link": {
-          "title": "Kiteworks Patches 78 Vulnerabilities, Including Critical Account Takeover Flaw",
-          "url": "https://securityonline.info/kiteworks-vulnerabilities/"
-        }
-      },
-      {
-        "id": 134291,
-        "text": "⤷\nTitle:\n9.0 CVSS Dell Terraform Provider Vulnerabilities Exposed\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 01 Oct 2026 02:31:49 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_76113\n#CVE_2026_91881\n#CVE_2026_91882\n#CVE_2026_91883\n#cybersecurity\n#dell\n#terraform",
-        "date": "2026-10-01T04:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134291_0_77dc5111.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134291_1_d2d3b1fb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134291",
-        "link": {
-          "title": "9.0 CVSS Dell Terraform Provider Vulnerabilities Exposed",
-          "url": "https://securityonline.info/dell-terraform-provider-vulnerabilities-fixed/"
-        }
-      },
-      {
-        "id": 134290,
-        "text": "⤷\nTitle:\nAxios Security Vulnerabilities Expose Node.js Apps\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 01 Oct 2026 02:39:14 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Axios\n#cybersecurity\n#Node\n.js\n#patch\n#Vulnerability",
-        "date": "2026-10-01T04:03:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134290_0_77dc5111.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134290_1_b46d0a34.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134290",
-        "link": {
-          "title": "Axios Security Vulnerabilities Expose Node.js Apps",
-          "url": "https://securityonline.info/axios-security-vulnerabilities/"
-        }
-      },
-      {
-        "id": 134289,
-        "text": "⤷\nTitle:\nModSecurity Vulnerabilities: 4 WAF Bypasses Patched\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 01 Oct 2026 02:55:02 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#cybersecurity\n#modsecurity\n#OWASP\n#Vulnerability\n#waf",
-        "date": "2026-10-01T04:03:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134289_0_77dc5111.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134289_1_b8fef4cf.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134289",
-        "link": {
-          "title": "ModSecurity Vulnerabilities: 4 WAF Bypasses Patched",
-          "url": "https://securityonline.info/modsecurity-security-vulnerabilities/"
-        }
-      },
-      {
-        "id": 134288,
-        "text": "⤷\nTitle:\nMediaWiki External Data CVE-2026-100382 (CVSS 10) Unauthenticated RCE Exploited in the Wild, PoC Public\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 01 Oct 2026 03:29:29 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Command\nInjection\n#CVE_2026_100382\n#exploited\nin the wild\n#External\nData\n#MediaWiki\n#MediaWiki\nRCE\n#PoC\n#unauthenticated\nRCE",
-        "date": "2026-10-01T04:03:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134288_0_77dc5111.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134288_1_23414479.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134288",
-        "link": {
-          "title": "MediaWiki External Data CVE-2026-100382 (CVSS 10) Unauthenticated RCE Exploited in the Wild, PoC Public",
-          "url": "https://securityonline.info/mediawiki-rce-cve-2026-100382/"
-        }
-      },
-      {
-        "id": 134287,
-        "text": "⤷\nTitle:\nASUS Security Vulnerabilities Expose Routers and Motherboards\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 01 Oct 2026 03:39:12 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#ASUS\n#cybersecurity\n#router\n#Vulnerability",
-        "date": "2026-10-01T04:03:47+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134287_0_77dc5111.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134287_1_f8715958.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134287",
-        "link": {
-          "title": "ASUS Security Vulnerabilities Expose Routers and Motherboards",
-          "url": "https://securityonline.info/asus-security-vulnerabilities/"
-        }
-      },
-      {
-        "id": 134286,
-        "text": "⤷\nTitle:\nAnálisis y remediación de ransomware en entorno controlado: el caso InfinityCrypt\n════════════════════════\n𐀪\nAuthor:\nQuentasititomendozaelias\n════════════════════════\nⴵ\nTime:\nThu, 01 Oct 2026 01:40:08 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ethical_hacking\n#ransomware\n#windows\n#malware_analysis",
-        "date": "2026-10-01T02:04:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134286_0_77dc5111.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134286_1_295109c2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134286",
-        "link": {
-          "title": "Análisis y remediación de ransomware en entorno controlado: el caso InfinityCrypt",
-          "url": "https://medium.com/@quentasititomendozaelias/an%C3%A1lisis-y-remediaci%C3%B3n-de-ransomware-en-entorno-controlado-el-caso-infinitycrypt-efb89e9c1557?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 134285,
-        "text": "⤷\nTitle:\nVulnHub — Cheesey: Cheeseyjack Walkthrough\n════════════════════════\n𐀪\nAuthor:\nAntonio\n════════════════════════\nⴵ\nTime:\nThu, 01 Oct 2026 00:46:01 GMT\n════════════════════════\n⌗\nTags:\n#vulnhub_walkthrough\n#vulnhub\n#vulnhub_writeup",
-        "date": "2026-10-01T02:04:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134285_0_77dc5111.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134285_1_3c26a56b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134285",
-        "link": {
-          "title": "VulnHub — Cheesey: Cheeseyjack Walkthrough",
-          "url": "https://medium.com/@inotp/vulnhub-cheesey-cheeseyjack-walkthrough-535fe92b9360?source=rss------vulnhub-5"
-        }
       }
     ]
   },
-  "last_update": "2026-10-02T20:13:49.187675+00:00",
+  "last_update": "2026-10-02T23:53:56.019111+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 188,
-    "total_files": 188,
+    "total_media": 191,
+    "total_files": 191,
     "total_links": 0,
     "files_by_type": {
-      "image": 188
+      "image": 191
     },
-    "referenced_files": 188,
-    "existing_media_files": 188,
-    "total_size_mb": 5.16,
-    "last_calculation": "2026-10-02T20:13:49.190031+00:00"
+    "referenced_files": 191,
+    "existing_media_files": 191,
+    "total_size_mb": 5.37,
+    "last_calculation": "2026-10-02T23:53:56.021456+00:00"
   }
 }
