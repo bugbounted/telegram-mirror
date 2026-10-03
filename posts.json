@@ -2,6 +2,397 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 134604,
+        "text": "⤷\nTitle:\nReflected XSS di Portal Pemerintah Provinsi [REDACTED]via HTTP Referer Header\n════════════════════════\n𐀪\nAuthor:\nHmm\n════════════════════════\nⴵ\nTime:\nSat, 03 Oct 2026 14:48:29 GMT\n════════════════════════\n⌗\nTags:\n#bug_hunter\n#cybersecurity",
+        "date": "2026-10-03T23:04:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134604_0_c2f1eaba.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134604_1_2011df24.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134604",
+        "link": {
+          "title": "Reflected XSS di Portal Pemerintah Provinsi [REDACTED]via HTTP Referer Header",
+          "url": "https://medium.com/@hmmhmmhm/reflected-xss-di-portal-pemerintah-provinsi-j-via-http-referer-header-8e4882fb0b02?source=rss------bug_hunter-5"
+        }
+      },
+      {
+        "id": 134603,
+        "text": "⤷\nTitle:\nSource Code Disclosure via Exposed .git Directory pada Portal Pemerintah Kabupaten [REDACTED]\n════════════════════════\n𐀪\nAuthor:\nHmm\n════════════════════════\nⴵ\nTime:\nSat, 03 Oct 2026 15:17:11 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#bug_hunter",
+        "date": "2026-10-03T23:04:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134603_0_c2f1eaba.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134603_1_9ab87ce4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134603",
+        "link": {
+          "title": "Source Code Disclosure via Exposed .git Directory pada Portal Pemerintah Kabupaten [REDACTED]",
+          "url": "https://medium.com/@hmmhmmhm/source-code-disclosure-via-exposed-git-directory-pada-portal-pemerintah-kabupaten-k-7c2ddee7002c?source=rss------bug_hunter-5"
+        }
+      },
+      {
+        "id": 134602,
+        "text": "⤷\nTitle:\nExposed .env File di Portal Pemerintah Provinsi [REDACTED]: Kebocoran APP_KEY dan Kredensial…\n════════════════════════\n𐀪\nAuthor:\nHmm\n════════════════════════\nⴵ\nTime:\nSat, 03 Oct 2026 15:36:38 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#bug_hunter",
+        "date": "2026-10-03T23:04:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134602_0_c2f1eaba.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134602_1_12781017.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134602",
+        "link": {
+          "title": "Exposed .env File di Portal Pemerintah Provinsi [REDACTED]: Kebocoran APP_KEY dan Kredensial…",
+          "url": "https://medium.com/@hmmhmmhm/exposed-env-file-di-portal-pemerintah-provinsi-k-kebocoran-app-key-dan-kredensial-database-24a4ebeb8b72?source=rss------bug_hunter-5"
+        }
+      },
+      {
+        "id": 134601,
+        "text": "⤷\nTitle:\nExposed phpMyAdmin Setup Page di Portal Pemerintah Provinsi [REDACTED]\n════════════════════════\n𐀪\nAuthor:\nHmm\n════════════════════════\nⴵ\nTime:\nSat, 03 Oct 2026 15:57:41 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#bug_hunter",
+        "date": "2026-10-03T23:04:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134601_0_c2f1eaba.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134601_1_a4484cd8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134601",
+        "link": {
+          "title": "Exposed phpMyAdmin Setup Page di Portal Pemerintah Provinsi [REDACTED]",
+          "url": "https://medium.com/@hmmhmmhm/exposed-phpmyadmin-setup-page-di-portal-pemerintah-provinsi-k-f1098f4e7ce6?source=rss------bug_hunter-5"
+        }
+      },
+      {
+        "id": 134600,
+        "text": "⤷\nTitle:\nUnauthenticated Redis Access di 7 Subdomain Portal Pemerintah Kabupaten [REDACTED]\n════════════════════════\n𐀪\nAuthor:\nHmm\n════════════════════════\nⴵ\nTime:\nSat, 03 Oct 2026 16:34:39 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#bug_hunter",
+        "date": "2026-10-03T23:04:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134600_0_c2f1eaba.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134600_1_a685f418.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134600",
+        "link": {
+          "title": "Unauthenticated Redis Access di 7 Subdomain Portal Pemerintah Kabupaten [REDACTED]",
+          "url": "https://medium.com/@hmmhmmhm/unauthenticated-redis-access-di-7-subdomain-portal-pemerintah-kabupaten-l-88ef06d7fae1?source=rss------bug_hunter-5"
+        }
+      },
+      {
+        "id": 134599,
+        "text": "⤷\nTitle:\nThe EFB Looked Hardened. That Was the First Thing I Wanted to Test — Part 1\n════════════════════════\n𐀪\nAuthor:\nJeffrey Jolly\n════════════════════════\nⴵ\nTime:\nSat, 03 Oct 2026 21:13:03 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#mobile_device_security\n#aviation\n#cybersecurity\n#electronic_flight_bag",
+        "date": "2026-10-03T23:04:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134599_0_c2f1eaba.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134599_1_02eeb393.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134599",
+        "link": {
+          "title": "The EFB Looked Hardened. That Was the First Thing I Wanted to Test — Part 1",
+          "url": "https://medium.com/@jeffryjolly/the-efb-looked-hardened-that-was-the-first-thing-i-wanted-to-test-part-1-5b20cf9ed0a0?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 134598,
+        "text": "⤷\nTitle:\nL’Arte dell’Enumerazione Web: Scoprire l’Invisibile in un Penetration Test\n════════════════════════\n𐀪\nAuthor:\nPorcu Marcooo\n════════════════════════\nⴵ\nTime:\nSat, 03 Oct 2026 21:27:56 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#red_team\n#cybersecurity\n#tryhackme\n#web_security",
+        "date": "2026-10-03T23:04:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134598_0_c2f1eaba.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134598_1_7cc579cf.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134598",
+        "link": {
+          "title": "L’Arte dell’Enumerazione Web: Scoprire l’Invisibile in un Penetration Test",
+          "url": "https://medium.com/@porcu.marcooo/larte-dell-enumerazione-web-scoprire-l-invisibile-in-un-penetration-test-19455a80165e?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 134597,
+        "text": "⤷\nTitle:\nUnlocking the Vault: 6 Counter-Intuitive Security Secrets Modern Password Managers Don’t Want You…\n════════════════════════\n𐀪\nAuthor:\nGLCTech Sec\n════════════════════════\nⴵ\nTime:\nSat, 03 Oct 2026 21:29:42 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#penetration_testing\n#password_manager",
+        "date": "2026-10-03T23:04:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134597_0_c2f1eaba.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134597_1_ebd4f8a8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134597",
+        "link": {
+          "title": "Unlocking the Vault: 6 Counter-Intuitive Security Secrets Modern Password Managers Don’t Want You…",
+          "url": "https://medium.com/@contact_17618/unlocking-the-vault-6-counter-intuitive-security-secrets-modern-password-managers-dont-want-you-1e5361dd0caa?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 134596,
+        "text": "⤷\nTitle:\nNetwork Pentesting Methodology — Part 3: Understanding Metasploit Through VSFTPD, Samba, and Tomcat\n════════════════════════\n𐀪\nAuthor:\nNadaAshraf\n════════════════════════\nⴵ\nTime:\nSat, 03 Oct 2026 21:24:29 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#networking\n#hacking\n#cybersecurity\n#programming",
+        "date": "2026-10-03T23:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134596_0_c2f1eaba.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134596_1_8722b54f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134596",
+        "link": {
+          "title": "Network Pentesting Methodology — Part 3: Understanding Metasploit Through VSFTPD, Samba, and Tomcat",
+          "url": "https://medium.com/@nadana12155/network-pentesting-methodology-part-3-understanding-metasploit-through-vsftpd-samba-and-tomcat-07b274611024?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 134595,
+        "text": "⤷\nTitle:\nAdding a User Through NFS Only — Full Walkthrough\n════════════════════════\n𐀪\nAuthor:\nNadaAshraf\n════════════════════════\nⴵ\nTime:\nSat, 03 Oct 2026 21:32:47 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#cybersecurity\n#penetration_testing\n#user_experience_design\n#networking",
+        "date": "2026-10-03T23:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134595_0_c2f1eaba.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134595_1_25e9f17d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134595",
+        "link": {
+          "title": "Adding a User Through NFS Only — Full Walkthrough",
+          "url": "https://medium.com/@nadana12155/adding-a-user-through-nfs-only-full-walkthrough-4aa0c8a8d2c6?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 134594,
+        "text": "⤷\nTitle:\nIt Returned 404… But the Data Was Still There\n════════════════════════\n𐀪\nAuthor:\nHamdyosama\n════════════════════════\nⴵ\nTime:\nSat, 03 Oct 2026 21:40:49 GMT\n════════════════════════\n⌗\nTags:\n#hacker\n#broken_access_control\n#authentication_bypass\n#bug_bounty\n#404_page",
+        "date": "2026-10-03T23:03:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134594_0_c2f1eaba.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134594_1_45d08c38.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134594",
+        "link": {
+          "title": "It Returned 404… But the Data Was Still There",
+          "url": "https://medium.com/@hamdyosama2995/it-returned-404-but-the-data-was-still-there-c151d5c0ce58?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 134593,
+        "text": "⤷\nTitle:\nTryHackMe RootMe Write-up\n════════════════════════\n𐀪\nAuthor:\nAbdulkadir Kayacan\n════════════════════════\nⴵ\nTime:\nSat, 03 Oct 2026 19:33:43 GMT\n════════════════════════\n⌗\nTags:\n#ctf_walkthrough\n#tryhackme_walkthrough\n#tryhackme\n#ctf\n#ctf_writeup",
+        "date": "2026-10-03T21:04:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134593_0_c2f1eaba.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134593_1_308c019d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134593",
+        "link": {
+          "title": "TryHackMe RootMe Write-up",
+          "url": "https://medium.com/@abdulkadirkayacan/tryhackme-rootme-write-up-9da09c9b5e33?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 134592,
+        "text": "⤷\nTitle:\nLinux Privilege Escalation on TryHackMe — From karen to root Part1\n════════════════════════\n𐀪\nAuthor:\nNadaAshraf\n════════════════════════\nⴵ\nTime:\nSat, 03 Oct 2026 19:53:37 GMT\n════════════════════════\n⌗\nTags:\n#security\n#penetration_testing\n#cyber_security_awareness\n#cybersecurity\n#networking",
+        "date": "2026-10-03T21:04:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134592_0_c2f1eaba.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134592_1_ed726fd8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134592",
+        "link": {
+          "title": "Linux Privilege Escalation on TryHackMe — From karen to root Part1",
+          "url": "https://medium.com/@nadana12155/linux-privilege-escalation-on-tryhackme-from-karen-to-root-part1-199e5efd0239?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 134591,
+        "text": "⤷\nTitle:\nShells, Screenshots, and Sentences: The Art of Pentest Reporting\n════════════════════════\n𐀪\nAuthor:\nR3LayX\n════════════════════════\nⴵ\nTime:\nSat, 03 Oct 2026 20:11:15 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#penetration_testing\n#technical_writing_article\n#professional_development\n#artificial_intelligence",
+        "date": "2026-10-03T21:04:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134591_0_c2f1eaba.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134591_1_c513c891.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134591",
+        "link": {
+          "title": "Shells, Screenshots, and Sentences: The Art of Pentest Reporting",
+          "url": "https://medium.com/@jancarter7/shells-screenshots-and-sentences-the-art-of-pentest-reporting-43eb8b151229?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 134590,
+        "text": "⤷\nTitle:\nBeyond the Scanner: A Deep Dive Into Bug Hunting That Actually Pays\n════════════════════════\n𐀪\nAuthor:\nMonika\n════════════════════════\nⴵ\nTime:\nSat, 03 Oct 2026 19:12:42 GMT\n════════════════════════\n⌗\nTags:\n#technology\n#bug_bounty\n#vulnerability\n#cybersecurity\n#bug_bounty_tips",
+        "date": "2026-10-03T21:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134590_0_c2f1eaba.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134590_1_0dc7f23d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134590",
+        "link": {
+          "title": "Beyond the Scanner: A Deep Dive Into Bug Hunting That Actually Pays",
+          "url": "https://meetcyber.net/beyond-the-scanner-a-deep-dive-into-bug-hunting-that-actually-pays-d33e42f0800d?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 134589,
+        "text": "⤷\nTitle:\nA Beginner’s Guide to SQL Injection\n════════════════════════\n𐀪\nAuthor:\nAdeleke Ismail Ifeoluwa\n════════════════════════\nⴵ\nTime:\nSat, 03 Oct 2026 20:34:56 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#bug_bounty",
+        "date": "2026-10-03T21:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134589_0_c2f1eaba.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134589_1_cdbc0acc.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134589",
+        "link": {
+          "title": "A Beginner’s Guide to SQL Injection",
+          "url": "https://medium.com/@adelekeismailifeoluwa/a-beginners-guide-to-sql-injection-d91a738bee3c?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 134588,
+        "text": "⤷\nTitle:\nShinyHunters Suspect “Rey” Detained in Jordan, Reportedly Helping FBI\n════════════════════════\n𐀪\nAuthor:\nWaqas\n════════════════════════\nⴵ\nTime:\nSat, 03 Oct 2026 20:34:16 +0000\n════════════════════════\n⌗\nTags:\n#Cyber\nCrime\n#Cybersecurity\n#data\nbreach\n#FBI\n#Jordan\n#Lapsus\n$\n#Rey\n#Saif\nal_Din Khader\n#Scattered\nSpider\n#ShinyHunters\n#Snowflake",
+        "date": "2026-10-03T21:03:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134588_0_c2f1eaba.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134588_1_69cc2afd.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134588",
+        "link": {
+          "title": "ShinyHunters Suspect “Rey” Detained in Jordan, Reportedly Helping FBI",
+          "url": "https://hackread.com/shinyhunters-hacker-rey-detained-jordan-fbi/"
+        }
+      },
+      {
         "id": 134587,
         "text": "⤷\nTitle:\nHack Smarter Labs : Arasaka\n════════════════════════\n𐀪\nAuthor:\nAndypoon\n════════════════════════\nⴵ\nTime:\nSat, 03 Oct 2026 18:53:54 GMT\n════════════════════════\n⌗\nTags:\n#adcs_attacks\n#active_directory\n#hack_smarter\n#ethical_hacking",
         "date": "2026-10-03T19:04:44+00:00",
@@ -1889,401 +2280,22 @@
           "title": "AWS IAM Policy Evaluation Logic: How AWS Decides Whether a Request Is Allowed",
           "url": "https://medium.com/@paraskhorwal9/aws-iam-policy-evaluation-logic-how-aws-decides-whether-a-request-is-allowed-8622ef58b8b6?source=rss------bug_bounty-5"
         }
-      },
-      {
-        "id": 134495,
-        "text": "⤷\nTitle:\nSubdomain Enumeration in Bug Bounty\n════════════════════════\n𐀪\nAuthor:\nMolapo Manuel\n════════════════════════\nⴵ\nTime:\nFri, 02 Oct 2026 17:26:16 GMT\n════════════════════════\n⌗\nTags:\n#bugs\n#bug_bounty\n#bug_bounty_writeup\n#cyber_security_awareness\n#bug_bounty_tips",
-        "date": "2026-10-02T19:04:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134495_0_e915b065.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134495_1_cb207b48.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134495",
-        "link": {
-          "title": "Subdomain Enumeration in Bug Bounty",
-          "url": "https://medium.com/@molapomanuel709/subdomain-enumeration-in-bug-bounty-1bc751f19bfc?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 134494,
-        "text": "⤷\nTitle:\nUnauthenticated pol_round in arc-node: From Hash Preimage Omission to State Divergence\n════════════════════════\n𐀪\nAuthor:\njimmy\n════════════════════════\nⴵ\nTime:\nFri, 02 Oct 2026 18:45:26 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#smart_contracts\n#cybersecurity\n#rust\n#blockchain",
-        "date": "2026-10-02T19:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134494_0_e915b065.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134494_1_a3ba4ec9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134494",
-        "link": {
-          "title": "Unauthenticated pol_round in arc-node: From Hash Preimage Omission to State Divergence",
-          "url": "https://medium.com/@mgsa112233/unauthenticated-pol-round-in-arc-node-from-hash-preimage-omission-to-state-divergence-387560f71493?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 134493,
-        "text": "⤷\nTitle:\nDell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nFri, 02 Oct 2026 22:32:12 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-10-02T19:03:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134493_0_e915b065.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134493",
-        "link": {
-          "title": "Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes",
-          "url": "https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html"
-        }
-      },
-      {
-        "id": 134492,
-        "text": "⤷\nTitle:\nAntino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nFri, 02 Oct 2026 23:03:16 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-10-02T19:03:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134492_0_e915b065.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134492",
-        "link": {
-          "title": "Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign",
-          "url": "https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html"
-        }
-      },
-      {
-        "id": 134491,
-        "text": "⤷\nTitle:\nGitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nFri, 02 Oct 2026 23:03:31 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-10-02T19:03:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134491_0_e915b065.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134491",
-        "link": {
-          "title": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers",
-          "url": "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html"
-        }
-      },
-      {
-        "id": 134490,
-        "text": "⤷\nTitle:\nWhat Is Rate Limiting?\n════════════════════════\n𐀪\nAuthor:\nGamika Punsisi\n════════════════════════\nⴵ\nTime:\nFri, 02 Oct 2026 15:37:01 GMT\n════════════════════════\n⌗\nTags:\n#backend_development\n#api_security\n#web_development\n#rest_api\n#rate_limiting",
-        "date": "2026-10-02T17:04:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134490_0_e915b065.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134490_1_9c630469.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134490",
-        "link": {
-          "title": "What Is Rate Limiting?",
-          "url": "https://gamikapunsisi.medium.com/what-is-rate-limiting-6f29657717b9?source=rss------api_security-5"
-        }
-      },
-      {
-        "id": 134489,
-        "text": "⤷\nTitle:\nPost-Exploitation\n════════════════════════\n𐀪\nAuthor:\nMaleesha Rathnayaka\n════════════════════════\nⴵ\nTime:\nFri, 02 Oct 2026 15:13:15 GMT\n════════════════════════\n⌗\nTags:\n#content\n#life_lessons\n#learning\n#ethical_hacking\n#cybersecurity",
-        "date": "2026-10-02T17:04:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134489_0_e915b065.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134489_1_097c9e80.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134489",
-        "link": {
-          "title": "Post-Exploitation",
-          "url": "https://medium.com/@Maleesha.Rathnayaka/post-exploitation-fbe0aa004182?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 134488,
-        "text": "⤷\nTitle:\n27/7/365 Offensive Security & Professional Hacking: Cybersecurity Consulting Services >…\n════════════════════════\n𐀪\nAuthor:\nSmatchoiceHackers Update\n════════════════════════\nⴵ\nTime:\nFri, 02 Oct 2026 15:27:42 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#data_protection\n#ethical_hacking\n#incident_response\n#digital_forensics",
-        "date": "2026-10-02T17:04:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134488_0_e915b065.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134488_1_f9b7b7a3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134488",
-        "link": {
-          "title": "27/7/365 Offensive Security & Professional Hacking: Cybersecurity Consulting Services >…",
-          "url": "https://medium.com/@smatchoicehackersupdate/27-7-365-offensive-security-professional-hacking-cybersecurity-consulting-services-80bdaca501c2?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 134487,
-        "text": "⤷\nTitle:\nTry Hack Me: API Pentesting Write Up\n════════════════════════\n𐀪\nAuthor:\nJozepjoestar\n════════════════════════\nⴵ\nTime:\nFri, 02 Oct 2026 16:06:08 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#tryhackme_walkthrough",
-        "date": "2026-10-02T17:04:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134487_0_e915b065.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134487_1_ba72d043.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134487",
-        "link": {
-          "title": "Try Hack Me: API Pentesting Write Up",
-          "url": "https://medium.com/@jozepjoestar/try-hack-me-api-pentesting-write-up-7dc20cb4fb0e?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 134486,
-        "text": "⤷\nTitle:\nCPTS: Network Enumeration with Nmap Module\n════════════════════════\n𐀪\nAuthor:\n0xOGH\n════════════════════════\nⴵ\nTime:\nFri, 02 Oct 2026 15:31:01 GMT\n════════════════════════\n⌗\nTags:\n#nmap\n#hackthebox_academy\n#hackthebox_writeup\n#penetration_testing\n#hackthebox",
-        "date": "2026-10-02T17:04:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134486_0_e915b065.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134486_1_347b1307.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134486",
-        "link": {
-          "title": "CPTS: Network Enumeration with Nmap Module",
-          "url": "https://medium.com/@osamahegazey605/cpts-network-enumeration-with-nmap-module-29df0fdf2861?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 134485,
-        "text": "⤷\nTitle:\n18 Cybersecurity Books Every CS Beginner Should Know\n════════════════════════\n𐀪\nAuthor:\nMR.Kanishk Meghwal\n════════════════════════\nⴵ\nTime:\nFri, 02 Oct 2026 16:52:44 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity_book\n#computer_science\n#cybersecurity\n#ethical_hacking\n#penetration_testing",
-        "date": "2026-10-02T17:04:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134485_0_e915b065.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134485_1_90cdf5bd.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134485",
-        "link": {
-          "title": "18 Cybersecurity Books Every CS Beginner Should Know",
-          "url": "https://medium.com/@MR.Kanishk/18-cybersecurity-books-every-cs-beginner-should-know-ced7f9585e1f?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 134484,
-        "text": "⤷\nTitle:\nHackTheBox - Dyplesher Writeup\n════════════════════════\n𐀪\nAuthor:\nWojtek\n════════════════════════\nⴵ\nTime:\nFri, 02 Oct 2026 15:16:39 GMT\n════════════════════════\n⌗\nTags:\n#ctf_writeup\n#hackthebox\n#hacking\n#hackthebox_writeup\n#cybersecurity",
-        "date": "2026-10-02T17:03:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134484_0_e915b065.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134484_1_8fb405e8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134484",
-        "link": {
-          "title": "HackTheBox - Dyplesher Writeup",
-          "url": "https://medium.com/@wojtekchwala/hackthebox-dyplesher-writeup-aa18bad91541?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 134483,
-        "text": "⤷\nTitle:\nI left a fake server open on the internet. Here is what attackers did to it.\n════════════════════════\n𐀪\nAuthor:\nAhmed Al-Dherasi\n════════════════════════\nⴵ\nTime:\nFri, 02 Oct 2026 16:29:40 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#cybersecurity\n#threat_intelligence\n#elasticsearch\n#honeypot",
-        "date": "2026-10-02T17:03:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134483_0_e915b065.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134483_1_7e48bf14.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134483",
-        "link": {
-          "title": "I left a fake server open on the internet. Here is what attackers did to it.",
-          "url": "https://medium.com/@odytr/i-left-a-fake-server-open-on-the-internet-here-is-what-attackers-did-to-it-cc2d5afdca1b?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 134481,
-        "text": "⤷\nTitle:\nCVE-2026–67401 Analysis — cPanel & WHM EmailTrack SQL Injection, From Mail Account to Root\n════════════════════════\n𐀪\nAuthor:\nGuidancewhite\n════════════════════════\nⴵ\nTime:\nFri, 02 Oct 2026 01:26:15 GMT\n════════════════════════\n⌗\nTags:\n#vulnerability\n#cve\n#ubuntu\n#sql_injection\n#python3",
-        "date": "2026-10-02T15:08:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134481_0_c0e5319e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134481_1_9b0b9519.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134481",
-        "link": {
-          "title": "CVE-2026–67401 Analysis — cPanel & WHM EmailTrack SQL Injection, From Mail Account to Root",
-          "url": "https://medium.com/@guidancewhite/cve-2026-67401-analysis-cpanel-whm-emailtrack-sql-injection-from-mail-account-to-root-4d0bbae55ec7?source=rss------sql_injection-5"
-        }
-      },
-      {
-        "id": 134480,
-        "text": "⤷\nTitle:\nIntigriti 0926: SQL Injection UNION Attack in Critter Gallery (September 2026)\n════════════════════════\n𐀪\nAuthor:\nWojtek\n════════════════════════\nⴵ\nTime:\nFri, 02 Oct 2026 14:22:29 GMT\n════════════════════════\n⌗\nTags:\n#appsec\n#offensive_security\n#cybersecurity\n#sql_injection\n#web_security",
-        "date": "2026-10-02T15:08:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134480_0_c0e5319e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134480_1_5b179e0b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134480",
-        "link": {
-          "title": "Intigriti 0926: SQL Injection UNION Attack in Critter Gallery (September 2026)",
-          "url": "https://medium.com/@wojtekchwala/intigriti-0926-sql-injection-union-attack-in-critter-gallery-september-2026-61f515f28355?source=rss------sql_injection-5"
-        }
-      },
-      {
-        "id": 134479,
-        "text": "⤷\nTitle:\n100 stop scrolling hooks for your posts\n════════════════════════\n𐀪\nAuthor:\nGulshan khizer\n════════════════════════\nⴵ\nTime:\nFri, 02 Oct 2026 14:27:16 GMT\n════════════════════════\n⌗\nTags:\n#content_creation\n#xs\n#content_marketing\n#linkedin\n#viral_post",
-        "date": "2026-10-02T15:08:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134479_0_c0e5319e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134479_1_dbee7fca.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134479",
-        "link": {
-          "title": "100 stop scrolling hooks for your posts",
-          "url": "https://medium.com/@gulshan.khyzer/100-stop-scrolling-hooks-for-your-posts-75466665d032?source=rss------xss-5"
-        }
-      },
-      {
-        "id": 134478,
-        "text": "⤷\nTitle:\nAbril de 2026 en Guatemala: anatomía de una cadena de incidentes en el sector público\n════════════════════════\n𐀪\nAuthor:\nWalter Gomez\n════════════════════════\nⴵ\nTime:\nFri, 02 Oct 2026 09:30:31 GMT\n════════════════════════\n⌗\nTags:\n#data_breach\n#latin_america\n#api_security\n#cybersecurity\n#information_security",
-        "date": "2026-10-02T15:08:46+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134478_0_c0e5319e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134478_1_d95c922c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134478",
-        "link": {
-          "title": "Abril de 2026 en Guatemala: anatomía de una cadena de incidentes en el sector público",
-          "url": "https://medium.com/@waltgomez/abril-de-2026-en-guatemala-anatom%C3%ADa-de-una-cadena-de-incidentes-en-el-sector-p%C3%BAblico-d94a802a4a3f?source=rss------api_security-5"
-        }
       }
     ]
   },
-  "last_update": "2026-10-03T20:21:48.176918+00:00",
+  "last_update": "2026-10-03T23:13:35.123785+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 192,
-    "total_files": 192,
+    "total_media": 195,
+    "total_files": 195,
     "total_links": 0,
     "files_by_type": {
-      "image": 192
+      "image": 195
     },
-    "referenced_files": 192,
-    "existing_media_files": 192,
-    "total_size_mb": 5.22,
-    "last_calculation": "2026-10-03T20:21:48.179213+00:00"
+    "referenced_files": 195,
+    "existing_media_files": 195,
+    "total_size_mb": 5.52,
+    "last_calculation": "2026-10-03T23:13:35.126226+00:00"
   }
 }
