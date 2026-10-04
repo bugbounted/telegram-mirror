@@ -2,6 +2,75 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 134607,
+        "text": "⤷\nTitle:\nLet’s Defend Lab #01 | Investigating a SQL Injection Attack\n════════════════════════\n𐀪\nAuthor:\nGuilherme Dias | Cybersecurity\n════════════════════════\nⴵ\nTime:\nSun, 04 Oct 2026 00:01:27 GMT\n════════════════════════\n⌗\nTags:\n#blue_team\n#soc\n#sql_injection\n#information_security\n#cybersecurity",
+        "date": "2026-10-04T01:04:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134607_0_c2f1eaba.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134607_1_966d8df0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134607",
+        "link": {
+          "title": "Let’s Defend Lab #01 | Investigating a SQL Injection Attack",
+          "url": "https://medium.com/@Kaijin-Zeroday/lets-defend-lab-01-investigating-a-sql-injection-attack-5b339702756d?source=rss------sql_injection-5"
+        }
+      },
+      {
+        "id": 134606,
+        "text": "⤷\nTitle:\nLet’s Defend Lab #01 | Investigando um ataque de SQL Injection\n════════════════════════\n𐀪\nAuthor:\nGuilherme Dias | Cybersecurity\n════════════════════════\nⴵ\nTime:\nSun, 04 Oct 2026 00:03:13 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#soc\n#blue_team\n#sql_injection\n#information_security",
+        "date": "2026-10-04T01:03:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134606_0_c2f1eaba.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134606_1_8bae8beb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134606",
+        "link": {
+          "title": "Let’s Defend Lab #01 | Investigando um ataque de SQL Injection",
+          "url": "https://medium.com/@Kaijin-Zeroday/lets-defend-lab-01-investigando-um-ataque-de-sql-injection-91aa9bdf34cf?source=rss------sql_injection-5"
+        }
+      },
+      {
+        "id": 134605,
+        "text": "⤷\nTitle:\nApple Store DFU installs AppleIntelligenceReportingSELFIngestor and ProactiveHarvesting on Mac…\n════════════════════════\n𐀪\nAuthor:\nsparky\n════════════════════════\nⴵ\nTime:\nSat, 03 Oct 2026 23:06:01 GMT\n════════════════════════\n⌗\nTags:\n#apple\n#mac\n#cyber_security_awareness\n#infosec\n#privacy",
+        "date": "2026-10-04T01:03:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134605_0_c2f1eaba.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134605_1_9d93efc6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134605",
+        "link": {
+          "title": "Apple Store DFU installs AppleIntelligenceReportingSELFIngestor and ProactiveHarvesting on Mac…",
+          "url": "https://knowledgeisuserdata.medium.com/apple-store-dfu-installs-appleintelligencereportingselfingestor-and-proactiveharvesting-on-mac-1120ca871765?source=rss------infosec-5"
+        }
+      },
+      {
         "id": 134604,
         "text": "⤷\nTitle:\nReflected XSS di Portal Pemerintah Provinsi [REDACTED]via HTTP Referer Header\n════════════════════════\n𐀪\nAuthor:\nHmm\n════════════════════════\nⴵ\nTime:\nSat, 03 Oct 2026 14:48:29 GMT\n════════════════════════\n⌗\nTags:\n#bug_hunter\n#cybersecurity",
         "date": "2026-10-03T23:04:26+00:00",
@@ -2211,79 +2280,10 @@
           "title": "I left a honeypot on the internet. Here is what attackers did to it.",
           "url": "https://medium.com/@odytr/i-left-a-fake-server-open-on-the-internet-here-is-what-attackers-did-to-it-cc2d5afdca1b?source=rss------hacking-5"
         }
-      },
-      {
-        "id": 134498,
-        "text": "⤷\nTitle:\nRed Sigma IA: Red Team Security Scanner\n════════════════════════\n𐀪\nAuthor:\nAdrian Romanov\n════════════════════════\nⴵ\nTime:\nFri, 02 Oct 2026 17:12:06 GMT\n════════════════════════\n⌗\nTags:\n#ai\n#ai_agent\n#generative_ai_tools\n#ethical_hacking\n#hacking",
-        "date": "2026-10-02T19:04:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134498_0_e915b065.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134498_1_e9b3d313.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134498",
-        "link": {
-          "title": "Red Sigma IA: Red Team Security Scanner",
-          "url": "https://ingoroman.medium.com/red-sigma-ia-red-team-security-scanner-901e0ca9e9d2?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 134497,
-        "text": "⤷\nTitle:\nThink, Act, Secure: How AI Agents Are Changing DevSecOps\n════════════════════════\n𐀪\nAuthor:\nKrunal Kawa\n════════════════════════\nⴵ\nTime:\nFri, 02 Oct 2026 17:52:33 GMT\n════════════════════════\n⌗\nTags:\n#llm\n#cybersecurity\n#devsecops\n#ai\n#application_security",
-        "date": "2026-10-02T19:04:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134497_0_e915b065.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134497_1_56271b64.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134497",
-        "link": {
-          "title": "Think, Act, Secure: How AI Agents Are Changing DevSecOps",
-          "url": "https://medium.com/@krunal-kawa/think-act-secure-how-ai-agents-are-changing-devsecops-eec19b587f44?source=rss------application_security-5"
-        }
-      },
-      {
-        "id": 134496,
-        "text": "⤷\nTitle:\nAWS IAM Policy Evaluation Logic: How AWS Decides Whether a Request Is Allowed\n════════════════════════\n𐀪\nAuthor:\nParaskhorwal\n════════════════════════\nⴵ\nTime:\nFri, 02 Oct 2026 17:17:29 GMT\n════════════════════════\n⌗\nTags:\n#aws\n#information_security\n#cloud_computing\n#bug_bounty\n#cybersecurity",
-        "date": "2026-10-02T19:04:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134496_0_e915b065.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134496_1_ffedded3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134496",
-        "link": {
-          "title": "AWS IAM Policy Evaluation Logic: How AWS Decides Whether a Request Is Allowed",
-          "url": "https://medium.com/@paraskhorwal9/aws-iam-policy-evaluation-logic-how-aws-decides-whether-a-request-is-allowed-8622ef58b8b6?source=rss------bug_bounty-5"
-        }
       }
     ]
   },
-  "last_update": "2026-10-03T23:13:35.123785+00:00",
+  "last_update": "2026-10-04T02:47:42.044214+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2295,7 +2295,7 @@
     },
     "referenced_files": 195,
     "existing_media_files": 195,
-    "total_size_mb": 5.52,
-    "last_calculation": "2026-10-03T23:13:35.126226+00:00"
+    "total_size_mb": 5.53,
+    "last_calculation": "2026-10-04T02:47:42.046590+00:00"
   }
 }
