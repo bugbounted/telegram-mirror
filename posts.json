@@ -2,6 +2,466 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 134669,
+        "text": "⤷\nTitle:\nDalla Teoria al Database: Capire e Sfruttare le SQL Injections nei Penetration Test\n════════════════════════\n𐀪\nAuthor:\nPorcu Marcooo\n════════════════════════\nⴵ\nTime:\nSun, 04 Oct 2026 13:02:42 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#sql_injection\n#red_team\n#penetration_testing\n#web_security",
+        "date": "2026-10-04T13:04:31+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134669_0_c2f1eaba.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134669_1_07f0f0c9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134669",
+        "link": {
+          "title": "Dalla Teoria al Database: Capire e Sfruttare le SQL Injections nei Penetration Test",
+          "url": "https://medium.com/@porcu.marcooo/dalla-teoria-al-database-capire-e-sfruttare-le-sql-injections-nei-penetration-test-53312cbfb12d?source=rss------sql_injection-5"
+        }
+      },
+      {
+        "id": 134668,
+        "text": "⤷\nTitle:\nARP Spoofing in Practice: What Happens Inside the Network\n════════════════════════\n𐀪\nAuthor:\nPelda Petekkaya\n════════════════════════\nⴵ\nTime:\nSun, 04 Oct 2026 11:08:06 GMT\n════════════════════════\n⌗\nTags:\n#man_in_the_middle\n#arp_spoofing\n#network_security\n#cybersecurity\n#ethical_hacking",
+        "date": "2026-10-04T13:04:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134668_0_c2f1eaba.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134668_1_3616056c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134668",
+        "link": {
+          "title": "ARP Spoofing in Practice: What Happens Inside the Network",
+          "url": "https://medium.com/@peldapetekkayaa/arp-spoofing-in-practice-what-happens-inside-the-network-561a5fa45556?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 134667,
+        "text": "⤷\nTitle:\nUsername Enumeration via Different Responses — My PortSwigger Lab Journey\n════════════════════════\n𐀪\nAuthor:\nBoluwatife Omosowon\n════════════════════════\nⴵ\nTime:\nSun, 04 Oct 2026 12:32:05 GMT\n════════════════════════\n⌗\nTags:\n#information_security\n#cybersecurity\n#burpsuite\n#web_security\n#ethical_hacking",
+        "date": "2026-10-04T13:04:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134667_0_c2f1eaba.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134667_1_2db5945d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134667",
+        "link": {
+          "title": "Username Enumeration via Different Responses — My PortSwigger Lab Journey",
+          "url": "https://medium.com/@omosowonboluwatife16/username-enumeration-via-different-responses-my-portswigger-lab-journey-9e0f5b67a0e6?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 134666,
+        "text": "⤷\nTitle:\nWho Pentests the AI Pentester? Securing AWS Security Agent First\n════════════════════════\n𐀪\nAuthor:\nXander De Visch\n════════════════════════\nⴵ\nTime:\nSun, 04 Oct 2026 11:46:42 GMT\n════════════════════════\n⌗\nTags:\n#aws\n#penetration_testing\n#cloud_security\n#ai\n#cybersecurity",
+        "date": "2026-10-04T13:04:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134666_0_c2f1eaba.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134666_1_c6afe559.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134666",
+        "link": {
+          "title": "Who Pentests the AI Pentester? Securing AWS Security Agent First",
+          "url": "https://towardsaws.com/who-pentests-the-ai-pentester-securing-aws-security-agent-first-a3b65240794d?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 134665,
+        "text": "⤷\nTitle:\nMobile Penetration Testing\n════════════════════════\n𐀪\nAuthor:\nMohamed Algabry\n════════════════════════\nⴵ\nTime:\nSun, 04 Oct 2026 12:26:39 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#androidpentesting\n#mobile_pentesting\n#android_security\n#cybersecurity",
+        "date": "2026-10-04T13:04:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134665_0_c2f1eaba.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134665_1_f3248f14.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134665",
+        "link": {
+          "title": "Mobile Penetration Testing",
+          "url": "https://mohamedalgabry.medium.com/mobile-penetration-testing-8b620c30b139?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 134664,
+        "text": "⤷\nTitle:\nApple Store Visit Installs ProactiveHarvesting and Apple Intelligence Reporting SELF Ingestor\n════════════════════════\n𐀪\nAuthor:\nsparky\n════════════════════════\nⴵ\nTime:\nSat, 03 Oct 2026 23:06:01 GMT\n════════════════════════\n⌗\nTags:\n#apple\n#mac\n#cyber_security_awareness\n#infosec\n#privacy",
+        "date": "2026-10-04T13:04:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134664_0_c2f1eaba.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134664_1_7514a218.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134664",
+        "link": {
+          "title": "Apple Store Visit Installs ProactiveHarvesting and Apple Intelligence Reporting SELF Ingestor",
+          "url": "https://knowledgeisuserdata.medium.com/apple-store-dfu-installs-appleintelligencereportingselfingestor-and-proactiveharvesting-on-mac-1120ca871765?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 134663,
+        "text": "⤷\nTitle:\nDC-8 CTF Çözümü: SQL Enjeksiyonu, Webform RCE ve Exim4 Yetki Yükseltme\n════════════════════════\n𐀪\nAuthor:\nTugrulakagunduz\n════════════════════════\nⴵ\nTime:\nSun, 04 Oct 2026 11:47:31 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#penetration_testing\n#ctf_writeup\n#infosec\n#cybersecurity",
+        "date": "2026-10-04T13:04:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134663_0_c2f1eaba.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134663_1_1fc73495.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134663",
+        "link": {
+          "title": "DC-8 CTF Çözümü: SQL Enjeksiyonu, Webform RCE ve Exim4 Yetki Yükseltme",
+          "url": "https://medium.com/@tugrulakagunduz69/dc-8-ctf-%C3%A7%C3%B6z%C3%BCm%C3%BC-sql-enjeksiyonu-webform-rce-ve-exim4-yetki-y%C3%BCkseltme-f02cb89f385c?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 134662,
+        "text": "⤷\nTitle:\nElastic Stack: The Basics: ELK Components, KQL Searches, Visualizations, and Dashboards\n════════════════════════\n𐀪\nAuthor:\nJonathan Sanfer\n════════════════════════\nⴵ\nTime:\nSun, 04 Oct 2026 11:59:52 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_walkthrough\n#infosec\n#elasticsearch\n#cybersecurity\n#tryhackme",
+        "date": "2026-10-04T13:04:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134662_0_c2f1eaba.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134662_1_9006234c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134662",
+        "link": {
+          "title": "Elastic Stack: The Basics: ELK Components, KQL Searches, Visualizations, and Dashboards",
+          "url": "https://medium.com/@jonathan.sanfer/elastic-stack-the-basics-elk-components-kql-searches-visualizations-and-dashboards-6c2242dcca49?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 134661,
+        "text": "⤷\nTitle:\nTryHackMe | Jump — THM CTF\n════════════════════════\n𐀪\nAuthor:\nmr.root\n════════════════════════\nⴵ\nTime:\nSun, 04 Oct 2026 10:57:59 GMT\n════════════════════════\n⌗\nTags:\n#ctf\n#privilege_escalation\n#hacking\n#cybersecurity\n#ethical_hacking",
+        "date": "2026-10-04T13:04:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134661_0_c2f1eaba.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134661_1_e3fb79b5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134661",
+        "link": {
+          "title": "TryHackMe | Jump — THM CTF",
+          "url": "https://mr-root.medium.com/tryhackme-jump-thm-ctf-832134e2690a?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 134660,
+        "text": "⤷\nTitle:\nReactor\n════════════════════════\n𐀪\nAuthor:\nVeen0o21\n════════════════════════\nⴵ\nTime:\nSun, 04 Oct 2026 11:38:48 GMT\n════════════════════════\n⌗\nTags:\n#linux\n#hackthebox\n#hacking\n#hackthebox_walkthrough\n#ethical_hacking",
+        "date": "2026-10-04T13:04:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134660_0_c2f1eaba.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134660_1_a4056398.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134660",
+        "link": {
+          "title": "Reactor",
+          "url": "https://medium.com/@Veen0o21/reactor-6ac784f74352?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 134659,
+        "text": "⤷\nTitle:\nNothing, Everything or Something in Between: How Much Your Pentester Should Know Up Front\n════════════════════════\n𐀪\nAuthor:\nInvadel\n════════════════════════\nⴵ\nTime:\nSun, 04 Oct 2026 11:31:45 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#security\n#application_security\n#penetration_testing\n#ethical_hacking",
+        "date": "2026-10-04T13:03:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134659_0_c2f1eaba.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134659_1_43e08177.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134659",
+        "link": {
+          "title": "Nothing, Everything or Something in Between: How Much Your Pentester Should Know Up Front",
+          "url": "https://medium.com/@invadel/nothing-everything-or-something-in-between-how-much-your-pentester-should-know-up-front-93db5ee8365b?source=rss------application_security-5"
+        }
+      },
+      {
+        "id": 134658,
+        "text": "⤷\nTitle:\nI Made It Possible to Build the Full GOAD Lab on Hyper-V\n════════════════════════\n𐀪\nAuthor:\nCyberHeatRadar\n════════════════════════\nⴵ\nTime:\nSun, 04 Oct 2026 09:02:09 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#cybersecurity\n#penetration_testing\n#hyper_v\n#active_directory",
+        "date": "2026-10-04T11:04:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134658_0_c2f1eaba.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134658_1_0484955e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134658",
+        "link": {
+          "title": "I Made It Possible to Build the Full GOAD Lab on Hyper-V",
+          "url": "https://cyberheatradar.medium.com/i-made-it-possible-to-build-the-full-goad-lab-on-hyper-v-3c8469827d47?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 134657,
+        "text": "⤷\nTitle:\nWhat a Real VAPT Report Looks Like vs What You Are Being Sold\n════════════════════════\n𐀪\nAuthor:\nShridhar InfoSec Solutions\n════════════════════════\nⴵ\nTime:\nSun, 04 Oct 2026 09:48:48 GMT\n════════════════════════\n⌗\nTags:\n#shridharinfosecsolutions\n#cybersecurity\n#vapttesting\n#penetration_testing\n#vapt_report",
+        "date": "2026-10-04T11:04:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134657_0_c2f1eaba.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134657_1_1b4a26bd.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134657",
+        "link": {
+          "title": "What a Real VAPT Report Looks Like vs What You Are Being Sold",
+          "url": "https://medium.com/@shridharinfosec/what-a-real-vapt-report-looks-like-vs-what-you-are-being-sold-e6e4a6999e9a?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 134656,
+        "text": "⤷\nTitle:\nI Tried to Forge SLSA Provenance. The Verifier Never Even Looked at My Forgery.\n════════════════════════\n𐀪\nAuthor:\ncbrkrtek\n════════════════════════\nⴵ\nTime:\nSun, 04 Oct 2026 10:15:53 GMT\n════════════════════════\n⌗\nTags:\n#devsecops\n#application_security\n#supply_chain_security\n#cybersecurity",
+        "date": "2026-10-04T11:04:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134656_0_c2f1eaba.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134656_1_a79b5c70.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134656",
+        "link": {
+          "title": "I Tried to Forge SLSA Provenance. The Verifier Never Even Looked at My Forgery.",
+          "url": "https://medium.com/@cbrkrtek/i-tried-to-forge-slsa-provenance-the-verifier-never-even-looked-at-my-forgery-954d64e398b0?source=rss------application_security-5"
+        }
+      },
+      {
+        "id": 134655,
+        "text": "⤷\nTitle:\nAuthentication & Authorization Eğitim Serisi — Bölüm 2: Güvenlik Düşüncesi ve Tehdit Modelleme\n════════════════════════\n𐀪\nAuthor:\nSahin Yelkenci\n════════════════════════\nⴵ\nTime:\nSun, 04 Oct 2026 10:52:24 GMT\n════════════════════════\n⌗\nTags:\n#authorization\n#threat_modeling\n#application_security\n#security\n#authentication",
+        "date": "2026-10-04T11:04:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134655_0_c2f1eaba.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134655_1_e6da8791.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134655",
+        "link": {
+          "title": "Authentication & Authorization Eğitim Serisi — Bölüm 2: Güvenlik Düşüncesi ve Tehdit Modelleme",
+          "url": "https://sahinyelkenci.medium.com/authentication-authorization-e%C4%9Fitim-serisi-b%C3%B6l%C3%BCm-2-g%C3%BCvenlik-d%C3%BC%C5%9F%C3%BCncesi-ve-tehdit-modelleme-dfe65614227d?source=rss------application_security-5"
+        }
+      },
+      {
+        "id": 134654,
+        "text": "⤷\nTitle:\n$6,500 for Sending an Object Instead of a String: MongoDB Operator Injection to Account Takeover\n════════════════════════\n𐀪\nAuthor:\nT4nv1\n════════════════════════\nⴵ\nTime:\nSun, 04 Oct 2026 08:56:01 GMT\n════════════════════════\n⌗\nTags:\n#pentesting\n#bug_bounty_tips\n#cybersecurity\n#security\n#bug_bounty",
+        "date": "2026-10-04T11:04:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134654_0_c2f1eaba.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134654_1_c0f603ac.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134654",
+        "link": {
+          "title": "$6,500 for Sending an Object Instead of a String: MongoDB Operator Injection to Account Takeover",
+          "url": "https://medium.com/@t4nv1/6-500-for-sending-an-object-instead-of-a-string-mongodb-operator-injection-to-account-takeover-e1cc81754c8c?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 134653,
+        "text": "⤷\nTitle:\nHow I Used Shodan Dorks to Find a Hidden Bug Bounty Program | by Samadhan Shimple\n════════════════════════\n𐀪\nAuthor:\nSamadhan shimple\n════════════════════════\nⴵ\nTime:\nSun, 04 Oct 2026 09:42:42 GMT\n════════════════════════\n⌗\nTags:\n#pentesting\n#shodan\n#cybersecurity\n#bug_bounty\n#shodan_dork",
+        "date": "2026-10-04T11:04:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134653_0_c2f1eaba.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134653_1_1aee5fa1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134653",
+        "link": {
+          "title": "How I Used Shodan Dorks to Find a Hidden Bug Bounty Program | by Samadhan Shimple",
+          "url": "https://samadhanshimple.medium.com/how-i-used-shodan-dorks-to-find-a-hidden-bug-bounty-program-by-samadhan-shimple-210d272cee71?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 134652,
+        "text": "⤷\nTitle:\nA 403 Bypass Worth $900: How a Semicolon Exposed API Documentation\n════════════════════════\n𐀪\nAuthor:\nAdini Rodini Rodney\n════════════════════════\nⴵ\nTime:\nSun, 04 Oct 2026 10:16:06 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#bug_bounty_tips\n#bug_bounty\n#bug_bounty_writeup\n#hacking",
+        "date": "2026-10-04T11:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134652_0_c2f1eaba.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134652_1_08eefcc7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134652",
+        "link": {
+          "title": "A 403 Bypass Worth $900: How a Semicolon Exposed API Documentation",
+          "url": "https://medium.com/@papjm/a-403-bypass-worth-900-how-a-semicolon-exposed-api-documentation-698eecaf9308?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 134651,
+        "text": "⤷\nTitle:\n10 Essential Tools for Bug Bounty Hunting and Web Application Penetration Testing\n════════════════════════\n𐀪\nAuthor:\nM Umer Saqib\n════════════════════════\nⴵ\nTime:\nSun, 04 Oct 2026 10:46:54 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#web_security\n#bug_bounty\n#penetration_testing\n#ethical_hacking",
+        "date": "2026-10-04T11:03:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134651_0_c2f1eaba.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134651_1_5e2f354b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134651",
+        "link": {
+          "title": "10 Essential Tools for Bug Bounty Hunting and Web Application Penetration Testing",
+          "url": "https://medium.com/@mumarsaqib/10-essential-tools-for-bug-bounty-hunting-and-web-application-penetration-testing-896e3704befa?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 134650,
+        "text": "⤷\nTitle:\niPhone 18 AT&T Issue: Navigating the Cellular Crisis\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nSun, 04 Oct 2026 09:56:13 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#Apple\n#AT\n&T\n#Hardware\nReplacement\n#iPhone\n18 Pro Max",
+        "date": "2026-10-04T11:03:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134650_0_c2f1eaba.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134650_1_b33cc95d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134650",
+        "link": {
+          "title": "iPhone 18 AT&T Issue: Navigating the Cellular Crisis",
+          "url": "https://securityonline.info/iphone-18-att-issue/"
+        }
+      },
+      {
         "id": 134632,
         "text": "⤷\nTitle:\nYou Were Logged In. You Still Weren’t Allowed to See It.\n════════════════════════\n𐀪\nAuthor:\nFateyaly\n════════════════════════\nⴵ\nTime:\nSun, 04 Oct 2026 06:43:29 GMT\n════════════════════════\n⌗\nTags:\n#coding\n#ethical_hacking\n#technology\n#cybersecurity\n#programming",
         "date": "2026-10-04T07:04:27+00:00",
@@ -1824,478 +2284,22 @@
           "title": "I Got Tired of Being Middleware for My Own Recon Tools, So I Built a Pipeline",
           "url": "https://nullyblissful.medium.com/i-got-tired-of-being-middleware-for-my-own-recon-tools-so-i-built-a-pipeline-a34f694a64ad?source=rss------bug_bounty-5"
         }
-      },
-      {
-        "id": 134539,
-        "text": "⤷\nTitle:\nHow to Earn a Living Through Dropshipping: A Beginner’s Roadmap to Building an Online Business\n════════════════════════\n𐀪\nAuthor:\nDamylocal001\n✍\n════════════════════════\nⴵ\nTime:\nSat, 03 Oct 2026 08:02:08 GMT\n════════════════════════\n⌗\nTags:\n#money\n#medium_partner_program\n#bug_bounty_writeup\n#life\n#self_improvement",
-        "date": "2026-10-03T09:04:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134539_0_e915b065.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134539",
-        "link": {
-          "title": "How to Earn a Living Through Dropshipping: A Beginner’s Roadmap to Building an Online Business",
-          "url": "https://medium.com/active-minds-hub/how-to-earn-a-living-through-dropshipping-a-beginners-roadmap-to-building-an-online-business-80a8a7336a46?source=rss------bug_bounty_writeup-5"
-        }
-      },
-      {
-        "id": 134538,
-        "text": "⤷\nTitle:\nFake Internship Trap: I Got a ₹18,500/Month Offer. Then I Read the Last Line\n════════════════════════\n𐀪\nAuthor:\nNikhilvarun\n════════════════════════\nⴵ\nTime:\nSat, 03 Oct 2026 07:55:04 GMT\n════════════════════════\n⌗\nTags:\n#email_marketing\n#phishing_email\n#scam\n#cybersecurity\n#ethical_hacking",
-        "date": "2026-10-03T09:04:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134538_0_e915b065.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134538_1_7ca1be36.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134538",
-        "link": {
-          "title": "Fake Internship Trap: I Got a ₹18,500/Month Offer. Then I Read the Last Line",
-          "url": "https://medium.com/@nikhilvarun001/fake-internship-trap-i-got-a-18-500-month-offer-then-i-read-the-last-line-fd9ad5ee581d?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 134537,
-        "text": "⤷\nTitle:\nCybersecurity Analyst Salary: Complete Pay and Career Guide\n════════════════════════\n𐀪\nAuthor:\ncybersecuritycourse\n════════════════════════\nⴵ\nTime:\nSat, 03 Oct 2026 08:03:43 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity_training\n#ai\n#ethical_hacking\n#cybersecurity\n#education",
-        "date": "2026-10-03T09:04:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134537_0_e915b065.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134537_1_e29a6944.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134537",
-        "link": {
-          "title": "Cybersecurity Analyst Salary: Complete Pay and Career Guide",
-          "url": "https://medium.com/@cybersecuritycourse/cybersecurity-analyst-salary-complete-pay-and-career-guide-d0f838a5b6e7?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 134536,
-        "text": "⤷\nTitle:\nOpenAI’s Agent Hacked the Australian Government, and No Law Made Anyone Say So\n════════════════════════\n𐀪\nAuthor:\nSingbomb\n════════════════════════\nⴵ\nTime:\nSat, 03 Oct 2026 08:21:21 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#cybersecurity\n#openai\n#technology\n#artificial_intelligence",
-        "date": "2026-10-03T09:04:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134536_0_e915b065.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134536_1_2aa51ae5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134536",
-        "link": {
-          "title": "OpenAI’s Agent Hacked the Australian Government, and No Law Made Anyone Say So",
-          "url": "https://generativeai.pub/openais-agent-hacked-the-australian-government-and-no-law-made-anyone-say-so-bc82c9e40591?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 134535,
-        "text": "⤷\nTitle:\nFor Business Reasons (THM) Tryhackme Walkthrough\n════════════════════════\n𐀪\nAuthor:\nLawvye\n════════════════════════\nⴵ\nTime:\nSat, 03 Oct 2026 08:41:47 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#linux\n#privilege_escalation\n#cybersecurity\n#tryhackme",
-        "date": "2026-10-03T09:03:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134535_0_e915b065.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134535_1_89306fee.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134535",
-        "link": {
-          "title": "For Business Reasons (THM) Tryhackme Walkthrough",
-          "url": "https://medium.com/@lawvye/for-business-reasons-thm-tryhackme-walkthrough-6b4c50c3eb54?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 134534,
-        "text": "⤷\nTitle:\n$7,500 for a Wildcard in the Wrong Place: LDAP Injection to Authentication Bypass\n════════════════════════\n𐀪\nAuthor:\nT4nv1\n════════════════════════\nⴵ\nTime:\nSat, 03 Oct 2026 08:51:01 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#security\n#bug_bounty_tips\n#cybersecurity\n#pentesting",
-        "date": "2026-10-03T09:03:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134534_0_e915b065.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134534_1_74924490.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134534",
-        "link": {
-          "title": "$7,500 for a Wildcard in the Wrong Place: LDAP Injection to Authentication Bypass",
-          "url": "https://medium.com/@t4nv1/7-500-for-a-wildcard-in-the-wrong-place-ldap-injection-to-authentication-bypass-655682f8bebd?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 134532,
-        "text": "⤷\nTitle:\nBefore You Launch an AI Agent Decide How Much It Can Spend\n════════════════════════\n𐀪\nAuthor:\nPentest_Testing_Corp\n════════════════════════\nⴵ\nTime:\nSat, 03 Oct 2026 05:55:16 GMT\n════════════════════════\n⌗\nTags:\n#api_security\n#saas\n#ai\n#risk_management\n#cybersecurity",
-        "date": "2026-10-03T07:04:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134532_0_e915b065.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134532_1_02a384e3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134532",
-        "link": {
-          "title": "Before You Launch an AI Agent Decide How Much It Can Spend",
-          "url": "https://meetcyber.net/before-you-launch-an-ai-agent-decide-how-much-it-can-spend-24f150f37378?source=rss------api_security-5"
-        }
-      },
-      {
-        "id": 134531,
-        "text": "⤷\nTitle:\nAI Agent Access Control for APIs and Sensitive Data\n════════════════════════\n𐀪\nAuthor:\nGhost Accounts\n════════════════════════\nⴵ\nTime:\nSat, 03 Oct 2026 06:10:46 GMT\n════════════════════════\n⌗\nTags:\n#least_privilege\n#oauth\n#api_security\n#machine_identities\n#ai_agent_security",
-        "date": "2026-10-03T07:04:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134531_0_e915b065.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134531_1_d67c9348.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134531",
-        "link": {
-          "title": "AI Agent Access Control for APIs and Sensitive Data",
-          "url": "https://medium.com/@GhostAccounts-101/ai-agent-access-control-for-apis-and-sensitive-data-3f34a487a27c?source=rss------api_security-5"
-        }
-      },
-      {
-        "id": 134530,
-        "text": "⤷\nTitle:\nPassword Cracking Fundamentals — A Practitioner’s Reference\n════════════════════════\n𐀪\nAuthor:\nGabriel D. Vincent\n════════════════════════\nⴵ\nTime:\nSat, 03 Oct 2026 05:16:01 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#penetration_testing\n#linux\n#ethical_hacking\n#information_security",
-        "date": "2026-10-03T07:04:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134530_0_e915b065.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134530_1_7a4723df.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134530",
-        "link": {
-          "title": "Password Cracking Fundamentals — A Practitioner’s Reference",
-          "url": "https://medium.com/@gabriel-dakinah-vincent/password-cracking-fundamentals-a-practitioners-reference-66dcbce92fc5?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 134529,
-        "text": "⤷\nTitle:\nHack Stick War: Legacy\n════════════════════════\n𐀪\nAuthor:\nAPKPure\n════════════════════════\nⴵ\nTime:\nSat, 03 Oct 2026 04:57:59 GMT\n════════════════════════\n⌗\nTags:\n#fighting_game_mode\n#modpure\n#hacking",
-        "date": "2026-10-03T07:03:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134529_0_e915b065.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134529_1_6a2a926c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134529",
-        "link": {
-          "title": "Hack Stick War: Legacy",
-          "url": "https://apkpurecx.medium.com/hack-stick-war-legacy-9586ffe96d32?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 134528,
-        "text": "⤷\nTitle:\nThe Bug Bounty Report That Got Closed as “Informative” (And How I Fixed It)\n════════════════════════\n𐀪\nAuthor:\nAeon Flex, Elriel Assoc. 2133 [NEON MAXIMA]\n════════════════════════\nⴵ\nTime:\nSat, 03 Oct 2026 05:29:24 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#information_security\n#coding\n#bug_bounty\n#programming",
-        "date": "2026-10-03T07:03:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134528_0_e915b065.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134528_1_e470474d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134528",
-        "link": {
-          "title": "The Bug Bounty Report That Got Closed as “Informative” (And How I Fixed It)",
-          "url": "https://medium.com/@neonmaxima/the-bug-bounty-report-that-got-closed-as-informative-and-how-i-fixed-it-769654ef6d0c?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 134527,
-        "text": "⤷\nTitle:\nSmali By bithowl: Chapter 13 Object Operations\n════════════════════════\n𐀪\nAuthor:\nbithowl\n════════════════════════\nⴵ\nTime:\nSat, 03 Oct 2026 05:31:01 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#bithowl",
-        "date": "2026-10-03T07:03:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134527_0_e915b065.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134527_1_ebefa6cc.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134527",
-        "link": {
-          "title": "Smali By bithowl: Chapter 13 Object Operations",
-          "url": "https://medium.com/@bithowl/smali-by-bithowl-chapter-13-object-operations-ba65301a7d5f?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 134526,
-        "text": "⤷\nTitle:\nTryHackMe Active Directory Basics Walkthrough\n════════════════════════\n𐀪\nAuthor:\nRich\n════════════════════════\nⴵ\nTime:\nSat, 03 Oct 2026 02:15:57 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_writeup\n#windows_domain\n#active_directory\n#tryhackme\n#tryhackme_walkthrough",
-        "date": "2026-10-03T03:04:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134526_0_e915b065.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134526_1_66e7a8f8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134526",
-        "link": {
-          "title": "TryHackMe Active Directory Basics Walkthrough",
-          "url": "https://happycamper84.medium.com/tryhackme-active-directory-basics-walkthrough-eb91b0cbee6d?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 134525,
-        "text": "⤷\nTitle:\nRemote Password Attacks — A Practitioner’s Reference\n════════════════════════\n𐀪\nAuthor:\nGabriel D. Vincent\n════════════════════════\nⴵ\nTime:\nSat, 03 Oct 2026 01:56:01 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#information_security\n#cybersecurity\n#linux\n#ethical_hacking",
-        "date": "2026-10-03T03:03:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134525_0_e915b065.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134525_1_cb01af3c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134525",
-        "link": {
-          "title": "Remote Password Attacks — A Practitioner’s Reference",
-          "url": "https://medium.com/@gabriel-dakinah-vincent/remote-password-attacks-a-practitioners-reference-213da993ec9c?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 134524,
-        "text": "⤷\nTitle:\nTryHackMe Linux CLI Basics: Walkthrough\n════════════════════════\n𐀪\nAuthor:\n5um1t0x\n════════════════════════\nⴵ\nTime:\nSat, 03 Oct 2026 02:21:01 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#kali_linux\n#cybersecurity\n#infosec\n#linux",
-        "date": "2026-10-03T03:03:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134524_0_e915b065.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134524_1_d6441c7f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134524",
-        "link": {
-          "title": "TryHackMe Linux CLI Basics: Walkthrough",
-          "url": "https://medium.com/@5um1t0x/tryhackme-linux-cli-basics-walkthrough-14d724670b76?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 134523,
-        "text": "⤷\nTitle:\nMicrosoft Reissues September 2026 Exchange Server Security Updates to Add CVE-2026-96940\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nSat, 03 Oct 2026 01:00:03 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_96940\n#Exchange\nSE\n#Exchange\nServer\n#Extended\nSecurity Updates\n#Microsoft\n#patch\nmanagement\n#security\nupdate",
-        "date": "2026-10-03T03:03:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134523_0_e915b065.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134523_1_310881f5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134523",
-        "link": {
-          "title": "Microsoft Reissues September 2026 Exchange Server Security Updates to Add CVE-2026-96940",
-          "url": "https://securityonline.info/exchange-server-security-updates-september-2026-v2/"
-        }
-      },
-      {
-        "id": 134522,
-        "text": "⤷\nTitle:\nHow To Create Millions Of Flash Coin With USDT Logo\n════════════════════════\n𐀪\nAuthor:\nDANNY\n════════════════════════\nⴵ\nTime:\nSat, 03 Oct 2026 00:45:33 GMT\n════════════════════════\n⌗\nTags:\n#ethereum\n#cryptocurrency\n#ethical_hacking\n#blockchain",
-        "date": "2026-10-03T01:04:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134522_0_e915b065.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134522_1_5e93af03.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134522",
-        "link": {
-          "title": "How To Create Millions Of Flash Coin With USDT Logo",
-          "url": "https://medium.com/@btcr2769/how-to-create-millions-of-flash-coin-with-usdt-logo-27dda976d744?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 134521,
-        "text": "⤷\nTitle:\nHack The Box — Crossfit Writeup\n════════════════════════\n𐀪\nAuthor:\nWojtek\n════════════════════════\nⴵ\nTime:\nSat, 03 Oct 2026 00:53:46 GMT\n════════════════════════\n⌗\nTags:\n#hackthebox\n#ctf_writeup\n#hacking\n#cybersecurity\n#hackthebox_writeup",
-        "date": "2026-10-03T01:04:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134521_0_e915b065.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134521_1_76d5fac7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134521",
-        "link": {
-          "title": "Hack The Box — Crossfit Writeup",
-          "url": "https://medium.com/@wojtekchwala/hack-the-box-crossfit-writeup-3c2c09555e54?source=rss------hackthebox_writeup-5"
-        }
-      },
-      {
-        "id": 134520,
-        "text": "⤷\nTitle:\nBasic Pentesting — TryHackMe\n════════════════════════\n𐀪\nAuthor:\nEnghellomahmoudanter\n════════════════════════\nⴵ\nTime:\nFri, 02 Oct 2026 23:35:17 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#private_key\n#nmap\n#john_the_ripper\n#hashcat",
-        "date": "2026-10-03T01:03:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134520_0_e915b065.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134520_1_900ac53c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134520",
-        "link": {
-          "title": "Basic Pentesting — TryHackMe",
-          "url": "https://medium.com/@enghellomahmoudanter/basic-pentesting-tryhackme-74f2f6a856ab?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 134519,
-        "text": "⤷\nTitle:\nHack The Box - Fuse Writeup\n════════════════════════\n𐀪\nAuthor:\nWojtek\n════════════════════════\nⴵ\nTime:\nSat, 03 Oct 2026 00:22:48 GMT\n════════════════════════\n⌗\nTags:\n#hackthebox_writeup\n#hacking\n#cybersecurity\n#hackthebox\n#ctf_writeup",
-        "date": "2026-10-03T01:03:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134519_0_e915b065.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134519_1_e1e086b6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134519",
-        "link": {
-          "title": "Hack The Box - Fuse Writeup",
-          "url": "https://medium.com/@wojtekchwala/hack-the-box-fuse-writeup-8616efd96497?source=rss------hacking-5"
-        }
       }
     ]
   },
-  "last_update": "2026-10-04T08:55:17.650487+00:00",
+  "last_update": "2026-10-04T14:30:39.530787+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 195,
-    "total_files": 195,
+    "total_media": 196,
+    "total_files": 196,
     "total_links": 0,
     "files_by_type": {
-      "image": 195
+      "image": 196
     },
-    "referenced_files": 195,
-    "existing_media_files": 195,
-    "total_size_mb": 6.0,
-    "last_calculation": "2026-10-04T08:55:17.652860+00:00"
+    "referenced_files": 196,
+    "existing_media_files": 196,
+    "total_size_mb": 6.05,
+    "last_calculation": "2026-10-04T14:30:39.533199+00:00"
   }
 }
