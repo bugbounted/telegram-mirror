@@ -2,6 +2,52 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 134707,
+        "text": "⤷\nTitle:\nHow to Secure AI Without Slowing Down\n════════════════════════\n𐀪\nAuthor:\nTharini Anjalee Fernando\n════════════════════════\nⴵ\nTime:\nSun, 04 Oct 2026 22:05:49 GMT\n════════════════════════\n⌗\nTags:\n#ai_training\n#cybersecurity\n#artificial_intelligence\n#infosec\n#information_leaking",
+        "date": "2026-10-04T23:03:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134707_0_e687aa06.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134707_1_489f5d18.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134707",
+        "link": {
+          "title": "How to Secure AI Without Slowing Down",
+          "url": "https://medium.com/@tanjaleef/how-to-secure-ai-without-slowing-down-5c13fb55f69e?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 134706,
+        "text": "⤷\nTitle:\nHijacking Your VPN with one Deep Link\n════════════════════════\n𐀪\nAuthor:\nHussein Ayoub\n════════════════════════\nⴵ\nTime:\nSun, 04 Oct 2026 21:14:27 GMT\n════════════════════════\n⌗\nTags:\n#android\n#ai_agent\n#bug_bounty\n#security",
+        "date": "2026-10-04T23:03:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134706_0_e687aa06.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_134706_1_33475d85.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/134706",
+        "link": {
+          "title": "Hijacking Your VPN with one Deep Link",
+          "url": "https://medium.com/@husein.ayoub/hijacking-your-vpn-with-one-deep-link-3ce9ca778306?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 134705,
         "text": "⤷\nTitle:\nBefore Scanning Ports, Find Out Who’s There: Nmap Live Host Discovery\n════════════════════════\n𐀪\nAuthor:\nChristina Sereday\n════════════════════════\nⴵ\nTime:\nSun, 04 Oct 2026 20:20:10 GMT\n════════════════════════\n⌗\nTags:\n#nmap_command\n#cybersecurity\n#tryhackme\n#nmap",
         "date": "2026-10-04T21:04:09+00:00",
@@ -2254,64 +2300,22 @@
           "title": "Try Hack Me : Support Walkthrought",
           "url": "https://medium.com/@jozepjoestar/try-hack-me-support-walkthrought-45aa6caa58e8?source=rss------tryhackme-5"
         }
-      },
-      {
-        "id": 134585,
-        "text": "⤷\nTitle:\nThe Art of Passive: How to Survey 2.4/5GHz Without Transmitting a Single Frame\n════════════════════════\n𐀪\nAuthor:\nAeon Flex, Elriel Assoc. 2133 [NEON MAXIMA]\n════════════════════════\nⴵ\nTime:\nSat, 03 Oct 2026 18:56:05 GMT\n════════════════════════\n⌗\nTags:\n#esp32\n#hacking\n#information_security\n#wardriving\n#wifi",
-        "date": "2026-10-03T19:04:37+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134585_0_c2f1eaba.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134585",
-        "link": {
-          "title": "The Art of Passive: How to Survey 2.4/5GHz Without Transmitting a Single Frame",
-          "url": "https://medium.com/@neonmaxima/the-art-of-passive-how-to-survey-2-4-5ghz-without-transmitting-a-single-frame-3743fba735ef?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 134584,
-        "text": "⤷\nTitle:\nCritical GitLab AI Gateway Vulnerability Highlights the Security Risks of AI Powered Development\n════════════════════════\n𐀪\nAuthor:\nJas\n════════════════════════\nⴵ\nTime:\nSat, 03 Oct 2026 17:10:56 GMT\n════════════════════════\n⌗\nTags:\n#ai_security\n#cybersecurity\n#artificial_intelligence\n#gitlab\n#application_security",
-        "date": "2026-10-03T19:04:34+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134584_0_c2f1eaba.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_134584_1_ecbc57c1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/134584",
-        "link": {
-          "title": "Critical GitLab AI Gateway Vulnerability Highlights the Security Risks of AI Powered Development",
-          "url": "https://medium.com/@jasmitharouthu_58441/critical-gitlab-ai-gateway-vulnerability-highlights-the-security-risks-of-ai-powered-development-331d5d8677a3?source=rss------application_security-5"
-        }
       }
     ]
   },
-  "last_update": "2026-10-04T21:42:48.198400+00:00",
+  "last_update": "2026-10-05T00:17:25.771869+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 199,
-    "total_files": 199,
+    "total_media": 200,
+    "total_files": 200,
     "total_links": 0,
     "files_by_type": {
-      "image": 199
+      "image": 200
     },
-    "referenced_files": 199,
-    "existing_media_files": 199,
-    "total_size_mb": 6.46,
-    "last_calculation": "2026-10-04T21:42:48.200850+00:00"
+    "referenced_files": 200,
+    "existing_media_files": 200,
+    "total_size_mb": 6.5,
+    "last_calculation": "2026-10-05T00:17:25.773486+00:00"
   }
 }
