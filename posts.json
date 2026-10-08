@@ -2,6 +2,450 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 135210,
+        "text": "⤷\nTitle:\nEscaping the Corridor: A TryHackMe Walkthrough to IDOR and Hash Enumeration\n════════════════════════\n𐀪\nAuthor:\nBijay kumar yadav\n════════════════════════\nⴵ\nTime:\nThu, 08 Oct 2026 17:55:09 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#idor_vulnerability\n#capture_the_flag\n#ctf\n#tryhackme",
+        "date": "2026-10-08T19:04:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135210_0_6f57adbf.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135210_1_b17e71ad.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135210",
+        "link": {
+          "title": "Escaping the Corridor: A TryHackMe Walkthrough to IDOR and Hash Enumeration",
+          "url": "https://medium.com/@bjxyz98/escaping-the-corridor-a-tryhackme-walkthrough-to-idor-and-hash-enumeration-90814608fdc5?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 135209,
+        "text": "⤷\nTitle:\nPenetration Testing Cost in India (2026): Pricing Guide for Businesses in Pune, Mumbai & Dhule\n════════════════════════\n𐀪\nAuthor:\nPS INFOSEC\n════════════════════════\nⴵ\nTime:\nThu, 08 Oct 2026 17:43:30 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing_cost\n#penetrationtestingindia\n#penetration_testing",
+        "date": "2026-10-08T19:04:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135209_0_6f57adbf.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135209_1_5f82ce76.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135209",
+        "link": {
+          "title": "Penetration Testing Cost in India (2026): Pricing Guide for Businesses in Pune, Mumbai & Dhule",
+          "url": "https://psinfosec.medium.com/penetration-testing-cost-in-india-2026-pricing-guide-for-businesses-in-pune-mumbai-dhule-58d92d6c27ed?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 135208,
+        "text": "⤷\nTitle:\nI Spent Weeks “Hacking” a Fake Company — Here’s What It Taught Me About Resilience\n════════════════════════\n𐀪\nAuthor:\nTayoolayonwa\n════════════════════════\nⴵ\nTime:\nThu, 08 Oct 2026 17:08:11 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#personal_development\n#penetration_testing\n#career_growth\n#cybersecurity",
+        "date": "2026-10-08T19:04:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135208_0_6f57adbf.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135208_1_b536a608.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135208",
+        "link": {
+          "title": "I Spent Weeks “Hacking” a Fake Company — Here’s What It Taught Me About Resilience",
+          "url": "https://medium.com/@tayoolayonwa/i-spent-weeks-hacking-a-fake-company-heres-what-it-taught-me-about-resilience-c5186a69fe35?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 135207,
+        "text": "⤷\nTitle:\n5 Movies Every Cybersecurity Beginner Should Watch\n════════════════════════\n𐀪\nAuthor:\nSyed Ateeb Ali\n════════════════════════\nⴵ\nTime:\nThu, 08 Oct 2026 17:58:18 GMT\n════════════════════════\n⌗\nTags:\n#hacker\n#cybersecurity\n#incident_response\n#hacking\n#movies",
+        "date": "2026-10-08T19:04:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135207_0_6f57adbf.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135207_1_4d4c7555.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135207",
+        "link": {
+          "title": "5 Movies Every Cybersecurity Beginner Should Watch",
+          "url": "https://medium.com/@syedateebali/5-movies-every-cybersecurity-beginner-should-watch-740f142dd58f?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 135206,
+        "text": "⤷\nTitle:\nBypassing Payment Processes: When Checkout Logic Fails\n════════════════════════\n𐀪\nAuthor:\nRaksharoot\n════════════════════════\nⴵ\nTime:\nThu, 08 Oct 2026 18:00:36 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#cybersecurity\n#bug_bounty\n#web_security\n#pentesting",
+        "date": "2026-10-08T19:04:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135206_0_6f57adbf.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135206_1_ceb3c9fe.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135206",
+        "link": {
+          "title": "Bypassing Payment Processes: When Checkout Logic Fails",
+          "url": "https://medium.com/@raksharoot/bypassing-payment-processes-when-checkout-logic-fails-7eedc8c72c01?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 135205,
+        "text": "⤷\nTitle:\nHow one bug bounty researcher chooses the features they investigate\n════════════════════════\n𐀪\nAuthor:\nShilpa Kumari\n════════════════════════\nⴵ\nTime:\nThu, 08 Oct 2026 17:02:52 +0000\n════════════════════════\n⌗\nTags:\n#Security\n#bug\nbounty\n#cybersecurity\n#Cybersecurity\nAwareness Month",
+        "date": "2026-10-08T19:04:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135205_0_6f57adbf.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135205_1_dc09ef08.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135205",
+        "link": {
+          "title": "How one bug bounty researcher chooses the features they investigate",
+          "url": "https://github.blog/security/how-one-bug-bounty-researcher-chooses-the-features-they-investigate/"
+        }
+      },
+      {
+        "id": 135204,
+        "text": "⤷\nTitle:\nJapan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nThu, 08 Oct 2026 21:15:56 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-10-08T19:04:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135204_0_6f57adbf.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135204",
+        "link": {
+          "title": "Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks",
+          "url": "https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html"
+        }
+      },
+      {
+        "id": 135203,
+        "text": "⤷\nTitle:\nThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nThu, 08 Oct 2026 23:28:02 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-10-08T19:03:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135203_0_6f57adbf.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135203",
+        "link": {
+          "title": "ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories",
+          "url": "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html"
+        }
+      },
+      {
+        "id": 135202,
+        "text": "⤷\nTitle:\nFBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nFri, 09 Oct 2026 00:02:21 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-10-08T19:03:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135202_0_6f57adbf.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135202",
+        "link": {
+          "title": "FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails",
+          "url": "https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html"
+        }
+      },
+      {
+        "id": 135201,
+        "text": "⤷\nTitle:\nSQL Injection\n════════════════════════\n𐀪\nAuthor:\nwiz394\n════════════════════════\nⴵ\nTime:\nThu, 08 Oct 2026 15:37:26 GMT\n════════════════════════\n⌗\nTags:\n#sqli",
+        "date": "2026-10-08T17:04:30+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135201_0_6f57adbf.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135201_1_80727b40.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135201",
+        "link": {
+          "title": "SQL Injection",
+          "url": "https://medium.com/@wiz394/sql-injection-9a4290335031?source=rss------sqli-5"
+        }
+      },
+      {
+        "id": 135200,
+        "text": "⤷\nTitle:\nTry Hack Me: Basic Vulnerability Identification Techniques Write Up\n════════════════════════\n𐀪\nAuthor:\nJozepjoestar\n════════════════════════\nⴵ\nTime:\nThu, 08 Oct 2026 15:23:52 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_walkthrough\n#tryhackme",
+        "date": "2026-10-08T17:04:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135200_0_6f57adbf.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135200_1_536f926b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135200",
+        "link": {
+          "title": "Try Hack Me: Basic Vulnerability Identification Techniques Write Up",
+          "url": "https://medium.com/@jozepjoestar/try-hack-me-basic-vulnerability-identification-techniques-write-up-82a444dd9c91?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 135199,
+        "text": "⤷\nTitle:\nTryHackMe: Intro to Offensive Security Walkthrough\n════════════════════════\n𐀪\nAuthor:\nJohnignas\n════════════════════════\nⴵ\nTime:\nThu, 08 Oct 2026 15:40:34 GMT\n════════════════════════\n⌗\nTags:\n#ctf_writeup\n#ethical_hacking\n#tryhackme\n#cybersecurity",
+        "date": "2026-10-08T17:04:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135199_0_6f57adbf.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135199_1_824c718e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135199",
+        "link": {
+          "title": "TryHackMe: Intro to Offensive Security Walkthrough",
+          "url": "https://medium.com/@Toretto28/tryhackme-intro-to-offensive-security-walkthrough-f6ac962b9eef?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 135198,
+        "text": "⤷\nTitle:\nTry Hack Me: NoScope: Finding RCE Write Up\n════════════════════════\n𐀪\nAuthor:\nJozepjoestar\n════════════════════════\nⴵ\nTime:\nThu, 08 Oct 2026 16:27:04 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_walkthrough\n#tryhackme",
+        "date": "2026-10-08T17:04:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135198_0_6f57adbf.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135198_1_eb540334.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135198",
+        "link": {
+          "title": "Try Hack Me: NoScope: Finding RCE Write Up",
+          "url": "https://medium.com/@jozepjoestar/try-hack-me-noscope-finding-rce-write-up-e875377a6fe2?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 135197,
+        "text": "⤷\nTitle:\nAI Powered Compliance Automation Platform: The Real Limits\n════════════════════════\n𐀪\nAuthor:\nCompliance Decoded\n════════════════════════\nⴵ\nTime:\nThu, 08 Oct 2026 16:11:58 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#grc\n#soc_2_compliance\n#compliance_automation\n#audit_readiness",
+        "date": "2026-10-08T17:04:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135197_0_6f57adbf.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135197_1_731cec21.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135197",
+        "link": {
+          "title": "AI Powered Compliance Automation Platform: The Real Limits",
+          "url": "https://medium.com/@ComplianceDecoded/ai-powered-compliance-automation-platform-the-real-limits-06e217ecaa77?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 135196,
+        "text": "⤷\nTitle:\nPlant Photographer (THM) Tryhackme Walkthrough\n════════════════════════\n𐀪\nAuthor:\nLawvye\n════════════════════════\nⴵ\nTime:\nThu, 08 Oct 2026 15:08:14 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#cybersecurity\n#privilege_escalation\n#hacking\n#linux",
+        "date": "2026-10-08T17:04:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135196_0_6f57adbf.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135196_1_6c40b239.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135196",
+        "link": {
+          "title": "Plant Photographer (THM) Tryhackme Walkthrough",
+          "url": "https://medium.com/@lawvye/plant-photographer-thm-tryhackme-walkthrough-bc7c374f75ae?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 135195,
+        "text": "⤷\nTitle:\nHow to Attack and Defend Medical AI Systems\n════════════════════════\n𐀪\nAuthor:\nRaye Yeow\n════════════════════════\nⴵ\nTime:\nThu, 08 Oct 2026 15:42:22 GMT\n════════════════════════\n⌗\nTags:\n#artificial_intelligence\n#technology\n#medical\n#hacking\n#healthcare",
+        "date": "2026-10-08T17:04:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135195_0_6f57adbf.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135195_1_d83fe32f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135195",
+        "link": {
+          "title": "How to Attack and Defend Medical AI Systems",
+          "url": "https://medium.com/@therayelab/how-to-attack-and-defend-medical-ai-systems-2cbc63603bc2?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 135194,
+        "text": "⤷\nTitle:\nWhy every security tool you deploy quietly makes your people a little more reckless\n════════════════════════\n𐀪\nAuthor:\nh@shtalk\n════════════════════════\nⴵ\nTime:\nThu, 08 Oct 2026 16:16:01 GMT\n════════════════════════\n⌗\nTags:\n#ai\n#hacking\n#cybersecurity\n#infosec",
+        "date": "2026-10-08T17:04:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135194_0_6f57adbf.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135194_1_85adadca.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135194",
+        "link": {
+          "title": "Why every security tool you deploy quietly makes your people a little more reckless",
+          "url": "https://eva-georgieva.medium.com/why-every-security-tool-you-deploy-quietly-makes-your-people-a-little-more-reckless-761a835970f6?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 135193,
+        "text": "⤷\nTitle:\nHunting archived URLs for information disclosure\n════════════════════════\n𐀪\nAuthor:\nGabriel Odusanya\n════════════════════════\nⴵ\nTime:\nThu, 08 Oct 2026 15:43:40 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#vdp\n#information_disclosure\n#cybersecurity\n#bbp",
+        "date": "2026-10-08T17:04:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135193_0_6f57adbf.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135193_1_26b1f7fd.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135193",
+        "link": {
+          "title": "Hunting archived URLs for information disclosure",
+          "url": "https://medium.com/@gabbytech01/hunting-archived-urls-for-information-disclosure-4a034622364a?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 135192,
+        "text": "⤷\nTitle:\nMidnight Mimosa Malware Found Preinstalled on Low-Cost Android Phones\n════════════════════════\n𐀪\nAuthor:\nDeeba Ahmed\n════════════════════════\nⴵ\nTime:\nThu, 08 Oct 2026 15:28:24 +0000\n════════════════════════\n⌗\nTags:\n#Security\n#Android\n#Malware\n#Adfraud\n#bitdefender\n#Cybersecurity\n#MediaTek\n#Midnight\nMimosa\n#Privacy\n#Proxyware",
+        "date": "2026-10-08T17:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135192_0_6f57adbf.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135192_1_1e102361.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135192",
+        "link": {
+          "title": "Midnight Mimosa Malware Found Preinstalled on Low-Cost Android Phones",
+          "url": "https://hackread.com/midnight-mimosa-malware-preinstalled-android-phones/"
+        }
+      },
+      {
+        "id": 135191,
+        "text": "⤷\nTitle:\nARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nThu, 08 Oct 2026 19:42:34 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-10-08T17:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135191_0_6f57adbf.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135191",
+        "link": {
+          "title": "ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms",
+          "url": "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html"
+        }
+      },
+      {
         "id": 135177,
         "text": "⤷\nTitle:\nSolving “An Epic Filesystem Quest” on pwn.college\n════════════════════════\n𐀪\nAuthor:\nDavid Wairimu\n════════════════════════\nⴵ\nTime:\nThu, 08 Oct 2026 11:50:53 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking",
         "date": "2026-10-08T13:04:16+00:00",
@@ -1816,482 +2260,22 @@
           "title": "South Korea’s Bank Breaches Expose the Cost of Neglected Systems",
           "url": "https://medium.com/@davidsehyeonbaek/south-koreas-bank-breaches-expose-the-cost-of-neglected-systems-c7069afeca22?source=rss------hacking-5"
         }
-      },
-      {
-        "id": 135068,
-        "text": "⤷\nTitle:\nMoebius (THM) Tryhackme Walkthrough\n════════════════════════\n𐀪\nAuthor:\nLawvye\n════════════════════════\nⴵ\nTime:\nWed, 07 Oct 2026 13:16:25 GMT\n════════════════════════\n⌗\nTags:\n#privilege_escalation\n#cybersecurity\n#hacking\n#tryhackme\n#linux",
-        "date": "2026-10-07T15:04:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135068_0_367d9d4a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135068_1_5aed14f7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135068",
-        "link": {
-          "title": "Moebius (THM) Tryhackme Walkthrough",
-          "url": "https://medium.com/@lawvye/moebius-thm-tryhackme-walkthrough-2ab617e028bf?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 135067,
-        "text": "⤷\nTitle:\nType a Number, Find a Person? How Your Phone Actually Knows Where You Are: Location Tracing Pt. #2\n════════════════════════\n𐀪\nAuthor:\nKurious Kakashi\n════════════════════════\nⴵ\nTime:\nWed, 07 Oct 2026 13:29:15 GMT\n════════════════════════\n⌗\nTags:\n#gps\n#ss7\n#location\n#osint\n#hacking",
-        "date": "2026-10-07T15:04:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135067_0_367d9d4a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135067_1_6fd195cf.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135067",
-        "link": {
-          "title": "Type a Number, Find a Person? How Your Phone Actually Knows Where You Are: Location Tracing Pt. #2",
-          "url": "https://medium.com/@kurious_kakashi/type-a-number-find-a-person-how-your-phone-actually-knows-where-you-are-location-tracing-pt-2-07c660bfcf3f?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 135066,
-        "text": "⤷\nTitle:\nChapter 10 — It Ran as Root. So Why Was It Still Powerless ?\n════════════════════════\n𐀪\nAuthor:\nηιѕнαηт\n════════════════════════\nⴵ\nTime:\nWed, 07 Oct 2026 14:00:19 GMT\n════════════════════════\n⌗\nTags:\n#linux\n#soc\n#cybersecurity\n#information_security\n#hacking",
-        "date": "2026-10-07T15:04:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135066_0_367d9d4a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135066_1_141d86a5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135066",
-        "link": {
-          "title": "Chapter 10 — It Ran as Root. So Why Was It Still Powerless ?",
-          "url": "https://medium.com/@nishant.kumarr/chapter-10-it-ran-as-root-so-why-was-it-still-powerless-2f5f1de69f58?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 135065,
-        "text": "⤷\nTitle:\nPractical Malware Analysis — Lab 1–2: Basic Static Analysis Writeup\n════════════════════════\n𐀪\nAuthor:\nMahmoud Alawady\n════════════════════════\nⴵ\nTime:\nWed, 07 Oct 2026 14:19:25 GMT\n════════════════════════\n⌗\nTags:\n#reverse_engineering\n#malware_analysis\n#static_malware_analysis\n#cybersecurity\n#hacking",
-        "date": "2026-10-07T15:04:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135065_0_367d9d4a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135065_1_57ca9081.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135065",
-        "link": {
-          "title": "Practical Malware Analysis — Lab 1–2: Basic Static Analysis Writeup",
-          "url": "https://medium.com/@ma.ahmed.dev/practical-malware-analysis-lab-1-2-7edbe2419041?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 135064,
-        "text": "⤷\nTitle:\nCritical BAC: IDOR + Weak Appointment Code Enables Unauthorized Appointment Cancellation…\n════════════════════════\n𐀪\nAuthor:\nkjulius\n════════════════════════\nⴵ\nTime:\nWed, 07 Oct 2026 13:17:16 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#idor\n#broken_access_control\n#pii_exposure",
-        "date": "2026-10-07T15:04:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135064_0_367d9d4a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135064_1_518b5a90.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135064",
-        "link": {
-          "title": "Critical BAC: IDOR + Weak Appointment Code Enables Unauthorized Appointment Cancellation…",
-          "url": "https://kjulius.medium.com/critical-bac-idor-weak-appointment-code-enables-unauthorized-appointment-cancellation-5e145ced50ca?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 135063,
-        "text": "⤷\nTitle:\nGoogle Just Paused Its Bug Bounty. The Reason Is Something Every Beginner Needs to Understand.\n════════════════════════\n𐀪\nAuthor:\nRiya Limba\n════════════════════════\nⴵ\nTime:\nWed, 07 Oct 2026 13:56:19 GMT\n════════════════════════\n⌗\nTags:\n#osint\n#bug_bounty\n#cybersecurity\n#bug_bounty_tips\n#ethical_hacking",
-        "date": "2026-10-07T15:04:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135063_0_367d9d4a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135063_1_73a0c173.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135063",
-        "link": {
-          "title": "Google Just Paused Its Bug Bounty. The Reason Is Something Every Beginner Needs to Understand.",
-          "url": "https://medium.com/@riyalimba/google-just-paused-its-bug-bounty-the-reason-is-something-every-beginner-needs-to-understand-fb0ee9a0a3d3?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 135062,
-        "text": "⤷\nTitle:\nHow I Got Paid for Turning an Image Fetcher into an Arbitrary File Read\n════════════════════════\n𐀪\nAuthor:\nRaahil Muhammad Wildan\n════════════════════════\nⴵ\nTime:\nWed, 07 Oct 2026 14:16:21 GMT\n════════════════════════\n⌗\nTags:\n#ssrf\n#bug_bounty\n#cybersecurity\n#web_security\n#ethical_hacking",
-        "date": "2026-10-07T15:04:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135062_0_367d9d4a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135062_1_9d20920c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135062",
-        "link": {
-          "title": "How I Got Paid for Turning an Image Fetcher into an Arbitrary File Read",
-          "url": "https://medium.com/@raahil.mw/how-i-got-paid-for-turning-an-image-fetcher-into-an-arbitrary-file-read-0d15679bae00?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 135061,
-        "text": "⤷\nTitle:\nAEGIS-DEVIN Explained | The AI Platform for Autonomous Penetration Testing\n════════════════════════\n𐀪\nAuthor:\nPentester Club\n════════════════════════\nⴵ\nTime:\nWed, 07 Oct 2026 14:49:21 GMT\n════════════════════════\n⌗\nTags:\n#web_development\n#artificial_intelligence\n#cybersecurity\n#ai\n#bug_bounty",
-        "date": "2026-10-07T15:03:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135061_0_367d9d4a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135061_1_eb0c2de0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135061",
-        "link": {
-          "title": "AEGIS-DEVIN Explained | The AI Platform for Autonomous Penetration Testing",
-          "url": "https://medium.com/@pentesterclubpvtltd/aegis-devin-explained-the-ai-platform-for-autonomous-penetration-testing-f911b5289c1b?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 135060,
-        "text": "⤷\nTitle:\nESP32-C3 Ad Blocker Gets OTA Updates and Tighter Security\n════════════════════════\n𐀪\nAuthor:\nNam Phong\n════════════════════════\nⴵ\nTime:\nWed, 07 Oct 2026 13:45:15 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#ad\nblocker\n#DNS\nFiltering\n#ESP32\n#ESP32_C3\n#Home\nNetwork\n#IoT\n#open\nsource\n#Pi_hole",
-        "date": "2026-10-07T15:03:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135060_0_367d9d4a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135060_1_4b482c82.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135060",
-        "link": {
-          "title": "ESP32-C3 Ad Blocker Gets OTA Updates and Tighter Security",
-          "url": "https://meterpreter.org/esp32-c3-ad-blocker-2/"
-        }
-      },
-      {
-        "id": 135059,
-        "text": "⤷\nTitle:\nMy First Cybersecurity Lab: Detecting an SSH Attack with Cowrie, Nmap and Wireshark\n════════════════════════\n𐀪\nAuthor:\nOduwaugo\n════════════════════════\nⴵ\nTime:\nWed, 07 Oct 2026 11:25:29 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#cybersecurity\n#network_security\n#incident_response",
-        "date": "2026-10-07T13:04:29+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135059_0_367d9d4a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135059_1_965a045c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135059",
-        "link": {
-          "title": "My First Cybersecurity Lab: Detecting an SSH Attack with Cowrie, Nmap and Wireshark",
-          "url": "https://medium.com/@oduwaugo8/my-first-cybersecurity-lab-detecting-an-ssh-attack-with-cowrie-nmap-and-wireshark-f92e16c86ea2?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 135034,
-        "text": "⤷\nTitle:\nBest Ethical Hacking Course in India\n════════════════════════\n𐀪\nAuthor:\nAnuragshah\n════════════════════════\nⴵ\nTime:\nWed, 07 Oct 2026 07:10:54 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking",
-        "date": "2026-10-07T09:04:37+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135034_0_bd0b6ad6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135034_1_0cc249d5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135034",
-        "link": {
-          "title": "Best Ethical Hacking Course in India",
-          "url": "https://medium.com/@anuragshah23622/best-ethical-hacking-course-in-india-0e158850a690?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 135033,
-        "text": "⤷\nTitle:\nCybersecurity: Building a Safer Digital Future\n════════════════════════\n𐀪\nAuthor:\nyuvaraj\n════════════════════════\nⴵ\nTime:\nWed, 07 Oct 2026 07:24:43 GMT\n════════════════════════\n⌗\nTags:\n#information_security\n#cybersecurity_careers\n#cybersecurity\n#network_security\n#ethical_hacking",
-        "date": "2026-10-07T09:04:34+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135033_0_bd0b6ad6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135033_1_c380e9d7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135033",
-        "link": {
-          "title": "Cybersecurity: Building a Safer Digital Future",
-          "url": "https://medium.com/@freemail20262/cybersecurity-building-a-safer-digital-future-01a82d3348e5?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 135032,
-        "text": "⤷\nTitle:\nWhat Is the Best Ethical Hacking Course for Beginners?What\n════════════════════════\n𐀪\nAuthor:\nAndrew William\n════════════════════════\nⴵ\nTime:\nWed, 07 Oct 2026 07:36:25 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking",
-        "date": "2026-10-07T09:04:30+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135032_0_bd0b6ad6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135032_1_3ea4cb28.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135032",
-        "link": {
-          "title": "What Is the Best Ethical Hacking Course for Beginners?What",
-          "url": "https://medium.com/@andrewwilliam9224/what-is-the-best-ethical-hacking-course-for-beginners-what-ef44c0e4d924?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 135031,
-        "text": "⤷\nTitle:\nHow I Discovered Blind SSRF in GitLab Leading to Localhost Access and RCE\n════════════════════════\n𐀪\nAuthor:\nMostafa shaban\n════════════════════════\nⴵ\nTime:\nWed, 07 Oct 2026 08:50:01 GMT\n════════════════════════\n⌗\nTags:\n#vulnerability\n#gitlab\n#hackerone\n#bug_bounty",
-        "date": "2026-10-07T09:04:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135031_0_bd0b6ad6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135031_1_23edca7e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135031",
-        "link": {
-          "title": "How I Discovered Blind SSRF in GitLab Leading to Localhost Access and RCE",
-          "url": "https://mostafa0x.medium.com/how-i-discovered-blind-ssrf-in-gitlab-leading-to-localhost-access-and-rce-3cf075c22364?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 135030,
-        "text": "⤷\nTitle:\nDeathnote (VulnHub) Walkthrough\n════════════════════════\n𐀪\nAuthor:\nteman das\n════════════════════════\nⴵ\nTime:\nWed, 07 Oct 2026 08:09:20 GMT\n════════════════════════\n⌗\nTags:\n#vulnhub\n#pentesting\n#deathnote_vulnhub",
-        "date": "2026-10-07T09:04:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135030_0_bd0b6ad6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135030_1_fe05270d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135030",
-        "link": {
-          "title": "Deathnote (VulnHub) Walkthrough",
-          "url": "https://medium.com/@sahuteman631/deathnote-vulnhub-walkthrough-d95b07d259c9?source=rss------vulnhub-5"
-        }
-      },
-      {
-        "id": 135029,
-        "text": "⤷\nTitle:\nPicoCTF/CyLab Security Academy: Undo — Writeup\n════════════════════════\n𐀪\nAuthor:\nWasif\n════════════════════════\nⴵ\nTime:\nWed, 07 Oct 2026 07:38:44 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#linux\n#cybersecurity\n#ctf\n#picoctf",
-        "date": "2026-10-07T09:04:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135029_0_bd0b6ad6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135029_1_3db47b8b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135029",
-        "link": {
-          "title": "PicoCTF/CyLab Security Academy: Undo — Writeup",
-          "url": "https://medium.com/@wasif1/picoctf-cylab-security-academy-undo-writeup-d20a2a93ae1b?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 135028,
-        "text": "⤷\nTitle:\n“Japan Has One of the World’s Worst Computer Security Systems” – The Hackers Said It.\n════════════════════════\n𐀪\nAuthor:\nMarwin Morado\n════════════════════════\nⴵ\nTime:\nWed, 07 Oct 2026 07:50:41 GMT\n════════════════════════\n⌗\nTags:\n#personal_information\n#hacking\n#data_privacy\n#cybersecurity\n#ai",
-        "date": "2026-10-07T09:04:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135028_0_bd0b6ad6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135028_1_c9e0f524.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135028",
-        "link": {
-          "title": "“Japan Has One of the World’s Worst Computer Security Systems” – The Hackers Said It.",
-          "url": "https://medium.com/@deepseeknow/japan-has-one-of-the-worlds-worst-computer-security-systems-the-hackers-said-it-616198df3674?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 135027,
-        "text": "⤷\nTitle:\nMessage Board Nobody Built: How Sandboxed AI Agents Ended Up Hacking Hugging Face\n════════════════════════\n𐀪\nAuthor:\nAbhi\n════════════════════════\nⴵ\nTime:\nWed, 07 Oct 2026 08:01:47 GMT\n════════════════════════\n⌗\nTags:\n#hugging_face\n#cybersecurity\n#artificial_intelligence\n#ai_agent\n#hacking",
-        "date": "2026-10-07T09:04:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135027_0_bd0b6ad6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135027_1_78d841db.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135027",
-        "link": {
-          "title": "Message Board Nobody Built: How Sandboxed AI Agents Ended Up Hacking Hugging Face",
-          "url": "https://abhinavmunagala.medium.com/message-board-nobody-built-how-sandboxed-ai-agents-ended-up-hacking-hugging-face-d61b9bd27ce5?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 135026,
-        "text": "⤷\nTitle:\nYour Code Has 144 Dependencies.\n════════════════════════\n𐀪\nAuthor:\nOkan Yıldız\n════════════════════════\nⴵ\nTime:\nWed, 07 Oct 2026 08:17:15 GMT\n════════════════════════\n⌗\nTags:\n#technology\n#application_security\n#supply_chain_security\n#cybersecurity\n#software_development",
-        "date": "2026-10-07T09:04:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135026_0_bd0b6ad6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135026_1_9c9f8a75.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135026",
-        "link": {
-          "title": "Your Code Has 144 Dependencies.",
-          "url": "https://medium.com/@okanyildiz1994/your-code-has-144-dependencies-293b93e55ac0?source=rss------application_security-5"
-        }
-      },
-      {
-        "id": 135025,
-        "text": "⤷\nTitle:\nChapter 7 — The Binary Never Changed. So, How Did This Process ?\n════════════════════════\n𐀪\nAuthor:\nηιѕнαηт\n════════════════════════\nⴵ\nTime:\nWed, 07 Oct 2026 07:05:39 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#cybersecurity\n#linux\n#incident_response\n#bug_bounty",
-        "date": "2026-10-07T09:04:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135025_0_bd0b6ad6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135025_1_818f99a9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135025",
-        "link": {
-          "title": "Chapter 7 — The Binary Never Changed. So, How Did This Process ?",
-          "url": "https://medium.com/@nishant.kumarr/chapter-7-the-binary-never-changed-so-how-did-this-process-093dd28c6a1d?source=rss------bug_bounty-5"
-        }
       }
     ]
   },
-  "last_update": "2026-10-08T15:01:32.320973+00:00",
+  "last_update": "2026-10-08T20:31:42.676038+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 194,
-    "total_files": 194,
+    "total_media": 190,
+    "total_files": 190,
     "total_links": 0,
     "files_by_type": {
-      "image": 194
+      "image": 190
     },
-    "referenced_files": 194,
-    "existing_media_files": 194,
-    "total_size_mb": 5.82,
-    "last_calculation": "2026-10-08T15:01:32.322819+00:00"
+    "referenced_files": 190,
+    "existing_media_files": 190,
+    "total_size_mb": 5.17,
+    "last_calculation": "2026-10-08T20:31:42.677846+00:00"
   }
 }
