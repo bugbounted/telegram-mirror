@@ -2,6 +2,213 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 135231,
+        "text": "⤷\nTitle:\nThe Question Mark That Broke Authentication Across Half the Python AI Stack\n════════════════════════\n𐀪\nAuthor:\nAditya Inamdar\n════════════════════════\nⴵ\nTime:\nFri, 09 Oct 2026 03:36:18 GMT\n════════════════════════\n⌗\nTags:\n#fastapi\n#infosec\n#python\n#open_source\n#cve",
+        "date": "2026-10-09T05:03:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135231_0_6f57adbf.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135231_1_36925909.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135231",
+        "link": {
+          "title": "The Question Mark That Broke Authentication Across Half the Python AI Stack",
+          "url": "https://inamdaraditya.medium.com/the-question-mark-that-broke-authentication-across-half-the-python-ai-stack-1c64d42a3d26?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 135230,
+        "text": "⤷\nTitle:\nCitrix Warns of Critical NetScaler SAML Flaw CVE-2026-107406 That Can Lead to Remote Code Execution\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 09 Oct 2026 01:37:58 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Citrix\n#CVE_2026_107406\n#NetScaler\nADC\n#NetScaler\nGateway\n#Remote\nCode Execution\n#SAML",
+        "date": "2026-10-09T03:04:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135230_0_6f57adbf.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135230_1_90d0080e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135230",
+        "link": {
+          "title": "Citrix Warns of Critical NetScaler SAML Flaw CVE-2026-107406 That Can Lead to Remote Code Execution",
+          "url": "https://securityonline.info/citrix-netscaler-vulnerability-cve-2026-107406/"
+        }
+      },
+      {
+        "id": 135229,
+        "text": "⤷\nTitle:\nHPE Fixes Critical iLO 7 Admin Access Flaw and iMC Authentication Bypass\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 09 Oct 2026 01:51:51 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Authentication\nBypass\n#CVE_2026_79820\n#CVE_2026_79842\n#HPE\n#HPE\niLO\n#HPE\niMC\n#Server\nSecurity",
+        "date": "2026-10-09T03:03:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135229_0_6f57adbf.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135229_1_6cc6d034.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135229",
+        "link": {
+          "title": "HPE Fixes Critical iLO 7 Admin Access Flaw and iMC Authentication Bypass",
+          "url": "https://securityonline.info/hpe-ilo-7-vulnerability-imc-bypass/"
+        }
+      },
+      {
+        "id": 135228,
+        "text": "⤷\nTitle:\nTelegram Desktop Account Takeover PoC Disclosed\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 09 Oct 2026 02:08:33 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_107181\n#cybersecurity\n#Telegram\n#Vulnerability",
+        "date": "2026-10-09T03:03:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135228_0_6f57adbf.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135228_1_a8672319.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135228",
+        "link": {
+          "title": "Telegram Desktop Account Takeover PoC Disclosed",
+          "url": "https://securityonline.info/telegram-desktop-account-takeover-poc/"
+        }
+      },
+      {
+        "id": 135227,
+        "text": "⤷\nTitle:\nAhsayCBS Vulnerabilities Exploited in Wild Attacks\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nFri, 09 Oct 2026 02:35:03 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#AhsayCBS\n#cryptomining\n#cybersecurity\n#Vulnerability\n#zero_day",
+        "date": "2026-10-09T03:03:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135227_0_6f57adbf.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135227_1_3908b005.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135227",
+        "link": {
+          "title": "AhsayCBS Vulnerabilities Exploited in Wild Attacks",
+          "url": "https://securityonline.info/ahsaycbs-vulnerabilities-exploited/"
+        }
+      },
+      {
+        "id": 135226,
+        "text": "⤷\nTitle:\nHow I Got Unlimited Office 365 Premium Memberships & Unlimited LinkedIn Premium Vouchers\n════════════════════════\n𐀪\nAuthor:\niamsecure1920 (Sai Krishna Sobila )\n════════════════════════\nⴵ\nTime:\nFri, 09 Oct 2026 00:58:33 GMT\n════════════════════════\n⌗\nTags:\n#vulnerability\n#bug_bounty\n#bug_bounty_tips\n#bug_bounty_writeup",
+        "date": "2026-10-09T01:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135226_0_6f57adbf.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135226_1_0e46da20.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135226",
+        "link": {
+          "title": "How I Got Unlimited Office 365 Premium Memberships & Unlimited LinkedIn Premium Vouchers",
+          "url": "https://medium.com/@iamsecure1920/how-i-got-unlimited-office-365-premium-memberships-unlimited-linkedin-premium-vouchers-42ca4231e2af?source=rss------bug_bounty_tips-5"
+        }
+      },
+      {
+        "id": 135225,
+        "text": "⤷\nTitle:\nIs Your Digital Life Completely Secure?\n════════════════════════\n𐀪\nAuthor:\nSmatchoiceHackers Update\n════════════════════════\nⴵ\nTime:\nThu, 08 Oct 2026 23:16:01 GMT\n════════════════════════\n⌗\nTags:\n#remote_security\n#infosec\n#cybersecurity\n#cybersecurity_jobs\n#freelance",
+        "date": "2026-10-09T01:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135225_0_6f57adbf.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135225_1_314c55fb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135225",
+        "link": {
+          "title": "Is Your Digital Life Completely Secure?",
+          "url": "https://medium.com/@smatchoicehackersupdate/is-your-digital-life-completely-secure-b09c65d7c892?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 135224,
+        "text": "⤷\nTitle:\nThe Growth of AI Crime Markets and the Challenge for Banking Security\n════════════════════════\n𐀪\nAuthor:\nDavid SEHYEON Baek\n════════════════════════\nⴵ\nTime:\nThu, 08 Oct 2026 23:45:15 GMT\n════════════════════════\n⌗\nTags:\n#ai\n#artificial_intelligence\n#cyberattack\n#hacking\n#cybersecurity",
+        "date": "2026-10-09T01:03:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135224_0_6f57adbf.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135224_1_485da991.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135224",
+        "link": {
+          "title": "The Growth of AI Crime Markets and the Challenge for Banking Security",
+          "url": "https://medium.com/@davidsehyeonbaek/the-growth-of-ai-crime-markets-and-the-challenge-for-banking-security-e800ff6eb5cf?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 135223,
+        "text": "⤷\nTitle:\nFBI Seizes Flax Typhoon Hacking Tools Linked to Chinese Contractor\n════════════════════════\n𐀪\nAuthor:\nWaqas\n════════════════════════\nⴵ\nTime:\nThu, 08 Oct 2026 23:09:07 +0000\n════════════════════════\n⌗\nTags:\n#Cyber\nCrime\n#Security\n#China\n#Cybersecurity\n#Flax\nTyphoon\n#Integrity\nTechnology Group\n#Phishing\n#Vulnerability\nScanner",
+        "date": "2026-10-09T01:03:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135223_0_6f57adbf.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135223_1_90a85145.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135223",
+        "link": {
+          "title": "FBI Seizes Flax Typhoon Hacking Tools Linked to Chinese Contractor",
+          "url": "https://hackread.com/fbi-seizes-flax-typhoon-hacking-tools-china/"
+        }
+      },
+      {
         "id": 135222,
         "text": "⤷\nTitle:\nInvestigating PowerShell Execution: A Deep Blue-Team Investigation Guide\n════════════════════════\n𐀪\nAuthor:\nBhoyarlokesh\n════════════════════════\nⴵ\nTime:\nThu, 08 Oct 2026 20:53:49 GMT\n════════════════════════\n⌗\nTags:\n#windows_security\n#powershell\n#tryhackme\n#cybersecurity",
         "date": "2026-10-08T23:04:02+00:00",
@@ -2061,221 +2268,22 @@
           "title": "What I Wish I Knew Before OSED: A Linux Remote StackOverflow",
           "url": "https://motasemhamdan.medium.com/what-i-wish-i-knew-before-osed-a-linux-remote-stackoverflow-71e21b227e3d?source=rss------hacking-5"
         }
-      },
-      {
-        "id": 135103,
-        "text": "⤷\nTitle:\nDeconstructing Enterprise Identity Portals: A Deep-Dive into Angular, WAFs, and Okta OIDC Runtime…\n════════════════════════\n𐀪\nAuthor:\nAli Ahmadi\n════════════════════════\nⴵ\nTime:\nWed, 07 Oct 2026 16:56:00 GMT\n════════════════════════\n⌗\nTags:\n#api_penetration_testing\n#openid_connect\n#application_security\n#cybersecurity",
-        "date": "2026-10-07T19:04:22+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135103_0_367d9d4a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135103_1_44df0e3b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135103",
-        "link": {
-          "title": "Deconstructing Enterprise Identity Portals: A Deep-Dive into Angular, WAFs, and Okta OIDC Runtime…",
-          "url": "https://medium.com/@a9128331/deconstructing-enterprise-identity-portals-a-deep-dive-into-angular-wafs-and-okta-oidc-runtime-cc4c33b0d778?source=rss------application_security-5"
-        }
-      },
-      {
-        "id": 135102,
-        "text": "⤷\nTitle:\nHow I Earned My First $$$ Bounty from Google — And What I Learned\n════════════════════════\n𐀪\nAuthor:\nHimxch\n════════════════════════\nⴵ\nTime:\nWed, 07 Oct 2026 18:30:16 GMT\n════════════════════════\n⌗\nTags:\n#vulnerability_research\n#responsible_disclosure\n#bug_bounty\n#google_vrp\n#cloud_security",
-        "date": "2026-10-07T19:04:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135102_0_367d9d4a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135102_1_dbc6a819.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135102",
-        "link": {
-          "title": "How I Earned My First $$$ Bounty from Google — And What I Learned",
-          "url": "https://medium.com/@himxch/how-i-earned-my-first-bounty-from-google-and-what-i-learned-4952e25771e9?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 135101,
-        "text": "⤷\nTitle:\nCisco Patches Four Critical Nexus Switch Flaws That Allow Root-Level Remote Code Execution\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 07 Oct 2026 17:17:30 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#cisco\n#Cisco\nNexus\n#CVE_2026_76465\n#CVE_2026_76485\n#CVE_2026_76486\n#network_security\n#NX_OS\n#Remote\nCode Execution",
-        "date": "2026-10-07T19:04:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135101_0_367d9d4a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135101_1_e79751c7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135101",
-        "link": {
-          "title": "Cisco Patches Four Critical Nexus Switch Flaws That Allow Root-Level Remote Code Execution",
-          "url": "https://securityonline.info/cisco-nexus-vulnerabilities-oam-rce/"
-        }
-      },
-      {
-        "id": 135100,
-        "text": "⤷\nTitle:\nCisco Fixes Critical NX-API Flaw CVE-2026-76471 and Ships NX-OS Hardening Release for Six Bug Classes\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 07 Oct 2026 17:25:54 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#cisco\n#Cisco\nNexus\n#CVE_2026_76455\n#CVE_2026_76459\n#CVE_2026_76471\n#network_security\n#NX_OS\n#Remote\nCode Execution",
-        "date": "2026-10-07T19:04:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135100_0_367d9d4a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135100_1_41fde45e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135100",
-        "link": {
-          "title": "Cisco Fixes Critical NX-API Flaw CVE-2026-76471 and Ships NX-OS Hardening Release for Six Bug Classes",
-          "url": "https://securityonline.info/cisco-nx-os-vulnerabilities-nx-api-rce/"
-        }
-      },
-      {
-        "id": 135099,
-        "text": "⤷\nTitle:\nCisco Fixes CVSS 10 License On-Prem Flaw and Ships Hardening Releases for APIC and Meraki\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nWed, 07 Oct 2026 17:35:13 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#cisco\n#Cisco\nAPIC\n#Cisco\nLicense On_Prem\n#Cisco\nMeraki\n#CVE_2026_20328\n#CVE_2026_76482\n#CVE_2026_76498\n#Smart\nSoftware Manager",
-        "date": "2026-10-07T19:04:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135099_0_367d9d4a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135099_1_69389416.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135099",
-        "link": {
-          "title": "Cisco Fixes CVSS 10 License On-Prem Flaw and Ships Hardening Releases for APIC and Meraki",
-          "url": "https://securityonline.info/cisco-license-on-prem-vulnerabilities/"
-        }
-      },
-      {
-        "id": 135098,
-        "text": "⤷\nTitle:\nDread Dark Web Forum Hijacked, Operators Claim Control of Domain Keys\n════════════════════════\n𐀪\nAuthor:\nWaqas\n════════════════════════\nⴵ\nTime:\nWed, 07 Oct 2026 18:22:07 +0000\n════════════════════════\n⌗\nTags:\n#Data\nBreaches\n#Dark\nWeb\n#Hacking\nNews\n#Security\n#Cyber\nAttack\n#Cyber\nCrime\n#Cybersecurity\n#Dark\nNet\n#dark\nweb\n#data\nbreach\n#Dread\n#HugBunter\n#Privacy\n#Tor",
-        "date": "2026-10-07T19:04:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135098_0_367d9d4a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135098_1_f52531a9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135098",
-        "link": {
-          "title": "Dread Dark Web Forum Hijacked, Operators Claim Control of Domain Keys",
-          "url": "https://hackread.com/dread-dark-web-forum-hijacked-domain-keys/"
-        }
-      },
-      {
-        "id": 135097,
-        "text": "⤷\nTitle:\nSonicWall Patches CVSS 10.0 Pre-Authentication SSRF Flaw in SMA1000 Appliances\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nWed, 07 Oct 2026 21:47:44 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-10-07T19:04:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135097_0_367d9d4a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135097",
-        "link": {
-          "title": "SonicWall Patches CVSS 10.0 Pre-Authentication SSRF Flaw in SMA1000 Appliances",
-          "url": "https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html"
-        }
-      },
-      {
-        "id": 135096,
-        "text": "⤷\nTitle:\nEight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nWed, 07 Oct 2026 23:13:20 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-10-07T19:03:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135096_0_367d9d4a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135096",
-        "link": {
-          "title": "Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer",
-          "url": "https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html"
-        }
-      },
-      {
-        "id": 135095,
-        "text": "⤷\nTitle:\nSignal Acquired: Cybersecurity Weekly Brief\n════════════════════════\n𐀪\nAuthor:\nRick Gregson\n════════════════════════\nⴵ\nTime:\nWed, 07 Oct 2026 15:37:18 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#cybercrime\n#cybersecurity\n#artificial_intelligence\n#technology",
-        "date": "2026-10-07T17:04:48+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135095_0_367d9d4a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135095_1_7c1998c2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135095",
-        "link": {
-          "title": "Signal Acquired: Cybersecurity Weekly Brief",
-          "url": "https://medium.com/@therickgregson/signal-acquired-cybersecurity-weekly-brief-c2944f7d08d5?source=rss------infosec-5"
-        }
       }
     ]
   },
-  "last_update": "2026-10-09T00:34:54.812726+00:00",
+  "last_update": "2026-10-09T06:53:42.904026+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 190,
-    "total_files": 190,
+    "total_media": 192,
+    "total_files": 192,
     "total_links": 0,
     "files_by_type": {
-      "image": 190
+      "image": 192
     },
-    "referenced_files": 190,
-    "existing_media_files": 190,
-    "total_size_mb": 5.47,
-    "last_calculation": "2026-10-09T00:34:54.814277+00:00"
+    "referenced_files": 192,
+    "existing_media_files": 192,
+    "total_size_mb": 5.84,
+    "last_calculation": "2026-10-09T06:53:42.906326+00:00"
   }
 }
