@@ -2,6 +2,466 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 135394,
+        "text": "⤷\nTitle:\nSQL Injection\n════════════════════════\n𐀪\nAuthor:\nShadow\n════════════════════════\nⴵ\nTime:\nFri, 09 Oct 2026 17:26:06 GMT\n════════════════════════\n⌗\nTags:\n#web_security\n#sql_injection\n#cybersecurity",
+        "date": "2026-10-09T19:05:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135394_0_ae029f1b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135394_1_96b07f26.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135394",
+        "link": {
+          "title": "SQL Injection",
+          "url": "https://medium.com/@xalpha032/sql-injection-b80288883fe7?source=rss------sql_injection-5"
+        }
+      },
+      {
+        "id": 135393,
+        "text": "⤷\nTitle:\nMrRobot VulnHub Walkthrough\n════════════════════════\n𐀪\nAuthor:\nTaha Elgonamy 4\n════════════════════════\nⴵ\nTime:\nWed, 07 Oct 2026 21:47:57 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ethical_hacking\n#wordpress\n#penetration_testing\n#vulnhub",
+        "date": "2026-10-09T19:05:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135393_0_ae029f1b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135393_1_5d294e53.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135393",
+        "link": {
+          "title": "MrRobot VulnHub Walkthrough",
+          "url": "https://infosecwriteups.com/mrrobot-vulnhub-walkthrough-d89b618e1558?source=rss------vulnhub-5"
+        }
+      },
+      {
+        "id": 135392,
+        "text": "⤷\nTitle:\nKioptrix Level 1 — A Beginner’s Walkthrough to Root\n════════════════════════\n𐀪\nAuthor:\nTaha Elgonamy 4\n════════════════════════\nⴵ\nTime:\nThu, 08 Oct 2026 09:41:31 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#penetration_testing\n#cybersecurity\n#vulnhub\n#privilege_escalation",
+        "date": "2026-10-09T19:04:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135392_0_ae029f1b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135392_1_1f76e223.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135392",
+        "link": {
+          "title": "Kioptrix Level 1 — A Beginner’s Walkthrough to Root",
+          "url": "https://meetcyber.net/kioptrix-level-1-a-beginners-walkthrough-to-root-d45dbbed5dcb?source=rss------vulnhub-5"
+        }
+      },
+      {
+        "id": 135391,
+        "text": "⤷\nTitle:\nKioptrix Level 3 — Penetration Test Writeup\n════════════════════════\n𐀪\nAuthor:\nTaha Elgonamy 4\n════════════════════════\nⴵ\nTime:\nFri, 09 Oct 2026 08:26:11 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#cybersecurity\n#linuxprivilegeescalation\n#vulnhub\n#ethical_hacking",
+        "date": "2026-10-09T19:04:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135391_0_ae029f1b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135391_1_d27c5db7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135391",
+        "link": {
+          "title": "Kioptrix Level 3 — Penetration Test Writeup",
+          "url": "https://infosecwriteups.com/kioptrix-level-3-penetration-test-writeup-fc12a7ba0c92?source=rss------vulnhub-5"
+        }
+      },
+      {
+        "id": 135390,
+        "text": "⤷\nTitle:\nVulnHub DC-6 Walkthrough\n════════════════════════\n𐀪\nAuthor:\nMandemyaswanth\n════════════════════════\nⴵ\nTime:\nFri, 09 Oct 2026 18:40:27 GMT\n════════════════════════\n⌗\nTags:\n#ctf_writeup\n#ethical_hacking\n#web_penetration_testing\n#cybersecurity\n#vulnhub",
+        "date": "2026-10-09T19:04:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135390_0_ae029f1b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135390_1_bfd4d9e3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135390",
+        "link": {
+          "title": "VulnHub DC-6 Walkthrough",
+          "url": "https://medium.com/@mandemyaswanth2001/vulnhub-dc-6-walkthrough-790ad7698f6f?source=rss------vulnhub-5"
+        }
+      },
+      {
+        "id": 135389,
+        "text": "⤷\nTitle:\nChasing Ghosts in Windows: An Investigation-First Approach to Threat Detection\n════════════════════════\n𐀪\nAuthor:\nRafi R\n════════════════════════\nⴵ\nTime:\nFri, 09 Oct 2026 17:01:02 GMT\n════════════════════════\n⌗\nTags:\n#windows\n#tryhackme\n#cybersecurity",
+        "date": "2026-10-09T19:04:47+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135389_0_ae029f1b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135389_1_eae0090f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135389",
+        "link": {
+          "title": "Chasing Ghosts in Windows: An Investigation-First Approach to Threat Detection",
+          "url": "https://medium.com/@rafi.lucky12/chasing-ghosts-in-windows-an-investigation-first-approach-to-threat-detection-94f58a31ff2b?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 135388,
+        "text": "⤷\nTitle:\nKioptrix Level 2 — Full Boot2Root Walkthrough\n════════════════════════\n𐀪\nAuthor:\nTaha Elgonamy 4\n════════════════════════\nⴵ\nTime:\nFri, 09 Oct 2026 16:59:33 GMT\n════════════════════════\n⌗\nTags:\n#vulnhub\n#privilege_escalation\n#penetration_testing\n#ethical_hacking\n#cybersecurity",
+        "date": "2026-10-09T19:04:43+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135388_0_ae029f1b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135388_1_8020927e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135388",
+        "link": {
+          "title": "Kioptrix Level 2 — Full Boot2Root Walkthrough",
+          "url": "https://infosecwriteups.com/kioptrix-level-2-full-boot2root-walkthrough-807de62eceec?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 135387,
+        "text": "⤷\nTitle:\nKioptrix Level 1 — From SMB Enumeration to Root-Level Remote Code Execution\n════════════════════════\n𐀪\nAuthor:\n0xDarsh\n════════════════════════\nⴵ\nTime:\nFri, 09 Oct 2026 17:03:40 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ethical_hacking\n#linux\n#penetration_testing\n#ctf",
+        "date": "2026-10-09T19:04:40+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135387_0_ae029f1b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135387_1_7a11487e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135387",
+        "link": {
+          "title": "Kioptrix Level 1 — From SMB Enumeration to Root-Level Remote Code Execution",
+          "url": "https://medium.com/@0xDarh/kioptrix-level-1-from-smb-enumeration-to-root-level-remote-code-execution-b15677ea164c?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 135386,
+        "text": "⤷\nTitle:\nThe 2026 Guide to AI Cybersecurity\n════════════════════════\n𐀪\nAuthor:\nCywarden\n════════════════════════\nⴵ\nTime:\nFri, 09 Oct 2026 17:47:15 GMT\n════════════════════════\n⌗\nTags:\n#openai\n#penetration_testing\n#ai\n#claude\n#cybersecurity",
+        "date": "2026-10-09T19:04:37+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135386_0_ae029f1b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135386_1_0de6f05a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135386",
+        "link": {
+          "title": "The 2026 Guide to AI Cybersecurity",
+          "url": "https://cywarden.medium.com/the-2026-guide-to-ai-cybersecurity-73147d5aa3b6?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 135385,
+        "text": "⤷\nTitle:\nSmol TryHackMe Walkthrough: WordPress SSRF to Root\n════════════════════════\n𐀪\nAuthor:\nAdrian Korwel\n════════════════════════\nⴵ\nTime:\nFri, 09 Oct 2026 18:42:06 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#wordpress\n#ctf\n#penetration_testing\n#tryhackme",
+        "date": "2026-10-09T19:04:33+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135385_0_ae029f1b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135385_1_0c0e3e1d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135385",
+        "link": {
+          "title": "Smol TryHackMe Walkthrough: WordPress SSRF to Root",
+          "url": "https://medium.com/@adriankorwel/smol-tryhackme-walkthrough-69109291c7aa?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 135384,
+        "text": "⤷\nTitle:\nLedger Pauses CryptoBilis Sales After $87M Wallet Drain Reports\n════════════════════════\n𐀪\nAuthor:\nKoome Evanson\n════════════════════════\nⴵ\nTime:\nFri, 09 Oct 2026 17:59:01 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#cryptocurrency\n#crypto\n#ledger\n#crypto_wallet",
+        "date": "2026-10-09T19:04:30+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135384_0_ae029f1b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135384_1_3082db39.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135384",
+        "link": {
+          "title": "Ledger Pauses CryptoBilis Sales After $87M Wallet Drain Reports",
+          "url": "https://medium.com/@evansonmcjamesithali/ledger-pauses-cryptobilis-sales-after-87m-wallet-drain-reports-db49da4a0f8b?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 135383,
+        "text": "⤷\nTitle:\n12 Signs Your Phone or Computer Has Been Hacked\n════════════════════════\n𐀪\nAuthor:\nBudgetTechFinds\n════════════════════════\nⴵ\nTime:\nFri, 09 Oct 2026 18:18:36 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#hacking\n#online_safety\n#privacy\n#tech_tips",
+        "date": "2026-10-09T19:04:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135383_0_ae029f1b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135383_1_cda75cfa.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135383",
+        "link": {
+          "title": "12 Signs Your Phone or Computer Has Been Hacked",
+          "url": "https://medium.com/@BudgetTechFinds/12-signs-your-phone-or-computer-has-been-hacked-ea9e2a7e6f13?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 135382,
+        "text": "⤷\nTitle:\nHow Hackers Steal Passwords (And How to Stop Them)\n════════════════════════\n𐀪\nAuthor:\nBudgetTechFinds\n════════════════════════\nⴵ\nTime:\nFri, 09 Oct 2026 18:22:47 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#privacy\n#online_safety\n#cybersecurity\n#passwords",
+        "date": "2026-10-09T19:04:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135382_0_ae029f1b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135382_1_9311e0f0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135382",
+        "link": {
+          "title": "How Hackers Steal Passwords (And How to Stop Them)",
+          "url": "https://medium.com/@BudgetTechFinds/how-hackers-steal-passwords-and-how-to-stop-them-6940c27cdad2?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 135381,
+        "text": "⤷\nTitle:\nRed-Teaming Your Own MCP Server: A Checklist and a Test Harness\n════════════════════════\n𐀪\nAuthor:\nIamarbaz\n════════════════════════\nⴵ\nTime:\nFri, 09 Oct 2026 18:19:32 GMT\n════════════════════════\n⌗\nTags:\n#application_security\n#penetration_testing\n#cybersecurity\n#mcps\n#ai_security",
+        "date": "2026-10-09T19:04:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135381_0_ae029f1b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135381_1_ede27ba7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135381",
+        "link": {
+          "title": "Red-Teaming Your Own MCP Server: A Checklist and a Test Harness",
+          "url": "https://sudor-io.medium.com/red-teaming-your-own-mcp-server-a-checklist-and-a-test-harness-0d7aa8d49ae9?source=rss------application_security-5"
+        }
+      },
+      {
+        "id": 135380,
+        "text": "⤷\nTitle:\nPortSwigger Access Control Masterclass: Mass Assignment ve IDOR Çeşitleri\n════════════════════════\n𐀪\nAuthor:\nFurkannyildiizz\n════════════════════════\nⴵ\nTime:\nFri, 09 Oct 2026 17:36:42 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#portswigger\n#web_security\n#cybersecurity\n#bug_bounty",
+        "date": "2026-10-09T19:04:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135380_0_ae029f1b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135380_1_7e016c61.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135380",
+        "link": {
+          "title": "PortSwigger Access Control Masterclass: Mass Assignment ve IDOR Çeşitleri",
+          "url": "https://medium.com/@furkannyildiizz05/portswigger-access-control-masterclass-mass-assignment-ve-idor-%C3%A7e%C5%9Fitleri-440255ab46e4?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 135379,
+        "text": "⤷\nTitle:\nPortSwigger Access Control Notes: Mass Assignment and IDOR Variants\n════════════════════════\n𐀪\nAuthor:\nFurkannyildiizz\n════════════════════════\nⴵ\nTime:\nFri, 09 Oct 2026 17:41:01 GMT\n════════════════════════\n⌗\nTags:\n#web_security\n#portswigger\n#ethical_hacking\n#cybersecurity\n#bug_bounty",
+        "date": "2026-10-09T19:04:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135379_0_ae029f1b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135379_1_69ce95b1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135379",
+        "link": {
+          "title": "PortSwigger Access Control Notes: Mass Assignment and IDOR Variants",
+          "url": "https://medium.com/@furkannyildiizz05/portswigger-access-control-notes-mass-assignment-and-idor-variants-c10b2a70cd50?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 135378,
+        "text": "⤷\nTitle:\nAll green but still broken: A Kubernetes Fake Certificate Story.\n════════════════════════\n𐀪\nAuthor:\nAlex\n════════════════════════\nⴵ\nTime:\nFri, 09 Oct 2026 17:55:07 GMT\n════════════════════════\n⌗\nTags:\n#devops\n#terraform\n#security\n#kubernetes\n#bug_bounty",
+        "date": "2026-10-09T19:04:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135378_0_ae029f1b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135378_1_3d9a5833.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135378",
+        "link": {
+          "title": "All green but still broken: A Kubernetes Fake Certificate Story.",
+          "url": "https://alexmarket.medium.com/all-green-but-still-broken-a-kubernetes-fake-certificate-story-e3db799edab9?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 135377,
+        "text": "⤷\nTitle:\nFrom CSPT to DOM XSS: Chaining an Open Redirect with Malicious JSON\n════════════════════════\n𐀪\nAuthor:\nAstroKrypTech\n════════════════════════\nⴵ\nTime:\nFri, 09 Oct 2026 18:07:57 GMT\n════════════════════════\n⌗\nTags:\n#out_of_band_interaction\n#bug_bounty\n#xss_attack\n#api\n#path_traversal",
+        "date": "2026-10-09T19:04:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135377_0_ae029f1b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135377_1_cb71c181.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135377",
+        "link": {
+          "title": "From CSPT to DOM XSS: Chaining an Open Redirect with Malicious JSON",
+          "url": "https://medium.com/@AstroKrypTech/from-cspt-to-dom-xss-chaining-an-open-redirect-with-malicious-json-71a58c462c2a?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 135376,
+        "text": "⤷\nTitle:\nThe Art of the Completion Frame: Extracting the AI Training Engine Directives\n════════════════════════\n𐀪\nAuthor:\nMohamed\n════════════════════════\nⴵ\nTime:\nFri, 09 Oct 2026 18:44:58 GMT\n════════════════════════\n⌗\nTags:\n#security\n#security_research\n#bug_bounty",
+        "date": "2026-10-09T19:04:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135376_0_ae029f1b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135376_1_97e3ba96.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135376",
+        "link": {
+          "title": "The Art of the Completion Frame: Extracting the AI Training Engine Directives",
+          "url": "https://medium.com/@mohamed10111213141516171819/the-art-of-the-completion-frame-extracting-the-ai-training-engine-directives-e1c2689245e3?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 135375,
+        "text": "⤷\nTitle:\nDeath By A Thousand PaperCuts (PaperCut Pre-Auth RCE Chain and Patch Bypasses WT-2026-0141-0144/CVE-2026-82077/CVE-2026-82078/CVE-2026-81578)\n════════════════════════\n𐀪\nAuthor:\nPiotr Bazydlo (\n@chudyPB\n)\n════════════════════════\nⴵ\nTime:\nFri, 09 Oct 2026 17:31:14 GMT\n════════════════════════\n⌗\nTags:\nNo_Tags",
+        "date": "2026-10-09T19:04:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135375_0_ae029f1b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135375_1_6b84fb08.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135375",
+        "link": {
+          "title": "Death By A Thousand PaperCuts (PaperCut Pre-Auth RCE Chain and Patch Bypasses WT-2026-0141-0144/CVE-2026-82077/CVE-2026-82078/CVE-2026-81578)",
+          "url": "https://labs.watchtowr.com/death-by-a-thousand-papercuts-papercut-pre-auth-rce-chain-and-patch-bypasses-wt-2026-0141-0144-cve-2026-82077-cve-2026-82078-cve-2026-81578/"
+        }
+      },
+      {
         "id": 135323,
         "text": "⤷\nTitle:\nError-Based SQL Injection di Portal Berita Pemerintah kabupaten [REDACTED] via Parameter id_news\n════════════════════════\n𐀪\nAuthor:\nMencari si dia\n════════════════════════\nⴵ\nTime:\nFri, 09 Oct 2026 11:08:26 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_writeup\n#cybersecurity\n#bug_hunter",
         "date": "2026-10-09T13:04:59+00:00",
@@ -1816,474 +2276,22 @@
           "title": "Claude AI Chat Leads to Florida Arrest",
           "url": "https://securityonline.info/ai-chat-threats-arrest/"
         }
-      },
-      {
-        "id": 135158,
-        "text": "⤷\nTitle:\nFBI, French Police Seize CSAM Site Domains, Suspected Admin Arrested\n════════════════════════\n𐀪\nAuthor:\nWaqas\n════════════════════════\nⴵ\nTime:\nThu, 08 Oct 2026 10:52:46 +0000\n════════════════════════\n⌗\nTags:\n#Cyber\nCrime\n#CSAM\n#Cybersecurity\n#FBI\n#France\n#Operation\nInevitable\n#USA",
-        "date": "2026-10-08T11:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135158_0_367d9d4a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135158_1_cd3c4f82.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135158",
-        "link": {
-          "title": "FBI, French Police Seize CSAM Site Domains, Suspected Admin Arrested",
-          "url": "https://hackread.com/fbi-french-police-seize-csam-domains-admin-arrested/"
-        }
-      },
-      {
-        "id": 135142,
-        "text": "⤷\nTitle:\nFrom JEH to a Cybersecurity Career: What Skills Should You Build?\n════════════════════════\n𐀪\nAuthor:\nQnaydshackersacadamy\n════════════════════════\nⴵ\nTime:\nThu, 08 Oct 2026 06:33:45 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#security\n#information_technology\n#cybersecurity\n#careers",
-        "date": "2026-10-08T07:04:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135142_0_367d9d4a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135142_1_6450f177.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135142",
-        "link": {
-          "title": "From JEH to a Cybersecurity Career: What Skills Should You Build?",
-          "url": "https://medium.com/@qnaydshackersacadamy/from-jeh-to-a-cybersecurity-career-what-skills-should-you-build-a484924e1341?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 135141,
-        "text": "⤷\nTitle:\nDESC ISR Penetration Testing: A Practical Guide for Dubai Government Entities\n════════════════════════\n𐀪\nAuthor:\nPiyush Bhuyan\n════════════════════════\nⴵ\nTime:\nThu, 08 Oct 2026 05:19:38 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#penetration_testing_tools\n#desc_isr",
-        "date": "2026-10-08T07:04:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135141_0_367d9d4a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135141_1_6e051cd3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135141",
-        "link": {
-          "title": "DESC ISR Penetration Testing: A Practical Guide for Dubai Government Entities",
-          "url": "https://medium.com/@piyush.qualysec/desc-isr-penetration-testing-a-practical-guide-for-dubai-government-entities-424b4a786e5f?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 135140,
-        "text": "⤷\nTitle:\nUnderstanding Cyber Threat Intelligence: My Beginner Notes\n════════════════════════\n𐀪\nAuthor:\nBoluwatife Omosowon\n════════════════════════\nⴵ\nTime:\nThu, 08 Oct 2026 05:44:26 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#threat_hunting\n#cybersecurity\n#soc_analyst\n#cyber_threat_intelligence",
-        "date": "2026-10-08T07:04:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135140_0_367d9d4a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135140_1_b925cdc3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135140",
-        "link": {
-          "title": "Understanding Cyber Threat Intelligence: My Beginner Notes",
-          "url": "https://medium.com/@omosowonboluwatife16/understanding-cyber-threat-intelligence-my-beginner-notes-f993efdddc24?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 135139,
-        "text": "⤷\nTitle:\nUnified Kill Chain: The 18 Attack Phases, Threat Modelling, and the In, Through, Out Model\n════════════════════════\n𐀪\nAuthor:\nJonathan Sanfer\n════════════════════════\nⴵ\nTime:\nThu, 08 Oct 2026 06:20:10 GMT\n════════════════════════\n⌗\nTags:\n#threat_intelligence\n#infosec\n#cybersecurity\n#information_security\n#tryhackme",
-        "date": "2026-10-08T07:04:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135139_0_367d9d4a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135139_1_0cf7104e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135139",
-        "link": {
-          "title": "Unified Kill Chain: The 18 Attack Phases, Threat Modelling, and the In, Through, Out Model",
-          "url": "https://medium.com/@jonathan.sanfer/unified-kill-chain-the-18-attack-phases-threat-modelling-and-the-in-through-out-model-4981e03dec3c?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 135138,
-        "text": "⤷\nTitle:\nWhat Does “Secure” Actually Mean for Your Business?\n════════════════════════\n𐀪\nAuthor:\nParveen Kr. Arora\n════════════════════════\nⴵ\nTime:\nThu, 08 Oct 2026 05:20:32 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#privacy\n#application_security\n#digital_transformation\n#devsecops",
-        "date": "2026-10-08T07:04:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135138_0_367d9d4a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135138_1_364cbc96.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135138",
-        "link": {
-          "title": "What Does “Secure” Actually Mean for Your Business?",
-          "url": "https://medium.com/@parveen.arora.vvnt/what-does-secure-actually-mean-for-your-business-cbcfaebfb80a?source=rss------application_security-5"
-        }
-      },
-      {
-        "id": 135137,
-        "text": "⤷\nTitle:\nHow I Found a Session Hijacking Bug That Could Lead to Account Takeover | by Samadhan Shimple\n════════════════════════\n𐀪\nAuthor:\nSamadhan shimple\n════════════════════════\nⴵ\nTime:\nThu, 08 Oct 2026 06:01:01 GMT\n════════════════════════\n⌗\nTags:\n#penetesting\n#hacking\n#sam_shield\n#account_takeover_attacks\n#bug_bounty",
-        "date": "2026-10-08T07:04:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135137_0_367d9d4a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135137_1_5e1e8420.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135137",
-        "link": {
-          "title": "How I Found a Session Hijacking Bug That Could Lead to Account Takeover | by Samadhan Shimple",
-          "url": "https://samadhanshimple.medium.com/how-i-found-a-session-hijacking-bug-that-could-lead-to-account-takeover-by-samadhan-shimple-99f63c58ca7f?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 135136,
-        "text": "⤷\nTitle:\nGoogle SynthID AI Detector Now Open to the Public\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 08 Oct 2026 05:15:15 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#AI\nDetection\n#cybersecurity\n#Deepfakes\n#google\n#SynthID",
-        "date": "2026-10-08T07:03:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135136_0_367d9d4a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135136_1_aecd9544.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135136",
-        "link": {
-          "title": "Google SynthID AI Detector Now Open to the Public",
-          "url": "https://securityonline.info/google-synthid-ai-detector-public/"
-        }
-      },
-      {
-        "id": 135135,
-        "text": "⤷\nTitle:\nRogue AI Agents Hijacked urlquery Scan Browsers to Reach Russian Bankruptcy Records\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 08 Oct 2026 06:30:00 +0000\n════════════════════════\n⌗\nTags:\n#Malware\n#AI\nAgent Security\n#OpenAI\n#rogue\nAI agents\n#Sandbox\nEscape\n#Transluce\n#urlquery\n#vnc\n#Zenity",
-        "date": "2026-10-08T07:03:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135135_0_367d9d4a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135135_1_b6e5dc7e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135135",
-        "link": {
-          "title": "Rogue AI Agents Hijacked urlquery Scan Browsers to Reach Russian Bankruptcy Records",
-          "url": "https://securityonline.info/rogue-ai-agents-urlquery/"
-        }
-      },
-      {
-        "id": 135134,
-        "text": "⤷\nTitle:\nTensorlake npm Package Compromised to Deliver Shai-Hulud Credential-Stealing Worm\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nThu, 08 Oct 2026 11:16:20 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-10-08T07:03:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135134_0_367d9d4a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135134",
-        "link": {
-          "title": "Tensorlake npm Package Compromised to Deliver Shai-Hulud Credential-Stealing Worm",
-          "url": "https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html"
-        }
-      },
-      {
-        "id": 135133,
-        "text": "⤷\nTitle:\nDC 1 — Vulnhub\n════════════════════════\n𐀪\nAuthor:\nSanjana\n════════════════════════\nⴵ\nTime:\nThu, 08 Oct 2026 03:43:34 GMT\n════════════════════════\n⌗\nTags:\n#vulnhub\n#dc_1\n#attacking_machine",
-        "date": "2026-10-08T05:04:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135133_0_367d9d4a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135133_1_7b9b0a40.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135133",
-        "link": {
-          "title": "DC 1 — Vulnhub",
-          "url": "https://medium.com/@sanjanads951/dc-1-vulnhub-d04dbd00e854?source=rss------vulnhub-5"
-        }
-      },
-      {
-        "id": 135132,
-        "text": "⤷\nTitle:\nFrom Foothold to Full Compromise: How a Real Internal Penetration Test Actually Works\n════════════════════════\n𐀪\nAuthor:\nHuzaifah Tahir\n════════════════════════\nⴵ\nTime:\nThu, 08 Oct 2026 04:40:45 GMT\n════════════════════════\n⌗\nTags:\n#skelersecurity\n#tryhackme\n#hackthebox\n#pentesting\n#pentester_academy",
-        "date": "2026-10-08T05:04:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135132_0_367d9d4a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135132_1_31d9f09c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135132",
-        "link": {
-          "title": "From Foothold to Full Compromise: How a Real Internal Penetration Test Actually Works",
-          "url": "https://medium.com/@huzaifahtahir/from-foothold-to-full-compromise-how-a-real-internal-penetration-test-actually-works-62d7e0364980?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 135131,
-        "text": "⤷\nTitle:\nWhen a Cloud Provider Suffers Ransomware, Who Can Keep the Business Running?\n════════════════════════\n𐀪\nAuthor:\nDavid SEHYEON Baek\n════════════════════════\nⴵ\nTime:\nThu, 08 Oct 2026 03:05:50 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#ransomware_attack\n#cybersecurity\n#cyberattack\n#data_center",
-        "date": "2026-10-08T05:04:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135131_0_367d9d4a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135131_1_cd3fdbe8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135131",
-        "link": {
-          "title": "When a Cloud Provider Suffers Ransomware, Who Can Keep the Business Running?",
-          "url": "https://medium.com/@davidsehyeonbaek/when-a-cloud-provider-suffers-ransomware-who-can-keep-the-business-running-5a23d20d8c97?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 135130,
-        "text": "⤷\nTitle:\nwolfSSH 1.6.0 Fixes Five Flaws, Including Critical Host Key Bypass CVE-2026-16516\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 08 Oct 2026 03:53:25 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_16516\n#CVE_2026_83540\n#CVE_2026_84897\n#Embedded\nSecurity\n#Man\nin the Middle\n#ssh\n#wolfSSH\n#wolfSSL",
-        "date": "2026-10-08T05:04:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135130_0_367d9d4a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135130_1_1dbf73fa.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135130",
-        "link": {
-          "title": "wolfSSH 1.6.0 Fixes Five Flaws, Including Critical Host Key Bypass CVE-2026-16516",
-          "url": "https://securityonline.info/wolfssh-vulnerabilities-cve-2026-16516/"
-        }
-      },
-      {
-        "id": 135129,
-        "text": "⤷\nTitle:\nApache DolphinScheduler 3.4.3 Fixes Six Authorization Flaws That Leak Passwords and Kubernetes Credentials\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 08 Oct 2026 04:04:45 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#apache\n#Apache\nDolphinScheduler\n#Authorization\nBypass\n#CVE_2026_71183\n#CVE_2026_71895\n#CVE_2026_71896\n#Kubernetes",
-        "date": "2026-10-08T05:03:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135129_0_367d9d4a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135129_1_f0bd7ba5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135129",
-        "link": {
-          "title": "Apache DolphinScheduler 3.4.3 Fixes Six Authorization Flaws That Leak Passwords and Kubernetes Credentials",
-          "url": "https://securityonline.info/apache-dolphinscheduler-vulnerabilities/"
-        }
-      },
-      {
-        "id": 135128,
-        "text": "⤷\nTitle:\nGoogle Playground AI Platform: The Future of Game Creation\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 08 Oct 2026 04:11:20 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#AI\nGaming\n#Game\nDevelopment\n#google\n#Playground",
-        "date": "2026-10-08T05:03:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135128_0_367d9d4a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135128",
-        "link": {
-          "title": "Google Playground AI Platform: The Future of Game Creation",
-          "url": "https://securityonline.info/google-playground-ai-platform/"
-        }
-      },
-      {
-        "id": 135127,
-        "text": "⤷\nTitle:\nWindows Hybrid Intelligence and the New AI Search Menu\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 08 Oct 2026 04:14:33 +0000\n════════════════════════\n⌗\nTags:\n#Windows\n#AI\n#Copilot\n#Hybrid\nIntelligence\n#Microsoft\n#Windows\n11",
-        "date": "2026-10-08T05:03:51+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135127_0_367d9d4a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135127_1_2f4e34d6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135127",
-        "link": {
-          "title": "Windows Hybrid Intelligence and the New AI Search Menu",
-          "url": "https://securityonline.info/windows-hybrid-intelligence-ai-search/"
-        }
-      },
-      {
-        "id": 135126,
-        "text": "⤷\nTitle:\nLinux 101 for Cybersecurity: Files, Permissions, Processes & Logs\n════════════════════════\n𐀪\nAuthor:\nBhaskar  Vikas\n════════════════════════\nⴵ\nTime:\nThu, 08 Oct 2026 02:11:25 GMT\n════════════════════════\n⌗\nTags:\n#linux\n#cybersecurity\n#ethical_hacking\n#linux_tutorial",
-        "date": "2026-10-08T03:04:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135126_0_367d9d4a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135126_1_f3aae5f4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135126",
-        "link": {
-          "title": "Linux 101 for Cybersecurity: Files, Permissions, Processes & Logs",
-          "url": "https://medium.com/@bhaskar.685.vikas/linux-101-for-cybersecurity-files-permissions-processes-logs-60d48d00709d?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 135125,
-        "text": "⤷\nTitle:\nSplunk Patches 22 Flaws in Splunk Enterprise, Including Critical Patroni API Command Execution Bug\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 08 Oct 2026 01:55:13 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_76268\n#CVE_2026_76281\n#CVE_2026_76284\n#Patroni\n#Remote\nCode Execution\n#SIEM\n#Splunk\n#Splunk\nEnterprise",
-        "date": "2026-10-08T03:04:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135125_0_367d9d4a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135125_1_cd6be1db.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135125",
-        "link": {
-          "title": "Splunk Patches 22 Flaws in Splunk Enterprise, Including Critical Patroni API Command Execution Bug",
-          "url": "https://securityonline.info/splunk-enterprise-vulnerabilities-october-2026/"
-        }
-      },
-      {
-        "id": 135124,
-        "text": "⤷\nTitle:\nVMware Workstation and Fusion VMXNET3 Flaw CVE-2026-59346 Detailed With Public PoC Exploit\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nThu, 08 Oct 2026 02:16:16 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Broadcom\n#CVE_2026_59346\n#proof_of_concept\n#Virtual\nMachine Escape\n#vmware\n#VMware\nFusion\n#VMware\nWorkstation\n#VMXNET3",
-        "date": "2026-10-08T03:04:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135124_0_367d9d4a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135124_1_7ba796d2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135124",
-        "link": {
-          "title": "VMware Workstation and Fusion VMXNET3 Flaw CVE-2026-59346 Detailed With Public PoC Exploit",
-          "url": "https://securityonline.info/vmware-vmxnet3-vulnerability-cve-2026-59346/"
-        }
       }
     ]
   },
-  "last_update": "2026-10-09T13:57:53.204385+00:00",
+  "last_update": "2026-10-09T19:10:33.152261+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 192,
-    "total_files": 192,
+    "total_media": 194,
+    "total_files": 194,
     "total_links": 0,
     "files_by_type": {
-      "image": 192
+      "image": 194
     },
-    "referenced_files": 192,
-    "existing_media_files": 192,
-    "total_size_mb": 5.49,
-    "last_calculation": "2026-10-09T13:57:53.206768+00:00"
+    "referenced_files": 194,
+    "existing_media_files": 194,
+    "total_size_mb": 5.88,
+    "last_calculation": "2026-10-09T19:10:33.154686+00:00"
   }
 }
