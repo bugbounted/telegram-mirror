@@ -2,6 +2,282 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 135222,
+        "text": "⤷\nTitle:\nInvestigating PowerShell Execution: A Deep Blue-Team Investigation Guide\n════════════════════════\n𐀪\nAuthor:\nBhoyarlokesh\n════════════════════════\nⴵ\nTime:\nThu, 08 Oct 2026 20:53:49 GMT\n════════════════════════\n⌗\nTags:\n#windows_security\n#powershell\n#tryhackme\n#cybersecurity",
+        "date": "2026-10-08T23:04:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135222_0_6f57adbf.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135222_1_8288101e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135222",
+        "link": {
+          "title": "Investigating PowerShell Execution: A Deep Blue-Team Investigation Guide",
+          "url": "https://medium.com/@bhoyarlokesh017/investigating-powershell-execution-a-deep-blue-team-investigation-guide-d4142168e230?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 135221,
+        "text": "⤷\nTitle:\nThe Ransom Note Now Accuses Your Practice of Breaking HIPAA\n════════════════════════\n𐀪\nAuthor:\nS6 Tech\n════════════════════════\nⴵ\nTime:\nThu, 08 Oct 2026 21:05:11 GMT\n════════════════════════\n⌗\nTags:\n#ransomware\n#cybersecurity\n#healthcare\n#cybercrime\n#infosec",
+        "date": "2026-10-08T23:03:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135221_0_6f57adbf.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135221_1_8ccb4525.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135221",
+        "link": {
+          "title": "The Ransom Note Now Accuses Your Practice of Breaking HIPAA",
+          "url": "https://medium.com/@s6techllc/the-ransom-note-now-accuses-your-practice-of-breaking-hipaa-6bb991f524db?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 135220,
+        "text": "⤷\nTitle:\nHTB — Bank\n════════════════════════\n𐀪\nAuthor:\nCYBER_delta\n════════════════════════\nⴵ\nTime:\nThu, 08 Oct 2026 22:31:09 GMT\n════════════════════════\n⌗\nTags:\n#hackthebox\n#hacking\n#pentesting\n#web_development\n#cybersecurity",
+        "date": "2026-10-08T23:03:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135220_0_6f57adbf.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135220_1_03656eac.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135220",
+        "link": {
+          "title": "HTB — Bank",
+          "url": "https://medium.com/@CYBERDELTA/htb-bank-fb45f3b6376a?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 135219,
+        "text": "⤷\nTitle:\nMartiniAD (HackSmarter)\n════════════════════════\n𐀪\nAuthor:\nDaniel Lewis\n════════════════════════\nⴵ\nTime:\nThu, 08 Oct 2026 22:49:50 GMT\n════════════════════════\n⌗\nTags:\n#windows\n#ethical_hacking\n#red_team\n#hacking\n#penetration_testing",
+        "date": "2026-10-08T23:03:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135219_0_6f57adbf.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135219_1_ac48b34a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135219",
+        "link": {
+          "title": "MartiniAD (HackSmarter)",
+          "url": "https://medium.com/@daniel.josiah.lewis/martiniad-hacksmarter-c1f4d987490c?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 135218,
+        "text": "⤷\nTitle:\nTryHackMe: Brains\n════════════════════════\n𐀪\nAuthor:\nTde\n════════════════════════\nⴵ\nTime:\nThu, 08 Oct 2026 19:25:09 GMT\n════════════════════════\n⌗\nTags:\n#red_team\n#ctf_walkthrough\n#tryhackme\n#blue_team\n#challange",
+        "date": "2026-10-08T21:04:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135218_0_6f57adbf.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135218_1_36ac8db8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135218",
+        "link": {
+          "title": "TryHackMe: Brains",
+          "url": "https://medium.com/@tde961/tryhackme-brains-9ef4d6bad0fc?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 135217,
+        "text": "⤷\nTitle:\nBy Yousef Osama.\n════════════════════════\n𐀪\nAuthor:\nEng/Yousef Osama\n════════════════════════\nⴵ\nTime:\nThu, 08 Oct 2026 20:43:32 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#tryhackme\n#soc\n#malware\n#threat_intelligence",
+        "date": "2026-10-08T21:04:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135217_0_6f57adbf.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135217_1_57868de4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135217",
+        "link": {
+          "title": "By Yousef Osama.",
+          "url": "https://medium.com/@yosama232333/by-yousef-osama-e11a5eb3fd50?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 135216,
+        "text": "⤷\nTitle:\nEvery Cyberattack Follows a Chain, and Every Chain Has a Weak Link\n════════════════════════\n𐀪\nAuthor:\nAwais Ahmed\n════════════════════════\nⴵ\nTime:\nThu, 08 Oct 2026 19:05:21 GMT\n════════════════════════\n⌗\nTags:\n#threat_intelligence\n#mitre_attack\n#hacking\n#cybersecurity\n#incident_response",
+        "date": "2026-10-08T21:04:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135216_0_6f57adbf.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135216_1_76b63454.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135216",
+        "link": {
+          "title": "Every Cyberattack Follows a Chain, and Every Chain Has a Weak Link",
+          "url": "https://awais-sec.medium.com/every-cyberattack-follows-a-chain-and-every-chain-has-a-weak-link-c9fc194a2863?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 135215,
+        "text": "⤷\nTitle:\nBuilding an SMTP Honeypot That Says Yes to Everything\n════════════════════════\n𐀪\nAuthor:\nJens@Fivesec\n════════════════════════\nⴵ\nTime:\nThu, 08 Oct 2026 19:37:23 GMT\n════════════════════════\n⌗\nTags:\n#cyber_security_awareness\n#smtp\n#bots\n#hacking\n#cybersecurity",
+        "date": "2026-10-08T21:04:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135215_0_6f57adbf.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135215_1_c695092d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135215",
+        "link": {
+          "title": "Building an SMTP Honeypot That Says Yes to Everything",
+          "url": "https://medium.com/@js_9757/building-an-smtp-honeypot-that-says-yes-to-everything-42814bdf4935?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 135214,
+        "text": "⤷\nTitle:\nCryptominers Are Targeting AI Servers: 5 Checks for Developers\n════════════════════════\n𐀪\nAuthor:\nTessa Mero\n════════════════════════\nⴵ\nTime:\nThu, 08 Oct 2026 19:50:45 GMT\n════════════════════════\n⌗\nTags:\n#devsecops\n#cybersecurity\n#vulnerability\n#hacking",
+        "date": "2026-10-08T21:04:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135214_0_6f57adbf.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135214_1_f51ef2ae.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135214",
+        "link": {
+          "title": "Cryptominers Are Targeting AI Servers: 5 Checks for Developers",
+          "url": "https://medium.com/@TessaMero/cryptominers-are-targeting-ai-servers-5-checks-for-developers-a17881bd9c14?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 135213,
+        "text": "⤷\nTitle:\nWelcome (HackSmarter)\n════════════════════════\n𐀪\nAuthor:\nDaniel Lewis\n════════════════════════\nⴵ\nTime:\nThu, 08 Oct 2026 20:42:28 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#penetration_testing\n#active_directory\n#red_team\n#ethical_hacking",
+        "date": "2026-10-08T21:03:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135213_0_6f57adbf.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135213_1_8b9035b2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135213",
+        "link": {
+          "title": "Welcome (HackSmarter)",
+          "url": "https://medium.com/@daniel.josiah.lewis/welcome-hacksmarter-dad59f72f6c8?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 135212,
+        "text": "⤷\nTitle:\nBlockchain C2 channel\n════════════════════════\n𐀪\nAuthor:\nS12 - 0x12Dark Development\n════════════════════════\nⴵ\nTime:\nThu, 08 Oct 2026 20:43:35 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#hacker\n#pentesting\n#hacking\n#infosec",
+        "date": "2026-10-08T21:03:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135212_0_6f57adbf.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135212_1_50df8fa0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135212",
+        "link": {
+          "title": "Blockchain C2 channel",
+          "url": "https://medium.com/@s12deff/blockchain-c2-channel-93c215050c8c?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 135211,
+        "text": "⤷\nTitle:\nAI Script Kiddies Broke Bug Bounty Hunting\n════════════════════════\n𐀪\nAuthor:\nPablo Vergara\n════════════════════════\nⴵ\nTime:\nThu, 08 Oct 2026 20:00:01 GMT\n════════════════════════\n⌗\nTags:\n#security\n#bug_bounty\n#bug_bounty_hunter",
+        "date": "2026-10-08T21:03:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135211_0_6f57adbf.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135211_1_81165ba5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135211",
+        "link": {
+          "title": "AI Script Kiddies Broke Bug Bounty Hunting",
+          "url": "https://medium.com/@severeQA/ai-script-kiddies-broke-bug-bounty-hunting-87ef4219988c?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 135210,
         "text": "⤷\nTitle:\nEscaping the Corridor: A TryHackMe Walkthrough to IDOR and Hash Enumeration\n════════════════════════\n𐀪\nAuthor:\nBijay kumar yadav\n════════════════════════\nⴵ\nTime:\nThu, 08 Oct 2026 17:55:09 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#idor_vulnerability\n#capture_the_flag\n#ctf\n#tryhackme",
         "date": "2026-10-08T19:04:21+00:00",
@@ -1984,286 +2260,10 @@
           "title": "Signal Acquired: Cybersecurity Weekly Brief",
           "url": "https://medium.com/@therickgregson/signal-acquired-cybersecurity-weekly-brief-c2944f7d08d5?source=rss------infosec-5"
         }
-      },
-      {
-        "id": 135094,
-        "text": "⤷\nTitle:\n01 — Linux Fundamentals for Cybersecurity\n════════════════════════\n𐀪\nAuthor:\nAxidion\n════════════════════════\nⴵ\nTime:\nWed, 07 Oct 2026 15:02:31 GMT\n════════════════════════\n⌗\nTags:\n#linux_commands\n#kali_linux\n#cybersecurity\n#hacking",
-        "date": "2026-10-07T17:04:44+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135094_0_367d9d4a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135094_1_6a0ad9e2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135094",
-        "link": {
-          "title": "01 — Linux Fundamentals for Cybersecurity",
-          "url": "https://medium.com/@0xaxidion/01-linux-fundamentals-for-cybersecurity-77f7eeb8c495?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 135093,
-        "text": "⤷\nTitle:\nChapter 11 — The Art of Reconstructing What Happened on This Linux Host\n════════════════════════\n𐀪\nAuthor:\nηιѕнαηт\n════════════════════════\nⴵ\nTime:\nWed, 07 Oct 2026 15:06:07 GMT\n════════════════════════\n⌗\nTags:\n#soc\n#hacking\n#linux\n#information_security\n#cybersecurity",
-        "date": "2026-10-07T17:04:41+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135093_0_367d9d4a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135093_1_1256dbc4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135093",
-        "link": {
-          "title": "Chapter 11 — The Art of Reconstructing What Happened on This Linux Host",
-          "url": "https://medium.com/@nishant.kumarr/chapter-11-the-art-of-reconstructing-what-happened-on-this-linux-host-0850741a2884?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 135078,
-        "text": "⤷\nTitle:\nSilent Monitor | CTF Write-Up\n════════════════════════\n𐀪\nAuthor:\nRbx0x\n════════════════════════\nⴵ\nTime:\nWed, 07 Oct 2026 14:30:01 GMT\n════════════════════════\n⌗\nTags:\n#ssh\n#command_injection\n#keeppass\n#dead_end\n#sqli",
-        "date": "2026-10-07T15:04:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135078_0_367d9d4a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135078_1_00ebc671.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135078",
-        "link": {
-          "title": "Silent Monitor | CTF Write-Up",
-          "url": "https://medium.com/@azilrababe/silent-monitor-ctf-write-up-95f62b7edac2?source=rss------sqli-5"
-        }
-      },
-      {
-        "id": 135077,
-        "text": "⤷\nTitle:\nTryHackMe: Corridor — When Obscurity Fails Against IDOR\n════════════════════════\n𐀪\nAuthor:\nd3v\n════════════════════════\nⴵ\nTime:\nWed, 07 Oct 2026 13:13:34 GMT\n════════════════════════\n⌗\nTags:\n#cryptography\n#idor\n#tryhackme\n#cybersecurity\n#web_security",
-        "date": "2026-10-07T15:04:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135077_0_367d9d4a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135077_1_6f2d9b3e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135077",
-        "link": {
-          "title": "TryHackMe: Corridor — When Obscurity Fails Against IDOR",
-          "url": "https://medium.com/@devshishodia53/tryhackme-corridor-when-obscurity-fails-against-idor-31ae88945503?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 135076,
-        "text": "⤷\nTitle:\nMR Robot CTF\n════════════════════════\n𐀪\nAuthor:\nBhaveshkhaire\n════════════════════════\nⴵ\nTime:\nWed, 07 Oct 2026 13:47:40 GMT\n════════════════════════\n⌗\nTags:\n#ctf_writeup\n#ethical_hacking\n#penetration_testing\n#cybersecurity",
-        "date": "2026-10-07T15:04:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135076_0_367d9d4a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135076_1_46670401.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135076",
-        "link": {
-          "title": "MR Robot CTF",
-          "url": "https://medium.com/@bhaveshkhaire15/mr-robot-ctf-c651bb6e5b79?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 135075,
-        "text": "⤷\nTitle:\nWeb Application Penetration Test on OWASP Juice Shop\n════════════════════════\n𐀪\nAuthor:\nAnju\n════════════════════════\nⴵ\nTime:\nWed, 07 Oct 2026 14:26:30 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#pentest_reporting\n#vulnerability\n#owasp_juice_shop\n#cybersecurity",
-        "date": "2026-10-07T15:04:47+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135075_0_367d9d4a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135075_1_9e86a6bf.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135075",
-        "link": {
-          "title": "Web Application Penetration Test on OWASP Juice Shop",
-          "url": "https://medium.com/@infinitisecurity32/web-application-penetration-test-on-owasp-juice-shop-aa063d337d09?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 135074,
-        "text": "⤷\nTitle:\nComplete Guide to Web Application Security: OWASP Top 10, Penetration Testing, and Cybersecurity…\n════════════════════════\n𐀪\nAuthor:\nDavud Qasimov\n════════════════════════\nⴵ\nTime:\nWed, 07 Oct 2026 13:34:59 GMT\n════════════════════════\n⌗\nTags:\n#web_security\n#penetration_testing\n#cybersecurity\n#technology\n#infosec",
-        "date": "2026-10-07T15:04:43+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135074_0_367d9d4a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135074_1_5feb0adc.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135074",
-        "link": {
-          "title": "Complete Guide to Web Application Security: OWASP Top 10, Penetration Testing, and Cybersecurity…",
-          "url": "https://infosecwriteups.com/complete-guide-to-web-application-security-owasp-top-10-penetration-testing-and-cybersecurity-e703e06e1b3d?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 135073,
-        "text": "⤷\nTitle:\nDefending Active Directory: A Deep Dive into Kerberoasting Detection\n════════════════════════\n𐀪\nAuthor:\nMattiapertusati\n════════════════════════\nⴵ\nTime:\nWed, 07 Oct 2026 14:12:34 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#active_directory\n#threat_hunting\n#blue_team\n#cybersecurity",
-        "date": "2026-10-07T15:04:40+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135073_0_367d9d4a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135073_1_ceebadfd.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135073",
-        "link": {
-          "title": "Defending Active Directory: A Deep Dive into Kerberoasting Detection",
-          "url": "https://medium.com/@mattiapertusati/defending-active-directory-a-deep-dive-into-kerberoasting-detection-1a2a7db73c37?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 135072,
-        "text": "⤷\nTitle:\npicoCTF /CyLab Write-Up: SUDO MAKE ME A SANDWICH\n════════════════════════\n𐀪\nAuthor:\nwasif11\n════════════════════════\nⴵ\nTime:\nWed, 07 Oct 2026 14:24:45 GMT\n════════════════════════\n⌗\nTags:\n#privilege_escalation\n#infosec\n#linux\n#cybersecurity\n#ctf_walkthrough",
-        "date": "2026-10-07T15:04:37+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135072_0_367d9d4a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135072_1_01908cac.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135072",
-        "link": {
-          "title": "picoCTF /CyLab Write-Up: SUDO MAKE ME A SANDWICH",
-          "url": "https://medium.com/@wasif1/picoctf-cylab-write-up-sudo-make-me-a-sandwich-928e87f550d7?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 135071,
-        "text": "⤷\nTitle:\nThe Hacker Who Almost Broke the Internet\n════════════════════════\n𐀪\nAuthor:\nInfino\n════════════════════════\nⴵ\nTime:\nWed, 07 Oct 2026 12:53:10 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#hacking\n#internet\n#linux\n#technology",
-        "date": "2026-10-07T15:04:33+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135071_0_367d9d4a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135071_1_cfe1a0e6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135071",
-        "link": {
-          "title": "The Hacker Who Almost Broke the Internet",
-          "url": "https://medium.com/the-open-draft/the-hacker-who-almost-broke-the-internet-e4740207f4ff?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 135070,
-        "text": "⤷\nTitle:\nDefending Like Attackers Think: Lessons from the ASOS Breach\n════════════════════════\n𐀪\nAuthor:\nCiaran D\n════════════════════════\nⴵ\nTime:\nWed, 07 Oct 2026 13:01:36 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#hacking\n#attack_surface_management",
-        "date": "2026-10-07T15:04:30+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135070_0_367d9d4a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135070_1_56e57812.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135070",
-        "link": {
-          "title": "Defending Like Attackers Think: Lessons from the ASOS Breach",
-          "url": "https://medium.com/@CD14/defending-like-attackers-think-lessons-from-the-asos-breach-bfba0b22207d?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 135069,
-        "text": "⤷\nTitle:\nSouth Korea’s Bank Breaches Expose the Cost of Neglected Systems\n════════════════════════\n𐀪\nAuthor:\nDavid SEHYEON Baek\n════════════════════════\nⴵ\nTime:\nWed, 07 Oct 2026 13:15:39 GMT\n════════════════════════\n⌗\nTags:\n#ai\n#cybersecurity\n#artificial_intelligence\n#hacking\n#cyberattack",
-        "date": "2026-10-07T15:04:26+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135069_0_367d9d4a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135069_1_cefea0e8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135069",
-        "link": {
-          "title": "South Korea’s Bank Breaches Expose the Cost of Neglected Systems",
-          "url": "https://medium.com/@davidsehyeonbaek/south-koreas-bank-breaches-expose-the-cost-of-neglected-systems-c7069afeca22?source=rss------hacking-5"
-        }
       }
     ]
   },
-  "last_update": "2026-10-08T20:31:42.676038+00:00",
+  "last_update": "2026-10-09T00:34:54.812726+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2275,7 +2275,7 @@
     },
     "referenced_files": 190,
     "existing_media_files": 190,
-    "total_size_mb": 5.17,
-    "last_calculation": "2026-10-08T20:31:42.677846+00:00"
+    "total_size_mb": 5.47,
+    "last_calculation": "2026-10-09T00:34:54.814277+00:00"
   }
 }
