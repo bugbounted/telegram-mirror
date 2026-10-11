@@ -2,6 +2,167 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 135498,
+        "text": "⤷\nTitle:\nKB-VULN: 2 ~ VulnHub — Walk through\n════════════════════════\n𐀪\nAuthor:\nM.Fida Hussain\n════════════════════════\nⴵ\nTime:\nSat, 10 Oct 2026 23:50:49 GMT\n════════════════════════\n⌗\nTags:\n#vulnhub\n#cybersecurity\n#hacker\n#best_practices",
+        "date": "2026-10-11T01:04:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135498_0_d0aef733.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135498_1_684ab8fa.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135498",
+        "link": {
+          "title": "KB-VULN: 2 ~ VulnHub — Walk through",
+          "url": "https://medium.com/@officialhussainali12/kb-vuln-2-vulnhub-walk-through-c97cbde4f736?source=rss------vulnhub-5"
+        }
+      },
+      {
+        "id": 135497,
+        "text": "⤷\nTitle:\nStarting My CPTS Journey: From Zero to Root on My First Unguided HTB Box\n════════════════════════\n𐀪\nAuthor:\nXmastaheer\n════════════════════════\nⴵ\nTime:\nSun, 11 Oct 2026 00:01:46 GMT\n════════════════════════\n⌗\nTags:\n#hackthebox\n#cybersecurity\n#infosec\n#ethical_hacking\n#penetration_testing",
+        "date": "2026-10-11T01:04:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135497_0_d0aef733.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135497_1_b9e42a47.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135497",
+        "link": {
+          "title": "Starting My CPTS Journey: From Zero to Root on My First Unguided HTB Box",
+          "url": "https://medium.com/@xmastaheer/starting-my-cpts-journey-from-zero-to-root-on-my-first-unguided-htb-box-9415a36af87a?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 135496,
+        "text": "⤷\nTitle:\nPractical Malware Analysis — Lab 1–4: Basic Static Analysis Write-up\n════════════════════════\n𐀪\nAuthor:\nMahmoud Alawady\n════════════════════════\nⴵ\nTime:\nSat, 10 Oct 2026 22:51:03 GMT\n════════════════════════\n⌗\nTags:\n#malware_analysis\n#malware\n#static_analysis\n#cybersecurity\n#hacking",
+        "date": "2026-10-11T01:04:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135496_0_d0aef733.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135496_1_edbe1a29.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135496",
+        "link": {
+          "title": "Practical Malware Analysis — Lab 1–4: Basic Static Analysis Write-up",
+          "url": "https://medium.com/@ma.ahmed.dev/practical-malware-analysis-lab-1-4-basic-static-analysis-write-up-bed46838d9a4?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 135495,
+        "text": "⤷\nTitle:\nDefeating the Mirage: A Hands-On Guide to HTTP/2 Request Smuggling (H2.CL)\n════════════════════════\n𐀪\nAuthor:\nHuzaifah Tahir\n════════════════════════\nⴵ\nTime:\nSun, 11 Oct 2026 00:00:54 GMT\n════════════════════════\n⌗\nTags:\n#cl_and_te_issues\n#hacking\n#cybersecurity\n#h2cl_request_smuggling\n#web_exploitation",
+        "date": "2026-10-11T01:03:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135495_0_d0aef733.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135495_1_c8b1f8b5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135495",
+        "link": {
+          "title": "Defeating the Mirage: A Hands-On Guide to HTTP/2 Request Smuggling (H2.CL)",
+          "url": "https://medium.com/@huzaifahtahir/defeating-the-mirage-a-hands-on-guide-to-http-2-request-smuggling-h2-cl-9a51525335ce?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 135494,
+        "text": "⤷\nTitle:\nHow I Identified a Potential Subscription Payment Enforcement Issue Despite Insufficient Funds\n════════════════════════\n𐀪\nAuthor:\nMolapo Manuel\n════════════════════════\nⴵ\nTime:\nSat, 10 Oct 2026 23:18:56 GMT\n════════════════════════\n⌗\nTags:\n#cyber_security_awareness\n#cybersecurity\n#bug_bounty_writeup\n#bugs\n#bug_bounty",
+        "date": "2026-10-11T01:03:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135494_0_d0aef733.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135494_1_fffdb6ac.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135494",
+        "link": {
+          "title": "How I Identified a Potential Subscription Payment Enforcement Issue Despite Insufficient Funds",
+          "url": "https://medium.com/@molapomanuel709/how-i-identified-a-potential-subscription-payment-enforcement-issue-despite-insufficient-funds-f4bb0a9dc46c?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 135493,
+        "text": "⤷\nTitle:\nNetwork Scanning Using Android: 25+ Nmap Commands Every Beginner Should Know\n════════════════════════\n𐀪\nAuthor:\nSooraj Pandey\n════════════════════════\nⴵ\nTime:\nSat, 10 Oct 2026 21:48:23 GMT\n════════════════════════\n⌗\nTags:\n#termux\n#nmap\n#ethical_hacking\n#cybersecurity\n#networking",
+        "date": "2026-10-10T23:03:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135493_0_d0aef733.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135493_1_8151afd0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135493",
+        "link": {
+          "title": "Network Scanning Using Android: 25+ Nmap Commands Every Beginner Should Know",
+          "url": "https://medium.com/@soorajpandey929/network-scanning-using-android-25-nmap-commands-every-beginner-should-know-04c15f49bacb?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 135492,
+        "text": "⤷\nTitle:\nShadowGate (HackSmarter)\n════════════════════════\n𐀪\nAuthor:\nDaniel Lewis\n════════════════════════\nⴵ\nTime:\nSat, 10 Oct 2026 21:45:44 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#penetration_testing\n#hacking\n#red_team\n#cybersecurity",
+        "date": "2026-10-10T23:03:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135492_0_d0aef733.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135492_1_e27d7e11.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135492",
+        "link": {
+          "title": "ShadowGate (HackSmarter)",
+          "url": "https://medium.com/@daniel.josiah.lewis/shadowgate-hacksmarter-7c69627b478d?source=rss------hacking-5"
+        }
+      },
+      {
         "id": 135491,
         "text": "⤷\nTitle:\nThe OWASP Top 10 2025 Is Here — And You Can Hack Every Item Live\n════════════════════════\n𐀪\nAuthor:\nThexssrat\n════════════════════════\nⴵ\nTime:\nSat, 10 Oct 2026 20:42:04 GMT\n════════════════════════\n⌗\nTags:\n#owasp\n#web_security\n#penetration_testing\n#cybersecurity\n#ethical_hacking",
         "date": "2026-10-10T21:04:09+00:00",
@@ -2123,171 +2284,10 @@
           "title": "Red-Teaming Your Own MCP Server: A Checklist and a Test Harness",
           "url": "https://sudor-io.medium.com/red-teaming-your-own-mcp-server-a-checklist-and-a-test-harness-0d7aa8d49ae9?source=rss------application_security-5"
         }
-      },
-      {
-        "id": 135380,
-        "text": "⤷\nTitle:\nPortSwigger Access Control Masterclass: Mass Assignment ve IDOR Çeşitleri\n════════════════════════\n𐀪\nAuthor:\nFurkannyildiizz\n════════════════════════\nⴵ\nTime:\nFri, 09 Oct 2026 17:36:42 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#portswigger\n#web_security\n#cybersecurity\n#bug_bounty",
-        "date": "2026-10-09T19:04:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135380_0_ae029f1b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135380_1_7e016c61.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135380",
-        "link": {
-          "title": "PortSwigger Access Control Masterclass: Mass Assignment ve IDOR Çeşitleri",
-          "url": "https://medium.com/@furkannyildiizz05/portswigger-access-control-masterclass-mass-assignment-ve-idor-%C3%A7e%C5%9Fitleri-440255ab46e4?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 135379,
-        "text": "⤷\nTitle:\nPortSwigger Access Control Notes: Mass Assignment and IDOR Variants\n════════════════════════\n𐀪\nAuthor:\nFurkannyildiizz\n════════════════════════\nⴵ\nTime:\nFri, 09 Oct 2026 17:41:01 GMT\n════════════════════════\n⌗\nTags:\n#web_security\n#portswigger\n#ethical_hacking\n#cybersecurity\n#bug_bounty",
-        "date": "2026-10-09T19:04:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135379_0_ae029f1b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135379_1_69ce95b1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135379",
-        "link": {
-          "title": "PortSwigger Access Control Notes: Mass Assignment and IDOR Variants",
-          "url": "https://medium.com/@furkannyildiizz05/portswigger-access-control-notes-mass-assignment-and-idor-variants-c10b2a70cd50?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 135378,
-        "text": "⤷\nTitle:\nAll green but still broken: A Kubernetes Fake Certificate Story.\n════════════════════════\n𐀪\nAuthor:\nAlex\n════════════════════════\nⴵ\nTime:\nFri, 09 Oct 2026 17:55:07 GMT\n════════════════════════\n⌗\nTags:\n#devops\n#terraform\n#security\n#kubernetes\n#bug_bounty",
-        "date": "2026-10-09T19:04:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135378_0_ae029f1b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135378_1_3d9a5833.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135378",
-        "link": {
-          "title": "All green but still broken: A Kubernetes Fake Certificate Story.",
-          "url": "https://alexmarket.medium.com/all-green-but-still-broken-a-kubernetes-fake-certificate-story-e3db799edab9?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 135377,
-        "text": "⤷\nTitle:\nFrom CSPT to DOM XSS: Chaining an Open Redirect with Malicious JSON\n════════════════════════\n𐀪\nAuthor:\nAstroKrypTech\n════════════════════════\nⴵ\nTime:\nFri, 09 Oct 2026 18:07:57 GMT\n════════════════════════\n⌗\nTags:\n#out_of_band_interaction\n#bug_bounty\n#xss_attack\n#api\n#path_traversal",
-        "date": "2026-10-09T19:04:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135377_0_ae029f1b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135377_1_cb71c181.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135377",
-        "link": {
-          "title": "From CSPT to DOM XSS: Chaining an Open Redirect with Malicious JSON",
-          "url": "https://medium.com/@AstroKrypTech/from-cspt-to-dom-xss-chaining-an-open-redirect-with-malicious-json-71a58c462c2a?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 135376,
-        "text": "⤷\nTitle:\nThe Art of the Completion Frame: Extracting the AI Training Engine Directives\n════════════════════════\n𐀪\nAuthor:\nMohamed\n════════════════════════\nⴵ\nTime:\nFri, 09 Oct 2026 18:44:58 GMT\n════════════════════════\n⌗\nTags:\n#security\n#security_research\n#bug_bounty",
-        "date": "2026-10-09T19:04:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135376_0_ae029f1b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135376_1_97e3ba96.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135376",
-        "link": {
-          "title": "The Art of the Completion Frame: Extracting the AI Training Engine Directives",
-          "url": "https://medium.com/@mohamed10111213141516171819/the-art-of-the-completion-frame-extracting-the-ai-training-engine-directives-e1c2689245e3?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 135375,
-        "text": "⤷\nTitle:\nDeath By A Thousand PaperCuts (PaperCut Pre-Auth RCE Chain and Patch Bypasses WT-2026-0141-0144/CVE-2026-82077/CVE-2026-82078/CVE-2026-81578)\n════════════════════════\n𐀪\nAuthor:\nPiotr Bazydlo (\n@chudyPB\n)\n════════════════════════\nⴵ\nTime:\nFri, 09 Oct 2026 17:31:14 GMT\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-10-09T19:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135375_0_ae029f1b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135375_1_6b84fb08.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135375",
-        "link": {
-          "title": "Death By A Thousand PaperCuts (PaperCut Pre-Auth RCE Chain and Patch Bypasses WT-2026-0141-0144/CVE-2026-82077/CVE-2026-82078/CVE-2026-81578)",
-          "url": "https://labs.watchtowr.com/death-by-a-thousand-papercuts-papercut-pre-auth-rce-chain-and-patch-bypasses-wt-2026-0141-0144-cve-2026-82077-cve-2026-82078-cve-2026-81578/"
-        }
-      },
-      {
-        "id": 135323,
-        "text": "⤷\nTitle:\nError-Based SQL Injection di Portal Berita Pemerintah kabupaten [REDACTED] via Parameter id_news\n════════════════════════\n𐀪\nAuthor:\nMencari si dia\n════════════════════════\nⴵ\nTime:\nFri, 09 Oct 2026 11:08:26 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_writeup\n#cybersecurity\n#bug_hunter",
-        "date": "2026-10-09T13:04:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135323_0_6f57adbf.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135323_1_02edbd16.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135323",
-        "link": {
-          "title": "Error-Based SQL Injection di Portal Berita Pemerintah kabupaten [REDACTED] via Parameter id_news",
-          "url": "https://icikiwirsol.medium.com/error-based-sql-injection-di-portal-berita-pemerintah-kabupaten-redacted-via-parameter-id-news-c655489968b3?source=rss------bug_hunter-5"
-        }
       }
     ]
   },
-  "last_update": "2026-10-10T22:14:20.024104+00:00",
+  "last_update": "2026-10-11T01:06:22.077701+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2299,7 +2299,7 @@
     },
     "referenced_files": 196,
     "existing_media_files": 196,
-    "total_size_mb": 6.23,
-    "last_calculation": "2026-10-10T22:14:20.026507+00:00"
+    "total_size_mb": 6.35,
+    "last_calculation": "2026-10-11T01:06:22.080098+00:00"
   }
 }
