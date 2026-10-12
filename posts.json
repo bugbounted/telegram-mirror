@@ -2,6 +2,228 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 135588,
+        "text": "⤷\nTitle:\nHTB: Remote\n════════════════════════\n𐀪\nAuthor:\nDanieltruong\n════════════════════════\nⴵ\nTime:\nSun, 11 Oct 2026 23:13:57 GMT\n════════════════════════\n⌗\nTags:\n#rce\n#htb\n#windows",
+        "date": "2026-10-12T01:04:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135588_0_4a3e3109.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135588_1_dea5c4f0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135588",
+        "link": {
+          "title": "HTB: Remote",
+          "url": "https://medium.com/@danieltruong.122.99/htb-remote-10900074f083?source=rss------rce-5"
+        }
+      },
+      {
+        "id": 135587,
+        "text": "⤷\nTitle:\nReverse Engineering for Beginners: What You Need To Know\n════════════════════════\n𐀪\nAuthor:\nNW Cybersecurity\n════════════════════════\nⴵ\nTime:\nSun, 11 Oct 2026 23:08:26 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#reverse_engineering\n#assembly_language\n#ghidra\n#infosec",
+        "date": "2026-10-12T01:04:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135587_0_4a3e3109.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135587_1_afb78d93.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135587",
+        "link": {
+          "title": "Reverse Engineering for Beginners: What You Need To Know",
+          "url": "https://medium.com/@neutralwarriorofficial/reverse-engineering-for-beginners-what-you-need-to-know-39cdf454c2d3?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 135586,
+        "text": "⤷\nTitle:\nThe Cyber Risks of a World That Depends on Starlink\n════════════════════════\n𐀪\nAuthor:\nDavid SEHYEON Baek\n════════════════════════\nⴵ\nTime:\nSun, 11 Oct 2026 23:50:04 GMT\n════════════════════════\n⌗\nTags:\n#satellite_technology\n#elon_musk\n#hacking\n#cybersecurity\n#starlink",
+        "date": "2026-10-12T01:04:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135586_0_4a3e3109.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135586_1_205ce6c9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135586",
+        "link": {
+          "title": "The Cyber Risks of a World That Depends on Starlink",
+          "url": "https://medium.com/@davidsehyeonbaek/the-cyber-risks-of-a-world-that-depends-on-starlink-7449bcd29c30?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 135585,
+        "text": "⤷\nTitle:\nSix Exploited Flaws Missing From CISA KEV Lead This Weekly CVE Report\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 12 Oct 2026 00:23:32 +0000\n════════════════════════\n⌗\nTags:\n#Weekly\nRecap\n#Atlassian\n#CISA\nKEV\n#CVE\nWatchtower\n#Exploited\nVulnerabilities\n#Flax\nTyphoon\n#Rejetto\nHFS\n#SonicWall\n#Weekly\nCVE Report",
+        "date": "2026-10-12T01:04:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135585_0_4a3e3109.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135585_1_543fd8a9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135585",
+        "link": {
+          "title": "Six Exploited Flaws Missing From CISA KEV Lead This Weekly CVE Report",
+          "url": "https://securityonline.info/weekly-cve-report-oct-5-11-2026/"
+        }
+      },
+      {
+        "id": 135584,
+        "text": "⤷\nTitle:\nAnyDesk RCE Vulnerability Details and PoC Exploit Code Publicly Disclosed\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 12 Oct 2026 00:35:20 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#AnyDesk\n#AnyPwn\n#Linux\nSecurity\n#PoC\nExploit\n#Pre_Auth\nRCE\n#rce\n#Remote\nCode Execution\n#V12\nSecurity",
+        "date": "2026-10-12T01:04:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135584_0_4a3e3109.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135584",
+        "link": {
+          "title": "AnyDesk RCE Vulnerability Details and PoC Exploit Code Publicly Disclosed",
+          "url": "https://securityonline.info/anydesk-rce-vulnerability-poc-disclosed/"
+        }
+      },
+      {
+        "id": 135583,
+        "text": "⤷\nTitle:\nNVIDIA DCGM Exporter Flaw CVE-2026-47483 Lets Attackers Crash GPU Monitoring\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 12 Oct 2026 00:55:21 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#AI\nInfrastructure\n#CVE_2026_47483\n#DCGM\nExporter\n#Denial\nof Service\n#GPU\nSecurity\n#Lava\nSecurity\n#nvidia\n#prometheus",
+        "date": "2026-10-12T01:04:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135583_0_4a3e3109.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135583_1_6cdc68d7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135583",
+        "link": {
+          "title": "NVIDIA DCGM Exporter Flaw CVE-2026-47483 Lets Attackers Crash GPU Monitoring",
+          "url": "https://securityonline.info/nvidia-dcgm-exporter-cve-2026-47483/"
+        }
+      },
+      {
+        "id": 135582,
+        "text": "⤷\nTitle:\nDigital Escapism and the Phenomenon of Lagos Life (A random take)\n════════════════════════\n𐀪\nAuthor:\nIre\n════════════════════════\nⴵ\nTime:\nSun, 11 Oct 2026 21:10:19 GMT\n════════════════════════\n⌗\nTags:\n#lagos\n#lagos_life\n#xs",
+        "date": "2026-10-11T23:04:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135582_0_4a3e3109.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135582_1_602865ae.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135582",
+        "link": {
+          "title": "Digital Escapism and the Phenomenon of Lagos Life (A random take)",
+          "url": "https://medium.com/@iremideadeboye/digital-escapism-and-the-phenomenon-of-lagos-life-a-random-take-e5ca1bc62dd6?source=rss------xss-5"
+        }
+      },
+      {
+        "id": 135581,
+        "text": "⤷\nTitle:\nTryHackMe | Bounty Hacker Walkthrough\n════════════════════════\n𐀪\nAuthor:\nAntonio\n════════════════════════\nⴵ\nTime:\nSun, 11 Oct 2026 21:32:22 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_writeup\n#tryhackme_walkthrough\n#tryhackme",
+        "date": "2026-10-11T23:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135581_0_4a3e3109.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135581_1_c0ec569a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135581",
+        "link": {
+          "title": "TryHackMe | Bounty Hacker Walkthrough",
+          "url": "https://medium.com/@inotp/tryhackme-bounty-hacker-walkthrough-e4aa150534de?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 135580,
+        "text": "⤷\nTitle:\nBeyond the Payload: Investigating SQL Injection and API Data Exposure in OWASP Juice Shop\n════════════════════════\n𐀪\nAuthor:\nDavid Ray Jr\n════════════════════════\nⴵ\nTime:\nSun, 11 Oct 2026 22:08:34 GMT\n════════════════════════\n⌗\nTags:\n#owasp\n#penetration_testing\n#web_penetration_testing\n#web_pen_testing",
+        "date": "2026-10-11T23:03:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135580_0_4a3e3109.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135580_1_4c2775ca.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135580",
+        "link": {
+          "title": "Beyond the Payload: Investigating SQL Injection and API Data Exposure in OWASP Juice Shop",
+          "url": "https://medium.com/@dlrayjr89/beyond-the-payload-investigating-sql-injection-and-api-data-exposure-in-owasp-juice-shop-cdf0202eb328?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 135579,
+        "text": "⤷\nTitle:\nFrom Recon to Full Read/Write DB Access — A Bug Bounty Story\n════════════════════════\n𐀪\nAuthor:\nSadInfinite\n════════════════════════\nⴵ\nTime:\nSun, 11 Oct 2026 22:30:25 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#vulnerability\n#hacking\n#bug_bounty\n#bug_bounty_tips",
+        "date": "2026-10-11T23:03:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135579_0_4a3e3109.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135579",
+        "link": {
+          "title": "From Recon to Full Read/Write DB Access — A Bug Bounty Story",
+          "url": "https://medium.com/@sadinfinite/from-recon-to-full-read-write-db-access-a-bug-bounty-story-ce1197a0983c?source=rss------bug_bounty-5"
+        }
+      },
+      {
         "id": 135578,
         "text": "⤷\nTitle:\nHackSmarter Casino 2 of 2…related to the WebApp Course\n════════════════════════\n𐀪\nAuthor:\nCpt Ron\n════════════════════════\nⴵ\nTime:\nSun, 11 Oct 2026 19:27:07 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#learning\n#penetration_testing\n#cybersecurity",
         "date": "2026-10-11T21:04:08+00:00",
@@ -2054,252 +2276,22 @@
           "title": "Ethics as an Intellectual Function",
           "url": "https://medium.com/@elenaburan/ethics-as-an-intellectual-function-5be0a29b52ef?source=rss------ethical_hacking-5"
         }
-      },
-      {
-        "id": 135474,
-        "text": "⤷\nTitle:\nTry Hack Me: AD: BadSuccessor Write Up\n════════════════════════\n𐀪\nAuthor:\nJozepjoestar\n════════════════════════\nⴵ\nTime:\nSat, 10 Oct 2026 16:49:51 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_walkthrough\n#tryhackme",
-        "date": "2026-10-10T17:03:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135474_0_d0aef733.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135474_1_8c08adc9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135474",
-        "link": {
-          "title": "Try Hack Me: AD: BadSuccessor Write Up",
-          "url": "https://medium.com/@jozepjoestar/try-hack-me-ad-badsuccessor-write-up-a224f7d59688?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 135473,
-        "text": "⤷\nTitle:\nLookup (THM) Tryhackme Walkthrough\n════════════════════════\n𐀪\nAuthor:\nLawvye\n════════════════════════\nⴵ\nTime:\nSat, 10 Oct 2026 15:02:42 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#linux\n#privilege_escalation\n#hacking\n#cybersecurity",
-        "date": "2026-10-10T17:03:51+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135473_0_d0aef733.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135473_1_708076e1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135473",
-        "link": {
-          "title": "Lookup (THM) Tryhackme Walkthrough",
-          "url": "https://medium.com/@lawvye/lookup-thm-tryhackme-walkthrough-7103a1089526?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 135472,
-        "text": "⤷\nTitle:\nKioptrix Level 1: A Penetration Testing Walkthrough\n════════════════════════\n𐀪\nAuthor:\nMohamed ibrahim NaseF\n════════════════════════\nⴵ\nTime:\nSat, 10 Oct 2026 14:50:56 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#penetration_testing\n#cybersecurity",
-        "date": "2026-10-10T15:04:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135472_0_d0aef733.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135472_1_f3959771.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135472",
-        "link": {
-          "title": "Kioptrix Level 1: A Penetration Testing Walkthrough",
-          "url": "https://medium.com/@medonasef2025/kioptrix-level-1-a-penetration-testing-walkthrough-5f24b82b63a1?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 135471,
-        "text": "⤷\nTitle:\nPwnshop: a vulnerable web app for web and AI security training\n════════════════════════\n𐀪\nAuthor:\nIbrahim Mutiu Olajide\n════════════════════════\nⴵ\nTime:\nSat, 10 Oct 2026 14:52:44 GMT\n════════════════════════\n⌗\nTags:\n#web_security\n#cybersecurity\n#penetration_testing\n#docker\n#ai_security",
-        "date": "2026-10-10T15:04:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135471_0_d0aef733.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135471_1_59ebce08.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135471",
-        "link": {
-          "title": "Pwnshop: a vulnerable web app for web and AI security training",
-          "url": "https://r007sec.medium.com/pwnshop-a-vulnerable-web-app-for-web-and-ai-security-training-5ae801346c00?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 135470,
-        "text": "⤷\nTitle:\nOffsec Gitroot\n════════════════════════\n𐀪\nAuthor:\ngachuaa\n════════════════════════\nⴵ\nTime:\nSat, 10 Oct 2026 14:34:37 GMT\n════════════════════════\n⌗\nTags:\n#gitroot\n#offsec\n#oscp\n#infosec",
-        "date": "2026-10-10T15:04:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135470_0_d0aef733.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135470_1_887929ad.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135470",
-        "link": {
-          "title": "Offsec Gitroot",
-          "url": "https://gachuaa.medium.com/offsec-gitroot-5997ed753d7c?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 135469,
-        "text": "⤷\nTitle:\nBuilding a Small Bank to Learn Security From the Ground Up\n════════════════════════\n𐀪\nAuthor:\nJay Srinivasan\n════════════════════════\nⴵ\nTime:\nSat, 10 Oct 2026 14:48:43 GMT\n════════════════════════\n⌗\nTags:\n#software_engineering\n#cybersecurity\n#google_cloud_platform\n#ai_security\n#application_security",
-        "date": "2026-10-10T15:04:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135469_0_d0aef733.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135469_1_38c50e89.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135469",
-        "link": {
-          "title": "Building a Small Bank to Learn Security From the Ground Up",
-          "url": "https://jayriniv.medium.com/building-a-small-bank-to-learn-security-from-the-ground-up-d7388d97a3d5?source=rss------application_security-5"
-        }
-      },
-      {
-        "id": 135468,
-        "text": "⤷\nTitle:\nI Thought Knowing the Payloads Made Me a Hacker — I Was Wrong\n════════════════════════\n𐀪\nAuthor:\nMuhummad Zaki\n════════════════════════\nⴵ\nTime:\nSat, 10 Oct 2026 13:02:51 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#web_development\n#bug_bounty\n#python\n#technology",
-        "date": "2026-10-10T15:04:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135468_0_d0aef733.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135468_1_5af80f9b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135468",
-        "link": {
-          "title": "I Thought Knowing the Payloads Made Me a Hacker — I Was Wrong",
-          "url": "https://medium.com/codetodeploy/i-thought-knowing-the-payloads-made-me-a-hacker-i-was-wrong-44d48045fa7f?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 135467,
-        "text": "⤷\nTitle:\nI Used Burp Suite for Months Before Realizing What I Was Missing\n════════════════════════\n𐀪\nAuthor:\nMuhummad Zaki\n════════════════════════\nⴵ\nTime:\nSat, 10 Oct 2026 13:20:45 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#web_development\n#python\n#technology\n#cybersecurity",
-        "date": "2026-10-10T15:04:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135467_0_d0aef733.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135467_1_7e06a5f0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135467",
-        "link": {
-          "title": "I Used Burp Suite for Months Before Realizing What I Was Missing",
-          "url": "https://medium.com/codetodeploy/i-used-burp-suite-for-months-before-realizing-what-i-was-missing-ac23f50cd1f4?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 135466,
-        "text": "⤷\nTitle:\nGitHub Halved Its Bug Bounty Payouts. The People Who Lose Most Aren’t the Ones You Think.\n════════════════════════\n𐀪\nAuthor:\nRiya Limba\n════════════════════════\nⴵ\nTime:\nSat, 10 Oct 2026 13:27:00 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty_tips\n#bug_bounty\n#osint\n#cybersecurity\n#ethical_hacking",
-        "date": "2026-10-10T15:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135466_0_d0aef733.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135466_1_1cf88e17.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135466",
-        "link": {
-          "title": "GitHub Halved Its Bug Bounty Payouts. The People Who Lose Most Aren’t the Ones You Think.",
-          "url": "https://medium.com/@riyalimba/github-halved-its-bug-bounty-payouts-the-people-who-lose-most-arent-the-ones-you-think-21bb9f3481a7?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 135465,
-        "text": "⤷\nTitle:\nForced Browsing Explained | Find Hidden Pages & Access Control Bugs\n════════════════════════\n𐀪\nAuthor:\nPentester Club\n════════════════════════\nⴵ\nTime:\nSat, 10 Oct 2026 13:40:32 GMT\n════════════════════════\n⌗\nTags:\n#web_development\n#cybersecurity\n#artificial_intelligence\n#bug_bounty\n#self_improvement",
-        "date": "2026-10-10T15:03:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135465_0_d0aef733.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135465_1_89aa495e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135465",
-        "link": {
-          "title": "Forced Browsing Explained | Find Hidden Pages & Access Control Bugs",
-          "url": "https://medium.com/@pentesterclubpvtltd/forced-browsing-explained-find-hidden-pages-access-control-bugs-d014eff7cd72?source=rss------bug_bounty-5"
-        }
       }
     ]
   },
-  "last_update": "2026-10-11T23:01:24.914764+00:00",
+  "last_update": "2026-10-12T02:05:52.784394+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 196,
-    "total_files": 196,
+    "total_media": 194,
+    "total_files": 194,
     "total_links": 0,
     "files_by_type": {
-      "image": 196
+      "image": 194
     },
-    "referenced_files": 196,
-    "existing_media_files": 196,
-    "total_size_mb": 5.81,
-    "last_calculation": "2026-10-11T23:01:24.917191+00:00"
+    "referenced_files": 194,
+    "existing_media_files": 194,
+    "total_size_mb": 5.84,
+    "last_calculation": "2026-10-12T02:05:52.786739+00:00"
   }
 }
