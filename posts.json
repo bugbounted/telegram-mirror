@@ -2,6 +2,466 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 135691,
+        "text": "⤷\nTitle:\nSQL Injection in the WHERE Clause: Breaking Out of a Hidden Category Filter (PortSwigger Lab…\n════════════════════════\n𐀪\nAuthor:\nVivek Yadav\n════════════════════════\nⴵ\nTime:\nMon, 12 Oct 2026 18:59:25 GMT\n════════════════════════\n⌗\nTags:\n#sql\n#bug_bounty_writeup\n#bug_bounty\n#cybersecurity\n#infosec",
+        "date": "2026-10-12T19:04:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135691_0_d224fd9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135691_1_bd2f9765.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135691",
+        "link": {
+          "title": "SQL Injection in the WHERE Clause: Breaking Out of a Hidden Category Filter (PortSwigger Lab…",
+          "url": "https://vivek0x.medium.com/sql-injection-in-the-where-clause-breaking-out-of-a-hidden-category-filter-portswigger-lab-09ff7f3621fa?source=rss------bug_bounty_writeup-5"
+        }
+      },
+      {
+        "id": 135690,
+        "text": "⤷\nTitle:\nHow AI Scams Are Becoming Harder to Detect and How to Protect Yourself?\n════════════════════════\n𐀪\nAuthor:\nMunaza Cyber\n════════════════════════\nⴵ\nTime:\nMon, 12 Oct 2026 18:02:10 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ethical_hacking\n#future\n#tech\n#artificalintelligence",
+        "date": "2026-10-12T19:04:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135690_0_d224fd9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135690_1_89744cb4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135690",
+        "link": {
+          "title": "How AI Scams Are Becoming Harder to Detect and How to Protect Yourself?",
+          "url": "https://medium.com/@munnaza.cyber/how-ai-scams-are-becoming-harder-to-detect-and-how-to-protect-yourself-c2724efeab82?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 135689,
+        "text": "⤷\nTitle:\nWireshark Crash Course for Beginners: Network Fundamentals, Features, Port Scan Lab, and TryHackMe…\n════════════════════════\n𐀪\nAuthor:\nDreaith\n════════════════════════\nⴵ\nTime:\nMon, 12 Oct 2026 15:24:47 GMT\n════════════════════════\n⌗\nTags:\n#computer_networking\n#tryhackme\n#wireshark\n#networking\n#cybersecurity",
+        "date": "2026-10-12T19:04:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135689_0_d224fd9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135689_1_ececed7e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135689",
+        "link": {
+          "title": "Wireshark Crash Course for Beginners: Network Fundamentals, Features, Port Scan Lab, and TryHackMe…",
+          "url": "https://medium.com/@dreaith/learning-packet-analysis-with-wireshark-basics-features-a-port-scan-lab-and-tryhackme-rooms-c55fea18ded8?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 135688,
+        "text": "⤷\nTitle:\nYour Users Have Given a Stranger the Keys to Your Bank Account\n════════════════════════\n𐀪\nAuthor:\nIdemudia Odigie\n════════════════════════\nⴵ\nTime:\nMon, 12 Oct 2026 18:48:54 GMT\n════════════════════════\n⌗\nTags:\n#security\n#devops\n#chrome\n#infosec\n#group_policy_management",
+        "date": "2026-10-12T19:04:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135688_0_d224fd9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135688_1_7fd9234c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135688",
+        "link": {
+          "title": "Your Users Have Given a Stranger the Keys to Your Bank Account",
+          "url": "https://medium.com/@david.odigie.ide/your-users-have-given-a-stranger-the-keys-to-your-bank-account-e0599bdb1bce?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 135687,
+        "text": "⤷\nTitle:\nPass Revelator: The AI Platform Helping Police Return Lost and Stolen Devices\n════════════════════════\n𐀪\nAuthor:\nAlexander Hoffmann\n════════════════════════\nⴵ\nTime:\nMon, 12 Oct 2026 17:05:12 GMT\n════════════════════════\n⌗\nTags:\n#police\n#social_network\n#hacking\n#password_cracking\n#medium",
+        "date": "2026-10-12T19:04:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135687_0_d224fd9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135687_1_55b33313.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135687",
+        "link": {
+          "title": "Pass Revelator: The AI Platform Helping Police Return Lost and Stolen Devices",
+          "url": "https://medium.com/@alexander.hoffmann_41154/pass-revelator-the-ai-platform-helping-police-return-lost-and-stolen-devices-82bef9e1a9af?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 135686,
+        "text": "⤷\nTitle:\nNmap for Hackers: The Practical Guide to Network Scanning\n════════════════════════\n𐀪\nAuthor:\nCy5ec-rhythm\n════════════════════════\nⴵ\nTime:\nMon, 12 Oct 2026 18:31:01 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#hacking\n#nmap\n#reconnaissance\n#linux",
+        "date": "2026-10-12T19:04:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135686_0_d224fd9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135686_1_5eec3bdf.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135686",
+        "link": {
+          "title": "Nmap for Hackers: The Practical Guide to Network Scanning",
+          "url": "https://medium.com/@Cy5ec-rhythm/nmap-for-hackers-the-practical-guide-to-network-scanning-412297fc1b1f?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 135685,
+        "text": "⤷\nTitle:\nBir Güvenlik Açığının Ardında Kalanlar\n════════════════════════\n𐀪\nAuthor:\nTugba\n════════════════════════\nⴵ\nTime:\nMon, 12 Oct 2026 16:57:51 GMT\n════════════════════════\n⌗\nTags:\n#application_security\n#cybersecurity\n#aspnetcore\n#net_core\n#software_engineering",
+        "date": "2026-10-12T19:04:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135685_0_d224fd9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135685_1_63787b47.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135685",
+        "link": {
+          "title": "Bir Güvenlik Açığının Ardında Kalanlar",
+          "url": "https://medium.com/@tugba.dev/bir-g%C3%BCvenlik-a%C3%A7%C4%B1%C4%9F%C4%B1n%C4%B1n-ard%C4%B1nda-kalanlar-b6988522a683?source=rss------application_security-5"
+        }
+      },
+      {
+        "id": 135684,
+        "text": "⤷\nTitle:\nA Fake CAPTCHA Appeared in Our Admin Portal: What I Learned About ClickFix Attacks and Third-Party…\n════════════════════════\n𐀪\nAuthor:\nAlamgir Hossen\n════════════════════════\nⴵ\nTime:\nMon, 12 Oct 2026 17:53:04 GMT\n════════════════════════\n⌗\nTags:\n#software_engineering\n#javascript\n#application_security\n#nodejs\n#cybersecurity",
+        "date": "2026-10-12T19:04:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135684_0_d224fd9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135684_1_fbf59920.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135684",
+        "link": {
+          "title": "A Fake CAPTCHA Appeared in Our Admin Portal: What I Learned About ClickFix Attacks and Third-Party…",
+          "url": "https://medium.com/@alombd.bd/a-fake-captcha-appeared-in-our-admin-portal-what-i-learned-about-clickfix-attacks-and-third-party-574b247412c2?source=rss------application_security-5"
+        }
+      },
+      {
+        "id": 135683,
+        "text": "⤷\nTitle:\nBlind XSS Accepted, No Payout: A Bug Bounty Lesson.\n════════════════════════\n𐀪\nAuthor:\nkjulius\n════════════════════════\nⴵ\nTime:\nMon, 12 Oct 2026 18:00:53 GMT\n════════════════════════\n⌗\nTags:\n#blind_xss\n#responsible_disclosure\n#bug_bounty\n#xss_vulnerability",
+        "date": "2026-10-12T19:04:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135683_0_d224fd9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135683_1_8c17e812.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135683",
+        "link": {
+          "title": "Blind XSS Accepted, No Payout: A Bug Bounty Lesson.",
+          "url": "https://kjulius.medium.com/blind-xss-accepted-no-payout-a-bug-bounty-lesson-d06bd623dca5?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 135682,
+        "text": "⤷\nTitle:\nKPMG CTF 2026 Web Challenges: Onboardx Solution\n════════════════════════\n𐀪\nAuthor:\nSubadevan C\n════════════════════════\nⴵ\nTime:\nMon, 12 Oct 2026 18:41:04 GMT\n════════════════════════\n⌗\nTags:\n#hiringctf\n#kpmg\n#bug_bounty\n#ctf\n#web_security",
+        "date": "2026-10-12T19:03:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135682_0_d224fd9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135682_1_f93c16a7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135682",
+        "link": {
+          "title": "KPMG CTF 2026 Web Challenges: Onboardx Solution",
+          "url": "https://medium.com/@subadevanc/kpmg-ctf-2026-web-challenges-onboardx-solution-1eeea31d3b33?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 135681,
+        "text": "⤷\nTitle:\nCERT/CC Warns of 11 Unpatched Thelia Vulnerabilities Enabling Remote Code Execution\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 12 Oct 2026 15:14:56 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CERT\n/CC\n#CVE_2026_103521\n#CVE_2026_103528\n#CVE_2026_103529\n#e_commerce\nsecurity\n#Remote\nCode Execution\n#Thelia\n#Unpatched\nVulnerability",
+        "date": "2026-10-12T19:03:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135681_0_d224fd9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135681_1_c9697098.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135681",
+        "link": {
+          "title": "CERT/CC Warns of 11 Unpatched Thelia Vulnerabilities Enabling Remote Code Execution",
+          "url": "https://securityonline.info/thelia-vulnerabilities-remote-code-execution/"
+        }
+      },
+      {
+        "id": 135680,
+        "text": "⤷\nTitle:\nProgress Fixes 31 MarkLogic Server Vulnerabilities, Three Rated CVSS 9.9\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 12 Oct 2026 16:34:25 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_85947\n#CVE_2026_85948\n#CVE_2026_85955\n#database\nsecurity\n#MarkLogic\n#privilege\nescalation\n#Progress\nSoftware\n#security\nupdate",
+        "date": "2026-10-12T19:03:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135680_0_d224fd9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135680_1_b7d9b724.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135680",
+        "link": {
+          "title": "Progress Fixes 31 MarkLogic Server Vulnerabilities, Three Rated CVSS 9.9",
+          "url": "https://securityonline.info/critical-marklogic-server-vulnerabilities/"
+        }
+      },
+      {
+        "id": 135679,
+        "text": "⤷\nTitle:\nTwo Requests. One Resource. A Security Bug.\n════════════════════════\n𐀪\nAuthor:\nFateyaly\n════════════════════════\nⴵ\nTime:\nMon, 12 Oct 2026 15:12:41 GMT\n════════════════════════\n⌗\nTags:\n#technology\n#ethical_hacking\n#programming\n#coding\n#cybersecurity",
+        "date": "2026-10-12T17:04:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135679_0_d224fd9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135679_1_974c1ab2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135679",
+        "link": {
+          "title": "Two Requests. One Resource. A Security Bug.",
+          "url": "https://systemweakness.com/two-requests-one-resource-a-security-bug-d66265de2c2d?source=rss------ethical_hacking-5"
+        }
+      },
+      {
+        "id": 135678,
+        "text": "⤷\nTitle:\nLearning Packet Analysis with Wireshark: Basics, Features, a Port Scan Lab, and TryHackMe Rooms\n════════════════════════\n𐀪\nAuthor:\nDreaith\n════════════════════════\nⴵ\nTime:\nMon, 12 Oct 2026 15:24:47 GMT\n════════════════════════\n⌗\nTags:\n#computer_networking\n#tryhackme\n#wireshark\n#networking\n#cybersecurity",
+        "date": "2026-10-12T17:04:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135678_0_d224fd9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135678_1_295c067e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135678",
+        "link": {
+          "title": "Learning Packet Analysis with Wireshark: Basics, Features, a Port Scan Lab, and TryHackMe Rooms",
+          "url": "https://medium.com/@dreaith/learning-packet-analysis-with-wireshark-basics-features-a-port-scan-lab-and-tryhackme-rooms-c55fea18ded8?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 135677,
+        "text": "⤷\nTitle:\n[ID] TryHackMe | Bolt\n════════════════════════\n𐀪\nAuthor:\nf2rn\n════════════════════════\nⴵ\nTime:\nMon, 12 Oct 2026 16:01:43 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_walkthrough\n#tryhackme\n#tryhackme_writeup",
+        "date": "2026-10-12T17:04:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135677_0_d224fd9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135677_1_033b2cb1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135677",
+        "link": {
+          "title": "[ID] TryHackMe | Bolt",
+          "url": "https://f2rn.medium.com/id-tryhackme-bolt-b04a8ad19b3b?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 135676,
+        "text": "⤷\nTitle:\nTry Hack Me: CVE-2026–46300: Fragnesia Write Up\n════════════════════════\n𐀪\nAuthor:\nJozepjoestar\n════════════════════════\nⴵ\nTime:\nMon, 12 Oct 2026 16:07:21 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#tryhackme_walkthrough",
+        "date": "2026-10-12T17:04:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135676_0_d224fd9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135676_1_56de0be3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135676",
+        "link": {
+          "title": "Try Hack Me: CVE-2026–46300: Fragnesia Write Up",
+          "url": "https://medium.com/@jozepjoestar/try-hack-me-cve-2026-46300-fragnesia-write-up-6844dd9c5019?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 135675,
+        "text": "⤷\nTitle:\nTCP Session Hijacking: How an Established Connection Gets Stolen\n════════════════════════\n𐀪\nAuthor:\n7hamad\n════════════════════════\nⴵ\nTime:\nMon, 12 Oct 2026 15:50:01 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#network_security\n#cyberattack\n#vulnerability_assessment\n#cybersecurity",
+        "date": "2026-10-12T17:04:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135675_0_d224fd9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135675_1_87b76832.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135675",
+        "link": {
+          "title": "TCP Session Hijacking: How an Established Connection Gets Stolen",
+          "url": "https://medium.com/@hamadgmr/tcp-session-hijacking-how-an-established-connection-gets-stolen-9c54aae24747?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 135674,
+        "text": "⤷\nTitle:\nThe Lesson I Learned During a Security Audit at a Defence Organization\n════════════════════════\n𐀪\nAuthor:\nXSniper\n════════════════════════\nⴵ\nTime:\nMon, 12 Oct 2026 16:17:57 GMT\n════════════════════════\n⌗\nTags:\n#vulnerability_management\n#red_team\n#penetration_testing\n#threat_intelligence\n#compliance",
+        "date": "2026-10-12T17:04:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135674_0_d224fd9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135674_1_5250e5c6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135674",
+        "link": {
+          "title": "The Lesson I Learned During a Security Audit at a Defence Organization",
+          "url": "https://xsniper.medium.com/the-lesson-i-learned-during-a-security-audit-at-a-defence-organization-63f190a70c1f?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 135673,
+        "text": "⤷\nTitle:\nStatic Analysis in Cybersecurity: A Beginner’s Guide With Easy Examples\n════════════════════════\n𐀪\nAuthor:\nZalena Ali\n════════════════════════\nⴵ\nTime:\nMon, 12 Oct 2026 16:19:15 GMT\n════════════════════════\n⌗\nTags:\n#application_security\n#programming\n#cybersecurity\n#information_security\n#software_development",
+        "date": "2026-10-12T17:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135673_0_d224fd9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135673_1_4fddec8a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135673",
+        "link": {
+          "title": "Static Analysis in Cybersecurity: A Beginner’s Guide With Easy Examples",
+          "url": "https://medium.com/@zalenaali/static-analysis-in-cybersecurity-a-beginners-guide-with-easy-examples-d996e24505c7?source=rss------application_security-5"
+        }
+      },
+      {
+        "id": 135672,
+        "text": "⤷\nTitle:\nI Built a Big Business App Alone in Bihar. AI Wrote the Code. I Had to Catch Its Mistakes.\n════════════════════════\n𐀪\nAuthor:\nJavaScript With Vinay\n════════════════════════\nⴵ\nTime:\nMon, 12 Oct 2026 16:45:38 GMT\n════════════════════════\n⌗\nTags:\n#job_hunting\n#business\n#application_security\n#ai\n#software_development",
+        "date": "2026-10-12T17:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135672_0_d224fd9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135672_1_499146ff.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135672",
+        "link": {
+          "title": "I Built a Big Business App Alone in Bihar. AI Wrote the Code. I Had to Catch Its Mistakes.",
+          "url": "https://medium.com/@javaScriptwithvinay/i-built-a-big-business-app-alone-in-bihar-ai-wrote-the-code-i-had-to-catch-its-mistakes-d912f1cc2914?source=rss------application_security-5"
+        }
+      },
+      {
         "id": 135621,
         "text": "⤷\nTitle:\nCybersecurity for Beginners: Essential Skills, Tools, and Career Roadmap in 2026\n════════════════════════\n𐀪\nAuthor:\nDhruv Singh\n════════════════════════\nⴵ\nTime:\nMon, 12 Oct 2026 07:34:28 GMT\n════════════════════════\n⌗\nTags:\n#programming\n#technology\n#education\n#cybersecurity\n#ethical_hacking",
         "date": "2026-10-12T09:04:30+00:00",
@@ -1820,474 +2280,22 @@
           "title": "BBSCute — OffSec Proving Grounds Walkthrough: From CuteNews to Root",
           "url": "https://medium.com/@infinitisecurity32/bbscute-offsec-proving-grounds-walkthrough-from-cutenews-to-root-e7a0d08dbf54?source=rss------hacking-5"
         }
-      },
-      {
-        "id": 135524,
-        "text": "⤷\nTitle:\nIs Your Wi-Fi a Hacker’s Playground?\n════════════════════════\n𐀪\nAuthor:\nBlackHat\n════════════════════════\nⴵ\nTime:\nSun, 11 Oct 2026 09:39:40 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#business\n#medium\n#hacking\n#artificial_intelligence",
-        "date": "2026-10-11T11:04:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135524_0_d0aef733.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135524_1_ad524ef4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135524",
-        "link": {
-          "title": "Is Your Wi-Fi a Hacker’s Playground?",
-          "url": "https://medium.com/@hackersclique857/is-your-wi-fi-a-hackers-playground-c490890a0267?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 135523,
-        "text": "⤷\nTitle:\nHTB — Blackfield: From Guest SMB Access to Domain Administrator\n════════════════════════\n𐀪\nAuthor:\nRoberto Carlino\n════════════════════════\nⴵ\nTime:\nSun, 11 Oct 2026 10:22:57 GMT\n════════════════════════\n⌗\nTags:\n#hackthebox_writeup\n#penetration_testing\n#hacking\n#hackthebox\n#ethical_hacking",
-        "date": "2026-10-11T11:04:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135523_0_d0aef733.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135523_1_67918c39.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135523",
-        "link": {
-          "title": "HTB — Blackfield: From Guest SMB Access to Domain Administrator",
-          "url": "https://medium.com/@robertocarlino_33520/htb-blackfield-from-guest-smb-access-to-domain-administrator-97c417af6b5b?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 135522,
-        "text": "⤷\nTitle:\nHTB — Certified: From a Low-Privilege Account to Domain Administrator\n════════════════════════\n𐀪\nAuthor:\nRoberto Carlino\n════════════════════════\nⴵ\nTime:\nSun, 11 Oct 2026 10:28:59 GMT\n════════════════════════\n⌗\nTags:\n#hackthebox\n#hacking\n#hackthebox_writeup\n#ethical_hacking\n#penetration_testing",
-        "date": "2026-10-11T11:04:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135522_0_d0aef733.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135522_1_9559e7e5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135522",
-        "link": {
-          "title": "HTB — Certified: From a Low-Privilege Account to Domain Administrator",
-          "url": "https://medium.com/@robertocarlino_33520/htb-certified-from-a-low-privilege-account-to-domain-administrator-6ed9c544957c?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 135521,
-        "text": "⤷\nTitle:\nMy First Bug Bounty: How I Found Leaked Credentials in NASA’s Git History\n════════════════════════\n𐀪\nAuthor:\nalaric\n════════════════════════\nⴵ\nTime:\nSun, 11 Oct 2026 09:01:24 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#git\n#devops\n#infosec\n#bug_bounty",
-        "date": "2026-10-11T11:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135521_0_d0aef733.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135521_1_5d0c9608.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135521",
-        "link": {
-          "title": "My First Bug Bounty: How I Found Leaked Credentials in NASA’s Git History",
-          "url": "https://infosecwriteups.com/my-first-bug-bounty-how-i-found-leaked-credentials-in-nasas-git-history-785316ba7eb8?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 135520,
-        "text": "⤷\nTitle:\n$7,000 for a Handshake Nobody Checked: Cross-Site WebSocket Hijacking\n════════════════════════\n𐀪\nAuthor:\nT4nv1\n════════════════════════\nⴵ\nTime:\nSun, 11 Oct 2026 09:16:01 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#hacking\n#bug_bounty\n#bug_bounty_tips\n#security",
-        "date": "2026-10-11T11:03:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135520_0_d0aef733.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135520_1_2b718389.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135520",
-        "link": {
-          "title": "$7,000 for a Handshake Nobody Checked: Cross-Site WebSocket Hijacking",
-          "url": "https://medium.com/@t4nv1/7-000-for-a-handshake-nobody-checked-cross-site-websocket-hijacking-e3fe8321a5c0?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 135519,
-        "text": "⤷\nTitle:\nStrix AI Agent Setup on Kali Linux — Bug Bounty & Penetration Testing\n════════════════════════\n𐀪\nAuthor:\nMohamed Algabry\n════════════════════════\nⴵ\nTime:\nSun, 11 Oct 2026 10:17:47 GMT\n════════════════════════\n⌗\nTags:\n#ai\n#penetration_testing\n#bug_bounty\n#cybersecurity\n#web_development",
-        "date": "2026-10-11T11:03:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135519_0_d0aef733.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135519_1_d4305f9c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135519",
-        "link": {
-          "title": "Strix AI Agent Setup on Kali Linux — Bug Bounty & Penetration Testing",
-          "url": "https://mohamedalgabry.medium.com/strix-ai-agent-setup-on-kali-linux-bug-bounty-penetration-testing-fd63b1a6f9cf?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 135518,
-        "text": "⤷\nTitle:\nWindows Update Certificate Rotation: Prevent 2027 Failures\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nSun, 11 Oct 2026 10:48:35 +0000\n════════════════════════\n⌗\nTags:\n#Windows\n#Digital\nCertificate\n#Microsoft\nServers\n#System\nAdmin\n#Windows\n11\n#Windows\nUpdate",
-        "date": "2026-10-11T11:03:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135518_0_d0aef733.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135518_1_5b02ff59.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135518",
-        "link": {
-          "title": "Windows Update Certificate Rotation: Prevent 2027 Failures",
-          "url": "https://securityonline.info/windows-update-certificate-rotation/"
-        }
-      },
-      {
-        "id": 135507,
-        "text": "⤷\nTitle:\nHow Elon Musk Bought X.COM Domain?\n════════════════════════\n𐀪\nAuthor:\nMinhaj Mehdi\n════════════════════════\nⴵ\nTime:\nSun, 11 Oct 2026 06:35:29 GMT\n════════════════════════\n⌗\nTags:\n#twitter\n#elon_musk\n#xs\n#technology",
-        "date": "2026-10-11T07:04:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135507_0_d0aef733.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135507_1_46184649.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135507",
-        "link": {
-          "title": "How Elon Musk Bought X.COM Domain?",
-          "url": "https://minhajxmehdii.medium.com/how-elon-musk-bought-x-com-domain-8a1be43ed86b?source=rss------xss-5"
-        }
-      },
-      {
-        "id": 135506,
-        "text": "⤷\nTitle:\nAfter the vulnerability scan: from one-off scanning to continuous management\n════════════════════════\n𐀪\nAuthor:\nKazem Mortazavi\n════════════════════════\nⴵ\nTime:\nSun, 11 Oct 2026 04:55:25 GMT\n════════════════════════\n⌗\nTags:\n#network_security\n#cybersecurity\n#penetration_testing\n#information_security\n#vulnerability_management",
-        "date": "2026-10-11T07:04:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135506_0_d0aef733.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135506",
-        "link": {
-          "title": "After the vulnerability scan: from one-off scanning to continuous management",
-          "url": "https://medium.com/@kazemmortazavi/after-the-vulnerability-scan-from-one-off-scanning-to-continuous-management-5814c30ad9e2?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 135505,
-        "text": "⤷\nTitle:\nLearn Cyber security best Course 2027\n════════════════════════\n𐀪\nAuthor:\nMR X Hacker 0\n════════════════════════\nⴵ\nTime:\nSun, 11 Oct 2026 06:35:54 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#che\n#oscp\n#ceh_v13\n#bestcybersecuritycourse",
-        "date": "2026-10-11T07:04:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135505_0_d0aef733.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135505_1_6a4694cb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135505",
-        "link": {
-          "title": "Learn Cyber security best Course 2027",
-          "url": "https://mrxhacker0.medium.com/learn-cyber-security-best-course-2027-e96a6a898df1?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 135504,
-        "text": "⤷\nTitle:\n2027 Cybersecurity Roadmap From Beginner to Cybersecurity Professional\n════════════════════════\n𐀪\nAuthor:\nMR X Hacker 0\n════════════════════════\nⴵ\nTime:\nSun, 11 Oct 2026 06:44:42 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#2027_cybersecurity\n#cybersecurity_roadmap\n#cybersecurityprofessional",
-        "date": "2026-10-11T07:04:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135504_0_d0aef733.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135504_1_7ccae47e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135504",
-        "link": {
-          "title": "2027 Cybersecurity Roadmap From Beginner to Cybersecurity Professional",
-          "url": "https://mrxhacker0.medium.com/2027-cybersecurity-roadmap-from-beginner-to-cybersecurity-professional-c4974bee993d?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 135503,
-        "text": "⤷\nTitle:\nWhat Hackers Are Actually Finding in 2026: I Went Through the Bug Bounty Reports So You Don’t Have…\n════════════════════════\n𐀪\nAuthor:\nMr Abdullah\n════════════════════════\nⴵ\nTime:\nSun, 11 Oct 2026 05:01:02 GMT\n════════════════════════\n⌗\nTags:\n#web_security\n#ethical_hacking\n#cybersecurity\n#bug_bounty\n#infosec",
-        "date": "2026-10-11T07:04:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135503_0_d0aef733.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135503_1_c86b7afd.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135503",
-        "link": {
-          "title": "What Hackers Are Actually Finding in 2026: I Went Through the Bug Bounty Reports So You Don’t Have…",
-          "url": "https://mr-abdullah.medium.com/what-hackers-are-actually-finding-in-2026-i-went-through-the-bug-bounty-reports-so-you-dont-have-5eb37e2ea671?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 135502,
-        "text": "⤷\nTitle:\nVisible Error-Based SQL Injection: A PortSwigger Lab Walkthrough\n════════════════════════\n𐀪\nAuthor:\nDhrupal Tagmadiya\n════════════════════════\nⴵ\nTime:\nSun, 11 Oct 2026 06:44:27 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#web_security\n#sql_injection\n#ethical_hacking\n#bug_bounty",
-        "date": "2026-10-11T07:04:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135502_0_d0aef733.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135502_1_80ac94b1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135502",
-        "link": {
-          "title": "Visible Error-Based SQL Injection: A PortSwigger Lab Walkthrough",
-          "url": "https://medium.com/@tagmadiyadhrupal10/visible-error-based-sql-injection-a-portswigger-lab-walkthrough-4fbb0c13d9cf?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 135501,
-        "text": "⤷\nTitle:\nP7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands\n════════════════════════\n𐀪\nAuthor:\nUnknown\n════════════════════════\nⴵ\nTime:\nSun, 11 Oct 2026 09:54:34 +0530\n════════════════════════\n⌗\nTags:\nNo_Tags",
-        "date": "2026-10-11T07:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135501_0_d0aef733.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135501",
-        "link": {
-          "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
-          "url": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html"
-        }
-      },
-      {
-        "id": 135500,
-        "text": "⤷\nTitle:\nSlayer (HackSmarter)\n════════════════════════\n𐀪\nAuthor:\nDaniel Lewis\n════════════════════════\nⴵ\nTime:\nSun, 11 Oct 2026 03:45:30 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#cybersecurity\n#penetration_testing\n#red_team\n#hacking",
-        "date": "2026-10-11T05:03:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135500_0_d0aef733.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135500_1_fd0f47f9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135500",
-        "link": {
-          "title": "Slayer (HackSmarter)",
-          "url": "https://medium.com/@daniel.josiah.lewis/slayer-hacksmarter-ed7200f8828e?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 135499,
-        "text": "⤷\nTitle:\nNobody Bans AI Bug Reports. You Can Still Get Permanently Banned.\n════════════════════════\n𐀪\nAuthor:\nRaj Namdev\n════════════════════════\nⴵ\nTime:\nSun, 11 Oct 2026 01:11:32 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#infosec\n#ethical_hacking\n#bug_bounty\n#artificial_intelligence",
-        "date": "2026-10-11T03:03:48+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135499_0_d0aef733.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135499_1_8206f5f3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135499",
-        "link": {
-          "title": "Nobody Bans AI Bug Reports. You Can Still Get Permanently Banned.",
-          "url": "https://meetcyber.net/nobody-bans-ai-bug-reports-you-can-still-get-permanently-banned-57cf614733ad?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 135498,
-        "text": "⤷\nTitle:\nKB-VULN: 2 ~ VulnHub — Walk through\n════════════════════════\n𐀪\nAuthor:\nM.Fida Hussain\n════════════════════════\nⴵ\nTime:\nSat, 10 Oct 2026 23:50:49 GMT\n════════════════════════\n⌗\nTags:\n#vulnhub\n#cybersecurity\n#hacker\n#best_practices",
-        "date": "2026-10-11T01:04:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135498_0_d0aef733.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135498_1_684ab8fa.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135498",
-        "link": {
-          "title": "KB-VULN: 2 ~ VulnHub — Walk through",
-          "url": "https://medium.com/@officialhussainali12/kb-vuln-2-vulnhub-walk-through-c97cbde4f736?source=rss------vulnhub-5"
-        }
-      },
-      {
-        "id": 135497,
-        "text": "⤷\nTitle:\nStarting My CPTS Journey: From Zero to Root on My First Unguided HTB Box\n════════════════════════\n𐀪\nAuthor:\nXmastaheer\n════════════════════════\nⴵ\nTime:\nSun, 11 Oct 2026 00:01:46 GMT\n════════════════════════\n⌗\nTags:\n#hackthebox\n#cybersecurity\n#infosec\n#ethical_hacking\n#penetration_testing",
-        "date": "2026-10-11T01:04:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135497_0_d0aef733.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135497_1_b9e42a47.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135497",
-        "link": {
-          "title": "Starting My CPTS Journey: From Zero to Root on My First Unguided HTB Box",
-          "url": "https://medium.com/@xmastaheer/starting-my-cpts-journey-from-zero-to-root-on-my-first-unguided-htb-box-9415a36af87a?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 135496,
-        "text": "⤷\nTitle:\nPractical Malware Analysis — Lab 1–4: Basic Static Analysis Write-up\n════════════════════════\n𐀪\nAuthor:\nMahmoud Alawady\n════════════════════════\nⴵ\nTime:\nSat, 10 Oct 2026 22:51:03 GMT\n════════════════════════\n⌗\nTags:\n#malware_analysis\n#malware\n#static_analysis\n#cybersecurity\n#hacking",
-        "date": "2026-10-11T01:04:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135496_0_d0aef733.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135496_1_edbe1a29.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135496",
-        "link": {
-          "title": "Practical Malware Analysis — Lab 1–4: Basic Static Analysis Write-up",
-          "url": "https://medium.com/@ma.ahmed.dev/practical-malware-analysis-lab-1-4-basic-static-analysis-write-up-bed46838d9a4?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 135495,
-        "text": "⤷\nTitle:\nDefeating the Mirage: A Hands-On Guide to HTTP/2 Request Smuggling (H2.CL)\n════════════════════════\n𐀪\nAuthor:\nHuzaifah Tahir\n════════════════════════\nⴵ\nTime:\nSun, 11 Oct 2026 00:00:54 GMT\n════════════════════════\n⌗\nTags:\n#cl_and_te_issues\n#hacking\n#cybersecurity\n#h2cl_request_smuggling\n#web_exploitation",
-        "date": "2026-10-11T01:03:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135495_0_d0aef733.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135495_1_c8b1f8b5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135495",
-        "link": {
-          "title": "Defeating the Mirage: A Hands-On Guide to HTTP/2 Request Smuggling (H2.CL)",
-          "url": "https://medium.com/@huzaifahtahir/defeating-the-mirage-a-hands-on-guide-to-http-2-request-smuggling-h2-cl-9a51525335ce?source=rss------hacking-5"
-        }
       }
     ]
   },
-  "last_update": "2026-10-12T09:29:31.890110+00:00",
+  "last_update": "2026-10-12T19:13:29.484482+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
-    "total_media": 193,
-    "total_files": 193,
+    "total_media": 195,
+    "total_files": 195,
     "total_links": 0,
     "files_by_type": {
-      "image": 193
+      "image": 195
     },
-    "referenced_files": 193,
-    "existing_media_files": 193,
-    "total_size_mb": 5.74,
-    "last_calculation": "2026-10-12T09:29:31.892466+00:00"
+    "referenced_files": 195,
+    "existing_media_files": 195,
+    "total_size_mb": 5.85,
+    "last_calculation": "2026-10-12T19:13:29.486385+00:00"
   }
 }
