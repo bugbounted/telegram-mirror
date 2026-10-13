@@ -2,6 +2,351 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 135706,
+        "text": "⤷\nTitle:\nJackpot: Como Esvaziei um ATM Sem Cartão ou PIN (Walkthrough TryHackMe)\n════════════════════════\n𐀪\nAuthor:\nacidmud\n════════════════════════\nⴵ\nTime:\nMon, 12 Oct 2026 23:54:35 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#tryhackme\n#tryhackme_writeup\n#tryhackme_walkthrough",
+        "date": "2026-10-13T01:04:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135706_0_d224fd9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135706_1_37e1695c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135706",
+        "link": {
+          "title": "Jackpot: Como Esvaziei um ATM Sem Cartão ou PIN (Walkthrough TryHackMe)",
+          "url": "https://medium.com/@acidmud/jackpot-como-esvaziei-um-atm-sem-cart%C3%A3o-ou-pin-walkthrough-tryhackme-55c543fe6520?source=rss------tryhackme-5"
+        }
+      },
+      {
+        "id": 135705,
+        "text": "⤷\nTitle:\nHackTheBox — Nightmare (Insane)\n════════════════════════\n𐀪\nAuthor:\nMohammed ElKhateb\n════════════════════════\nⴵ\nTime:\nTue, 13 Oct 2026 00:00:58 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#hackthebox\n#ctf\n#cybersecurity\n#penetration_testing",
+        "date": "2026-10-13T01:03:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135705_0_d224fd9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135705_1_4e5f99f2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135705",
+        "link": {
+          "title": "HackTheBox — Nightmare (Insane)",
+          "url": "https://medium.com/@HoRRus/hackthebox-nightmare-insane-dbc515680433?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 135704,
+        "text": "⤷\nTitle:\nCritical Ghostscript Vulnerability CVE-2026-39919 Turns Uploaded PDFs Into Remote Code Execution\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nMon, 12 Oct 2026 20:19:09 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_39919\n#Ghostscript\n#Heap\nBuffer Overflow\n#ImageMagick\n#Linux\nSecurity\n#Remote\nCode Execution\n#Wordfence\n#wordpress\nsecurity",
+        "date": "2026-10-13T01:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135704_0_d224fd9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135704_1_c9974b3b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135704",
+        "link": {
+          "title": "Critical Ghostscript Vulnerability CVE-2026-39919 Turns Uploaded PDFs Into Remote Code Execution",
+          "url": "https://securityonline.info/ghostscript-vulnerability-cve-2026-39919/"
+        }
+      },
+      {
+        "id": 135703,
+        "text": "⤷\nTitle:\nDiscourse Vulnerabilities Let Attackers Hijack Pages for Every Visitor and Read Server Files\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 13 Oct 2026 00:11:24 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#Cache\nPoisoning\n#Cross_Site\nScripting\n#CVE_2026_55420\n#CVE_2026_55674\n#Discourse\n#Forum\nSecurity\n#ImageMagick\n#SL\nCyber",
+        "date": "2026-10-13T01:03:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135703_0_d224fd9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135703_1_d9a38bbb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135703",
+        "link": {
+          "title": "Discourse Vulnerabilities Let Attackers Hijack Pages for Every Visitor and Read Server Files",
+          "url": "https://securityonline.info/discourse-vulnerabilities-cve-2026-55674-cve-2026-55420/"
+        }
+      },
+      {
+        "id": 135702,
+        "text": "⤷\nTitle:\nIBM Patches Three Critical Flaws in IBM i, Db2 Mirror and Maximo AI Service\n════════════════════════\n𐀪\nAuthor:\nDo Son\n════════════════════════\nⴵ\nTime:\nTue, 13 Oct 2026 00:40:21 +0000\n════════════════════════\n⌗\nTags:\n#Vulnerability\nReport\n#CVE_2026_90920\n#CVE_2026_96012\n#CVE_2026_96119\n#Db2\nMirror for i\n#IBM\n#IBM\ni\n#Maximo\nAI Service\n#Remote\nCode Execution",
+        "date": "2026-10-13T01:03:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135702_0_d224fd9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135702_1_edb9086e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135702",
+        "link": {
+          "title": "IBM Patches Three Critical Flaws in IBM i, Db2 Mirror and Maximo AI Service",
+          "url": "https://securityonline.info/ibm-critical-vulnerabilities-ibm-i-db2-maximo/"
+        }
+      },
+      {
+        "id": 135701,
+        "text": "⤷\nTitle:\nAI Broke the Bug Bounty: Too Much Noise, and Signal That Arrives Faster\n════════════════════════\n𐀪\nAuthor:\nClemence Ayekple\n════════════════════════\nⴵ\nTime:\nMon, 12 Oct 2026 22:16:40 GMT\n════════════════════════\n⌗\nTags:\n#bug_bounty\n#ai_security\n#cybersecurity\n#vulnerability_management",
+        "date": "2026-10-12T23:03:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135701_0_d224fd9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135701_1_6ddc01d9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135701",
+        "link": {
+          "title": "AI Broke the Bug Bounty: Too Much Noise, and Signal That Arrives Faster",
+          "url": "https://ayekpleclemence.medium.com/ai-broke-the-bug-bounty-too-much-noise-and-signal-that-arrives-faster-e9c61b051878?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 135700,
+        "text": "⤷\nTitle:\nBasic Pentesting Walkthrough | TryHackMe\n════════════════════════\n𐀪\nAuthor:\nisheblank\n════════════════════════\nⴵ\nTime:\nMon, 12 Oct 2026 19:51:07 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#penetration_testing\n#linux\n#ethical_hacking\n#cybersecurity",
+        "date": "2026-10-12T21:04:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135700_0_d224fd9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135700_1_e21b1aaa.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135700",
+        "link": {
+          "title": "Basic Pentesting Walkthrough | TryHackMe",
+          "url": "https://medium.com/@isheblank/basic-pentesting-walkthrough-tryhackme-52b43e66fb87?source=rss------penetration_testing-5"
+        }
+      },
+      {
+        "id": 135699,
+        "text": "⤷\nTitle:\nSummit: Climbing the Pyramid of Pain with Hash, Firewall, DNS, and Sigma Detections\n════════════════════════\n𐀪\nAuthor:\nJonathan Sanfer\n════════════════════════\nⴵ\nTime:\nMon, 12 Oct 2026 19:05:36 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#detection_engineering\n#infosec\n#cybersecurity\n#blue_team",
+        "date": "2026-10-12T21:04:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135699_0_d224fd9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135699_1_2c686fec.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135699",
+        "link": {
+          "title": "Summit: Climbing the Pyramid of Pain with Hash, Firewall, DNS, and Sigma Detections",
+          "url": "https://medium.com/@jonathan.sanfer/summit-climbing-the-pyramid-of-pain-with-hash-firewall-dns-and-sigma-detections-3a028efb92cd?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 135698,
+        "text": "⤷\nTitle:\nLinux Process Management Cheat Sheet: Verify Before You Kill\n════════════════════════\n𐀪\nAuthor:\nXpert4Cyber\n════════════════════════\nⴵ\nTime:\nMon, 12 Oct 2026 19:52:30 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#infosec\n#incident_response\n#linux\n#sysadmin",
+        "date": "2026-10-12T21:04:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135698_0_d224fd9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135698_1_8328c465.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135698",
+        "link": {
+          "title": "Linux Process Management Cheat Sheet: Verify Before You Kill",
+          "url": "https://medium.com/@xpert4cyber/linux-process-management-cheat-sheet-verify-before-you-kill-4548792ebdac?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 135697,
+        "text": "⤷\nTitle:\nDependency Confusion: How Public Package Registries Got Code Running Inside Apple, Microsoft and…\n════════════════════════\n𐀪\nAuthor:\nKenneth chinedu\n════════════════════════\nⴵ\nTime:\nMon, 12 Oct 2026 20:23:53 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#supply_chain_security\n#devsecops\n#software_development\n#infosec",
+        "date": "2026-10-12T21:04:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135697_0_d224fd9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135697_1_82c7b1a5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135697",
+        "link": {
+          "title": "Dependency Confusion: How Public Package Registries Got Code Running Inside Apple, Microsoft and…",
+          "url": "https://medium.com/@Kenneth_chinedu/dependency-confusion-how-public-package-registries-got-code-running-inside-apple-microsoft-and-4771acd44edb?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 135696,
+        "text": "⤷\nTitle:\nFROM RABBIT HOLE TO ACTIVE DIRECTORY IN 30 MINUTES: A Beginner’s Guide to GOAD\n════════════════════════\n𐀪\nAuthor:\nEmmanuel Wiseman\n════════════════════════\nⴵ\nTime:\nMon, 12 Oct 2026 19:55:19 GMT\n════════════════════════\n⌗\nTags:\n#pentesting\n#cybersecurity\n#hacking\n#active_directory",
+        "date": "2026-10-12T21:04:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135696_0_d224fd9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135696_1_7cbb8519.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135696",
+        "link": {
+          "title": "FROM RABBIT HOLE TO ACTIVE DIRECTORY IN 30 MINUTES: A Beginner’s Guide to GOAD",
+          "url": "https://emmanuelwiseman.medium.com/from-rabbit-hole-to-active-directory-in-30-minutes-a-beginners-guide-to-goad-d85b271640c0?source=rss------hacking-5"
+        }
+      },
+      {
+        "id": 135695,
+        "text": "⤷\nTitle:\nDissecting Log4Shell (CVE-2021–44228): From String Interpolation to TCP Handshakes and Staged…\n════════════════════════\n𐀪\nAuthor:\nSharanya Avudari\n════════════════════════\nⴵ\nTime:\nMon, 12 Oct 2026 18:56:16 GMT\n════════════════════════\n⌗\nTags:\n#docker\n#cybersecurity\n#software_engineering\n#application_security\n#java",
+        "date": "2026-10-12T21:04:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135695_0_d224fd9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135695_1_604e50d5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135695",
+        "link": {
+          "title": "Dissecting Log4Shell (CVE-2021–44228): From String Interpolation to TCP Handshakes and Staged…",
+          "url": "https://medium.com/@sharanyavudari26/dissecting-log4shell-cve-2021-44228-from-string-interpolation-to-tcp-handshakes-and-staged-d65e83bf4eb7?source=rss------application_security-5"
+        }
+      },
+      {
+        "id": 135694,
+        "text": "⤷\nTitle:\nImproper Authorization Allows Account Takeover via Unlinked Phone Number and Email Change Without…\n════════════════════════\n𐀪\nAuthor:\noxmorv\n════════════════════════\nⴵ\nTime:\nMon, 12 Oct 2026 19:25:04 GMT\n════════════════════════\n⌗\nTags:\n#bussines_logic_error\n#improper_authorization\n#bug_bounty",
+        "date": "2026-10-12T21:03:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135694_0_d224fd9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135694_1_c208c86d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135694",
+        "link": {
+          "title": "Improper Authorization Allows Account Takeover via Unlinked Phone Number and Email Change Without…",
+          "url": "https://medium.com/@o.mohmed.ascii/improper-authorization-allows-account-takeover-via-unlinked-phone-number-and-email-change-without-aecdca02e2eb?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 135693,
+        "text": "⤷\nTitle:\nPlaying Alone Against Teams: What CTFs Actually Test.\n════════════════════════\n𐀪\nAuthor:\nNilanjan Chowdhury\n════════════════════════\nⴵ\nTime:\nMon, 12 Oct 2026 20:28:24 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme\n#ctf\n#cybersecurity\n#bug_bounty\n#ethical_hacking",
+        "date": "2026-10-12T21:03:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135693_0_d224fd9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135693_1_8a918679.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135693",
+        "link": {
+          "title": "Playing Alone Against Teams: What CTFs Actually Test.",
+          "url": "https://medium.com/@nilanjan.calculus/playing-alone-against-teams-what-ctfs-actually-test-5d5f353b06ec?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 135692,
+        "text": "⤷\nTitle:\nWhy Robust VPS Hosting Helps OpenClaw Run Faster and More Reliably\n════════════════════════\n𐀪\nAuthor:\nOwais Sultan\n════════════════════════\nⴵ\nTime:\nMon, 12 Oct 2026 19:45:31 +0000\n════════════════════════\n⌗\nTags:\n#Technology\n#Business\n#OpenClaw\n#VPS\nHosting",
+        "date": "2026-10-12T21:03:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135692_0_d224fd9d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135692_1_ae0d6dca.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135692",
+        "link": {
+          "title": "Why Robust VPS Hosting Helps OpenClaw Run Faster and More Reliably",
+          "url": "https://hackread.com/why-vps-hosting-helps-openclaw-run-faster-reliably/"
+        }
+      },
+      {
         "id": 135691,
         "text": "⤷\nTitle:\nSQL Injection in the WHERE Clause: Breaking Out of a Hidden Category Filter (PortSwigger Lab…\n════════════════════════\n𐀪\nAuthor:\nVivek Yadav\n════════════════════════\nⴵ\nTime:\nMon, 12 Oct 2026 18:59:25 GMT\n════════════════════════\n⌗\nTags:\n#sql\n#bug_bounty_writeup\n#bug_bounty\n#cybersecurity\n#infosec",
         "date": "2026-10-12T19:04:27+00:00",
@@ -1935,355 +2280,10 @@
           "title": "Sea Surfer (THM) Tryhackme Walkthrough",
           "url": "https://medium.com/@lawvye/sea-surfer-thm-tryhackme-walkthrough-915d83fc35ea?source=rss------hacking-5"
         }
-      },
-      {
-        "id": 135543,
-        "text": "⤷\nTitle:\nCrypto Hacks Are Increasing, But the Biggest Threat Isn’t Where You Think\n════════════════════════\n𐀪\nAuthor:\nileana gray\n════════════════════════\nⴵ\nTime:\nSun, 11 Oct 2026 14:57:19 GMT\n════════════════════════\n⌗\nTags:\n#crypto\n#cryptocurrency\n#hacking\n#bitcoin",
-        "date": "2026-10-11T15:04:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135543_0_4a3e3109.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135543_1_ae0d98d5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135543",
-        "link": {
-          "title": "Crypto Hacks Are Increasing, But the Biggest Threat Isn’t Where You Think",
-          "url": "https://medium.com/coinmonks/crypto-hacks-are-increasing-but-the-biggest-threat-isnt-where-you-think-585dc23f42d0?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 135542,
-        "text": "⤷\nTitle:\nBroken Access Control, NCIIPC — Responsible Disclosure - CASE STUDY\n════════════════════════\n𐀪\nAuthor:\nSaffrin\n════════════════════════\nⴵ\nTime:\nSun, 11 Oct 2026 13:50:52 GMT\n════════════════════════\n⌗\nTags:\n#nodejs\n#application_security\n#access_control\n#secure_coding",
-        "date": "2026-10-11T15:04:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135542_0_4a3e3109.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135542_1_7745c0a7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135542",
-        "link": {
-          "title": "Broken Access Control, NCIIPC — Responsible Disclosure - CASE STUDY",
-          "url": "https://medium.com/@saffahad24/broken-access-control-nciipc-responsible-disclosure-case-study-f38d52e5ff85?source=rss------application_security-5"
-        }
-      },
-      {
-        "id": 135537,
-        "text": "⤷\nTitle:\nThe Application Followed Every Rule, Except the Business Rules\n════════════════════════\n𐀪\nAuthor:\nFateyaly\n════════════════════════\nⴵ\nTime:\nSun, 11 Oct 2026 11:15:40 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ethical_hacking\n#coding\n#programming\n#technology",
-        "date": "2026-10-11T13:03:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135537_0_d0aef733.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135537_1_31fc9f27.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135537",
-        "link": {
-          "title": "The Application Followed Every Rule, Except the Business Rules",
-          "url": "https://systemweakness.com/the-application-followed-every-rule-except-the-business-rules-c7a9e74df617?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 135536,
-        "text": "⤷\nTitle:\nPortSwigger Lab Walkthrough: Modifying Serialized Objects (Beginner-Friendly Guide)\n════════════════════════\n𐀪\nAuthor:\nabh1nxv\n════════════════════════\nⴵ\nTime:\nSun, 11 Oct 2026 11:24:12 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#ethical_hacking\n#web_security\n#programming\n#technology",
-        "date": "2026-10-11T13:03:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135536_0_d0aef733.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135536_1_fbaa8a37.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135536",
-        "link": {
-          "title": "PortSwigger Lab Walkthrough: Modifying Serialized Objects (Beginner-Friendly Guide)",
-          "url": "https://medium.com/@abhinavvm555/portswigger-lab-walkthrough-modifying-serialized-objects-beginner-friendly-guide-225232dd6809?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 135535,
-        "text": "⤷\nTitle:\nI never picked a side between offense and defense, and it became the most useful thing about me\n════════════════════════\n𐀪\nAuthor:\nh@shtalk\n════════════════════════\nⴵ\nTime:\nSun, 11 Oct 2026 12:46:01 GMT\n════════════════════════\n⌗\nTags:\n#careers\n#infosec\n#offensive_security\n#ai\n#cybersecurity",
-        "date": "2026-10-11T13:03:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135535_0_d0aef733.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135535_1_a77d66cf.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135535",
-        "link": {
-          "title": "I never picked a side between offense and defense, and it became the most useful thing about me",
-          "url": "https://eva-georgieva.medium.com/i-never-picked-a-side-between-offense-and-defense-and-it-became-the-most-useful-thing-about-me-165a890d31d6?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 135534,
-        "text": "⤷\nTitle:\nI Tracked Every Hour I Spent on Bug Bounty for 3 Months. The Result Made Me Want to Quit.\n════════════════════════\n𐀪\nAuthor:\nRiya Limba\n════════════════════════\nⴵ\nTime:\nSun, 11 Oct 2026 12:44:10 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#bug_bounty\n#bug_bounty_tips\n#ethical_hacking\n#osint",
-        "date": "2026-10-11T13:03:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135534_0_d0aef733.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135534_1_742070ed.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135534",
-        "link": {
-          "title": "I Tracked Every Hour I Spent on Bug Bounty for 3 Months. The Result Made Me Want to Quit.",
-          "url": "https://medium.com/@riyalimba/i-tracked-every-hour-i-spent-on-bug-bounty-for-3-months-the-result-made-me-want-to-quit-b52a0abca4cf?source=rss------bug_bounty-5"
-        }
-      },
-      {
-        "id": 135533,
-        "text": "⤷\nTitle:\nExploring SQL Injection with cURL, sqlmap, and Burp Suite\n════════════════════════\n𐀪\nAuthor:\nProbo Krishnacahya\n════════════════════════\nⴵ\nTime:\nSun, 11 Oct 2026 09:04:35 GMT\n════════════════════════\n⌗\nTags:\n#curl\n#sqlmap\n#sql_injection\n#cybersecurity\n#burpsuite",
-        "date": "2026-10-11T11:04:40+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135533_0_d0aef733.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135533_1_72a43312.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135533",
-        "link": {
-          "title": "Exploring SQL Injection with cURL, sqlmap, and Burp Suite",
-          "url": "https://medium.com/@probo_krishnacahya/sql-injection-curl-sqlmap-burp-suite-6deb0e119894?source=rss------sql_injection-5"
-        }
-      },
-      {
-        "id": 135532,
-        "text": "⤷\nTitle:\nI Solved DOOMSDAY lab on hackosquad Here’s How.\n════════════════════════\n𐀪\nAuthor:\nMinhaz\n════════════════════════\nⴵ\nTime:\nSun, 11 Oct 2026 10:24:59 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#tryhackme_walkthrough\n#ctf_walkthrough\n#cybersecurity",
-        "date": "2026-10-11T11:04:37+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135532_0_d0aef733.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135532_1_85a9fc4a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135532",
-        "link": {
-          "title": "I Solved DOOMSDAY lab on hackosquad Here’s How.",
-          "url": "https://medium.com/@minhaz_ethx/i-solved-doomsday-lab-on-hackosquad-heres-how-d655f6d4f522?source=rss------ethical_hacking-5"
-        }
-      },
-      {
-        "id": 135531,
-        "text": "⤷\nTitle:\nCheckPoint Machine — Medium — HackTheBox\n════════════════════════\n𐀪\nAuthor:\n@seantoshare\n════════════════════════\nⴵ\nTime:\nSun, 11 Oct 2026 09:37:30 GMT\n════════════════════════\n⌗\nTags:\n#ctf_writeup\n#hackthebox_writeup",
-        "date": "2026-10-11T11:04:33+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135531_0_d0aef733.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135531_1_c7d63feb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135531",
-        "link": {
-          "title": "CheckPoint Machine — Medium — HackTheBox",
-          "url": "https://medium.com/@vh.viethoangnguyen730/checkpoint-machine-medium-hackthebox-2d7ecb9a37d9?source=rss------hackthebox_writeup-5"
-        }
-      },
-      {
-        "id": 135530,
-        "text": "⤷\nTitle:\nTHM: Inside A Computer System\n════════════════════════\n𐀪\nAuthor:\nIkhlasdansantai\n════════════════════════\nⴵ\nTime:\nSun, 11 Oct 2026 10:23:59 GMT\n════════════════════════\n⌗\nTags:\n#it\n#cybersecurity\n#tryhackme",
-        "date": "2026-10-11T11:04:30+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135530_0_d0aef733.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135530_1_81887614.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135530",
-        "link": {
-          "title": "THM: Inside A Computer System",
-          "url": "https://ikhlasdansantai.medium.com/thm-inside-a-computer-system-5444c3c8ef95?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 135529,
-        "text": "⤷\nTitle:\nHTB — Hospital: From a File Upload to Linux Root and Windows Command Execution\n════════════════════════\n𐀪\nAuthor:\nRoberto Carlino\n════════════════════════\nⴵ\nTime:\nSun, 11 Oct 2026 10:37:45 GMT\n════════════════════════\n⌗\nTags:\n#ethical_hacking\n#hackthebox\n#penetration_testing\n#hackthebox_writeup",
-        "date": "2026-10-11T11:04:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135529_0_d0aef733.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135529_1_eed13508.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135529",
-        "link": {
-          "title": "HTB — Hospital: From a File Upload to Linux Root and Windows Command Execution",
-          "url": "https://medium.com/@robertocarlino_33520/hospital-from-a-file-upload-to-linux-root-and-windows-command-execution-24c1f454eed3?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 135528,
-        "text": "⤷\nTitle:\nFrom HTTP Requests to Web Reconnaissance: Understanding the Foundations of Web Security\n════════════════════════\n𐀪\nAuthor:\nAlaa khalafallah\n════════════════════════\nⴵ\nTime:\nSun, 11 Oct 2026 10:49:23 GMT\n════════════════════════\n⌗\nTags:\n#web_security\n#web_reconnaissance\n#penetration_testing\n#cybersecurity\n#security",
-        "date": "2026-10-11T11:04:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135528_0_d0aef733.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135528_1_2f662582.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135528",
-        "link": {
-          "title": "From HTTP Requests to Web Reconnaissance: Understanding the Foundations of Web Security",
-          "url": "https://medium.com/@alaakhalafallah25/from-http-requests-to-web-reconnaissance-understanding-the-foundations-of-web-security-d6514ed58597?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 135527,
-        "text": "⤷\nTitle:\nJackpot: How I Emptied an ATM Without a Card, a PIN, or a Single Transaction\n════════════════════════\n𐀪\nAuthor:\nGHOSTEYE\n════════════════════════\nⴵ\nTime:\nSun, 11 Oct 2026 09:39:20 GMT\n════════════════════════\n⌗\nTags:\n#infosec\n#network_security\n#tryhackme\n#vulnerability_research\n#reverse_engineering",
-        "date": "2026-10-11T11:04:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135527_0_d0aef733.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135527_1_1a62f31d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135527",
-        "link": {
-          "title": "Jackpot: How I Emptied an ATM Without a Card, a PIN, or a Single Transaction",
-          "url": "https://medium.com/@Ghosteye44/jackpot-how-i-emptied-an-atm-without-a-card-a-pin-or-a-single-transaction-3ab7f8722b17?source=rss------infosec-5"
-        }
-      },
-      {
-        "id": 135526,
-        "text": "⤷\nTitle:\nYour Mac Can Make AI Videos Now\n════════════════════════\n𐀪\nAuthor:\nDavid Krcek\n════════════════════════\nⴵ\nTime:\nSun, 11 Oct 2026 09:10:47 GMT\n════════════════════════\n⌗\nTags:\n#hacking\n#ai\n#cats\n#apple_silicon\n#apple",
-        "date": "2026-10-11T11:04:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135526_0_d0aef733.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135526_1_266dda3f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135526",
-        "link": {
-          "title": "Your Mac Can Make AI Videos Now",
-          "url": "https://switch2mac.medium.com/your-mac-can-make-ai-videos-now-c38e5db43c65?source=rss------hacking-5"
-        }
-      },
-      {
-        "id": 135525,
-        "text": "⤷\nTitle:\nBBSCute — OffSec Proving Grounds Walkthrough: From CuteNews to Root\n════════════════════════\n𐀪\nAuthor:\nAnju\n════════════════════════\nⴵ\nTime:\nSun, 11 Oct 2026 09:28:24 GMT\n════════════════════════\n⌗\nTags:\n#offsec\n#hacking\n#walkthrough\n#cybersecurity",
-        "date": "2026-10-11T11:04:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135525_0_d0aef733.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135525_1_a3a50e7c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135525",
-        "link": {
-          "title": "BBSCute — OffSec Proving Grounds Walkthrough: From CuteNews to Root",
-          "url": "https://medium.com/@infinitisecurity32/bbscute-offsec-proving-grounds-walkthrough-from-cutenews-to-root-e7a0d08dbf54?source=rss------hacking-5"
-        }
       }
     ]
   },
-  "last_update": "2026-10-12T19:13:29.484482+00:00",
+  "last_update": "2026-10-13T01:30:21.901768+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2295,7 +2295,7 @@
     },
     "referenced_files": 195,
     "existing_media_files": 195,
-    "total_size_mb": 5.85,
-    "last_calculation": "2026-10-12T19:13:29.486385+00:00"
+    "total_size_mb": 5.86,
+    "last_calculation": "2026-10-13T01:30:21.904144+00:00"
   }
 }
