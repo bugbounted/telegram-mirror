@@ -2,6 +2,98 @@
   "channels": {
     "Daily_Writeups": [
       {
+        "id": 135859,
+        "text": "⤷\nTitle:\nStealing Plaintext Windows Credentials: LogonStealer\n════════════════════════\n𐀪\nAuthor:\nS12 - 0x12Dark Development\n════════════════════════\nⴵ\nTime:\nTue, 13 Oct 2026 21:31:56 GMT\n════════════════════════\n⌗\nTags:\n#pentesting\n#cybersecurity\n#hacker\n#infosec\n#malware",
+        "date": "2026-10-13T23:03:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135859_0_e143dca1.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135859_1_f54a72df.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135859",
+        "link": {
+          "title": "Stealing Plaintext Windows Credentials: LogonStealer",
+          "url": "https://medium.com/@s12deff/stealing-plaintext-windows-credentials-logonstealer-26bbed6c3875?source=rss------infosec-5"
+        }
+      },
+      {
+        "id": 135858,
+        "text": "⤷\nTitle:\nGitea Guarded Three Doors and Forgot the Fourth\n════════════════════════\n𐀪\nAuthor:\nMayssare\n════════════════════════\nⴵ\nTime:\nTue, 13 Oct 2026 21:46:10 GMT\n════════════════════════\n⌗\nTags:\n#cve_2026_89430\n#gitea\n#ssrf\n#bug_bounty\n#cybersecurity",
+        "date": "2026-10-13T23:03:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135858_0_e143dca1.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135858_1_1e7603fb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135858",
+        "link": {
+          "title": "Gitea Guarded Three Doors and Forgot the Fourth",
+          "url": "https://mayssare.medium.com/gitea-guarded-three-doors-and-forgot-the-fourth-e44d6e76e5e6?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 135857,
+        "text": "⤷\nTitle:\nGuidelines: Top Platforms to Find a Professional Hacker > Smatchoicehackers.com\n════════════════════════\n𐀪\nAuthor:\nSmatchoiceHackers Update\n════════════════════════\nⴵ\nTime:\nTue, 13 Oct 2026 22:48:32 GMT\n════════════════════════\n⌗\nTags:\n#bugcrowd\n#cybersecurity\n#cyber_awareness\n#guidelines\n#bug_bounty",
+        "date": "2026-10-13T23:03:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135857_0_e143dca1.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135857_1_976768a7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135857",
+        "link": {
+          "title": "Guidelines: Top Platforms to Find a Professional Hacker > Smatchoicehackers.com",
+          "url": "https://medium.com/@smatchoicehackersupdate/guidelines-top-platforms-to-find-a-professional-hacker-smatchoicehackers-com-90ad35c86c45?source=rss------bug_bounty-5"
+        }
+      },
+      {
+        "id": 135856,
+        "text": "⤷\nTitle:\nAI Scams Target Crypto Users, Not Protocols, and Wallet Security Is Catching Up\n════════════════════════\n𐀪\nAuthor:\nOwais Sultan\n════════════════════════\nⴵ\nTime:\nTue, 13 Oct 2026 21:29:57 +0000\n════════════════════════\n⌗\nTags:\n#Security\n#Crypto\n#Scams\nand Fraud\n#AI\n#Cybersecurity\n#Fraud\n#Scam\n#Wallet\nSecurity",
+        "date": "2026-10-13T23:03:46+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135856_0_e143dca1.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Daily_Writeups_135856_1_8078e01f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Daily_Writeups/135856",
+        "link": {
+          "title": "AI Scams Target Crypto Users, Not Protocols, and Wallet Security Is Catching Up",
+          "url": "https://hackread.com/ai-scams-target-crypto-users-protocols-wallet-security/"
+        }
+      },
+      {
         "id": 135855,
         "text": "⤷\nTitle:\nBir Hacker Gibi Düşünmek — #9\n════════════════════════\n𐀪\nAuthor:\nAbdulkadir Kayacan\n════════════════════════\nⴵ\nTime:\nTue, 13 Oct 2026 19:08:57 GMT\n════════════════════════\n⌗\nTags:\n#siber_guvenlik\n#sql_injection\n#sql\n#sql_injection_attack\n#hacker",
         "date": "2026-10-13T21:04:11+00:00",
@@ -2192,102 +2284,10 @@
           "title": "Cybersecurity for Beginners: Essential Skills, Tools, and Career Roadmap in 2026",
           "url": "https://medium.com/@bohatji222003/cybersecurity-for-beginners-essential-skills-tools-and-career-roadmap-in-2026-2e2182f7539c?source=rss------ethical_hacking-5"
         }
-      },
-      {
-        "id": 135620,
-        "text": "⤷\nTitle:\nSunset: Nightfall — From Network Enumeration to Root Access\n════════════════════════\n𐀪\nAuthor:\nAbdelmoneim Belal\n════════════════════════\nⴵ\nTime:\nMon, 12 Oct 2026 08:22:03 GMT\n════════════════════════\n⌗\nTags:\n#network_enumeration\n#vulnhub\n#cybersecurity\n#ctf\n#nightfall",
-        "date": "2026-10-12T09:04:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135620_0_4a3e3109.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135620_1_3c5e2cff.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135620",
-        "link": {
-          "title": "Sunset: Nightfall — From Network Enumeration to Root Access",
-          "url": "https://medium.com/@abdobelal069/sunset-nightfall-from-network-enumeration-to-root-access-8f62fbe4ed9e?source=rss------vulnhub-5"
-        }
-      },
-      {
-        "id": 135619,
-        "text": "⤷\nTitle:\nJackpot Write-up\n════════════════════════\n𐀪\nAuthor:\nBytex\n════════════════════════\nⴵ\nTime:\nMon, 12 Oct 2026 08:31:27 GMT\n════════════════════════\n⌗\nTags:\n#tryhackme_writeup\n#tryhackme\n#cybersecurity\n#ctf_writeup\n#tryhackme_walkthrough",
-        "date": "2026-10-12T09:04:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135619_0_4a3e3109.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135619_1_eba43276.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135619",
-        "link": {
-          "title": "Jackpot Write-up",
-          "url": "https://secbytex.medium.com/jackpot-write-up-6c2b19e7f751?source=rss------tryhackme-5"
-        }
-      },
-      {
-        "id": 135618,
-        "text": "⤷\nTitle:\nVulnNet: Internal — TryHackMe Walktrough\n════════════════════════\n𐀪\nAuthor:\nStephvannes Samuel Kevin\n════════════════════════\nⴵ\nTime:\nMon, 12 Oct 2026 07:55:05 GMT\n════════════════════════\n⌗\nTags:\n#cybersecurity\n#penetration_testing\n#linux\n#privilege_escalation\n#tryhackme",
-        "date": "2026-10-12T09:04:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135618_0_4a3e3109.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135618_1_f3c54bd1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135618",
-        "link": {
-          "title": "VulnNet: Internal — TryHackMe Walktrough",
-          "url": "https://medium.com/@kevin33111/vulnnet-internal-tryhackme-walktrough-4cc385626f27?source=rss------penetration_testing-5"
-        }
-      },
-      {
-        "id": 135617,
-        "text": "⤷\nTitle:\nApplication Penetration Testing: A Complete Guide to Securing Business Applications\n════════════════════════\n𐀪\nAuthor:\nMitigate IT Security\n════════════════════════\nⴵ\nTime:\nMon, 12 Oct 2026 08:36:14 GMT\n════════════════════════\n⌗\nTags:\n#penetration_testing\n#cybersecurity_service",
-        "date": "2026-10-12T09:04:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135617_0_4a3e3109.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Daily_Writeups_135617_1_4ecbd39e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Daily_Writeups/135617",
-        "link": {
-          "title": "Application Penetration Testing: A Complete Guide to Securing Business Applications",
-          "url": "https://medium.com/@mitigateitsecurity72/application-penetration-testing-a-complete-guide-to-securing-business-applications-034d8635aa7c?source=rss------penetration_testing-5"
-        }
       }
     ]
   },
-  "last_update": "2026-10-13T21:24:11.695104+00:00",
+  "last_update": "2026-10-14T00:26:10.672510+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 100,
@@ -2299,7 +2299,7 @@
     },
     "referenced_files": 196,
     "existing_media_files": 196,
-    "total_size_mb": 5.03,
-    "last_calculation": "2026-10-13T21:24:11.696855+00:00"
+    "total_size_mb": 4.99,
+    "last_calculation": "2026-10-14T00:26:10.674933+00:00"
   }
 }
